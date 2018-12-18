@@ -652,56 +652,50 @@
             }
         ]
     }, 
-    "Session:Translation# 77c3190bc171a00b917ebe4b0e43265b": {
-        "Held in language": [
-            "en - English"
-        ], 
+    "Session:LehrerInnenstammtisch# d6267ed88191bbf4d99f44696b95cb7b": {
+        "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1546026300", 
-                "raw": "1/2018/12/28/19/45/0/0"
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
+        "Has description": [], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Translation"
+            "LehrerInnenstammtisch"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "e1ea79e7-a487-4c99-86b2-c2533b22fe69"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:LehrerInnenstammtisch", 
         "Has end time": [
             {
-                "timestamp": "1546031700", 
-                "raw": "1/2018/12/28/21/15/0/0"
+                "timestamp": "1545922800", 
+                "raw": "1/2018/12/27/15/0/0/0"
             }
         ]
     }, 
@@ -2276,6 +2270,59 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Translation# 77c3190bc171a00b917ebe4b0e43265b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546026300", 
+                "raw": "1/2018/12/28/19/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1546031700", 
+                "raw": "1/2018/12/28/21/15/0/0"
             }
         ]
     }, 
