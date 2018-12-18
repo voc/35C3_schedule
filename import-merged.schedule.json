@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2 0.9,7 v1.0 2018-12-18 07:50", 
+        "version": "Buffy 2 0.9.8 v1.0 2018-12-18 08:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -4875,6 +4875,37 @@
                                         "id": 6, 
                                         "name": "Andreas Dorfer", 
                                         "biography": "https://forum.freifunk.net/u/adorfer/", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 78, 
+                                "guid": "a5cd48d1-6d8c-5be9-a17b-f229db0e3689", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:50", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "V8RTSW", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/V8RTSW", 
+                                "title": "Open Prototype Fund", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk 50min total (etwa 15min  Q&A)", 
+                                "language": "en", 
+                                "abstract": "The Prototype Fund is a funding program for Public Interest Techfirst of its kind in Germany and supports independent software developers, hackers and creative people in implementing their open source ideas from concept to first demo. Since 2016, we (Adriana, Elisa, Fiona, Julia and Katharina) have been working to break down existing structures and narratives in the field of innovation funding and to encourage meaningful digital solutions for society in Software Infrastructure, IT-Security, Data Literacy and Civic Tech. We want to get to know you and your ideas and talk about how we, together with politicians, developers and other initiators from the (active) civil society, can best support, develop and make visible good digital-social innovation practices from the perspective of the community. Which decisions are necessary in the future, what are meaningful political demands? And which are the next big things in Tech? Get to know us, ask us everything, recover from the hustle and bustle of the congress!", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 81, 
+                                        "name": "Katharina Meyer", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 

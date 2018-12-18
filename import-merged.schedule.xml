@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2 0.9,7 v1.0 2018-12-18 07:50</version>
+  <version>Buffy 2 0.9.8 v1.0 2018-12-18 08:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -5420,6 +5420,35 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
           <person id="6">
             <name>Andreas Dorfer</name>
             <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="78" guid="a5cd48d1-6d8c-5be9-a17b-f229db0e3689">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>V8RTSW</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/V8RTSW</url>
+        <title>Open Prototype Fund</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>The Prototype Fund is a funding program for Public Interest Techfirst of its kind in Germany and supports independent software developers, hackers and creative people in implementing their open source ideas from concept to first demo. Since 2016, we (Adriana, Elisa, Fiona, Julia and Katharina) have been working to break down existing structures and narratives in the field of innovation funding and to encourage meaningful digital solutions for society in Software Infrastructure, IT-Security, Data Literacy and Civic Tech. We want to get to know you and your ideas and talk about how we, together with politicians, developers and other initiators from the (active) civil society, can best support, develop and make visible good digital-social innovation practices from the perspective of the community. Which decisions are necessary in the future, what are meaningful political demands? And which are the next big things in Tech? Get to know us, ask us everything, recover from the hustle and bustle of the congress!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="81">
+            <name>Katharina Meyer</name>
+            <biography/>
           </person>
         </persons>
         <links/>
