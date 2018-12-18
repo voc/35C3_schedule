@@ -2654,14 +2654,14 @@
             }
         ]
     }, 
-    "Session:Translation# deaf5bb2068046086e37fea974830293": {
+    "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 65f48cb80c82b39935db42824500e8d1": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546182600", 
-                "raw": "1/2018/12/30/15/10/0/0"
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
             }
         ], 
         "Has event track": [
@@ -2669,41 +2669,47 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+            "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Translation Meeting"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Franz", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Translation"
+            "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "212f5815-675d-41df-be82-a6fe8d6c0e93"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python", 
         "Has end time": [
             {
-                "timestamp": "1546188000", 
-                "raw": "1/2018/12/30/16/40/0/0"
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
             }
         ]
     }, 
@@ -3256,6 +3262,59 @@
             {
                 "timestamp": "1545870600", 
                 "raw": "1/2018/12/27/0/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Translation# deaf5bb2068046086e37fea974830293": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1546188000", 
+                "raw": "1/2018/12/30/16/40/0/0"
             }
         ]
     }, 
