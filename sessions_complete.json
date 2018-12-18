@@ -194,7 +194,9 @@
         "Has description": [
             "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [], 
         "Has subtitle": [
             "Day 4 (all sessions are independent from each other)"
@@ -549,48 +551,6 @@
             {
                 "timestamp": "1546029000", 
                 "raw": "1/2018/12/28/20/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Gamma Radiation Monitoring# 9973ee7811b4e776633c88236e87cfed": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Meeting of Citizen networks. 40 years of DIY gamma radiation measures. How to pick the fission out of big data blues"
-        ], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Gamma Radiation Monitoring"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "8928bbe8-abe0-4d69-8887-49480e6bef00"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
-        "Has end time": [
-            {
-                "timestamp": "1546119000", 
-                "raw": "1/2018/12/29/21/30/0/0"
             }
         ]
     }, 
@@ -1947,6 +1907,50 @@
             }
         ]
     }, 
+    "Session:Gamma Radiation Monitoring# fe0d32df1de5798bf4326f516fb2ea2e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wrapping up 40 years of DIY gamma radiation measures. and measurement devices. How to pick the fission out of atmosphere by citizen data science"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Civic Rad Protector's Meeting ."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Gamma Radiation Monitoring"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8928bbe8-abe0-4d69-8887-49480e6bef00"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
+        "Has end time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ]
+    }, 
     "Session:A/V Angel Meeting# 4c50e6e8769737f50c4fd6771cc1b35d": {
         "Held in language": [
             "de - German", 
@@ -2166,7 +2170,9 @@
         "Has description": [
             "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [], 
         "Has subtitle": [
             "Day 2 (all sessions are independent from each other)"
@@ -2385,7 +2391,9 @@
         "Has description": [
             "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Talk"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:CCL Hall 3", 
@@ -2396,7 +2404,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Wondrous Mathematics: The curious world of four-dimensional geometry"
         ], 
@@ -2495,7 +2511,9 @@
         "Has description": [
             "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [], 
         "Has subtitle": [
             "Day 3 (all sessions are independent from each other)"
@@ -3553,7 +3571,9 @@
         "Has description": [
             "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
         "Has session location": [], 
         "Has subtitle": [
             "Day 1 (all sessions are independent from each other)"

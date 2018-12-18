@@ -949,11 +949,17 @@
                                 "title": "Wondrous Mathematics: The curious world of four-dimensional geometry", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
+                                "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry"
                                 ]
@@ -1941,6 +1947,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-18 10:10"
+        "version": "2018-12-18 10:20"
     }
 }
