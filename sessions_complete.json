@@ -1209,6 +1209,65 @@
             }
         ]
     }, 
+    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 70d9f011f64986213884403fbfa42c83": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009800", 
+                "raw": "1/2018/12/28/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Wondrous Mathematics: The curious world of four-dimensional geometry"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "afaf3909-6630-40af-b377-174b0d319796"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry", 
+        "Has end time": [
+            {
+                "timestamp": "1546013400", 
+                "raw": "1/2018/12/28/16/10/0/0"
+            }
+        ]
+    }, 
     "Session:Tuwat AG Kritis# 72fe7287b6818b01b7a770fc1091c54a": {
         "Held in language": [], 
         "Has start time": [
@@ -2427,14 +2486,15 @@
             }
         ]
     }, 
-    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 70d9f011f64986213884403fbfa42c83": {
+    "Session:Memorizing pi for fun (not for profit)# 079d4570707aeccc568cd7327b217566": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546009800", 
-                "raw": "1/2018/12/28/15/10/0/0"
+                "timestamp": "1545925500", 
+                "raw": "1/2018/12/27/15/45/0/0"
             }
         ], 
         "Has event track": [
@@ -2442,21 +2502,15 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
+            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
         ], 
         "Has session type": [
-            "Talk"
+            "Hands-On"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 1 (all sessions are independent from each other)"
         ], 
-        "Has subtitle": [], 
         "Is organized by": [
             {
                 "fulltext": "User:Iblech", 
@@ -2467,22 +2521,22 @@
             }
         ], 
         "Has title": [
-            "Wondrous Mathematics: The curious world of four-dimensional geometry"
+            "Memorizing pi for fun (not for profit)"
         ], 
         "Has duration": [
-            60
+            15
         ], 
         "GUID": [
-            "afaf3909-6630-40af-b377-174b0d319796"
+            "2ee4399d-d40c-4ba7-80a8-84de8ce6b219"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
         "Has end time": [
             {
-                "timestamp": "1546013400", 
-                "raw": "1/2018/12/28/16/10/0/0"
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
             }
         ]
     }, 
@@ -3488,57 +3542,59 @@
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# 079d4570707aeccc568cd7327b217566": {
+    "Session:Konsens-Workshop# 79d2924714fbd453c7e9f112b57e5c46": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545925500", 
-                "raw": "1/2018/12/27/15/45/0/0"
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://premium-kollektiv.de"
+        ], 
         "Has description": [
-            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!"
+            "Learn with me the basics of our collectives consensus driven decision making process, a process the premium collective uses for 17 years so far."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 1 (all sessions are independent from each other)"
-        ], 
-        "Is organized by": [
+        "Has session location": [
             {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
+        "Has subtitle": [
+            "Consensus decision making for social change and softdrinks distribution."
+        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Memorizing pi for fun (not for profit)"
+            "Konsens-Workshop"
         ], 
         "Has duration": [
-            15
+            90
         ], 
         "GUID": [
-            "2ee4399d-d40c-4ba7-80a8-84de8ce6b219"
+            "510840f6-a273-42f3-89ee-d62ce607f9f6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Konsens-Workshop", 
         "Has end time": [
             {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
             }
         ]
     }, 
