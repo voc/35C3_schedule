@@ -1444,65 +1444,6 @@
             }
         ]
     }, 
-    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 70d9f011f64986213884403fbfa42c83": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546009800", 
-                "raw": "1/2018/12/28/15/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:CCL_Hall_3", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: The curious world of four-dimensional geometry"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "afaf3909-6630-40af-b377-174b0d319796"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry", 
-        "Has end time": [
-            {
-                "timestamp": "1546013400", 
-                "raw": "1/2018/12/28/16/10/0/0"
-            }
-        ]
-    }, 
     "Session:Arch Linux Meetup# 74b3f10b249ea3c46dfa48e29dbb486e": {
         "Held in language": [
             "en - English"
@@ -2838,25 +2779,28 @@
             }
         ]
     }, 
-    "Session:Translation# 86c84ab2eedcc81630dcd9e0e53111cc": {
+    "Session:A/V Angel Meeting# 74cf5b9cf636ddeea76dc62d3f0487ef": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545939900", 
-                "raw": "1/2018/12/27/19/45/0/0"
+                "timestamp": "1545865200", 
+                "raw": "1/2018/12/26/23/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
         "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+            "Daily Meetup for A/V Angels"
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [
             {
@@ -2868,26 +2812,26 @@
             }
         ], 
         "Has subtitle": [
-            "Translation Meeting"
+            "Daily A/V Angel Meeting - Day 0 (Shift Assignment)"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "Translation"
+            "A/V Angel Meeting"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
             {
-                "timestamp": "1545945300", 
-                "raw": "1/2018/12/27/21/15/0/0"
+                "timestamp": "1545870600", 
+                "raw": "1/2018/12/27/0/30/0/0"
             }
         ]
     }, 
@@ -3658,6 +3602,67 @@
             }
         ]
     }, 
+    "Session:Poetry Slam Workshop# 8876e466110c2bf4206b1811f743d648": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546014600", 
+                "raw": "1/2018/12/28/16/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html"
+        ], 
+        "Has description": [
+            "Eine kurze Einf\u00fchrung in den humoristischen Dichterwettstreit"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Roikiermedia", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Poetry Slam Workshop"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "e75da001-77b7-402d-82b3-943157807136"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ]
+    }, 
     "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
         "Held in language": [
             "de - German"
@@ -3828,27 +3833,25 @@
             }
         ]
     }, 
-    "Session:Poetry Slam Workshop# 304e756ce365fe8ec7b2521b109ab048": {
+    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 70d9f011f64986213884403fbfa42c83": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546014600", 
-                "raw": "1/2018/12/28/16/30/0/0"
+                "timestamp": "1546009800", 
+                "raw": "1/2018/12/28/15/10/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Eine kurze Einf\u00fchrung in den humoristischen Dichterwettstreit"
+            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
@@ -3862,30 +3865,30 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Roikiermedia", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia", 
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Poetry Slam Workshop"
+            "Wondrous Mathematics: The curious world of four-dimensional geometry"
         ], 
         "Has duration": [
-            90
+            60
         ], 
         "GUID": [
-            "e75da001-77b7-402d-82b3-943157807136"
+            "afaf3909-6630-40af-b377-174b0d319796"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry", 
         "Has end time": [
             {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
+                "timestamp": "1546013400", 
+                "raw": "1/2018/12/28/16/10/0/0"
             }
         ]
     }, 
@@ -4580,28 +4583,25 @@
             }
         ]
     }, 
-    "Session:A/V Angel Meeting# 74cf5b9cf636ddeea76dc62d3f0487ef": {
+    "Session:Translation# 86c84ab2eedcc81630dcd9e0e53111cc": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545865200", 
-                "raw": "1/2018/12/26/23/0/0/0"
+                "timestamp": "1545939900", 
+                "raw": "1/2018/12/27/19/45/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Daily Meetup for A/V Angels"
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
         ], 
         "Has session type": [
-            "Discussion"
+            "Meeting"
         ], 
         "Has session location": [
             {
@@ -4613,26 +4613,26 @@
             }
         ], 
         "Has subtitle": [
-            "Daily A/V Angel Meeting - Day 0 (Shift Assignment)"
+            "Translation Meeting"
         ], 
         "Is organized by": [], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Translation"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
         "Has end time": [
             {
-                "timestamp": "1545870600", 
-                "raw": "1/2018/12/27/0/30/0/0"
+                "timestamp": "1545945300", 
+                "raw": "1/2018/12/27/21/15/0/0"
             }
         ]
     }, 
