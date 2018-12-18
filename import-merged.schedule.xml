@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2 0.9.8 v1.1 2018-12-18 14:20</version>
+  <version>Buffy 2.1 0.9.8 v1.1 2018-12-18 14:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -1983,6 +1983,35 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
     <room name="Vintage Computing Cluster"/>
     <room name="c-base"/>
     <room name="Chaos West Bühne">
+      <event id="67" guid="2184122e-03b0-5730-bedf-dc8015807a56">
+        <logo/>
+        <date>2018-12-27T10:45:00+00:00</date>
+        <start>10:45</start>
+        <duration>00:15</duration>
+        <room>Chaos West Bühne</room>
+        <slug>T3RMSP</slug>
+        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/T3RMSP</url>
+        <title>Opening der Chaos-West Stage</title>
+        <subtitle/>
+        <track/>
+        <type>Einfacher Slot mit optionalen Q+A</type>
+        <language>de</language>
+        <abstract>Opening der Chaos-West Stage</abstract>
+        <description>Opening der Chaos-West Stage</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="85">
+            <name>Chaos-West</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="64" guid="fefd1797-166c-5d43-9582-f6b23fa8c225">
         <logo/>
         <date>2018-12-27T11:00:00+00:00</date>
@@ -2329,29 +2358,33 @@ Wir beschreiben, wie der Vergleich durchgeführt wird und wie die Daten erfasst 
         <attachments/>
         <answers/>
       </event>
-      <event id="30" guid="194c8cce-8610-5b85-bb68-5fd01b061f6f">
+      <event id="68" guid="9c7b5d1d-6f78-5935-9aa5-bf10bf26e54e">
         <logo/>
         <date>2018-12-27T22:00:00+00:00</date>
         <start>22:00</start>
         <duration>00:50</duration>
         <room>Chaos West Bühne</room>
-        <slug>MLPM8D</slug>
-        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/MLPM8D</url>
-        <title>The Zwiebelfreunde/Riseup/OpenLab Raids</title>
+        <slug>YKLGHA</slug>
+        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/YKLGHA</url>
+        <title>Die Faxgeräte im Zentrum der Macht</title>
         <subtitle/>
         <track/>
         <type>Doppelter Slot 40 Minuten + 10 Minuten Q+A</type>
-        <language>en</language>
-        <abstract>The police raided seven locations in Germany and confiscated equipment and documents, in search for user data of a Riseup account. In this talk, we will cover what happened and why, and how we will be better prepared for the next raid.</abstract>
-        <description>On June 20th 2018, state security police raided initially five locations across Germany, nicely coordinated at 6:00 in the morning: The private homes of the three board members of Zwiebelfreunde e.V., Jens, Juris and Moritz, their registered headquarters in Dresden (a lawyer’s office), and the home of a previous board member. The raid was later extended to another office in Berlin and the OpenLab Augsburg hackerspace. Three people were temporarily arrested, lots of equipment was seized, 3D printed bombs were confiscated, weird people and cars were seen on the street in front of the hackerspace for a couple of days. Fun.</description>
+        <language>de</language>
+        <abstract>Die Faxgeräte im Zentrum der Macht</abstract>
+        <description>Die Faxgeräte im Zentrum der Macht</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="42">
-            <name>mo</name>
-            <biography>.</biography>
+          <person id="91">
+            <name>ijon</name>
+            <biography/>
+          </person>
+          <person id="92">
+            <name>Julia Krüger</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -8223,13 +8256,13 @@ These are the biggest firmware trends of 2018, according to these two people</de
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="65">
-            <name>Mimoja</name>
-            <biography>Mimoja is a western german hacker with a focus on firmware, hardware and security.</biography>
-          </person>
           <person id="64">
             <name>bibor</name>
             <biography>bibor is a random hacker with and interest in firmware, hardware and their security.</biography>
+          </person>
+          <person id="65">
+            <name>Mimoja</name>
+            <biography>Mimoja is a western german hacker with a focus on firmware, hardware and security.</biography>
           </person>
         </persons>
         <links/>
@@ -8342,15 +8375,15 @@ Das GeoPortal des Guten Lebens wird gemeinsam von der zivilgesellschaftlichen Or
             <name>Benedikt</name>
             <biography>twitter.com/kleinbenny</biography>
           </person>
-          <person id="78">
-            <name>Ralf</name>
-            <biography/>
-          </person>
           <person id="77">
             <name>Jana</name>
             <biography>Jana is an UX, Communication and Public Interest Designer from Wuppertal. She works for the project "GeoPortal des Guten Lebens" at the Center for Transformation Research and Sustainability (TransZent) at the University of Wuppertal.&#13;
 &#13;
 Twitter: @JanaGreen | janapahlkoetter.de</biography>
+          </person>
+          <person id="78">
+            <name>Ralf</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -8420,17 +8453,17 @@ Außerdem berichten wir von einem anderen Anlauf, der in diese Richtung schon 20
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="23">
-            <name>nomaster</name>
-            <biography>Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.</biography>
+          <person id="47">
+            <name>ytvwld</name>
+            <biography>Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.</biography>
           </person>
           <person id="57">
             <name>hanemile</name>
             <biography>{Python, Go} {TFG, HHU, @chaosdorf} {ENERGIE!}</biography>
           </person>
-          <person id="47">
-            <name>ytvwld</name>
-            <biography>Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.</biography>
+          <person id="23">
+            <name>nomaster</name>
+            <biography>Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.</biography>
           </person>
         </persons>
         <links/>
@@ -9866,15 +9899,15 @@ Kommt also zur Chaos-West Bühne und lasst die Nacht voller Energie ausklingen z
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="10">
-            <name>DrLuke</name>
-            <biography>I am VJ Pyree</biography>
-          </person>
           <person id="28">
             <name>Alexeyan</name>
             <biography>CTF-Spieler und DJ&#13;
 https://twitter.com/Alexeyan2&#13;
 https://www.mixcloud.com/Alexeyan/</biography>
+          </person>
+          <person id="10">
+            <name>DrLuke</name>
+            <biography>I am VJ Pyree</biography>
           </person>
         </persons>
         <links/>
@@ -9883,8 +9916,8 @@ https://www.mixcloud.com/Alexeyan/</biography>
       </event>
       <event id="15" guid="513a294c-0102-5ccb-83e5-a0788c1107bf">
         <logo/>
-        <date>2018-12-30T01:55:00+00:00</date>
-        <start>01:55</start>
+        <date>2018-12-30T02:00:00+00:00</date>
+        <start>02:00</start>
         <duration>02:00</duration>
         <room>Chaos West Bühne</room>
         <slug>FE8ABF</slug>
@@ -9945,35 +9978,31 @@ Bislang habe ich 5 Artikel von unterschiedlicher Qualität in 2600 veröffentlic
         <attachments/>
         <answers/>
       </event>
-      <event id="56" guid="68619725-72ae-5645-8b6c-8e645e5d9c47">
+      <event id="43" guid="afa54ff4-f64e-5426-b822-50342f5d4ce9">
         <logo/>
         <date>2018-12-30T12:00:00+00:00</date>
         <start>12:00</start>
         <duration>00:50</duration>
         <room>Chaos West Bühne</room>
-        <slug>MRKBBU</slug>
-        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/MRKBBU</url>
-        <title>It's not rocket science</title>
+        <slug>RDVAAZ</slug>
+        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/RDVAAZ</url>
+        <title>Informationssicherheit &amp; IT-Risikomanagement am Beispiel der Bank B</title>
         <subtitle/>
         <track/>
         <type>Doppelter Slot 40 Minuten + 10 Minuten Q+A</type>
-        <language>en</language>
-        <abstract>Space is hard, but not that hard. Despite progress in technology, and cheaper rockets, science in space is becoming ever more expensive. Even copies of old missions now cost 2-4x as much. Better solutions are available, some taken straight from smartphones and consumer cameras.</abstract>
-        <description>Satellite hardware is not magic dust. It's a piece of electronics in a somewhat exotic environment. These days, hardware development has progressed to the point where off-the-shelf hardware can be used in space.  Improving performance, while cutting costs to a fraction. &#13;
+        <language>de</language>
+        <abstract>Gerade im Bereich der IT halten externe Berater (und auch Mitarbeiter) sich oft mehr oder weniger an den Vorgaben der Aufsicht fest. So manch einer hat keine Ahnung, ob das eigentlich zielführend ist - und von was redet der Techniker am anderen Ende des Tisches da eigentlich?!?!!!??? Garniert mit eigenen Anekdoten, kleinen fiktiven Beispielen und absolut tauglich für Anfänger: Informationssicherheit &amp; IT-Risikomanagement am Beispiel der Bank B!</abstract>
+        <description>Zum Aufwärmen: Datenschutz und Informationssicherheit. Wo ist der Unterschied? Dann die drei Schutzziele Vertrautlichkeit / Integrität / Verfügbarkeit am Anfang des Regelkreises zur Informationssicherheit: welchen Schutzbedarf haben meine Informationen? Welche Prozesse wirken darauf ein? Auf welchem Server liegen die Informationen eigentlich? Hat meine Anwendung eine Schnittstelle? Warum stellen diese Leute immer so viele Fragen? Bisher ist doch auch nichts passiert? Dann mach ich halt mal was.... spätestens an dieser Stelle atme ich normalerweise tief durch. Dann kommt nämlich der Part, an dem erklärt wird: nö, ist nicht. &#13;
 &#13;
-Professional star trackers cost several hundred thousand dollars a piece. But it is just a simple camera and the necessary software to find and track star constellations. Consumer hardware, like CPUs and camera chips, is essentially space-rated by default. Silicon-on-insulator used to be special hardware for radiation environments, but is now used in consumer electronics. &#13;
-&#13;
-Cheaper rockets became possible by pragmatic rocket engineering, notably by SpaceX but also Russian rockets still flying today. The ideas had been around for a long time. European, Chinese and Indian Launcher provide some examples on how to achieve reductions in launch cost and how not to achieve them.&#13;
-&#13;
-Cheaper rockets in many cases also allow higher mass to be traded for lower prices. Larger margins reduce work for quality control and modular systems reuse old engineering hardware in new missions. Higher satellite mass become increasingly acceptable, if they reduce development and manufacturing cost. And none of this is rocket science.</description>
+Wenn dann weißer Rauch aufsteigt, und alle irgendwie zufrieden sind, kommt das Restrisiko. Wie, noch mehr zu tun?! Ja! Dann werden Risiken eingestellt, bewertet, und "gemanaged", berichtet, abgelehnt, verloren, wiedergefunden, mitigiert und irgendwie zu einem eigenen Süppchen gekocht. Dabei könnte es so schön sein (vollständiges, adressatengerechtes Reporting *hüstel*). Der zweite Teil beinhaltet dann also die Risikoanalyse. Über die Klärung, was eigentlich ein Risiko und eine Bedrohung ist, quantifizierter vs. qualifiziertes Ansatz, Risikobehandlung, Eintrittswahrscheinlichkeit &amp; Schadenshöhe.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="69">
-            <name>Frank Wunderlich-Pfeiffer</name>
-            <biography>I'm a journalist working for [Golem.de] (https://www.golem.de/specials/autor-frank-wunderlich-pfeiffer/) Covering spaceflight and other topics in science and technology.</biography>
+          <person id="59">
+            <name>Diula</name>
+            <biography>Chaosdorf-Member &lt;3 mit Vorliebe für Informationssicherheit, Prozesse und Anweisungen. Findet gerne heraus wie Dinge funktionieren, stellt Fragen und dokumentiert die Ergebnisse. Im Finanzbereich unterwegs.</biography>
           </person>
         </persons>
         <links/>
@@ -10016,11 +10045,6 @@ Registrierung als Gründungsinteressent: Leere Mail mit Betreff "Interesse" an g
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="51">
-            <name>therojam</name>
-            <biography>Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.&#13;
-Today working in Linux &amp; OpenSource branch as Consultant &amp; Supporter.</biography>
-          </person>
           <person id="50">
             <name>ajuvo</name>
             <biography>## Privatier und Zeitzeuge. &#13;
@@ -10033,36 +10057,45 @@ zur Zeit c3auti ; Chaospate für Chaos Potsdam &#13;
 &#13;
 URL: [crew.c-base.org](https://ajuvo.crew.c-base.org/)</biography>
           </person>
+          <person id="51">
+            <name>therojam</name>
+            <biography>Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.&#13;
+Today working in Linux &amp; OpenSource branch as Consultant &amp; Supporter.</biography>
+          </person>
         </persons>
         <links/>
         <attachments/>
         <answers/>
       </event>
-      <event id="43" guid="afa54ff4-f64e-5426-b822-50342f5d4ce9">
+      <event id="56" guid="68619725-72ae-5645-8b6c-8e645e5d9c47">
         <logo/>
         <date>2018-12-30T14:00:00+00:00</date>
         <start>14:00</start>
         <duration>00:50</duration>
         <room>Chaos West Bühne</room>
-        <slug>RDVAAZ</slug>
-        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/RDVAAZ</url>
-        <title>Informationssicherheit &amp; IT-Risikomanagement am Beispiel der Bank B</title>
+        <slug>MRKBBU</slug>
+        <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/MRKBBU</url>
+        <title>It's not rocket science</title>
         <subtitle/>
         <track/>
         <type>Doppelter Slot 40 Minuten + 10 Minuten Q+A</type>
-        <language>de</language>
-        <abstract>Gerade im Bereich der IT halten externe Berater (und auch Mitarbeiter) sich oft mehr oder weniger an den Vorgaben der Aufsicht fest. So manch einer hat keine Ahnung, ob das eigentlich zielführend ist - und von was redet der Techniker am anderen Ende des Tisches da eigentlich?!?!!!??? Garniert mit eigenen Anekdoten, kleinen fiktiven Beispielen und absolut tauglich für Anfänger: Informationssicherheit &amp; IT-Risikomanagement am Beispiel der Bank B!</abstract>
-        <description>Zum Aufwärmen: Datenschutz und Informationssicherheit. Wo ist der Unterschied? Dann die drei Schutzziele Vertrautlichkeit / Integrität / Verfügbarkeit am Anfang des Regelkreises zur Informationssicherheit: welchen Schutzbedarf haben meine Informationen? Welche Prozesse wirken darauf ein? Auf welchem Server liegen die Informationen eigentlich? Hat meine Anwendung eine Schnittstelle? Warum stellen diese Leute immer so viele Fragen? Bisher ist doch auch nichts passiert? Dann mach ich halt mal was.... spätestens an dieser Stelle atme ich normalerweise tief durch. Dann kommt nämlich der Part, an dem erklärt wird: nö, ist nicht. &#13;
+        <language>en</language>
+        <abstract>Space is hard, but not that hard. Despite progress in technology, and cheaper rockets, science in space is becoming ever more expensive. Even copies of old missions now cost 2-4x as much. Better solutions are available, some taken straight from smartphones and consumer cameras.</abstract>
+        <description>Satellite hardware is not magic dust. It's a piece of electronics in a somewhat exotic environment. These days, hardware development has progressed to the point where off-the-shelf hardware can be used in space.  Improving performance, while cutting costs to a fraction. &#13;
 &#13;
-Wenn dann weißer Rauch aufsteigt, und alle irgendwie zufrieden sind, kommt das Restrisiko. Wie, noch mehr zu tun?! Ja! Dann werden Risiken eingestellt, bewertet, und "gemanaged", berichtet, abgelehnt, verloren, wiedergefunden, mitigiert und irgendwie zu einem eigenen Süppchen gekocht. Dabei könnte es so schön sein (vollständiges, adressatengerechtes Reporting *hüstel*). Der zweite Teil beinhaltet dann also die Risikoanalyse. Über die Klärung, was eigentlich ein Risiko und eine Bedrohung ist, quantifizierter vs. qualifiziertes Ansatz, Risikobehandlung, Eintrittswahrscheinlichkeit &amp; Schadenshöhe.</description>
+Professional star trackers cost several hundred thousand dollars a piece. But it is just a simple camera and the necessary software to find and track star constellations. Consumer hardware, like CPUs and camera chips, is essentially space-rated by default. Silicon-on-insulator used to be special hardware for radiation environments, but is now used in consumer electronics. &#13;
+&#13;
+Cheaper rockets became possible by pragmatic rocket engineering, notably by SpaceX but also Russian rockets still flying today. The ideas had been around for a long time. European, Chinese and Indian Launcher provide some examples on how to achieve reductions in launch cost and how not to achieve them.&#13;
+&#13;
+Cheaper rockets in many cases also allow higher mass to be traded for lower prices. Larger margins reduce work for quality control and modular systems reuse old engineering hardware in new missions. Higher satellite mass become increasingly acceptable, if they reduce development and manufacturing cost. And none of this is rocket science.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="59">
-            <name>Diula</name>
-            <biography>Chaosdorf-Member &lt;3 mit Vorliebe für Informationssicherheit, Prozesse und Anweisungen. Findet gerne heraus wie Dinge funktionieren, stellt Fragen und dokumentiert die Ergebnisse. Im Finanzbereich unterwegs.</biography>
+          <person id="69">
+            <name>Frank Wunderlich-Pfeiffer</name>
+            <biography>I'm a journalist working for [Golem.de] (https://www.golem.de/specials/autor-frank-wunderlich-pfeiffer/) Covering spaceflight and other topics in science and technology.</biography>
           </person>
         </persons>
         <links/>

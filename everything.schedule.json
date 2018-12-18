@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2 0.9.8 v1.1 2018-12-18 14:20", 
+        "version": "Buffy 2.1 0.9.8 v1.1 2018-12-18 14:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2255,6 +2255,37 @@
                         "c-base": [], 
                         "Chaos West B\u00fchne": [
                             {
+                                "id": 67, 
+                                "guid": "2184122e-03b0-5730-bedf-dc8015807a56", 
+                                "logo": null, 
+                                "date": "2018-12-27T10:45:00+00:00", 
+                                "start": "10:45", 
+                                "duration": "00:15", 
+                                "room": "Chaos West B\u00fchne", 
+                                "slug": "T3RMSP", 
+                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/T3RMSP", 
+                                "title": "Opening der Chaos-West Stage", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Einfacher Slot mit optionalen Q+A", 
+                                "language": "de", 
+                                "abstract": "Opening der Chaos-West Stage", 
+                                "description": "Opening der Chaos-West Stage", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 85, 
+                                        "name": "Chaos-West", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 64, 
                                 "guid": "fefd1797-166c-5d43-9582-f6b23fa8c225", 
                                 "logo": null, 
@@ -2546,29 +2577,35 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 30, 
-                                "guid": "194c8cce-8610-5b85-bb68-5fd01b061f6f", 
+                                "id": 68, 
+                                "guid": "9c7b5d1d-6f78-5935-9aa5-bf10bf26e54e", 
                                 "logo": null, 
                                 "date": "2018-12-27T22:00:00+00:00", 
                                 "start": "22:00", 
                                 "duration": "00:50", 
                                 "room": "Chaos West B\u00fchne", 
-                                "slug": "MLPM8D", 
-                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/MLPM8D", 
-                                "title": "The Zwiebelfreunde/Riseup/OpenLab Raids", 
+                                "slug": "YKLGHA", 
+                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/YKLGHA", 
+                                "title": "Die Faxger\u00e4te im Zentrum der Macht", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Doppelter Slot 40 Minuten + 10 Minuten Q+A", 
-                                "language": "en", 
-                                "abstract": "The police raided seven locations in Germany and confiscated equipment and documents, in search for user data of a Riseup account. In this talk, we will cover what happened and why, and how we will be better prepared for the next raid.", 
-                                "description": "On June 20th 2018, state security police raided initially five locations across Germany, nicely coordinated at 6:00 in the morning: The private homes of the three board members of Zwiebelfreunde e.V., Jens, Juris and Moritz, their registered headquarters in Dresden (a lawyer\u2019s office), and the home of a previous board member. The raid was later extended to another office in Berlin and the OpenLab Augsburg hackerspace. Three people were temporarily arrested, lots of equipment was seized, 3D printed bombs were confiscated, weird people and cars were seen on the street in front of the hackerspace for a couple of days. Fun.", 
+                                "language": "de", 
+                                "abstract": "Die Faxger\u00e4te im Zentrum der Macht", 
+                                "description": "Die Faxger\u00e4te im Zentrum der Macht", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 42, 
-                                        "name": "mo", 
-                                        "biography": ".", 
+                                        "id": 91, 
+                                        "name": "ijon", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 92, 
+                                        "name": "Julia Kr\u00fcger", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
@@ -9200,15 +9237,15 @@
                                 "do_not_record": true, 
                                 "persons": [
                                     {
-                                        "id": 65, 
-                                        "name": "Mimoja", 
-                                        "biography": "Mimoja is a western german hacker with a focus on firmware, hardware and security.", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 64, 
                                         "name": "bibor", 
                                         "biography": "bibor is a random hacker with and interest in firmware, hardware and their security.", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 65, 
+                                        "name": "Mimoja", 
+                                        "biography": "Mimoja is a western german hacker with a focus on firmware, hardware and security.", 
                                         "answers": []
                                     }
                                 ], 
@@ -9305,15 +9342,15 @@
                                         "answers": []
                                     }, 
                                     {
-                                        "id": 78, 
-                                        "name": "Ralf", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 77, 
                                         "name": "Jana", 
                                         "biography": "Jana is an UX, Communication and Public Interest Designer from Wuppertal. She works for the project \"GeoPortal des Guten Lebens\" at the Center for Transformation Research and Sustainability (TransZent) at the University of Wuppertal.\r\n\r\nTwitter: @JanaGreen | janapahlkoetter.de", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 78, 
+                                        "name": "Ralf", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
@@ -9373,9 +9410,9 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 23, 
-                                        "name": "nomaster", 
-                                        "biography": "Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.", 
+                                        "id": 47, 
+                                        "name": "ytvwld", 
+                                        "biography": "Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.", 
                                         "answers": []
                                     }, 
                                     {
@@ -9385,9 +9422,9 @@
                                         "answers": []
                                     }, 
                                     {
-                                        "id": 47, 
-                                        "name": "ytvwld", 
-                                        "biography": "Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.", 
+                                        "id": 23, 
+                                        "name": "nomaster", 
+                                        "biography": "Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.", 
                                         "answers": []
                                     }
                                 ], 
@@ -10958,15 +10995,15 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 10, 
-                                        "name": "DrLuke", 
-                                        "biography": "I am VJ Pyree", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 28, 
                                         "name": "Alexeyan", 
                                         "biography": "CTF-Spieler und DJ\r\nhttps://twitter.com/Alexeyan2\r\nhttps://www.mixcloud.com/Alexeyan/", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 10, 
+                                        "name": "DrLuke", 
+                                        "biography": "I am VJ Pyree", 
                                         "answers": []
                                     }
                                 ], 
@@ -10978,8 +11015,8 @@
                                 "id": 15, 
                                 "guid": "513a294c-0102-5ccb-83e5-a0788c1107bf", 
                                 "logo": null, 
-                                "date": "2018-12-30T01:55:00+00:00", 
-                                "start": "01:55", 
+                                "date": "2018-12-30T02:00:00+00:00", 
+                                "start": "02:00", 
                                 "duration": "02:00", 
                                 "room": "Chaos West B\u00fchne", 
                                 "slug": "FE8ABF", 
@@ -11037,29 +11074,29 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 56, 
-                                "guid": "68619725-72ae-5645-8b6c-8e645e5d9c47", 
+                                "id": 43, 
+                                "guid": "afa54ff4-f64e-5426-b822-50342f5d4ce9", 
                                 "logo": null, 
                                 "date": "2018-12-30T12:00:00+00:00", 
                                 "start": "12:00", 
                                 "duration": "00:50", 
                                 "room": "Chaos West B\u00fchne", 
-                                "slug": "MRKBBU", 
-                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/MRKBBU", 
-                                "title": "It's not rocket science", 
+                                "slug": "RDVAAZ", 
+                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/RDVAAZ", 
+                                "title": "Informationssicherheit & IT-Risikomanagement am Beispiel der Bank B", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Doppelter Slot 40 Minuten + 10 Minuten Q+A", 
-                                "language": "en", 
-                                "abstract": "Space is hard, but not that hard. Despite progress in technology, and cheaper rockets, science in space is becoming ever more expensive. Even copies of old missions now cost 2-4x as much. Better solutions are available, some taken straight from smartphones and consumer cameras.", 
-                                "description": "Satellite hardware is not magic dust. It's a piece of electronics in a somewhat exotic environment. These days, hardware development has progressed to the point where off-the-shelf hardware can be used in space.  Improving performance, while cutting costs to a fraction. \r\n\r\nProfessional star trackers cost several hundred thousand dollars a piece. But it is just a simple camera and the necessary software to find and track star constellations. Consumer hardware, like CPUs and camera chips, is essentially space-rated by default. Silicon-on-insulator used to be special hardware for radiation environments, but is now used in consumer electronics. \r\n\r\nCheaper rockets became possible by pragmatic rocket engineering, notably by SpaceX but also Russian rockets still flying today. The ideas had been around for a long time. European, Chinese and Indian Launcher provide some examples on how to achieve reductions in launch cost and how not to achieve them.\r\n\r\nCheaper rockets in many cases also allow higher mass to be traded for lower prices. Larger margins reduce work for quality control and modular systems reuse old engineering hardware in new missions. Higher satellite mass become increasingly acceptable, if they reduce development and manufacturing cost. And none of this is rocket science.", 
+                                "language": "de", 
+                                "abstract": "Gerade im Bereich der IT halten externe Berater (und auch Mitarbeiter) sich oft mehr oder weniger an den Vorgaben der Aufsicht fest. So manch einer hat keine Ahnung, ob das eigentlich zielf\u00fchrend ist - und von was redet der Techniker am anderen Ende des Tisches da eigentlich?!?!!!??? Garniert mit eigenen Anekdoten, kleinen fiktiven Beispielen und absolut tauglich f\u00fcr Anf\u00e4nger: Informationssicherheit & IT-Risikomanagement am Beispiel der Bank B!", 
+                                "description": "Zum Aufw\u00e4rmen: Datenschutz und Informationssicherheit. Wo ist der Unterschied? Dann die drei Schutzziele Vertrautlichkeit / Integrit\u00e4t / Verf\u00fcgbarkeit am Anfang des Regelkreises zur Informationssicherheit: welchen Schutzbedarf haben meine Informationen? Welche Prozesse wirken darauf ein? Auf welchem Server liegen die Informationen eigentlich? Hat meine Anwendung eine Schnittstelle? Warum stellen diese Leute immer so viele Fragen? Bisher ist doch auch nichts passiert? Dann mach ich halt mal was.... sp\u00e4testens an dieser Stelle atme ich normalerweise tief durch. Dann kommt n\u00e4mlich der Part, an dem erkl\u00e4rt wird: n\u00f6, ist nicht. \r\n\r\nWenn dann wei\u00dfer Rauch aufsteigt, und alle irgendwie zufrieden sind, kommt das Restrisiko. Wie, noch mehr zu tun?! Ja! Dann werden Risiken eingestellt, bewertet, und \"gemanaged\", berichtet, abgelehnt, verloren, wiedergefunden, mitigiert und irgendwie zu einem eigenen S\u00fcppchen gekocht. Dabei k\u00f6nnte es so sch\u00f6n sein (vollst\u00e4ndiges, adressatengerechtes Reporting *h\u00fcstel*). Der zweite Teil beinhaltet dann also die Risikoanalyse. \u00dcber die Kl\u00e4rung, was eigentlich ein Risiko und eine Bedrohung ist, quantifizierter vs. qualifiziertes Ansatz, Risikobehandlung, Eintrittswahrscheinlichkeit & Schadensh\u00f6he.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 69, 
-                                        "name": "Frank Wunderlich-Pfeiffer", 
-                                        "biography": "I'm a journalist working for [Golem.de] (https://www.golem.de/specials/autor-frank-wunderlich-pfeiffer/) Covering spaceflight and other topics in science and technology.", 
+                                        "id": 59, 
+                                        "name": "Diula", 
+                                        "biography": "Chaosdorf-Member <3 mit Vorliebe f\u00fcr Informationssicherheit, Prozesse und Anweisungen. Findet gerne heraus wie Dinge funktionieren, stellt Fragen und dokumentiert die Ergebnisse. Im Finanzbereich unterwegs.", 
                                         "answers": []
                                     }
                                 ], 
@@ -11088,15 +11125,15 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 51, 
-                                        "name": "therojam", 
-                                        "biography": "Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.\r\nToday working in Linux & OpenSource branch as Consultant & Supporter.", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 50, 
                                         "name": "ajuvo", 
                                         "biography": "## Privatier und Zeitzeuge. \r\n\r\n*Ich mache ehrenamtlich Vortr\u00e4ge, Workshops, B\u00fccher, Radio und Podcasts.  Lange Jahre habe ich international Unternehmen, Organisationen und Regierungen beraten, war Diplomat, Lobbyist, Wissenschaftler, akademischer Lehrer und Radiomacher. Alter Sack (tm). \r\n\r\nRadio Hyperbandrauschen auf Berlin 88.4 ;  Podcaster damals-tm-podcast.de ; c-base; c3d2; 0x56686607E8A7D407; Z6X3DTSM; DECT 3370; @ajuvo@chaos.social ; \r\n\r\nzur Zeit c3auti ; Chaospate f\u00fcr Chaos Potsdam \r\n\r\nURL: [crew.c-base.org](https://ajuvo.crew.c-base.org/)", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 51, 
+                                        "name": "therojam", 
+                                        "biography": "Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.\r\nToday working in Linux & OpenSource branch as Consultant & Supporter.", 
                                         "answers": []
                                     }
                                 ], 
@@ -11105,29 +11142,29 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 43, 
-                                "guid": "afa54ff4-f64e-5426-b822-50342f5d4ce9", 
+                                "id": 56, 
+                                "guid": "68619725-72ae-5645-8b6c-8e645e5d9c47", 
                                 "logo": null, 
                                 "date": "2018-12-30T14:00:00+00:00", 
                                 "start": "14:00", 
                                 "duration": "00:50", 
                                 "room": "Chaos West B\u00fchne", 
-                                "slug": "RDVAAZ", 
-                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/RDVAAZ", 
-                                "title": "Informationssicherheit & IT-Risikomanagement am Beispiel der Bank B", 
+                                "slug": "MRKBBU", 
+                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/MRKBBU", 
+                                "title": "It's not rocket science", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Doppelter Slot 40 Minuten + 10 Minuten Q+A", 
-                                "language": "de", 
-                                "abstract": "Gerade im Bereich der IT halten externe Berater (und auch Mitarbeiter) sich oft mehr oder weniger an den Vorgaben der Aufsicht fest. So manch einer hat keine Ahnung, ob das eigentlich zielf\u00fchrend ist - und von was redet der Techniker am anderen Ende des Tisches da eigentlich?!?!!!??? Garniert mit eigenen Anekdoten, kleinen fiktiven Beispielen und absolut tauglich f\u00fcr Anf\u00e4nger: Informationssicherheit & IT-Risikomanagement am Beispiel der Bank B!", 
-                                "description": "Zum Aufw\u00e4rmen: Datenschutz und Informationssicherheit. Wo ist der Unterschied? Dann die drei Schutzziele Vertrautlichkeit / Integrit\u00e4t / Verf\u00fcgbarkeit am Anfang des Regelkreises zur Informationssicherheit: welchen Schutzbedarf haben meine Informationen? Welche Prozesse wirken darauf ein? Auf welchem Server liegen die Informationen eigentlich? Hat meine Anwendung eine Schnittstelle? Warum stellen diese Leute immer so viele Fragen? Bisher ist doch auch nichts passiert? Dann mach ich halt mal was.... sp\u00e4testens an dieser Stelle atme ich normalerweise tief durch. Dann kommt n\u00e4mlich der Part, an dem erkl\u00e4rt wird: n\u00f6, ist nicht. \r\n\r\nWenn dann wei\u00dfer Rauch aufsteigt, und alle irgendwie zufrieden sind, kommt das Restrisiko. Wie, noch mehr zu tun?! Ja! Dann werden Risiken eingestellt, bewertet, und \"gemanaged\", berichtet, abgelehnt, verloren, wiedergefunden, mitigiert und irgendwie zu einem eigenen S\u00fcppchen gekocht. Dabei k\u00f6nnte es so sch\u00f6n sein (vollst\u00e4ndiges, adressatengerechtes Reporting *h\u00fcstel*). Der zweite Teil beinhaltet dann also die Risikoanalyse. \u00dcber die Kl\u00e4rung, was eigentlich ein Risiko und eine Bedrohung ist, quantifizierter vs. qualifiziertes Ansatz, Risikobehandlung, Eintrittswahrscheinlichkeit & Schadensh\u00f6he.", 
+                                "language": "en", 
+                                "abstract": "Space is hard, but not that hard. Despite progress in technology, and cheaper rockets, science in space is becoming ever more expensive. Even copies of old missions now cost 2-4x as much. Better solutions are available, some taken straight from smartphones and consumer cameras.", 
+                                "description": "Satellite hardware is not magic dust. It's a piece of electronics in a somewhat exotic environment. These days, hardware development has progressed to the point where off-the-shelf hardware can be used in space.  Improving performance, while cutting costs to a fraction. \r\n\r\nProfessional star trackers cost several hundred thousand dollars a piece. But it is just a simple camera and the necessary software to find and track star constellations. Consumer hardware, like CPUs and camera chips, is essentially space-rated by default. Silicon-on-insulator used to be special hardware for radiation environments, but is now used in consumer electronics. \r\n\r\nCheaper rockets became possible by pragmatic rocket engineering, notably by SpaceX but also Russian rockets still flying today. The ideas had been around for a long time. European, Chinese and Indian Launcher provide some examples on how to achieve reductions in launch cost and how not to achieve them.\r\n\r\nCheaper rockets in many cases also allow higher mass to be traded for lower prices. Larger margins reduce work for quality control and modular systems reuse old engineering hardware in new missions. Higher satellite mass become increasingly acceptable, if they reduce development and manufacturing cost. And none of this is rocket science.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 59, 
-                                        "name": "Diula", 
-                                        "biography": "Chaosdorf-Member <3 mit Vorliebe f\u00fcr Informationssicherheit, Prozesse und Anweisungen. Findet gerne heraus wie Dinge funktionieren, stellt Fragen und dokumentiert die Ergebnisse. Im Finanzbereich unterwegs.", 
+                                        "id": 69, 
+                                        "name": "Frank Wunderlich-Pfeiffer", 
+                                        "biography": "I'm a journalist working for [Golem.de] (https://www.golem.de/specials/autor-frank-wunderlich-pfeiffer/) Covering spaceflight and other topics in science and technology.", 
                                         "answers": []
                                     }
                                 ], 
