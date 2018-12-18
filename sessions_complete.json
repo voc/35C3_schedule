@@ -2408,57 +2408,6 @@
             }
         ]
     }, 
-    "Session:Aaron's Law and Other Unfinished Business# b4a9e6ab98e676c007415f4dca8eb5da": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546014600", 
-                "raw": "1/2018/12/28/16/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Aaron's Law and Other Unfinished Business"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "249656d2-6f97-47bd-9d47-a4bf7d31f640"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business", 
-        "Has end time": [
-            {
-                "timestamp": "1546018200", 
-                "raw": "1/2018/12/28/17/30/0/0"
-            }
-        ]
-    }, 
     "Session:FediverseMeetup# 4d39c4d0b7cf1c1614fce6f5db332b58": {
         "Held in language": [], 
         "Has start time": [
@@ -2676,6 +2625,57 @@
             {
                 "timestamp": "1546095600", 
                 "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:PSLab.io - Pocket Science Lab# 1437ceddfdba19b0f225b19fab27e690": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The pocket science lab is a tiny Free/Open Source device and software that provides an array of test and measurement instruments  for doing science and engineering experiments by simply plugging it  into a phone or PC. It can be easily extended with various types of sensors and also controlled by our Android app or Linux desktop app.  The talk will outline the project goals and achievements and showcase some of its functionalities. Furthermore, I will introduce the team and collaboration process and talk about the roadmap to make free and open miniaturized science labs a reality."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "PSLab.io - Pocket Science Lab"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "acc33cc8-f416-4477-8a40-0865e1e456ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:PSLab.io_-_Pocket_Science_Lab", 
+        "Has end time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
             }
         ]
     }, 
@@ -4157,6 +4157,57 @@
             {
                 "timestamp": "1546012800", 
                 "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Aaron's Law and Other Unfinished Business# e3c543ac2bde59c443d81f6c2799aef2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Aaron's Law and Other Unfinished Business"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "249656d2-6f97-47bd-9d47-a4bf7d31f640"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business", 
+        "Has end time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
             }
         ]
     }, 
