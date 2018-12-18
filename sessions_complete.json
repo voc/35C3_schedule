@@ -552,6 +552,48 @@
             }
         ]
     }, 
+    "Session:Gamma Radiation Monitoring# 9973ee7811b4e776633c88236e87cfed": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meeting of Citizen networks. 40 years of DIY gamma radiation measures. How to pick the fission out of big data blues"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Gamma Radiation Monitoring"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8928bbe8-abe0-4d69-8887-49480e6bef00"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
+        "Has end time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ]
+    }, 
     "Session:WieHelfenGegenCyberStalking# f9f836242892c3708ee53815028bd90e": {
         "Held in language": [
             "de - German"
