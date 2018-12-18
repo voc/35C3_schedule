@@ -3889,6 +3889,57 @@
             }
         ]
     }, 
+    "Session:Not quite Free and Open Source# 343cd5cade05fc23d31864e6f10e814c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Not quite Free and Open Source"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "18b77974-03f4-43a5-b94c-b2dda689e78c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source", 
+        "Has end time": [
+            {
+                "timestamp": "1546026300", 
+                "raw": "1/2018/12/28/19/45/0/0"
+            }
+        ]
+    }, 
     "Session:Advanced Bondage Workshop - Day 1# a8e2c8d01be691823610ae74d44b1ea4": {
         "Held in language": [
             "de - German"
