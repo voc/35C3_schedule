@@ -2294,6 +2294,51 @@
             }
         ]
     }, 
+    "Session:Dining Cryptographers' Party# 438f27ebcb5a91b876fbeac16d5705fe": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "eo - Esperanto"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Dining Cryptographers' Party"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "23d52b76-e454-47a3-8649-d486754e462e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party", 
+        "Has end time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:CCCChoir# 428fbd85f4af1a0a42e7b192e63b2d26": {
         "Held in language": [
             "de - German"
@@ -2464,46 +2509,6 @@
                 "raw": "1/2018/12/28/14/45/0/0"
             }
         ]
-    }, 
-    "Session:Eco Hacker Farm# 194fe333d2feba180894093ebf29f774": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://wiki.ecohackerfarm.org/"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "cohabitation spaces mixing permaculture with hackerculture"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Eco Hacker Farm"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2d8406f5-a50c-413d-9d86-9fa77aca2081"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm", 
-        "Has end time": []
     }, 
     "Session:Stage Manager Angel Introduction# 29de68fb40417b1cbbb33e068b49957b": {
         "Held in language": [
@@ -3647,6 +3652,61 @@
             {
                 "timestamp": "1546041600", 
                 "raw": "1/2018/12/29/0/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Eco Hacker Farm# ae4033534ab142c3d625ee5dcf414841": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.ecohackerfarm.org/"
+        ], 
+        "Has description": [
+            "covering cohabitation projects that mix permaculture with hackerculture, an online & onsite community"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "cohabitation spaces mixing permaculture with hackerculture"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Eco Hacker Farm"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2d8406f5-a50c-413d-9d86-9fa77aca2081"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
             }
         ]
     }, 
