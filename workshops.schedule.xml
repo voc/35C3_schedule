@@ -1,0 +1,1576 @@
+<schedule>
+  <conference>
+    <acronym>35C3-workshops</acronym>
+    <title>35. Chaos Communication Congress - Workshops</title>
+    <start>2018-12-26</start>
+    <end>2018-12-30</end>
+    <days>5</days>
+    <timeslot_duration>00:15</timeslot_duration>
+  </conference>
+  <day date="2018-12-26" index="0" end="2018-12-27T04:00:00+01:00" start="2018-12-26T06:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1001" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
+        <logo/>
+        <date>2018-12-26T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Daily A/V Angel Meeting - Day 0 (Shift Assignment)</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1014" guid="eae0d0dc-1206-4703-9ad5-6a31c41ed5f9">
+        <logo/>
+        <date>2018-12-26T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Cashdesk Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Want to try being a cashdesk angel? You'll need this introduction first.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx">Rixx</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction</link>
+        </links>
+      </event>
+      <event id="1015" guid="26464102-58b6-4dd2-94b4-64592f300be9">
+        <logo/>
+        <date>2018-12-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Cashdesk Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract/>
+        <description>Want to try being a cashdesk angel? You'll need this introduction first.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx">Rixx</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction</link>
+        </links>
+      </event>
+      <event id="1052" guid="1cd15de3-a4ba-4d4b-a565-eab68a76188b">
+        <logo/>
+        <date>2018-12-26T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Chaos West Stage"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="Seminar room 14-15">
+      <event id="1030" guid="7f0ea54b-63b3-463a-bc68-35780a206f85">
+        <logo/>
+        <date>2018-12-26T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Herald Angel Introduction</title>
+        <subtitle>for</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
+        </links>
+      </event>
+    </room>
+    <room name="OIO lecture arena"/>
+    <room name="Lecture room M1">
+      <event id="1046" guid="ac02f3e2-5c9e-41db-a912-96bda2afb030">
+        <logo/>
+        <date>2018-12-26T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1026" guid="13ed6368-e819-490b-8d71-7e1b291bb55b">
+        <logo/>
+        <date>2018-12-26T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>General Angel Meeting</title>
+        <subtitle>Day0</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel Meeting</description>
+        <persons/>
+        <links>
+          <link>https://engelsystem.de/35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1009" guid="0cf977dd-622f-41ab-9d10-fd9a5b6ca49a">
+        <logo/>
+        <date>2018-12-26T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Auti Angel Meeting</title>
+        <subtitle>Introduction</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction Meeting for Auti Support Angel and Auti Angel</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein">Fairsein</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/2018/12/14/autism-support-35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1048" guid="91d47fec-8f29-4f1f-8301-45bd372b1884">
+        <logo/>
+        <date>2018-12-26T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 13"/>
+    <room name="c-base"/>
+  </day>
+  <day date="2018-12-27" index="1" end="2018-12-28T04:00:00+01:00" start="2018-12-27T06:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1002" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Daily A/V Angel Meeting - Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1004" guid="bd96b262-3cab-4afd-a628-8b0631372fbb">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Advanced Bondage Workshop - Day 1</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Advanced Bondage Workshop #1</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_1</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-27T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:10</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Chaos West Stage"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="Seminar room 14-15">
+      <event id="1023" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
+        <logo/>
+        <date>2018-12-27T13:10:00+01:00</date>
+        <start>13:10</start>
+        <duration>0:45</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Foundation workshop: Vim for beginners</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Vim is one of the two editors for adults. A distinguishing feature is that it has a perverse user-unfriendly charm. Learn how to use Vim in this workshop.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
+        </links>
+      </event>
+      <event id="1035" guid="83dc17af-d621-4012-b039-d7904836e3d3">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Koordinierungstreffen Junghackertag</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Abstimmungs- und Vorbereitungstreffen für den Junghackertag</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Koordinierungstreffen_Junghackertag</link>
+        </links>
+      </event>
+      <event id="1045" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Relationship Anarchy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A nice &amp; cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
+        </links>
+      </event>
+      <event id="1057" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>WieHelfenGegenCyberStalking</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WieHelfenGegenCyberStalking</link>
+        </links>
+      </event>
+    </room>
+    <room name="OIO lecture arena"/>
+    <room name="Lecture room M1">
+      <event id="1047" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
+        </links>
+      </event>
+      <event id="1056" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Why Does War Happen?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>An examination of the Thucydides Trap</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1000" guid="beb31f29-a0cb-440f-afd6-25a2272b7a2f">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>"How To Survive 35C3" CryptoParty</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.  The goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Dawning-sun">Dawning-sun</person>
+        </persons>
+        <links>
+          <link>https://cryptoparty.in/35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22How_To_Survive_35C3%22_CryptoParty</link>
+        </links>
+      </event>
+      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+        <logo/>
+        <date>2018-12-27T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>0:45</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>General Angel Meeting</title>
+        <subtitle>Day1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel Meeting</description>
+        <persons/>
+        <links>
+          <link>https://engelsystem.de/35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1043" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>QueerFeministGeeks - MeetUp</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>the queerfeminist geeks plenary meetup</description>
+        <persons/>
+        <links>
+          <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1008" guid="bd012aa6-8ea8-4df6-a115-6d911a61ab03">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Auti Angel Meeting</title>
+        <subtitle>Introduction</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Introduction Meeting for Auti Support Angel and Auti Angel</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein">Fairsein</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/2018/12/14/autism-support-35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1020" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Feedback Session for the Arbitration Board</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language/>
+        <abstract/>
+        <description>The Workshop provides the official place to give feedback on the newly established arbitration board for handling conflicts at the Xc3</description>
+        <persons/>
+        <links>
+          <link>http://help.ccc.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
+        </links>
+      </event>
+      <event id="1049" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+        <logo/>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+      <event id="1049" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1031" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Herald Angel Introduction</title>
+        <subtitle>for the small group of new Heralds</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
+        </links>
+      </event>
+    </room>
+    <room name="c-base"/>
+  </day>
+  <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1001" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Daily A/V Angel Meeting - Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1005" guid="01221fb8-3494-4767-a554-b6add0b5cb29">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Advanced Bondage Workshop - Day 2</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Advanced Bondage Workshop #2</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_2</link>
+        </links>
+      </event>
+      <event id="1012" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
+        <logo/>
+        <date>2018-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Bondage Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We will teach you some foundations on doing rope bondage safe, sane and consentual.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
+        </links>
+      </event>
+      <event id="1029" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>HaecksenBreakfast</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast</link>
+        </links>
+      </event>
+      <event id="1042" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Polyamory</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-28T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-28T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:10</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Chaos West Stage"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="CCL Hall 3">
+      <event id="1041" guid="e75da001-77b7-402d-82b3-943157807136">
+        <logo/>
+        <date>2018-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Poetry Slam Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Eine kurze Einführung in den humoristischen Dichterwettstreit</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia">Roikiermedia</person>
+        </persons>
+        <links>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop</link>
+        </links>
+      </event>
+      <event id="1061" guid="afaf3909-6630-40af-b377-174b0d319796">
+        <logo/>
+        <date>2018-12-28T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:00</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Wondrous Mathematics: The curious world of four-dimensional geometry</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 14-15">
+      <event id="1010" guid="3e46bf2b-aabb-4418-9865-bee32ca9a505">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Awareness Team Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Please write us an e-mail to register / Bitte schreibt uns eine Mail zum Anmelden -- Awarenessteam-Treffen, für interessierte Personen die auf zukünfigen Events gerne das Team bereichern wollen. Awareness Team meeting, for interested people who like to join the team in the future,</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Leandra">Leandra</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Theresa">Theresa</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
+        </links>
+      </event>
+      <event id="1027" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>HIP Orga Treffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Orgameeting der Hack im Pott 2019</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
+        </persons>
+        <links>
+          <link>https://hackimpott.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen</link>
+        </links>
+      </event>
+      <event id="1055" guid="df883408-2ce9-4640-89c4-112eb0d64394">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Ultraschall und Reaper-Programmierung</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Programmierung der Audiosoftware Reaper</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
+        </persons>
+        <links>
+          <link>http://ultraschall.fm</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
+        </links>
+      </event>
+    </room>
+    <room name="OIO lecture arena"/>
+    <room name="Lecture room M1">
+      <event id="1003" guid="249656d2-6f97-47bd-9d47-a4bf7d31f640">
+        <logo/>
+        <date>2018-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Aaron's Law and Other Unfinished Business</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce "Aaron's Law" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business</link>
+        </links>
+      </event>
+      <event id="1007" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Arch Linux Meetup</title>
+        <subtitle>Meetup</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Arch Linux user meetup</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Foxboron">Foxboron</person>
+        </persons>
+        <links>
+          <link>https://www.archlinux.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arch_Linux_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1011" guid="b277b00f-6539-4801-bb39-2788eeab1aac">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Bodymind Operating System: Adaptation, Infiltration and Vulnerability.</title>
+        <subtitle>Introduction</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics..</description>
+        <persons/>
+        <links>
+          <link>https://8os.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bodymind_Operating_System:_Adaptation,_Infiltration_and_Vulnerability.</link>
+        </links>
+      </event>
+      <event id="1013" guid="530b367c-b812-4f2d-a7d7-862e2ece9e7d">
+        <logo/>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>CCCChoir</title>
+        <subtitle>All creatures welcome</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gemeinsames Chorsingen. All creatures welcome.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
+        </links>
+      </event>
+      <event id="1019" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>0:45</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>FediverseMeetup</title>
+        <subtitle>Meeting all these nice avatars afk</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Meeting all these nice avatars from the fediverse! Thank your admins, spread love to your users, friends and bots!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ckeen">Ckeen</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1016" guid="e95c93fc-bd6e-491d-853f-3fd66a8e3584">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Chaos Bug Bounty Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for bug hunters to network and discuss the current issues in the bug bounty space</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jerh17">Jerh17</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup</link>
+        </links>
+      </event>
+      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+        <logo/>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>General Angel Meeting</title>
+        <subtitle>Day2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel Meeting</description>
+        <persons/>
+        <links>
+          <link>https://engelsystem.de/35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1033" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Human Rights and Surveillance</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>In the talk we want to shed light on the current global situation and focus on how we can stand together with human rights defenders affected by hacking. How is digital persecution working? Who is involved? What can Amnesty, other NGOs and every person do about it, together and individually?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance</link>
+        </links>
+      </event>
+      <event id="1036" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Let's hack words!</title>
+        <subtitle>The hacker's journey</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>The hacker's journey - there and back again. How to make struggling stories work and write new ones with the hero's journey in mind.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx">Jinxx</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
+        </links>
+      </event>
+      <event id="1050" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+      <event id="1050" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Subtitles Angelmeeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+        </persons>
+        <links>
+          <link>https://c3subtitles.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1017" guid="3651ef41-0648-40ed-9f82-5fb4fa3a660f">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>ComputerForensikfuerAnfaengerinnen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
+        </links>
+      </event>
+    </room>
+    <room name="c-base"/>
+  </day>
+  <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1001" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>A/V Angel Meeting</title>
+        <subtitle>Daily A/V Angel Meeting - Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily Meetup for A/V Angels</description>
+        <persons/>
+        <links>
+          <link>https://c3voc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-29T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:10</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Chaos West Stage"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="CCL Hall 3">
+      <event id="1018" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>CCL Hall 3</room>
+        <slug/>
+        <title>Datenschleuder-Treffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Treffen der Datenschleuder-Redaktion</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rince">Rince</person>
+        </persons>
+        <links>
+          <link>https://ds.ccc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 14-15">
+      <event id="1038" guid="9c76e190-297d-485c-98dd-f63295f21f89">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Medienkompetenz kann man nicht downloaden - Diskussion</title>
+        <subtitle>Diskussion zu Lightningtalk</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Suche nach Methoden zur Förderung von kritischem Bewusstsein zu Medien- und Technikkompetenz</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles">Moelles</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
+        </links>
+      </event>
+      <event id="1054" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Ultraschall für EinsteigerInnen</title>
+        <subtitle>Erst Anfänger, dann Fortgeschrittene</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
+        </persons>
+        <links>
+          <link>https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
+        </links>
+      </event>
+      <event id="1059" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
+        <logo/>
+        <date>2018-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>0:40</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Wondrous Mathematics: Fun with transfinite games</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games</link>
+        </links>
+      </event>
+    </room>
+    <room name="OIO lecture arena"/>
+    <room name="Lecture room M1">
+      <event id="1024" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Fund-Raising for Free Software - Thinking Big</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big</link>
+        </links>
+      </event>
+      <event id="1032" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>HowToConflict</title>
+        <subtitle>besser streiten</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>ein Überblick mit Übungen zu verschiedenen Modellen der Konflikttheorie</description>
+        <persons/>
+        <links>
+          <link>http://haecksen.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HowToConflict</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M3">
+      <event id="1028" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Hacking through the Body: Systema and Aerodynamics of Cognitive Dance</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>The concepts of vulnerability, infiltration, disruption can be enacted through physical interaction to gain additional insights about their operation.</description>
+        <persons/>
+        <links>
+          <link>https://8os.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
+        </links>
+      </event>
+      <event id="1044" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Regiotreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Regiotreffen auf dem 35c3</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
+        </persons>
+        <links>
+          <link>https://ccc.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Regiotreffen</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M2">
+      <event id="1022" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
+        <logo/>
+        <date>2018-12-29T17:20:00+01:00</date>
+        <start>17:20</start>
+        <duration>0:50</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Foundation workshop: Hands-on, how does the Internet work?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>This workshop is for all who only have a vague idea or might not know at all what an "IP address" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F</link>
+        </links>
+      </event>
+      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+        <logo/>
+        <date>2018-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>General Angel Meeting</title>
+        <subtitle>Day3</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel Meeting</description>
+        <persons/>
+        <links>
+          <link>https://engelsystem.de/35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1037" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
+        <logo/>
+        <date>2018-12-29T12:45:00+01:00</date>
+        <start>12:45</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Locale Presse-/Öffentlichkeitsarbeit</title>
+        <subtitle>Vernetzungstreffen und Erfahrungsaustausch</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Vernetzung zur dezentralen Öffentlichkeitsarbeit</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
+        </links>
+      </event>
+      <event id="1058" guid="45a13447-70ed-47d2-82ae-e88366738130">
+        <logo/>
+        <date>2018-12-29T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Wondrous Mathematics: Fun with infinitely large numbers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1034" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Introtoprogramminglanguagesforbeginners</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
+        </links>
+      </event>
+      <event id="1053" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Tuwat AG Kritis</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Die aus tuwat resultierende Gruppe AG Kritis trifft sich.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis</link>
+        </links>
+      </event>
+    </room>
+    <room name="c-base"/>
+  </day>
+  <day date="2018-12-30" index="4" end="2018-12-30T23:00:00+01:00" start="2018-12-30T06:00:00+01:00">
+    <room name="Lecture room 11">
+      <event id="1051" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+        <logo/>
+        <date>2018-12-30T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Translation</title>
+        <subtitle>Translation Meeting</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Chaos West Stage"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="Seminar room 14-15"/>
+    <room name="OIO lecture arena"/>
+    <room name="Lecture room M1">
+      <event id="1060" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
+        <logo/>
+        <date>2018-12-30T13:10:00+01:00</date>
+        <start>13:10</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Wondrous Mathematics: Large numbers, very large numbers and very very large numbers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>This talk is for all who enjoyed the game "who can name the larger number?" as a kid.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Large_numbers,_very_large_numbers_and_very_very_large_numbers</link>
+        </links>
+      </event>
+    </room>
+    <room name="Lecture room M3"/>
+    <room name="Lecture room M2">
+      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+        <logo/>
+        <date>2018-12-30T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>0:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>General Angel Meeting</title>
+        <subtitle>Day4 - Teardown</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Angel Meeting</description>
+        <persons/>
+        <links>
+          <link>https://engelsystem.de/35c3/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Seminar room 13">
+      <event id="1021" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Formalizing mathematics in the proof assistant Agda</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>For students of mathematics, computer science or a related subject.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
+        </links>
+      </event>
+    </room>
+    <room name="c-base"/>
+  </day>
+  <version>2018-12-18 01:30</version>
+</schedule>
