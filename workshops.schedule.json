@@ -1823,7 +1823,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "covering cohabitation projects that mix permaculture with hackerculture, an online & onsite community", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia", 
+                                        "public_name": "Aimeejulia"
+                                    }
+                                ], 
                                 "links": [
                                     "https://wiki.ecohackerfarm.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm"
@@ -2102,6 +2108,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-18 17:10"
+        "version": "2018-12-18 17:20"
     }
 }
