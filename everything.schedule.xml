@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2 0.9.8 v1.1 2018-12-18 12:30</version>
+  <version>Buffy 2 0.9.8 v1.1 2018-12-18 12:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2017,7 +2017,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_1</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2036,7 +2036,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2057,7 +2057,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1022" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
+      <event id="1023" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
         <start>13:10</start>
@@ -2081,7 +2081,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
         </links>
       </event>
-      <event id="1036" guid="83dc17af-d621-4012-b039-d7904836e3d3">
+      <event id="1037" guid="83dc17af-d621-4012-b039-d7904836e3d3">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2100,7 +2100,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Koordinierungstreffen_Junghackertag</link>
         </links>
       </event>
-      <event id="1037" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
+      <event id="1038" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2119,7 +2119,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LehrerInnenstammtisch</link>
         </links>
       </event>
-      <event id="1049" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
+      <event id="1051" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2138,7 +2138,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
         </links>
       </event>
-      <event id="1062" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
+      <event id="1064" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2160,7 +2160,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1031" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
+      <event id="1032" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2187,7 +2187,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1052" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+      <event id="1054" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2212,7 +2212,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1061" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
+      <event id="1063" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2258,7 +2258,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1019" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
+      <event id="1020" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2278,7 +2278,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
         </links>
       </event>
-      <event id="1054" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+      <event id="1056" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -2303,7 +2303,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1054" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+      <event id="1056" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2355,7 +2355,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22How_To_Survive_35C3%22_CryptoParty</link>
         </links>
       </event>
-      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1026" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -2375,7 +2375,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1047" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
+      <event id="1049" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3517,7 +3517,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
       </event>
     </room>
     <room name="">
-      <event id="1042" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
+      <event id="1043" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
         <logo/>
         <date>2018-12-27T15:45:00+01:00</date>
         <start>15:45</start>
@@ -5429,7 +5429,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1029" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
+      <event id="1030" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -5449,7 +5449,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast</link>
         </links>
       </event>
-      <event id="1046" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
+      <event id="1048" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5468,7 +5468,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-28T19:45:00+01:00</date>
         <start>19:45</start>
@@ -5487,7 +5487,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -5536,7 +5536,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
         </links>
       </event>
-      <event id="1027" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
+      <event id="1028" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5561,7 +5561,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen</link>
         </links>
       </event>
-      <event id="1060" guid="df883408-2ce9-4640-89c4-112eb0d64394">
+      <event id="1062" guid="df883408-2ce9-4640-89c4-112eb0d64394">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5607,7 +5607,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
         </links>
       </event>
-      <event id="1050" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
+      <event id="1052" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
         <logo/>
         <date>2018-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5658,7 +5658,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arch_Linux_Meetup</link>
         </links>
       </event>
-      <event id="1035" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
+      <event id="1036" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
         <logo/>
         <date>2018-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -5678,7 +5678,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Konsens-Workshop</link>
         </links>
       </event>
-      <event id="1044" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
+      <event id="1045" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5742,7 +5742,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup</link>
         </links>
       </event>
-      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1026" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -5762,7 +5762,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1033" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
+      <event id="1034" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5781,7 +5781,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance</link>
         </links>
       </event>
-      <event id="1038" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
+      <event id="1039" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5805,7 +5805,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
         </links>
       </event>
-      <event id="1055" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+      <event id="1057" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
         <logo/>
         <date>2018-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5830,7 +5830,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1055" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+      <event id="1057" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5896,7 +5896,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
         </links>
       </event>
-      <event id="1018" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
+      <event id="1019" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -7110,7 +7110,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
         </links>
       </event>
-      <event id="1043" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1044" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-28T14:45:00+01:00</date>
         <start>14:45</start>
@@ -7136,7 +7136,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
       </event>
     </room>
     <room name="CCL Hall 3">
-      <event id="1045" guid="e75da001-77b7-402d-82b3-943157807136">
+      <event id="1047" guid="e75da001-77b7-402d-82b3-943157807136">
         <logo/>
         <date>2018-12-28T16:30:00+01:00</date>
         <start>16:30</start>
@@ -7161,7 +7161,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop</link>
         </links>
       </event>
-      <event id="1066" guid="afaf3909-6630-40af-b377-174b0d319796">
+      <event id="1068" guid="afaf3909-6630-40af-b377-174b0d319796">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -8988,7 +8988,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-29T19:45:00+01:00</date>
         <start>19:45</start>
@@ -9007,7 +9007,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-29T15:10:00+01:00</date>
         <start>15:10</start>
@@ -9028,7 +9028,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1041" guid="9c76e190-297d-485c-98dd-f63295f21f89">
+      <event id="1042" guid="9c76e190-297d-485c-98dd-f63295f21f89">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9052,7 +9052,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
         </links>
       </event>
-      <event id="1059" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
+      <event id="1061" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
         <logo/>
         <date>2018-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -9077,7 +9077,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
         </links>
       </event>
-      <event id="1064" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
+      <event id="1066" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
         <logo/>
         <date>2018-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -9103,7 +9103,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1034" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
+      <event id="1035" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9122,7 +9122,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
         </links>
       </event>
-      <event id="1058" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
+      <event id="1060" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9148,7 +9148,26 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1023" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
+      <event id="1018" guid="77654164-ca0f-48b7-8b74-92fb367fdb7c">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Everybody hates MIMEs - Challenges in keeping p≡p engine development free</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>This talk discusses some of the particular challenges we've faced in terms of supporting development of a free software core whose customers (app developers and users) live in the world of seamless, proprietary software. The lessons learned may not be new to anyone who has tried to produce a complex solution using only non-proprietary software libraries, but the specific discussion of the challenges of MIME and encryption in a free software context where the goal is maximum usability, cross-platform compatibility, and extensibility provides interesting use cases for further discussion.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Everybody_hates_MIMEs_-_Challenges_in_keeping_p%E2%89%A1p_engine_development_free</link>
+        </links>
+      </event>
+      <event id="1024" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9167,7 +9186,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big</link>
         </links>
       </event>
-      <event id="1032" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
+      <event id="1033" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -9187,7 +9206,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HowToConflict</link>
         </links>
       </event>
-      <event id="1040" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
+      <event id="1041" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
         <logo/>
         <date>2018-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -9206,9 +9225,28 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
+      <event id="1046" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Personal Assistants By People for the People</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language/>
+        <abstract/>
+        <description>Alexa, Cortana, Siri: Where is the FOSS Personal Assistant? We do the “Wikipedia for AI” with the susi.ai project</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_Assistants_By_People_for_the_People</link>
+        </links>
+      </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1021" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
+      <event id="1022" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
         <logo/>
         <date>2018-12-29T17:20:00+01:00</date>
         <start>17:20</start>
@@ -9232,7 +9270,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F</link>
         </links>
       </event>
-      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1026" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-29T15:30:00+01:00</date>
         <start>15:30</start>
@@ -9252,7 +9290,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1039" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
+      <event id="1040" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
         <logo/>
         <date>2018-12-29T12:45:00+01:00</date>
         <start>12:45</start>
@@ -9271,7 +9309,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
         </links>
       </event>
-      <event id="1063" guid="45a13447-70ed-47d2-82ae-e88366738130">
+      <event id="1065" guid="45a13447-70ed-47d2-82ae-e88366738130">
         <logo/>
         <date>2018-12-29T16:10:00+01:00</date>
         <start>16:10</start>
@@ -9297,7 +9335,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1028" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
+      <event id="1029" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9317,7 +9355,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
         </links>
       </event>
-      <event id="1048" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
+      <event id="1050" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10705,7 +10743,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
       </event>
     </room>
     <room name="">
-      <event id="1024" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
+      <event id="1025" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -10724,7 +10762,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
         </links>
       </event>
-      <event id="1043" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1044" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-29T15:45:00+01:00</date>
         <start>15:45</start>
@@ -11361,7 +11399,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1056" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1058" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -11383,7 +11421,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
     </room>
     <room name="Seminar room 14-15"/>
     <room name="Seminar room 13">
-      <event id="1020" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
+      <event id="1021" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -11409,7 +11447,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1065" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
+      <event id="1067" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
         <logo/>
         <date>2018-12-30T13:10:00+01:00</date>
         <start>13:10</start>
@@ -11435,7 +11473,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1025" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1026" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
         <start>15:30</start>
@@ -12089,7 +12127,7 @@ Wir werden den Congress aus Kinderaugen Revue passieren lassen. Außerdem berich
       </event>
     </room>
     <room name="">
-      <event id="1043" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1044" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
