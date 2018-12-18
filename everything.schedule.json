@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.8 v1.1 2018-12-18 16:20", 
+        "version": "Buffy 2.1 0.9.8 v1.1 2018-12-18 16:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8843,7 +8843,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Try out a mechanical keyboard or show off your collection.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rot13", 
+                                        "public_name": "Rot13"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup"
                                 ]

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.8 v1.1 2018-12-18 16:20</version>
+  <version>Buffy 2.1 0.9.8 v1.1 2018-12-18 16:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -9296,7 +9296,12 @@ However, it's not always easy...</description>
         <language>de</language>
         <abstract/>
         <description>Try out a mechanical keyboard or show off your collection.</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Rot13</url>
+            <public_name>Rot13</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>

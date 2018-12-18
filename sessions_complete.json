@@ -1096,7 +1096,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rot13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rot13", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Mechanical Keyboard Meetup"
         ], 
