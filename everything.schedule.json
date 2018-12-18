@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2 0.9.8 v1.0 2018-12-18 10:30", 
+        "version": "Buffy 2 0.9.8 v1.0 2018-12-18 10:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -1830,7 +1830,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:10:00+01:00", 
@@ -1851,7 +1851,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:45:00+01:00", 
@@ -1874,7 +1874,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1023, 
+                                "id": 1022, 
                                 "guid": "84945cde-3908-4f12-ac48-0ada208bf17e", 
                                 "logo": null, 
                                 "date": "2018-12-27T13:10:00+01:00", 
@@ -1901,7 +1901,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1035, 
                                 "guid": "83dc17af-d621-4012-b039-d7904836e3d3", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -1922,7 +1922,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1037, 
+                                "id": 1036, 
                                 "guid": "e1ea79e7-a487-4c99-86b2-c2533b22fe69", 
                                 "logo": null, 
                                 "date": "2018-12-27T14:00:00+01:00", 
@@ -1943,7 +1943,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1047, 
+                                "id": 1046, 
                                 "guid": "d25d9fdc-944a-4d44-b706-387181bc5ee8", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -1964,7 +1964,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1059, 
                                 "guid": "fd8cdcd7-506d-4441-b59f-7c83263bb873", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -1988,7 +1988,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1032, 
+                                "id": 1031, 
                                 "guid": "d7757509-abec-403a-811f-2a2cc97c6dcb", 
                                 "logo": null, 
                                 "date": "2018-12-27T18:00:00+01:00", 
@@ -2018,7 +2018,7 @@
                         ], 
                         "Lecture room M1": [
                             {
-                                "id": 1050, 
+                                "id": 1049, 
                                 "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -2046,7 +2046,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1059, 
+                                "id": 1058, 
                                 "guid": "5baa7172-13bb-488c-b9e5-443337e7566b", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -2097,7 +2097,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1020, 
+                                "id": 1019, 
                                 "guid": "e4e37c0f-db57-4d10-9a4e-35ec132cda22", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -2119,7 +2119,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
                                 "logo": null, 
                                 "date": "2018-12-27T12:00:00+01:00", 
@@ -2147,7 +2147,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1051, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
                                 "logo": null, 
                                 "date": "2018-12-27T16:00:00+01:00", 
@@ -2205,7 +2205,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1025, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:15:00+01:00", 
@@ -2227,7 +2227,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1045, 
+                                "id": 1044, 
                                 "guid": "2231a9ec-2bd9-49c3-85f3-bc179b46126e", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -3261,7 +3261,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1041, 
+                                "id": 1040, 
                                 "guid": "2ee4399d-d40c-4ba7-80a8-84de8ce6b219", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:45:00+01:00", 
@@ -4988,7 +4988,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1030, 
+                                "id": 1029, 
                                 "guid": "3736ba4e-ad99-4b34-9e0d-4ae031dff0a8", 
                                 "logo": null, 
                                 "date": "2018-12-28T11:00:00+01:00", 
@@ -5010,7 +5010,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1044, 
+                                "id": 1043, 
                                 "guid": "2644582a-5131-46e2-b9c0-ecd65b856ef4", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -5031,7 +5031,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:45:00+01:00", 
@@ -5052,7 +5052,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -5107,7 +5107,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1028, 
+                                "id": 1027, 
                                 "guid": "365faa84-7ff3-409f-b0a1-d85a4ce31a45", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:00:00+01:00", 
@@ -5135,7 +5135,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1058, 
+                                "id": 1057, 
                                 "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -5165,7 +5165,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1017, 
+                                "id": 1016, 
                                 "guid": "3651ef41-0648-40ed-9f82-5fb4fa3a660f", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -5183,6 +5183,33 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen"
+                                ]
+                            }, 
+                            {
+                                "id": 1047, 
+                                "guid": "212f5815-675d-41df-be82-a6fe8d6c0e93", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                                        "public_name": "Franz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python"
                                 ]
                             }
                         ], 
@@ -5239,7 +5266,7 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1016, 
+                                "id": 1015, 
                                 "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:30:00+01:00", 
@@ -5266,7 +5293,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1025, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:30:00+01:00", 
@@ -5288,7 +5315,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1034, 
+                                "id": 1033, 
                                 "guid": "8e20f78f-9e08-4be3-8202-3f273e02ff52", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -5309,7 +5336,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1038, 
+                                "id": 1037, 
                                 "guid": "94754b4f-c813-4b3f-b9e9-c18932c73e2a", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:00:00+01:00", 
@@ -5336,7 +5363,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1052, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
                                 "date": "2018-12-28T12:00:00+01:00", 
@@ -5364,7 +5391,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1052, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -5437,7 +5464,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1019, 
+                                "id": 1018, 
                                 "guid": "6fee56e3-1d95-4c5f-baa2-abef0ad56da0", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -6567,7 +6594,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1042, 
+                                "id": 1041, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:45:00+01:00", 
@@ -6596,7 +6623,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1043, 
+                                "id": 1042, 
                                 "guid": "e75da001-77b7-402d-82b3-943157807136", 
                                 "logo": null, 
                                 "date": "2018-12-28T16:30:00+01:00", 
@@ -6624,7 +6651,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
+                                "id": 1063, 
                                 "guid": "afaf3909-6630-40af-b377-174b0d319796", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -8431,7 +8458,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-29T19:45:00+01:00", 
@@ -8452,7 +8479,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:10:00+01:00", 
@@ -8475,7 +8502,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1040, 
+                                "id": 1039, 
                                 "guid": "9c76e190-297d-485c-98dd-f63295f21f89", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -8502,34 +8529,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
-                                "guid": "212f5815-675d-41df-be82-a6fe8d6c0e93", 
-                                "logo": null, 
-                                "date": "2018-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
-                                        "public_name": "Franz"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python"
-                                ]
-                            }, 
-                            {
-                                "id": 1057, 
+                                "id": 1056, 
                                 "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
                                 "logo": null, 
                                 "date": "2018-12-29T11:00:00+01:00", 
@@ -8557,7 +8557,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1061, 
                                 "guid": "e13ed565-4787-4e47-a5df-1b5cdd8a1289", 
                                 "logo": null, 
                                 "date": "2018-12-29T18:30:00+01:00", 
@@ -8586,7 +8586,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1035, 
+                                "id": 1034, 
                                 "guid": "eb3e6e50-58e4-46a1-826e-ebc9691713e3", 
                                 "logo": null, 
                                 "date": "2018-12-29T14:00:00+01:00", 
@@ -8607,7 +8607,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1056, 
+                                "id": 1055, 
                                 "guid": "4be5dc31-e708-4b61-a867-9569ccf60b5b", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -8636,7 +8636,7 @@
                         ], 
                         "Lecture room M1": [
                             {
-                                "id": 1024, 
+                                "id": 1023, 
                                 "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -8657,7 +8657,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
+                                "id": 1032, 
                                 "guid": "1a286de5-3a8e-4ba1-8119-e14f8fcc6946", 
                                 "logo": null, 
                                 "date": "2018-12-29T13:00:00+01:00", 
@@ -8681,7 +8681,7 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1022, 
+                                "id": 1021, 
                                 "guid": "33f0fb3d-b49b-484f-b71c-cb378aacd8b1", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:20:00+01:00", 
@@ -8708,7 +8708,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1026, 
+                                "id": 1025, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:30:00+01:00", 
@@ -8730,7 +8730,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1039, 
+                                "id": 1038, 
                                 "guid": "6b6fc2e4-dceb-4560-b75f-659349507ff0", 
                                 "logo": null, 
                                 "date": "2018-12-29T12:45:00+01:00", 
@@ -8751,7 +8751,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1060, 
                                 "guid": "45a13447-70ed-47d2-82ae-e88366738130", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:10:00+01:00", 
@@ -8780,7 +8780,7 @@
                         ], 
                         "Lecture room M3": [
                             {
-                                "id": 1029, 
+                                "id": 1028, 
                                 "guid": "d36cdafd-4273-4106-93e1-4f5a9ab4e45c", 
                                 "logo": null, 
                                 "date": "2018-12-29T14:00:00+01:00", 
@@ -8802,7 +8802,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1046, 
+                                "id": 1045, 
                                 "guid": "789aa0e1-a305-4484-86fa-fcdb42cee442", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:00:00+01:00", 
@@ -10036,7 +10036,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1018, 
+                                "id": 1017, 
                                 "guid": "8584c50c-8391-4be0-8ccc-5e730f33ecdb", 
                                 "logo": null, 
                                 "date": "2018-12-29T13:00:00+01:00", 
@@ -10066,7 +10066,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1025, 
+                                "id": 1024, 
                                 "guid": "8928bbe8-abe0-4d69-8887-49480e6bef00", 
                                 "logo": null, 
                                 "date": "2018-12-29T20:00:00+01:00", 
@@ -10087,7 +10087,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1042, 
+                                "id": 1041, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:45:00+01:00", 
@@ -10700,7 +10700,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1054, 
+                                "id": 1053, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 
@@ -10724,7 +10724,7 @@
                         "Seminar room 14-15": [], 
                         "Seminar room 13": [
                             {
-                                "id": 1021, 
+                                "id": 1020, 
                                 "guid": "deebfa74-b38b-421c-8dbb-fe8dd86d4f2a", 
                                 "logo": null, 
                                 "date": "2018-12-30T11:00:00+01:00", 
@@ -10753,7 +10753,7 @@
                         ], 
                         "Lecture room M1": [
                             {
-                                "id": 1063, 
+                                "id": 1062, 
                                 "guid": "9cd45799-ab73-4d14-87c1-3bfe28be8253", 
                                 "logo": null, 
                                 "date": "2018-12-30T13:10:00+01:00", 
@@ -10782,7 +10782,7 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1026, 
+                                "id": 1025, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:30:00+01:00", 
@@ -11402,7 +11402,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1042, 
+                                "id": 1041, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 

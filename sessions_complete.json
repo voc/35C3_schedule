@@ -230,6 +230,65 @@
             }
         ]
     }, 
+    "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 2b205e6e11659c3cc18cf3577fc75506": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Franz", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "212f5815-675d-41df-be82-a6fe8d6c0e93"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python", 
+        "Has end time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
     "Session:General Angel Meeting# 5a4906843f7857b8f1273ffa4f1d72f2": {
         "Held in language": [
             "en - English"
@@ -1586,14 +1645,14 @@
             }
         ]
     }, 
-    "Session:Foundation workshop: Hands-on, how does the Internet work?# a8397750aaa78ebcf0867d32998f57d3": {
+    "Session:Cashdesk Angel Introduction# b0d44973607f2df0325e4a8221779ae4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546104000", 
-                "raw": "1/2018/12/29/17/20/0/0"
+                "timestamp": "1545863400", 
+                "raw": "1/2018/12/26/22/30/0/0"
             }
         ], 
         "Has event track": [
@@ -1601,15 +1660,15 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop."
+            "Want to try being a cashdesk angel? You'll need this introduction first."
         ], 
         "Has session type": [
-            "Workshop"
+            "Other"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -1618,30 +1677,30 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "fulltext": "User:Rixx", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Foundation workshop: Hands-on, how does the Internet work?"
+            "Cashdesk Angel Introduction"
         ], 
         "Has duration": [
-            50
+            30
         ], 
         "GUID": [
-            "33f0fb3d-b49b-484f-b71c-cb378aacd8b1"
+            "eae0d0dc-1206-4703-9ad5-6a31c41ed5f9"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction", 
         "Has end time": [
             {
-                "timestamp": "1546107000", 
-                "raw": "1/2018/12/29/18/10/0/0"
+                "timestamp": "1545865200", 
+                "raw": "1/2018/12/26/23/0/0/0"
             }
         ]
     }, 
@@ -1697,65 +1756,6 @@
             {
                 "timestamp": "1545854400", 
                 "raw": "1/2018/12/26/20/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Cashdesk Angel Introduction# 746c8618f9c323e7b54fef90a45aeb5d": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545861600", 
-                "raw": "1/2018/12/26/22/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Want to try being a cashdesk angel? You'll need this introduction first."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rixx", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Cashdesk Angel Introduction"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "eae0d0dc-1206-4703-9ad5-6a31c41ed5f9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545863400", 
-                "raw": "1/2018/12/26/22/30/0/0"
             }
         ]
     }, 
@@ -2038,6 +2038,59 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen", 
         "Has end time": []
+    }, 
+    "Session:Translation# 9741fe237c6a278636c7d88d1c4aef1b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009800", 
+                "raw": "1/2018/12/28/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            70
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1546014000", 
+                "raw": "1/2018/12/28/16/20/0/0"
+            }
+        ]
     }, 
     "Session:Koordinierungstreffen Junghackertag# e444e43c9018462d14657ef9bb28fbdd": {
         "Held in language": [
@@ -2714,14 +2767,14 @@
             }
         ]
     }, 
-    "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 65f48cb80c82b39935db42824500e8d1": {
+    "Session:Translation# deaf5bb2068046086e37fea974830293": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
             }
         ], 
         "Has event track": [
@@ -2729,47 +2782,41 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks."
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
         ], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Franz", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
+        "Has subtitle": [
+            "Translation Meeting"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python"
+            "Translation"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "212f5815-675d-41df-be82-a6fe8d6c0e93"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
         "Has end time": [
             {
-                "timestamp": "1546108200", 
-                "raw": "1/2018/12/29/18/30/0/0"
+                "timestamp": "1546188000", 
+                "raw": "1/2018/12/30/16/40/0/0"
             }
         ]
     }, 
@@ -3092,65 +3139,6 @@
             }
         ]
     }, 
-    "Session:Cashdesk Angel Introduction# 9dfa00b366614fdd46f833073db3e0c4": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545850800", 
-                "raw": "1/2018/12/26/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Want to try being a cashdesk angel? You'll need this introduction first."
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rixx", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Cashdesk Angel Introduction"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "26464102-58b6-4dd2-94b4-64592f300be9"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545852600", 
-                "raw": "1/2018/12/26/19/30/0/0"
-            }
-        ]
-    }, 
     "Session:Wondrous Mathematics: Fun with transfinite games# 456d0f5b04b18d6a278d8fc8e5bc83a1": {
         "Held in language": [
             "en - English"
@@ -3322,59 +3310,6 @@
             {
                 "timestamp": "1545870600", 
                 "raw": "1/2018/12/27/0/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Translation# deaf5bb2068046086e37fea974830293": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546182600", 
-                "raw": "1/2018/12/30/15/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1546188000", 
-                "raw": "1/2018/12/30/16/40/0/0"
             }
         ]
     }, 
@@ -4581,14 +4516,14 @@
             }
         ]
     }, 
-    "Session:Translation# 9741fe237c6a278636c7d88d1c4aef1b": {
+    "Session:Foundation workshop: Hands-on, how does the Internet work?# a8397750aaa78ebcf0867d32998f57d3": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546009800", 
-                "raw": "1/2018/12/28/15/10/0/0"
+                "timestamp": "1546104000", 
+                "raw": "1/2018/12/29/17/20/0/0"
             }
         ], 
         "Has event track": [
@@ -4596,41 +4531,47 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+            "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Translation Meeting"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "Translation"
+            "Foundation workshop: Hands-on, how does the Internet work?"
         ], 
         "Has duration": [
-            70
+            50
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "33f0fb3d-b49b-484f-b71c-cb378aacd8b1"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F", 
         "Has end time": [
             {
-                "timestamp": "1546014000", 
-                "raw": "1/2018/12/28/16/20/0/0"
+                "timestamp": "1546107000", 
+                "raw": "1/2018/12/29/18/10/0/0"
             }
         ]
     }, 
