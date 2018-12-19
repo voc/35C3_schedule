@@ -60,6 +60,60 @@
             }
         ]
     }, 
+    "Session:Build your own Yub!Key# 9c945734187a94a6e240b8d16d81f80f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545908400", 
+                "raw": "1/2018/12/27/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/c3re/byoy"
+        ], 
+        "Has description": [
+            "Build your own yubikey-like personal USB-authentication-stick."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Build your own Yub!Key"
+        ], 
+        "Has duration": [
+            360
+        ], 
+        "GUID": [
+            "0d96532c-08c5-46d0-bffe-d639bde55d41"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Build_your_own_Yub!Key", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Blender Artists and Developer Meetup# 18ce5354fdc1470d4149f9e3bbb02918": {
         "Held in language": [
             "de - German"
