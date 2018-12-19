@@ -541,59 +541,6 @@
             }
         ]
     }, 
-    "Session:Translation# 9741fe237c6a278636c7d88d1c4aef1b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546009800", 
-                "raw": "1/2018/12/28/15/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            70
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1546014000", 
-                "raw": "1/2018/12/28/16/20/0/0"
-            }
-        ]
-    }, 
     "Session:General Angel Meeting# 07f18a7b659df5237c62fba89d3b1d92": {
         "Held in language": [
             "en - English"
@@ -1771,112 +1718,6 @@
             }
         ]
     }, 
-    "Session:Translation# 77c3190bc171a00b917ebe4b0e43265b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546026300", 
-                "raw": "1/2018/12/28/19/45/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1546031700", 
-                "raw": "1/2018/12/28/21/15/0/0"
-            }
-        ]
-    }, 
-    "Session:Translation# 7d47d65a281dec55ba7b4a53b5fb2ef7": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546096200", 
-                "raw": "1/2018/12/29/15/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            70
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1546100400", 
-                "raw": "1/2018/12/29/16/20/0/0"
-            }
-        ]
-    }, 
     "Session:Relationship Anarchy# c2316ea874916525a7c0231f105c8c80": {
         "Held in language": [
             "en - English"
@@ -2634,6 +2475,52 @@
             }
         ]
     }, 
+    "Session:Translation# 04b92b2bccfcef45ec09966e463bb6f1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": []
+    }, 
     "Session:\"How To Survive 35C3\" CryptoParty# 08148a971be8e13ea23dfdb73c66427e": {
         "Held in language": [
             "en - English"
@@ -3338,14 +3225,14 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Knitting_workshop_(Strickworkshop)", 
         "Has end time": []
     }, 
-    "Session:Translation# 2b6f7999e2ef605dabdd70a974ce3c16": {
+    "Session:Translation# d359a8c9c2cd78f92fd9af7cf140dc4f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546096200", 
+                "raw": "1/2018/12/29/15/10/0/0"
             }
         ], 
         "Has event track": [
@@ -3374,15 +3261,22 @@
         "Has title": [
             "Translation"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            70
+        ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546100400", 
+                "raw": "1/2018/12/29/16/20/0/0"
+            }
+        ]
     }, 
     "Session:ScaCheapier# 83c04aa9e10bc65420309e568ec6c5aa": {
         "Held in language": [
@@ -3653,6 +3547,59 @@
             {
                 "timestamp": "1546016400", 
                 "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Translation# 52fb970ff0b55a1805dd58cfd00dcc38": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546026300", 
+                "raw": "1/2018/12/28/19/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa5"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1546031700", 
+                "raw": "1/2018/12/28/21/15/0/0"
             }
         ]
     }, 
@@ -4394,6 +4341,59 @@
             {
                 "timestamp": "1546092000", 
                 "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Translation# 3633cf88d95f47281e2eafa61d2a519d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546112700", 
+                "raw": "1/2018/12/29/19/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1546118100", 
+                "raw": "1/2018/12/29/21/15/0/0"
             }
         ]
     }, 
@@ -5141,7 +5141,7 @@
             }
         ]
     }, 
-    "Session:Translation# deaf5bb2068046086e37fea974830293": {
+    "Session:Translation# 63b364d27605cee9b9723d82720b281e": {
         "Held in language": [
             "en - English"
         ], 
@@ -5181,7 +5181,7 @@
             90
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa9"
         ], 
         "Has color": [
             "#0099ab"
@@ -5927,6 +5927,59 @@
             }
         ]
     }, 
+    "Session:Translation# d333e64e668ea71e94628b85553e7bdd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545939900", 
+                "raw": "1/2018/12/27/19/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Translation Meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1545945300", 
+                "raw": "1/2018/12/27/21/15/0/0"
+            }
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# ec48cc254455346321de0ea4294a9ee7": {
         "Held in language": [
             "de - German", 
@@ -6648,59 +6701,6 @@
             }
         ]
     }, 
-    "Session:Translation# 6aa872a21d59cbb49d5ab00f2465e82c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546112700", 
-                "raw": "1/2018/12/29/19/45/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1546118100", 
-                "raw": "1/2018/12/29/21/15/0/0"
-            }
-        ]
-    }, 
     "Session:Surface mount electronics assembly for terrified beginners# c84e3997e5abbc9ca22078ae2a66bc07": {
         "Held in language": [
             "de - German", 
@@ -6816,14 +6816,14 @@
             }
         ]
     }, 
-    "Session:Translation# 86c84ab2eedcc81630dcd9e0e53111cc": {
+    "Session:Translation# a5d9ad7f95c2fca8d5c6bc228da10089": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545939900", 
-                "raw": "1/2018/12/27/19/45/0/0"
+                "timestamp": "1546009800", 
+                "raw": "1/2018/12/28/15/10/0/0"
             }
         ], 
         "Has event track": [
@@ -6853,10 +6853,10 @@
             "Translation"
         ], 
         "Has duration": [
-            90
+            70
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa4"
         ], 
         "Has color": [
             "#0099ab"
@@ -6864,8 +6864,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
         "Has end time": [
             {
-                "timestamp": "1545945300", 
-                "raw": "1/2018/12/27/21/15/0/0"
+                "timestamp": "1546014000", 
+                "raw": "1/2018/12/28/16/20/0/0"
             }
         ]
     }, 
