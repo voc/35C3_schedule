@@ -1,4 +1,116 @@
 {
+    "Session:Ethereum Magicians gathering# 74c3a8409a20f75c4e020abdda1e3b91": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://ethereum-magicians.org/t/magicians-at-35c3/2067/8"
+        ], 
+        "Has description": [
+            "Gathering of Ethereum Magicians"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ligi", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ligi", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Ethereum Magicians gathering"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e86b0dce-cf8c-4485-b247-f42b9f0506ec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ethereum_Magicians_gathering", 
+        "Has end time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Blender Artists and Developer Meetup# 18ce5354fdc1470d4149f9e3bbb02918": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546011000", 
+                "raw": "1/2018/12/28/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Anyone interested in 3D stuff is welcome c: (Person organizing: betalars, but I can't put my name there for some reason :c)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Blender Artists and Developer Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "40881cec-e8c3-4b80-aec3-4cd41b060fd0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blender_Artists_and_Developer_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.# c601b0650da9aa2f69c67e930ead197c": {
         "Held in language": [
             "en - English"
@@ -41,6 +153,68 @@
             {
                 "timestamp": "1545995700", 
                 "raw": "1/2018/12/28/11/15/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 2bb0f97bccc1f2e7551771bd4b39645f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545939000", 
+                "raw": "1/2018/12/27/19/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1, session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1545946200", 
+                "raw": "1/2018/12/27/21/30/0/0"
             }
         ]
     }, 
@@ -88,6 +262,68 @@
             {
                 "timestamp": "1545922800", 
                 "raw": "1/2018/12/27/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# c286898f5dd1f1f0f9f9b62a24f8b7bf": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546167600", 
+                "raw": "1/2018/12/30/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4, session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546174800", 
+                "raw": "1/2018/12/30/13/0/0/0"
             }
         ]
     }, 
@@ -194,6 +430,57 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Aaron's Law and Other Unfinished Business# e3c543ac2bde59c443d81f6c2799aef2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Aaron's Law and Other Unfinished Business"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "249656d2-6f97-47bd-9d47-a4bf7d31f640"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business", 
+        "Has end time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
             }
         ]
     }, 
@@ -413,6 +700,51 @@
             }
         ]
     }, 
+    "Session:Gamma Radiation Monitoring# 1e56c3c93bee4433393477235f18125c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Insights from 40 years of civic gamma radiation measurement networks and DIY sensor development How to pick the fission plant signatures out of atmospheric dose readings"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Capo", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Capo", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Gamma Radiation Monitoring"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "9b621835-f285-4d54-9c07-a7a5d79bfe1f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
+        "Has end time": []
+    }, 
     "Session:A/V Angel Meeting# 4c50e6e8769737f50c4fd6771cc1b35d": {
         "Held in language": [
             "de - German", 
@@ -448,7 +780,15 @@
         "Has subtitle": [
             "Daily A/V Angel Meeting - Day 1"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "A/V Angel Meeting"
         ], 
@@ -649,7 +989,15 @@
         "Has subtitle": [
             "Daily A/V Angel Meeting - Day 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "A/V Angel Meeting"
         ], 
@@ -667,6 +1015,57 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Tor relays operators meetup# feccadb8aa665b0ce22929abd80ddfdd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545928200", 
+                "raw": "1/2018/12/27/16/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tor relays operators meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "af201fc8-81aa-4959-90ae-81307e17a6e3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ]
     }, 
@@ -778,6 +1177,129 @@
             }
         ]
     }, 
+    "Session:Wondrous Mathematics: Fun with transfinite games# 456d0f5b04b18d6a278d8fc8e5bc83a1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Wondrous Mathematics: Fun with transfinite games"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "e13ed565-4787-4e47-a5df-1b5cdd8a1289"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games", 
+        "Has end time": [
+            {
+                "timestamp": "1546110600", 
+                "raw": "1/2018/12/29/19/10/0/0"
+            }
+        ]
+    }, 
+    "Session:A/V Angel Meeting# b260de2af18b0eac9952a64f3728cc0a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545865200", 
+                "raw": "1/2018/12/26/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily Meetup for A/V Angels"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "A/V Technican Meetup"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "A/V Angel Meeting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1545870600", 
+                "raw": "1/2018/12/27/0/30/0/0"
+            }
+        ]
+    }, 
     "Session:Human Rights and Surveillance# 3a96c9dca805aae632a20c9140ed2a01": {
         "Held in language": [
             "en - English"
@@ -826,6 +1348,68 @@
             {
                 "timestamp": "1546009200", 
                 "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Gamma Radiation Monitoring# 49346e6190c9cfcab2f083f5f1679902": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Insights from 40 years of civic gamma radiation measurement networks and DIY sensor development How to pick the fission plant signatures out of atmospheric dose readings"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Civic Rad Protector's Meeting ."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Capo", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Capo", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Gamma Radiation Monitoring"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8928bbe8-abe0-4d69-8887-49480e6bef00"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
+        "Has end time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
             }
         ]
     }, 
@@ -919,6 +1503,13 @@
             {
                 "fulltext": "User:Moelles", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Wurzel3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Wurzel3", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -1062,6 +1653,61 @@
             {
                 "timestamp": "1545918900", 
                 "raw": "1/2018/12/27/13/55/0/0"
+            }
+        ]
+    }, 
+    "Session:Unitary Software Patents Urgency# ca45fd00d6800fd5741824f26050f2be": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.nounitarysoftwarepatents.uk/"
+        ], 
+        "Has description": [
+            "Unitary Software Patents Urgency, or how to install software patents via the Unitary Patent Court (UPC)"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "How to install software patents via the Unitary Patent Court (UPC)"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Unitary Software Patents Urgency"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "7bc214f9-4c4d-448d-bfa0-88c91c39285c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Unitary_Software_Patents_Urgency", 
+        "Has end time": [
+            {
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
             }
         ]
     }, 
@@ -1378,7 +2024,15 @@
         "Has subtitle": [
             "Daily A/V Angel Meeting - Day 3"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "A/V Angel Meeting"
         ], 
@@ -1564,124 +2218,248 @@
             }
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# c75ecac1113dc6c56c0df82687fb1a87": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "b0853196-c34c-416f-8e7d-aaad43a8c7db"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545951600", 
-                "raw": "1/2018/12/27/23/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall und Reaper-Programmierung# ecd67cd60cec61125c841f3271605ddc": {
+    "Session:HaecksenBreakfast# 1aed94973ba7e8f75e8334383b44950f": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://ultraschall.fm"
+            "http://haecksen.org"
         ], 
-        "Has description": [
-            "Programmierung der Audiosoftware Reaper"
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "HaecksenBreakfast"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "3736ba4e-ad99-4b34-9e0d-4ae031dff0a8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast", 
+        "Has end time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Whiskyleaks# 3c5ef01020a2c76afcea18c902af3173": {
+        "Held in language": [
+            "ab - Abkhazian", 
+            "af - Afrikaans", 
+            "an - Aragonese", 
+            "ar - Arabic", 
+            "as - Assamese", 
+            "az - Azerbaijani", 
+            "be - Belarusian", 
+            "bg - Bulgarian", 
+            "bn - Bengali", 
+            "bo - Tibetan", 
+            "br - Breton", 
+            "bs - Bosnian", 
+            "ca - Catalan / Valencian", 
+            "ce - Chechen", 
+            "co - Corsican", 
+            "cs - Czech", 
+            "cu - Church Slavic", 
+            "cy - Welsh", 
+            "da - Danish", 
+            "de - German", 
+            "el - Greek", 
+            "en - English", 
+            "eo - Esperanto", 
+            "es - Spanish / Castilian", 
+            "et - Estonian", 
+            "eu - Basque", 
+            "fa - Persian", 
+            "fi - Finnish", 
+            "fj - Fijian", 
+            "fo - Faroese", 
+            "fr - French", 
+            "fy - Western Frisian", 
+            "ga - Irish", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "gl - Galician", 
+            "gv - Manx", 
+            "he - Hebrew", 
+            "hi - Hindi", 
+            "hr - Croatian", 
+            "ht - Haitian; Haitian Creole", 
+            "hu - Hungarian", 
+            "hy - Armenian", 
+            "id - Indonesian", 
+            "is - Icelandic", 
+            "it - Italian", 
+            "ja - Japanese", 
+            "jv - Javanese", 
+            "ka - Georgian", 
+            "kg - Kongo", 
+            "ko - Korean", 
+            "ku - Kurdish", 
+            "kw - Cornish", 
+            "ky - Kirghiz", 
+            "la - Latin", 
+            "lb - Luxembourgish; Letzeburgesch", 
+            "li - Limburgan; Limburger; Limburgish", 
+            "ln - Lingala", 
+            "lt - Lithuanian", 
+            "lv - Latvian", 
+            "mg - Malagasy", 
+            "mk - Macedonian", 
+            "mn - Mongolian", 
+            "mo - Moldavian", 
+            "ms - Malay", 
+            "mt - Maltese", 
+            "my - Burmese", 
+            "nb - Norwegian (Bokm\u00e5l)", 
+            "ne - Nepali", 
+            "nl - Dutch", 
+            "nn - Norwegian (Nynorsk)", 
+            "no - Norwegian", 
+            "oc - Occitan (post 1500); Proven\u00e7al", 
+            "pl - Polish", 
+            "pt - Portuguese", 
+            "rm - Raeto-Romance", 
+            "ro - Romanian", 
+            "ru - Russian", 
+            "sc - Sardinian", 
+            "se - Northern Sami", 
+            "sk - Slovak", 
+            "sl - Slovenian", 
+            "so - Somali", 
+            "sq - Albanian", 
+            "sr - Serbian", 
+            "sv - Swedish", 
+            "sw - Swahili", 
+            "tk - Turkmen", 
+            "tr - Turkish", 
+            "ty - Tahitian", 
+            "uk - Ukrainian", 
+            "ur - Urdu", 
+            "uz - Uzbek", 
+            "vi - Vietnamese", 
+            "vo - Volap\u00fck", 
+            "yi - Yiddish", 
+            "zh - Chinese"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We leak whisky"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Hooray Whisky"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                "fulltext": "User:MikeTango", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:MikeTango", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Ultraschall und Reaper-Programmierung"
+            "Whiskyleaks"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "d8461af1-2a4e-4371-bf6b-cb08fb8a5ee9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whiskyleaks", 
+        "Has end time": []
+    }, 
+    "Session:New police law in Saxony - police state attacks?# 0d734f86dbe2adaef900ce0834ba12ac": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://sachsens-demokratie.net"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "New police law in Saxony - police state attacks?"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "df883408-2ce9-4640-89c4-112eb0d64394"
+            "b45908f3-31e6-4c01-8d01-e752bcf1f903"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F", 
         "Has end time": [
             {
-                "timestamp": "1546029000", 
-                "raw": "1/2018/12/28/20/30/0/0"
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
             }
         ]
     }, 
@@ -1741,6 +2519,118 @@
             {
                 "timestamp": "1546016400", 
                 "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Bin\u00e4rgewitter H\u00f6rertreffen# ce28a9d6fa930d49e3f6b0f5c06d03c4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545937260", 
+                "raw": "1/2018/12/27/19/1/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://krepel.us"
+        ], 
+        "Has description": [
+            "H\u00f6rertreffen vom Bin\u00e4rgewitter Podcast"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Bin\u00e4rgewitter H\u00f6rertreffen"
+        ], 
+        "Has duration": [
+            59
+        ], 
+        "GUID": [
+            "8b99c47f-86ed-4c06-b508-f135d906b9bc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen", 
+        "Has end time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ]
+    }, 
+    "Session:CMS L\u00f6thelferworkshop# c5ab002cc53910e691d2f6cc86efbe77": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545933660", 
+                "raw": "1/2018/12/27/18/1/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "L\u00f6thelferworkshop"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "CMS L\u00f6thelferworkshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1e313c03-b69b-452c-88d1-cfa0fe297790"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop", 
+        "Has end time": [
+            {
+                "timestamp": "1545937260", 
+                "raw": "1/2018/12/27/19/1/0/0"
             }
         ]
     }, 
@@ -1961,6 +2851,59 @@
             }
         ]
     }, 
+    "Session:Cognitive Stimulation Interfaces: How to Circumvent the Obvious# ddeedbd7e985ef29b5b5805ddb38ba06": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://noduslabs.com"
+        ], 
+        "Has description": [
+            "Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Cognitive Stimulation Interfaces: How to Circumvent the Obvious"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "a9d3f65b-e8d9-4247-9a6d-2bf1378af432"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cognitive_Stimulation_Interfaces:_How_to_Circumvent_the_Obvious", 
+        "Has end time": [
+            {
+                "timestamp": "1546186200", 
+                "raw": "1/2018/12/30/16/10/0/0"
+            }
+        ]
+    }, 
     "Session:Auti Angel Meeting# 6b27f7667d3bfba35eafc28d33c73f4d": {
         "Held in language": [
             "de - German", 
@@ -2023,6 +2966,200 @@
             }
         ]
     }, 
+    "Session:WhiskyTasting# 8155741d7a29c1edb6a26bd9890e5699": {
+        "Held in language": [
+            "cs - Czech", 
+            "de - German", 
+            "en - English", 
+            "es - Spanish / Castilian", 
+            "fi - Finnish", 
+            "fr - French", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "he - Hebrew", 
+            "it - Italian", 
+            "nl - Dutch", 
+            "sv - Swedish"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Whisky_tasting_35c3"
+        ], 
+        "Has description": [
+            "Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Whisky tasting session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bigmac", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "WhiskyTasting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "c11cfe59-01ad-40d7-b541-b0229dd8fda6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting", 
+        "Has end time": [
+            {
+                "timestamp": "1545949800", 
+                "raw": "1/2018/12/27/22/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Document forensics: How to still dox spyware suppliers.# 8727a2a2749d9bd16b9fc5718eb17269": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Doxxing spyware suppliers by using FOIA and leaked material together to dox suppliers."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:DrWhax", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:DrWhax", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Document forensics: How to still dox spyware suppliers."
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.", 
+        "Has end time": [
+            {
+                "timestamp": "1545937200", 
+                "raw": "1/2018/12/27/19/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Numerical Weather Prediction# f270b710e622a83fca7d24b9491c5d34": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://git.hacknology.de/projekte/wrftut"
+        ], 
+        "Has description": [
+            "An introduction to Numerical Weather Prediction systems"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "A gentle introduction to numerical weather prediction, running WRF, and visualizing results"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tecer", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Tecer", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Numerical Weather Prediction"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "67b1c001-e126-4366-b5ce-83721517e03b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Numerical_Weather_Prediction", 
+        "Has end time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Formalizing mathematics in the proof assistant Agda# 2e2b9e60dddf339960c776484daa00fa": {
         "Held in language": [
             "de - German", 
@@ -2080,6 +3217,79 @@
             {
                 "timestamp": "1546173000", 
                 "raw": "1/2018/12/30/12/30/0/0"
+            }
+        ]
+    }, 
+    "Session:WhiskyTasting# 0cf632f1f5841b1b6be91283aeeb1c4e": {
+        "Held in language": [
+            "cs - Czech", 
+            "de - German", 
+            "en - English", 
+            "es - Spanish / Castilian", 
+            "fi - Finnish", 
+            "fr - French", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "he - Hebrew", 
+            "it - Italian", 
+            "nl - Dutch", 
+            "sv - Swedish"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545949800", 
+                "raw": "1/2018/12/27/22/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Whisky_tasting_35c3"
+        ], 
+        "Has description": [
+            "Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Whisky tasting session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Bigmac", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "WhiskyTasting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "f6638acc-dc14-4575-a647-b18bf3fa238a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting", 
+        "Has end time": [
+            {
+                "timestamp": "1545955200", 
+                "raw": "1/2018/12/28/0/0/0/0"
             }
         ]
     }, 
@@ -2174,14 +3384,14 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
         "Has end time": []
     }, 
-    "Session:Wondrous Mathematics: Fun with transfinite games# 456d0f5b04b18d6a278d8fc8e5bc83a1": {
+    "Session:ScaCheapier# 83c04aa9e10bc65420309e568ec6c5aa": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546108200", 
-                "raw": "1/2018/12/29/18/30/0/0"
+                "timestamp": "1546111800", 
+                "raw": "1/2018/12/29/19/30/0/0"
             }
         ], 
         "Has event track": [
@@ -2189,47 +3399,39 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop."
+            "Power Side Channel Analysis on the cheapiest"
         ], 
         "Has session type": [
             "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Wondrous Mathematics: Fun with transfinite games"
+            "ScaCheapier"
         ], 
         "Has duration": [
-            40
+            120
         ], 
         "GUID": [
-            "e13ed565-4787-4e47-a5df-1b5cdd8a1289"
+            "7b3566f7-6baa-4002-812c-baa454f0b08b"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier", 
         "Has end time": [
             {
-                "timestamp": "1546110600", 
-                "raw": "1/2018/12/29/19/10/0/0"
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
             }
         ]
     }, 
@@ -2291,6 +3493,68 @@
             {
                 "timestamp": "1545913800", 
                 "raw": "1/2018/12/27/12/30/0/0"
+            }
+        ]
+    }, 
+    "Session:After the A/V Angel Meeting: Voctomix / Voctoknopf Discussion# 297b9e837ae43f41119705fc0f4835c0": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Voctomix / Voctoknopf discussion after the daily meetup for A/V angels (day 3)"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pivot", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pivot", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "After the A/V Angel Meeting: Voctomix / Voctoknopf Discussion"
+        ], 
+        "Has duration": [
+            75
+        ], 
+        "GUID": [
+            "c7960c6a-4938-41b8-a61d-b7c7f17815ef"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion", 
+        "Has end time": [
+            {
+                "timestamp": "1546112700", 
+                "raw": "1/2018/12/29/19/45/0/0"
             }
         ]
     }, 
@@ -2392,6 +3656,68 @@
             }
         ]
     }, 
+    "Session:Surface mount electronics assembly for terrified beginners# f70cb4862396bbdb9ba209d99e1b4d00": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2, session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
     "Session:Chaos Bug Bounty Meetup# 785f178c76fba26c4633d7b21abbcd35": {
         "Held in language": [
             "en - English"
@@ -2448,6 +3774,123 @@
             {
                 "timestamp": "1546032600", 
                 "raw": "1/2018/12/28/21/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Privacy Meetup. Stammtisch B\u00fcndnis Privatsph\u00e4re Leipzig# 0624bfc990697091a0f745ad5606b158": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://privatsphaere-leipzig.org/"
+        ], 
+        "Has description": [
+            "Meetup organized by the local privacy group in Leipzig"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Privacy Meetup. Stammtisch B\u00fcndnis Privatsph\u00e4re Leipzig"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Privacy_Meetup._Stammtisch_B%C3%BCndnis_Privatsph%C3%A4re_Leipzig", 
+        "Has end time": [
+            {
+                "timestamp": "1546007400", 
+                "raw": "1/2018/12/28/14/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Amiga! Amigaaa! Disksalvation & Scene Gathering# 28c20428a3905f364d6954087f570ee5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://media.ccc.de/v/2018-137-mzakmdcvamigazbh"
+        ], 
+        "Has description": [
+            "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lord", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lord", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Amiga! Amigaaa! Disksalvation & Scene Gathering"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "a389345e-a14c-4823-8ec6-3d07dd6037de"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering", 
+        "Has end time": [
+            {
+                "timestamp": "1546128000", 
+                "raw": "1/2018/12/30/0/0/0/0"
             }
         ]
     }, 
@@ -2570,6 +4013,67 @@
             }
         ]
     }, 
+    "Session:Subtitles Angelmeeting# a99acf1c959ecd39fa85c489e1a8adb5": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Subtitles Angelmeeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "c687a764-0204-46f1-9393-bce5dd7f65fb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
+        "Has end time": [
+            {
+                "timestamp": "1545928200", 
+                "raw": "1/2018/12/27/16/30/0/0"
+            }
+        ]
+    }, 
     "Session:Memorizing pi for fun (not for profit)# 6e36cd656ece65633ad57ec60c47ebcd": {
         "Held in language": [
             "de - German", 
@@ -2621,6 +4125,68 @@
             {
                 "timestamp": "1546183500", 
                 "raw": "1/2018/12/30/15/25/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 34a1e12f73625176122f3214769fa933": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2, session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ]
     }, 
@@ -2778,6 +4344,59 @@
             }
         ]
     }, 
+    "Session:Open Hardware Book Scanner Meetup# 41bd70f38f770d29d61320a22213e8cc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://hackmd.okfn.de/284pkD9uTVizdMHaRMeBnA?both"
+        ], 
+        "Has description": [
+            "We are building different kinds of book scanners. The session is about the current state and open for everyone who want to join."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open Hardware Book Scanner Meetup"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "211a32b1-04d8-45f2-831e-0b09f5296559"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ]
+    }, 
     "Session:Locale Presse-/\u00d6ffentlichkeitsarbeit# 68c3c88d2e2ee5c5d6aecadea76aff60": {
         "Held in language": [
             "de - German", 
@@ -2832,59 +4451,65 @@
             }
         ]
     }, 
-    "Session:A/V Angel Meeting# 74cf5b9cf636ddeea76dc62d3f0487ef": {
+    "Session:Surface mount electronics assembly for terrified beginners# 5f461e7b7ae7349e08609e6186dc426a": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545865200", 
-                "raw": "1/2018/12/26/23/0/0/0"
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Daily Meetup for A/V Angels"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [
-            "Daily A/V Angel Meeting - Day 0 (Shift Assignment)"
+            "Day 2, session 1"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "GUID": [
-            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             {
-                "timestamp": "1545870600", 
-                "raw": "1/2018/12/27/0/30/0/0"
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
             }
         ]
     }, 
@@ -2934,6 +4559,68 @@
             {
                 "timestamp": "1546106400", 
                 "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Ein Tor-Verein f\u00fcr Hamburg# 32199de77e7e89da93d24b0f5362e91a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Auf dem letzten Tor Meetup in Hamburg wurde beschlossen, dass ein Tor-Verein gegr\u00fcndet werden soll. Der aktuelle Stand und die n\u00e4chsten Schritte werden in dieser Session vorgestellt."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Der Stand der Dinge"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kantorkel", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kantorkel", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Ein Tor-Verein f\u00fcr Hamburg"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5545c9a3-44dc-4722-a5eb-3e75e85f6e89"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg", 
+        "Has end time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
             }
         ]
     }, 
@@ -3218,50 +4905,6 @@
             }
         ]
     }, 
-    "Session:Gamma Radiation Monitoring# fe0d32df1de5798bf4326f516fb2ea2e": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Wrapping up 40 years of DIY gamma radiation measures. and measurement devices. How to pick the fission out of atmosphere by citizen data science"
-        ], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Civic Rad Protector's Meeting ."
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Gamma Radiation Monitoring"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "8928bbe8-abe0-4d69-8887-49480e6bef00"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring", 
-        "Has end time": [
-            {
-                "timestamp": "1546119000", 
-                "raw": "1/2018/12/29/21/30/0/0"
-            }
-        ]
-    }, 
     "Session:Datenschleuder-Treffen# 6ec69bd6387b388eaf4e31ca2c5b6c61": {
         "Held in language": [
             "de - German"
@@ -3336,7 +4979,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://events.ccc.de/congress/2018/wiki/index.php/Projects:Junghackertag"
+        ], 
         "Has description": [
             "Abstimmungs- und Vorbereitungstreffen f\u00fcr den Junghackertag"
         ], 
@@ -3353,7 +4998,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Waldvogel", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Koordinierungstreffen Junghackertag"
         ], 
@@ -4214,79 +5867,31 @@
             }
         ]
     }, 
-    "Session:HaecksenBreakfast# 1aed94973ba7e8f75e8334383b44950f": {
+    "Session:Stage Manager Angel Introduction# c75ecac1113dc6c56c0df82687fb1a87": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545994800", 
-                "raw": "1/2018/12/28/11/0/0/0"
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "http://haecksen.org"
+            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager"
         ], 
         "Has description": [], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "HaecksenBreakfast"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "3736ba4e-ad99-4b34-9e0d-4ae031dff0a8"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast", 
-        "Has end time": [
-            {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Document forensics: How to still dox spyware suppliers.# a269c8fd79fc574e2251961154e9acd1": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1545944400", 
-                "raw": "1/2018/12/27/21/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Doxxing spyware suppliers by using FOIA and leaked material together to dox suppliers."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -4295,30 +5900,92 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:DrWhax", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:DrWhax", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Document forensics: How to still dox spyware suppliers."
+            "Stage Manager Angel Introduction"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "GUID": [
-            "3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3"
+            "b0853196-c34c-416f-8e7d-aaad43a8c7db"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction", 
         "Has end time": [
             {
-                "timestamp": "1545948000", 
-                "raw": "1/2018/12/27/22/0/0/0"
+                "timestamp": "1545951600", 
+                "raw": "1/2018/12/27/23/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# ec48cc254455346321de0ea4294a9ee7": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546104600", 
+                "raw": "1/2018/12/29/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3, session 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546111800", 
+                "raw": "1/2018/12/29/19/30/0/0"
             }
         ]
     }, 
@@ -4430,6 +6097,119 @@
             }
         ]
     }, 
+    "Session:Workshop on prison and justice system (de)# ad76d3d0ae648bf9edd9cccc8ad74d7e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://abcdd.org"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Workshop on prison and justice system (de)"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "177023a2-4598-4b02-98a2-e511430e796e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_on_prison_and_justice_system_(de)", 
+        "Has end time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 4293ad928095b4040b7487cfd649c305": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3, session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ]
+    }, 
     "Session:General Angel Meeting# 4de42f7f15113bc69b216f77ae27dfe7": {
         "Held in language": [
             "en - English"
@@ -4485,30 +6265,30 @@
             }
         ]
     }, 
-    "Session:Aaron's Law and Other Unfinished Business# e3c543ac2bde59c443d81f6c2799aef2": {
+    "Session:Introduction into anarchism# 36b5ca65fcd2732f13dbcc66745f1b9f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality."
+        "Has website": [
+            "https://and.notraces.net"
         ], 
+        "Has description": [], 
         "Has session type": [
             "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -4517,22 +6297,187 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Aaron's Law and Other Unfinished Business"
+            "Introduction into anarchism"
         ], 
         "Has duration": [
-            60
+            90
         ], 
         "GUID": [
-            "249656d2-6f97-47bd-9d47-a4bf7d31f640"
+            "a3001e88-3c60-4c44-8d5b-b10d4e887cc3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism", 
         "Has end time": [
+            {
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Follow-up meeting to the Netzpolitik in der Schweiz talk# 065b4243472c37f03d871c2673050497": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546032600", 
+                "raw": "1/2018/12/28/21/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html"
+        ], 
+        "Has description": [
+            "Nach dem Vortrag \u00abSchweiz: Netzpolitik zwischen Bodensee und Matterhorn\u00bb sind alle interessierten Personen eingeladen, die Diskussion an diesem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend)."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Follow-up meeting to the Netzpolitik in der Schweiz talk"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "90e70b6f-f94d-4b02-b779-137337df409a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk", 
+        "Has end time": [
+            {
+                "timestamp": "1546038000", 
+                "raw": "1/2018/12/28/23/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Hands-on introduction to self-Hosting with YunoHost# 9602ed9ab467e729e6fbed29441f93b2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://yunohost.org"
+        ], 
+        "Has description": [
+            "Did you always dream to have your very own server instead of relying on surveillance capitalism services, but don't know where to start ? Then this hands-on workshop is for you ! YunoHost makes it easy to setup your own server with mail and apps with limited technical knowledge."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hands-on introduction to self-Hosting with YunoHost"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "3b8a45bb-a5da-44d3-ae4e-056a964d508f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Ultraschall und Reaper-Programmierung# ecd67cd60cec61125c841f3271605ddc": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
             {
                 "timestamp": "1546023600", 
                 "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ultraschall.fm"
+        ], 
+        "Has description": [
+            "Programmierung der Audiosoftware Reaper"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rstockm", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Ultraschall und Reaper-Programmierung"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "df883408-2ce9-4640-89c4-112eb0d64394"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung", 
+        "Has end time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
             }
         ]
     }, 
@@ -4591,6 +6536,59 @@
             }
         ]
     }, 
+    "Session:Introduction to Tempeh Making# c48ecfc1f8badae60ca498ca9171294a": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Tempeh_making_35c3"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Introduction to Tempeh Making"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "bc5ceda7-17f2-4e3d-9ebd-ef67bd1fa8ff"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making", 
+        "Has end time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Why Does War Happen?# e856a41888c9542e05e24db830bf43c3": {
         "Held in language": [
             "en - English"
@@ -4621,7 +6619,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Aestetix", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Why Does War Happen?"
         ], 
@@ -4695,64 +6701,118 @@
             }
         ]
     }, 
-    "Session:Subtitles Angelmeeting# a99acf1c959ecd39fa85c489e1a8adb5": {
+    "Session:Surface mount electronics assembly for terrified beginners# c84e3997e5abbc9ca22078ae2a66bc07": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day 3, session 2"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Subtitles Angelmeeting"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            30
+            120
         ], 
         "GUID": [
-            "c687a764-0204-46f1-9393-bce5dd7f65fb"
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:SSG Meeting# aa001ea60231f0ec6ef71ae94c365f0c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://none_yet"
+        ], 
+        "Has description": [
+            "SSG developers meeting"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "SSG Meeting"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
             }
         ]
     }, 
@@ -4806,6 +6866,121 @@
             {
                 "timestamp": "1545945300", 
                 "raw": "1/2018/12/27/21/15/0/0"
+            }
+        ]
+    }, 
+    "Session:CRYPTO Currency Assembly Sessions# a0f2326c24e692758c169f8157d389a0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545904800", 
+                "raw": "1/2018/12/27/10/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Talks and come togethers related to the CRYPTO Currency Assembly"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:CRYPTO Currency Assembly / Embassy", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:CRYPTO_Currency_Assembly_/_Embassy", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Arrival"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "CRYPTO Currency Assembly Sessions"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "da67120c-8f47-4bc7-b343-2090e4d9b055"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CRYPTO_Currency_Assembly_Sessions", 
+        "Has end time": [
+            {
+                "timestamp": "1545912000", 
+                "raw": "1/2018/12/27/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# 58c83aaa7c83ca4ca9cd9a18781f767f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545922800", 
+                "raw": "1/2018/12/27/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1, session 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "2f307352-9447-4b63-bb9a-7ef8f38239d7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
             }
         ]
     }, 

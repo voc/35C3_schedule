@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.8 v1.1 2018-12-18 18:00</version>
+  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-19 22:34</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2299,7 +2299,7 @@ The talk aims to inform about the current state of affairs and hoefully foster a
         <track/>
         <type>Klangteppich</type>
         <language>de</language>
-        <abstract>Die Haecksen (https://www.haecksen.org) machen Party! Wir laden alle Wesen auf dem 35c3 ein mit uns zu feiern, uns Fragen zu stellen, zu diskutieren und zu tun was man sonst noch so alles auf ner party macht.</abstract>
+        <abstract>Party at the haecksen's (https://www.haecksen.org)! We invite all beings at the congress to enjoy two hours of electronic, rock, jazz, pop and downtempo beats with dj shroombab.</abstract>
         <description>Gehen Sie weiter. Noch nichts zu sehen.</description>
         <recording>
           <license/>
@@ -2525,6 +2525,10 @@ In diesem Talk wird der aktuelle Stand des Projektes vorgestellt, sowie im Ansch
             <name>margau</name>
             <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
           </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
         </persons>
         <links/>
         <attachments/>
@@ -2742,6 +2746,10 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="12">
             <name>margau</name>
             <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
           </person>
         </persons>
         <links/>
@@ -3124,6 +3132,241 @@ Falls ihr selbst eine tolle Geschichte zu erzählen habt: Meldet euch bei @derph
 &#13;
 Auf Twitter: @derphilipp&#13;
 All seine Podcasts: http://dampfnudel.net</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="3" guid="3a8dd9e1-a581-516d-b3e4-19418371591a">
+        <logo/>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>NSU8Y8</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8</url>
+        <title>Orgameeting Tag 1</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="9" guid="38b15b79-d1eb-5e6f-b50c-ce1ba2817305">
+        <logo/>
+        <date>2018-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>GWJR9B</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B</url>
+        <title>Wikidata-Einführung + Wikidata Query Service Einführung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Discover Wikidata, the free knowledge base from Wikimedia, and learn how to work with it.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="12" guid="f8c096cc-2785-5ce8-9b8d-5aeee71dafb4">
+        <logo/>
+        <date>2018-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>BEANCH</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BEANCH</url>
+        <title>Jugend hackt - Willkommen auf dem Congress!</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="9">
+            <name>Paula</name>
+            <biography/>
+          </person>
+          <person id="10">
+            <name>Robert</name>
+            <biography/>
+          </person>
+          <person id="11">
+            <name>Ilona</name>
+            <biography/>
+          </person>
+          <person id="12">
+            <name>Basti</name>
+            <biography/>
+          </person>
+          <person id="13">
+            <name>Saadya</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="36" guid="fba5593d-a919-531d-833a-4af31897bc69">
+        <logo/>
+        <date>2018-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>WH3E9B</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B</url>
+        <title>Technikschulung Tag 2 für die WikipakaWG</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract>-</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3">
+            <name>robbi5</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="15" guid="46774122-21b4-5f19-8b3f-eba958080a1c">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>ZAPYDL</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL</url>
+        <title>Community Treffen Code for Germany</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <name>Michael</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="11" guid="e62603e3-dcd9-53c9-b649-34ba70bc4ca7">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>7FRCLS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS</url>
+        <title>Hilfe mit Queries</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Additional space to address questions about Wikidata and the query service, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="13" guid="112730d8-6275-559e-8712-6233ffe59de0">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>WGCR99</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99</url>
+        <title>The Things Network / LoRaWAN</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben &amp; Fachsimpeln.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="14">
+            <name>Caspar</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -5851,10 +6094,39 @@ Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
     <room name="OIO Thementisch 4"/>
     <room name="OIO Thementisch 6"/>
     <room name="Bühne">
-      <event id="22" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
+      <event id="29" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
         <logo/>
         <date>2018-12-28T19:15:00+01:00</date>
         <start>19:15</start>
+        <duration>01:00</duration>
+        <room>Bühne</room>
+        <slug>E7MS3S</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
+        <title>Die Wochendämmerung</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
+        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <name>Die Wochendämmerung</name>
+            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="22" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
+        <logo/>
+        <date>2018-12-28T21:45:00+01:00</date>
+        <start>21:45</start>
         <duration>01:00</duration>
         <room>Bühne</room>
         <slug>JZMDEP</slug>
@@ -5877,68 +6149,6 @@ Zur Feier der 100sten Folge präsentiert der Buddler die absurdesten Fakten aus 
           <person id="18">
             <name>Der Buddler</name>
             <biography>Der Buddler ist im wahren Leben gelernter Archäologe und Historiker. Wenn er nicht gerade in irgendwelche Mikrofone redet, plant er Ausstellungen oder schreibt Essays und Fachtexte, die vermutlich keiner liest.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="17" guid="0be9dea4-357c-5de5-8854-0d8cd4a91468">
-        <logo/>
-        <date>2018-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>8EGLK9</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/8EGLK9</url>
-        <title>Rote Bar Podcast präsentiert Podcast-Publikums-Panel</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Rote Bar ist seit 2016 der 1. Late-Night Podcast in Deutschland. Hörbar überall wo es Podcasts gibt.</abstract>
-        <description>Tim aus Frankfurt und Matze aus Köln erscheinen seit 2016 regelmäßig mit ihrem gemeinsamen Podcast Rote Bar. Tim Boltz ist Literatur-Comedian. Mit seinen Comedy-Romanen tourt er regelmäßig durch Deutschland. Außerdem tritt er auf Kreuzfahrtschiffen auf. Matze war Radiomoderator für Energy Bremen oder planetradio in Hessen. Heute schlägt sein Herz für Podcasts. Seit 2016 bringen die zwei euch mit der Rote Bar Late-Night ins Bett. Der Einschlafen-Podcast für alle mit Schlafstörungen. Sie reden als würde keiner zuhören. Du kannst dabei zuhören. &#13;
-&#13;
-Auf der Bühne Reden wir nicht nur über uns, sondern wir wollen mit dem Publikum ins Gespräch kommen und das Thema „Podcast killed the RADIOstar(?!) - Warum Worte wieder geliebt werden“ als ein Art Publikums-Panel diskutieren.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="19">
-            <name>Matze &amp; Tim</name>
-            <biography>Tim Boltz (Frankfurt) &amp; Matze Milberg (Köln)&#13;
-Rote Bar Podcast&#13;
-www.rotebar.de</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="29" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
-        <logo/>
-        <date>2018-12-28T21:45:00+01:00</date>
-        <start>21:45</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>E7MS3S</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
-        <title>Die Wochendämmerung</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
-        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="30">
-            <name>Die Wochendämmerung</name>
-            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
           </person>
         </persons>
         <links/>
@@ -6120,6 +6330,196 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <persons>
           <person id="38">
             <name>Ingo Ebel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="16" guid="ded36d57-579c-524e-9bf8-a7477670608f">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>WFA9YB</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB</url>
+        <title>FragDenStaat User-Treffen</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>Arne</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="34" guid="b87a648f-d84d-5669-b472-3df1a7f8035d">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>PXFGZ8</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8</url>
+        <title>Hebocon-Finale</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="11">
+            <name>Ilona</name>
+            <biography/>
+          </person>
+          <person id="10">
+            <name>Robert</name>
+            <biography/>
+          </person>
+          <person id="29">
+            <name>Philip</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="18" guid="a9e3d617-edc2-545f-9271-30f820b1a559">
+        <logo/>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>VX8N7K</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K</url>
+        <title>Legal Documents Hack</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>Arne</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="21" guid="51af7600-c483-505d-be4b-656a9fd72eac">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>V7FCMD</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD</url>
+        <title>Community Treffen Jugend hackt</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="4" guid="b4fda763-216c-5c9d-b850-f049efa09e9b">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>R9SZCT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT</url>
+        <title>Orgameeting Tag 2</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="20" guid="14be7095-56d4-56b8-ad6e-ef4e08238936">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>JCUCQA</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA</url>
+        <title>Wikidata+Wikibase meetup</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>Léa</name>
             <biography/>
           </person>
         </persons>
@@ -8403,7 +8803,7 @@ Twitter: @JanaGreen | janapahlkoetter.de</biography>
         <track/>
         <type>Klangteppich</type>
         <language>en</language>
-        <abstract>Die Haecksen (https://www.haecksen.org) machen Party! Wir laden alle Wesen auf dem 35c3 ein mit uns zu feiern, uns Fragen zu stellen, zu diskutieren und zu tun was man sonst noch so alles auf ner party macht.</abstract>
+        <abstract>Party with the haecksen! Dance and celebrate with an uplifiting drum and base mix by dj shroombab.</abstract>
         <description>Gehen Sie weiter. Noch nichts zu sehen.</description>
         <recording>
           <license/>
@@ -8692,6 +9092,39 @@ Freifunk since 2003</biography>
           <person id="55">
             <name>just humans</name>
             <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="74" guid="175f6e41-1cf4-5733-b656-5c990453fe2c">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UFZYAS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UFZYAS</url>
+        <title>F-Droid:Pimp your Android(-fork) with the best Free Software apps</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>After a short introduction about software freedom on Android and Custom ROMs, I will demonstrate the Free-Software-App-Repository "F-Droid" with its anarchic and anti-censorship features. But as F-Droid offers you access to hundreds of Free-Software-apps but the sheer amount can be overwhelming in the beginning, so in a next step I will also come up with the 10 or so most important apps (IMHO!).</abstract>
+        <description>F-Droid is a Free-Software-App-only repository for Android systems and every Android-based fork and a powerful client that is designed to be resilient against surveillance and censorship. For its competitive character, F-Droid is not available via other "app stores" (like Google Play). You have to download it via your browser once but then it is easy to install and easy to use - and without the need for any account!&#13;
+&#13;
+Once installed, F-Droid offers you access to hundreds of Free-Software-apps in compiled form and their sources. It also allows you to share (your) apps in mulitple ways, including offline methods and via onion repositories. You can add your own Free-Software-project to the official F-Droid catalogue or even set-up your own repositories and offer access via F-Droid.&#13;
+&#13;
+Unfortunately, F-Droid misses any kind of rating system, so the sheer amount of available Free-Software-apps can be overwhelming in the beginning. So, after a short introduction about software freedom on Android and Custom ROMs, I will demonstrate F-Droid with its anarchic and anti-censorship features. Next, I will come up with the 10 or so most important apps (IMHO!).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="89">
+            <name>Erik Albers</name>
+            <biography>Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.</biography>
           </person>
         </persons>
         <links/>
@@ -9242,6 +9675,257 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
           <person id="5">
             <name>Becci (@genderbeitrag)</name>
             <biography>x</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="23" guid="0967f643-013b-57cc-870b-f2d4dfebc442">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>XRQNHR</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR</url>
+        <title>Building a Wikidata tool</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Much of the work in the Wikimedia universe, and especially on Wikidata, is done using external tools. Here you’ll see how you can build your own!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="1" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>F9NUJT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT</url>
+        <title>Generative Art with Paper.js</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">
+            <name>bleeptrack</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="37" guid="faa0618b-14fe-5542-b160-d6591468a897">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>UYWYWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ</url>
+        <title>Jugend hackt Lightning Talks</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Android entgooglen (Max)&#13;
+Warum ich 1 Mozillian wurde (Jens)&#13;
+Android Entwicklung - Nativ vs nicht-Nativ (Abraham)&#13;
+Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="27" guid="9a59a736-ef6f-57ec-9261-e632cac8b51c">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>ZKJDBE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE</url>
+        <title>Digital what? Wie man Bildung nicht digitalisieren sollte</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Regierungen und politische Entscheidungstragende setzen auf die Forcierung und den Ausbau von Plattformen, um Bildung "endlich" zu digitalisieren. Doch die Umsetzung widerspricht dem Ziel, Menschen dazu zu befähigen, sich im digitalen Raum sicher und mündig zu bewegen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <name>Dominik Theis</name>
+            <biography/>
+          </person>
+          <person id="34">
+            <name>Anja Lorenz</name>
+            <biography/>
+          </person>
+          <person id="35">
+            <name>Jelisaweta Kamm</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="28" guid="38b1c87c-d474-5d11-8559-df4a1e18b507">
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>7CHZ9V</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V</url>
+        <title>Operation Mindfuck #2 - Computer, Kunst und Kuriositäten</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine bunter Blumenstrauß von Nerdsniping-Themen!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">
+            <name>bleeptrack</name>
+            <biography/>
+          </person>
+          <person id="23">
+            <name>blinry</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="5" guid="e6151f47-7ed3-5772-bb7f-201102afd00f">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>BBDTHN</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN</url>
+        <title>Orgameeting Tag 3</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="24" guid="7527606f-ac7f-58c3-a384-eb86cdc93d90">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>VQP8QS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS</url>
+        <title>Hilfe beim Tool-Bauen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract>Additional space to help with building tools, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="33" guid="6f6b4805-90f8-5c54-bfd7-2ba62839419b">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>B3V7LE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE</url>
+        <title>🎂🎉</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>🎉</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>Ulrike</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -10490,6 +11174,166 @@ Wir werden den Congress aus Kinderaugen Revue passieren lassen. Außerdem berich
             <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
 &#13;
 35c3 DECT: 7331 GSM: 7332</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="29" guid="2ef1d870-f2b1-583b-98c6-09574123a90f">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>K7G8NX</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX</url>
+        <title>HackspaceDesignPatterns</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>"Wir brauchen einen Hackspace."&#13;
+Mit dieser Aussage beginnt alles.&#13;
+Aber was ist notwendig, um diese Idee Wirklichkeit werden zu lassen? Einen geeigneten Ort finden, bürokratische und finanzielle Hürden, Raumgestaltung, die Gemeinschaft in Ihrem Raum zusammenhalten ... Es gibt eine Menge Dinge, die man beachten sollte.&#13;
+Mit Hilfe von Design Patterns zeigen wir Euch, wie Ihr Euren eigenen Hackspace aufbauen könnt.&#13;
+&#13;
+Der Hackspace Design Pattern Catalogue wurde erstmals auf der 24C3 vorgestellt. Seitdem sind die HackspaceDesignPatterns DAS Handbuch zum Einrichten eines eigenen Hackspace geworden. Jetzt, über 10 Jahre später, glauben wir ist es an der Zeit, einige dieser Pattern zu aktualisieren.&#13;
+Was ist noch gültig? Was hat sich verändert? Brauchen wir neue Pattern? Brauchen wir Patterns für Makerspaces? etc...&#13;
+Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer Club oder Hackspace an irgendeinem Ort der Welt zu gründen und um von unseren Erfahrungen zu lernen!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">
+            <name>Felix</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="30" guid="cd226ce4-508e-5126-8486-31919cafdcbe">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>TCYPSE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/TCYPSE</url>
+        <title>Selbstorganisations-Tools</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Über die Jahre hab ich mir ne recht große Werkzeugbox mit Tools zur Selbstorganisation und zum Timemanagement angelegt. Viele davon sind ziemlich minimalistisch und kommandozeilen-kompatibel. Ich möchte euch meine Tools vorstellen, und mit euch darüber ins Gespräch kommen, wie ihr das so macht!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <name>blinry</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="31" guid="ff31429a-f7bd-5c10-a816-6c5bfb1295e2">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>A9QYBU</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU</url>
+        <title>How To Become a (Media)Wiki Hacker</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Basic introduction how to get started to hack on Wikimedia software projects with Q&amp;A</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="26">
+            <name>Andre</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="8" guid="386ef762-a66a-5cc2-b6bd-3bd139cb9b07">
+        <logo/>
+        <date>2018-12-30T17:45:00+01:00</date>
+        <start>17:45</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>RXZ3FE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE</url>
+        <title>Abbau-Meeting</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="6" guid="60b68950-57f5-5ca9-880d-9b1a732b2ad1">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>XXY8Q7</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7</url>
+        <title>Orgameeting Tag 4</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
           </person>
         </persons>
         <links/>

@@ -24,20 +24,26 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
-                                "subtitle": "Daily A/V Angel Meeting - Day 0 (Shift Assignment)", 
+                                "subtitle": "A/V Technican Meetup", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Daily Meetup for A/V Angels", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
                                 ]
                             }, 
                             {
-                                "id": 1014, 
+                                "id": 1020, 
                                 "guid": "eae0d0dc-1206-4703-9ad5-6a31c41ed5f9", 
                                 "logo": null, 
                                 "date": "2018-12-26T22:30:00+01:00", 
@@ -64,7 +70,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1063, 
+                                "id": 1085, 
                                 "guid": "1cd15de3-a4ba-4d4b-a565-eab68a76188b", 
                                 "logo": null, 
                                 "date": "2018-12-26T20:00:00+01:00", 
@@ -89,7 +95,7 @@
                         "Vintage Computing Cluster": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1034, 
+                                "id": 1045, 
                                 "guid": "7f0ea54b-63b3-463a-bc68-35780a206f85", 
                                 "logo": null, 
                                 "date": "2018-12-26T20:00:00+01:00", 
@@ -120,7 +126,7 @@
                         "OIO lecture arena": [], 
                         "Lecture room M1": [
                             {
-                                "id": 1057, 
+                                "id": 1076, 
                                 "guid": "ac02f3e2-5c9e-41db-a912-96bda2afb030", 
                                 "logo": null, 
                                 "date": "2018-12-26T20:00:00+01:00", 
@@ -150,7 +156,7 @@
                         ], 
                         "Lecture room M3": [
                             {
-                                "id": 1030, 
+                                "id": 1040, 
                                 "guid": "13ed6368-e819-490b-8d71-7e1b291bb55b", 
                                 "logo": null, 
                                 "date": "2018-12-26T19:00:00+01:00", 
@@ -174,7 +180,7 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1009, 
+                                "id": 1011, 
                                 "guid": "0cf977dd-622f-41ab-9d10-fd9a5b6ca49a", 
                                 "logo": null, 
                                 "date": "2018-12-26T20:00:00+01:00", 
@@ -202,7 +208,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1059, 
+                                "id": 1078, 
                                 "guid": "91d47fec-8f29-4f1f-8301-45bd372b1884", 
                                 "logo": null, 
                                 "date": "2018-12-26T21:00:00+01:00", 
@@ -257,7 +263,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Daily Meetup for A/V Angels", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
@@ -291,11 +303,11 @@
                                 ]
                             }, 
                             {
-                                "id": 1019, 
+                                "id": 1026, 
                                 "guid": "3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3", 
                                 "logo": null, 
-                                "date": "2018-12-27T21:00:00+01:00", 
-                                "start": "21:00", 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
                                 "duration": "1:00", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
@@ -318,7 +330,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:10:00+01:00", 
@@ -339,7 +351,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:45:00+01:00", 
@@ -364,7 +376,7 @@
                         "Vintage Computing Cluster": [], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1026, 
+                                "id": 1036, 
                                 "guid": "84945cde-3908-4f12-ac48-0ada208bf17e", 
                                 "logo": null, 
                                 "date": "2018-12-27T13:10:00+01:00", 
@@ -391,7 +403,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1040, 
+                                "id": 1053, 
                                 "guid": "83dc17af-d621-4012-b039-d7904836e3d3", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -406,13 +418,20 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Abstimmungs- und Vorbereitungstreffen f\u00fcr den Junghackertag", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel", 
+                                        "public_name": "Waldvogel"
+                                    }
+                                ], 
                                 "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Projects:Junghackertag", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Koordinierungstreffen_Junghackertag"
                                 ]
                             }, 
                             {
-                                "id": 1041, 
+                                "id": 1054, 
                                 "guid": "e1ea79e7-a487-4c99-86b2-c2533b22fe69", 
                                 "logo": null, 
                                 "date": "2018-12-27T14:00:00+01:00", 
@@ -433,7 +452,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1055, 
+                                "id": 1072, 
                                 "guid": "d25d9fdc-944a-4d44-b706-387181bc5ee8", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -454,7 +473,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1068, 
+                                "id": 1093, 
                                 "guid": "fd8cdcd7-506d-4441-b59f-7c83263bb873", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -479,7 +498,7 @@
                         "OIO lecture arena": [], 
                         "Lecture room M1": [
                             {
-                                "id": 1058, 
+                                "id": 1077, 
                                 "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -507,7 +526,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1067, 
+                                "id": 1092, 
                                 "guid": "5baa7172-13bb-488c-b9e5-443337e7566b", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -522,7 +541,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "An examination of the Thucydides Trap", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix", 
+                                        "public_name": "Aestetix"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F"
                                 ]
@@ -558,7 +583,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1029, 
+                                "id": 1039, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:15:00+01:00", 
@@ -580,7 +605,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1053, 
+                                "id": 1070, 
                                 "guid": "2231a9ec-2bd9-49c3-85f3-bc179b46126e", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -604,7 +629,7 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1008, 
+                                "id": 1010, 
                                 "guid": "bd012aa6-8ea8-4df6-a115-6d911a61ab03", 
                                 "logo": null, 
                                 "date": "2018-12-27T14:00:00+01:00", 
@@ -632,7 +657,56 @@
                                 ]
                             }, 
                             {
-                                "id": 1023, 
+                                "id": 1013, 
+                                "guid": "8b99c47f-86ed-4c06-b508-f135d906b9bc", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:01:00+01:00", 
+                                "start": "19:01", 
+                                "duration": "0:59", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "H\u00f6rertreffen vom Bin\u00e4rgewitter Podcast", 
+                                "persons": [], 
+                                "links": [
+                                    "http://krepel.us", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 1018, 
+                                "guid": "1e313c03-b69b-452c-88d1-cfa0fe297790", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:01:00+01:00", 
+                                "start": "18:01", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "CMS L\u00f6thelferworkshop", 
+                                "subtitle": "L\u00f6thelferworkshop", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
+                                        "public_name": "Djim"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
                                 "guid": "e4e37c0f-db57-4d10-9a4e-35ec132cda22", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -654,7 +728,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1079, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
                                 "logo": null, 
                                 "date": "2018-12-27T12:00:00+01:00", 
@@ -682,7 +756,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1060, 
+                                "id": 1079, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
                                 "logo": null, 
                                 "date": "2018-12-27T16:00:00+01:00", 
@@ -708,11 +782,32 @@
                                     "https://c3subtitles.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
                                 ]
+                            }, 
+                            {
+                                "id": 1083, 
+                                "guid": "af201fc8-81aa-4959-90ae-81307e17a6e3", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Tor relays operators meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup"
+                                ]
                             }
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1035, 
+                                "id": 1046, 
                                 "guid": "d7757509-abec-403a-811f-2a2cc97c6dcb", 
                                 "logo": null, 
                                 "date": "2018-12-27T18:00:00+01:00", 
@@ -737,6 +832,28 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction"
+                                ]
+                            }, 
+                            {
+                                "id": 1073, 
+                                "guid": "b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "SSG Meeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "SSG developers meeting", 
+                                "persons": [], 
+                                "links": [
+                                    "http://none_yet", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting"
                                 ]
                             }
                         ], 
@@ -766,7 +883,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Daily Meetup for A/V Angels", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
@@ -800,7 +923,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1012, 
+                                "id": 1016, 
                                 "guid": "d2971043-2bc3-4427-a411-6987e3c48e2a", 
                                 "logo": null, 
                                 "date": "2018-12-28T13:30:00+01:00", 
@@ -821,7 +944,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1033, 
+                                "id": 1043, 
                                 "guid": "3736ba4e-ad99-4b34-9e0d-4ae031dff0a8", 
                                 "logo": null, 
                                 "date": "2018-12-28T11:00:00+01:00", 
@@ -843,7 +966,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1048, 
+                                "id": 1062, 
                                 "guid": "18b77974-03f4-43a5-b94c-b2dda689e78c", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -864,7 +987,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1052, 
+                                "id": 1068, 
                                 "guid": "2644582a-5131-46e2-b9c0-ecd65b856ef4", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -885,7 +1008,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:45:00+01:00", 
@@ -906,7 +1029,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -931,7 +1054,7 @@
                         "Vintage Computing Cluster": [], 
                         "CCL Hall 3": [
                             {
-                                "id": 1072, 
+                                "id": 1097, 
                                 "guid": "afaf3909-6630-40af-b377-174b0d319796", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -960,7 +1083,7 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1010, 
+                                "id": 1012, 
                                 "guid": "3e46bf2b-aabb-4418-9865-bee32ca9a505", 
                                 "logo": null, 
                                 "date": "2018-12-28T16:00:00+01:00", 
@@ -992,7 +1115,35 @@
                                 ]
                             }, 
                             {
-                                "id": 1031, 
+                                "id": 1029, 
+                                "guid": "e86b0dce-cf8c-4485-b247-f42b9f0506ec", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Ethereum Magicians gathering", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Gathering of Ethereum Magicians", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ligi", 
+                                        "public_name": "Ligi"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://ethereum-magicians.org/t/magicians-at-35c3/2067/8", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ethereum_Magicians_gathering"
+                                ]
+                            }, 
+                            {
+                                "id": 1041, 
                                 "guid": "365faa84-7ff3-409f-b0a1-d85a4ce31a45", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:00:00+01:00", 
@@ -1020,7 +1171,29 @@
                                 ]
                             }, 
                             {
-                                "id": 1066, 
+                                "id": 1069, 
+                                "guid": "f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Privacy Meetup. Stammtisch B\u00fcndnis Privatsph\u00e4re Leipzig", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup organized by the local privacy group in Leipzig", 
+                                "persons": [], 
+                                "links": [
+                                    "http://privatsphaere-leipzig.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Privacy_Meetup._Stammtisch_B%C3%BCndnis_Privatsph%C3%A4re_Leipzig"
+                                ]
+                            }, 
+                            {
+                                "id": 1088, 
                                 "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -1051,7 +1224,7 @@
                         "OIO lecture arena": [], 
                         "Lecture room M1": [
                             {
-                                "id": 1007, 
+                                "id": 1009, 
                                 "guid": "597b51b4-9b68-49e5-9e11-6e45701654e4", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -1079,7 +1252,51 @@
                                 ]
                             }, 
                             {
-                                "id": 1039, 
+                                "id": 1033, 
+                                "guid": "90e70b6f-f94d-4b02-b779-137337df409a", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Follow-up meeting to the Netzpolitik in der Schweiz talk", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Nach dem Vortrag \u00abSchweiz: Netzpolitik zwischen Bodensee und Matterhorn\u00bb sind alle interessierten Personen eingeladen, die Diskussion an diesem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).", 
+                                "persons": [], 
+                                "links": [
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk"
+                                ]
+                            }, 
+                            {
+                                "id": 1044, 
+                                "guid": "3b8a45bb-a5da-44d3-ae4e-056a964d508f", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Hands-on introduction to self-Hosting with YunoHost", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Did you always dream to have your very own server instead of relying on surveillance capitalism services, but don't know where to start ? Then this hands-on workshop is for you ! YunoHost makes it easy to setup your own server with mail and apps with limited technical knowledge.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://yunohost.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost"
+                                ]
+                            }, 
+                            {
+                                "id": 1052, 
                                 "guid": "510840f6-a273-42f3-89ee-d62ce607f9f6", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:30:00+01:00", 
@@ -1101,7 +1318,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1049, 
+                                "id": 1065, 
                                 "guid": "acc33cc8-f416-4477-8a40-0865e1e456ac", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -1124,7 +1341,7 @@
                         ], 
                         "Lecture room M3": [
                             {
-                                "id": 1011, 
+                                "id": 1015, 
                                 "guid": "b277b00f-6539-4801-bb39-2788eeab1aac", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -1146,7 +1363,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1013, 
+                                "id": 1017, 
                                 "guid": "530b367c-b812-4f2d-a7d7-862e2ece9e7d", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:30:00+01:00", 
@@ -1167,7 +1384,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1022, 
+                                "id": 1031, 
                                 "guid": "6fee56e3-1d95-4c5f-baa2-abef0ad56da0", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -1191,6 +1408,50 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1049, 
+                                "guid": "a3001e88-3c60-4c44-8d5b-b10d4e887cc3", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M3", 
+                                "slug": "", 
+                                "title": "Introduction into anarchism", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://and.notraces.net", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism"
+                                ]
+                            }, 
+                            {
+                                "id": 1089, 
+                                "guid": "7bc214f9-4c4d-448d-bfa0-88c91c39285c", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "", 
+                                "title": "Unitary Software Patents Urgency", 
+                                "subtitle": "How to install software patents via the Unitary Patent Court (UPC)", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Unitary Software Patents Urgency, or how to install software patents via the Unitary Patent Court (UPC)", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.nounitarysoftwarepatents.uk/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Unitary_Software_Patents_Urgency"
                                 ]
                             }
                         ], 
@@ -1217,7 +1478,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1015, 
+                                "id": 1021, 
                                 "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:30:00+01:00", 
@@ -1244,7 +1505,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1029, 
+                                "id": 1039, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:30:00+01:00", 
@@ -1266,7 +1527,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1037, 
+                                "id": 1048, 
                                 "guid": "8e20f78f-9e08-4be3-8202-3f273e02ff52", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -1287,7 +1548,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1042, 
+                                "id": 1055, 
                                 "guid": "94754b4f-c813-4b3f-b9e9-c18932c73e2a", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:00:00+01:00", 
@@ -1314,7 +1575,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
+                                "id": 1067, 
                                 "guid": "e75da001-77b7-402d-82b3-943157807136", 
                                 "logo": null, 
                                 "date": "2018-12-28T16:30:00+01:00", 
@@ -1342,7 +1603,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1080, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
                                 "date": "2018-12-28T12:00:00+01:00", 
@@ -1370,7 +1631,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1061, 
+                                "id": 1080, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -1400,7 +1661,28 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1016, 
+                                "id": 1014, 
+                                "guid": "40881cec-e8c3-4b80-aec3-4cd41b060fd0", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "Blender Artists and Developer Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Anyone interested in 3D stuff is welcome c: (Person organizing: betalars, but I can't put my name there for some reason :c)", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blender_Artists_and_Developer_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1023, 
                                 "guid": "3651ef41-0648-40ed-9f82-5fb4fa3a660f", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -1421,7 +1703,62 @@
                                 ]
                             }, 
                             {
-                                "id": 1056, 
+                                "id": 1028, 
+                                "guid": "5545c9a3-44dc-4722-a5eb-3e75e85f6e89", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "Ein Tor-Verein f\u00fcr Hamburg", 
+                                "subtitle": "Der Stand der Dinge", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Auf dem letzten Tor Meetup in Hamburg wurde beschlossen, dass ein Tor-Verein gegr\u00fcndet werden soll. Der aktuelle Stand und die n\u00e4chsten Schritte werden in dieser Session vorgestellt.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kantorkel", 
+                                        "public_name": "Kantorkel"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg"
+                                ]
+                            }, 
+                            {
+                                "id": 1063, 
+                                "guid": "67b1c001-e126-4366-b5ce-83721517e03b", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "2:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "Numerical Weather Prediction", 
+                                "subtitle": "A gentle introduction to numerical weather prediction, running WRF, and visualizing results", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introduction to Numerical Weather Prediction systems", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Tecer", 
+                                        "public_name": "Tecer"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://git.hacknology.de/projekte/wrftut", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Numerical_Weather_Prediction"
+                                ]
+                            }, 
+                            {
+                                "id": 1075, 
                                 "guid": "212f5815-675d-41df-be82-a6fe8d6c0e93", 
                                 "logo": null, 
                                 "date": "2018-12-28T18:00:00+01:00", 
@@ -1474,14 +1811,48 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Daily Meetup for A/V Angels", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1007, 
+                                "guid": "c7960c6a-4938-41b8-a61d-b7c7f17815ef", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:15", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "After the A/V Angel Meeting: Voctomix / Voctoknopf Discussion", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Voctomix / Voctoknopf discussion after the daily meetup for A/V angels (day 3)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pivot", 
+                                        "public_name": "Pivot"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion"
+                                ]
+                            }, 
+                            {
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-29T19:45:00+01:00", 
@@ -1502,7 +1873,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:10:00+01:00", 
@@ -1521,13 +1892,35 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation"
                                 ]
+                            }, 
+                            {
+                                "id": 1098, 
+                                "guid": "177023a2-4598-4b02-98a2-e511430e796e", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "Workshop on prison and justice system (de)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://abcdd.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_on_prison_and_justice_system_(de)"
+                                ]
                             }
                         ], 
                         "Chaos West Stage": [], 
                         "Vintage Computing Cluster": [], 
                         "CCL Hall 3": [
                             {
-                                "id": 1017, 
+                                "id": 1024, 
                                 "guid": "8584c50c-8391-4be0-8ccc-5e730f33ecdb", 
                                 "logo": null, 
                                 "date": "2018-12-29T13:00:00+01:00", 
@@ -1557,7 +1950,34 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1045, 
+                                "id": 1038, 
+                                "guid": "8928bbe8-abe0-4d69-8887-49480e6bef00", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Gamma Radiation Monitoring", 
+                                "subtitle": "Civic Rad Protector's Meeting .", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Insights from 40 years of civic gamma radiation measurement networks and DIY sensor development How to pick the fission plant signatures out of atmospheric dose readings", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Capo", 
+                                        "public_name": "Capo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring"
+                                ]
+                            }, 
+                            {
+                                "id": 1058, 
                                 "guid": "9c76e190-297d-485c-98dd-f63295f21f89", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -1577,6 +1997,11 @@
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles", 
                                         "public_name": "Moelles"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Wurzel3", 
+                                        "public_name": "Wurzel3"
                                     }
                                 ], 
                                 "links": [
@@ -1584,7 +2009,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1065, 
+                                "id": 1087, 
                                 "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
                                 "logo": null, 
                                 "date": "2018-12-29T11:00:00+01:00", 
@@ -1612,7 +2037,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1070, 
+                                "id": 1095, 
                                 "guid": "e13ed565-4787-4e47-a5df-1b5cdd8a1289", 
                                 "logo": null, 
                                 "date": "2018-12-29T18:30:00+01:00", 
@@ -1642,7 +2067,7 @@
                         "OIO lecture arena": [], 
                         "Lecture room M1": [
                             {
-                                "id": 1021, 
+                                "id": 1030, 
                                 "guid": "77654164-ca0f-48b7-8b74-92fb367fdb7c", 
                                 "logo": null, 
                                 "date": "2018-12-29T18:00:00+01:00", 
@@ -1663,7 +2088,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1027, 
+                                "id": 1037, 
                                 "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -1684,7 +2109,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1036, 
+                                "id": 1047, 
                                 "guid": "1a286de5-3a8e-4ba1-8119-e14f8fcc6946", 
                                 "logo": null, 
                                 "date": "2018-12-29T13:00:00+01:00", 
@@ -1706,7 +2131,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1044, 
+                                "id": 1057, 
                                 "guid": "0d9e8a07-c7b3-4212-9055-2abf1e343431", 
                                 "logo": null, 
                                 "date": "2018-12-29T19:00:00+01:00", 
@@ -1733,7 +2158,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1050, 
+                                "id": 1066, 
                                 "guid": "8b827630-c55d-40bd-884f-ac587bd4f43a", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:00:00+01:00", 
@@ -1756,7 +2181,7 @@
                         ], 
                         "Lecture room M3": [
                             {
-                                "id": 1032, 
+                                "id": 1042, 
                                 "guid": "d36cdafd-4273-4106-93e1-4f5a9ab4e45c", 
                                 "logo": null, 
                                 "date": "2018-12-29T14:00:00+01:00", 
@@ -1778,7 +2203,51 @@
                                 ]
                             }, 
                             {
-                                "id": 1054, 
+                                "id": 1061, 
+                                "guid": "b45908f3-31e6-4c01-8d01-e752bcf1f903", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M3", 
+                                "slug": "", 
+                                "title": "New police law in Saxony - police state attacks?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://sachsens-demokratie.net", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1064, 
+                                "guid": "211a32b1-04d8-45f2-831e-0b09f5296559", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "", 
+                                "title": "Open Hardware Book Scanner Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We are building different kinds of book scanners. The session is about the current state and open for everyone who want to join.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://hackmd.okfn.de/284pkD9uTVizdMHaRMeBnA?both", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1071, 
                                 "guid": "789aa0e1-a305-4484-86fa-fcdb42cee442", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:00:00+01:00", 
@@ -1808,7 +2277,35 @@
                         ], 
                         "Lecture room M2": [
                             {
-                                "id": 1020, 
+                                "id": 1008, 
+                                "guid": "a389345e-a14c-4823-8ec6-3d07dd6037de", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Amiga! Amigaaa! Disksalvation & Scene Gathering", 
+                                "subtitle": "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lord", 
+                                        "public_name": "Lord"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://media.ccc.de/v/2018-137-mzakmdcvamigazbh", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering"
+                                ]
+                            }, 
+                            {
+                                "id": 1027, 
                                 "guid": "2d8406f5-a50c-413d-9d86-9fa77aca2081", 
                                 "logo": null, 
                                 "date": "2018-12-29T20:00:00+01:00", 
@@ -1836,7 +2333,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1025, 
+                                "id": 1035, 
                                 "guid": "33f0fb3d-b49b-484f-b71c-cb378aacd8b1", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:20:00+01:00", 
@@ -1863,7 +2360,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1029, 
+                                "id": 1039, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:30:00+01:00", 
@@ -1885,7 +2382,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1043, 
+                                "id": 1056, 
                                 "guid": "6b6fc2e4-dceb-4560-b75f-659349507ff0", 
                                 "logo": null, 
                                 "date": "2018-12-29T12:45:00+01:00", 
@@ -1906,7 +2403,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1069, 
+                                "id": 1094, 
                                 "guid": "45a13447-70ed-47d2-82ae-e88366738130", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:10:00+01:00", 
@@ -1935,7 +2432,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1038, 
+                                "id": 1051, 
                                 "guid": "eb3e6e50-58e4-46a1-826e-ebc9691713e3", 
                                 "logo": null, 
                                 "date": "2018-12-29T14:00:00+01:00", 
@@ -1956,7 +2453,28 @@
                                 ]
                             }, 
                             {
-                                "id": 1064, 
+                                "id": 1074, 
+                                "guid": "7b3566f7-6baa-4002-812c-baa454f0b08b", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "2:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "ScaCheapier", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Power Side Channel Analysis on the cheapiest", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier"
+                                ]
+                            }, 
+                            {
+                                "id": 1086, 
                                 "guid": "4be5dc31-e708-4b61-a867-9569ccf60b5b", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -1994,7 +2512,7 @@
                     "rooms": {
                         "Lecture room 11": [
                             {
-                                "id": 1062, 
+                                "id": 1084, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 
@@ -2021,7 +2539,29 @@
                         "OIO lecture arena": [], 
                         "Lecture room M1": [
                             {
-                                "id": 1071, 
+                                "id": 1022, 
+                                "guid": "a9d3f65b-e8d9-4247-9a6d-2bf1378af432", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Cognitive Stimulation Interfaces: How to Circumvent the Obvious", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://noduslabs.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cognitive_Stimulation_Interfaces:_How_to_Circumvent_the_Obvious"
+                                ]
+                            }, 
+                            {
+                                "id": 1096, 
                                 "guid": "9cd45799-ab73-4d14-87c1-3bfe28be8253", 
                                 "logo": null, 
                                 "date": "2018-12-30T13:10:00+01:00", 
@@ -2051,7 +2591,7 @@
                         "Lecture room M3": [], 
                         "Lecture room M2": [
                             {
-                                "id": 1029, 
+                                "id": 1039, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca1", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:30:00+01:00", 
@@ -2075,7 +2615,7 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1024, 
+                                "id": 1034, 
                                 "guid": "deebfa74-b38b-421c-8dbb-fe8dd86d4f2a", 
                                 "logo": null, 
                                 "date": "2018-12-30T11:00:00+01:00", 
@@ -2108,6 +2648,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-18 18:00"
+        "version": "2018-12-19 22:34"
     }
 }

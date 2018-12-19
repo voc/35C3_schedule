@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.8 v1.1 2018-12-18 18:00</version>
+  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-19 22:34</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -1987,7 +1987,12 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <language>de</language>
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex</url>
+            <public_name>Jwacalex</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://c3voc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
@@ -2017,10 +2022,10 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_1</link>
         </links>
       </event>
-      <event id="1019" guid="3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3">
+      <event id="1026" guid="3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3">
         <logo/>
-        <date>2018-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Lecture room 11</room>
         <slug/>
@@ -2041,7 +2046,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2060,7 +2065,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2081,7 +2086,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1026" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
+      <event id="1036" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
         <start>13:10</start>
@@ -2105,7 +2110,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
         </links>
       </event>
-      <event id="1040" guid="83dc17af-d621-4012-b039-d7904836e3d3">
+      <event id="1053" guid="83dc17af-d621-4012-b039-d7904836e3d3">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2119,12 +2124,18 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <language>de</language>
         <abstract/>
         <description>Abstimmungs- und Vorbereitungstreffen für den Junghackertag</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel</url>
+            <public_name>Waldvogel</public_name>
+          </person>
+        </persons>
         <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Projects:Junghackertag</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Koordinierungstreffen_Junghackertag</link>
         </links>
       </event>
-      <event id="1041" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
+      <event id="1054" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2143,7 +2154,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LehrerInnenstammtisch</link>
         </links>
       </event>
-      <event id="1055" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
+      <event id="1072" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2162,7 +2173,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
         </links>
       </event>
-      <event id="1068" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
+      <event id="1093" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2184,7 +2195,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1035" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
+      <event id="1046" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2209,9 +2220,29 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
         </links>
       </event>
+      <event id="1073" guid="b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>SSG Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>SSG developers meeting</description>
+        <persons/>
+        <links>
+          <link>http://none_yet</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting</link>
+        </links>
+      </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1058" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+      <event id="1077" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2236,7 +2267,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1067" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
+      <event id="1092" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2250,14 +2281,19 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <language>en</language>
         <abstract/>
         <description>An examination of the Thucydides Trap</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix</url>
+            <public_name>Aestetix</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F</link>
         </links>
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1008" guid="bd012aa6-8ea8-4df6-a115-6d911a61ab03">
+      <event id="1010" guid="bd012aa6-8ea8-4df6-a115-6d911a61ab03">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2282,7 +2318,51 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1023" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
+      <event id="1013" guid="8b99c47f-86ed-4c06-b508-f135d906b9bc">
+        <logo/>
+        <date>2018-12-27T19:01:00+01:00</date>
+        <start>19:01</start>
+        <duration>0:59</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Binärgewitter Hörertreffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Hörertreffen vom Binärgewitter Podcast</description>
+        <persons/>
+        <links>
+          <link>http://krepel.us</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</link>
+        </links>
+      </event>
+      <event id="1018" guid="1e313c03-b69b-452c-88d1-cfa0fe297790">
+        <logo/>
+        <date>2018-12-27T18:01:00+01:00</date>
+        <start>18:01</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>CMS Löthelferworkshop</title>
+        <subtitle>Löthelferworkshop</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einweisung der Lötengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim Löten helfen. Du kannst Dich auf dem Lötengel-Meeting als Lötengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Djim</url>
+            <public_name>Djim</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop</link>
+        </links>
+      </event>
+      <event id="1032" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2302,7 +2382,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
         </links>
       </event>
-      <event id="1060" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+      <event id="1079" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -2327,7 +2407,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1060" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+      <event id="1079" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2350,6 +2430,25 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://c3subtitles.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
+        </links>
+      </event>
+      <event id="1083" guid="af201fc8-81aa-4959-90ae-81307e17a6e3">
+        <logo/>
+        <date>2018-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Tor relays operators meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup</link>
         </links>
       </event>
     </room>
@@ -2379,7 +2478,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22How_To_Survive_35C3%22_CryptoParty</link>
         </links>
       </event>
-      <event id="1029" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1039" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -2399,7 +2498,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1053" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
+      <event id="1070" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2741,7 +2840,7 @@ The talk aims to inform about the current state of affairs and hoefully foster a
         <track/>
         <type>Klangteppich</type>
         <language>de</language>
-        <abstract>Die Haecksen (https://www.haecksen.org) machen Party! Wir laden alle Wesen auf dem 35c3 ein mit uns zu feiern, uns Fragen zu stellen, zu diskutieren und zu tun was man sonst noch so alles auf ner party macht.</abstract>
+        <abstract>Party at the haecksen's (https://www.haecksen.org)! We invite all beings at the congress to enjoy two hours of electronic, rock, jazz, pop and downtempo beats with dj shroombab.</abstract>
         <description>Gehen Sie weiter. Noch nichts zu sehen.</description>
         <recording>
           <license/>
@@ -2967,6 +3066,10 @@ In diesem Talk wird der aktuelle Stand des Projektes vorgestellt, sowie im Ansch
             <name>margau</name>
             <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
           </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
         </persons>
         <links/>
         <attachments/>
@@ -3184,6 +3287,10 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="12">
             <name>margau</name>
             <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
           </person>
         </persons>
         <links/>
@@ -3573,8 +3680,336 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="3" guid="3a8dd9e1-a581-516d-b3e4-19418371591a">
+        <logo/>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>NSU8Y8</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8</url>
+        <title>Orgameeting Tag 1</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="9" guid="38b15b79-d1eb-5e6f-b50c-ce1ba2817305">
+        <logo/>
+        <date>2018-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>GWJR9B</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B</url>
+        <title>Wikidata-Einführung + Wikidata Query Service Einführung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Discover Wikidata, the free knowledge base from Wikimedia, and learn how to work with it.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="12" guid="f8c096cc-2785-5ce8-9b8d-5aeee71dafb4">
+        <logo/>
+        <date>2018-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>BEANCH</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BEANCH</url>
+        <title>Jugend hackt - Willkommen auf dem Congress!</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="9">
+            <name>Paula</name>
+            <biography/>
+          </person>
+          <person id="10">
+            <name>Robert</name>
+            <biography/>
+          </person>
+          <person id="11">
+            <name>Ilona</name>
+            <biography/>
+          </person>
+          <person id="12">
+            <name>Basti</name>
+            <biography/>
+          </person>
+          <person id="13">
+            <name>Saadya</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="36" guid="fba5593d-a919-531d-833a-4af31897bc69">
+        <logo/>
+        <date>2018-12-27T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>WH3E9B</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B</url>
+        <title>Technikschulung Tag 2 für die WikipakaWG</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract>-</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3">
+            <name>robbi5</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="15" guid="46774122-21b4-5f19-8b3f-eba958080a1c">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>ZAPYDL</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL</url>
+        <title>Community Treffen Code for Germany</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <name>Michael</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="11" guid="e62603e3-dcd9-53c9-b649-34ba70bc4ca7">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>7FRCLS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS</url>
+        <title>Hilfe mit Queries</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Additional space to address questions about Wikidata and the query service, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="13" guid="112730d8-6275-559e-8712-6233ffe59de0">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>WGCR99</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99</url>
+        <title>The Things Network / LoRaWAN</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben &amp; Fachsimpeln.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="14">
+            <name>Caspar</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Assembly:CRYPTO Currency Assembly / Embassy">
+      <event id="1019" guid="da67120c-8f47-4bc7-b343-2090e4d9b055">
+        <logo/>
+        <date>2018-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:CRYPTO Currency Assembly / Embassy</room>
+        <slug/>
+        <title>CRYPTO Currency Assembly Sessions</title>
+        <subtitle>Arrival</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Talks and come togethers related to the CRYPTO Currency Assembly</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CRYPTO_Currency_Assembly_Sessions</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1050" guid="bc5ceda7-17f2-4e3d-9ebd-ef67bd1fa8ff">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Introduction to Tempeh Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>cs</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Tempeh_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making</link>
+        </links>
+      </event>
+      <event id="1090" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
+        <logo/>
+        <date>2018-12-27T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>WhiskyTasting</title>
+        <subtitle>Whisky tasting session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>cs</language>
+        <abstract/>
+        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac</url>
+            <public_name>Bigmac</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
+        </links>
+      </event>
+      <event id="1091" guid="c11cfe59-01ad-40d7-b541-b0229dd8fda6">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>WhiskyTasting</title>
+        <subtitle>Whisky tasting session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>cs</language>
+        <abstract/>
+        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac</url>
+            <public_name>Bigmac</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
+        </links>
+      </event>
+    </room>
     <room name="">
-      <event id="1046" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
+      <event id="1059" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
         <logo/>
         <date>2018-12-27T15:45:00+01:00</date>
         <start>15:45</start>
@@ -3596,6 +4031,56 @@ All seine Podcasts: http://dampfnudel.net</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1082" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
     </room>
@@ -5437,7 +5922,12 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <language>de</language>
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex</url>
+            <public_name>Jwacalex</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://c3voc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
@@ -5467,7 +5957,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_2</link>
         </links>
       </event>
-      <event id="1012" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
+      <event id="1016" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
         <logo/>
         <date>2018-12-28T13:30:00+01:00</date>
         <start>13:30</start>
@@ -5486,7 +5976,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1033" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
+      <event id="1043" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -5506,7 +5996,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast</link>
         </links>
       </event>
-      <event id="1048" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
+      <event id="1062" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5525,7 +6015,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
         </links>
       </event>
-      <event id="1052" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
+      <event id="1068" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5544,7 +6034,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-28T19:45:00+01:00</date>
         <start>19:45</start>
@@ -5563,7 +6053,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -5584,7 +6074,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1010" guid="3e46bf2b-aabb-4418-9865-bee32ca9a505">
+      <event id="1012" guid="3e46bf2b-aabb-4418-9865-bee32ca9a505">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -5612,7 +6102,32 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
         </links>
       </event>
-      <event id="1031" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
+      <event id="1029" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
+        <logo/>
+        <date>2018-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Ethereum Magicians gathering</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Gathering of Ethereum Magicians</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Ligi</url>
+            <public_name>Ligi</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://ethereum-magicians.org/t/magicians-at-35c3/2067/8</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ethereum_Magicians_gathering</link>
+        </links>
+      </event>
+      <event id="1041" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5637,7 +6152,27 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen</link>
         </links>
       </event>
-      <event id="1066" guid="df883408-2ce9-4640-89c4-112eb0d64394">
+      <event id="1069" guid="f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Privacy Meetup. Stammtisch Bündnis Privatsphäre Leipzig</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup organized by the local privacy group in Leipzig</description>
+        <persons/>
+        <links>
+          <link>http://privatsphaere-leipzig.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Privacy_Meetup._Stammtisch_B%C3%BCndnis_Privatsph%C3%A4re_Leipzig</link>
+        </links>
+      </event>
+      <event id="1088" guid="df883408-2ce9-4640-89c4-112eb0d64394">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5664,7 +6199,26 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1016" guid="3651ef41-0648-40ed-9f82-5fb4fa3a660f">
+      <event id="1014" guid="40881cec-e8c3-4b80-aec3-4cd41b060fd0">
+        <logo/>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Blender Artists and Developer Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Anyone interested in 3D stuff is welcome c: (Person organizing: betalars, but I can't put my name there for some reason :c)</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blender_Artists_and_Developer_Meetup</link>
+        </links>
+      </event>
+      <event id="1023" guid="3651ef41-0648-40ed-9f82-5fb4fa3a660f">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5683,7 +6237,56 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
         </links>
       </event>
-      <event id="1056" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
+      <event id="1028" guid="5545c9a3-44dc-4722-a5eb-3e75e85f6e89">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Ein Tor-Verein für Hamburg</title>
+        <subtitle>Der Stand der Dinge</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Auf dem letzten Tor Meetup in Hamburg wurde beschlossen, dass ein Tor-Verein gegründet werden soll. Der aktuelle Stand und die nächsten Schritte werden in dieser Session vorgestellt.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kantorkel</url>
+            <public_name>Kantorkel</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg</link>
+        </links>
+      </event>
+      <event id="1063" guid="67b1c001-e126-4366-b5ce-83721517e03b">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Numerical Weather Prediction</title>
+        <subtitle>A gentle introduction to numerical weather prediction, running WRF, and visualizing results</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introduction to Numerical Weather Prediction systems</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Tecer</url>
+            <public_name>Tecer</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://git.hacknology.de/projekte/wrftut</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Numerical_Weather_Prediction</link>
+        </links>
+      </event>
+      <event id="1075" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
         <logo/>
         <date>2018-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -5709,7 +6312,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1007" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
+      <event id="1009" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5734,7 +6337,47 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arch_Linux_Meetup</link>
         </links>
       </event>
-      <event id="1039" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
+      <event id="1033" guid="90e70b6f-f94d-4b02-b779-137337df409a">
+        <logo/>
+        <date>2018-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Follow-up meeting to the Netzpolitik in der Schweiz talk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Nach dem Vortrag «Schweiz: Netzpolitik zwischen Bodensee und Matterhorn» sind alle interessierten Personen eingeladen, die Diskussion an diesem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).</description>
+        <persons/>
+        <links>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk</link>
+        </links>
+      </event>
+      <event id="1044" guid="3b8a45bb-a5da-44d3-ae4e-056a964d508f">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Hands-on introduction to self-Hosting with YunoHost</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Did you always dream to have your very own server instead of relying on surveillance capitalism services, but don't know where to start ? Then this hands-on workshop is for you ! YunoHost makes it easy to setup your own server with mail and apps with limited technical knowledge.</description>
+        <persons/>
+        <links>
+          <link>http://yunohost.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost</link>
+        </links>
+      </event>
+      <event id="1052" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
         <logo/>
         <date>2018-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -5754,7 +6397,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Konsens-Workshop</link>
         </links>
       </event>
-      <event id="1049" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
+      <event id="1065" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5794,7 +6437,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business</link>
         </links>
       </event>
-      <event id="1015" guid="e95c93fc-bd6e-491d-853f-3fd66a8e3584">
+      <event id="1021" guid="e95c93fc-bd6e-491d-853f-3fd66a8e3584">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -5818,7 +6461,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup</link>
         </links>
       </event>
-      <event id="1029" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1039" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -5838,7 +6481,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1037" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
+      <event id="1048" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -5857,7 +6500,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance</link>
         </links>
       </event>
-      <event id="1042" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
+      <event id="1055" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -5881,7 +6524,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
         </links>
       </event>
-      <event id="1051" guid="e75da001-77b7-402d-82b3-943157807136">
+      <event id="1067" guid="e75da001-77b7-402d-82b3-943157807136">
         <logo/>
         <date>2018-12-28T16:30:00+01:00</date>
         <start>16:30</start>
@@ -5906,7 +6549,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop</link>
         </links>
       </event>
-      <event id="1061" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+      <event id="1080" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
         <logo/>
         <date>2018-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -5931,7 +6574,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1061" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+      <event id="1080" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -5958,7 +6601,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1011" guid="b277b00f-6539-4801-bb39-2788eeab1aac">
+      <event id="1015" guid="b277b00f-6539-4801-bb39-2788eeab1aac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5978,7 +6621,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bodymind_Operating_System:_Adaptation,_Infiltration_and_Vulnerability.</link>
         </links>
       </event>
-      <event id="1013" guid="530b367c-b812-4f2d-a7d7-862e2ece9e7d">
+      <event id="1017" guid="530b367c-b812-4f2d-a7d7-862e2ece9e7d">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -5997,7 +6640,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
         </links>
       </event>
-      <event id="1022" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
+      <event id="1031" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6019,6 +6662,46 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
+        </links>
+      </event>
+      <event id="1049" guid="a3001e88-3c60-4c44-8d5b-b10d4e887cc3">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Introduction into anarchism</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://and.notraces.net</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism</link>
+        </links>
+      </event>
+      <event id="1089" guid="7bc214f9-4c4d-448d-bfa0-88c91c39285c">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Unitary Software Patents Urgency</title>
+        <subtitle>How to install software patents via the Unitary Patent Court (UPC)</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Unitary Software Patents Urgency, or how to install software patents via the Unitary Patent Court (UPC)</description>
+        <persons/>
+        <links>
+          <link>http://www.nounitarysoftwarepatents.uk/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Unitary_Software_Patents_Urgency</link>
         </links>
       </event>
     </room>
@@ -6913,10 +7596,39 @@ Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
     <room name="OIO Thementisch 4"/>
     <room name="OIO Thementisch 6"/>
     <room name="Bühne">
-      <event id="22" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
+      <event id="29" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
         <logo/>
         <date>2018-12-28T19:15:00+01:00</date>
         <start>19:15</start>
+        <duration>01:00</duration>
+        <room>Bühne</room>
+        <slug>E7MS3S</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
+        <title>Die Wochendämmerung</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
+        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <name>Die Wochendämmerung</name>
+            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="22" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
+        <logo/>
+        <date>2018-12-28T21:45:00+01:00</date>
+        <start>21:45</start>
         <duration>01:00</duration>
         <room>Bühne</room>
         <slug>JZMDEP</slug>
@@ -6939,68 +7651,6 @@ Zur Feier der 100sten Folge präsentiert der Buddler die absurdesten Fakten aus 
           <person id="18">
             <name>Der Buddler</name>
             <biography>Der Buddler ist im wahren Leben gelernter Archäologe und Historiker. Wenn er nicht gerade in irgendwelche Mikrofone redet, plant er Ausstellungen oder schreibt Essays und Fachtexte, die vermutlich keiner liest.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="17" guid="0be9dea4-357c-5de5-8854-0d8cd4a91468">
-        <logo/>
-        <date>2018-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>8EGLK9</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/8EGLK9</url>
-        <title>Rote Bar Podcast präsentiert Podcast-Publikums-Panel</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Rote Bar ist seit 2016 der 1. Late-Night Podcast in Deutschland. Hörbar überall wo es Podcasts gibt.</abstract>
-        <description>Tim aus Frankfurt und Matze aus Köln erscheinen seit 2016 regelmäßig mit ihrem gemeinsamen Podcast Rote Bar. Tim Boltz ist Literatur-Comedian. Mit seinen Comedy-Romanen tourt er regelmäßig durch Deutschland. Außerdem tritt er auf Kreuzfahrtschiffen auf. Matze war Radiomoderator für Energy Bremen oder planetradio in Hessen. Heute schlägt sein Herz für Podcasts. Seit 2016 bringen die zwei euch mit der Rote Bar Late-Night ins Bett. Der Einschlafen-Podcast für alle mit Schlafstörungen. Sie reden als würde keiner zuhören. Du kannst dabei zuhören. &#13;
-&#13;
-Auf der Bühne Reden wir nicht nur über uns, sondern wir wollen mit dem Publikum ins Gespräch kommen und das Thema „Podcast killed the RADIOstar(?!) - Warum Worte wieder geliebt werden“ als ein Art Publikums-Panel diskutieren.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="19">
-            <name>Matze &amp; Tim</name>
-            <biography>Tim Boltz (Frankfurt) &amp; Matze Milberg (Köln)&#13;
-Rote Bar Podcast&#13;
-www.rotebar.de</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="29" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
-        <logo/>
-        <date>2018-12-28T21:45:00+01:00</date>
-        <start>21:45</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>E7MS3S</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
-        <title>Die Wochendämmerung</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
-        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="30">
-            <name>Die Wochendämmerung</name>
-            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
           </person>
         </persons>
         <links/>
@@ -7190,6 +7840,196 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="16" guid="ded36d57-579c-524e-9bf8-a7477670608f">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>WFA9YB</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB</url>
+        <title>FragDenStaat User-Treffen</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>Arne</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="34" guid="b87a648f-d84d-5669-b472-3df1a7f8035d">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>PXFGZ8</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8</url>
+        <title>Hebocon-Finale</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="11">
+            <name>Ilona</name>
+            <biography/>
+          </person>
+          <person id="10">
+            <name>Robert</name>
+            <biography/>
+          </person>
+          <person id="29">
+            <name>Philip</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="18" guid="a9e3d617-edc2-545f-9271-30f820b1a559">
+        <logo/>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>VX8N7K</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K</url>
+        <title>Legal Documents Hack</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>Arne</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="21" guid="51af7600-c483-505d-be4b-656a9fd72eac">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>V7FCMD</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD</url>
+        <title>Community Treffen Jugend hackt</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="4" guid="b4fda763-216c-5c9d-b850-f049efa09e9b">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>R9SZCT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT</url>
+        <title>Orgameeting Tag 2</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="20" guid="14be7095-56d4-56b8-ad6e-ef4e08238936">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>JCUCQA</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA</url>
+        <title>Wikidata+Wikibase meetup</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>Léa</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="">
       <event id="1006" guid="36acca93-34a4-4e93-9ebe-ec1422058a27">
         <logo/>
@@ -7211,7 +8051,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
         </links>
       </event>
-      <event id="1018" guid="23d52b76-e454-47a3-8649-d486754e462e">
+      <event id="1025" guid="23d52b76-e454-47a3-8649-d486754e462e">
         <logo/>
         <date>2018-12-28T20:00:00+01:00</date>
         <start>20:00</start>
@@ -7230,7 +8070,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
         </links>
       </event>
-      <event id="1047" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1060" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-28T14:45:00+01:00</date>
         <start>14:45</start>
@@ -7255,8 +8095,82 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         </links>
       </event>
     </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="CCL Hall 3">
-      <event id="1072" guid="afaf3909-6630-40af-b377-174b0d319796">
+      <event id="1097" guid="afaf3909-6630-40af-b377-174b0d319796">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -9077,13 +9991,43 @@ However, it's not always easy...</description>
         <language>de</language>
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex</url>
+            <public_name>Jwacalex</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://c3voc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1007" guid="c7960c6a-4938-41b8-a61d-b7c7f17815ef">
+        <logo/>
+        <date>2018-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:15</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>After the A/V Angel Meeting: Voctomix / Voctoknopf Discussion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Voctomix / Voctoknopf discussion after the daily meetup for A/V angels (day 3)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Pivot</url>
+            <public_name>Pivot</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://c3voc.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion</link>
+        </links>
+      </event>
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-29T19:45:00+01:00</date>
         <start>19:45</start>
@@ -9102,7 +10046,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-29T15:10:00+01:00</date>
         <start>15:10</start>
@@ -9121,9 +10065,53 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
+      <event id="1098" guid="177023a2-4598-4b02-98a2-e511430e796e">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Workshop on prison and justice system (de)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://abcdd.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_on_prison_and_justice_system_(de)</link>
+        </links>
+      </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1045" guid="9c76e190-297d-485c-98dd-f63295f21f89">
+      <event id="1038" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Gamma Radiation Monitoring</title>
+        <subtitle>Civic Rad Protector's Meeting .</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Insights from 40 years of civic gamma radiation measurement networks and DIY sensor development How to pick the fission plant signatures out of atmospheric dose readings</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Capo</url>
+            <public_name>Capo</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
+        </links>
+      </event>
+      <event id="1058" guid="9c76e190-297d-485c-98dd-f63295f21f89">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9142,12 +10130,16 @@ However, it's not always easy...</description>
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles</url>
             <public_name>Moelles</public_name>
           </person>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Wurzel3</url>
+            <public_name>Wurzel3</public_name>
+          </person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
         </links>
       </event>
-      <event id="1065" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
+      <event id="1087" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
         <logo/>
         <date>2018-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -9172,7 +10164,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
         </links>
       </event>
-      <event id="1070" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
+      <event id="1095" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
         <logo/>
         <date>2018-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -9198,7 +10190,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Seminar room 13">
-      <event id="1038" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
+      <event id="1051" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9217,7 +10209,26 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
         </links>
       </event>
-      <event id="1064" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
+      <event id="1074" guid="7b3566f7-6baa-4002-812c-baa454f0b08b">
+        <logo/>
+        <date>2018-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>ScaCheapier</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Power Side Channel Analysis on the cheapiest</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier</link>
+        </links>
+      </event>
+      <event id="1086" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9243,7 +10254,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1021" guid="77654164-ca0f-48b7-8b74-92fb367fdb7c">
+      <event id="1030" guid="77654164-ca0f-48b7-8b74-92fb367fdb7c">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -9262,7 +10273,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Everybody_hates_MIMEs_-_Challenges_in_keeping_p%E2%89%A1p_engine_development_free</link>
         </links>
       </event>
-      <event id="1027" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
+      <event id="1037" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -9281,7 +10292,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big</link>
         </links>
       </event>
-      <event id="1036" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
+      <event id="1047" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -9301,7 +10312,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HowToConflict</link>
         </links>
       </event>
-      <event id="1044" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
+      <event id="1057" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
         <logo/>
         <date>2018-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -9325,7 +10336,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
-      <event id="1050" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
+      <event id="1066" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -9346,7 +10357,32 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1020" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
+      <event id="1008" guid="a389345e-a14c-4823-8ec6-3d07dd6037de">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Amiga! Amigaaa! Disksalvation &amp; Scene Gathering</title>
+        <subtitle>Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Lord</url>
+            <public_name>Lord</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://media.ccc.de/v/2018-137-mzakmdcvamigazbh</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering</link>
+        </links>
+      </event>
+      <event id="1027" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -9371,7 +10407,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm</link>
         </links>
       </event>
-      <event id="1025" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
+      <event id="1035" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
         <logo/>
         <date>2018-12-29T17:20:00+01:00</date>
         <start>17:20</start>
@@ -9395,7 +10431,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F</link>
         </links>
       </event>
-      <event id="1029" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1039" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-29T15:30:00+01:00</date>
         <start>15:30</start>
@@ -9415,7 +10451,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1043" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
+      <event id="1056" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
         <logo/>
         <date>2018-12-29T12:45:00+01:00</date>
         <start>12:45</start>
@@ -9434,7 +10470,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
         </links>
       </event>
-      <event id="1069" guid="45a13447-70ed-47d2-82ae-e88366738130">
+      <event id="1094" guid="45a13447-70ed-47d2-82ae-e88366738130">
         <logo/>
         <date>2018-12-29T16:10:00+01:00</date>
         <start>16:10</start>
@@ -9460,7 +10496,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1032" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
+      <event id="1042" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -9480,7 +10516,47 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
         </links>
       </event>
-      <event id="1054" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
+      <event id="1061" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>New police law in Saxony - police state attacks?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://sachsens-demokratie.net</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F</link>
+        </links>
+      </event>
+      <event id="1064" guid="211a32b1-04d8-45f2-831e-0b09f5296559">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug/>
+        <title>Open Hardware Book Scanner Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>We are building different kinds of book scanners. The session is about the current state and open for everyone who want to join.</description>
+        <persons/>
+        <links>
+          <link>https://hackmd.okfn.de/284pkD9uTVizdMHaRMeBnA?both</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup</link>
+        </links>
+      </event>
+      <event id="1071" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -9994,7 +11070,7 @@ Twitter: @JanaGreen | janapahlkoetter.de</biography>
         <track/>
         <type>Klangteppich</type>
         <language>en</language>
-        <abstract>Die Haecksen (https://www.haecksen.org) machen Party! Wir laden alle Wesen auf dem 35c3 ein mit uns zu feiern, uns Fragen zu stellen, zu diskutieren und zu tun was man sonst noch so alles auf ner party macht.</abstract>
+        <abstract>Party with the haecksen! Dance and celebrate with an uplifiting drum and base mix by dj shroombab.</abstract>
         <description>Gehen Sie weiter. Noch nichts zu sehen.</description>
         <recording>
           <license/>
@@ -10283,6 +11359,39 @@ Freifunk since 2003</biography>
           <person id="55">
             <name>just humans</name>
             <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="74" guid="175f6e41-1cf4-5733-b656-5c990453fe2c">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UFZYAS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UFZYAS</url>
+        <title>F-Droid:Pimp your Android(-fork) with the best Free Software apps</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>After a short introduction about software freedom on Android and Custom ROMs, I will demonstrate the Free-Software-App-Repository "F-Droid" with its anarchic and anti-censorship features. But as F-Droid offers you access to hundreds of Free-Software-apps but the sheer amount can be overwhelming in the beginning, so in a next step I will also come up with the 10 or so most important apps (IMHO!).</abstract>
+        <description>F-Droid is a Free-Software-App-only repository for Android systems and every Android-based fork and a powerful client that is designed to be resilient against surveillance and censorship. For its competitive character, F-Droid is not available via other "app stores" (like Google Play). You have to download it via your browser once but then it is easy to install and easy to use - and without the need for any account!&#13;
+&#13;
+Once installed, F-Droid offers you access to hundreds of Free-Software-apps in compiled form and their sources. It also allows you to share (your) apps in mulitple ways, including offline methods and via onion repositories. You can add your own Free-Software-project to the official F-Droid catalogue or even set-up your own repositories and offer access via F-Droid.&#13;
+&#13;
+Unfortunately, F-Droid misses any kind of rating system, so the sheer amount of available Free-Software-apps can be overwhelming in the beginning. So, after a short introduction about software freedom on Android and Custom ROMs, I will demonstrate F-Droid with its anarchic and anti-censorship features. Next, I will come up with the 10 or so most important apps (IMHO!).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="89">
+            <name>Erik Albers</name>
+            <biography>Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.</biography>
           </person>
         </persons>
         <links/>
@@ -10840,8 +11949,259 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="23" guid="0967f643-013b-57cc-870b-f2d4dfebc442">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>XRQNHR</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR</url>
+        <title>Building a Wikidata tool</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Much of the work in the Wikimedia universe, and especially on Wikidata, is done using external tools. Here you’ll see how you can build your own!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="1" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>F9NUJT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT</url>
+        <title>Generative Art with Paper.js</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">
+            <name>bleeptrack</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="37" guid="faa0618b-14fe-5542-b160-d6591468a897">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>UYWYWZ</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ</url>
+        <title>Jugend hackt Lightning Talks</title>
+        <subtitle/>
+        <track/>
+        <type>Lightning Talk</type>
+        <language>de</language>
+        <abstract>Android entgooglen (Max)&#13;
+Warum ich 1 Mozillian wurde (Jens)&#13;
+Android Entwicklung - Nativ vs nicht-Nativ (Abraham)&#13;
+Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="27" guid="9a59a736-ef6f-57ec-9261-e632cac8b51c">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>ZKJDBE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE</url>
+        <title>Digital what? Wie man Bildung nicht digitalisieren sollte</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Regierungen und politische Entscheidungstragende setzen auf die Forcierung und den Ausbau von Plattformen, um Bildung "endlich" zu digitalisieren. Doch die Umsetzung widerspricht dem Ziel, Menschen dazu zu befähigen, sich im digitalen Raum sicher und mündig zu bewegen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <name>Dominik Theis</name>
+            <biography/>
+          </person>
+          <person id="34">
+            <name>Anja Lorenz</name>
+            <biography/>
+          </person>
+          <person id="35">
+            <name>Jelisaweta Kamm</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="28" guid="38b1c87c-d474-5d11-8559-df4a1e18b507">
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>7CHZ9V</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V</url>
+        <title>Operation Mindfuck #2 - Computer, Kunst und Kuriositäten</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Eine bunter Blumenstrauß von Nerdsniping-Themen!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">
+            <name>bleeptrack</name>
+            <biography/>
+          </person>
+          <person id="23">
+            <name>blinry</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="5" guid="e6151f47-7ed3-5772-bb7f-201102afd00f">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>BBDTHN</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN</url>
+        <title>Orgameeting Tag 3</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="24" guid="7527606f-ac7f-58c3-a384-eb86cdc93d90">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>VQP8QS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS</url>
+        <title>Hilfe beim Tool-Bauen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract>Additional space to help with building tools, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="33" guid="6f6b4805-90f8-5c54-bfd7-2ba62839419b">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>B3V7LE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE</url>
+        <title>🎂🎉</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>🎉</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>Ulrike</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="CCL Hall 3">
-      <event id="1017" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
+      <event id="1024" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -10868,26 +12228,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
       </event>
     </room>
     <room name="">
-      <event id="1028" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
-        <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room/>
-        <slug/>
-        <title>Gamma Radiation Monitoring</title>
-        <subtitle>Civic Rad Protector's Meeting .</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Wrapping up 40 years of DIY gamma radiation measures. and measurement devices. How to pick the fission out of atmosphere by citizen data science</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
-        </links>
-      </event>
-      <event id="1047" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1060" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-29T15:45:00+01:00</date>
         <start>15:45</start>
@@ -10909,6 +12250,80 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
     </room>
@@ -11524,7 +12939,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1062" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1084" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -11546,7 +12961,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
     </room>
     <room name="Seminar room 14-15"/>
     <room name="Seminar room 13">
-      <event id="1024" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
+      <event id="1034" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -11572,7 +12987,27 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room M1">
-      <event id="1071" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
+      <event id="1022" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
+        <logo/>
+        <date>2018-12-30T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Cognitive Stimulation Interfaces: How to Circumvent the Obvious</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction.</description>
+        <persons/>
+        <links>
+          <link>http://noduslabs.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cognitive_Stimulation_Interfaces:_How_to_Circumvent_the_Obvious</link>
+        </links>
+      </event>
+      <event id="1096" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
         <logo/>
         <date>2018-12-30T13:10:00+01:00</date>
         <start>13:10</start>
@@ -11598,7 +13033,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1029" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1039" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
         <start>15:30</start>
@@ -12251,8 +13686,168 @@ Wir werden den Congress aus Kinderaugen Revue passieren lassen. Außerdem berich
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Esszimmer">
+      <event id="29" guid="2ef1d870-f2b1-583b-98c6-09574123a90f">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:45</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>K7G8NX</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX</url>
+        <title>HackspaceDesignPatterns</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>"Wir brauchen einen Hackspace."&#13;
+Mit dieser Aussage beginnt alles.&#13;
+Aber was ist notwendig, um diese Idee Wirklichkeit werden zu lassen? Einen geeigneten Ort finden, bürokratische und finanzielle Hürden, Raumgestaltung, die Gemeinschaft in Ihrem Raum zusammenhalten ... Es gibt eine Menge Dinge, die man beachten sollte.&#13;
+Mit Hilfe von Design Patterns zeigen wir Euch, wie Ihr Euren eigenen Hackspace aufbauen könnt.&#13;
+&#13;
+Der Hackspace Design Pattern Catalogue wurde erstmals auf der 24C3 vorgestellt. Seitdem sind die HackspaceDesignPatterns DAS Handbuch zum Einrichten eines eigenen Hackspace geworden. Jetzt, über 10 Jahre später, glauben wir ist es an der Zeit, einige dieser Pattern zu aktualisieren.&#13;
+Was ist noch gültig? Was hat sich verändert? Brauchen wir neue Pattern? Brauchen wir Patterns für Makerspaces? etc...&#13;
+Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer Club oder Hackspace an irgendeinem Ort der Welt zu gründen und um von unseren Erfahrungen zu lernen!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">
+            <name>Felix</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="30" guid="cd226ce4-508e-5126-8486-31919cafdcbe">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>TCYPSE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/TCYPSE</url>
+        <title>Selbstorganisations-Tools</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Über die Jahre hab ich mir ne recht große Werkzeugbox mit Tools zur Selbstorganisation und zum Timemanagement angelegt. Viele davon sind ziemlich minimalistisch und kommandozeilen-kompatibel. Ich möchte euch meine Tools vorstellen, und mit euch darüber ins Gespräch kommen, wie ihr das so macht!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <name>blinry</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="31" guid="ff31429a-f7bd-5c10-a816-6c5bfb1295e2">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>A9QYBU</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU</url>
+        <title>How To Become a (Media)Wiki Hacker</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract>Basic introduction how to get started to hack on Wikimedia software projects with Q&amp;A</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">
+            <name>Daniel</name>
+            <biography/>
+          </person>
+          <person id="26">
+            <name>Andre</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="8" guid="386ef762-a66a-5cc2-b6bd-3bd139cb9b07">
+        <logo/>
+        <date>2018-12-30T17:45:00+01:00</date>
+        <start>17:45</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>RXZ3FE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE</url>
+        <title>Abbau-Meeting</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="WikiPakaWG Küche">
+      <event id="6" guid="60b68950-57f5-5ca9-880d-9b1a732b2ad1">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>XXY8Q7</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7</url>
+        <title>Orgameeting Tag 4</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="">
-      <event id="1047" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1060" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -12274,6 +13869,32 @@ Wir werden den Congress aus Kinderaugen Revue passieren lassen. Außerdem berich
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1081" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 4, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
     </room>
