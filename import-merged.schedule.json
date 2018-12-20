@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 23:00", 
+        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 23:10", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2133,14 +2133,14 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 91, 
-                                        "name": "ijon", 
+                                        "id": 92, 
+                                        "name": "Julia Kr\u00fcger", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
-                                        "id": 92, 
-                                        "name": "Julia Kr\u00fcger", 
+                                        "id": 91, 
+                                        "name": "ijon", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -8026,15 +8026,15 @@
                                 "do_not_record": true, 
                                 "persons": [
                                     {
-                                        "id": 64, 
-                                        "name": "bibor", 
-                                        "biography": "bibor is a random hacker with and interest in firmware, hardware and their security.", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 65, 
                                         "name": "Mimoja", 
                                         "biography": "Mimoja is a western german hacker with a focus on firmware, hardware and security.", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 64, 
+                                        "name": "bibor", 
+                                        "biography": "bibor is a random hacker with and interest in firmware, hardware and their security.", 
                                         "answers": []
                                     }
                                 ], 
@@ -8131,15 +8131,15 @@
                                         "answers": []
                                     }, 
                                     {
-                                        "id": 77, 
-                                        "name": "Jana", 
-                                        "biography": "Jana is an UX, Communication and Public Interest Designer from Wuppertal. She works for the project \"GeoPortal des Guten Lebens\" at the Center for Transformation Research and Sustainability (TransZent) at the University of Wuppertal.\r\n\r\n@JanaGreen |  janapahlkoetter.de", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 78, 
                                         "name": "Ralf", 
                                         "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 77, 
+                                        "name": "Jana", 
+                                        "biography": "Jana is an UX, Communication and Public Interest Designer from Wuppertal. She works for the project \"GeoPortal des Guten Lebens\" at the Center for Transformation Research and Sustainability (TransZent) at the University of Wuppertal.\r\n\r\n@JanaGreen |  janapahlkoetter.de", 
                                         "answers": []
                                     }
                                 ], 
@@ -8199,9 +8199,9 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 47, 
-                                        "name": "ytvwld", 
-                                        "biography": "Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.", 
+                                        "id": 23, 
+                                        "name": "nomaster", 
+                                        "biography": "Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.", 
                                         "answers": []
                                     }, 
                                     {
@@ -8211,9 +8211,9 @@
                                         "answers": []
                                     }, 
                                     {
-                                        "id": 23, 
-                                        "name": "nomaster", 
-                                        "biography": "Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.", 
+                                        "id": 47, 
+                                        "name": "ytvwld", 
+                                        "biography": "Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.", 
                                         "answers": []
                                     }
                                 ], 
@@ -9873,15 +9873,15 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 28, 
-                                        "name": "Alexeyan", 
-                                        "biography": "CTF-Spieler und DJ\r\nhttps://twitter.com/Alexeyan2\r\nhttps://www.mixcloud.com/Alexeyan/", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 10, 
                                         "name": "DrLuke", 
                                         "biography": "I am VJ Pyree", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 28, 
+                                        "name": "Alexeyan", 
+                                        "biography": "CTF-Spieler und DJ\r\nhttps://twitter.com/Alexeyan2\r\nhttps://www.mixcloud.com/Alexeyan/", 
                                         "answers": []
                                     }
                                 ], 
@@ -10003,15 +10003,15 @@
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 50, 
-                                        "name": "ajuvo", 
-                                        "biography": "## Privatier und Zeitzeuge. \r\n\r\n*Ich mache ehrenamtlich Vortr\u00e4ge, Workshops, B\u00fccher, Radio und Podcasts.  Lange Jahre habe ich international Unternehmen, Organisationen und Regierungen beraten, war Diplomat, Lobbyist, Wissenschaftler, akademischer Lehrer und Radiomacher. Alter Sack (tm). \r\n\r\nRadio Hyperbandrauschen auf Berlin 88.4 ;  Podcaster damals-tm-podcast.de ; c-base; c3d2; 0x56686607E8A7D407; Z6X3DTSM; DECT 3370; @ajuvo@chaos.social ; \r\n\r\nzur Zeit c3auti ; Chaospate f\u00fcr Chaos Potsdam \r\n\r\nURL: [crew.c-base.org](https://ajuvo.crew.c-base.org/)", 
-                                        "answers": []
-                                    }, 
-                                    {
                                         "id": 51, 
                                         "name": "therojam", 
                                         "biography": "Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.\r\nToday working in Linux & OpenSource branch as Consultant & Supporter.", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 50, 
+                                        "name": "ajuvo", 
+                                        "biography": "## Privatier und Zeitzeuge. \r\n\r\n*Ich mache ehrenamtlich Vortr\u00e4ge, Workshops, B\u00fccher, Radio und Podcasts.  Lange Jahre habe ich international Unternehmen, Organisationen und Regierungen beraten, war Diplomat, Lobbyist, Wissenschaftler, akademischer Lehrer und Radiomacher. Alter Sack (tm). \r\n\r\nRadio Hyperbandrauschen auf Berlin 88.4 ;  Podcaster damals-tm-podcast.de ; c-base; c3d2; 0x56686607E8A7D407; Z6X3DTSM; DECT 3370; @ajuvo@chaos.social ; \r\n\r\nzur Zeit c3auti ; Chaospate f\u00fcr Chaos Potsdam \r\n\r\nURL: [crew.c-base.org](https://ajuvo.crew.c-base.org/)", 
                                         "answers": []
                                     }
                                 ], 
