@@ -940,57 +940,6 @@
             }
         ]
     }, 
-    "Session:Tor relays operators meetup# feccadb8aa665b0ce22929abd80ddfdd": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Tor relays operators meetup"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "af201fc8-81aa-4959-90ae-81307e17a6e3"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup", 
-        "Has end time": [
-            {
-                "timestamp": "1545933600", 
-                "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ]
-    }, 
     "Session:General Angel Meeting# e5e5ff00eb768eea1430669ddab2afc1": {
         "Held in language": [
             "en - English"
@@ -1741,6 +1690,65 @@
             {
                 "timestamp": "1545861600", 
                 "raw": "1/2018/12/26/22/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Foundation workshop: Hands-on, how does the Internet work?# a8397750aaa78ebcf0867d32998f57d3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546104000", 
+                "raw": "1/2018/12/29/17/20/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Foundation workshop: Hands-on, how does the Internet work?"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "GUID": [
+            "33f0fb3d-b49b-484f-b71c-cb378aacd8b1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F", 
+        "Has end time": [
+            {
+                "timestamp": "1546107000", 
+                "raw": "1/2018/12/29/18/10/0/0"
             }
         ]
     }, 
@@ -2562,14 +2570,14 @@
             }
         ]
     }, 
-    "Session:Foundation workshop: Hands-on, how does the Internet work?# a8397750aaa78ebcf0867d32998f57d3": {
+    "Session:CCCChoir# d3af2c8989d33b2201b1ca05dacd868b": {
         "Held in language": [
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546104000", 
-                "raw": "1/2018/12/29/17/20/0/0"
+                "timestamp": "1545924600", 
+                "raw": "1/2018/12/27/15/30/0/0"
             }
         ], 
         "Has event track": [
@@ -2577,47 +2585,41 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop."
+            "Gemeinsames Chorsingen. All creatures welcome."
         ], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
+        "Has subtitle": [
+            "All creatures welcome, especially beginners"
         ], 
+        "Is organized by": [], 
         "Has title": [
-            "Foundation workshop: Hands-on, how does the Internet work?"
+            "CCCChoir"
         ], 
         "Has duration": [
-            50
+            45
         ], 
         "GUID": [
-            "33f0fb3d-b49b-484f-b71c-cb378aacd8b1"
+            "f4828a36-375f-4136-bfe2-2e3cf1cedf00"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir", 
         "Has end time": [
             {
-                "timestamp": "1546107000", 
-                "raw": "1/2018/12/29/18/10/0/0"
+                "timestamp": "1545927300", 
+                "raw": "1/2018/12/27/16/15/0/0"
             }
         ]
     }, 
@@ -2670,51 +2672,54 @@
             }
         ]
     }, 
-    "Session:CCCChoir# 0f0325ed3a51a266cedd5ec96cdffc61": {
+    "Session:Tor relays operators meetup# feccadb8aa665b0ce22929abd80ddfdd": {
         "Held in language": [
-            "de - German"
+            "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545928200", 
+                "raw": "1/2018/12/27/16/30/0/0"
+            }
+        ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
         "Has description": [
-            "Gemeinsames Chorsingen. All creatures welcome."
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "All creatures welcome, especially beginners"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "CCCChoir"
+            "Tor relays operators meetup"
         ], 
         "Has duration": [
-            45
+            90
         ], 
         "GUID": [
-            "f4828a36-375f-4136-bfe2-2e3cf1cedf00"
+            "af201fc8-81aa-4959-90ae-81307e17a6e3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup", 
         "Has end time": [
             {
-                "timestamp": "1545927300", 
-                "raw": "1/2018/12/27/16/15/0/0"
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ]
     }, 
@@ -6099,54 +6104,67 @@
             }
         ]
     }, 
-    "Session:Introduction into anarchism# 36b5ca65fcd2732f13dbcc66745f1b9f": {
+    "Session:A/V Angel Meeting# 7275f9cb5f508be64388f016ea58a2d0": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546025400", 
-                "raw": "1/2018/12/28/19/30/0/0"
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://and.notraces.net"
+            "https://c3voc.de/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Daily Meetup for A/V Angels"
+        ], 
         "Has session type": [
-            "Talk"
+            "Discussion"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
-            "Introduction into anarchism"
+            "A/V Angel Meeting"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "a3001e88-3c60-4c44-8d5b-b10d4e887cc3"
+            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
         "Has end time": [
             {
-                "timestamp": "1546030800", 
-                "raw": "1/2018/12/28/21/0/0/0"
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
             }
         ]
     }, 
@@ -6703,67 +6721,54 @@
             }
         ]
     }, 
-    "Session:A/V Angel Meeting# 7275f9cb5f508be64388f016ea58a2d0": {
+    "Session:Introduction into anarchism# 36b5ca65fcd2732f13dbcc66745f1b9f": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://c3voc.de/"
+            "https://and.notraces.net"
         ], 
-        "Has description": [
-            "Daily Meetup for A/V Angels"
-        ], 
+        "Has description": [], 
         "Has session type": [
-            "Discussion"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Day 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Introduction into anarchism"
         ], 
         "Has duration": [
             90
         ], 
         "GUID": [
-            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
+            "a3001e88-3c60-4c44-8d5b-b10d4e887cc3"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism", 
         "Has end time": [
             {
-                "timestamp": "1546021800", 
-                "raw": "1/2018/12/28/18/30/0/0"
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
             }
         ]
     }, 
