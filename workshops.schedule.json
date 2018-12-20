@@ -70,6 +70,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1140, 
+                                "guid": "2f310a9e-c8f5-4f48-8760-87419e256e61", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 0 (all translators)", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
                                 "id": 1118, 
                                 "guid": "1cd15de3-a4ba-4d4b-a565-eab68a76188b", 
                                 "logo": null, 
@@ -2946,6 +2967,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-20 19:30"
+        "version": "2018-12-20 19:40"
     }
 }

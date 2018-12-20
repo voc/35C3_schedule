@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 19:30", 
+        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 19:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -4045,6 +4045,50 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
                                 ]
                             }
+                        ], 
+                        "": [
+                            {
+                                "id": 1142, 
+                                "guid": "85caaa0d-3265-5b7f-a023-1eb06a004da0", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 1b", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1146, 
+                                "guid": "a4aa63cf-b670-5163-b8be-9a1c1085db46", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 1a", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
                         ]
                     }
                 }, 
@@ -7982,6 +8026,48 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party"
+                                ]
+                            }, 
+                            {
+                                "id": 1144, 
+                                "guid": "5b7e4df9-2b03-5e2d-bd72-9642e5ff8998", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 2b", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1147, 
+                                "guid": "183eeee6-8916-5606-ab91-70c42333d423", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 2a", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ], 
@@ -12329,6 +12415,50 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
                                 ]
                             }
+                        ], 
+                        "": [
+                            {
+                                "id": 1141, 
+                                "guid": "f5427987-a60c-467b-8dd7-9db40e8719fa", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 3b", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1143, 
+                                "guid": "16bd5907-8b06-5a4c-a9d3-8d84f6816a0d", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 3a", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
                         ]
                     }
                 }, 
@@ -13906,6 +14036,29 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }
+                        ], 
+                        "": [
+                            {
+                                "id": 1145, 
+                                "guid": "444b5383-f8e4-56a7-8fb5-8582efdc60ef", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 4", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ]
