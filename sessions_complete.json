@@ -1237,70 +1237,6 @@
             }
         ]
     }, 
-    "Session:A/V Angel Meeting# b260de2af18b0eac9952a64f3728cc0a": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545865200", 
-                "raw": "1/2018/12/26/23/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
-        "Has description": [
-            "Daily Meetup for A/V Angels"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "A/V Technican Meetup"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "A/V Angel Meeting"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
-        "Has end time": [
-            {
-                "timestamp": "1545870600", 
-                "raw": "1/2018/12/27/0/30/0/0"
-            }
-        ]
-    }, 
     "Session:Human Rights and Surveillance# 3a96c9dca805aae632a20c9140ed2a01": {
         "Held in language": [
             "en - English"
@@ -1349,6 +1285,70 @@
             {
                 "timestamp": "1546009200", 
                 "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:A/V Angel Meeting# 7f2c1ac5d8fe326482b51739b4a8d55d": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily Meetup for A/V Angels"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Daily A/V Angel Meeting - Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "A/V Angel Meeting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
             }
         ]
     }, 
@@ -1884,67 +1884,65 @@
             }
         ]
     }, 
-    "Session:A/V Angel Meeting# 4b815c0c95383d5753069d92710b5cb5": {
+    "Session:Surface mount electronics assembly for terrified beginners# 34a1e12f73625176122f3214769fa933": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://c3voc.de/"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Daily Meetup for A/V Angels"
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
         ], 
         "Has session type": [
-            "Discussion"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [
-            "Daily A/V Angel Meeting - Day 3"
+            "Day 2, session 2"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Jwacalex", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "A/V Angel Meeting"
+            "Surface mount electronics assembly for terrified beginners"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "GUID": [
-            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab"
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
         "Has end time": [
             {
-                "timestamp": "1546108200", 
-                "raw": "1/2018/12/29/18/30/0/0"
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ]
     }, 
@@ -2528,52 +2526,6 @@
                 "raw": "1/2018/12/27/19/1/0/0"
             }
         ]
-    }, 
-    "Session:Translation# 04b92b2bccfcef45ec09966e463bb6f1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Translation Meeting"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa8"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": []
     }, 
     "Session:\"How To Survive 35C3\" CryptoParty# 08148a971be8e13ea23dfdb73c66427e": {
         "Held in language": [
@@ -4126,68 +4078,6 @@
             {
                 "timestamp": "1546183500", 
                 "raw": "1/2018/12/30/15/25/0/0"
-            }
-        ]
-    }, 
-    "Session:Surface mount electronics assembly for terrified beginners# 34a1e12f73625176122f3214769fa933": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Hardware Hacking Area", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Day 2, session 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "4dd26602-bf1f-454f-bd0b-e3c51ebd4278"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
-        "Has end time": [
-            {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
             }
         ]
     }, 
@@ -5978,6 +5868,70 @@
             {
                 "timestamp": "1545951600", 
                 "raw": "1/2018/12/27/23/0/0/0"
+            }
+        ]
+    }, 
+    "Session:A/V Angel Meeting# ba4e6727a8c476eabc7bef9055726986": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545865200", 
+                "raw": "1/2018/12/26/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Daily Meetup for A/V Angels"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "A/V Technican Meetup"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "A/V Angel Meeting"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "83e455a6-c0bc-4364-b4df-8bc7b7dd01ad"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1545870600", 
+                "raw": "1/2018/12/27/0/30/0/0"
             }
         ]
     }, 
