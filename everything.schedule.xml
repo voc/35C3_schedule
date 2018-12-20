@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 10:30</version>
+  <version>Buffy 2.1 0.9.9 v0.3 0.3 2018-12-20 10:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -7662,6 +7662,30 @@ Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
             <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
           </person>
         </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="37" guid="4815f212-911e-5a64-9496-df5fd2c3f7ff">
+        <logo/>
+        <date>2018-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>Bühne</room>
+        <slug>MXZKDC</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/MXZKDC</url>
+        <title>NSU-Watch</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland.</abstract>
+        <description>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland. Gesprächiger als sonst im Podcast, der meist eher featuresk ist.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
         <answers/>
