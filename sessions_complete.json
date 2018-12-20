@@ -7118,6 +7118,61 @@
             }
         ]
     }, 
+    "Session:ARM ROP Exploitation Intro# da5589d3c99db9e08fa22411df8a32ff": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545832800", 
+                "raw": "1/2018/12/26/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
+            "https://blog.3or.de//35c3"
+        ], 
+        "Has description": [
+            "Exploiting stack based buffer overflows using ROP on ARM"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "ARM ROP Exploitation Intro"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "dd8c40c5-e24b-4246-bc6a-014b6f392949"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro", 
+        "Has end time": [
+            {
+                "timestamp": "1545843600", 
+                "raw": "1/2018/12/26/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Let's hack words!# 96dd68006422b933c402ba1e0e45984a": {
         "Held in language": [
             "de - German", 
