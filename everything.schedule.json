@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 22:40", 
+        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 22:50", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -14113,6 +14113,51 @@
                                 ]
                             }
                         ], 
+                        "": [
+                            {
+                                "id": 1152, 
+                                "guid": "2bb37af8-e6a6-4056-8522-126dd2674594", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Mietsh\u00e4user Syndikat Hausbesichtigung", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "outside", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Besichtigung Syndikatsprojekt Sch\u00f6nerHausen", 
+                                "persons": [], 
+                                "links": [
+                                    "https://schoenerhausen.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat_Hausbesichtigung"
+                                ]
+                            }, 
+                            {
+                                "id": 1145, 
+                                "guid": "444b5383-f8e4-56a7-8fb5-8582efdc60ef", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 4", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
+                        ], 
                         "Assembly:Hardware Hacking Area": [
                             {
                                 "id": 1116, 
@@ -14139,29 +14184,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }
-                        ], 
-                        "": [
-                            {
-                                "id": 1145, 
-                                "guid": "444b5383-f8e4-56a7-8fb5-8582efdc60ef", 
-                                "logo": null, 
-                                "date": "2018-12-30T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:30", 
-                                "room": "", 
-                                "slug": "", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 4", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ]
