@@ -538,67 +538,14 @@
             }
         ]
     }, 
-    "Session:Translation# cc22b8531db849ac43620a3ede2c1822": {
+    "Session:General Angel Meeting# 5ab6d08dcbbe920636bf816379565b8d": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545923400", 
-                "raw": "1/2018/12/27/15/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Meeting Day 1a"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Translation"
-        ], 
-        "Has duration": [
-            70
-        ], 
-        "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
-        "Has end time": [
-            {
-                "timestamp": "1545927600", 
-                "raw": "1/2018/12/27/16/20/0/0"
-            }
-        ]
-    }, 
-    "Session:General Angel Meeting# 07f18a7b659df5237c62fba89d3b1d92": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546097400", 
-                "raw": "1/2018/12/29/15/30/0/0"
+                "timestamp": "1546011000", 
+                "raw": "1/2018/12/28/15/30/0/0"
             }
         ], 
         "Has event track": [
@@ -623,7 +570,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day3"
+            "Day2"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -633,7 +580,7 @@
             30
         ], 
         "GUID": [
-            "21d93c08-e863-4a3a-b94b-cf6a8b77dca1"
+            "21d93c08-e863-4a3a-b94b-cf6a8b77dca2"
         ], 
         "Has color": [
             "#0099ab"
@@ -641,8 +588,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting", 
         "Has end time": [
             {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ]
     }, 
@@ -1752,67 +1699,6 @@
             }
         ]
     }, 
-    "Session:Subtitles Angelmeeting# eb59264bbf2bf349bc294eccb7b54d1e": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
-        "Has description": [
-            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Subtitles Angelmeeting"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "05f4a625-0ef3-483a-8afd-954c93e7d2d6"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
-        "Has end time": [
-            {
-                "timestamp": "1546025400", 
-                "raw": "1/2018/12/28/19/30/0/0"
-            }
-        ]
-    }, 
     "Session:Surface mount electronics assembly for terrified beginners# 34a1e12f73625176122f3214769fa933": {
         "Held in language": [
             "de - German", 
@@ -2141,6 +2027,61 @@
             {
                 "timestamp": "1546100400", 
                 "raw": "1/2018/12/29/16/20/0/0"
+            }
+        ]
+    }, 
+    "Session:General Angel Meeting# 4cbf19bc61f8349d03ef5de7f4e79141": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://engelsystem.de/35c3/"
+        ], 
+        "Has description": [
+            "Angel Meeting"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day3"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "General Angel Meeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "21d93c08-e863-4a3a-b94b-cf6a8b77dca3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
             }
         ]
     }, 
@@ -3901,67 +3842,6 @@
             }
         ]
     }, 
-    "Session:Subtitles Angelmeeting# a99acf1c959ecd39fa85c489e1a8adb5": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://c3subtitles.de/"
-        ], 
-        "Has description": [
-            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Cube", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Subtitles Angelmeeting"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "c687a764-0204-46f1-9393-bce5dd7f65fb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
-        "Has end time": [
-            {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
-            }
-        ]
-    }, 
     "Session:Memorizing pi for fun (not for profit)# 6e36cd656ece65633ad57ec60c47ebcd": {
         "Held in language": [
             "de - German", 
@@ -4969,24 +4849,77 @@
             }
         ]
     }, 
-    "Session:General Angel Meeting# 4c579c199a803afef8fd3d034696e2ca": {
+    "Session:Translation# cc22b8531db849ac43620a3ede2c1822": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546183800", 
-                "raw": "1/2018/12/30/15/30/0/0"
+                "timestamp": "1545923400", 
+                "raw": "1/2018/12/27/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meeting Day 1a"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Translation"
+        ], 
+        "Has duration": [
+            70
+        ], 
+        "GUID": [
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "Has end time": [
+            {
+                "timestamp": "1545927600", 
+                "raw": "1/2018/12/27/16/20/0/0"
+            }
+        ]
+    }, 
+    "Session:Subtitles Angelmeeting# 98cbbbd00c2f260315e7846123c2a900": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://engelsystem.de/35c3/"
+            "https://c3subtitles.de/"
         ], 
         "Has description": [
-            "Angel Meeting"
+            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
         ], 
         "Has session type": [
             "Meeting"
@@ -5000,27 +4933,33 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Day4 - Teardown"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "General Angel Meeting"
+            "Subtitles Angelmeeting"
         ], 
         "Has duration": [
             30
         ], 
         "GUID": [
-            "21d93c08-e863-4a3a-b94b-cf6a8b77dca1"
+            "c687a764-0204-46f1-9393-bce5dd7f65fc"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
         "Has end time": [
             {
-                "timestamp": "1546185600", 
-                "raw": "1/2018/12/30/16/0/0/0"
+                "timestamp": "1545928200", 
+                "raw": "1/2018/12/27/16/30/0/0"
             }
         ]
     }, 
@@ -6049,61 +5988,6 @@
             }
         ]
     }, 
-    "Session:General Angel Meeting# 4de42f7f15113bc69b216f77ae27dfe7": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546011000", 
-                "raw": "1/2018/12/28/15/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://engelsystem.de/35c3/"
-        ], 
-        "Has description": [
-            "Angel Meeting"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Day2"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "General Angel Meeting"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "21d93c08-e863-4a3a-b94b-cf6a8b77dca1"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting", 
-        "Has end time": [
-            {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
-            }
-        ]
-    }, 
     "Session:A/V Angel Meeting# 7275f9cb5f508be64388f016ea58a2d0": {
         "Held in language": [
             "de - German", 
@@ -6165,6 +6049,61 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:General Angel Meeting# 59cb0c96c15d66632cf0760303449e22": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546183800", 
+                "raw": "1/2018/12/30/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://engelsystem.de/35c3/"
+        ], 
+        "Has description": [
+            "Angel Meeting"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day4 - Teardown"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "General Angel Meeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "21d93c08-e863-4a3a-b94b-cf6a8b77dca4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
             }
         ]
     }, 
@@ -6550,6 +6489,67 @@
             {
                 "timestamp": "1545928200", 
                 "raw": "1/2018/12/27/16/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Subtitles Angelmeeting# 60a24426b5473d9ea9c430677809f735": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3subtitles.de/"
+        ], 
+        "Has description": [
+            "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cube", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Subtitles Angelmeeting"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "05f4a625-0ef3-483a-8afd-954c93e7d2d7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting", 
+        "Has end time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
             }
         ]
     }, 
