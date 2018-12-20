@@ -1777,65 +1777,55 @@
             }
         ]
     }, 
-    "Session:Surface mount electronics assembly for terrified beginners# a9ed607d831917e977d0e6c996012ce8": {
+    "Session:42birds: Your First Steps with WebExtensions# 84c1fc4d5f9d5f8116c6738df9a4c0f3": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        "Has website": [
+            "https://b76.ch/9730"
         ], 
+        "Has description": [], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Hardware Hacking Area", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
-                "namespace": 504, 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Day 2, session 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
-            "Surface mount electronics assembly for terrified beginners"
+            "42birds: Your First Steps with WebExtensions"
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "4dd26602-bf1f-454f-bd0b-e3c51ebd4280"
+            "8e440f9d-ab7c-4835-a5c2-f6538b1cd918"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Your_First_Steps_with_WebExtensions", 
         "Has end time": [
             {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
+                "timestamp": "1546001100", 
+                "raw": "1/2018/12/28/12/45/0/0"
             }
         ]
     }, 
@@ -2269,62 +2259,55 @@
             }
         ]
     }, 
-    "Session:HIP Orga Treffen# 24ca2f753966d2333aeff826d883e4c6": {
-        "Held in language": [], 
+    "Session:42birds: Powerful Writing? It\u2019s Easy If You Do It Smart.# c1b4ef251c5a4813e27dcc27ee12af6b": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
         "Has start time": [
             {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
+                "timestamp": "1546182900", 
+                "raw": "1/2018/12/30/15/15/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://hackimpott.de"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Orgameeting der Hack im Pott 2019"
+            "Once upon a time, George Orwell said, \u201dGood writing is like a windowpane.\u201d That\u2019s why we (two magicians and one fairy) decided to reveal to you the secrets of how to use the windows of the 21st century in order to prevent writer\u2019s blockage. To do this, we embark on a virtual journey to various free of charge writing tools on the web."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Telegnom", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "HIP Orga Treffen"
+            "42birds: Powerful Writing? It\u2019s Easy If You Do It Smart."
         ], 
         "Has duration": [
-            120
+            45
         ], 
         "GUID": [
-            "365faa84-7ff3-409f-b0a1-d85a4ce31a45"
+            "dc3db234-1a80-4f27-95c7-e18c95d3e9f7"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart.", 
         "Has end time": [
             {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
             }
         ]
     }, 
@@ -2379,64 +2362,64 @@
             }
         ]
     }, 
-    "Session:CMS L\u00f6thelferworkshop# c5ab002cc53910e691d2f6cc86efbe77": {
+    "Session:Introduction to Tempeh Making# c48ecfc1f8badae60ca498ca9171294a": {
         "Held in language": [
-            "de - German"
+            "cs - Czech", 
+            "en - English", 
+            "fr - French"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545933660", 
-                "raw": "1/2018/12/27/18/1/0/0"
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt."
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Tempeh_making_35c3"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Workshop"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "L\u00f6thelferworkshop"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Djim", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "CMS L\u00f6thelferworkshop"
+            "Introduction to Tempeh Making"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
-            "1e313c03-b69b-452c-88d1-cfa0fe297790"
+            "bc5ceda7-17f2-4e3d-9ebd-ef67bd1fa8ff"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making", 
         "Has end time": [
             {
-                "timestamp": "1545937260", 
-                "raw": "1/2018/12/27/19/1/0/0"
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
             }
         ]
     }, 
@@ -3959,6 +3942,67 @@
             }
         ]
     }, 
+    "Session:Probiotic Drinks Making# a8d8d4f03f3bd843359fc90a88eeea7b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3"
+        ], 
+        "Has description": [
+            "We will brew and taste variety of probioitic beverages sharing also the cultures."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Probiotic Drinks Making"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b7472a21-df97-415b-b00d-10c7f4b2933c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Stage Manager Angel Introduction# 29de68fb40417b1cbbb33e068b49957b": {
         "Held in language": [
             "de - German", 
@@ -4790,6 +4834,60 @@
             }
         ]
     }, 
+    "Session:42birds: Nerd Game Show# 49bd124fd4e8438368c30c51f815a20a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://kahoot.it/"
+        ], 
+        "Has description": [
+            "\ud83d\ude48 \ud83d\ude49 \ud83d\ude4a You Know Stuff \u2610 \u2612 \u2611 Answer nerdy questions on your notebook / smartphone and win a (small) price \ud83d\ude38 \ud83d\ude39 \ud83d\ude3b"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "42birds: Nerd Game Show"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3254df13-39ef-41d5-833e-f525e808f92c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Nerd_Game_Show", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Translation# b98349a899395be00159daf1888ff94a": {
         "Held in language": [
             "en - English"
@@ -5023,6 +5121,68 @@
             {
                 "timestamp": "1545859800", 
                 "raw": "1/2018/12/26/21/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Surface mount electronics assembly for terrified beginners# a9ed607d831917e977d0e6c996012ce8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2, session 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Surface mount electronics assembly for terrified beginners"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4dd26602-bf1f-454f-bd0b-e3c51ebd4280"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ]
     }, 
@@ -6439,6 +6599,65 @@
             }
         ]
     }, 
+    "Session:HIP Orga Treffen# 24ca2f753966d2333aeff826d883e4c6": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://hackimpott.de"
+        ], 
+        "Has description": [
+            "Orgameeting der Hack im Pott 2019"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Telegnom", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "HIP Orga Treffen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "365faa84-7ff3-409f-b0a1-d85a4ce31a45"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:General Angel Meeting# 5a4906843f7857b8f1273ffa4f1d72f2": {
         "Held in language": [
             "en - English"
@@ -6494,64 +6713,64 @@
             }
         ]
     }, 
-    "Session:Introduction to Tempeh Making# c48ecfc1f8badae60ca498ca9171294a": {
+    "Session:CMS L\u00f6thelferworkshop# c5ab002cc53910e691d2f6cc86efbe77": {
         "Held in language": [
-            "cs - Czech", 
-            "en - English", 
-            "fr - French"
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545919200", 
-                "raw": "1/2018/12/27/14/0/0/0"
+                "timestamp": "1545933660", 
+                "raw": "1/2018/12/27/18/1/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Tempeh_making_35c3"
+        "Has website": [], 
+        "Has description": [
+            "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt."
         ], 
-        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "L\u00f6thelferworkshop"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "fulltext": "User:Djim", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Introduction to Tempeh Making"
+            "CMS L\u00f6thelferworkshop"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "bc5ceda7-17f2-4e3d-9ebd-ef67bd1fa8ff"
+            "1e313c03-b69b-452c-88d1-cfa0fe297790"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop", 
         "Has end time": [
             {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
+                "timestamp": "1545937260", 
+                "raw": "1/2018/12/27/19/1/0/0"
             }
         ]
     }, 
@@ -6943,6 +7162,67 @@
             {
                 "timestamp": "1545912000", 
                 "raw": "1/2018/12/27/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Cidre Flows# c088ab0e16f7fa859fb69e193e239d51": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cidre_flows_35c3"
+        ], 
+        "Has description": [
+            "We will taste variety of cidres."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Cidre Flows"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b2c21678-66f6-498e-97ed-42f34c5e295e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows", 
+        "Has end time": [
+            {
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
             }
         ]
     }, 
