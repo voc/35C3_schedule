@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.4 0.3 2018-12-20 17:50</version>
+  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 18:24</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -11214,35 +11214,6 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <attachments/>
         <answers/>
       </event>
-      <event id="30" guid="cd226ce4-508e-5126-8486-31919cafdcbe">
-        <logo/>
-        <date>2018-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Esszimmer</room>
-        <slug>TCYPSE</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/TCYPSE</url>
-        <title>Selbstorganisations-Tools</title>
-        <subtitle/>
-        <track/>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Über die Jahre hab ich mir ne recht große Werkzeugbox mit Tools zur Selbstorganisation und zum Timemanagement angelegt. Viele davon sind ziemlich minimalistisch und kommandozeilen-kompatibel. Ich möchte euch meine Tools vorstellen, und mit euch darüber ins Gespräch kommen, wie ihr das so macht!</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="23">
-            <name>blinry</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="31" guid="ff31429a-f7bd-5c10-a816-6c5bfb1295e2">
         <logo/>
         <date>2018-12-30T14:30:00+01:00</date>
@@ -11269,6 +11240,35 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
           </person>
           <person id="26">
             <name>Andre</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="30" guid="cd226ce4-508e-5126-8486-31919cafdcbe">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>TCYPSE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/TCYPSE</url>
+        <title>Selbstorganisations-Tools</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Über die Jahre hab ich mir ne recht große Werkzeugbox mit Tools zur Selbstorganisation und zum Timemanagement angelegt. Viele davon sind ziemlich minimalistisch und kommandozeilen-kompatibel. Ich möchte euch meine Tools vorstellen, und mit euch darüber ins Gespräch kommen, wie ihr das so macht!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <name>blinry</name>
             <biography/>
           </person>
         </persons>

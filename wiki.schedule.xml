@@ -1,239 +1,63 @@
 <schedule>
   <conference>
-    <acronym>35C3-workshops</acronym>
-    <title>35. Chaos Communication Congress - Workshops</title>
-    <start>2018-12-26</start>
+    <acronym>35C3-wiki</acronym>
+    <title>35. Chaos Communication Congress - Wiki</title>
+    <start>2018-12-27</start>
     <end>2018-12-30</end>
-    <days>5</days>
+    <days>4</days>
     <timeslot_duration>00:15</timeslot_duration>
   </conference>
-  <day date="2018-12-26" index="0" end="2018-12-27T04:00:00+01:00" start="2018-12-26T06:00:00+01:00">
-    <room name="Lecture room 11">
-      <event id="1009" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ad">
-        <logo/>
-        <date>2018-12-26T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:30</duration>
-        <room>Lecture room 11</room>
-        <slug/>
-        <title>A/V Angel Meeting</title>
-        <subtitle>A/V Technican Meetup</subtitle>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>de</language>
-        <abstract/>
-        <description>Daily Meetup for A/V Angels</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex</url>
-            <public_name>Jwacalex</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://c3voc.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1032" guid="eae0d0dc-1206-4703-9ad5-6a31c41ed5f9">
-        <logo/>
-        <date>2018-12-26T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>0:30</duration>
-        <room>Lecture room 11</room>
-        <slug/>
-        <title>Cashdesk Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language>en</language>
-        <abstract/>
-        <description>Want to try being a cashdesk angel? You'll need this introduction first.</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx</url>
-            <public_name>Rixx</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction</link>
-        </links>
-      </event>
-      <event id="1118" guid="1cd15de3-a4ba-4d4b-a565-eab68a76188b">
-        <logo/>
-        <date>2018-12-26T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room 11</room>
-        <slug/>
-        <title>Translation</title>
-        <subtitle>Meeting Day 0</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
-        </links>
-      </event>
-    </room>
-    <room name="Chaos West Stage"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="Seminar room 14-15">
-      <event id="1012" guid="dd8c40c5-e24b-4246-bc6a-014b6f392949">
-        <logo/>
-        <date>2018-12-26T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>3:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>ARM ROP Exploitation Intro</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Exploiting stack based buffer overflows using ROP on ARM</description>
-        <persons/>
-        <links>
-          <link>https://blog.3or.de/arm-exploitation-return-oriented-programming.html</link>
-          <link>https://blog.3or.de//35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro</link>
-        </links>
-      </event>
-      <event id="1062" guid="7f0ea54b-63b3-463a-bc68-35780a206f85">
-        <logo/>
-        <date>2018-12-26T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>Herald Angel Introduction</title>
-        <subtitle>for</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon</url>
-            <public_name>Ijon</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
-        </links>
-      </event>
-    </room>
-    <room name="OIO lecture arena"/>
-    <room name="Lecture room M1">
-      <event id="1101" guid="ac02f3e2-5c9e-41db-a912-96bda2afb030">
-        <logo/>
-        <date>2018-12-26T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M1</room>
-        <slug/>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon</url>
-            <public_name>Ijon</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-    </room>
-    <room name="Lecture room M3">
-      <event id="1057" guid="13ed6368-e819-490b-8d71-7e1b291bb55b">
-        <logo/>
-        <date>2018-12-26T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M3</room>
-        <slug/>
-        <title>General Angel Meeting</title>
-        <subtitle>Day0</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Angel Meeting</description>
-        <persons/>
-        <links>
-          <link>https://engelsystem.de/35c3/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
-        </links>
-      </event>
-    </room>
-    <room name="Lecture room M2">
-      <event id="1021" guid="0cf977dd-622f-41ab-9d10-fd9a5b6ca49a">
-        <logo/>
-        <date>2018-12-26T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M2</room>
-        <slug/>
-        <title>Auti Angel Meeting</title>
-        <subtitle>Introduction</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Introduction Meeting for Auti Support Angel and Auti Angel</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein</url>
-            <public_name>Fairsein</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/2018/12/14/autism-support-35c3/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
-        </links>
-      </event>
-      <event id="1103" guid="91d47fec-8f29-4f1f-8301-45bd372b1884">
-        <logo/>
-        <date>2018-12-26T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>0:30</duration>
-        <room>Lecture room M2</room>
-        <slug/>
-        <title>Subtitles Angelmeeting</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Cube</url>
-            <public_name>Cube</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://c3subtitles.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
-        </links>
-      </event>
-    </room>
-    <room name="Seminar room 13"/>
-    <room name="c-base"/>
-  </day>
   <day date="2018-12-27" index="1" end="2018-12-28T04:00:00+01:00" start="2018-12-27T06:00:00+01:00">
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1108" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1110" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1010" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
         <logo/>
@@ -347,7 +171,135 @@
         </links>
       </event>
     </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1080" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
+        <logo/>
+        <date>2018-12-27T15:45:00+01:00</date>
+        <start>15:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug/>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
+            <public_name>Iblech</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
     <room name="Chaos West Stage"/>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1035" guid="158d6811-f509-4c7f-829f-dcc830aa9a3f">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Cidre Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>cs</language>
+        <abstract/>
+        <description>Making of cidre/cider.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cidre_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Making</link>
+        </links>
+      </event>
+      <event id="1067" guid="bc5ceda7-17f2-4e3d-9ebd-ef67bd1fa8ff">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Introduction to Tempeh Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>cs</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Tempeh_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making</link>
+        </links>
+      </event>
+      <event id="1130" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
+        <logo/>
+        <date>2018-12-27T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>WhiskyTasting</title>
+        <subtitle>Whisky tasting session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>cs</language>
+        <abstract/>
+        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac</url>
+            <public_name>Bigmac</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
+        </links>
+      </event>
+      <event id="1131" guid="c11cfe59-01ad-40d7-b541-b0229dd8fda6">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>WhiskyTasting</title>
+        <subtitle>Whisky tasting session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>cs</language>
+        <abstract/>
+        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac</url>
+            <public_name>Bigmac</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
+        </links>
+      </event>
+    </room>
     <room name="Vintage Computing Cluster"/>
     <room name="Seminar room 14-15">
       <event id="1019" guid="4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97">
@@ -501,7 +453,50 @@
         </links>
       </event>
     </room>
+    <room name="Assembly:Chaos West">
+      <event id="1027" guid="0d96532c-08c5-46d0-bffe-d639bde55d41">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>6:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug/>
+        <title>Build your own Yub!Key</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Build your own yubikey-like personal USB-authentication-stick.</description>
+        <persons/>
+        <links>
+          <link>https://github.com/c3re/byoy</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Build_your_own_Yub!Key</link>
+        </links>
+      </event>
+    </room>
     <room name="OIO lecture arena"/>
+    <room name="Assembly:CRYPTO Currency Assembly / Embassy">
+      <event id="1031" guid="da67120c-8f47-4bc7-b343-2090e4d9b055">
+        <logo/>
+        <date>2018-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:CRYPTO Currency Assembly / Embassy</room>
+        <slug/>
+        <title>CRYPTO Currency Assembly Sessions</title>
+        <subtitle>Arrival</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Talks and come togethers related to the CRYPTO Currency Assembly</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CRYPTO_Currency_Assembly_Sessions</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room M1">
       <event id="1029" guid="f4828a36-375f-4136-bfe2-2e3cf1cedf00">
         <logo/>
@@ -869,6 +864,121 @@
     <room name="c-base"/>
   </day>
   <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
+    <room name="">
+      <event id="1015" guid="36acca93-34a4-4e93-9ebe-ec1422058a27">
+        <logo/>
+        <date>2018-12-28T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>0:45</duration>
+        <room/>
+        <slug/>
+        <title>Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</description>
+        <persons/>
+        <links>
+          <link>https://github.com/openspace42/aenigma</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
+        </links>
+      </event>
+      <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room/>
+        <slug/>
+        <title>Dining Cryptographers' Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1109" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4281">
+        <logo/>
+        <date>2018-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1112" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4279">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1115" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4280">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1008" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
         <logo/>
@@ -1035,7 +1145,60 @@
         </links>
       </event>
     </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1082" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+        <logo/>
+        <date>2018-12-28T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug/>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
+            <public_name>Iblech</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
     <room name="Chaos West Stage"/>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1069" guid="f3c8a25c-3a1b-436e-916f-4388c9c452f3">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Kefir Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will learn how to work with kefir culture making variety of delicious products.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Kefir_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making</link>
+        </links>
+      </event>
+    </room>
     <room name="Vintage Computing Cluster"/>
     <room name="CCL Hall 3">
       <event id="1137" guid="afaf3909-6630-40af-b377-174b0d319796">
@@ -1090,31 +1253,6 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
-        </links>
-      </event>
-      <event id="1139" guid="e44b9199-56ac-4ff8-9d38-d9a19b56a886">
-        <logo/>
-        <date>2018-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug/>
-        <title>BorgBackup Meetup</title>
-        <subtitle>You will be assimilated!</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>BorgBackup Meetup for users and contributors</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Twi</url>
-            <public_name>Twi</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://borgbackup.org/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:BorgBackup_Meetup</link>
         </links>
       </event>
       <event id="1043" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
@@ -1788,6 +1926,80 @@
     <room name="c-base"/>
   </day>
   <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1111" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4284">
+        <logo/>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 3</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1113" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4283">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1114" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4282">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 3, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1011" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
         <logo/>
@@ -1898,7 +2110,109 @@
         </links>
       </event>
     </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1071" guid="9ab7c054-9368-4526-9a06-aea40068831f">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug/>
+        <title>Knitting workshop (Strickworkshop)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to knit. Lerne stricken.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
+            <public_name>Iblech</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Knitting_workshop_(Strickworkshop)</link>
+        </links>
+      </event>
+      <event id="1081" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98b">
+        <logo/>
+        <date>2018-12-29T15:45:00+01:00</date>
+        <start>15:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug/>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 3</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
+            <public_name>Iblech</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
     <room name="Chaos West Stage"/>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1034" guid="b2c21678-66f6-498e-97ed-42f34c5e295e">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Cidre Flows</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will taste variety of cidres.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cidre_flows_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows</link>
+        </links>
+      </event>
+      <event id="1094" guid="b7472a21-df97-415b-b00d-10c7f4b2933c">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Probiotic Drinks Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will brew and taste variety of probioitic beverages sharing also the cultures.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making</link>
+        </links>
+      </event>
+    </room>
     <room name="Vintage Computing Cluster"/>
     <room name="CCL Hall 3">
       <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
@@ -2465,7 +2779,33 @@
     </room>
     <room name="c-base"/>
   </day>
-  <day date="2018-12-30" index="4" end="2018-12-30T23:00:00+01:00" start="2018-12-30T06:00:00+01:00">
+  <day date="2018-12-30" index="4" end="2018-12-31T04:00:00+01:00" start="2018-12-30T06:00:00+01:00">
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1116" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4285">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 4, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room 11">
       <event id="1119" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa8">
         <logo/>
@@ -2484,6 +2824,32 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1079" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
+        <logo/>
+        <date>2018-12-30T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug/>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
+            <public_name>Iblech</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
         </links>
       </event>
     </room>
@@ -2626,5 +2992,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-20 18:24</version>
+  <version>2018-12-20 17:55</version>
 </schedule>
