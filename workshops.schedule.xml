@@ -9,7 +9,7 @@
   </conference>
   <day date="2018-12-26" index="0" end="2018-12-27T04:00:00+01:00" start="2018-12-26T06:00:00+01:00">
     <room name="Lecture room 11">
-      <event id="1004" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ad">
+      <event id="1002" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ad">
         <logo/>
         <date>2018-12-26T23:00:00+01:00</date>
         <start>23:00</start>
@@ -58,7 +58,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1091" guid="1cd15de3-a4ba-4d4b-a565-eab68a76188b">
+      <event id="1087" guid="1cd15de3-a4ba-4d4b-a565-eab68a76188b">
         <logo/>
         <date>2018-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -66,7 +66,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 0</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -214,7 +214,7 @@
   </day>
   <day date="2018-12-27" index="1" end="2018-12-28T04:00:00+01:00" start="2018-12-27T06:00:00+01:00">
     <room name="Lecture room 11">
-      <event id="1001" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
+      <event id="1003" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
         <logo/>
         <date>2018-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -222,7 +222,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 1</subtitle>
+        <subtitle>Day 1</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -287,7 +287,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.</link>
         </links>
       </event>
-      <event id="1088" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1093" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -295,7 +295,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 1a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -306,7 +306,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1093" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
+      <event id="1094" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
         <logo/>
         <date>2018-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -314,7 +314,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 1b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -767,7 +767,7 @@
   </day>
   <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
     <room name="Lecture room 11">
-      <event id="1002" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
+      <event id="1001" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -775,7 +775,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 2</subtitle>
+        <subtitle>Day 2</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -901,7 +901,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 2b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -912,7 +912,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1092" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
+      <event id="1090" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -920,7 +920,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 2a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -1597,7 +1597,7 @@
   </day>
   <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
     <room name="Lecture room 11">
-      <event id="1003" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
+      <event id="1004" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1605,7 +1605,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 3</subtitle>
+        <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -1647,15 +1647,15 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion</link>
         </links>
       </event>
-      <event id="1087" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
+      <event id="1091" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
         <logo/>
-        <date>2018-12-29T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>1:30</duration>
+        <date>2018-12-29T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:10</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 3a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -1666,15 +1666,15 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1094" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
+      <event id="1092" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
         <logo/>
-        <date>2018-12-29T15:10:00+01:00</date>
-        <start>15:10</start>
-        <duration>1:10</duration>
+        <date>2018-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>1:30</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 3b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2236,7 +2236,7 @@
   </day>
   <day date="2018-12-30" index="4" end="2018-12-30T23:00:00+01:00" start="2018-12-30T06:00:00+01:00">
     <room name="Lecture room 11">
-      <event id="1090" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa9">
+      <event id="1088" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa8">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2244,7 +2244,7 @@
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 4</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2357,5 +2357,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-20 01:30</version>
+  <version>2018-12-20 01:40</version>
 </schedule>

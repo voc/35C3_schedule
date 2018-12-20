@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 01:30", 
+        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 01:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -1781,7 +1781,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1001, 
+                                "id": 1003, 
                                 "guid": "bae1b248-6635-4d95-ba6c-230eb6de24cd", 
                                 "logo": null, 
                                 "date": "2018-12-27T17:00:00+01:00", 
@@ -1790,7 +1790,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
-                                "subtitle": "Daily A/V Angel Meeting - Day 1", 
+                                "subtitle": "Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
@@ -1863,7 +1863,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1093, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:10:00+01:00", 
@@ -1872,7 +1872,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 1a", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -1884,7 +1884,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1093, 
+                                "id": 1094, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa3", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:45:00+01:00", 
@@ -1893,7 +1893,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 1b", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -5551,7 +5551,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1002, 
+                                "id": 1001, 
                                 "guid": "83e455a6-c0bc-4364-b4df-8bc7b7dd01ab", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -5560,7 +5560,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
-                                "subtitle": "Daily A/V Angel Meeting - Day 2", 
+                                "subtitle": "Day 2", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
@@ -5700,7 +5700,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 2b", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -5712,7 +5712,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1090, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa4", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -5721,7 +5721,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 2a", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -9634,7 +9634,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1003, 
+                                "id": 1004, 
                                 "guid": "83e455a6-c0bc-4364-b4df-8bc7b7dd01ac", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -9643,7 +9643,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "A/V Angel Meeting", 
-                                "subtitle": "Daily A/V Angel Meeting - Day 3", 
+                                "subtitle": "Day 3", 
                                 "track": "self organized sessions", 
                                 "type": "discussion", 
                                 "language": "de", 
@@ -9690,16 +9690,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
-                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa7", 
+                                "id": 1091, 
+                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6", 
                                 "logo": null, 
-                                "date": "2018-12-29T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "1:30", 
+                                "date": "2018-12-29T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 3a", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -9711,16 +9711,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1094, 
-                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6", 
+                                "id": 1092, 
+                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa7", 
                                 "logo": null, 
-                                "date": "2018-12-29T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:10", 
+                                "date": "2018-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 3b", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -12539,8 +12539,8 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1090, 
-                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa9", 
+                                "id": 1088, 
+                                "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa8", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 
                                 "start": "15:10", 
@@ -12548,7 +12548,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "", 
                                 "title": "Translation", 
-                                "subtitle": "Translation Meeting", 
+                                "subtitle": "Meeting Day 4", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 

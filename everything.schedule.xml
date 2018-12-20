@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 01:30</version>
+  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 01:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -1973,7 +1973,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1001" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
+      <event id="1003" guid="bae1b248-6635-4d95-ba6c-230eb6de24cd">
         <logo/>
         <date>2018-12-27T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1981,7 +1981,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 1</subtitle>
+        <subtitle>Day 1</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -2046,7 +2046,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.</link>
         </links>
       </event>
-      <event id="1088" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1093" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2054,7 +2054,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 1a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -2065,7 +2065,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1093" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
+      <event id="1094" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
         <logo/>
         <date>2018-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2073,7 +2073,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 1b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -5930,7 +5930,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1002" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
+      <event id="1001" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -5938,7 +5938,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 2</subtitle>
+        <subtitle>Day 2</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -6064,7 +6064,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 2b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -6075,7 +6075,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1092" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
+      <event id="1090" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -6083,7 +6083,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 2a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -9999,7 +9999,7 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1003" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
+      <event id="1004" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -10007,7 +10007,7 @@ However, it's not always easy...</description>
         <room>Lecture room 11</room>
         <slug/>
         <title>A/V Angel Meeting</title>
-        <subtitle>Daily A/V Angel Meeting - Day 3</subtitle>
+        <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
         <type>discussion</type>
         <language>de</language>
@@ -10049,15 +10049,15 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion</link>
         </links>
       </event>
-      <event id="1087" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
+      <event id="1091" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
         <logo/>
-        <date>2018-12-29T19:45:00+01:00</date>
-        <start>19:45</start>
-        <duration>1:30</duration>
+        <date>2018-12-29T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:10</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 3a</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -10068,15 +10068,15 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1094" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
+      <event id="1092" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
         <logo/>
-        <date>2018-12-29T15:10:00+01:00</date>
-        <start>15:10</start>
-        <duration>1:10</duration>
+        <date>2018-12-29T19:45:00+01:00</date>
+        <start>19:45</start>
+        <duration>1:30</duration>
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 3b</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
@@ -12961,7 +12961,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1090" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa9">
+      <event id="1088" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa8">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -12969,7 +12969,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <room>Lecture room 11</room>
         <slug/>
         <title>Translation</title>
-        <subtitle>Translation Meeting</subtitle>
+        <subtitle>Meeting Day 4</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
