@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 00:10</version>
+  <version>Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 00:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -120,22 +120,10 @@ Are we doomed?  Perhaps not.  This talk will highlight the sorry state of the ar
           <person id="5247">Peter Sewell</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.cl.cam.ac.uk/~pes20/rems/</url>
-            <title>REMS</title>
-          </link>
-          <link>
-            <url>https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/</url>
-            <title>CHERI</title>
-          </link>
-          <link>
-            <url>http://www.cl.cam.ac.uk/~pes20/sail/</url>
-            <title>Sail ISA Description Language and Models</title>
-          </link>
-          <link>
-            <url>https://www.cl.cam.ac.uk/~pes20/cerberus/</url>
-            <title>Cerberus C Semantics</title>
-          </link>
+          <link hef="https://www.cl.cam.ac.uk/~pes20/rems/">REMS</link>
+          <link hef="https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/">CHERI</link>
+          <link hef="http://www.cl.cam.ac.uk/~pes20/sail/">Sail ISA Description Language and Models</link>
+          <link hef="https://www.cl.cam.ac.uk/~pes20/cerberus/">Cerberus C Semantics</link>
         </links>
         <attachments/>
       </event>
@@ -285,10 +273,7 @@ Und wir haben ein paar Forderungen.</description>
           <person id="1630">Constanze Kurz</person>
         </persons>
         <links>
-          <link>
-            <url>https://netzpolitik.org/tag/polizeigesetz/</url>
-            <title>Berichterstattung zu den Polizeigesetzen bei netzpolitik.org</title>
-          </link>
+          <link hef="https://netzpolitik.org/tag/polizeigesetz/">Berichterstattung zu den Polizeigesetzen bei netzpolitik.org</link>
         </links>
         <attachments/>
       </event>
@@ -350,18 +335,9 @@ The talk will give an overview of the developments that led to TLS 1.3, the majo
           <person id="2462">hanno</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.feistyduck.com/bulletproof-tls-newsletter/issue_44_tls_1_3_is_here</url>
-            <title>TLS 1.3 is here</title>
-          </link>
-          <link>
-            <url>https://www.feistyduck.com/bulletproof-tls-newsletter/issue_33_why_tls_13_isnt_there_yet</url>
-            <title>Why TLS 1.3 isn’t there yet</title>
-          </link>
-          <link>
-            <url>https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html</url>
-            <title>TLS 1.3: Die Zukunft der Netzverschlüsselung</title>
-          </link>
+          <link hef="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_44_tls_1_3_is_here">TLS 1.3 is here</link>
+          <link hef="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_33_why_tls_13_isnt_there_yet">Why TLS 1.3 isn’t there yet</link>
+          <link hef="https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html">TLS 1.3: Die Zukunft der Netzverschlüsselung</link>
         </links>
         <attachments/>
       </event>
@@ -417,10 +393,7 @@ The research we conduct at Censored Planet provides unique insights and data poi
           <person id="8385">Roya Ensafi</person>
         </persons>
         <links>
-          <link>
-            <url>https://censoredplanet.org</url>
-            <title>Censored Planet: a Global Censorship Observatory </title>
-          </link>
+          <link hef="https://censoredplanet.org">Censored Planet: a Global Censorship Observatory </link>
         </links>
         <attachments/>
       </event>
@@ -514,10 +487,7 @@ Architectural vulnerabilities are vulnerabilities affecting the overall architec
           <person id="4958">Josh Datko</person>
         </persons>
         <links>
-          <link>
-            <url>https://wallet.fail</url>
-            <title>wallet.fail website</title>
-          </link>
+          <link hef="https://wallet.fail">wallet.fail website</link>
         </links>
         <attachments/>
       </event>
@@ -548,10 +518,7 @@ Im Vortrag soll der Stand der Aufklärung im NSU-Komplex umrissen werden und dis
           <person id="8543">Caro Keller (NSU-Watch)</person>
         </persons>
         <links>
-          <link>
-            <url>nsu-watch.info</url>
-            <title>NSU-Watch</title>
-          </link>
+          <link hef="nsu-watch.info">NSU-Watch</link>
         </links>
         <attachments/>
       </event>
@@ -627,22 +594,10 @@ Was mit CRISPR getan wird - darüber sollte es einen breiten Dialog in der Gesel
           <person id="6574">KaLeiMai</person>
         </persons>
         <links>
-          <link>
-            <url>http://scienceblogs.de/diekleinendinge/</url>
-            <title>Blog André Lampe / anderelampe</title>
-          </link>
-          <link>
-            <url>https://zellmedien.de/</url>
-            <title>Anna Müllner / Adora Belle </title>
-          </link>
-          <link>
-            <url>https://wirkstoffradio.de</url>
-            <title>Wirkstoffradio</title>
-          </link>
-          <link>
-            <url>https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0</url>
-            <title>kuratierte Podcastepisoden über CRISPR &amp; Co.</title>
-          </link>
+          <link hef="http://scienceblogs.de/diekleinendinge/">Blog André Lampe / anderelampe</link>
+          <link hef="https://zellmedien.de/">Anna Müllner / Adora Belle </link>
+          <link hef="https://wirkstoffradio.de">Wirkstoffradio</link>
+          <link hef="https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0">kuratierte Podcastepisoden über CRISPR &amp; Co.</link>
         </links>
         <attachments/>
       </event>
@@ -715,22 +670,10 @@ We will start with a crash-course covering fundamentals related to instruction d
           <person id="7984">Philipp Koppe</person>
         </persons>
         <links>
-          <link>
-            <url>https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask</url>
-            <title>Our 34C3 talk on microcode</title>
-          </link>
-          <link>
-            <url>https://www.syssec.rub.de/research/publications/constructive-microcode/</url>
-            <title>Paper with our new insights, to-be-presented on CCS 2018</title>
-          </link>
-          <link>
-            <url>https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe</url>
-            <title>Original microcode paper and corresponding talk</title>
-          </link>
-          <link>
-            <url>https://github.com/RUB-SysSec/Microcode</url>
-            <title>Github project - to be updated</title>
-          </link>
+          <link hef="https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask">Our 34C3 talk on microcode</link>
+          <link hef="https://www.syssec.rub.de/research/publications/constructive-microcode/">Paper with our new insights, to-be-presented on CCS 2018</link>
+          <link hef="https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe">Original microcode paper and corresponding talk</link>
+          <link hef="https://github.com/RUB-SysSec/Microcode">Github project - to be updated</link>
         </links>
         <attachments/>
       </event>
@@ -792,10 +735,7 @@ Dieser Talk zeigt, wie die AfD-Fraktion die Netzpolitik dennoch als vermeintlich
           <person id="4918">Noujoum</person>
         </persons>
         <links>
-          <link>
-            <url>https://seyborg.de/</url>
-            <title>Blog</title>
-          </link>
+          <link hef="https://seyborg.de/">Blog</link>
         </links>
         <attachments/>
       </event>
@@ -827,10 +767,7 @@ In this talk, we will detail the full infection chain showing how Sednit was abl
           <person id="8388">Frédéric Vachon</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf</url>
-            <title>LOJAX: First UEFI rootkit found in the wild, courtesy of the Sednit group (white paper)</title>
-          </link>
+          <link hef="https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf">LOJAX: First UEFI rootkit found in the wild, courtesy of the Sednit group (white paper)</link>
         </links>
         <attachments/>
       </event>
@@ -954,14 +891,8 @@ We have little time to stop these threats from becoming a reality, but we have m
           <person id="8770">Andreea Belu (EDRi)</person>
         </persons>
         <links>
-          <link>
-            <url>https://edri.org/press-release-eu-parliament-flip-flops-backwards-on-copyright/</url>
-            <title>EDRi's analysis on the adoption of upload filters</title>
-          </link>
-          <link>
-            <url>https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back</url>
-            <title>EFF analysis of upload filters in the EU</title>
-          </link>
+          <link hef="https://edri.org/press-release-eu-parliament-flip-flops-backwards-on-copyright/">EDRi's analysis on the adoption of upload filters</link>
+          <link hef="https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back">EFF analysis of upload filters in the EU</link>
         </links>
         <attachments/>
       </event>
@@ -994,10 +925,7 @@ Nach etwas mehr als der Hälfte meiner vierjährigen Periode möchte ich im Rahm
           <person id="4212">Leonhard Dobusch</person>
         </persons>
         <links>
-          <link>
-            <url>https://netzpolitik.org/neues-aus-dem-fernsehrat/</url>
-            <title>Reihe "Neues aus dem Fernsehrat" bei netzpolitik.org</title>
-          </link>
+          <link hef="https://netzpolitik.org/neues-aus-dem-fernsehrat/">Reihe "Neues aus dem Fernsehrat" bei netzpolitik.org</link>
         </links>
         <attachments/>
       </event>
@@ -1123,24 +1051,12 @@ The discussion will include:&#13;
           <person id="8162">hammes hacks</person>
         </persons>
         <links>
-          <link>
-            <url>http://hammeshacks.com/</url>
-            <title>Project Webpage</title>
-          </link>
-          <link>
-            <url>https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A</url>
-            <title>Youtube Channel</title>
-          </link>
+          <link hef="http://hammeshacks.com/">Project Webpage</link>
+          <link hef="https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A">Youtube Channel</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/507/original/IMG_20181008_181143.jpg?1539015548</url>
-            <title>shamrock</title>
-          </attachment>
-          <attachment>
-            <url>/attachments/original/missing.png</url>
-            <title>file</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/507/original/IMG_20181008_181143.jpg?1539015548">shamrock</attachment>
+          <attachment hef="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9386" guid="527b56af-8d56-4edb-9027-9ca60767c742">
@@ -1170,10 +1086,7 @@ One of the most common applications of deep learning is the interpretation of im
           <person id="8117">teubi</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.nussschale-podcast.de</url>
-            <title>Nussschale Podcast</title>
-          </link>
+          <link hef="https://www.nussschale-podcast.de">Nussschale Podcast</link>
         </links>
         <attachments/>
       </event>
@@ -1204,10 +1117,7 @@ Nun werden auch die technischen Fähigkeiten von „Copernicus“ ausgebaut. Das
         </persons>
         <links/>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021</url>
-            <title> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021"> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</attachment>
         </attachments>
       </event>
       <event id="9909" guid="65563dfd-db48-41ea-85a9-e889dd673d09">
@@ -1250,14 +1160,8 @@ Warum ist die Rolle der Menschenrechtsbeobachter, selbst in Europa, so wichtig?<
           <person id="8743">Nina Gassmann</person>
         </persons>
         <links>
-          <link>
-            <url>https://mare-liberum.org</url>
-            <title>Mare Liberum e. V.</title>
-          </link>
-          <link>
-            <url>https://mare-liberum.org/de/support</url>
-            <title>Unterstützung</title>
-          </link>
+          <link hef="https://mare-liberum.org">Mare Liberum e. V.</link>
+          <link hef="https://mare-liberum.org/de/support">Unterstützung</link>
         </links>
         <attachments/>
       </event>
@@ -1339,18 +1243,9 @@ In this talk I will cover voicemail systems, it's security and how we can use ol
           <person id="7159">Martin Vigo</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.martinvigo.com/demo_bruteforcing.mp4</url>
-            <title>Bruteforcing a voicemail PIN with voicemailcracker</title>
-          </link>
-          <link>
-            <url>https://www.martinvigo.com/demo_whatsapp.mp4</url>
-            <title>Compromising WhatsApp with voicemailcracker</title>
-          </link>
-          <link>
-            <url>https://www.martinvigo.com/demo_paypal.mp4</url>
-            <title>Compromising Paypal with voicemailcracker</title>
-          </link>
+          <link hef="https://www.martinvigo.com/demo_bruteforcing.mp4">Bruteforcing a voicemail PIN with voicemailcracker</link>
+          <link hef="https://www.martinvigo.com/demo_whatsapp.mp4">Compromising WhatsApp with voicemailcracker</link>
+          <link hef="https://www.martinvigo.com/demo_paypal.mp4">Compromising Paypal with voicemailcracker</link>
         </links>
         <attachments/>
       </event>
@@ -1379,10 +1274,7 @@ Over the last years at University of Cambridge I contributed to a formal model o
           <person id="1626">Hannes Mehnert</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.cl.cam.ac.uk/~pes20/Netsem/paper3.pdf</url>
-            <title>Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API</title>
-          </link>
+          <link hef="https://www.cl.cam.ac.uk/~pes20/Netsem/paper3.pdf">Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API</link>
         </links>
         <attachments/>
       </event>
@@ -1460,30 +1352,12 @@ In diesem Vortrag werden wir uns den Weg der Open Source firmware  Entwicklung v
           <person id="8332">zaolin</person>
         </persons>
         <links>
-          <link>
-            <url>www.coreboot.org</url>
-            <title>coreboot</title>
-          </link>
-          <link>
-            <url>www.linuxboot.org</url>
-            <title>LinuxBoot</title>
-          </link>
-          <link>
-            <url>www.denx.de/wiki/U-Boot</url>
-            <title>U-Boot</title>
-          </link>
-          <link>
-            <url>www.tianocore.org</url>
-            <title>TianoCore</title>
-          </link>
-          <link>
-            <url>www.trustedfirmware.org</url>
-            <title>ARM Trusted Firmware</title>
-          </link>
-          <link>
-            <url>github.com/open-power/hostboot</url>
-            <title>Hostboot</title>
-          </link>
+          <link hef="www.coreboot.org">coreboot</link>
+          <link hef="www.linuxboot.org">LinuxBoot</link>
+          <link hef="www.denx.de/wiki/U-Boot">U-Boot</link>
+          <link hef="www.tianocore.org">TianoCore</link>
+          <link hef="www.trustedfirmware.org">ARM Trusted Firmware</link>
+          <link hef="github.com/open-power/hostboot">Hostboot</link>
         </links>
         <attachments/>
       </event>
@@ -1546,10 +1420,7 @@ In addition, the talk will cover selected areas of the physics programme of this
           <person id="6836">Jost Migenda</person>
         </persons>
         <links>
-          <link>
-            <url>http://www.hyperk.org</url>
-            <title>Hyper-Kamiokande website</title>
-          </link>
+          <link hef="http://www.hyperk.org">Hyper-Kamiokande website</link>
         </links>
         <attachments/>
       </event>
@@ -1584,22 +1455,10 @@ Once we get a hang on this, the machinery park in the clean room allows us to sh
           <person id="8731">Andreas Westerwick</person>
         </persons>
         <links>
-          <link>
-            <url>https://github.com/leviathanch/qtflow</url>
-            <title>QtFlow</title>
-          </link>
-          <link>
-            <url>https://github.com/chipforge/StdCellLib</url>
-            <title>Standard Cell Lib</title>
-          </link>
-          <link>
-            <url>http://libresilicon.com/</url>
-            <title>LibreSilicon project page</title>
-          </link>
-          <link>
-            <url>https://github.com/chipforge/PearlRiver</url>
-            <title>PearlRiver test wafer</title>
-          </link>
+          <link hef="https://github.com/leviathanch/qtflow">QtFlow</link>
+          <link hef="https://github.com/chipforge/StdCellLib">Standard Cell Lib</link>
+          <link hef="http://libresilicon.com/">LibreSilicon project page</link>
+          <link hef="https://github.com/chipforge/PearlRiver">PearlRiver test wafer</link>
         </links>
         <attachments/>
       </event>
@@ -1634,22 +1493,10 @@ Another Disclaimer: We guarantee an entertaining talk. :) </abstract>
           <person id="8148">Mark Lechtik</person>
         </persons>
         <links>
-          <link>
-            <url>https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/</url>
-            <title>Full technical publication of the research</title>
-          </link>
-          <link>
-            <url>https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/055/original/RECON-MTL-2018-silivaccine_weapon_of_mass_detection.pdf</url>
-            <title>Slide deck of this talk, as presented in REcon Montreal 2018</title>
-          </link>
-          <link>
-            <url>https://www.forbes.com/sites/thomasbrewster/2018/05/01/north-korea-antivirus-has-mystery-code-from-trend-micro/</url>
-            <title>A publication on the research from Forbes magazine (good non-technical summary)</title>
-          </link>
-          <link>
-            <url>https://www.theregister.co.uk/2018/05/02/north_korea_silivaccine_av_software_analysis/</url>
-            <title>An even shorter summary from The Register</title>
-          </link>
+          <link hef="https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/">Full technical publication of the research</link>
+          <link hef="https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/055/original/RECON-MTL-2018-silivaccine_weapon_of_mass_detection.pdf">Slide deck of this talk, as presented in REcon Montreal 2018</link>
+          <link hef="https://www.forbes.com/sites/thomasbrewster/2018/05/01/north-korea-antivirus-has-mystery-code-from-trend-micro/">A publication on the research from Forbes magazine (good non-technical summary)</link>
+          <link hef="https://www.theregister.co.uk/2018/05/02/north_korea_silivaccine_av_software_analysis/">An even shorter summary from The Register</link>
         </links>
         <attachments/>
       </event>
@@ -1684,14 +1531,8 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
           <person id="6147">Zenna / zelf</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.scuttlebutt.nz/</url>
-            <title>Scuttlebutt</title>
-          </link>
-          <link>
-            <url>https://www.manyver.se/</url>
-            <title>Manyverse - Mobile Client for Scuttlebutt </title>
-          </link>
+          <link hef="https://www.scuttlebutt.nz/">Scuttlebutt</link>
+          <link hef="https://www.manyver.se/">Manyverse - Mobile Client for Scuttlebutt </link>
         </links>
         <attachments/>
       </event>
@@ -1734,10 +1575,7 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
           <person id="8521">Jürgen Pahle</person>
         </persons>
         <links>
-          <link>
-            <url>https://lab.pahle.org</url>
-            <title>Research group homepage</title>
-          </link>
+          <link hef="https://lab.pahle.org">Research group homepage</link>
         </links>
         <attachments/>
       </event>
@@ -1769,10 +1607,7 @@ The medium "Virtual Reality" takes all its sense in this project, allowing an im
           <person id="8728">Sélim Harbi</person>
         </persons>
         <links>
-          <link>
-            <url>https://vimeo.com/254095649</url>
-            <title>Afroroutes trailer </title>
-          </link>
+          <link hef="https://vimeo.com/254095649">Afroroutes trailer </link>
         </links>
         <attachments/>
       </event>
@@ -1841,10 +1676,7 @@ We will also share our website [currently under final revisions, will be open to
         </persons>
         <links/>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/526/original/ICA-London.jpg?1539525271</url>
-            <title>Cornelia Sollfrank at ICA London</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/526/original/ICA-London.jpg?1539525271">Cornelia Sollfrank at ICA London</attachment>
         </attachments>
       </event>
       <event id="10024" guid="85ec8360-737b-4ee3-be2d-d8e050b1d117">
@@ -1872,14 +1704,8 @@ We will also share our website [currently under final revisions, will be open to
           <person id="8734">Angela Washko</person>
         </persons>
         <links>
-          <link>
-            <url>www.angelawashko.com</url>
-            <title>Artist Website</title>
-          </link>
-          <link>
-            <url>www.art.cmu.edu/people/angela-washko/</url>
-            <title>Assistant Professor of Art, Carnegie Mellon University</title>
-          </link>
+          <link hef="www.angelawashko.com">Artist Website</link>
+          <link hef="www.art.cmu.edu/people/angela-washko/">Assistant Professor of Art, Carnegie Mellon University</link>
         </links>
         <attachments/>
       </event>
@@ -1960,14 +1786,8 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <person id="5824">Sergey Gordeychik</person>
         </persons>
         <links>
-          <link>
-            <url>http://www.scada.sl/search/label/sd-wan</url>
-            <title>SD-WAN New Hope project blog</title>
-          </link>
-          <link>
-            <url>https://github.com/sdnewhop/sdwannewhope</url>
-            <title>SD-WAN New Hope project Github</title>
-          </link>
+          <link hef="http://www.scada.sl/search/label/sd-wan">SD-WAN New Hope project blog</link>
+          <link hef="https://github.com/sdnewhop/sdwannewhope">SD-WAN New Hope project Github</link>
         </links>
         <attachments/>
       </event>
@@ -3516,10 +3336,7 @@ Finally, a solution to the security dilemma of using affected smart devices is o
           <person id="8478">Michael Steigerwald</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.vtrust.de/35c3</url>
-            <title>Smart Home Smart Hack</title>
-          </link>
+          <link hef="https://www.vtrust.de/35c3">Smart Home Smart Hack</link>
         </links>
         <attachments/>
       </event>
@@ -3549,10 +3366,7 @@ The exhibition incorporates concepts from artificial intelligence and cognitive 
           <person id="7970">Karim Ben Khelifa</person>
         </persons>
         <links>
-          <link>
-            <url>http://theenemyishere.org/about</url>
-            <title>The Enemy</title>
-          </link>
+          <link hef="http://theenemyishere.org/about">The Enemy</link>
         </links>
         <attachments/>
       </event>
@@ -3585,16 +3399,10 @@ The disclosure of the efail vulnerabilities caused a lot of stir in the press an
           <person id="3205">Sebastian Schinzel</person>
         </persons>
         <links>
-          <link>
-            <url>https://efail.de/</url>
-            <title>The efail attacks.</title>
-          </link>
+          <link hef="https://efail.de/">The efail attacks.</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057</url>
-            <title>Efail paper (USENIX Security 2018)</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057">Efail paper (USENIX Security 2018)</attachment>
         </attachments>
       </event>
       <event id="10030" guid="8943659a-536d-4afb-85de-f1b8b29a7902">
@@ -3708,10 +3516,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link>
-            <url>https://c3lt.de/35c3</url>
-            <title>Registration and schedule</title>
-          </link>
+          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -3750,16 +3555,10 @@ We will finish by demonstrating some of the visualization tools are have deploye
           <person id="8187">Damon McCoy</person>
         </persons>
         <links>
-          <link>
-            <url>https://online-pol-ads.github.io/</url>
-            <title>Home page for our project</title>
-          </link>
+          <link hef="https://online-pol-ads.github.io/">Home page for our project</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/451/original/Facebooks-archive_%281%29.pdf?1537466442</url>
-            <title>An Analysis of Facebook’s Archive of Ads With Political Content</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/451/original/Facebooks-archive_%281%29.pdf?1537466442">An Analysis of Facebook’s Archive of Ads With Political Content</attachment>
         </attachments>
       </event>
       <event id="10018" guid="23e85d7a-9645-4ae2-9954-63b71abc08d4">
@@ -3853,14 +3652,8 @@ Neben der Gefahr, dass Geflüchtete auf Grundlage der automatisierten Auswertung
           <person id="4465">Anna Biselli</person>
         </persons>
         <links>
-          <link>
-            <url>https://netzpolitik.org/2017/digitalisierte-migrationskontrolle-wenn-technik-ueber-asyl-entscheidet/</url>
-            <title>Digitalisierte Migrationskontrolle: Wenn Technik über Asyl entscheidet</title>
-          </link>
-          <link>
-            <url>https://motherboard.vice.com/de/article/a3q8wj/fluechtlinge-bamf-sprachanalyse-software-entscheidet-asyl</url>
-            <title>Eine Software des BAMF bringt Menschen in Gefahr</title>
-          </link>
+          <link hef="https://netzpolitik.org/2017/digitalisierte-migrationskontrolle-wenn-technik-ueber-asyl-entscheidet/">Digitalisierte Migrationskontrolle: Wenn Technik über Asyl entscheidet</link>
+          <link hef="https://motherboard.vice.com/de/article/a3q8wj/fluechtlinge-bamf-sprachanalyse-software-entscheidet-asyl">Eine Software des BAMF bringt Menschen in Gefahr</link>
         </links>
         <attachments/>
       </event>
@@ -3914,26 +3707,11 @@ A final example of a lesson we will discuss is the importance of picking the rig
           <person id="3155">bunnie</person>
         </persons>
         <links>
-          <link>
-            <url>https://hdmi2usb.tv</url>
-            <title>HDMI2USB.tv</title>
-          </link>
-          <link>
-            <url>https://m-labs.hk/migen</url>
-            <title>Migen (+Milkymist)</title>
-          </link>
-          <link>
-            <url>https://kosagi.com/w/index.php/NeTV_Main_Page</url>
-            <title>NeTV</title>
-          </link>
-          <link>
-            <url>https://www.crowdsupply.com/alphamax/netv2</url>
-            <title>NeTV2</title>
-          </link>
-          <link>
-            <url>http://www.enjoy-digital.fr/</url>
-            <title>Enjoy Digital + LiteX</title>
-          </link>
+          <link hef="https://hdmi2usb.tv">HDMI2USB.tv</link>
+          <link hef="https://m-labs.hk/migen">Migen (+Milkymist)</link>
+          <link hef="https://kosagi.com/w/index.php/NeTV_Main_Page">NeTV</link>
+          <link hef="https://www.crowdsupply.com/alphamax/netv2">NeTV2</link>
+          <link hef="http://www.enjoy-digital.fr/">Enjoy Digital + LiteX</link>
         </links>
         <attachments/>
       </event>
@@ -3961,10 +3739,7 @@ A final example of a lesson we will discuss is the importance of picking the rig
           <person id="8682">Amy (itszn)</person>
         </persons>
         <links>
-          <link>
-            <url>https://ret2.io</url>
-            <title>Ret2 Systems</title>
-          </link>
+          <link hef="https://ret2.io">Ret2 Systems</link>
         </links>
         <attachments/>
       </event>
@@ -4021,20 +3796,11 @@ We see how the hacker culture meets these challenges and what inner contradictio
           <person id="8745">Thies Mynther</person>
         </persons>
         <links>
-          <link>
-            <url>www.allcreatureswelcome.net</url>
-            <title>Movie Page</title>
-          </link>
+          <link hef="www.allcreatureswelcome.net">Movie Page</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/622/original/ACW_Poster_KI_Regenbogen_digital.jpg?1542289809</url>
-            <title>Poster</title>
-          </attachment>
-          <attachment>
-            <url>/attachments/original/missing.png</url>
-            <title>file</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/622/original/ACW_Poster_KI_Regenbogen_digital.jpg?1542289809">Poster</attachment>
+          <attachment hef="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
     </room>
@@ -4084,18 +3850,9 @@ many countries. After giving an overview of various types of unwanted phone call
           <person id="8646">Aurélien Francillon</person>
         </persons>
         <links>
-          <link>
-            <url>http://www.s3.eurecom.fr/docs/eurosp17_sahin.pdf</url>
-            <title>SoK: Fraud in Telephony Networks</title>
-          </link>
-          <link>
-            <url>http://www.s3.eurecom.fr/docs/soups17_sahin.pdf</url>
-            <title>Using chatbots against voice spam: Analyzing Lenny’s effectiveness</title>
-          </link>
-          <link>
-            <url>https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper31-poster-abstract.pdf</url>
-            <title>IRSF</title>
-          </link>
+          <link hef="http://www.s3.eurecom.fr/docs/eurosp17_sahin.pdf">SoK: Fraud in Telephony Networks</link>
+          <link hef="http://www.s3.eurecom.fr/docs/soups17_sahin.pdf">Using chatbots against voice spam: Analyzing Lenny’s effectiveness</link>
+          <link hef="https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper31-poster-abstract.pdf">IRSF</link>
         </links>
         <attachments/>
       </event>
@@ -4173,14 +3930,8 @@ Previously developing for FPGAs has require getting giant closed source propriet
           <person id="6660">Tim 'mithro' Ansell</person>
         </persons>
         <links>
-          <link>
-            <url>https://symbiflow.github.io</url>
-            <title>SymbiFlow Website</title>
-          </link>
-          <link>
-            <url>http://github.com/SymbiFlow</url>
-            <title>SymbiFlow GitHub</title>
-          </link>
+          <link hef="https://symbiflow.github.io">SymbiFlow Website</link>
+          <link hef="http://github.com/SymbiFlow">SymbiFlow GitHub</link>
         </links>
         <attachments/>
       </event>
@@ -4267,10 +4018,7 @@ We also worked on &lt;a href="https://youtube.tracking.exposed"&gt;analyzing You
           <person id="4912">Claudio Agosti</person>
         </persons>
         <links>
-          <link>
-            <url>https://facebook.tracking.exposed</url>
-            <title>website</title>
-          </link>
+          <link hef="https://facebook.tracking.exposed">website</link>
         </links>
         <attachments/>
       </event>
@@ -4334,14 +4082,8 @@ Finally, we show new variants of the Meltdown attack, exploiting different parts
           <person id="8528">Dieter Kranzlmueller</person>
         </persons>
         <links>
-          <link>
-            <url>https://badw.de/die-akademie/presse/pressemitteilungen/pm-einzelartikel/detail/supermuc-ng-next-generation-hoechstleistungsrechner-am-leibniz-rechenzentrum.html</url>
-            <title>Pressemitteilung zu SuperMUC-NG</title>
-          </link>
-          <link>
-            <url>https://www.lrz.de/services/compute/supermuc/supermuc-ng/</url>
-            <title>Characteristics SuperMUC-NG</title>
-          </link>
+          <link hef="https://badw.de/die-akademie/presse/pressemitteilungen/pm-einzelartikel/detail/supermuc-ng-next-generation-hoechstleistungsrechner-am-leibniz-rechenzentrum.html">Pressemitteilung zu SuperMUC-NG</link>
+          <link hef="https://www.lrz.de/services/compute/supermuc/supermuc-ng/">Characteristics SuperMUC-NG</link>
         </links>
         <attachments/>
       </event>
@@ -4371,10 +4113,7 @@ Members of GTC range from (former) whistle blowers, activist MPs, Oxford profess
           <person id="8525">Yann Leretaille</person>
         </persons>
         <links>
-          <link>
-            <url>https://goodtechnologycollective.com</url>
-            <title>Good Technology Collective Website</title>
-          </link>
+          <link hef="https://goodtechnologycollective.com">Good Technology Collective Website</link>
         </links>
         <attachments/>
       </event>
@@ -4531,22 +4270,10 @@ Tag plz: #BlindNavigation @saizai #35c3</abstract>
           <person id="4696">Sai</person>
         </persons>
         <links>
-          <link>
-            <url>https://s.ai/ccc/ws</url>
-            <title>Workshop signup</title>
-          </link>
-          <link>
-            <url>https://s.ai/ccc</url>
-            <title>Notes &amp; other links</title>
-          </link>
-          <link>
-            <url>https://s.ai/essays/interaction</url>
-            <title>Interaction tips (from blind POV)</title>
-          </link>
-          <link>
-            <url>https://twitter.com/search?f=tweets&amp;q=%23BlindNavigation</url>
-            <title>Tweets about #BlindNavigation</title>
-          </link>
+          <link hef="https://s.ai/ccc/ws">Workshop signup</link>
+          <link hef="https://s.ai/ccc">Notes &amp; other links</link>
+          <link hef="https://s.ai/essays/interaction">Interaction tips (from blind POV)</link>
+          <link hef="https://twitter.com/search?f=tweets&amp;q=%23BlindNavigation">Tweets about #BlindNavigation</link>
         </links>
         <attachments/>
       </event>
@@ -4578,14 +4305,8 @@ It's used by educators, makers and professional hard- and software developers ar
           <person id="8135">Christine Spindler</person>
         </persons>
         <links>
-          <link>
-            <url>micropython.org</url>
-            <title>MicroPython Website</title>
-          </link>
-          <link>
-            <url>github.com/micropython</url>
-            <title>MicroPython on Git</title>
-          </link>
+          <link hef="micropython.org">MicroPython Website</link>
+          <link hef="github.com/micropython">MicroPython on Git</link>
         </links>
         <attachments/>
       </event>
@@ -4615,10 +4336,7 @@ multiplatform game, &lt;br&gt;&#13;
           <person id="8363">JAN BERGER</person>
         </persons>
         <links>
-          <link>
-            <url>http://www.janberger.info/nf.html</url>
-            <title>website summary never forgetti</title>
-          </link>
+          <link hef="http://www.janberger.info/nf.html">website summary never forgetti</link>
         </links>
         <attachments/>
       </event>
@@ -4954,18 +4672,9 @@ This work just won fourth prize in the Mozilla "Wireless Innovation for a Networ
           <person id="5330">Hans-Christoph Steiner</person>
         </persons>
         <links>
-          <link>
-            <url>https://guardianproject.info/wind/</url>
-            <title>Guardian Project's Wind page</title>
-          </link>
-          <link>
-            <url>https://wirelesschallenge.mozilla.org/#grand-winners-1</url>
-            <title>Mozilla "Wireless Innovation for a Networked Society" Off-the-Grid Internet Challenge</title>
-          </link>
-          <link>
-            <url>https://okthanks.com/blog/peronas-latin-america</url>
-            <title>Latin American Personas for guiding design processes</title>
-          </link>
+          <link hef="https://guardianproject.info/wind/">Guardian Project's Wind page</link>
+          <link hef="https://wirelesschallenge.mozilla.org/#grand-winners-1">Mozilla "Wireless Innovation for a Networked Society" Off-the-Grid Internet Challenge</link>
+          <link hef="https://okthanks.com/blog/peronas-latin-america">Latin American Personas for guiding design processes</link>
         </links>
         <attachments/>
       </event>
@@ -4997,24 +4706,12 @@ Wir entwickeln ein völlig freies quelloffenes Hardware- und Software-Design fü
           <person id="6677">Felix Just</person>
         </persons>
         <links>
-          <link>
-            <url>www.suprememachines.de</url>
-            <title>Supreme Machines Website</title>
-          </link>
+          <link hef="www.suprememachines.de">Supreme Machines Website</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/586/original/hannah_push_recovery.mp4?1539639211</url>
-            <title>Kurzes Video vom Roboter</title>
-          </attachment>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/587/original/IMG_20180525_155412.jpg?1539639211</url>
-            <title>Foto vom Roboter</title>
-          </attachment>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211</url>
-            <title>Noch ein Foto vom Roboter</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/586/original/hannah_push_recovery.mp4?1539639211">Kurzes Video vom Roboter</attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/587/original/IMG_20180525_155412.jpg?1539639211">Foto vom Roboter</attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211">Noch ein Foto vom Roboter</attachment>
         </attachments>
       </event>
       <event id="9733" guid="2d71612c-7f40-484b-a939-10b809aedd80">
@@ -5114,10 +4811,7 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
           <person id="8297">Stephan Verbücheln</person>
         </persons>
         <links>
-          <link>
-            <url>https://arxiv.org/abs/1501.00447</url>
-            <title> How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys</title>
-          </link>
+          <link hef="https://arxiv.org/abs/1501.00447"> How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys</link>
         </links>
         <attachments/>
       </event>
@@ -5144,28 +4838,13 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
           <person id="8671">DISNOVATION.ORG</person>
         </persons>
         <links>
-          <link>
-            <url>disnovation.org</url>
-            <title>DISNOVATION.ORG Art Collective</title>
-          </link>
-          <link>
-            <url>predictiveartbot.com</url>
-            <title>Predictive Art Bot</title>
-          </link>
-          <link>
-            <url>thepiratecinema.com</url>
-            <title>The Pirate Cinema</title>
-          </link>
+          <link hef="disnovation.org">DISNOVATION.ORG Art Collective</link>
+          <link hef="predictiveartbot.com">Predictive Art Bot</link>
+          <link hef="thepiratecinema.com">The Pirate Cinema</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/595/original/pab_v4_web.jpg?1539643475</url>
-            <title>Predictive Art Bot | Online artwork view</title>
-          </attachment>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/596/original/pab_02_1920.jpg?1539643475</url>
-            <title>Predictive Art Bot | Installation view</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/595/original/pab_v4_web.jpg?1539643475">Predictive Art Bot | Online artwork view</attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/596/original/pab_02_1920.jpg?1539643475">Predictive Art Bot | Installation view</attachment>
         </attachments>
       </event>
       <event id="10036" guid="1cff41a8-455e-42a6-ab08-d6cb166e7d3b">
@@ -6727,10 +6406,7 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
           <person id="8452">Leonid Evdokimov (darkk)</person>
         </persons>
         <links>
-          <link>
-            <url>https://usher2.club/en/</url>
-            <title>Usher II: having fun with Roskomnadzor's Register of Prohibited sites</title>
-          </link>
+          <link hef="https://usher2.club/en/">Usher II: having fun with Roskomnadzor's Register of Prohibited sites</link>
         </links>
         <attachments/>
       </event>
@@ -6763,14 +6439,8 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
           <person id="4702">breakthesystem</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443</url>
-            <title>The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Springer Praxis Books) 1st ed. 2018 Edition</title>
-          </link>
-          <link>
-            <url>https://www.youtube.com/watch?v=09iTidqkriw</url>
-            <title>Another Talk by Daniel</title>
-          </link>
+          <link hef="https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443">The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Springer Praxis Books) 1st ed. 2018 Edition</link>
+          <link hef="https://www.youtube.com/watch?v=09iTidqkriw">Another Talk by Daniel</link>
         </links>
         <attachments/>
       </event>
@@ -6853,10 +6523,7 @@ Hier lohnt es sich für den hackenden Nachwuchs, aus den Fehlern anderer zu lern
           <person id="8067">honky</person>
         </persons>
         <links>
-          <link>
-            <url>https://media.ccc.de/v/DS2018-9308-hebocon_finale</url>
-            <title>Datenspuren 2018</title>
-          </link>
+          <link hef="https://media.ccc.de/v/DS2018-9308-hebocon_finale">Datenspuren 2018</link>
         </links>
         <attachments/>
       </event>
@@ -6919,10 +6586,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link>
-            <url>https://c3lt.de/35c3</url>
-            <title>Registration and schedule</title>
-          </link>
+          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -6981,34 +6645,13 @@ It is unfortunate that the Vita was such a niche device, but we hope this talk w
           <person id="8140">Davee</person>
         </persons>
         <links>
-          <link>
-            <url>https://yifan.lu/2016/12/31/state-of-the-vita-2016/</url>
-            <title>State of the Vita (2016)</title>
-          </link>
-          <link>
-            <url>https://yifan.lu/2017/07/31/henkaku-enso-bootloader-hack-for-vita/</url>
-            <title>Ensō Bootloader Hack (2017)</title>
-          </link>
-          <link>
-            <url>https://yifan.lu/2016/11/01/taihen-cfw-framework-for-ps-vita/</url>
-            <title>taiHEN CFW Framework (2016)</title>
-          </link>
-          <link>
-            <url>https://yifan.lu/2016/07/28/henkaku-vita-homebrew-for-everyone/</url>
-            <title>HENkaku Hack (2016)</title>
-          </link>
-          <link>
-            <url>https://yifan.lu/2013/09/10/why-hacking-the-vita-is-hard-or-a-history-of-first-hacks/</url>
-            <title>Why hacking the Vita is hard (2013)</title>
-          </link>
-          <link>
-            <url>https://blog.xyz.is/2016/webkit-360.html</url>
-            <title>Exploiting WebKit on Vita 3.60</title>
-          </link>
-          <link>
-            <url>https://blog.xyz.is/2018/enso.html</url>
-            <title>Ensō: A PS Vita bootloader exploit</title>
-          </link>
+          <link hef="https://yifan.lu/2016/12/31/state-of-the-vita-2016/">State of the Vita (2016)</link>
+          <link hef="https://yifan.lu/2017/07/31/henkaku-enso-bootloader-hack-for-vita/">Ensō Bootloader Hack (2017)</link>
+          <link hef="https://yifan.lu/2016/11/01/taihen-cfw-framework-for-ps-vita/">taiHEN CFW Framework (2016)</link>
+          <link hef="https://yifan.lu/2016/07/28/henkaku-vita-homebrew-for-everyone/">HENkaku Hack (2016)</link>
+          <link hef="https://yifan.lu/2013/09/10/why-hacking-the-vita-is-hard-or-a-history-of-first-hacks/">Why hacking the Vita is hard (2013)</link>
+          <link hef="https://blog.xyz.is/2016/webkit-360.html">Exploiting WebKit on Vita 3.60</link>
+          <link hef="https://blog.xyz.is/2018/enso.html">Ensō: A PS Vita bootloader exploit</link>
         </links>
         <attachments/>
       </event>
@@ -7115,22 +6758,10 @@ The rareness of the interesting phenomena not only calls for pure physics unders
           <person id="8736">Jurre van Bergen</person>
         </persons>
         <links>
-          <link>
-            <url>https://petsymposium.org/2018/files/hotpets/7-bini.pdf</url>
-            <title>No evidence of communication: Off-The-Record Protocol version 4OTRv4: HotPETS paper</title>
-          </link>
-          <link>
-            <url>https://github.com/otrv4/otrv4/blob/master/otrv4.md</url>
-            <title>OTRv4 specification</title>
-          </link>
-          <link>
-            <url>https://github.com/otrv4/libotr-ng</url>
-            <title>OTRv4 implementation</title>
-          </link>
-          <link>
-            <url>http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf</url>
-            <title>"The Moral Character of Cryptographic Work?" paper</title>
-          </link>
+          <link hef="https://petsymposium.org/2018/files/hotpets/7-bini.pdf">No evidence of communication: Off-The-Record Protocol version 4OTRv4: HotPETS paper</link>
+          <link hef="https://github.com/otrv4/otrv4/blob/master/otrv4.md">OTRv4 specification</link>
+          <link hef="https://github.com/otrv4/libotr-ng">OTRv4 implementation</link>
+          <link hef="http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf">"The Moral Character of Cryptographic Work?" paper</link>
         </links>
         <attachments/>
       </event>
@@ -7217,10 +6848,7 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
           <person id="8352">Werner Schober</person>
         </persons>
         <links>
-          <link>
-            <url>https://sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html</url>
-            <title>IoD Blogpost</title>
-          </link>
+          <link hef="https://sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html">IoD Blogpost</link>
         </links>
         <attachments/>
       </event>
@@ -7250,18 +6878,9 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
           <person id="8597">Christopher Weatherhead</person>
         </persons>
         <links>
-          <link>
-            <url>https://privacyinternational.org/types-abuse/facebook</url>
-            <title>Privacy International [Facebook Stories]</title>
-          </link>
-          <link>
-            <url>https://privacyinternational.org</url>
-            <title>Privacy International Website [Clearnet]</title>
-          </link>
-          <link>
-            <url>https://privacyintyqcroe.onion</url>
-            <title>Privacy International Website [onion]</title>
-          </link>
+          <link hef="https://privacyinternational.org/types-abuse/facebook">Privacy International [Facebook Stories]</link>
+          <link hef="https://privacyinternational.org">Privacy International Website [Clearnet]</link>
+          <link hef="https://privacyintyqcroe.onion">Privacy International Website [onion]</link>
         </links>
         <attachments/>
       </event>
@@ -7351,14 +6970,8 @@ Since smart cards are used in the authentication process, a lot of vulnerabiliti
         </persons>
         <links/>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/512/original/DEFCON-26-Eric-Sesterhenn-Soviet-Russia-Smartcard-Hacks-You.pdf?1539367610</url>
-            <title>Defcon Slides</title>
-          </attachment>
-          <attachment>
-            <url>/attachments/original/missing.png</url>
-            <title>file</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/512/original/DEFCON-26-Eric-Sesterhenn-Soviet-Russia-Smartcard-Hacks-You.pdf?1539367610">Defcon Slides</attachment>
+          <attachment hef="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9674" guid="089b7fec-3ee1-493c-9b90-782c0514ffb4">
@@ -7386,18 +6999,9 @@ I will explain the basic usage of DNS, including stub and recursive resolver, se
           <person id="1626">Hannes Mehnert</person>
         </persons>
         <links>
-          <link>
-            <url>https://hannes.nqsb.io/Posts/DNS#What-is-DNS</url>
-            <title>Re-engineering DNS (blog)</title>
-          </link>
-          <link>
-            <url>https://github.com/roburio/udns</url>
-            <title>µDNS implementation</title>
-          </link>
-          <link>
-            <url>https://mirage.io</url>
-            <title>MirageOS</title>
-          </link>
+          <link hef="https://hannes.nqsb.io/Posts/DNS#What-is-DNS">Re-engineering DNS (blog)</link>
+          <link hef="https://github.com/roburio/udns">µDNS implementation</link>
+          <link hef="https://mirage.io">MirageOS</link>
         </links>
         <attachments/>
       </event>
@@ -7426,10 +7030,7 @@ In this talk, we systematically explore this phenomenon: To begin with, we demon
           <person id="5643">Marius Musch</person>
         </persons>
         <links>
-          <link>
-            <url>https://arxiv.org/pdf/1808.09474.pdf</url>
-            <title>Technical Report</title>
-          </link>
+          <link hef="https://arxiv.org/pdf/1808.09474.pdf">Technical Report</link>
         </links>
         <attachments/>
       </event>
@@ -7487,10 +7088,7 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <person id="8571">Dagmar Krefting</person>
         </persons>
         <links>
-          <link>
-            <url>http://remo2hbo.f4.htw-berlin.de/</url>
-            <title>remo2hbo-Projekt</title>
-          </link>
+          <link hef="http://remo2hbo.f4.htw-berlin.de/">remo2hbo-Projekt</link>
         </links>
         <attachments/>
       </event>
@@ -7518,10 +7116,7 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <person id="5764">Andre Meister</person>
         </persons>
         <links>
-          <link>
-            <url>https://fts.berlin.de/</url>
-            <title>Funkzellenabfragen-Transparenz-System des Landes Berlin</title>
-          </link>
+          <link hef="https://fts.berlin.de/">Funkzellenabfragen-Transparenz-System des Landes Berlin</link>
         </links>
         <attachments/>
       </event>
@@ -7553,10 +7148,7 @@ Wir werden unsere gegenwärtigen Ansätze vorstellen, untersuchen und daran die 
           <person id="8768">Rosa Rave*</person>
         </persons>
         <links>
-          <link>
-            <url>https://twitter.com/MenschMeier4/status/996775769664868352</url>
-            <title>Aufruf Tweet zu #afdwegbassen</title>
-          </link>
+          <link hef="https://twitter.com/MenschMeier4/status/996775769664868352">Aufruf Tweet zu #afdwegbassen</link>
         </links>
         <attachments/>
       </event>
@@ -7660,14 +7252,8 @@ Another thing to take away from this talk is: writing drivers is neither scary n
           <person id="8772">Simon Ellmann</person>
         </persons>
         <links>
-          <link>
-            <url>https://media.ccc.de/v/34c3-9159-demystifying_network_cards</url>
-            <title>Talk about the basics of user space drivers</title>
-          </link>
-          <link>
-            <url>https://github.com/ixy-languages/ixy-languages</url>
-            <title>Project page on GitHub with further links</title>
-          </link>
+          <link hef="https://media.ccc.de/v/34c3-9159-demystifying_network_cards">Talk about the basics of user space drivers</link>
+          <link hef="https://github.com/ixy-languages/ixy-languages">Project page on GitHub with further links</link>
         </links>
         <attachments/>
       </event>
@@ -7703,20 +7289,11 @@ Protection of digital data has become a necessity, certainly in the light of new
           <person id="8308">Carlo Meijer</person>
         </persons>
         <links>
-          <link>
-            <url>http://www.cs.ru.nl/~cmeijer/</url>
-            <title>Author homepage</title>
-          </link>
-          <link>
-            <url>https://www.ru.nl/english/news-agenda/news/vm/icis/cyber-security/2018/radboud-university-researchers-discover-security/</url>
-            <title>Public Statement</title>
-          </link>
+          <link hef="http://www.cs.ru.nl/~cmeijer/">Author homepage</link>
+          <link hef="https://www.ru.nl/english/news-agenda/news/vm/icis/cyber-security/2018/radboud-university-researchers-discover-security/">Public Statement</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497</url>
-            <title>Draft Paper</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497">Draft Paper</attachment>
         </attachments>
       </event>
       <event id="9400" guid="e77ef54a-5dd7-4be1-80c7-42726b273e6f">
@@ -7824,10 +7401,7 @@ Be warned: This is not meant as investment advice. The goal of the talk is to gi
         </persons>
         <links/>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/626/original/IMG_20181014_202105.jpg?1543185403</url>
-            <title>Das Butterbrotdosen-Smartphone</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/626/original/IMG_20181014_202105.jpg?1543185403">Das Butterbrotdosen-Smartphone</attachment>
         </attachments>
       </event>
       <event id="9758" guid="3745513b-c2e6-449a-abd0-2e32f738f168">
@@ -7855,10 +7429,7 @@ This will be followed by an introduction into different experimental and computa
           <person id="8444">LorenzAdlung</person>
         </persons>
         <links>
-          <link>
-            <url>https://lorenzadlung.wordpress.com/socialmedia/scienceslams/</url>
-            <title>Link to my blog regarding science slams:</title>
-          </link>
+          <link hef="https://lorenzadlung.wordpress.com/socialmedia/scienceslams/">Link to my blog regarding science slams:</link>
         </links>
         <attachments/>
       </event>
@@ -7889,10 +7460,7 @@ Finally, the input image, the known position and orientation of the card, the re
           <person id="8439">Jan Garcia</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.deutschepost.de/de/p/postident/identifizierungsverfahren/verfahren-videochat.html</url>
-            <title>Official Post-Ident Video-Legitimation explanation</title>
-          </link>
+          <link hef="https://www.deutschepost.de/de/p/postident/identifizierungsverfahren/verfahren-videochat.html">Official Post-Ident Video-Legitimation explanation</link>
         </links>
         <attachments/>
       </event>
@@ -7924,10 +7492,7 @@ Heikle personenbezogene Daten aus öffentlichen Datenbanken sollen zu allen wiss
           <person id="7704">Angelika Adensamer</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.epicenter.works</url>
-            <title>epicenter.works</title>
-          </link>
+          <link hef="https://www.epicenter.works">epicenter.works</link>
         </links>
         <attachments/>
       </event>
@@ -7993,36 +7558,15 @@ Constructing e-David has provided many challenges in the realms of engineering, 
           <person id="8722">Liat_Grayver</person>
         </persons>
         <links>
-          <link>
-            <url>https://www.liatgrayver.com/robotic-painting</url>
-            <title>Breaststrokes at the digital age</title>
-          </link>
-          <link>
-            <url>https://www.liatgrayver.com/robotic-painting-1</url>
-            <title>Robotic Paintings</title>
-          </link>
-          <link>
-            <url>https://www.liatgrayver.com/traversing-the-threshold</url>
-            <title>Traversing the Threshold</title>
-          </link>
-          <link>
-            <url>http://graphics.uni-konstanz.de/eDavid/</url>
-            <title>e-David. A painting process</title>
-          </link>
+          <link hef="https://www.liatgrayver.com/robotic-painting">Breaststrokes at the digital age</link>
+          <link hef="https://www.liatgrayver.com/robotic-painting-1">Robotic Paintings</link>
+          <link hef="https://www.liatgrayver.com/traversing-the-threshold">Traversing the Threshold</link>
+          <link hef="http://graphics.uni-konstanz.de/eDavid/">e-David. A painting process</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/618/original/grayver_brushstrokes_print_18.pdf?1541855201</url>
-            <title>Brushstrokes in the Digital age </title>
-          </attachment>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/619/original/Traversing_the_Threshold_newpdf.pdf?1541855201</url>
-            <title>Traversing the Threshold</title>
-          </attachment>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/621/original/Abstract_Grayver.pdf?1541861917</url>
-            <title>Abstract-Transhuman Expression. </title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/618/original/grayver_brushstrokes_print_18.pdf?1541855201">Brushstrokes in the Digital age </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/619/original/Traversing_the_Threshold_newpdf.pdf?1541855201">Traversing the Threshold</attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/621/original/Abstract_Grayver.pdf?1541861917">Abstract-Transhuman Expression. </attachment>
         </attachments>
       </event>
       <event id="9695" guid="4b765099-8cfa-4325-b132-0d9dc9b84267">
@@ -8057,14 +7601,8 @@ We will talk about standards (NMEA0183, NMEA2000), Communication technologies (V
           <person id="6989">Trollofix</person>
         </persons>
         <links>
-          <link>
-            <url>https://sea-watch.org</url>
-            <title>Seawatch</title>
-          </link>
-          <link>
-            <url>https://mission-lifeline.de/</url>
-            <title>Mission Lifeline</title>
-          </link>
+          <link hef="https://sea-watch.org">Seawatch</link>
+          <link hef="https://mission-lifeline.de/">Mission Lifeline</link>
         </links>
         <attachments/>
       </event>
@@ -8097,10 +7635,7 @@ By deriving cryptographic key material based on physical disorder and unclonable
           <person id="8539">Lars Steinschulte</person>
         </persons>
         <links>
-          <link>
-            <url>http://news.rub.de/vermischtes/2018-10-11-it-sicherheitspreis-die-besten-innovationen-kommen-aus-bochum</url>
-            <title>[1]</title>
-          </link>
+          <link hef="http://news.rub.de/vermischtes/2018-10-11-it-sicherheitspreis-die-besten-innovationen-kommen-aus-bochum">[1]</link>
         </links>
         <attachments/>
       </event>
@@ -8160,10 +7695,7 @@ In this talk I hope to show how I found these bugs by using extremely targeted f
           <person id="7068">nedwill</person>
         </persons>
         <links>
-          <link>
-            <url>https://twitter.com/NedWilliamson/status/1043150732742946816</url>
-            <title>Exploit Demo</title>
-          </link>
+          <link hef="https://twitter.com/NedWilliamson/status/1043150732742946816">Exploit Demo</link>
         </links>
         <attachments/>
       </event>
@@ -8197,20 +7729,11 @@ The documentation is delivered in an open-ended format, following Free/Libre Ope
           <person id="8443">Joana Chicau</person>
         </persons>
         <links>
-          <link>
-            <url>http://joanachicau.com/</url>
-            <title>Project Website</title>
-          </link>
+          <link hef="http://joanachicau.com/">Project Website</link>
         </links>
         <attachments>
-          <attachment>
-            <url>/system/event_attachments/attachments/000/003/624/original/credit_Ana_Caria_and_Leonor_Fonseca01.jpg?1542546650</url>
-            <title>Performance by Joana Chicau</title>
-          </attachment>
-          <attachment>
-            <url>/attachments/original/missing.png</url>
-            <title>Performance image</title>
-          </attachment>
+          <attachment hef="/system/event_attachments/attachments/000/003/624/original/credit_Ana_Caria_and_Leonor_Fonseca01.jpg?1542546650">Performance by Joana Chicau</attachment>
+          <attachment hef="/attachments/original/missing.png">Performance image</attachment>
         </attachments>
       </event>
       <event id="9993" guid="70b257cc-d26a-4044-b95e-5d3e6d8c7597">
@@ -8240,14 +7763,8 @@ The goal of the experience is to empower its users, and create a heightened appr
           <person id="8711">Sabio</person>
         </persons>
         <links>
-          <link>
-            <url>http://infiniteobserver.com</url>
-            <title>Infinite Observer Project Page</title>
-          </link>
-          <link>
-            <url>http://thegladscientist.info</url>
-            <title>The Glad Scientist</title>
-          </link>
+          <link hef="http://infiniteobserver.com">Infinite Observer Project Page</link>
+          <link hef="http://thegladscientist.info">The Glad Scientist</link>
         </links>
         <attachments/>
       </event>
@@ -8284,26 +7801,11 @@ However, it's not always easy...</description>
           <person id="8661">Janina Abels</person>
         </persons>
         <links>
-          <link>
-            <url>https://foodsaving.world</url>
-            <title>foodsaving.world</title>
-          </link>
-          <link>
-            <url>https://github.com/yunity/karrot-frontend</url>
-            <title>Karrot</title>
-          </link>
-          <link>
-            <url>https://foodsharing.de</url>
-            <title>foodsharing.de</title>
-          </link>
-          <link>
-            <url>https://community.foodsaving.world</url>
-            <title>Foodsaving Community Forum</title>
-          </link>
-          <link>
-            <url>https://www.youtube.com/watch?v=MLWccmvhIlU</url>
-            <title>Presentation from the beginning of the project (2016)</title>
-          </link>
+          <link hef="https://foodsaving.world">foodsaving.world</link>
+          <link hef="https://github.com/yunity/karrot-frontend">Karrot</link>
+          <link hef="https://foodsharing.de">foodsharing.de</link>
+          <link hef="https://community.foodsaving.world">Foodsaving Community Forum</link>
+          <link hef="https://www.youtube.com/watch?v=MLWccmvhIlU">Presentation from the beginning of the project (2016)</link>
         </links>
         <attachments/>
       </event>
@@ -10066,14 +9568,8 @@ Last, we show a new attack where any Nexus 5 connecting to or being connected by
           <person id="8329">mantz</person>
         </persons>
         <links>
-          <link>
-            <url>https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware</url>
-            <title>MRMCD talk on Internalblue</title>
-          </link>
-          <link>
-            <url>https://github.com/seemoo-lab/internalblue</url>
-            <title>InternalBlue on GitHub</title>
-          </link>
+          <link hef="https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware">MRMCD talk on Internalblue</link>
+          <link hef="https://github.com/seemoo-lab/internalblue">InternalBlue on GitHub</link>
         </links>
         <attachments/>
       </event>
@@ -10159,10 +9655,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link>
-            <url>https://c3lt.de/35c3</url>
-            <title>Registration and schedule</title>
-          </link>
+          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -10251,10 +9744,7 @@ If you'd like to know more, check out www.eyeskills.org and come along to this t
           <person id="8142">Ben Senior</person>
         </persons>
         <links>
-          <link>
-            <url>www.eyeskills.org</url>
-            <title>EyeSkills</title>
-          </link>
+          <link hef="www.eyeskills.org">EyeSkills</link>
         </links>
         <attachments/>
       </event>
@@ -10336,10 +9826,7 @@ This is a Foundations talk. Though no prior understanding of circumvention techn
           <person id="8668">kmc</person>
         </persons>
         <links>
-          <link>
-            <url>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244046</url>
-            <title>A recently published paper by this presenter: Censorship and Collateral Damage: Analyzing the Telegram Ban in Iran</title>
-          </link>
+          <link hef="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244046">A recently published paper by this presenter: Censorship and Collateral Damage: Analyzing the Telegram Ban in Iran</link>
         </links>
         <attachments/>
       </event>
@@ -10483,10 +9970,7 @@ As of Summer and Fall 2018 he is traveling and lecturing with the Danish compose
           <person id="8584">Jeffrey Scudder</person>
         </persons>
         <links>
-          <link>
-            <url>https://docs.google.com/document/d/170R26_4n3uQ_tlhGEWZZbsWssnwz6441ndqEQDSah2U/edit?usp=sharing</url>
-            <title>Summary / Media</title>
-          </link>
+          <link hef="https://docs.google.com/document/d/170R26_4n3uQ_tlhGEWZZbsWssnwz6441ndqEQDSah2U/edit?usp=sharing">Summary / Media</link>
         </links>
         <attachments/>
       </event>
@@ -10514,10 +9998,7 @@ Welche Mittel können wir nutzen, um trotzdem Lichts ins Dunkel der Konzerne zu 
           <person id="5605">Arne Semsrott</person>
         </persons>
         <links>
-          <link>
-            <url>FragDenStaat.de</url>
-            <title>FragDenStaat</title>
-          </link>
+          <link hef="FragDenStaat.de">FragDenStaat</link>
         </links>
         <attachments/>
       </event>
