@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v0.3 0.3 2018-12-20 11:00</version>
+  <version>Buffy 2.1 0.9.9 v0.3 0.3 2018-12-20 11:10</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -3992,7 +3992,12 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <language>cs</language>
         <abstract/>
         <description/>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor</url>
+            <public_name>Algoldor</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making</link>
