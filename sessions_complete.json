@@ -3782,6 +3782,55 @@
             }
         ]
     }, 
+    "Session:Audio Recording Setups# 6ded77a91ec0ffda20cd6c858ddcf29f": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The idea of this workshop is to share experiences with audio recording hardware and software."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Audio Recording Setups"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Privacy Meetup. Stammtisch B\u00fcndnis Privatsph\u00e4re Leipzig# 0624bfc990697091a0f745ad5606b158": {
         "Held in language": [
             "de - German", 
@@ -5602,28 +5651,27 @@
             }
         ]
     }, 
-    "Session:Kerbal Space Program Meetup# 6c30d1f10a64f527d867566e70cd6c51": {
+    "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545904800", 
-                "raw": "1/2018/12/27/10/0/0/0"
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [
-            "https://en.wikipedia.org/wiki/Kerbal_Space_Program"
+            "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148"
         ], 
         "Has description": [
-            "Meetup of Kerbal Space Program Players. Show off your contraptions, Mods. Find likeminded people."
+            "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend."
         ], 
         "Has session type": [
-            "Meeting"
+            "Workshop"
         ], 
         "Has session location": [
             {
@@ -5634,25 +5682,35 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has subtitle": [
+            "Erst Anf\u00e4nger, dann Fortgeschrittene"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rstockm", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
-            "Kerbal Space Program Meetup"
+            "Ultraschall f\u00fcr EinsteigerInnen"
         ], 
         "Has duration": [
             180
         ], 
         "GUID": [
-            "2a643dd4-8dcb-471d-a74e-9808e3f95d8d"
+            "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kerbal_Space_Program_Meetup", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen", 
         "Has end time": [
             {
-                "timestamp": "1545915600", 
-                "raw": "1/2018/12/27/13/0/0/0"
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }, 
@@ -6150,6 +6208,68 @@
             }
         ]
     }, 
+    "Session:Kerbal Space Program Meetup# 234fa8cd615412848aab2f4401c50403": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545991200", 
+                "raw": "1/2018/12/28/10/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://en.wikipedia.org/wiki/Kerbal_Space_Program"
+        ], 
+        "Has description": [
+            "Meetup of Kerbal Space Program Players. Show off your contraptions, Mods. Find likeminded people."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:VITAS", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:VITAS", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Kerbal Space Program Meetup"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "2a643dd4-8dcb-471d-a74e-9808e3f95d8d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kerbal_Space_Program_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ]
+    }, 
     "Session:Translation# b203be7c7e3428bb85b2fd96c491752c": {
         "Held in language": [
             "en - English"
@@ -6308,69 +6428,6 @@
             {
                 "timestamp": "1546025400", 
                 "raw": "1/2018/12/28/19/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546081200", 
-                "raw": "1/2018/12/29/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148"
-        ], 
-        "Has description": [
-            "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Erst Anf\u00e4nger, dann Fortgeschrittene"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Ultraschall f\u00fcr EinsteigerInnen"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen", 
-        "Has end time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }, 
