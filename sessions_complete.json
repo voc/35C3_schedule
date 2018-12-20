@@ -1536,14 +1536,15 @@
             }
         ]
     }, 
-    "Session:Relationship Anarchy# c2316ea874916525a7c0231f105c8c80": {
+    "Session:Origami# 3efeec293d354488c1dd99bfbf35cac6": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545922800", 
-                "raw": "1/2018/12/27/15/0/0/0"
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ], 
         "Has event track": [
@@ -1551,10 +1552,10 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "A nice & cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering."
+            "Learn to fold easy Origami objects and decorate your environment with paper"
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
@@ -1565,25 +1566,27 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "paperless? how boring! A quick introduction to beginners"
+        ], 
         "Is organized by": [], 
         "Has title": [
-            "Relationship Anarchy"
+            "Origami"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
-            "d25d9fdc-944a-4d44-b706-387181bc5ee8"
+            "54822ed6-ef46-48fc-a2d0-7be196266485"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Origami", 
         "Has end time": [
             {
-                "timestamp": "1545930000", 
-                "raw": "1/2018/12/27/17/0/0/0"
+                "timestamp": "1545937200", 
+                "raw": "1/2018/12/27/19/0/0/0"
             }
         ]
     }, 
@@ -3315,6 +3318,57 @@
             {
                 "timestamp": "1545955200", 
                 "raw": "1/2018/12/28/0/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Relationship Anarchy# c2316ea874916525a7c0231f105c8c80": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545922800", 
+                "raw": "1/2018/12/27/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A nice & cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Relationship Anarchy"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "d25d9fdc-944a-4d44-b706-387181bc5ee8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
             }
         ]
     }, 
