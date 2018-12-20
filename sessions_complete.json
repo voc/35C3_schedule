@@ -1874,7 +1874,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Gemeinsames Chorsingen. All creatures welcome."
+            "Gemeinsames Chorsingen. Singing in a choir. All creatures welcome."
         ], 
         "Has session type": [
             "Hands-On"
@@ -1927,7 +1927,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Gemeinsames Chorsingen. All creatures welcome."
+            "Gemeinsames Chorsingen. Singing in a choir. All creatures welcome."
         ], 
         "Has session type": [
             "Hands-On"
@@ -4981,6 +4981,38 @@
                 "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
+    }, 
+    "Session:Mietsh\u00e4user Syndikat Hausbesichtigung# b24f4c872c4749e0706f7500f72b718e": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hausbesic"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Mietsh\u00e4user Syndikat Hausbesichtigung"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "2bb37af8-e6a6-4056-8522-126dd2674594"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat_Hausbesichtigung", 
+        "Has end time": []
     }, 
     "Session:Mietsh\u00e4user Syndikat# 2d72432b40b7be6980152b9c1519f98e": {
         "Held in language": [
