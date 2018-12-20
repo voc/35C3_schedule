@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 21:40</version>
+  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 21:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -10758,26 +10758,6 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
-      <event id="1151" guid="706cce29-f6b4-499a-b4ad-1c46ef604205">
-        <logo/>
-        <date>2018-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M1</room>
-        <slug/>
-        <title>Mietshäuser Syndikat</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Wie starte ich ein Hausprojekt im Mietshäuser Syndikat?</description>
-        <persons/>
-        <links>
-          <link>http://syndikat.org</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat</link>
-        </links>
-      </event>
       <event id="1090" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -10929,6 +10909,26 @@ However, it's not always easy...</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
+        </links>
+      </event>
+      <event id="1151" guid="706cce29-f6b4-499a-b4ad-1c46ef604205">
+        <logo/>
+        <date>2018-12-29T18:10:00+01:00</date>
+        <start>18:10</start>
+        <duration>0:50</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Mietshäuser Syndikat</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wie starte ich ein Hausprojekt im Mietshäuser Syndikat?</description>
+        <persons/>
+        <links>
+          <link>http://syndikat.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat</link>
         </links>
       </event>
       <event id="1134" guid="45a13447-70ed-47d2-82ae-e88366738130">
