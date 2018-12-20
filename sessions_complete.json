@@ -60,6 +60,159 @@
             }
         ]
     }, 
+    "Session:\"Join us now and ...\" sing together the Free Software song# 2a3da0080d00ec7cd82b5e5dbafd2734": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "\"Join us now and ...\" sing together the Free Software song"
+        ], 
+        "Has duration": [
+            10
+        ], 
+        "GUID": [
+            "73e04d13-cf63-4181-9801-d7c2100afc97"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song", 
+        "Has end time": [
+            {
+                "timestamp": "1546114200", 
+                "raw": "1/2018/12/29/20/10/0/0"
+            }
+        ]
+    }, 
+    "Session:\"Join us now and ...\" sing together the Free Software song# 87cd06873cf8f7faf171b4c5da6bb8ef": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "\"Join us now and ...\" sing together the Free Software song"
+        ], 
+        "Has duration": [
+            10
+        ], 
+        "GUID": [
+            "73e04d13-cf63-4181-9801-d7c2100afc97"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song", 
+        "Has end time": [
+            {
+                "timestamp": "1546027800", 
+                "raw": "1/2018/12/28/20/10/0/0"
+            }
+        ]
+    }, 
+    "Session:\"Join us now and ...\" sing together the Free Software song# da16f33c0cb6291f040d7190c14d7de2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Eal", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "\"Join us now and ...\" sing together the Free Software song"
+        ], 
+        "Has duration": [
+            10
+        ], 
+        "GUID": [
+            "67274860-bfec-45b8-9f32-b710f0497a3f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song", 
+        "Has end time": [
+            {
+                "timestamp": "1545941400", 
+                "raw": "1/2018/12/27/20/10/0/0"
+            }
+        ]
+    }, 
     "Session:42birds: Hacker\u2019s Digest# c4189922d5ff66a9702b434b7b857f55": {
         "Held in language": [
             "de - German", 
@@ -3005,14 +3158,14 @@
             }
         ]
     }, 
-    "Session:Fund-Raising for Free Software - Thinking Big# d9b5dafa020034e2dcbd700c50af064c": {
+    "Session:Fund-Raising for Free Software - Thinking Big# 6cb92503b7b5f06b0c204808ff4bf37f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
             }
         ], 
         "Has event track": [
@@ -3025,8 +3178,8 @@
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -3049,8 +3202,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big", 
         "Has end time": [
             {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
             }
         ]
     }, 

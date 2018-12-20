@@ -2343,27 +2343,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
-                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
-                                "logo": null, 
-                                "date": "2018-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "", 
-                                "title": "Fund-Raising for Free Software - Thinking Big", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
-                                ]
-                            }, 
-                            {
                                 "id": 1064, 
                                 "guid": "1a286de5-3a8e-4ba1-8119-e14f8fcc6946", 
                                 "logo": null, 
@@ -2612,6 +2591,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1051, 
+                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Fund-Raising for Free Software - Thinking Big", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
                                 ]
                             }, 
                             {
@@ -2967,6 +2967,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-20 20:10"
+        "version": "2018-12-20 20:20"
     }
 }

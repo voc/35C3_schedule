@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 20:10", 
+        "version": "Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 20:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3800,6 +3800,77 @@
                                 "answers": []
                             }
                         ], 
+                        "": [
+                            {
+                                "id": 1150, 
+                                "guid": "67274860-bfec-45b8-9f32-b710f0497a3f", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "\"Join us now and ...\" sing together the Free Software song", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song"
+                                ]
+                            }, 
+                            {
+                                "id": 1142, 
+                                "guid": "85caaa0d-3265-5b7f-a023-1eb06a004da0", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 1b", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1146, 
+                                "guid": "a4aa63cf-b670-5163-b8be-9a1c1085db46", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 1a", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
+                        ], 
                         "Assembly:Chaos West": [
                             {
                                 "id": 1027, 
@@ -4043,50 +4114,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }
-                        ], 
-                        "": [
-                            {
-                                "id": 1142, 
-                                "guid": "85caaa0d-3265-5b7f-a023-1eb06a004da0", 
-                                "logo": null, 
-                                "date": "2018-12-27T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "1:30", 
-                                "room": "", 
-                                "slug": "", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 1b", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
-                                ]
-                            }, 
-                            {
-                                "id": 1146, 
-                                "guid": "a4aa63cf-b670-5163-b8be-9a1c1085db46", 
-                                "logo": null, 
-                                "date": "2018-12-27T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:10", 
-                                "room": "", 
-                                "slug": "", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 1a", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ]
@@ -7986,6 +8013,33 @@
                         ], 
                         "": [
                             {
+                                "id": 1149, 
+                                "guid": "e9f81a62-c37a-5cd6-9a7c-d64b0040a29f", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "\"Join us now and ...\" sing together the Free Software song", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song"
+                                ]
+                            }, 
+                            {
                                 "id": 1015, 
                                 "guid": "36acca93-34a4-4e93-9ebe-ec1422058a27", 
                                 "logo": null, 
@@ -10373,27 +10427,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1051, 
-                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
-                                "logo": null, 
-                                "date": "2018-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "", 
-                                "title": "Fund-Raising for Free Software - Thinking Big", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
-                                ]
-                            }, 
-                            {
                                 "id": 1064, 
                                 "guid": "1a286de5-3a8e-4ba1-8119-e14f8fcc6946", 
                                 "logo": null, 
@@ -10546,6 +10579,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1051, 
+                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Fund-Raising for Free Software - Thinking Big", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
                                 ]
                             }, 
                             {
@@ -12189,6 +12243,77 @@
                                 "answers": []
                             }
                         ], 
+                        "": [
+                            {
+                                "id": 1148, 
+                                "guid": "73e04d13-cf63-4181-9801-d7c2100afc97", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "\"Join us now and ...\" sing together the Free Software song", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Eal", 
+                                        "public_name": "Eal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song"
+                                ]
+                            }, 
+                            {
+                                "id": 1141, 
+                                "guid": "f5427987-a60c-467b-8dd7-9db40e8719fa", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:45:00+01:00", 
+                                "start": "19:45", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 3b", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1143, 
+                                "guid": "16bd5907-8b06-5a4c-a9d3-8d84f6816a0d", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:10", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 3a", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
+                        ], 
                         "Assembly:Foodhackingbase": [
                             {
                                 "id": 1034, 
@@ -12413,50 +12538,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }
-                        ], 
-                        "": [
-                            {
-                                "id": 1141, 
-                                "guid": "f5427987-a60c-467b-8dd7-9db40e8719fa", 
-                                "logo": null, 
-                                "date": "2018-12-29T19:45:00+01:00", 
-                                "start": "19:45", 
-                                "duration": "1:30", 
-                                "room": "", 
-                                "slug": "", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 3b", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
-                                ]
-                            }, 
-                            {
-                                "id": 1143, 
-                                "guid": "16bd5907-8b06-5a4c-a9d3-8d84f6816a0d", 
-                                "logo": null, 
-                                "date": "2018-12-29T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:10", 
-                                "room": "", 
-                                "slug": "", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 3a", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ]
