@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:40", 
+        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:50", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -1863,7 +1863,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1099, 
+                                "id": 1108, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa2", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:10:00+01:00", 
@@ -1884,7 +1884,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1100, 
+                                "id": 1109, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa3", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:45:00+01:00", 
@@ -1983,7 +1983,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1079, 
+                                "id": 1081, 
                                 "guid": "d25d9fdc-944a-4d44-b706-387181bc5ee8", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -2004,7 +2004,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1108, 
+                                "id": 1117, 
                                 "guid": "fd8cdcd7-506d-4441-b59f-7c83263bb873", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -2056,7 +2056,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1080, 
+                                "id": 1082, 
                                 "guid": "b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -2101,7 +2101,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1084, 
+                                "id": 1086, 
                                 "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
                                 "logo": null, 
                                 "date": "2018-12-27T20:00:00+01:00", 
@@ -2129,7 +2129,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1107, 
+                                "id": 1116, 
                                 "guid": "5baa7172-13bb-488c-b9e5-443337e7566b", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -2257,7 +2257,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1086, 
+                                "id": 1088, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
                                 "logo": null, 
                                 "date": "2018-12-27T12:00:00+01:00", 
@@ -2285,7 +2285,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1089, 
+                                "id": 1091, 
                                 "guid": "c687a764-0204-46f1-9393-bce5dd7f65fc", 
                                 "logo": null, 
                                 "date": "2018-12-27T16:00:00+01:00", 
@@ -2313,7 +2313,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1092, 
+                                "id": 1101, 
                                 "guid": "af201fc8-81aa-4959-90ae-81307e17a6e3", 
                                 "logo": null, 
                                 "date": "2018-12-27T16:30:00+01:00", 
@@ -2386,7 +2386,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1077, 
+                                "id": 1079, 
                                 "guid": "2231a9ec-2bd9-49c3-85f3-bc179b46126e", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:00:00+01:00", 
@@ -3801,7 +3801,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1105, 
+                                "id": 1114, 
                                 "guid": "f6638acc-dc14-4575-a647-b18bf3fa238a", 
                                 "logo": null, 
                                 "date": "2018-12-27T22:30:00+01:00", 
@@ -3829,7 +3829,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1106, 
+                                "id": 1115, 
                                 "guid": "c11cfe59-01ad-40d7-b541-b0229dd8fda6", 
                                 "logo": null, 
                                 "date": "2018-12-27T21:00:00+01:00", 
@@ -3859,7 +3859,7 @@
                         ], 
                         "": [
                             {
-                                "id": 1066, 
+                                "id": 1068, 
                                 "guid": "2ee4399d-d40c-4ba7-80a8-84de8ce6b219", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:45:00+01:00", 
@@ -3868,12 +3868,12 @@
                                 "room": "", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
-                                "subtitle": "Day 1 (all sessions are independent from each other)", 
+                                "subtitle": "Day 1", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -3888,7 +3888,7 @@
                         ], 
                         "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1090, 
+                                "id": 1092, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:30:00+01:00", 
@@ -3915,7 +3915,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1091, 
+                                "id": 1094, 
                                 "guid": "2f307352-9447-4b63-bb9a-7ef8f38239d7", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:00:00+01:00", 
@@ -5670,7 +5670,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1069, 
+                                "id": 1071, 
                                 "guid": "18b77974-03f4-43a5-b94c-b2dda689e78c", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -5691,7 +5691,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1075, 
+                                "id": 1077, 
                                 "guid": "2644582a-5131-46e2-b9c0-ecd65b856ef4", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
@@ -5712,7 +5712,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1095, 
+                                "id": 1104, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa5", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:45:00+01:00", 
@@ -5733,7 +5733,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1096, 
+                                "id": 1105, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa4", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -5844,7 +5844,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1076, 
+                                "id": 1078, 
                                 "guid": "f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3", 
                                 "logo": null, 
                                 "date": "2018-12-28T13:00:00+01:00", 
@@ -5866,7 +5866,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1103, 
+                                "id": 1112, 
                                 "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -5965,7 +5965,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1070, 
+                                "id": 1072, 
                                 "guid": "67b1c001-e126-4366-b5ce-83721517e03b", 
                                 "logo": null, 
                                 "date": "2018-12-28T13:00:00+01:00", 
@@ -5993,7 +5993,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1082, 
+                                "id": 1084, 
                                 "guid": "212f5815-675d-41df-be82-a6fe8d6c0e93", 
                                 "logo": null, 
                                 "date": "2018-12-28T18:00:00+01:00", 
@@ -6116,7 +6116,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1072, 
+                                "id": 1074, 
                                 "guid": "acc33cc8-f416-4477-8a40-0865e1e456ac", 
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
@@ -6257,7 +6257,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1074, 
+                                "id": 1076, 
                                 "guid": "e75da001-77b7-402d-82b3-943157807136", 
                                 "logo": null, 
                                 "date": "2018-12-28T16:30:00+01:00", 
@@ -6285,7 +6285,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1087, 
+                                "id": 1089, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
                                 "date": "2018-12-28T12:00:00+01:00", 
@@ -6313,7 +6313,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1088, 
+                                "id": 1090, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d7", 
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
@@ -6435,7 +6435,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1104, 
+                                "id": 1113, 
                                 "guid": "7bc214f9-4c4d-448d-bfa0-88c91c39285c", 
                                 "logo": null, 
                                 "date": "2018-12-28T11:00:00+01:00", 
@@ -7767,12 +7767,12 @@
                                 "room": "", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
-                                "subtitle": "Day 2 (all sessions are independent from each other)", 
+                                "subtitle": "Day 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -7787,16 +7787,16 @@
                         ], 
                         "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1093, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4281", 
                                 "logo": null, 
-                                "date": "2018-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
+                                "date": "2018-12-28T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 2, session 2", 
+                                "subtitle": "Day 2, session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -7814,8 +7814,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1096, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4279", 
                                 "logo": null, 
                                 "date": "2018-12-28T11:00:00+01:00", 
                                 "start": "11:00", 
@@ -7841,16 +7841,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1099, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4280", 
                                 "logo": null, 
-                                "date": "2018-12-28T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 2, session 3", 
+                                "subtitle": "Day 2, session 2", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -7870,7 +7870,7 @@
                         ], 
                         "CCL Hall 3": [
                             {
-                                "id": 1112, 
+                                "id": 1121, 
                                 "guid": "afaf3909-6630-40af-b377-174b0d319796", 
                                 "logo": null, 
                                 "date": "2018-12-28T15:10:00+01:00", 
@@ -9711,7 +9711,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1097, 
+                                "id": 1106, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:10:00+01:00", 
@@ -9732,7 +9732,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1098, 
+                                "id": 1107, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa7", 
                                 "logo": null, 
                                 "date": "2018-12-29T19:45:00+01:00", 
@@ -9753,7 +9753,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1113, 
+                                "id": 1122, 
                                 "guid": "177023a2-4598-4b02-98a2-e511430e796e", 
                                 "logo": null, 
                                 "date": "2018-12-29T12:00:00+01:00", 
@@ -9836,7 +9836,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1102, 
+                                "id": 1111, 
                                 "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
                                 "logo": null, 
                                 "date": "2018-12-29T11:00:00+01:00", 
@@ -9864,7 +9864,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1110, 
+                                "id": 1119, 
                                 "guid": "e13ed565-4787-4e47-a5df-1b5cdd8a1289", 
                                 "logo": null, 
                                 "date": "2018-12-29T18:30:00+01:00", 
@@ -9914,7 +9914,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1081, 
+                                "id": 1083, 
                                 "guid": "7b3566f7-6baa-4002-812c-baa454f0b08b", 
                                 "logo": null, 
                                 "date": "2018-12-29T19:30:00+01:00", 
@@ -9935,7 +9935,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1101, 
+                                "id": 1110, 
                                 "guid": "4be5dc31-e708-4b61-a867-9569ccf60b5b", 
                                 "logo": null, 
                                 "date": "2018-12-29T17:00:00+01:00", 
@@ -10055,7 +10055,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1073, 
+                                "id": 1075, 
                                 "guid": "8b827630-c55d-40bd-884f-ac587bd4f43a", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:00:00+01:00", 
@@ -10204,7 +10204,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1109, 
+                                "id": 1118, 
                                 "guid": "45a13447-70ed-47d2-82ae-e88366738130", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:10:00+01:00", 
@@ -10255,7 +10255,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1068, 
+                                "id": 1070, 
                                 "guid": "b45908f3-31e6-4c01-8d01-e752bcf1f903", 
                                 "logo": null, 
                                 "date": "2018-12-29T20:00:00+01:00", 
@@ -10277,7 +10277,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1071, 
+                                "id": 1073, 
                                 "guid": "211a32b1-04d8-45f2-831e-0b09f5296559", 
                                 "logo": null, 
                                 "date": "2018-12-29T12:00:00+01:00", 
@@ -10299,7 +10299,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1078, 
+                                "id": 1080, 
                                 "guid": "789aa0e1-a305-4484-86fa-fcdb42cee442", 
                                 "logo": null, 
                                 "date": "2018-12-29T16:00:00+01:00", 
@@ -11864,8 +11864,8 @@
                         ], 
                         "": [
                             {
-                                "id": 1067, 
-                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
+                                "id": 1069, 
+                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98b", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:45:00+01:00", 
                                 "start": "15:45", 
@@ -11873,12 +11873,12 @@
                                 "room": "", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
-                                "subtitle": "Day 3 (all sessions are independent from each other)", 
+                                "subtitle": "Day 3", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -11893,16 +11893,16 @@
                         ], 
                         "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1095, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4284", 
                                 "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
+                                "date": "2018-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3, session 1", 
+                                "subtitle": "Day 3, session 3", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -11920,8 +11920,8 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1097, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4283", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:00:00+01:00", 
                                 "start": "15:00", 
@@ -11947,16 +11947,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1098, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4282", 
                                 "logo": null, 
-                                "date": "2018-12-29T17:30:00+01:00", 
-                                "start": "17:30", 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
                                 "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3, session 3", 
+                                "subtitle": "Day 3, session 1", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
@@ -12560,7 +12560,7 @@
                         ], 
                         "Lecture room 11": [
                             {
-                                "id": 1094, 
+                                "id": 1103, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa8", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 
@@ -12635,7 +12635,7 @@
                                 ]
                             }, 
                             {
-                                "id": 1111, 
+                                "id": 1120, 
                                 "guid": "9cd45799-ab73-4d14-87c1-3bfe28be8253", 
                                 "logo": null, 
                                 "date": "2018-12-30T13:10:00+01:00", 
@@ -13455,8 +13455,8 @@
                         ], 
                         "": [
                             {
-                                "id": 1067, 
-                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
+                                "id": 1066, 
+                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98c", 
                                 "logo": null, 
                                 "date": "2018-12-30T15:10:00+01:00", 
                                 "start": "15:10", 
@@ -13464,12 +13464,12 @@
                                 "room": "", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
-                                "subtitle": "Day 4 (all sessions are independent from each other)", 
+                                "subtitle": "Day 4", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -13484,8 +13484,8 @@
                         ], 
                         "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1090, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
+                                "id": 1100, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4285", 
                                 "logo": null, 
                                 "date": "2018-12-30T11:00:00+01:00", 
                                 "start": "11:00", 

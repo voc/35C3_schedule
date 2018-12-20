@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:40</version>
+  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2046,7 +2046,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.</link>
         </links>
       </event>
-      <event id="1099" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
+      <event id="1108" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa2">
         <logo/>
         <date>2018-12-27T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2065,7 +2065,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1100" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
+      <event id="1109" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa3">
         <logo/>
         <date>2018-12-27T19:45:00+01:00</date>
         <start>19:45</start>
@@ -2154,7 +2154,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LehrerInnenstammtisch</link>
         </links>
       </event>
-      <event id="1079" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
+      <event id="1081" guid="d25d9fdc-944a-4d44-b706-387181bc5ee8">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2173,7 +2173,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
         </links>
       </event>
-      <event id="1108" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
+      <event id="1117" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2220,7 +2220,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1080" guid="b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb">
+      <event id="1082" guid="b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2261,7 +2261,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
         </links>
       </event>
-      <event id="1084" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+      <event id="1086" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2286,7 +2286,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
-      <event id="1107" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
+      <event id="1116" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -2401,7 +2401,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
         </links>
       </event>
-      <event id="1086" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
+      <event id="1088" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T12:00:00+01:00</date>
         <start>12:00</start>
@@ -2426,7 +2426,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1089" guid="c687a764-0204-46f1-9393-bce5dd7f65fc">
+      <event id="1091" guid="c687a764-0204-46f1-9393-bce5dd7f65fc">
         <logo/>
         <date>2018-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -2451,7 +2451,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1092" guid="af201fc8-81aa-4959-90ae-81307e17a6e3">
+      <event id="1101" guid="af201fc8-81aa-4959-90ae-81307e17a6e3">
         <logo/>
         <date>2018-12-27T16:30:00+01:00</date>
         <start>16:30</start>
@@ -2517,7 +2517,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1077" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
+      <event id="1079" guid="2231a9ec-2bd9-49c3-85f3-bc179b46126e">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
         <start>19:00</start>
@@ -3998,7 +3998,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making</link>
         </links>
       </event>
-      <event id="1105" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
+      <event id="1114" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
         <logo/>
         <date>2018-12-27T22:30:00+01:00</date>
         <start>22:30</start>
@@ -4023,7 +4023,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
         </links>
       </event>
-      <event id="1106" guid="c11cfe59-01ad-40d7-b541-b0229dd8fda6">
+      <event id="1115" guid="c11cfe59-01ad-40d7-b541-b0229dd8fda6">
         <logo/>
         <date>2018-12-27T21:00:00+01:00</date>
         <start>21:00</start>
@@ -4050,7 +4050,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
       </event>
     </room>
     <room name="">
-      <event id="1066" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
+      <event id="1068" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
         <logo/>
         <date>2018-12-27T15:45:00+01:00</date>
         <start>15:45</start>
@@ -4058,12 +4058,12 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <room/>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 1 (all sessions are independent from each other)</subtitle>
+        <subtitle>Day 1</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!</description>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
           <person id="0">
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
@@ -4076,7 +4076,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1092" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
         <logo/>
         <date>2018-12-27T19:30:00+01:00</date>
         <start>19:30</start>
@@ -4100,7 +4100,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1091" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
+      <event id="1094" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -6037,7 +6037,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast</link>
         </links>
       </event>
-      <event id="1069" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
+      <event id="1071" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6056,7 +6056,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
         </links>
       </event>
-      <event id="1075" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
+      <event id="1077" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -6075,7 +6075,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory</link>
         </links>
       </event>
-      <event id="1095" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa5">
+      <event id="1104" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa5">
         <logo/>
         <date>2018-12-28T19:45:00+01:00</date>
         <start>19:45</start>
@@ -6094,7 +6094,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1096" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
+      <event id="1105" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa4">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -6193,7 +6193,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen</link>
         </links>
       </event>
-      <event id="1076" guid="f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3">
+      <event id="1078" guid="f2fa8afb-d6ac-4e38-b7fa-e47319ba2cf3">
         <logo/>
         <date>2018-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -6213,7 +6213,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Privacy_Meetup._Stammtisch_B%C3%BCndnis_Privatsph%C3%A4re_Leipzig</link>
         </links>
       </event>
-      <event id="1103" guid="df883408-2ce9-4640-89c4-112eb0d64394">
+      <event id="1112" guid="df883408-2ce9-4640-89c4-112eb0d64394">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6302,7 +6302,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg</link>
         </links>
       </event>
-      <event id="1070" guid="67b1c001-e126-4366-b5ce-83721517e03b">
+      <event id="1072" guid="67b1c001-e126-4366-b5ce-83721517e03b">
         <logo/>
         <date>2018-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -6327,7 +6327,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Numerical_Weather_Prediction</link>
         </links>
       </event>
-      <event id="1082" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
+      <event id="1084" guid="212f5815-675d-41df-be82-a6fe8d6c0e93">
         <logo/>
         <date>2018-12-28T18:00:00+01:00</date>
         <start>18:00</start>
@@ -6438,7 +6438,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Konsens-Workshop</link>
         </links>
       </event>
-      <event id="1072" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
+      <event id="1074" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -6565,7 +6565,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
         </links>
       </event>
-      <event id="1074" guid="e75da001-77b7-402d-82b3-943157807136">
+      <event id="1076" guid="e75da001-77b7-402d-82b3-943157807136">
         <logo/>
         <date>2018-12-28T16:30:00+01:00</date>
         <start>16:30</start>
@@ -6590,7 +6590,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop</link>
         </links>
       </event>
-      <event id="1087" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
+      <event id="1089" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
         <logo/>
         <date>2018-12-28T12:00:00+01:00</date>
         <start>12:00</start>
@@ -6615,7 +6615,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
         </links>
       </event>
-      <event id="1088" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d7">
+      <event id="1090" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d7">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -6725,7 +6725,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism</link>
         </links>
       </event>
-      <event id="1104" guid="7bc214f9-4c4d-448d-bfa0-88c91c39285c">
+      <event id="1113" guid="7bc214f9-4c4d-448d-bfa0-88c91c39285c">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -8119,12 +8119,12 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <room/>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 2 (all sessions are independent from each other)</subtitle>
+        <subtitle>Day 2</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!</description>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
           <person id="0">
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
@@ -8137,55 +8137,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
-        <logo/>
-        <date>2018-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug/>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 2, session 2</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
-            <public_name>Kliment</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
-        </links>
-      </event>
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
-        <logo/>
-        <date>2018-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug/>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 2, session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
-            <public_name>Kliment</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
-        </links>
-      </event>
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1093" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4281">
         <logo/>
         <date>2018-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -8209,9 +8161,57 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
+      <event id="1096" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4279">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1099" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4280">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 2, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment</url>
+            <public_name>Kliment</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
     </room>
     <room name="CCL Hall 3">
-      <event id="1112" guid="afaf3909-6630-40af-b377-174b0d319796">
+      <event id="1121" guid="afaf3909-6630-40af-b377-174b0d319796">
         <logo/>
         <date>2018-12-28T15:10:00+01:00</date>
         <start>15:10</start>
@@ -10068,7 +10068,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion</link>
         </links>
       </event>
-      <event id="1097" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
+      <event id="1106" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
         <logo/>
         <date>2018-12-29T15:10:00+01:00</date>
         <start>15:10</start>
@@ -10087,7 +10087,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1098" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
+      <event id="1107" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa7">
         <logo/>
         <date>2018-12-29T19:45:00+01:00</date>
         <start>19:45</start>
@@ -10106,7 +10106,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1113" guid="177023a2-4598-4b02-98a2-e511430e796e">
+      <event id="1122" guid="177023a2-4598-4b02-98a2-e511430e796e">
         <logo/>
         <date>2018-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -10180,7 +10180,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
         </links>
       </event>
-      <event id="1102" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
+      <event id="1111" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
         <logo/>
         <date>2018-12-29T11:00:00+01:00</date>
         <start>11:00</start>
@@ -10205,7 +10205,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
         </links>
       </event>
-      <event id="1110" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
+      <event id="1119" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
         <logo/>
         <date>2018-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -10250,7 +10250,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
         </links>
       </event>
-      <event id="1081" guid="7b3566f7-6baa-4002-812c-baa454f0b08b">
+      <event id="1083" guid="7b3566f7-6baa-4002-812c-baa454f0b08b">
         <logo/>
         <date>2018-12-29T19:30:00+01:00</date>
         <start>19:30</start>
@@ -10269,7 +10269,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier</link>
         </links>
       </event>
-      <event id="1101" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
+      <event id="1110" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -10377,7 +10377,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
-      <event id="1073" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
+      <event id="1075" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -10511,7 +10511,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
         </links>
       </event>
-      <event id="1109" guid="45a13447-70ed-47d2-82ae-e88366738130">
+      <event id="1118" guid="45a13447-70ed-47d2-82ae-e88366738130">
         <logo/>
         <date>2018-12-29T16:10:00+01:00</date>
         <start>16:10</start>
@@ -10557,7 +10557,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
         </links>
       </event>
-      <event id="1068" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">
+      <event id="1070" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -10577,7 +10577,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F</link>
         </links>
       </event>
-      <event id="1071" guid="211a32b1-04d8-45f2-831e-0b09f5296559">
+      <event id="1073" guid="211a32b1-04d8-45f2-831e-0b09f5296559">
         <logo/>
         <date>2018-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -10597,7 +10597,7 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup</link>
         </links>
       </event>
-      <event id="1078" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
+      <event id="1080" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
@@ -12269,7 +12269,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
       </event>
     </room>
     <room name="">
-      <event id="1067" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1069" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98b">
         <logo/>
         <date>2018-12-29T15:45:00+01:00</date>
         <start>15:45</start>
@@ -12277,12 +12277,12 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <room/>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 3 (all sessions are independent from each other)</subtitle>
+        <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!</description>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
           <person id="0">
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
@@ -12295,15 +12295,15 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1095" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4284">
         <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>2:00</duration>
         <room>Assembly:Hardware Hacking Area</room>
         <slug/>
         <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 3, session 1</subtitle>
+        <subtitle>Day 3, session 3</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -12319,7 +12319,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1097" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4283">
         <logo/>
         <date>2018-12-29T15:00:00+01:00</date>
         <start>15:00</start>
@@ -12343,15 +12343,15 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1098" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4282">
         <logo/>
-        <date>2018-12-29T17:30:00+01:00</date>
-        <start>17:30</start>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>2:00</duration>
         <room>Assembly:Hardware Hacking Area</room>
         <slug/>
         <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 3, session 3</subtitle>
+        <subtitle>Day 3, session 1</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -12980,7 +12980,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room 11">
-      <event id="1094" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa8">
+      <event id="1103" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa8">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -13048,7 +13048,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cognitive_Stimulation_Interfaces:_How_to_Circumvent_the_Obvious</link>
         </links>
       </event>
-      <event id="1111" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
+      <event id="1120" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
         <logo/>
         <date>2018-12-30T13:10:00+01:00</date>
         <start>13:10</start>
@@ -13892,7 +13892,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
       </event>
     </room>
     <room name="">
-      <event id="1067" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+      <event id="1066" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -13900,12 +13900,12 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <room/>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 4 (all sessions are independent from each other)</subtitle>
+        <subtitle>Day 4</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids!</description>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
           <person id="0">
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech</url>
@@ -13918,7 +13918,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
       </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
-      <event id="1090" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+      <event id="1100" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4285">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
         <start>11:00</start>
