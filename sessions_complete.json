@@ -1002,30 +1002,34 @@
             }
         ]
     }, 
-    "Session:Human Rights and Surveillance# 3a96c9dca805aae632a20c9140ed2a01": {
+    "Session:ARM ROP Exploitation Intro# da5589d3c99db9e08fa22411df8a32ff": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
+                "timestamp": "1545832800", 
+                "raw": "1/2018/12/26/14/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
+            "https://blog.3or.de//35c3"
+        ], 
         "Has description": [
-            "In the talk we want to shed light on the current global situation and focus on how we can stand together with human rights defenders affected by hacking. How is digital persecution working? Who is involved? What can Amnesty, other NGOs and every person do about it, together and individually?"
+            "Exploiting stack based buffer overflows using ROP on ARM"
         ], 
         "Has session type": [
-            "Talk"
+            "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -1034,22 +1038,22 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Human Rights and Surveillance"
+            "ARM ROP Exploitation Intro"
         ], 
         "Has duration": [
-            60
+            180
         ], 
         "GUID": [
-            "8e20f78f-9e08-4be3-8202-3f273e02ff52"
+            "dd8c40c5-e24b-4246-bc6a-014b6f392949"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro", 
         "Has end time": [
             {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
+                "timestamp": "1545843600", 
+                "raw": "1/2018/12/26/17/0/0/0"
             }
         ]
     }, 
@@ -1533,6 +1537,66 @@
             {
                 "timestamp": "1546117200", 
                 "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Open Rope Jam# 55e7935fbd1c2006d7c1efbce55ee0b6": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Open Rope Jam (Bondage)"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Raven", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Raven", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Open Rope Jam"
+        ], 
+        "Has duration": [
+            119
+        ], 
+        "GUID": [
+            "01221fb8-3494-4767-a554-b6add0b5cb29"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam", 
+        "Has end time": [
+            {
+                "timestamp": "1546041540", 
+                "raw": "1/2018/12/28/23/59/0/0"
             }
         ]
     }, 
@@ -3248,6 +3312,65 @@
             }
         ]
     }, 
+    "Session:Advanced Bondage Workshop# 21f7733a7132d2fd5cb12bb511fa55a3": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Advanced Bondage Workshop"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Raven", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Raven", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Advanced Bondage Workshop"
+        ], 
+        "Has duration": [
+            119
+        ], 
+        "GUID": [
+            "bd96b262-3cab-4afd-a628-8b0631372fbb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1545955140", 
+                "raw": "1/2018/12/27/23/59/0/0"
+            }
+        ]
+    }, 
     "Session:WhiskyTasting# 0cf632f1f5841b1b6be91283aeeb1c4e": {
         "Held in language": [
             "cs - Czech", 
@@ -3864,7 +3987,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:KarlaByrinth", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Audio Recording Setups"
         ], 
@@ -5522,62 +5653,62 @@
             }
         ]
     }, 
-    "Session:Advanced Bondage Workshop - Day 2# 2b08afef72578b6830170256322efda6": {
-        "Held in language": [
-            "de - German"
-        ], 
+    "Session:Herald Angel Introduction# 493308018484e849691bdf3f6f639be5": {
+        "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1546034400", 
-                "raw": "1/2018/12/28/22/0/0/0"
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Advanced Bondage Workshop #2"
+        "Has website": [
+            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds"
         ], 
+        "Has description": [], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "for the small group of new Heralds"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Raven", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Raven", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Advanced Bondage Workshop - Day 2"
+            "Herald Angel Introduction"
         ], 
         "Has duration": [
             120
         ], 
         "GUID": [
-            "01221fb8-3494-4767-a554-b6add0b5cb29"
+            "d7757509-abec-403a-811f-2a2cc97c6dcb"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_2", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction", 
         "Has end time": [
             {
-                "timestamp": "1546041600", 
-                "raw": "1/2018/12/29/0/0/0/0"
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
             }
         ]
     }, 
@@ -5928,65 +6059,6 @@
             {
                 "timestamp": "1546026300", 
                 "raw": "1/2018/12/28/19/45/0/0"
-            }
-        ]
-    }, 
-    "Session:Advanced Bondage Workshop - Day 1# a8e2c8d01be691823610ae74d44b1ea4": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545948000", 
-                "raw": "1/2018/12/27/22/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Advanced Bondage Workshop #1"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Raven", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Raven", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Advanced Bondage Workshop - Day 1"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "bd96b262-3cab-4afd-a628-8b0631372fbb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_1", 
-        "Has end time": [
-            {
-                "timestamp": "1545955200", 
-                "raw": "1/2018/12/28/0/0/0/0"
             }
         ]
     }, 
@@ -7747,65 +7819,6 @@
             }
         ]
     }, 
-    "Session:Herald Angel Introduction# 493308018484e849691bdf3f6f639be5": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1545933600", 
-                "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "for the small group of new Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Herald Angel Introduction"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "d7757509-abec-403a-811f-2a2cc97c6dcb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
-            }
-        ]
-    }, 
     "Session:Regiotreffen# 9d06e0b1efa1e2bbdb2d52e4a38a9692": {
         "Held in language": [
             "de - German"
@@ -7920,34 +7933,30 @@
             }
         ]
     }, 
-    "Session:ARM ROP Exploitation Intro# da5589d3c99db9e08fa22411df8a32ff": {
+    "Session:Human Rights and Surveillance# 3a96c9dca805aae632a20c9140ed2a01": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545832800", 
-                "raw": "1/2018/12/26/14/0/0/0"
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
-            "https://blog.3or.de//35c3"
-        ], 
+        "Has website": [], 
         "Has description": [
-            "Exploiting stack based buffer overflows using ROP on ARM"
+            "In the talk we want to shed light on the current global situation and focus on how we can stand together with human rights defenders affected by hacking. How is digital persecution working? Who is involved? What can Amnesty, other NGOs and every person do about it, together and individually?"
         ], 
         "Has session type": [
-            "Workshop"
+            "Talk"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -7956,22 +7965,22 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "ARM ROP Exploitation Intro"
+            "Human Rights and Surveillance"
         ], 
         "Has duration": [
-            180
+            60
         ], 
         "GUID": [
-            "dd8c40c5-e24b-4246-bc6a-014b6f392949"
+            "8e20f78f-9e08-4be3-8202-3f273e02ff52"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance", 
         "Has end time": [
             {
-                "timestamp": "1545843600", 
-                "raw": "1/2018/12/26/17/0/0/0"
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
     }, 

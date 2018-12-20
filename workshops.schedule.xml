@@ -34,7 +34,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1032" guid="eae0d0dc-1206-4703-9ad5-6a31c41ed5f9">
+      <event id="1031" guid="eae0d0dc-1206-4703-9ad5-6a31c41ed5f9">
         <logo/>
         <date>2018-12-26T22:30:00+01:00</date>
         <start>22:30</start>
@@ -102,7 +102,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro</link>
         </links>
       </event>
-      <event id="1062" guid="7f0ea54b-63b3-463a-bc68-35780a206f85">
+      <event id="1061" guid="7f0ea54b-63b3-463a-bc68-35780a206f85">
         <logo/>
         <date>2018-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -157,7 +157,7 @@
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1057" guid="13ed6368-e819-490b-8d71-7e1b291bb55b">
+      <event id="1056" guid="13ed6368-e819-490b-8d71-7e1b291bb55b">
         <logo/>
         <date>2018-12-26T19:00:00+01:00</date>
         <start>19:00</start>
@@ -179,7 +179,7 @@
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1021" guid="0cf977dd-622f-41ab-9d10-fd9a5b6ca49a">
+      <event id="1020" guid="0cf977dd-622f-41ab-9d10-fd9a5b6ca49a">
         <logo/>
         <date>2018-12-26T20:00:00+01:00</date>
         <start>20:00</start>
@@ -264,16 +264,16 @@
         <logo/>
         <date>2018-12-27T22:00:00+01:00</date>
         <start>22:00</start>
-        <duration>2:00</duration>
+        <duration>1:59</duration>
         <room>Lecture room 11</room>
         <slug/>
-        <title>Advanced Bondage Workshop - Day 1</title>
+        <title>Advanced Bondage Workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Advanced Bondage Workshop #1</description>
+        <description>Advanced Bondage Workshop</description>
         <persons>
           <person id="0">
             <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Raven</url>
@@ -281,10 +281,10 @@
           </person>
         </persons>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_1</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1040" guid="3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3">
+      <event id="1039" guid="3cbe1051-13f3-4ff7-9343-e0dc1a0e81d3">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -350,7 +350,7 @@
     <room name="Chaos West Stage"/>
     <room name="Vintage Computing Cluster"/>
     <room name="Seminar room 14-15">
-      <event id="1019" guid="4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97">
+      <event id="1018" guid="4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97">
         <logo/>
         <date>2018-12-27T16:00:00+01:00</date>
         <start>16:00</start>
@@ -364,12 +364,17 @@
         <language/>
         <abstract/>
         <description>The idea of this workshop is to share experiences with audio recording hardware and software.</description>
-        <persons/>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth</url>
+            <public_name>KarlaByrinth</public_name>
+          </person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
         </links>
       </event>
-      <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
+      <event id="1049" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
         <start>13:10</start>
@@ -393,7 +398,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
         </links>
       </event>
-      <event id="1073" guid="83dc17af-d621-4012-b039-d7904836e3d3">
+      <event id="1072" guid="83dc17af-d621-4012-b039-d7904836e3d3">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
         <start>20:00</start>
@@ -418,7 +423,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Koordinierungstreffen_Junghackertag</link>
         </links>
       </event>
-      <event id="1074" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
+      <event id="1073" guid="e1ea79e7-a487-4c99-86b2-c2533b22fe69">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -498,7 +503,7 @@
     </room>
     <room name="OIO lecture arena"/>
     <room name="Lecture room M1">
-      <event id="1029" guid="f4828a36-375f-4136-bfe2-2e3cf1cedf00">
+      <event id="1028" guid="f4828a36-375f-4136-bfe2-2e3cf1cedf00">
         <logo/>
         <date>2018-12-27T15:30:00+01:00</date>
         <start>15:30</start>
@@ -593,7 +598,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22How_To_Survive_35C3%22_CryptoParty</link>
         </links>
       </event>
-      <event id="1055" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
+      <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca1">
         <logo/>
         <date>2018-12-27T15:15:00+01:00</date>
         <start>15:15</start>
@@ -635,7 +640,7 @@
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1020" guid="bd012aa6-8ea8-4df6-a115-6d911a61ab03">
+      <event id="1019" guid="bd012aa6-8ea8-4df6-a115-6d911a61ab03">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
@@ -660,7 +665,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1023" guid="8b99c47f-86ed-4c06-b508-f135d906b9bc">
+      <event id="1022" guid="8b99c47f-86ed-4c06-b508-f135d906b9bc">
         <logo/>
         <date>2018-12-27T19:01:00+01:00</date>
         <start>19:01</start>
@@ -680,7 +685,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen</link>
         </links>
       </event>
-      <event id="1030" guid="1e313c03-b69b-452c-88d1-cfa0fe297790">
+      <event id="1029" guid="1e313c03-b69b-452c-88d1-cfa0fe297790">
         <logo/>
         <date>2018-12-27T18:01:00+01:00</date>
         <start>18:01</start>
@@ -704,7 +709,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop</link>
         </links>
       </event>
-      <event id="1046" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
+      <event id="1045" guid="e4e37c0f-db57-4d10-9a4e-35ec132cda22">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
@@ -815,7 +820,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest</link>
         </links>
       </event>
-      <event id="1063" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
+      <event id="1062" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
@@ -890,31 +895,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1014" guid="01221fb8-3494-4767-a554-b6add0b5cb29">
-        <logo/>
-        <date>2018-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room 11</room>
-        <slug/>
-        <title>Advanced Bondage Workshop - Day 2</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Advanced Bondage Workshop #2</description>
-        <persons>
-          <person id="0">
-            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Raven</url>
-            <public_name>Raven</public_name>
-          </person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop_-_Day_2</link>
-        </links>
-      </event>
-      <event id="1026" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
+      <event id="1025" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
         <logo/>
         <date>2018-12-28T13:30:00+01:00</date>
         <start>13:30</start>
@@ -933,7 +914,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
       </event>
-      <event id="1060" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
+      <event id="1059" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
         <start>11:00</start>
@@ -953,7 +934,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaecksenBreakfast</link>
         </links>
       </event>
-      <event id="1084" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
+      <event id="1083" guid="18b77974-03f4-43a5-b94c-b2dda689e78c">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -970,6 +951,30 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
+        </links>
+      </event>
+      <event id="1086" guid="01221fb8-3494-4767-a554-b6add0b5cb29">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:59</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Open Rope Jam</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Open Rope Jam (Bondage)</description>
+        <persons>
+          <person id="0">
+            <url>https://events.ccc.de/congress/2018/wiki/index.php/User:Raven</url>
+            <public_name>Raven</public_name>
+          </person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam</link>
         </links>
       </event>
       <event id="1091" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">
@@ -1059,7 +1064,7 @@
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1022" guid="3e46bf2b-aabb-4418-9865-bee32ca9a505">
+      <event id="1021" guid="3e46bf2b-aabb-4418-9865-bee32ca9a505">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
         <start>16:00</start>
@@ -1087,7 +1092,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
         </links>
       </event>
-      <event id="1043" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
+      <event id="1042" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
         <logo/>
         <date>2018-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -1112,7 +1117,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ethereum_Magicians_gathering</link>
         </links>
       </event>
-      <event id="1058" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
+      <event id="1057" guid="365faa84-7ff3-409f-b0a1-d85a4ce31a45">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1137,7 +1142,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen</link>
         </links>
       </event>
-      <event id="1070" guid="2a643dd4-8dcb-471d-a74e-9808e3f95d8d">
+      <event id="1069" guid="2a643dd4-8dcb-471d-a74e-9808e3f95d8d">
         <logo/>
         <date>2018-12-28T10:00:00+01:00</date>
         <start>10:00</start>
@@ -1210,7 +1215,7 @@
     </room>
     <room name="OIO lecture arena"/>
     <room name="Lecture room M1">
-      <event id="1018" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
+      <event id="1017" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
@@ -1235,7 +1240,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arch_Linux_Meetup</link>
         </links>
       </event>
-      <event id="1047" guid="90e70b6f-f94d-4b02-b779-137337df409a">
+      <event id="1046" guid="90e70b6f-f94d-4b02-b779-137337df409a">
         <logo/>
         <date>2018-12-28T21:30:00+01:00</date>
         <start>21:30</start>
@@ -1255,7 +1260,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk</link>
         </links>
       </event>
-      <event id="1061" guid="3b8a45bb-a5da-44d3-ae4e-056a964d508f">
+      <event id="1060" guid="3b8a45bb-a5da-44d3-ae4e-056a964d508f">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1275,7 +1280,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost</link>
         </links>
       </event>
-      <event id="1072" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
+      <event id="1071" guid="510840f6-a273-42f3-89ee-d62ce607f9f6">
         <logo/>
         <date>2018-12-28T17:30:00+01:00</date>
         <start>17:30</start>
@@ -1316,7 +1321,7 @@
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1025" guid="b277b00f-6539-4801-bb39-2788eeab1aac">
+      <event id="1024" guid="b277b00f-6539-4801-bb39-2788eeab1aac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1336,7 +1341,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bodymind_Operating_System:_Adaptation,_Infiltration_and_Vulnerability.</link>
         </links>
       </event>
-      <event id="1028" guid="530b367c-b812-4f2d-a7d7-862e2ece9e7d">
+      <event id="1027" guid="530b367c-b812-4f2d-a7d7-862e2ece9e7d">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -1355,7 +1360,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
         </links>
       </event>
-      <event id="1045" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
+      <event id="1044" guid="6fee56e3-1d95-4c5f-baa2-abef0ad56da0">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1379,7 +1384,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
         </links>
       </event>
-      <event id="1066" guid="a3001e88-3c60-4c44-8d5b-b10d4e887cc3">
+      <event id="1065" guid="a3001e88-3c60-4c44-8d5b-b10d4e887cc3">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -1440,7 +1445,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business</link>
         </links>
       </event>
-      <event id="1033" guid="e95c93fc-bd6e-491d-853f-3fd66a8e3584">
+      <event id="1032" guid="e95c93fc-bd6e-491d-853f-3fd66a8e3584">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -1464,7 +1469,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup</link>
         </links>
       </event>
-      <event id="1056" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca2">
+      <event id="1055" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca2">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -1484,7 +1489,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1065" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
+      <event id="1064" guid="8e20f78f-9e08-4be3-8202-3f273e02ff52">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
@@ -1503,7 +1508,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance</link>
         </links>
       </event>
-      <event id="1075" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
+      <event id="1074" guid="94754b4f-c813-4b3f-b9e9-c18932c73e2a">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
@@ -1643,7 +1648,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Your_First_Steps_with_WebExtensions</link>
         </links>
       </event>
-      <event id="1024" guid="40881cec-e8c3-4b80-aec3-4cd41b060fd0">
+      <event id="1023" guid="40881cec-e8c3-4b80-aec3-4cd41b060fd0">
         <logo/>
         <date>2018-12-28T15:30:00+01:00</date>
         <start>15:30</start>
@@ -1662,7 +1667,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blender_Artists_and_Developer_Meetup</link>
         </links>
       </event>
-      <event id="1037" guid="3651ef41-0648-40ed-9f82-5fb4fa3a660f">
+      <event id="1036" guid="3651ef41-0648-40ed-9f82-5fb4fa3a660f">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
@@ -1681,7 +1686,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
         </links>
       </event>
-      <event id="1042" guid="5545c9a3-44dc-4722-a5eb-3e75e85f6e89">
+      <event id="1041" guid="5545c9a3-44dc-4722-a5eb-3e75e85f6e89">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
         <start>19:30</start>
@@ -1705,7 +1710,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg</link>
         </links>
       </event>
-      <event id="1085" guid="67b1c001-e126-4366-b5ce-83721517e03b">
+      <event id="1084" guid="67b1c001-e126-4366-b5ce-83721517e03b">
         <logo/>
         <date>2018-12-28T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1784,7 +1789,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1016" guid="c7960c6a-4938-41b8-a61d-b7c7f17815ef">
+      <event id="1015" guid="c7960c6a-4938-41b8-a61d-b7c7f17815ef">
         <logo/>
         <date>2018-12-29T18:30:00+01:00</date>
         <start>18:30</start>
@@ -1871,7 +1876,7 @@
     <room name="Chaos West Stage"/>
     <room name="Vintage Computing Cluster"/>
     <room name="CCL Hall 3">
-      <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
+      <event id="1037" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -1898,7 +1903,7 @@
       </event>
     </room>
     <room name="Seminar room 14-15">
-      <event id="1052" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
+      <event id="1051" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -1922,7 +1927,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
         </links>
       </event>
-      <event id="1078" guid="9c76e190-297d-485c-98dd-f63295f21f89">
+      <event id="1077" guid="9c76e190-297d-485c-98dd-f63295f21f89">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2021,7 +2026,7 @@
     </room>
     <room name="OIO lecture arena"/>
     <room name="Lecture room M1">
-      <event id="1044" guid="77654164-ca0f-48b7-8b74-92fb367fdb7c">
+      <event id="1043" guid="77654164-ca0f-48b7-8b74-92fb367fdb7c">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>
         <start>18:00</start>
@@ -2040,7 +2045,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Everybody_hates_MIMEs_-_Challenges_in_keeping_p%E2%89%A1p_engine_development_free</link>
         </links>
       </event>
-      <event id="1051" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
+      <event id="1050" guid="11969007-53c5-40f3-922a-6c1a87b7cf30">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
         <start>17:00</start>
@@ -2059,7 +2064,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big</link>
         </links>
       </event>
-      <event id="1064" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
+      <event id="1063" guid="1a286de5-3a8e-4ba1-8119-e14f8fcc6946">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
@@ -2079,7 +2084,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HowToConflict</link>
         </links>
       </event>
-      <event id="1077" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
+      <event id="1076" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">
         <logo/>
         <date>2018-12-29T19:00:00+01:00</date>
         <start>19:00</start>
@@ -2124,7 +2129,7 @@
       </event>
     </room>
     <room name="Lecture room M3">
-      <event id="1059" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
+      <event id="1058" guid="d36cdafd-4273-4106-93e1-4f5a9ab4e45c">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2144,7 +2149,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
         </links>
       </event>
-      <event id="1083" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">
+      <event id="1082" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2164,7 +2169,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F</link>
         </links>
       </event>
-      <event id="1086" guid="211a32b1-04d8-45f2-831e-0b09f5296559">
+      <event id="1085" guid="211a32b1-04d8-45f2-831e-0b09f5296559">
         <logo/>
         <date>2018-12-29T12:00:00+01:00</date>
         <start>12:00</start>
@@ -2211,7 +2216,7 @@
       </event>
     </room>
     <room name="Lecture room M2">
-      <event id="1017" guid="a389345e-a14c-4823-8ec6-3d07dd6037de">
+      <event id="1016" guid="a389345e-a14c-4823-8ec6-3d07dd6037de">
         <logo/>
         <date>2018-12-29T21:00:00+01:00</date>
         <start>21:00</start>
@@ -2236,7 +2241,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering</link>
         </links>
       </event>
-      <event id="1041" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
+      <event id="1040" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
         <start>20:00</start>
@@ -2261,7 +2266,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm</link>
         </links>
       </event>
-      <event id="1049" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
+      <event id="1048" guid="33f0fb3d-b49b-484f-b71c-cb378aacd8b1">
         <logo/>
         <date>2018-12-29T17:20:00+01:00</date>
         <start>17:20</start>
@@ -2285,7 +2290,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F</link>
         </links>
       </event>
-      <event id="1053" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca3">
+      <event id="1052" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca3">
         <logo/>
         <date>2018-12-29T15:30:00+01:00</date>
         <start>15:30</start>
@@ -2305,7 +2310,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
         </links>
       </event>
-      <event id="1076" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
+      <event id="1075" guid="6b6fc2e4-dceb-4560-b75f-659349507ff0">
         <logo/>
         <date>2018-12-29T12:45:00+01:00</date>
         <start>12:45</start>
@@ -2389,7 +2394,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Nerd_Game_Show</link>
         </links>
       </event>
-      <event id="1068" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
+      <event id="1067" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
         <start>14:00</start>
@@ -2462,7 +2467,7 @@
     <room name="Seminar room 14-15"/>
     <room name="OIO lecture arena"/>
     <room name="Lecture room M1">
-      <event id="1036" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
+      <event id="1035" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
@@ -2509,7 +2514,7 @@
     </room>
     <room name="Lecture room M3"/>
     <room name="Lecture room M2">
-      <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">
+      <event id="1053" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
         <start>15:30</start>
@@ -2569,7 +2574,7 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart.</link>
         </links>
       </event>
-      <event id="1048" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
+      <event id="1047" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
         <start>11:00</start>
@@ -2596,5 +2601,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-20 17:30</version>
+  <version>2018-12-20 17:40</version>
 </schedule>
