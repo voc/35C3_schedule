@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 23:40</version>
+  <version>Buffy 2.1 0.9.10 v1.4 0.4 2018-12-20 23:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -11706,6 +11706,38 @@ Auch das Publikum wird mitraten dürfen. Dabei wird die Anzahl der korrekten Ant
           <person id="6">
             <name>Andreas Dorfer</name>
             <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="39" guid="75a12486-070c-539d-b4a9-a9495c86b78d">
+        <logo/>
+        <date>2018-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>AVFU8A</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AVFU8A</url>
+        <title>Freifunk - The Next Generation</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>FF-TNG aims at regrowing a local FF based network community by -on the one hand- going back to the 90's "Bürgernetze" Idea of free communication with others, (focus on VOIP, SMS, Chat, mail) but also by enabling the individual community member to offer services to others and the world (e.g. via DNS zone delegation to individual nodes). For true autonomy we envisage to not only use WIFI and VPN links but also include LORA-based communication to connect local nodes for low bitrate communication (chat, sms).</abstract>
+        <description>A small group of FF-Munich people is currently developing a concept called FF-TNG "Freifunk - The Next Generation".&#13;
+It came about after FFMUC had grown rapidly but a vast majority of FFMUC nodes is only using FF as a cheap pseudo-VPN gateway to the internet and after the rapid growth has put BATMAN to its limits making FF an only 'so-so' experience.&#13;
+The concept aims at regrowing a local network community by -on the one hand- going back to the 90's "Bürgernetze" Idea of free communication with others, (e.g. VOIP, SMS, Chat) and -on the other hand- also by enabling the individual community member to offer services to others and the world (i.e. including DNS zone delegation to individual nodes and ipv6). For parts of the mesh we are looking at Babel. To get to a truly wide ranging individual network our concept includes LORA based communication for low-bitrate communication (Chat, SMS) to reach locations not reachable by simple 2.4 or 5GHz WIFI nodes.&#13;
+The talk will be a ride through our first concept of how we think communication power can be put back to people so they can control their communication network. We hope for comments and input from the community - also of the kind "das kannste schon so machen, aber dann isses halt kacke"</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">
+            <name>Peter Buschkamp</name>
+            <biography>After studying Physics in Bielefeld, I somehow thought getting a PhD in Astrophysics is fun. It was. In part. Now I build optical instruments that get to fly on satellites by day and sometimes stare at the sky by night. In between, I like to discuss and mull over implications of natural and computer sciences for society, hike the alps and help to build the Munich Freifunk wireless backbone.</biography>
           </person>
         </persons>
         <links/>
