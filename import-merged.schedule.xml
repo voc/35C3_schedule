@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 19:20</version>
+  <version>Buffy 2.1 0.9.9 v1.4 0.4 2018-12-20 19:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -8439,47 +8439,31 @@ There will be a little crash course on what LUKS is to be more clear how and why
 &#13;
 ### Purposes ###&#13;
 - Make a LUKS encrypted filesystem inaccessible when in distress&#13;
-- Protect the weakest security hole: Yourself&#13;
-  - You could give your passphrase away but the bad guys won't be able to decrypt it&#13;
 &#13;
 &#13;
 ### What is the idea? ###&#13;
 - Have an encrypted system done by LUKS&#13;
-- Have two passwords or two media devices&#13;
-  - One of the passwords/media devices is used for regular authentication &#13;
-  - The other one is used for issuing a destruction of the LUKS key slots and have a reboot/shutdown&#13;
+- Have two passwords or two media devices (One of the passwords/media devices is used for regular authentication, the other one is used for issuing a destruction of the LUKS key material slots and have a reboot/shutdown)&#13;
 - Ask for a password/media device before your regular user password&#13;
 &#13;
 &#13;
 ### Crash course: LUKS ###&#13;
-#### How does LUKS work? ####&#13;
-- Uses a generated master key which is used as the decryption key&#13;
-- The master key is encrypted by the user's passphrase (or through other techniques you can choose from)&#13;
-- Encrypted master key is saved in the Key Material slots&#13;
+- What do we need to know to get this to work?&#13;
+- How does the LUKS header look like?&#13;
 &#13;
-#### How does LUKS look like? ####&#13;
-- LUKS header - contains information about &#13;
-  - used cipher&#13;
-  - cipher mode&#13;
-  - key length&#13;
-  - a UUID&#13;
-  - a master key checksum&#13;
-  - up to 8 salted key slots which references to the key material 1-8&#13;
-- Key material (KM1-8)&#13;
-  - contains up to 8 encrypted copies of the master key&#13;
-&#13;
-### pam_panic: Make me inaccessable ###&#13;
-- pam_panic does a `cryptsetup luksErase`&#13;
-  - All keys will be deleted&#13;
+### Making my data inaccessible ###&#13;
+- Using `cryptsetup luksErase` &#13;
 &#13;
 ### Scenarios ###&#13;
 Scenarios where it can help:&#13;
+&#13;
 - Being forced to type/tell your password&#13;
 - Raids&#13;
-You might want to tell them that your device is broken now and you have no idea what and how it happened.&#13;
+&#13;
 &#13;
 Scenarios where it doesn't help:&#13;
-- Bad guys make a clone of your hard drive and force you to decrypt it&#13;
+&#13;
+- Letting them make a clone of your hard drive, then having your password/media device forced from you&#13;
 &#13;
 &#13;
 ## Demonstration of pam_panic ##&#13;
