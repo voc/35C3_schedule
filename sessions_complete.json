@@ -3501,6 +3501,69 @@
             }
         ]
     }, 
+    "Session:Cidre Making# e17d770bde6f323dbcdb959ad1abacf8": {
+        "Held in language": [
+            "cs - Czech", 
+            "en - English", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Cidre_making_35c3"
+        ], 
+        "Has description": [
+            "Making of cidre/cider."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Cidre Making"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "158d6811-f509-4c7f-829f-dcc830aa9a3f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Making", 
+        "Has end time": [
+            {
+                "timestamp": "1545951600", 
+                "raw": "1/2018/12/27/23/0/0/0"
+            }
+        ]
+    }, 
     "Session:Dining Cryptographers' Party# 438f27ebcb5a91b876fbeac16d5705fe": {
         "Held in language": [
             "de - German", 
@@ -4015,6 +4078,60 @@
             {
                 "timestamp": "1546111800", 
                 "raw": "1/2018/12/29/19/30/0/0"
+            }
+        ]
+    }, 
+    "Session:42birds: Hacker\u2019s Digest# c4189922d5ff66a9702b434b7b857f55": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545923700", 
+                "raw": "1/2018/12/27/15/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://b76.ch/9728"
+        ], 
+        "Has description": [
+            "We'll talk about fiction and non-fiction books."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "42birds: Hacker\u2019s Digest"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "a0b76b11-70c6-46b5-a89d-45731e196f7a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest", 
+        "Has end time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
             }
         ]
     }, 
@@ -6555,6 +6672,67 @@
             {
                 "timestamp": "1546025400", 
                 "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Kefir Making# 9b58c9320f991ff63e3dd35a89ae3e65": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Kefir_making_35c3"
+        ], 
+        "Has description": [
+            "We will learn how to work with kefir culture making variety of delicious products."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Kefir Making"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "f3c8a25c-3a1b-436e-916f-4388c9c452f3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making", 
+        "Has end time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ]
     }, 
