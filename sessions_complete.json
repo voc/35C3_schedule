@@ -774,6 +774,68 @@
             }
         ]
     }, 
+    "Session:Memorizing pi for fun (not for profit)# cd87e12bc68784d9c9b0684d6249a299": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546098300", 
+                "raw": "1/2018/12/29/15/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Memorizing pi for fun (not for profit)"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "394415d7-f3d1-493f-9dc9-7cf6d89be98b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Wondrous Mathematics: Fun with infinitely large numbers# 2b48b4a1d84d2495faa98c3388756b35": {
         "Held in language": [
             "en - English"
@@ -1591,6 +1653,68 @@
             }
         ]
     }, 
+    "Session:Memorizing pi for fun (not for profit)# 77861e7a9f4bb63071269f1cd0abebd8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Memorizing pi for fun (not for profit)"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "394415d7-f3d1-493f-9dc9-7cf6d89be98c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "Has end time": [
+            {
+                "timestamp": "1546183500", 
+                "raw": "1/2018/12/30/15/25/0/0"
+            }
+        ]
+    }, 
     "Session:Surface mount electronics assembly for terrified beginners# 82fe059df05554bbb5042f7732d6b30f": {
         "Held in language": [
             "de - German", 
@@ -1931,14 +2055,15 @@
             }
         ]
     }, 
-    "Session:Translation# b203be7c7e3428bb85b2fd96c491752c": {
+    "Session:Memorizing pi for fun (not for profit)# f783c7f477a74d6a9a1025c44abe6514": {
         "Held in language": [
+            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546096200", 
-                "raw": "1/2018/12/29/15/10/0/0"
+                "timestamp": "1546008300", 
+                "raw": "1/2018/12/28/14/45/0/0"
             }
         ], 
         "Has event track": [
@@ -1946,41 +2071,49 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
+            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
         ], 
         "Has session type": [
-            "Meeting"
+            "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [
-            "Meeting Day 3a"
+            "Day 2"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
-            "Translation"
+            "Memorizing pi for fun (not for profit)"
         ], 
         "Has duration": [
-            70
+            15
         ], 
         "GUID": [
-            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6"
+            "394415d7-f3d1-493f-9dc9-7cf6d89be98a"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
         "Has end time": [
             {
-                "timestamp": "1546100400", 
-                "raw": "1/2018/12/29/16/20/0/0"
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
     }, 
@@ -2040,104 +2173,7 @@
         ]
     }, 
     "Session:Whiskyleaks# 3c5ef01020a2c76afcea18c902af3173": {
-        "Held in language": [
-            "ab - Abkhazian", 
-            "af - Afrikaans", 
-            "an - Aragonese", 
-            "ar - Arabic", 
-            "as - Assamese", 
-            "az - Azerbaijani", 
-            "be - Belarusian", 
-            "bg - Bulgarian", 
-            "bn - Bengali", 
-            "bo - Tibetan", 
-            "br - Breton", 
-            "bs - Bosnian", 
-            "ca - Catalan / Valencian", 
-            "ce - Chechen", 
-            "co - Corsican", 
-            "cs - Czech", 
-            "cu - Church Slavic", 
-            "cy - Welsh", 
-            "da - Danish", 
-            "de - German", 
-            "el - Greek", 
-            "en - English", 
-            "eo - Esperanto", 
-            "es - Spanish / Castilian", 
-            "et - Estonian", 
-            "eu - Basque", 
-            "fa - Persian", 
-            "fi - Finnish", 
-            "fj - Fijian", 
-            "fo - Faroese", 
-            "fr - French", 
-            "fy - Western Frisian", 
-            "ga - Irish", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "gl - Galician", 
-            "gv - Manx", 
-            "he - Hebrew", 
-            "hi - Hindi", 
-            "hr - Croatian", 
-            "ht - Haitian; Haitian Creole", 
-            "hu - Hungarian", 
-            "hy - Armenian", 
-            "id - Indonesian", 
-            "is - Icelandic", 
-            "it - Italian", 
-            "ja - Japanese", 
-            "jv - Javanese", 
-            "ka - Georgian", 
-            "kg - Kongo", 
-            "ko - Korean", 
-            "ku - Kurdish", 
-            "kw - Cornish", 
-            "ky - Kirghiz", 
-            "la - Latin", 
-            "lb - Luxembourgish; Letzeburgesch", 
-            "li - Limburgan; Limburger; Limburgish", 
-            "ln - Lingala", 
-            "lt - Lithuanian", 
-            "lv - Latvian", 
-            "mg - Malagasy", 
-            "mk - Macedonian", 
-            "mn - Mongolian", 
-            "mo - Moldavian", 
-            "ms - Malay", 
-            "mt - Maltese", 
-            "my - Burmese", 
-            "nb - Norwegian (Bokm\u00e5l)", 
-            "ne - Nepali", 
-            "nl - Dutch", 
-            "nn - Norwegian (Nynorsk)", 
-            "no - Norwegian", 
-            "oc - Occitan (post 1500); Proven\u00e7al", 
-            "pl - Polish", 
-            "pt - Portuguese", 
-            "rm - Raeto-Romance", 
-            "ro - Romanian", 
-            "ru - Russian", 
-            "sc - Sardinian", 
-            "se - Northern Sami", 
-            "sk - Slovak", 
-            "sl - Slovenian", 
-            "so - Somali", 
-            "sq - Albanian", 
-            "sr - Serbian", 
-            "sv - Swedish", 
-            "sw - Swahili", 
-            "tk - Turkmen", 
-            "tr - Turkish", 
-            "ty - Tahitian", 
-            "uk - Ukrainian", 
-            "ur - Urdu", 
-            "uz - Uzbek", 
-            "vi - Vietnamese", 
-            "vo - Volap\u00fck", 
-            "yi - Yiddish", 
-            "zh - Chinese"
-        ], 
+        "Held in language": [], 
         "Has start time": [
             {
                 "timestamp": "1543708800", 
@@ -5675,15 +5711,14 @@
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# c92267a990b12bc7b134bf0bf1e0979a": {
+    "Session:Translation# b203be7c7e3428bb85b2fd96c491752c": {
         "Held in language": [
-            "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545925500", 
-                "raw": "1/2018/12/27/15/45/0/0"
+                "timestamp": "1546096200", 
+                "raw": "1/2018/12/29/15/10/0/0"
             }
         ], 
         "Has event track": [
@@ -5691,161 +5726,41 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Memorizing pi for fun (not for profit)"
-        ], 
-        "Has duration": [
-            15
-        ], 
-        "GUID": [
-            "2ee4399d-d40c-4ba7-80a8-84de8ce6b219"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
-        "Has end time": [
-            {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Awareness Team Meeting# 82446363660a7f1bde8e17cdc1645573": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Please write us an e-mail to register / Bitte schreibt uns eine Mail zum Anmelden -- Awarenessteam-Treffen, f\u00fcr interessierte Personen die auf zuk\u00fcnfigen Events gerne das Team bereichern wollen. Awareness Team meeting, for interested people who like to join the team in the future,"
+            "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise."
         ], 
         "Has session type": [
             "Meeting"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Leandra", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Leandra", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }, 
-            {
-                "fulltext": "User:Theresa", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Theresa", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Awareness Team Meeting"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "3e46bf2b-aabb-4418-9865-bee32ca9a505"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting", 
-        "Has end time": [
-            {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Memorizing pi for fun (not for profit)# 8efc024a7471890357bc665470a6b78b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546008300", 
-                "raw": "1/2018/12/28/14/45/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
         "Has subtitle": [
-            "Day 2"
+            "Meeting Day 3a"
         ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
-            "Memorizing pi for fun (not for profit)"
+            "Translation"
         ], 
         "Has duration": [
-            15
+            70
         ], 
         "GUID": [
-            "394415d7-f3d1-493f-9dc9-7cf6d89be98a"
+            "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation", 
         "Has end time": [
             {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
+                "timestamp": "1546100400", 
+                "raw": "1/2018/12/29/16/20/0/0"
             }
         ]
     }, 
@@ -6069,6 +5984,68 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Memorizing pi for fun (not for profit)# c3afd61a5ed26d20711c9eafff3ae6bf": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545925500", 
+                "raw": "1/2018/12/27/15/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 1"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Memorizing pi for fun (not for profit)"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "2ee4399d-d40c-4ba7-80a8-84de8ce6b219"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "Has end time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
             }
         ]
     }, 
@@ -6573,65 +6550,6 @@
             }
         ]
     }, 
-    "Session:Herald Angel Introduction# 493308018484e849691bdf3f6f639be5": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1545933600", 
-                "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "for the small group of new Heralds"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Herald Angel Introduction"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "d7757509-abec-403a-811f-2a2cc97c6dcb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
-            }
-        ]
-    }, 
     "Session:Translation# 633a073e6d4e9e662c7b50195fd0b6e1": {
         "Held in language": [
             "en - English"
@@ -6961,15 +6879,14 @@
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# 002b9c9497d483fab580bd25ca55d2b7": {
+    "Session:Awareness Team Meeting# 82446363660a7f1bde8e17cdc1645573": {
         "Held in language": [
-            "de - German", 
-            "en - English"
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546182600", 
-                "raw": "1/2018/12/30/15/10/0/0"
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ], 
         "Has event track": [
@@ -6977,95 +6894,113 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
+            "Please write us an e-mail to register / Bitte schreibt uns eine Mail zum Anmelden -- Awarenessteam-Treffen, f\u00fcr interessierte Personen die auf zuk\u00fcnfigen Events gerne das Team bereichern wollen. Awareness Team meeting, for interested people who like to join the team in the future,"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Meeting"
         ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 4"
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
         ], 
+        "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "fulltext": "User:Leandra", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Leandra", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Theresa", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Theresa", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Memorizing pi for fun (not for profit)"
+            "Awareness Team Meeting"
         ], 
         "Has duration": [
-            15
+            120
         ], 
         "GUID": [
-            "394415d7-f3d1-493f-9dc9-7cf6d89be98c"
+            "3e46bf2b-aabb-4418-9865-bee32ca9a505"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting", 
         "Has end time": [
             {
-                "timestamp": "1546183500", 
-                "raw": "1/2018/12/30/15/25/0/0"
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# cd5f0f66688848cc04f33ad6fa6c5c4f": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
+    "Session:Herald Angel Introduction# 493308018484e849691bdf3f6f639be5": {
+        "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1546098300", 
-                "raw": "1/2018/12/29/15/45/0/0"
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [
-            "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)"
+        "Has website": [
+            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds"
         ], 
+        "Has description": [], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [
-            "Day 3"
+            "for the small group of new Heralds"
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has title": [
-            "Memorizing pi for fun (not for profit)"
+            "Herald Angel Introduction"
         ], 
         "Has duration": [
-            15
+            120
         ], 
         "GUID": [
-            "394415d7-f3d1-493f-9dc9-7cf6d89be98b"
+            "d7757509-abec-403a-811f-2a2cc97c6dcb"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction", 
         "Has end time": [
             {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
             }
         ]
     }, 

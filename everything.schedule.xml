@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:50</version>
+  <version>Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 03:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -4049,13 +4049,13 @@ All seine Podcasts: http://dampfnudel.net</biography>
         </links>
       </event>
     </room>
-    <room name="">
-      <event id="1068" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1067" guid="2ee4399d-d40c-4ba7-80a8-84de8ce6b219">
         <logo/>
         <date>2018-12-27T15:45:00+01:00</date>
         <start>15:45</start>
         <duration>0:15</duration>
-        <room/>
+        <room>Assembly:Curry Club Augsburg</room>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
         <subtitle>Day 1</subtitle>
@@ -8111,12 +8111,14 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
         </links>
       </event>
-      <event id="1067" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+    </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1069" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
         <logo/>
         <date>2018-12-28T14:45:00+01:00</date>
         <start>14:45</start>
         <duration>0:15</duration>
-        <room/>
+        <room>Assembly:Curry Club Augsburg</room>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
         <subtitle>Day 2</subtitle>
@@ -12268,13 +12270,13 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         </links>
       </event>
     </room>
-    <room name="">
-      <event id="1069" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98b">
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1068" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98b">
         <logo/>
         <date>2018-12-29T15:45:00+01:00</date>
         <start>15:45</start>
         <duration>0:15</duration>
-        <room/>
+        <room>Assembly:Curry Club Augsburg</room>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
         <subtitle>Day 3</subtitle>
@@ -13891,13 +13893,13 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <answers/>
       </event>
     </room>
-    <room name="">
+    <room name="Assembly:Curry Club Augsburg">
       <event id="1066" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
         <start>15:10</start>
         <duration>0:15</duration>
-        <room/>
+        <room>Assembly:Curry Club Augsburg</room>
         <slug/>
         <title>Memorizing pi for fun (not for profit)</title>
         <subtitle>Day 4</subtitle>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 02:50", 
+        "version": "Buffy 2.1 0.9.9 v1.2 0.3 2018-12-20 03:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3857,15 +3857,15 @@
                                 ]
                             }
                         ], 
-                        "": [
+                        "Assembly:Curry Club Augsburg": [
                             {
-                                "id": 1068, 
+                                "id": 1067, 
                                 "guid": "2ee4399d-d40c-4ba7-80a8-84de8ce6b219", 
                                 "logo": null, 
                                 "date": "2018-12-27T15:45:00+01:00", 
                                 "start": "15:45", 
                                 "duration": "0:15", 
-                                "room": "", 
+                                "room": "Assembly:Curry Club Augsburg", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
                                 "subtitle": "Day 1", 
@@ -7756,15 +7756,17 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party"
                                 ]
-                            }, 
+                            }
+                        ], 
+                        "Assembly:Curry Club Augsburg": [
                             {
-                                "id": 1067, 
+                                "id": 1069, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:45:00+01:00", 
                                 "start": "14:45", 
                                 "duration": "0:15", 
-                                "room": "", 
+                                "room": "Assembly:Curry Club Augsburg", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
                                 "subtitle": "Day 2", 
@@ -11862,15 +11864,15 @@
                                 ]
                             }
                         ], 
-                        "": [
+                        "Assembly:Curry Club Augsburg": [
                             {
-                                "id": 1069, 
+                                "id": 1068, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98b", 
                                 "logo": null, 
                                 "date": "2018-12-29T15:45:00+01:00", 
                                 "start": "15:45", 
                                 "duration": "0:15", 
-                                "room": "", 
+                                "room": "Assembly:Curry Club Augsburg", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
                                 "subtitle": "Day 3", 
@@ -13453,7 +13455,7 @@
                                 "answers": []
                             }
                         ], 
-                        "": [
+                        "Assembly:Curry Club Augsburg": [
                             {
                                 "id": 1066, 
                                 "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98c", 
@@ -13461,7 +13463,7 @@
                                 "date": "2018-12-30T15:10:00+01:00", 
                                 "start": "15:10", 
                                 "duration": "0:15", 
-                                "room": "", 
+                                "room": "Assembly:Curry Club Augsburg", 
                                 "slug": "", 
                                 "title": "Memorizing pi for fun (not for profit)", 
                                 "subtitle": "Day 4", 
