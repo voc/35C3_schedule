@@ -1176,6 +1176,59 @@
             }
         ]
     }, 
+    "Session:CCCChoir# d3af2c8989d33b2201b1ca05dacd868b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545924600", 
+                "raw": "1/2018/12/27/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Gemeinsames Chorsingen. All creatures welcome."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "All creatures welcome, especially beginners"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "CCCChoir"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "f4828a36-375f-4136-bfe2-2e3cf1cedf00"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir", 
+        "Has end time": [
+            {
+                "timestamp": "1545927300", 
+                "raw": "1/2018/12/27/16/15/0/0"
+            }
+        ]
+    }, 
     "Session:Gamma Radiation Monitoring# 49346e6190c9cfcab2f083f5f1679902": {
         "Held in language": [
             "de - German", 
@@ -2598,14 +2651,15 @@
             }
         ]
     }, 
-    "Session:CCCChoir# d3af2c8989d33b2201b1ca05dacd868b": {
+    "Session:Knitting workshop (Strickworkshop)# f5768daba918a4f3129ba99170c44b96": {
         "Held in language": [
-            "de - German"
+            "de - German", 
+            "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545924600", 
-                "raw": "1/2018/12/27/15/30/0/0"
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ], 
         "Has event track": [
@@ -2613,41 +2667,47 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Gemeinsames Chorsingen. All creatures welcome."
+            "Learn how to knit. Lerne stricken."
         ], 
         "Has session type": [
             "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "All creatures welcome, especially beginners"
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
         ], 
-        "Is organized by": [], 
         "Has title": [
-            "CCCChoir"
+            "Knitting workshop (Strickworkshop)"
         ], 
         "Has duration": [
-            45
+            120
         ], 
         "GUID": [
-            "f4828a36-375f-4136-bfe2-2e3cf1cedf00"
+            "9ab7c054-9368-4526-9a06-aea40068831f"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Knitting_workshop_(Strickworkshop)", 
         "Has end time": [
             {
-                "timestamp": "1545927300", 
-                "raw": "1/2018/12/27/16/15/0/0"
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
             }
         ]
     }, 
@@ -3316,51 +3376,6 @@
                 "raw": "1/2018/12/28/0/0/0/0"
             }
         ]
-    }, 
-    "Session:Knitting workshop (Strickworkshop)# 4c4672f875b20e7e7cb9fc1201797c7e": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Learn how to knit. Lerne stricken."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Knitting workshop (Strickworkshop)"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "9ab7c054-9368-4526-9a06-aea40068831f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Knitting_workshop_(Strickworkshop)", 
-        "Has end time": []
     }, 
     "Session:ScaCheapier# 83c04aa9e10bc65420309e568ec6c5aa": {
         "Held in language": [
