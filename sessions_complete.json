@@ -4982,6 +4982,57 @@
             }
         ]
     }, 
+    "Session:Mietsh\u00e4user Syndikat# 2b0ce4f0cae1097e7af1de1f8273cfc4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://syndikat.org"
+        ], 
+        "Has description": [
+            "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Mietsh\u00e4user Syndikat"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "706cce29-f6b4-499a-b4ad-1c46ef604205"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:New police law in Saxony - police state attacks?# 0d734f86dbe2adaef900ce0834ba12ac": {
         "Held in language": [
             "en - English"

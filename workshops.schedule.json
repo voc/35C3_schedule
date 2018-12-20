@@ -2392,6 +2392,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1151, 
+                                "guid": "706cce29-f6b4-499a-b4ad-1c46ef604205", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Mietsh\u00e4user Syndikat", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?", 
+                                "persons": [], 
+                                "links": [
+                                    "http://syndikat.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat"
+                                ]
+                            }, 
+                            {
                                 "id": 1090, 
                                 "guid": "8b827630-c55d-40bd-884f-ac587bd4f43a", 
                                 "logo": null, 
@@ -2967,6 +2989,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-20 21:20"
+        "version": "2018-12-20 21:30"
     }
 }
