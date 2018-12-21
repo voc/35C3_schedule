@@ -2855,7 +2855,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "We analyzed the topology and the content found on the \"darknet\", the set of websites accessible via Tor. We created a darknet spider and crawled the darknet starting from a bootstrap list by recursively following links.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jogli5er", 
+                                        "public_name": "Jogli5er"
+                                    }
+                                ], 
                                 "links": [
                                     "https://github.com/decrypto-org/spider", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Structure_and_Content_of_the_Visible_Darknet"
@@ -2999,6 +3005,28 @@
                                     "https://engelsystem.de/35c3/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
                                 ]
+                            }, 
+                            {
+                                "id": 1166, 
+                                "guid": "060799d9-c887-4ffc-9a15-cac5169ab561", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Nextcloud Install Party", 
+                                "subtitle": "Run your own Nextcloud instance!", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Get back control over your data - learn how to install your own Nextcloud instance!", 
+                                "persons": [], 
+                                "links": [
+                                    "https://nextcloud.com/yourdata/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nextcloud_Install_Party"
+                                ]
                             }
                         ], 
                         "Seminar room 13": [
@@ -3078,6 +3106,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-21 18:10"
+        "version": "2018-12-21 18:20"
     }
 }

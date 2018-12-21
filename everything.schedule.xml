@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 18:10</version>
+  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 18:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -10240,7 +10240,9 @@ However, it's not always easy...</description>
         <language>en</language>
         <abstract/>
         <description>We analyzed the topology and the content found on the "darknet", the set of websites accessible via Tor. We created a darknet spider and crawled the darknet starting from a bootstrap list by recursively following links.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jogli5er">Jogli5er</person>
+        </persons>
         <links>
           <link>https://github.com/decrypto-org/spider</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Structure_and_Content_of_the_Visible_Darknet</link>
@@ -13220,6 +13222,26 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <links>
           <link>https://engelsystem.de/35c3/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1166" guid="060799d9-c887-4ffc-9a15-cac5169ab561">
+        <logo/>
+        <date>2018-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug/>
+        <title>Nextcloud Install Party</title>
+        <subtitle>Run your own Nextcloud instance!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Get back control over your data - learn how to install your own Nextcloud instance!</description>
+        <persons/>
+        <links>
+          <link>https://nextcloud.com/yourdata/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Nextcloud_Install_Party</link>
         </links>
       </event>
     </room>
