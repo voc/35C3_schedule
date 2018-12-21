@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:50", 
+        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -14304,6 +14304,63 @@
                                 "answers": []
                             }
                         ], 
+                        "Assembly:Hardware Hacking Area": [
+                            {
+                                "id": 1158, 
+                                "guid": "6819c96c-d402-499a-9420-7a64b122ebfc", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "ArduTouch Music Synthesizer Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "''Learn to solder together a cool, powerful music synthesizer,<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and learn to make cool music, sound, and noise!''<br><br>''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given:<br> &nbsp;&nbsp;&nbsp;Day 4: 30-Dec, 12pm - 2pm<br>", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://cornfieldelectronics.com/cfe/projects.php#ardutouch", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1116, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4285", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 4, session 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }
+                        ], 
                         "Assembly:Curry Club Augsburg": [
                             {
                                 "id": 1079, 
@@ -14375,35 +14432,6 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Hardware Hacking Area": [
-                            {
-                                "id": 1116, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4285", 
-                                "logo": null, 
-                                "date": "2018-12-30T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 4, session 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
                                 ]
                             }
                         ]

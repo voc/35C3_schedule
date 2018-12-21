@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:50</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -13909,6 +13909,51 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <answers/>
       </event>
     </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1158" guid="6819c96c-d402-499a-9420-7a64b122ebfc">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>ArduTouch Music Synthesizer Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>''Learn to solder together a cool, powerful music synthesizer,&lt;br&gt;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;and learn to make cool music, sound, and noise!''&lt;br&gt;&lt;br&gt;''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given:&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 4: 30-Dec, 12pm - 2pm&lt;br&gt;</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://cornfieldelectronics.com/cfe/projects.php#ardutouch</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop</link>
+        </links>
+      </event>
+      <event id="1116" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4285">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 4, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Curry Club Augsburg">
       <event id="1079" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
         <logo/>
@@ -13970,29 +14015,6 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Hardware Hacking Area">
-      <event id="1116" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4285">
-        <logo/>
-        <date>2018-12-30T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug/>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 4, session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
     </room>
