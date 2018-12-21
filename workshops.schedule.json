@@ -2206,6 +2206,28 @@
                         ], 
                         "Seminar room 14-15": [
                             {
+                                "id": 1154, 
+                                "guid": "ce97b81d-87de-42cc-bcf2-1b5a0507aeac", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "0:50", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Fomu: An FPGA in your USB Port", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "FPGAs and CPUs in your USB port. They're here, and they're open source. But what good are they? Come and share your ideas. We'll give out free USB Tomu boards to people who ask good questions!", 
+                                "persons": [], 
+                                "links": [
+                                    "https://tomu.im/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fomu:_An_FPGA_in_your_USB_Port"
+                                ]
+                            }, 
+                            {
                                 "id": 1052, 
                                 "guid": "8928bbe8-abe0-4d69-8887-49480e6bef00", 
                                 "logo": null, 
@@ -3012,6 +3034,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-21 05:20"
+        "version": "2018-12-21 05:30"
     }
 }

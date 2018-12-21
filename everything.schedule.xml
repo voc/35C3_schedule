@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.10 v1.4 0.4 2018-12-21 05:20</version>
+  <version>Columbo 2.1 0.9.10 v1.4 0.4 2018-12-21 05:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -9868,6 +9868,26 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Seminar room 14-15">
+      <event id="1154" guid="ce97b81d-87de-42cc-bcf2-1b5a0507aeac">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:50</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Fomu: An FPGA in your USB Port</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>FPGAs and CPUs in your USB port. They're here, and they're open source. But what good are they? Come and share your ideas. We'll give out free USB Tomu boards to people who ask good questions!</description>
+        <persons/>
+        <links>
+          <link>https://tomu.im/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fomu:_An_FPGA_in_your_USB_Port</link>
+        </links>
+      </event>
       <event id="1052" guid="8928bbe8-abe0-4d69-8887-49480e6bef00">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
