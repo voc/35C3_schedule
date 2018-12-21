@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 16:50", 
+        "version": "Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2650,29 +2650,29 @@
                         ], 
                         "B\u00fchne": [
                             {
-                                "id": 13, 
-                                "guid": "3d89d17d-50fa-56b0-a7fc-52dfbec5ad43", 
+                                "id": 25, 
+                                "guid": "0923dc04-8021-5c22-99ca-d009b22274fc", 
                                 "logo": null, 
                                 "date": "2018-12-27T19:15:00+01:00", 
                                 "start": "19:15", 
-                                "duration": "01:00", 
+                                "duration": "00:45", 
                                 "room": "B\u00fchne", 
-                                "slug": "KBLMBB", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/KBLMBB", 
-                                "title": "Telefonieren als Kulturtechnik, damals(tm) und danach", 
+                                "slug": "J7JMJP", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/J7JMJP", 
+                                "title": "Autistische Wahrnehmungen", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "nur B\u00fchne", 
                                 "language": "de", 
-                                "abstract": "Nibbler, Ajuvo und Jolly haben ein gemeinsames dunkles Hobby: alte Telefone und andere seltsame Technik. In dieser B\u00fchnenshow erz\u00e4hlen sie, was vor dem Fr\u00e4ulein vom Amt kam und vor allem, wieso es mit ihr zuende ging. Allerdings nicht einfach so. Wer in der ersten Reihe sitzen will, sollte Mate, Gin und/oder alte Telefone dabei haben.", 
-                                "description": "Die Jugend von heute (tm) telefoniert ja nicht mehr. Irgendwie ist das angstbesetzt. Dabei waren die Leute froh, als sie mal konnten. Wie froh, werden wir Euch vorf\u00fchren und erz\u00e4hlen, und warum, und \u00fcberhaupt. \r\n\r\nUnd zum Thema \"diesen Aufwand w\u00fcrde ja niemand treiben\" haben wir Dinge und Fakten mitgebracht. Seht und h\u00f6rt selbst.\r\n\r\nIn Teilen wird dies evtl. ein Schwyzr Chwalith\u00e4tspodchast, in SD statt in HD. Denn wie sagte schon Emil: \"Das musch allesch durch den \u00c4\u00e4ther - darum schl\u00e4ft man beim Zuh\u00f6re uch immr ein!\"", 
+                                "abstract": "Der Podcast Autistische Wahrnehmungen besch\u00e4ftigt sich mit Autismus und wie es sich damit so lebt.", 
+                                "description": "Auf dem 35c3 gibt es den Podcast [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/) zum ersten Mal live. Ich [(@fair_sein)](https://twitter.com/fair_sein) werde auf der B\u00fchne sein und habe einen weiteren Autisten [(@wus_sel)](https://twitter.com/wus_sel/) zu Gast. Mit ihm werden wir das ersten Jahr Autistische Wahrnehmungen Folge f\u00fcr Folge Revue passieren lassen und nochmal ein paar Anmerkungen zu den Folgen machen.\r\n\r\nUnd auch das Publikum kommt nicht zu kurz und darf uns jederzeit Fragen stellen.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 12, 
-                                        "name": "ajuvo & nibbler & jolly", 
-                                        "biography": "@ajuvo @nblr #jolly\r\n\r\nEin Trio von Altchaoten mit Podcasterfahrung (damalsTM, Chaosradio)", 
+                                        "id": 26, 
+                                        "name": "fairsein", 
+                                        "biography": "Hallo, ich bin Jan, 30 Jahre alt und aus Berlin. Ich arbeite in der IT-Branche und bin Autist. Ich mache mehrere Podcasts:\r\n\r\n- [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/)\r\n- [H\u00f6r Doch Mal Zu](https://hoer-doch-mal-zu.de/)\r\n- [Wasserstandsmeldung](https://fairsein.org/)\r\n- [H\u00f6rerkl\u00e4rb\u00e4r](https://h\u00f6rerkl\u00e4rb\u00e4r.de/)\r\n\r\nAuf Twitter bin ich unter [@fair_sein](https://twitter.com/fair_sein) zu finden. Seit 2016 habe ich die Diagnose \"Autismus\". Auf dem 35c3 bin ich Teil des [c3Auti Teams](https://help.ccc.de/c3auti/index.html).", 
                                         "answers": []
                                     }
                                 ], 

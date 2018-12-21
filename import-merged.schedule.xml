@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 16:50</version>
+  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2712,35 +2712,38 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
       </event>
     </room>
     <room name="Bühne">
-      <event id="13" guid="3d89d17d-50fa-56b0-a7fc-52dfbec5ad43">
+      <event id="25" guid="0923dc04-8021-5c22-99ca-d009b22274fc">
         <logo/>
         <date>2018-12-27T19:15:00+01:00</date>
         <start>19:15</start>
-        <duration>01:00</duration>
+        <duration>00:45</duration>
         <room>Bühne</room>
-        <slug>KBLMBB</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/KBLMBB</url>
-        <title>Telefonieren als Kulturtechnik, damals(tm) und danach</title>
+        <slug>J7JMJP</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/J7JMJP</url>
+        <title>Autistische Wahrnehmungen</title>
         <subtitle/>
         <track/>
         <type>nur Bühne</type>
         <language>de</language>
-        <abstract>Nibbler, Ajuvo und Jolly haben ein gemeinsames dunkles Hobby: alte Telefone und andere seltsame Technik. In dieser Bühnenshow erzählen sie, was vor dem Fräulein vom Amt kam und vor allem, wieso es mit ihr zuende ging. Allerdings nicht einfach so. Wer in der ersten Reihe sitzen will, sollte Mate, Gin und/oder alte Telefone dabei haben.</abstract>
-        <description>Die Jugend von heute (tm) telefoniert ja nicht mehr. Irgendwie ist das angstbesetzt. Dabei waren die Leute froh, als sie mal konnten. Wie froh, werden wir Euch vorführen und erzählen, und warum, und überhaupt. &#13;
+        <abstract>Der Podcast Autistische Wahrnehmungen beschäftigt sich mit Autismus und wie es sich damit so lebt.</abstract>
+        <description>Auf dem 35c3 gibt es den Podcast [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/) zum ersten Mal live. Ich [(@fair_sein)](https://twitter.com/fair_sein) werde auf der Bühne sein und habe einen weiteren Autisten [(@wus_sel)](https://twitter.com/wus_sel/) zu Gast. Mit ihm werden wir das ersten Jahr Autistische Wahrnehmungen Folge für Folge Revue passieren lassen und nochmal ein paar Anmerkungen zu den Folgen machen.&#13;
 &#13;
-Und zum Thema "diesen Aufwand würde ja niemand treiben" haben wir Dinge und Fakten mitgebracht. Seht und hört selbst.&#13;
-&#13;
-In Teilen wird dies evtl. ein Schwyzr Chwalithätspodchast, in SD statt in HD. Denn wie sagte schon Emil: "Das musch allesch durch den Ääther - darum schläft man beim Zuhöre uch immr ein!"</description>
+Und auch das Publikum kommt nicht zu kurz und darf uns jederzeit Fragen stellen.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="12">
-            <name>ajuvo &amp; nibbler &amp; jolly</name>
-            <biography>@ajuvo @nblr #jolly&#13;
+          <person id="26">
+            <name>fairsein</name>
+            <biography>Hallo, ich bin Jan, 30 Jahre alt und aus Berlin. Ich arbeite in der IT-Branche und bin Autist. Ich mache mehrere Podcasts:&#13;
 &#13;
-Ein Trio von Altchaoten mit Podcasterfahrung (damalsTM, Chaosradio)</biography>
+- [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/)&#13;
+- [Hör Doch Mal Zu](https://hoer-doch-mal-zu.de/)&#13;
+- [Wasserstandsmeldung](https://fairsein.org/)&#13;
+- [Hörerklärbär](https://hörerklärbär.de/)&#13;
+&#13;
+Auf Twitter bin ich unter [@fair_sein](https://twitter.com/fair_sein) zu finden. Seit 2016 habe ich die Diagnose "Autismus". Auf dem 35c3 bin ich Teil des [c3Auti Teams](https://help.ccc.de/c3auti/index.html).</biography>
           </person>
         </persons>
         <links/>
