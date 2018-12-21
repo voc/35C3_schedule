@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 01:30", 
+        "version": "Columbo 2.1 0.9.10 v1.4 0.4 2018-12-21 01:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -172,7 +172,7 @@
                                 "persons": [
                                     {
                                         "id": 8179, 
-                                        "public_name": "F."
+                                        "public_name": "Florian"
                                     }
                                 ], 
                                 "links": [], 
@@ -1330,7 +1330,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9778.html", 
                                 "id": 9778, 
                                 "guid": "dbd61e6a-dbde-4dcd-9b2e-73ba7ad62861", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/778/large/oscar_eckig.png?1545254350", 
                                 "date": "2018-12-27T22:10:00+01:00", 
                                 "start": "22:10", 
                                 "duration": "01:00", 
@@ -4808,40 +4808,12 @@
                                 "attachments": []
                             }, 
                             {
-                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9612.html", 
-                                "id": 9612, 
-                                "guid": "a24c67d2-9cad-41a5-ada4-eff706d29920", 
-                                "logo": null, 
-                                "date": "2018-12-28T12:50:00+01:00", 
-                                "start": "12:50", 
-                                "duration": "01:00", 
-                                "room": "Clarke", 
-                                "slug": "35c3-9612-the_nextpnr_foss_fpga_place-and-route_tool", 
-                                "title": "The nextpnr FOSS FPGA place-and-route tool", 
-                                "subtitle": "the next step forward in open source FPGA tools", 
-                                "track": "Hardware & Making", 
-                                "type": "lecture", 
-                                "language": "en", 
-                                "abstract": "Project IceStorm provides the first end-to-end open source FPGA toolchain, was originally presented at 32c3, and only targetted Lattice iCE40 FPGAs. nextpnr is the next big step for open source FPGA tools, providing a retargetable open source FPGA place-and-route tool that will enable open source flows for many different FPGAs from many different vendors.", 
-                                "description": "nextpnr is a retargetable FOSS FPGA place-and-route tool that is replacing arachne-pnr as place-and-route tool in the IceStorm open source iCE40 flow. (I have originally presented IceStorm and arachne-pnr at 32c3.)\r\n\r\nnextpnr is retargetable, meaning it can be ported to other FPGA architectures easily, uses timing-driven algorithms, provides a python scripting API, supports complex placement and floorplanning constraints, and has a nice GUI. Python and GUI support are optional, which may be useful when deploying nextpnr on an embedded platform. In short: It is a big step forward for open source FPGA tools, attempting to close the gap to vendor tools in some aspects, and even setting new standards in other aspects.\r\n\r\nAs of now, iCE40 FPGAs (Project IceStorm) and ECP5 FPGAs (Project Trellis) are supported in nextpnr, but support for more architectures is expected to follow in short order.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 5860, 
-                                        "public_name": "Clifford Wolf"
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": []
-                            }, 
-                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9631.html", 
                                 "id": 9631, 
                                 "guid": "14281f92-873c-478c-a962-f1eb8b6c15d9", 
                                 "logo": null, 
-                                "date": "2018-12-28T14:10:00+01:00", 
-                                "start": "14:10", 
+                                "date": "2018-12-28T12:50:00+01:00", 
+                                "start": "12:50", 
                                 "duration": "01:00", 
                                 "room": "Clarke", 
                                 "slug": "35c3-9631-symbiflow_-_finally_the_gcc_of_fpgas", 
@@ -4870,6 +4842,34 @@
                                         "title": "SymbiFlow GitHub"
                                     }
                                 ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9612.html", 
+                                "id": 9612, 
+                                "guid": "a24c67d2-9cad-41a5-ada4-eff706d29920", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:10:00+01:00", 
+                                "start": "14:10", 
+                                "duration": "01:00", 
+                                "room": "Clarke", 
+                                "slug": "35c3-9612-the_nextpnr_foss_fpga_place-and-route_tool", 
+                                "title": "The nextpnr FOSS FPGA place-and-route tool", 
+                                "subtitle": "the next step forward in open source FPGA tools", 
+                                "track": "Hardware & Making", 
+                                "type": "lecture", 
+                                "language": "en", 
+                                "abstract": "Project IceStorm provides the first end-to-end open source FPGA toolchain, was originally presented at 32c3, and only targetted Lattice iCE40 FPGAs. nextpnr is the next big step for open source FPGA tools, providing a retargetable open source FPGA place-and-route tool that will enable open source flows for many different FPGAs from many different vendors.", 
+                                "description": "nextpnr is a retargetable FOSS FPGA place-and-route tool that is replacing arachne-pnr as place-and-route tool in the IceStorm open source iCE40 flow. (I have originally presented IceStorm and arachne-pnr at 32c3.)\r\n\r\nnextpnr is retargetable, meaning it can be ported to other FPGA architectures easily, uses timing-driven algorithms, provides a python scripting API, supports complex placement and floorplanning constraints, and has a nice GUI. Python and GUI support are optional, which may be useful when deploying nextpnr on an embedded platform. In short: It is a big step forward for open source FPGA tools, attempting to close the gap to vendor tools in some aspects, and even setting new standards in other aspects.\r\n\r\nAs of now, iCE40 FPGAs (Project IceStorm) and ECP5 FPGAs (Project Trellis) are supported in nextpnr, but support for more architectures is expected to follow in short order.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 5860, 
+                                        "public_name": "Clifford Wolf"
+                                    }
+                                ], 
+                                "links": [], 
                                 "attachments": []
                             }, 
                             {
@@ -5230,8 +5230,8 @@
                                 "track": "Art & Culture", 
                                 "type": "performance", 
                                 "language": "en", 
-                                "abstract": "Never Forgetti <br>\r\nlecture performance, 2018 <br>\r\nmultiplatform game, <br>\r\n<a id=\"hyper\" href=\"https://soundcloud.com/imdrivingfast/sets/never-forgetti-ost\"> soundtrack </a> & <a id=\"hyper\" href=\"http://janberger.info/texts/nf_guide_web.pdf\"> strategy guide </a> <br>", 
-                                "description": "Never Forgetti is a didactic live gaming lecture about the deaths of female video game characters and how their normative framing prevents them from developing agency to avert their fatal destiny. The performance investigates on power relationships between lecturer and audience to reflect on how models of subjugation are established in media and our current social realities. Taking on the persona of Jenny Vorfahrt, a mysterious character that exists both outside and inside the gaming realm, I provide attendees with showcase of gameplay and theoretical knowledge about live and death of popular heroines, as well as the symbolism of classical game design. In reality, however, Jenny is pursuing her own secretive agenda...", 
+                                "abstract": "a didactic live-gaming performance about dying women across video game history", 
+                                "description": "Never Forgetti <br>\r\nlecture performance, 2018 <br>\r\nmultiplatform game, <br>\r\n<a href=\"https://soundcloud.com/imdrivingfast/sets/never-forgetti-ost\"> soundtrack </a> & <a href=\"http://janberger.info/texts/nf_guide_web.pdf\"> strategy guide </a> <br> <br>\r\nNever Forgetti is a didactic live gaming lecture about the deaths of female video game characters and how their normative framing prevents them from developing agency to avert their fatal destiny. The performance investigates on power relationships between lecturer and audience to reflect on how models of subjugation are established in media and our current social realities. Taking on the persona of Jenny Vorfahrt, a mysterious character that exists both outside and inside the gaming realm, I provide attendees with showcase of gameplay and theoretical knowledge about life and death of popular heroines, as well as the symbolism of classical game design. In reality, however, Jenny is pursuing her own secretive agenda...", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -5243,7 +5243,7 @@
                                 "links": [
                                     {
                                         "url": "http://www.janberger.info/nf.html", 
-                                        "title": "website summary never forgetti"
+                                        "title": "website summary Never Forgetti"
                                     }
                                 ], 
                                 "attachments": []
@@ -5576,7 +5576,7 @@
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Beim Datenschutz geht es mitnichten um Privatsph\u00e4re, um das eigene Schlafzimmer oder um das Teilen privater Daten bei Facebook. Es geht gleicherma\u00dfen um den Erhalt einer demokratischen Gesellschaftsordnung wie um den Erhalt von individuellen Handlungsalternativen im digitalen Zeitalter. Wir d\u00fcrfen also nicht so sehr \u00fcber Einzelpersonen und ihre h\u00f6chst subjektiven Privatheitsw\u00fcnsche sprechen, sondern viel mehr von Machtasymmetrien, Durchsetzungsmacht, sowie \u201estarken\u201c und \u201eschwachen\u201c Akteuren.\r\n\r\nErst dann k\u00f6nnen wir politischen Nebelkerzen wie \"Selbst-Datenschutz\", \"Dateneigentum\", \"individuelle Datensouver\u00e4nit\u00e4t\" oder etwa \"Algorithmen-Ethik\" etwas entgegensetzen, die zunehmend als L\u00f6sung f\u00fcr Verdatung der Gesellschaft angeboten werden. Doch wir m\u00fcssen uns strukturell und auch theoretisch mit dem Problem der Informationsmacht gro\u00dfer Organisationen (Beh\u00f6rden, Firmen) besch\u00e4ftigen, wenn wir einer grundrechtsorientierten digitalen Gesellschaft leben wollen. Datenreichtumsbef\u00fcrworter- und Datenschutzver\u00e4chterInnen, die derartige Probleme wie so oft dem Individuum aufb\u00fcrden wollen, haben n\u00e4mlich keinen theoretischen Unterbau. Dieser Talk vermittelt passioniert das R\u00fcstzeug und die n\u00f6tigen Grundlagen, um tats\u00e4chlich sinnvolle Datenschutzbebatten zu f\u00fchren.", 
+                                "abstract": "Beim Datenschutz geht es mitnichten um Privatsph\u00e4re, um das eigene Schlafzimmer oder um das Teilen privater Daten bei Facebook. Es geht gleicherma\u00dfen um den Erhalt einer demokratischen Gesellschaftsordnung wie um den Erhalt von individuellen Handlungsalternativen im digitalen Zeitalter. Wir d\u00fcrfen also nicht so sehr \u00fcber Einzelpersonen und ihre h\u00f6chst subjektiven Privatheitsw\u00fcnsche sprechen, sondern viel mehr von Machtasymmetrien, Durchsetzungsmacht, sowie \u201estarken\u201c und \u201eschwachen\u201c Akteuren.\r\n\r\nErst dann k\u00f6nnen wir politischen Nebelkerzen wie \"Selbst-Datenschutz\", \"Dateneigentum\", \"individuelle Datensouver\u00e4nit\u00e4t\" oder etwa \"Algorithmen-Ethik\" etwas entgegensetzen, die zunehmend als L\u00f6sung f\u00fcr Verdatung der Gesellschaft angeboten werden. Doch wir m\u00fcssen uns strukturell und auch theoretisch mit dem Problem der Informationsmacht gro\u00dfer Organisationen (Beh\u00f6rden, Firmen) besch\u00e4ftigen, wenn wir einer grundrechtsorientierten digitalen Gesellschaft leben wollen. Datenreichtumsbef\u00fcrworter- und Datenschutzver\u00e4chterInnen, die derartige Probleme wie so oft dem Individuum aufb\u00fcrden wollen, haben n\u00e4mlich keinen theoretischen Unterbau. Dieser Foundation-Talk vermittelt passioniert das R\u00fcstzeug und die n\u00f6tigen Grundlagen, um tats\u00e4chlich sinnvolle Datenschutzbebatten zu f\u00fchren.", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -5593,7 +5593,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html", 
                                 "id": 9590, 
                                 "guid": "c94fde2e-b5db-48f2-b94f-872ce7405875", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/590/large/swiss-flag_001.jpg?1545082519", 
                                 "date": "2018-12-28T20:50:00+01:00", 
                                 "start": "20:50", 
                                 "duration": "00:40", 
@@ -5605,7 +5605,7 @@
                                 "type": "lecture", 
                                 "language": "de", 
                                 "abstract": "Datenreichtum, Massen\u00fcberwachung und andere netzpolitische Schaupl\u00e4tze in der Schweiz", 
-                                "description": "Der Kampf um die Freiheit im digitalen Raum wird auch in der Schweiz intensiver. Wir blicken auf das netzpolitische Jahr 2018 in der Schweiz zwischen Bodensee und Matterhorn zur\u00fcck. Wir behandeln jene Themen, die relevant waren und relevant bleiben. Weiter zeigen wir, was von der Digitalen Gesellschaft in der Schweiz im neuen Jahr zu erwarten ist.\r\n\r\n<strong>Themen sind unter anderem:</strong>\r\n<ul>\r\n<li><strong>Massen\u00fcberwachung:</strong> Kabelaufkl\u00e4rung und Vorratsdatenspeicherung sowie die Beschwerden, welche die Digitale Gesellschaft f\u00fchrt</li>\r\n<li><strong>E-Voting:</strong> Abstimmungen und Wahlen im Internet sowie der Kampf f\u00fcr das Vertrauen in die Direkte Demokratie in der Schweiz</li>\r\n<li><strong>Netzsperren:</strong> Die Zensur im schweizerischen Internet begann mit \u00abDenkt denn niemand an die Kinder?\u00bb und geht nun mit Geldspielen im Internet weiter \u2026</li>\r\n<li><strong>Urheberrecht:</strong> Wie die USA im \u00abPiratenstaat\u00bb Schweiz ihre Forderungen durchsetzen, unter anderem Massenabmahnungen gegen Filesharing</li>\r\n<li><strong>Datenschutz:</strong> Wo war in der Schweiz besonders viel \u00abDatenreichtum\u00bb zu beobachten?</li>\r\n<li><strong>Digitale Gesellschaft:</strong> Razzia am \u00abHort der Linksextremen\u00bb, Winterkongress und andere Aktivit\u00e4ten</li>\r\n</ul>\r\n\r\nNach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion an einem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).\r\n", 
+                                "description": "Der Kampf um die Freiheit im digitalen Raum wird auch in der Schweiz intensiver. Wir blicken auf das netzpolitische Jahr 2018 in der Schweiz zwischen Bodensee und Matterhorn zur\u00fcck. Wir behandeln jene Themen, die relevant waren und relevant bleiben. Weiter zeigen wir, was von der Digitalen Gesellschaft in der Schweiz im neuen Jahr zu erwarten ist.\r\n\r\n<strong>Themen sind unter anderem:</strong>\r\n\r\n<strong>Massen\u00fcberwachung:</strong> Kabelaufkl\u00e4rung und Vorratsdatenspeicherung sowie die Beschwerden, welche die Digitale Gesellschaft f\u00fchrt\r\n\r\n<strong>E-Voting:</strong> Abstimmungen und Wahlen im Internet sowie der Kampf f\u00fcr das Vertrauen in die Direkte Demokratie in der Schweiz\r\n\r\n<strong>Netzsperren:</strong> Die Zensur im schweizerischen Internet begann mit \u00abDenkt denn niemand an die Kinder?\u00bb und geht nun mit Geldspielen im Internet weiter \u2026\r\n\r\n<strong>Urheberrecht:</strong> Wie die USA im \u00abPiratenstaat\u00bb Schweiz ihre Forderungen durchsetzen, unter anderem Massenabmahnungen gegen Filesharing\r\n\r\n<strong>Datenschutz:</strong> Wo war in der Schweiz besonders viel \u00abDatenreichtum\u00bb zu beobachten?\r\n\r\n<strong>Digitale Gesellschaft in der Schweiz:</strong> Razzia am \u00abHort der Linksextremen\u00bb, Winterkongress und andere Aktivit\u00e4ten\r\n\r\nNach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion an einem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).\r\n\r\nhttps://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -5629,7 +5629,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9492.html", 
                                 "id": 9492, 
                                 "guid": "86b96f3f-a6b5-49c0-a189-69912c016916", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/492/large/alice_bob.png?1545322020", 
                                 "date": "2018-12-28T21:50:00+01:00", 
                                 "start": "21:50", 
                                 "duration": "00:40", 
@@ -8365,7 +8365,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9507.html", 
                                 "id": 9507, 
                                 "guid": "787007cf-828d-4409-94b0-90a0b8d727a0", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/507/large/IFG_angriff.jpg?1545231555", 
                                 "date": "2018-12-29T14:10:00+01:00", 
                                 "start": "14:10", 
                                 "duration": "01:00", 
@@ -8412,12 +8412,12 @@
                                 "room": "Adams", 
                                 "slug": "35c3-9858-archaologische_studien_im_datenmull", 
                                 "title": "Arch\u00e4ologische Studien im Datenm\u00fcll", 
-                                "subtitle": "Welche Daten speichern Amazon, Netflix & Co \u00fcber uns?", 
+                                "subtitle": "Welche Daten speichert Amazon \u00fcber uns?", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Jeder Nutzer hat das Recht bei seinen Dienstanbietern eine Kopie seiner Daten anzufordern. Doch wer macht das schon? Wir haben genau das getan. Das Ergebnis waren nicht nur intensive und emotionale Brieffreundschaften mit den Datenschutz-Abteilungen von Netflix, Amazon und der DeutschlandCard. Das Ganze hat auch sehr viel Datenm\u00fcll zu Tage bef\u00f6rdert.", 
-                                "description": "Jeder Nutzer hat das Recht bei seinen Dienstanbietern eine Kopie seiner Daten anzufordern. Doch wer macht das schon? Wir haben genau das getan. Das Ergebnis waren nicht nur intensive und emotionale Brieffreundschaften mit den Datenschutz-Abteilungen von Netflix, Amazon und der DeutschlandCard. Das Ganze hat auch sehr viel Datenm\u00fcll zu Tage bef\u00f6rdert. Die DeutschlandCard honorierte den Kauf einer Flasche J\u00e4germeister mit Punkten. Bei der Krankenkasse ist schon spannend, was der jeweilige Arzt so abgerechnet hat... Vor allem zwei Anbieter stachen bei der Betrachtung der Ergebnisse heraus. Amazon schickte eine Tabelle mit den letzten 15.000 Klicks \u2013 zu jedem Eintrag gab es bis zu 50 zus\u00e4tzliche Angaben. Bei Netflix lie\u00df sich nachverfolgen, in welcher Sekunde Nutzer vor- oder zur\u00fcckgespult oder eine Toilettenpause angelegt haben. \r\n\r\nAuf den ersten Blick war klar: In diesen Datenbergen lohnt es sich zu w\u00fchlen. Genau das haben wir in den darauf folgenden Monaten getan. Mit einigen Analysen haben wir nach Auff\u00e4lligkeiten und Mustern gesucht und diese auch gefunden. Amazon wei\u00df, wann wir wo unterwegs waren, wie es um die Qualit\u00e4t unserer Internetverbindung steht, wie es um die H\u00e4ufigkeit von um Familienbesuchen bestellt ist und und welche Zeitung wir lesen. Der Netflix-Datensatz enth\u00fcllt, in welchen Situationen Serien-Junkies aussteigen und welche Handlungsstr\u00e4nge besonders fesseln. Oder wann einen wahrscheinlich eine Blasenentz\u00fcndung plagte. \r\n\r\nDer Vortrag erkl\u00e4rt auf unterhaltsame und kurzweilige Weise, was sich aus unserem Datenm\u00fcll mit einfachen Mitteln alles herauslesen l\u00e4sst. Und warum es problematisch ist, wenn Amazon unsere Vorlieben irgendwann besser kennt, als enge Freunde. Als Bonus geben wir Euch noch die wichtigsten Tipps & Kniffe auf den Weg, wie ihr auch bei unkooperativen Unternehmen an Eure eigene Datenauskunft kommt. ", 
+                                "abstract": "Jeder Nutzer hat das Recht bei seinen Dienstanbietern eine Kopie seiner Daten anzufordern. Doch wer macht das schon? Wir haben genau das getan. Das Ergebnis war nicht nur eine intensive und emotionale Brieffreundschaften mit der Datenschutz-Abteilung von Amazon. Das Ganze hat auch sehr viel Datenm\u00fcll zu Tage bef\u00f6rdert.", 
+                                "description": "Jeder Nutzer hat das Recht bei seinen Dienstanbietern eine Kopie seiner Daten anzufordern. Doch wer macht das schon? Wir haben genau das getan. Das Ergebnis war nicht nur eine intensive und emotionale Brieffreundschaft mit der Datenschutz-Abteilung von Amazon. Das Ganze hat auch sehr viel Datenm\u00fcll zu Tage bef\u00f6rdert. Amazon schickte eine Tabelle mit den letzten 15.000 Klicks \u2013 zu jedem Eintrag gab es bis zu 50 zus\u00e4tzliche Angaben. \r\n\r\nAuf den ersten Blick war klar: In diesen Datenbergen lohnt es sich zu w\u00fchlen. Genau das haben wir in den darauf folgenden Monaten getan. Mit einigen Analysen haben wir nach Auff\u00e4lligkeiten und Mustern gesucht und diese auch gefunden. Amazon wei\u00df, wann wir wo unterwegs waren, wie es um die Qualit\u00e4t unserer Internetverbindung steht, wie es um die H\u00e4ufigkeit von um Familienbesuchen bestellt ist und und welche Zeitung wir lesen. \r\n\r\nDer Vortrag erkl\u00e4rt auf unterhaltsame und kurzweilige Weise, was sich aus unserem Datenm\u00fcll mit einfachen Mitteln alles herauslesen l\u00e4sst. Und warum es problematisch ist, wenn Amazon unsere Vorlieben irgendwann besser kennt, als enge Freunde. Als Bonus geben wir Euch noch die wichtigsten Tipps & Kniffe auf den Weg, wie ihr auch bei unkooperativen Unternehmen an Eure eigene Datenauskunft kommt. ", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -8539,14 +8539,14 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9716.html", 
                                 "id": 9716, 
                                 "guid": "48ed6dea-e67d-4866-8c35-318e9d892363", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/716/large/lossy-page1-576px-%22WAAC_-_SILENCE_MEANS_SECURITY%22_-_NARA_-_515987.tif.jpg?1545215113", 
                                 "date": "2018-12-29T20:50:00+01:00", 
                                 "start": "20:50", 
                                 "duration": "01:00", 
                                 "room": "Adams", 
-                                "slug": "35c3-9716-hacken_ist_einfach_du_darfst_dich_nur_nicht_erwischen_lassen", 
-                                "title": "Hacken ist einfach \u2013 du darfst dich nur nicht erwischen lassen.", 
-                                "subtitle": "OpSec f\u00fcr Dummies", 
+                                "slug": "35c3-9716-du_kannst_alles_hacken_du_darfst_dich_nur_nicht_erwischen_lassen", 
+                                "title": "Du kannst alles hacken \u2013 du darfst dich nur nicht erwischen lassen.", 
+                                "subtitle": "OpSec f\u00fcr Datenreisende", 
                                 "track": "Security", 
                                 "type": "lecture", 
                                 "language": "de", 
@@ -9035,7 +9035,7 @@
                                 "persons": [
                                     {
                                         "id": 8362, 
-                                        "public_name": "j0nathanj"
+                                        "public_name": "Jonathan Jacobi"
                                     }
                                 ], 
                                 "links": [], 
@@ -9245,18 +9245,18 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9972.html", 
                                 "id": 9972, 
                                 "guid": "400622c5-3754-43fd-aaf3-0ca00e9ad551", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/972/large/cellular-tower.jpg?1545130749", 
                                 "date": "2018-12-29T22:10:00+01:00", 
                                 "start": "22:10", 
                                 "duration": "01:00", 
                                 "room": "Clarke", 
-                                "slug": "35c3-9972-uberwachung_fur_alle_funkzellenabfragen", 
-                                "title": "\u00dcberwachung f\u00fcr alle: Funkzellenabfragen", 
-                                "subtitle": "Wie wir alle regelm\u00e4\u00dfig den Beh\u00f6rden ins Netz gehen & wie man immerhin mehr Transparenz schaffen kann", 
+                                "slug": "35c3-9972-funkzellenabfrage_die_alltagliche_rasterfahndung_unserer_handydaten", 
+                                "title": "Funkzellenabfrage: Die allt\u00e4gliche Rasterfahndung unserer Handydaten", 
+                                "subtitle": "Wie wir alle regelm\u00e4\u00dfig den Beh\u00f6rden ins Netz gehen und wie man immerhin mehr Transparenz schaffen kann", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Polizeibeh\u00f6rden sammeln per \u201eFunkzellenabfrage\u201c Tag f\u00fcr Tag Millionen von Standort-Daten. Netzbetreiber liefern den Beh\u00f6rden regelm\u00e4\u00dfig Datens\u00e4tze aller Mobilfunknummern, die zu einem bestimmten Zeitpunkt in bestimmten Funkzellen waren. Entgegen den gesetzlichen Bestimmungen erfahren Betroffene nicht davon.", 
+                                "abstract": "Polizei und Geheimdienste sammeln per \"Funkzellenabfrage\" Tag f\u00fcr Tag Millionen von Standort-Daten. Netzbetreiber liefern den Beh\u00f6rden regelm\u00e4\u00dfig Datens\u00e4tze aller Mobilfunknummern, die zu einem bestimmten Zeitpunkt in bestimmten Funkzellen waren. Entgegen den gesetzlichen Bestimmungen erfahren Betroffene nicht davon.", 
                                 "description": "Dieser Talk macht deutlich, was diese Form der Massen\u00fcberwachung aus b\u00fcrgerrechtlicher Sicht bedeutet. Danach stellen die Speaker das Berliner Funkzellenabfragen-Transparenz-System vor, das zumindest ein wenig Licht ins Dunkel dieser \u00dcberwachungsma\u00dfnahmen bringen kann.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -9380,6 +9380,10 @@
                                     {
                                         "id": 8772, 
                                         "public_name": "Simon Ellmann"
+                                    }, 
+                                    {
+                                        "id": 8808, 
+                                        "public_name": "Sebastian Voit"
                                     }
                                 ], 
                                 "links": [
@@ -12608,7 +12612,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9989.html", 
                                 "id": 9989, 
                                 "guid": "54c671a2-1803-4085-a923-a875ca11723a", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/989/large/espr_35c3.jpg?1545253268", 
                                 "date": "2018-12-30T11:30:00+01:00", 
                                 "start": "11:30", 
                                 "duration": "00:40", 
@@ -12724,7 +12728,7 @@
                                 "links": [
                                     {
                                         "url": "https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware", 
-                                        "title": "MRMCD talk on Internalblue"
+                                        "title": "MRMCD talk on InternalBlue (more details on how to use it)"
                                     }, 
                                     {
                                         "url": "https://github.com/seemoo-lab/internalblue", 
