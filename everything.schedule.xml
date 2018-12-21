@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 20:30</version>
+  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 20:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6311,6 +6311,26 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Konsens-Workshop</link>
         </links>
       </event>
+      <event id="1163" guid="628ce599-e3ef-4568-87d0-2f647ebe6f2b">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>Open-Science-AG/de-RSE MeetUp</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meet Up of the Open Science and de-RSE (Research Software Engineers) community. Everybody how is interested in open science and software engineering in research in general is interested to join. Come by and get to know us! :D</description>
+        <persons/>
+        <links>
+          <link>http://de-rse.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open-Science-AG/de-RSE_MeetUp</link>
+        </links>
+      </event>
       <event id="1089" guid="acc33cc8-f416-4477-8a40-0865e1e456ac">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
@@ -8282,28 +8302,6 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <links>
           <link>https://github.com/NiklasFauth/hoverboard-firmware-hack</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe</link>
-        </links>
-      </event>
-    </room>
-    <room name="Chillout Space aka Shutter Island (CCL Level -1)">
-      <event id="1163" guid="628ce599-e3ef-4568-87d0-2f647ebe6f2b">
-        <logo/>
-        <date>2018-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
-        <room>Chillout Space aka Shutter Island (CCL Level -1)</room>
-        <slug/>
-        <title>Open-Science-AG/de-RSE MeetUp</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meet Up of the Open Science and de-RSE (Research Software Engineers) community. Everybody how is interested in open science and software engineering in research in general is interested to join. Come by and get to know us! :D</description>
-        <persons/>
-        <links>
-          <link>http://de-rse.org/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open-Science-AG/de-RSE_MeetUp</link>
         </links>
       </event>
     </room>

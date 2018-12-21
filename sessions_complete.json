@@ -6184,7 +6184,7 @@
             }
         ]
     }, 
-    "Session:Open-Science-AG/de-RSE MeetUp# fb8b867c6c67cd87207547a08b0b6a41": {
+    "Session:Open-Science-AG/de-RSE MeetUp# 83500de10bba4d3f457d3ac284e464b6": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -6209,10 +6209,10 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Chillout Space aka Shutter Island (CCL Level -1)", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Chillout_Space_aka_Shutter_Island_(CCL_Level_-1)", 
-                "namespace": 0, 
-                "exists": "", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
                 "displaytitle": ""
             }
         ], 
@@ -6222,7 +6222,7 @@
             "Open-Science-AG/de-RSE MeetUp"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
             "628ce599-e3ef-4568-87d0-2f647ebe6f2b"
@@ -6233,8 +6233,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open-Science-AG/de-RSE_MeetUp", 
         "Has end time": [
             {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
     }, 
