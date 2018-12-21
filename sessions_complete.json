@@ -7153,6 +7153,69 @@
             }
         ]
     }, 
+    "Session:Test Trick# fd14e70a8c1c72adcfcdc2f01058e2ee": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545494400", 
+                "raw": "1/2018/12/22/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://events.ccc.de"
+        ], 
+        "Has description": [
+            "Only a test trick for function test"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Optional subtitle for Testing"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magu", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Test Trick"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0beb6543-cc8a-46d8-a59a-12dea4a66ac7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Test_Trick", 
+        "Has end time": [
+            {
+                "timestamp": "1545498000", 
+                "raw": "1/2018/12/22/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Tor relays operators meetup# feccadb8aa665b0ce22929abd80ddfdd": {
         "Held in language": [
             "en - English"
