@@ -1669,6 +1669,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1153, 
+                                "guid": "6cdb89b6-0055-4756-abb5-30362193f54b", 
+                                "logo": null, 
+                                "date": "2018-12-28T09:30:00+01:00", 
+                                "start": "09:30", 
+                                "duration": "2:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Berlin Scholarship Program: Empowering Journalists in the Digital Field", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Final Workshop with participatns of the fellowship program by Reporters Without Borders Germany", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.reporter-ohne-grenzen.de/hilfe-schutz/stipendien/berliner-stipendienprogramm/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Berlin_Scholarship_Program:_Empowering_Journalists_in_the_Digital_Field"
+                                ]
+                            }, 
+                            {
                                 "id": 1033, 
                                 "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
                                 "logo": null, 
@@ -2990,6 +3012,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-21 02:20"
+        "version": "2018-12-21 02:30"
     }
 }
