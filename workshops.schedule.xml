@@ -2002,6 +2002,7 @@
         <description>Alexa, Cortana, Siri: Where is the FOSS Personal Assistant? We do the “Wikipedia for AI” with the susi.ai project</description>
         <persons/>
         <links>
+          <link>http://susi.ai</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_Assistants_By_People_for_the_People</link>
         </links>
       </event>
@@ -2494,5 +2495,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-21 01:10</version>
+  <version>2018-12-21 01:20</version>
 </schedule>

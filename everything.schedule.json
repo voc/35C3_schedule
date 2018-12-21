@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 01:10", 
+        "version": "Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 01:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -10493,6 +10493,7 @@
                                 "description": "Alexa, Cortana, Siri: Where is the FOSS Personal Assistant? We do the \u201cWikipedia for AI\u201d with the susi.ai project", 
                                 "persons": [], 
                                 "links": [
+                                    "http://susi.ai", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_Assistants_By_People_for_the_People"
                                 ]
                             }

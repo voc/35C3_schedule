@@ -5475,7 +5475,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://susi.ai"
+        ], 
         "Has description": [
             "Alexa, Cortana, Siri: Where is the FOSS Personal Assistant? We do the \u201cWikipedia for AI\u201d with the susi.ai project"
         ], 
