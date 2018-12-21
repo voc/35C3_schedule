@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:30", 
+        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8194,7 +8194,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
+                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -10363,6 +10363,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1157, 
+                                "guid": "3b98a7af-37d8-48e0-b467-dcc4b7eb4bd9", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Tim May Memorial", 
+                                "subtitle": "Remembrance event for Tim C. May, Cypherpunks co-founder & Cryptoanarchist who passed away earlier this month.", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Memorial for Tim C. May, Cypherpunks co-founder", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.facebook.com/lucky.green.73/posts/10155498914786706", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial"
+                                ]
+                            }, 
+                            {
                                 "id": 1127, 
                                 "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
                                 "logo": null, 
@@ -12491,7 +12513,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
+                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
                                 "persons": [
                                     {
                                         "id": 0, 

@@ -1252,7 +1252,7 @@
             "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
         ], 
         "Has description": [
-            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
+            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
         ], 
         "Has session type": [
             "Workshop"
@@ -1315,7 +1315,7 @@
             "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
         ], 
         "Has description": [
-            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
+            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
         ], 
         "Has session type": [
             "Workshop"
@@ -7339,6 +7339,61 @@
             {
                 "timestamp": "1545498000", 
                 "raw": "1/2018/12/22/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Tim May Memorial# 693cb995127e72c84514de38d12a0025": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.facebook.com/lucky.green.73/posts/10155498914786706"
+        ], 
+        "Has description": [
+            "Memorial for Tim C. May, Cypherpunks co-founder"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Remembrance event for Tim C. May, Cypherpunks co-founder & Cryptoanarchist who passed away earlier this month."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tim May Memorial"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "3b98a7af-37d8-48e0-b467-dcc4b7eb4bd9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial", 
+        "Has end time": [
+            {
+                "timestamp": "1546122600", 
+                "raw": "1/2018/12/29/22/30/0/0"
             }
         ]
     }, 

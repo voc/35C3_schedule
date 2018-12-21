@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:30</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -8070,7 +8070,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;</description>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
         </persons>
@@ -10003,6 +10003,26 @@ However, it's not always easy...</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier</link>
+        </links>
+      </event>
+      <event id="1157" guid="3b98a7af-37d8-48e0-b467-dcc4b7eb4bd9">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Tim May Memorial</title>
+        <subtitle>Remembrance event for Tim C. May, Cypherpunks co-founder &amp; Cryptoanarchist who passed away earlier this month.</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Memorial for Tim C. May, Cypherpunks co-founder</description>
+        <persons/>
+        <links>
+          <link>https://www.facebook.com/lucky.green.73/posts/10155498914786706</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial</link>
         </links>
       </event>
       <event id="1127" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
@@ -12139,7 +12159,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;</description>
+        <description>''Learn Arduino using TV-B-Gone as an example project''&lt;br&gt; &lt;br&gt; You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.&lt;br&gt; &lt;br&gt; ''(This is one of many cool things happening throughout 35C3 in the huge '''Hardware Hacking Area!)'''''&lt;br&gt; &lt;br&gt; This workshop will be given twice&lt;br&gt;(both identical):&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 2: 28-Dec, 1pm - 4:30pm&lt;br&gt; &amp;nbsp;&amp;nbsp;&amp;nbsp;Day 3: 29-Dec, 1pm - 4:30pm&lt;br&gt;</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
         </persons>
