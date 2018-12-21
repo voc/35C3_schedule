@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:10</version>
+  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6792,21 +6792,30 @@ http://www.NerdGirl.de/Download/Neusprech.zip (17,3 MB | .odp-Format)</descripti
         <room>Chaos West Bühne</room>
         <slug>CHEGRS</slug>
         <url>https://fahrplan.chaos-west.de/35c3chaoswest/talk/CHEGRS</url>
-        <title>Panel Diskussion: Gruppen von Frauen* und weiteren Minoritäten im Umfeld des CCC</title>
+        <title>Frauen* + NIT Gruppen im Umfeld des CCC: Wo, warum und was sind unsere Projekte</title>
         <subtitle/>
         <track/>
         <type>Doppelter Slot 40 Minuten + 10 Minuten Q+A</type>
         <language>de</language>
-        <abstract>Das Panel besteht aus Vertreter*innen der momentanen Gruppierungen mit einem Schwerpunkt auf Frauen* und FNIT Gruppen. Angedacht ist es, den Bogen von Feminismus im Generellen zur Planung und Umsetzung eines eigenen Spaces (Heart of Code) oder einer Gruppe, assoziiert mit einem lokalen Hackerspace (Geekfem Hamburg, Gruppe Karlsruhe, FUCK München, ...) zu schlagen. Dabei sollen Probleme, positive Erlebnisse, Strategien und Tipps für eine Neugründung gesammelt werden.</abstract>
+        <abstract>Das Panel besteht aus Vertreter\*innen der F(NIT)-Gruppen aus mehreren Städten sowie dem Mz\* Baltazar’s Lab (Wien) und den Haecksen. Angedacht ist es, den Bogen von Feminismus im Generellen zur Planung und Umsetzung eines eigenen Spaces oder einer Gruppe zu schlagen. Dabei sollen Probleme, positive Erlebnisse, Strategien und Tipps für eine Neugründung gesammelt werden.</abstract>
         <description>Geplanter Verlauf:&#13;
+&#13;
 - Welche Probleme in unserer Gesellschaft aus feministischer Sicht seht ihr?&#13;
+&#13;
 - Was hat euch geholfen, euch zu gründen?&#13;
+&#13;
 - Welche Probleme gab es, im Space, generell, warum habt ihr euch keinem Space angeschlossen?&#13;
+&#13;
 - Wie seit ihr gegen diese angegangen, konnten diese gelöst werden?&#13;
+&#13;
 - Welche Unterstützung bräuchtet ihr, um noch offene Probleme anzugehen in eurem Space?&#13;
+&#13;
 - Welche Unterstützung bräuchte Mensch, um offene Probleme allgemein anzugehen?&#13;
+&#13;
 - Gibt es Dinge, Situationen, die euch positiv überrascht haben?&#13;
+&#13;
 - Was würdet ihr anders, genau so wieder machen um eure Gruppe entstehen zu lassen?&#13;
+&#13;
 - Welche Tipps habt ihr für Menschen, die eine lokale Gruppe in dieser oder ähnlicher Form gründen möchten?</description>
         <recording>
           <license/>

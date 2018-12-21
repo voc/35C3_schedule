@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:10", 
+        "version": "Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 17:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -4917,13 +4917,13 @@
                                 "room": "Chaos West B\u00fchne", 
                                 "slug": "CHEGRS", 
                                 "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/CHEGRS", 
-                                "title": "Panel Diskussion: Gruppen von Frauen* und weiteren Minorit\u00e4ten im Umfeld des CCC", 
+                                "title": "Frauen* + NIT Gruppen im Umfeld des CCC: Wo, warum und was sind unsere Projekte", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Doppelter Slot 40 Minuten + 10 Minuten Q+A", 
                                 "language": "de", 
-                                "abstract": "Das Panel besteht aus Vertreter*innen der momentanen Gruppierungen mit einem Schwerpunkt auf Frauen* und FNIT Gruppen. Angedacht ist es, den Bogen von Feminismus im Generellen zur Planung und Umsetzung eines eigenen Spaces (Heart of Code) oder einer Gruppe, assoziiert mit einem lokalen Hackerspace (Geekfem Hamburg, Gruppe Karlsruhe, FUCK M\u00fcnchen, ...) zu schlagen. Dabei sollen Probleme, positive Erlebnisse, Strategien und Tipps f\u00fcr eine Neugr\u00fcndung gesammelt werden.", 
-                                "description": "Geplanter Verlauf:\r\n- Welche Probleme in unserer Gesellschaft aus feministischer Sicht seht ihr?\r\n- Was hat euch geholfen, euch zu gr\u00fcnden?\r\n- Welche Probleme gab es, im Space, generell, warum habt ihr euch keinem Space angeschlossen?\r\n- Wie seit ihr gegen diese angegangen, konnten diese gel\u00f6st werden?\r\n- Welche Unterst\u00fctzung br\u00e4uchtet ihr, um noch offene Probleme anzugehen in eurem Space?\r\n- Welche Unterst\u00fctzung br\u00e4uchte Mensch, um offene Probleme allgemein anzugehen?\r\n- Gibt es Dinge, Situationen, die euch positiv \u00fcberrascht haben?\r\n- Was w\u00fcrdet ihr anders, genau so wieder machen um eure Gruppe entstehen zu lassen?\r\n- Welche Tipps habt ihr f\u00fcr Menschen, die eine lokale Gruppe in dieser oder \u00e4hnlicher Form gr\u00fcnden m\u00f6chten?", 
+                                "abstract": "Das Panel besteht aus Vertreter\\*innen der F(NIT)-Gruppen aus mehreren St\u00e4dten sowie dem Mz\\* Baltazar\u2019s Lab (Wien) und den Haecksen. Angedacht ist es, den Bogen von Feminismus im Generellen zur Planung und Umsetzung eines eigenen Spaces oder einer Gruppe zu schlagen. Dabei sollen Probleme, positive Erlebnisse, Strategien und Tipps f\u00fcr eine Neugr\u00fcndung gesammelt werden.", 
+                                "description": "Geplanter Verlauf:\r\n\r\n- Welche Probleme in unserer Gesellschaft aus feministischer Sicht seht ihr?\r\n\r\n- Was hat euch geholfen, euch zu gr\u00fcnden?\r\n\r\n- Welche Probleme gab es, im Space, generell, warum habt ihr euch keinem Space angeschlossen?\r\n\r\n- Wie seit ihr gegen diese angegangen, konnten diese gel\u00f6st werden?\r\n\r\n- Welche Unterst\u00fctzung br\u00e4uchtet ihr, um noch offene Probleme anzugehen in eurem Space?\r\n\r\n- Welche Unterst\u00fctzung br\u00e4uchte Mensch, um offene Probleme allgemein anzugehen?\r\n\r\n- Gibt es Dinge, Situationen, die euch positiv \u00fcberrascht haben?\r\n\r\n- Was w\u00fcrdet ihr anders, genau so wieder machen um eure Gruppe entstehen zu lassen?\r\n\r\n- Welche Tipps habt ihr f\u00fcr Menschen, die eine lokale Gruppe in dieser oder \u00e4hnlicher Form gr\u00fcnden m\u00f6chten?", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
