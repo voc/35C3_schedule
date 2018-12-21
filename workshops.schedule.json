@@ -224,6 +224,62 @@
                         ], 
                         "Lecture room M2": [
                             {
+                                "id": 1168, 
+                                "guid": "9fd73d2b-16f5-494a-9347-c49a2458c96f", 
+                                "logo": null, 
+                                "date": "2018-12-26T22:45:00+01:00", 
+                                "start": "22:45", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Audio Angel Introduction", 
+                                "subtitle": "Experienced Audio Angel Introduction", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Audio Angel Introduction", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Angel_Introduction"
+                                ]
+                            }, 
+                            {
+                                "id": 1169, 
+                                "guid": "e03792d9-bcd9-467d-8ba9-0c6530eb2894", 
+                                "logo": null, 
+                                "date": "2018-12-26T21:45:00+01:00", 
+                                "start": "21:45", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "", 
+                                "title": "Audio Angel Introduction", 
+                                "subtitle": "Audio Mixer Angel Introduction", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Audio Angel Introduction", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Angel_Introduction"
+                                ]
+                            }, 
+                            {
                                 "id": 1021, 
                                 "guid": "0cf977dd-622f-41ab-9d10-fd9a5b6ca49a", 
                                 "logo": null, 
@@ -3127,6 +3183,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-21 18:50"
+        "version": "2018-12-21 19:00"
     }
 }

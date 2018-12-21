@@ -1473,6 +1473,134 @@
             }
         ]
     }, 
+    "Session:Audio Angel Introduction# 698b0a5509904c0cb85616f55bdcbdbf": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545864300", 
+                "raw": "1/2018/12/26/22/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Audio Angel Introduction"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Experienced Audio Angel Introduction"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Audio Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "9fd73d2b-16f5-494a-9347-c49a2458c96f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Angel_Introduction", 
+        "Has end time": [
+            {
+                "timestamp": "1545867900", 
+                "raw": "1/2018/12/26/23/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Audio Angel Introduction# a5aee8f610297f61edbe4cd35cce66b3": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545860700", 
+                "raw": "1/2018/12/26/21/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://c3voc.de/"
+        ], 
+        "Has description": [
+            "Audio Angel Introduction"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Audio Mixer Angel Introduction"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jwacalex", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Audio Angel Introduction"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e03792d9-bcd9-467d-8ba9-0c6530eb2894"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Angel_Introduction", 
+        "Has end time": [
+            {
+                "timestamp": "1545864300", 
+                "raw": "1/2018/12/26/22/45/0/0"
+            }
+        ]
+    }, 
     "Session:Audio Recording Setups# 6ded77a91ec0ffda20cd6c858ddcf29f": {
         "Held in language": [], 
         "Has start time": [
