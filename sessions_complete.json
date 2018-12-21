@@ -213,6 +213,122 @@
             }
         ]
     }, 
+    "Session:(Python) Programming for Absolute Beginners# 6fd55ad12a49ebdac3a2c68de88dd65f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545991200", 
+                "raw": "1/2018/12/28/10/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ingo (ikleiber@gmail.com)", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo_(ikleiber@gmail.com)", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "(Python) Programming for Absolute Beginners"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "637a7f7f-735b-4375-8cb3-040439073627"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
+            }
+        ]
+    }, 
+    "Session:(Python) Programming for Absolute Beginners# cbefd1524505f97831c5b402bc7895fe": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ingo (ikleiber@gmail.com)", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo_(ikleiber@gmail.com)", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "(Python) Programming for Absolute Beginners"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cf26c47b-f4ca-44c0-984e-a330f566b993"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners", 
+        "Has end time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:42birds: Hacker\u2019s Digest# c4189922d5ff66a9702b434b7b857f55": {
         "Held in language": [
             "de - German", 
