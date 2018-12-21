@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:30", 
+        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6993,7 +6993,7 @@
                                 "type": "Doppelter Slot 40 Minuten + 10 Minuten Q+A", 
                                 "language": "de", 
                                 "abstract": "Dieser Vortrag ist der Versuch, nicht-Fachleuten anhand eines Stack Buffer Overflows anschaulich zu erkl\u00e4ren und zu demonstrieren, warum und wie ein vermeintlich harmloses Dokument wie bspw. ein PDF einen Rechner mit einem Virus oder Wurm infizieren kann.", 
-                                "description": "Hast Du dich schon mal gefragt, wie es eigentlich m\u00f6glich ist, dass ein PDF, ein Office Dokument oder eine Email einen Rechner lahm legt? In diesem Vortrag gehen wir dieser Frage auf den Grund.\r\nHierbei wird versucht, unwichtige Details weg zu lassen, nur die n\u00f6tigsten Fachw\u00f6rter zu verwenden und diese auch zu erkl\u00e4ren. An einigen technischen Details kommen wir leider nicht vorbei, diese werden aber vereinfacht dargestellt, um m\u00f6glichst viele erreichen und mitnehmen zu k\u00f6nnen. Als Beispiel dient ein klassischer Stack Buffer Overflow wie im ber\u00fchmten Artikel \"Smashing the Stack for Fun and Profit\" beschrieben.\r\nWenn die Demo-G\u00f6tter gut gelaunt sind, \"infiziert\" der Vortragende am Ende live seinen eigenen Rechner mit dem vorgestellten Verfahren.\r\n\r\nZielgruppe: Alle au\u00dfer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)\r\n\r\nQuellcode von Folien und Demo: https://gitlab.com/chaos-siegen/oektion/vortrag/buffer_overflow", 
+                                "description": "Hast Du dich schon mal gefragt, wie es eigentlich m\u00f6glich ist, dass ein PDF, ein Office Dokument oder eine Email einen Rechner lahm legt? In diesem Vortrag gehen wir dieser Frage auf den Grund.\r\nHierbei wird versucht, unwichtige Details weg zu lassen, nur die n\u00f6tigsten Fachw\u00f6rter zu verwenden und diese auch zu erkl\u00e4ren. An einigen technischen Details kommen wir leider nicht vorbei, diese werden aber vereinfacht dargestellt, um m\u00f6glichst viele erreichen und mitnehmen zu k\u00f6nnen. Als Beispiel dient ein klassischer Stack Buffer Overflow wie im ber\u00fchmten Artikel \"Smashing the Stack for Fun and Profit\" beschrieben.\r\nWenn die Demo-G\u00f6tter gut gelaunt sind, \"infiziert\" der Vortragende am Ende live seinen eigenen Rechner mit dem vorgestellten Verfahren.\r\n\r\nZielgruppe: Alle au\u00dfer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)  \r\nQuellcode von Folien und Demo: https://gitlab.com/chaos-siegen/oektion/vortrag/buffer_overflow", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -8259,6 +8259,28 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
+                                ]
+                            }, 
+                            {
+                                "id": 1164, 
+                                "guid": "f3e0c5cd-f290-4973-abc6-03644246373c", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Moving Objects Selbsthilfegruppe", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Treffen von Leuten, die gerne fahrende Dinge bauen. Hier gibts support und tipps f\u00fcr alles mit elektrischem Antrieb, insbesondere mit Hoverboard-Teilen. Haupts\u00e4chlich Elektronik-und Firmware-patching, aber auch vorort-Grobmechanik ist wohl m\u00f6glich.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://github.com/NiklasFauth/hoverboard-firmware-hack", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe"
                                 ]
                             }, 
                             {
@@ -14444,7 +14466,7 @@
                                 "logo": null, 
                                 "date": "2018-12-30T11:00:00+01:00", 
                                 "start": "11:00", 
-                                "duration": "3:59", 
+                                "duration": "5:59", 
                                 "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
                                 "title": "Learn To Solder", 

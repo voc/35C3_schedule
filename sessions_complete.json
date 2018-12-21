@@ -4736,7 +4736,7 @@
             }
         ]
     }, 
-    "Session:Learn To Solder# 002fbcf7ea6b9baba04c1365046917b9": {
+    "Session:Learn To Solder# 13147c0b7edff7234c6caa0145f79c09": {
         "Held in language": [
             "en - English"
         ], 
@@ -4781,7 +4781,7 @@
             "Learn To Solder"
         ], 
         "Has duration": [
-            239
+            359
         ], 
         "GUID": [
             "97139265-b30a-44f0-b79f-da5c1dbcae27"
@@ -4792,8 +4792,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder", 
         "Has end time": [
             {
-                "timestamp": "1546181940", 
-                "raw": "1/2018/12/30/14/59/0/0"
+                "timestamp": "1546189140", 
+                "raw": "1/2018/12/30/16/59/0/0"
             }
         ]
     }, 
@@ -5614,6 +5614,60 @@
             {
                 "timestamp": "1546110000", 
                 "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Moving Objects Selbsthilfegruppe# a695ae50c779d9a7cabe0a97eb910d1d": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/NiklasFauth/hoverboard-firmware-hack"
+        ], 
+        "Has description": [
+            "Treffen von Leuten, die gerne fahrende Dinge bauen. Hier gibts support und tipps f\u00fcr alles mit elektrischem Antrieb, insbesondere mit Hoverboard-Teilen. Haupts\u00e4chlich Elektronik-und Firmware-patching, aber auch vorort-Grobmechanik ist wohl m\u00f6glich."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Moving Objects Selbsthilfegruppe"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "f3e0c5cd-f290-4973-abc6-03644246373c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe", 
+        "Has end time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
             }
         ]
     }, 

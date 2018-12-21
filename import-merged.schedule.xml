@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:30</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -5130,8 +5130,7 @@ http://www.NerdGirl.de/Download/Neusprech.zip (17,3 MB | .odp-Format)</descripti
 Hierbei wird versucht, unwichtige Details weg zu lassen, nur die nötigsten Fachwörter zu verwenden und diese auch zu erklären. An einigen technischen Details kommen wir leider nicht vorbei, diese werden aber vereinfacht dargestellt, um möglichst viele erreichen und mitnehmen zu können. Als Beispiel dient ein klassischer Stack Buffer Overflow wie im berühmten Artikel "Smashing the Stack for Fun and Profit" beschrieben.&#13;
 Wenn die Demo-Götter gut gelaunt sind, "infiziert" der Vortragende am Ende live seinen eigenen Rechner mit dem vorgestellten Verfahren.&#13;
 &#13;
-Zielgruppe: Alle außer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)&#13;
-&#13;
+Zielgruppe: Alle außer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)  &#13;
 Quellcode von Folien und Demo: https://gitlab.com/chaos-siegen/oektion/vortrag/buffer_overflow</description>
         <recording>
           <license/>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:30</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6837,8 +6837,7 @@ http://www.NerdGirl.de/Download/Neusprech.zip (17,3 MB | .odp-Format)</descripti
 Hierbei wird versucht, unwichtige Details weg zu lassen, nur die nötigsten Fachwörter zu verwenden und diese auch zu erklären. An einigen technischen Details kommen wir leider nicht vorbei, diese werden aber vereinfacht dargestellt, um möglichst viele erreichen und mitnehmen zu können. Als Beispiel dient ein klassischer Stack Buffer Overflow wie im berühmten Artikel "Smashing the Stack for Fun and Profit" beschrieben.&#13;
 Wenn die Demo-Götter gut gelaunt sind, "infiziert" der Vortragende am Ende live seinen eigenen Rechner mit dem vorgestellten Verfahren.&#13;
 &#13;
-Zielgruppe: Alle außer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)&#13;
-&#13;
+Zielgruppe: Alle außer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)  &#13;
 Quellcode von Folien und Demo: https://gitlab.com/chaos-siegen/oektion/vortrag/buffer_overflow</description>
         <recording>
           <license/>
@@ -8120,6 +8119,26 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1164" guid="f3e0c5cd-f290-4973-abc6-03644246373c">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Moving Objects Selbsthilfegruppe</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Treffen von Leuten, die gerne fahrende Dinge bauen. Hier gibts support und tipps für alles mit elektrischem Antrieb, insbesondere mit Hoverboard-Teilen. Hauptsächlich Elektronik-und Firmware-patching, aber auch vorort-Grobmechanik ist wohl möglich.</description>
+        <persons/>
+        <links>
+          <link>https://github.com/NiklasFauth/hoverboard-firmware-hack</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe</link>
         </links>
       </event>
       <event id="1109" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4281">
@@ -14022,7 +14041,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
         <start>11:00</start>
-        <duration>3:59</duration>
+        <duration>5:59</duration>
         <room>Assembly:Hardware Hacking Area</room>
         <slug/>
         <title>Learn To Solder</title>
