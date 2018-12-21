@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:10", 
+        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -4032,36 +4032,34 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Curry Club Augsburg": [
+                        "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1080, 
-                                "guid": "2ee4399d-d40c-4ba7-80a8-84de8ce6b219", 
+                                "id": 1162, 
+                                "guid": "78573056-55af-4984-90cd-f2a527970841", 
                                 "logo": null, 
-                                "date": "2018-12-27T15:45:00+01:00", 
-                                "start": "15:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:Curry Club Augsburg", 
+                                "date": "2018-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "6:59", 
+                                "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
-                                "title": "Memorizing pi for fun (not for profit)", 
+                                "title": "Learn To Solder", 
                                 "subtitle": "Day 1", 
                                 "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
+                                "type": "workshop", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
+                                "description": "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br> <br> <span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''</span>", 
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
                                     }
                                 ], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
                                 ]
-                            }
-                        ], 
-                        "Assembly:Hardware Hacking Area": [
+                            }, 
                             {
                                 "id": 1108, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4278", 
@@ -4114,6 +4112,35 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Curry Club Augsburg": [
+                            {
+                                "id": 1080, 
+                                "guid": "2ee4399d-d40c-4ba7-80a8-84de8ce6b219", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:45:00+01:00", 
+                                "start": "15:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:Curry Club Augsburg", 
+                                "slug": "", 
+                                "title": "Memorizing pi for fun (not for profit)", 
+                                "subtitle": "Day 1", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
                                 ]
                             }
                         ]
@@ -8208,6 +8235,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1161, 
+                                "guid": "7d87a7a1-015f-50f9-a6e6-783a4320f1ff", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "12:59", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Learn To Solder", 
+                                "subtitle": "Day 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br> <br> <span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''</span>", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
+                                ]
+                            }, 
+                            {
                                 "id": 1109, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4281", 
                                 "logo": null, 
@@ -8345,6 +8399,30 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                ]
+                            }
+                        ], 
+                        "Chillout Space aka Shutter Island (CCL Level -1)": [
+                            {
+                                "id": 1163, 
+                                "guid": "628ce599-e3ef-4568-87d0-2f647ebe6f2b", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Chillout Space aka Shutter Island (CCL Level -1)", 
+                                "slug": "", 
+                                "title": "Open-Science-AG/de-RSE MeetUp", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meet Up of the Open Science and de-RSE (Research Software Engineers) community. Everybody how is interested in open science and software engineering in research in general is interested to join. Come by and get to know us! :D", 
+                                "persons": [], 
+                                "links": [
+                                    "http://de-rse.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open-Science-AG/de-RSE_MeetUp"
                                 ]
                             }
                         ], 
@@ -12527,6 +12605,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1160, 
+                                "guid": "98125fad-be77-505a-903b-1e6f587c8997", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "12:59", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Learn To Solder", 
+                                "subtitle": "Day 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br> <br> <span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''</span>", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
+                                ]
+                            }, 
+                            {
                                 "id": 1111, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4284", 
                                 "logo": null, 
@@ -14331,6 +14436,33 @@
                                 "links": [
                                     "https://cornfieldelectronics.com/cfe/projects.php#ardutouch", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1159, 
+                                "guid": "97139265-b30a-44f0-b79f-da5c1dbcae27", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:59", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Learn To Solder", 
+                                "subtitle": "Day 4", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.<br> <br> <span style=\"color:orange\">'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''</span>", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
                                 ]
                             }, 
                             {
