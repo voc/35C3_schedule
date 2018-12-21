@@ -1313,8 +1313,8 @@
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo_(ikleiber@gmail.com)", 
-                                        "public_name": "Ingo (ikleiber@gmail.com)"
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                                        "public_name": "Ingo"
                                     }
                                 ], 
                                 "links": [
@@ -1340,8 +1340,8 @@
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo_(ikleiber@gmail.com)", 
-                                        "public_name": "Ingo (ikleiber@gmail.com)"
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                                        "public_name": "Ingo"
                                     }
                                 ], 
                                 "links": [
@@ -3259,6 +3259,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 00:40"
+        "version": "2018-12-22 00:50"
     }
 }
