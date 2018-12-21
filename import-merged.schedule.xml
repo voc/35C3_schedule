@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:00</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:10</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2191,8 +2191,12 @@ Wir beschreiben, wie der Vergleich durchgeführt wird und wie die Daten erfasst 
         <track/>
         <type>Doppelter Slot 40 Minuten + 10 Minuten Q+A</type>
         <language>de</language>
-        <abstract>Die Faxgeräte im Zentrum der Macht</abstract>
-        <description>Die Faxgeräte im Zentrum der Macht</description>
+        <abstract>Welche Bemühungen zur Digitalisierung des Bundestages gibt es, warum "ein Pad und ein Wiki" eben nicht ausreicht, was man noch so tun könnte und wofür man eigentlich immer noch Faxgeräte in der Politik braucht - darüber diskutieren Julia (Bundestag, netzpolitik.org, cihr.eu), Ijon (Bundestag, LOAD e.V.) und Walter (Open Knowledge Foundation), moderiert von Noujoum.</abstract>
+        <description>In Fragen der Digitalisierung des Staates ist Deutschland weit hinter andere europäische Länder zurückgefallen, die Politik soll es jetzt (endlich) richten, ist aber selbst noch hoffnungslos analog.&#13;
+&#13;
+Die politischen Prozesse und bürokratischen Abläufe im Bundestag sind den Politiknerds Ijon, Noujoum und Julia als Mitarbeitende von Abgeordneten im Bundestag im Detail vertraut.&#13;
+&#13;
+Welche Bemühungen es gibt, warum "ein Pad und ein Wiki" eben nicht ausreichen, was man noch so tun könnte und wofür man eigentlich immer noch Faxgeräte in der Politik braucht - darüber diskutieren Julia (Bundestag, netzpolitik.org, cihr.eu), Ijon (Bundestag, LOAD e.V.) und Walter (Open Knowledge Foundation), moderiert von Noujoum.</description>
         <recording>
           <license/>
           <optout>false</optout>
