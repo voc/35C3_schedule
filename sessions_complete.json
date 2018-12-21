@@ -6829,6 +6829,59 @@
             }
         ]
     }, 
+    "Session:Structure and Content of the Visible Darknet# e39a35ffd986fef6d3e0d901b6d1cc9d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://github.com/decrypto-org/spider"
+        ], 
+        "Has description": [
+            "We analyzed the topology and the content found on the \"darknet\", the set of websites accessible via Tor. We created a darknet spider and crawled the darknet starting from a bootstrap list by recursively following links."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Structure and Content of the Visible Darknet"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "1dc4e117-7e7d-469b-bf40-83fe67abbaf2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Structure_and_Content_of_the_Visible_Darknet", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Subtitles Angelmeeting# 1699d1fc1393f253fdd5ca7c1a7a59fa": {
         "Held in language": [
             "en - English"

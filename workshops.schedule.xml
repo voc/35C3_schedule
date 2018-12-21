@@ -2376,6 +2376,26 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
         </links>
       </event>
+      <event id="1165" guid="1dc4e117-7e7d-469b-bf40-83fe67abbaf2">
+        <logo/>
+        <date>2018-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>Structure and Content of the Visible Darknet</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>We analyzed the topology and the content found on the "darknet", the set of websites accessible via Tor. We created a darknet spider and crawled the darknet starting from a bootstrap list by recursively following links.</description>
+        <persons/>
+        <links>
+          <link>https://github.com/decrypto-org/spider</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Structure_and_Content_of_the_Visible_Darknet</link>
+        </links>
+      </event>
       <event id="1126" guid="4be5dc31-e708-4b61-a867-9569ccf60b5b">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
@@ -2555,5 +2575,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-21 17:40</version>
+  <version>2018-12-21 17:50</version>
 </schedule>
