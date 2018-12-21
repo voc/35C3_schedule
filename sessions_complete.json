@@ -1235,6 +1235,132 @@
             }
         ]
     }, 
+    "Session:Arduino For Total Newbies# 041dcd448c1db3c85b708ccc7fd630be": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
+        ], 
+        "Has description": [
+            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Arduino For Total Newbies"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "GUID": [
+            "284f5180-654d-41a6-80f0-5a4ac6c265c0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies", 
+        "Has end time": [
+            {
+                "timestamp": "1546014600", 
+                "raw": "1/2018/12/28/16/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Arduino For Total Newbies# 418196bfc2d6c83b158b419742e3b5a9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php"
+        ], 
+        "Has description": [
+            "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Arduino For Total Newbies"
+        ], 
+        "Has duration": [
+            210
+        ], 
+        "GUID": [
+            "bc7db31d-00e1-4c39-a982-9fb40d344728"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies", 
+        "Has end time": [
+            {
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
+            }
+        ]
+    }, 
     "Session:Audio Recording Setups# 6ded77a91ec0ffda20cd6c858ddcf29f": {
         "Held in language": [], 
         "Has start time": [

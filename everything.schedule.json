@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:20", 
+        "version": "Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 11:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8178,66 +8178,35 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Foodhackingbase": [
+                        "Assembly:Hardware Hacking Area": [
                             {
-                                "id": 1069, 
-                                "guid": "f3c8a25c-3a1b-436e-916f-4388c9c452f3", 
+                                "id": 1155, 
+                                "guid": "284f5180-654d-41a6-80f0-5a4ac6c265c0", 
                                 "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Foodhackingbase", 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
                                 "slug": "", 
-                                "title": "Kefir Making", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We will learn how to work with kefir culture making variety of delicious products.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
-                                        "public_name": "Algoldor"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://foodhackingbase.org/wiki/Kefir_making_35c3", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Curry Club Augsburg": [
-                            {
-                                "id": 1082, 
-                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
-                                "logo": null, 
-                                "date": "2018-12-28T14:45:00+01:00", 
-                                "start": "14:45", 
-                                "duration": "0:15", 
-                                "room": "Assembly:Curry Club Augsburg", 
-                                "slug": "", 
-                                "title": "Memorizing pi for fun (not for profit)", 
+                                "title": "Arduino For Total Newbies", 
                                 "subtitle": "Day 2", 
                                 "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
+                                "type": "workshop", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
+                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
                                     }
                                 ], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                    "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies"
                                 ]
-                            }
-                        ], 
-                        "Assembly:Hardware Hacking Area": [
+                            }, 
                             {
                                 "id": 1109, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4281", 
@@ -8317,6 +8286,65 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Foodhackingbase": [
+                            {
+                                "id": 1069, 
+                                "guid": "f3c8a25c-3a1b-436e-916f-4388c9c452f3", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "", 
+                                "title": "Kefir Making", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We will learn how to work with kefir culture making variety of delicious products.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                                        "public_name": "Algoldor"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Kefir_making_35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Curry Club Augsburg": [
+                            {
+                                "id": 1082, 
+                                "guid": "394415d7-f3d1-493f-9dc9-7cf6d89be98a", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:45:00+01:00", 
+                                "start": "14:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:Curry Club Augsburg", 
+                                "slug": "", 
+                                "title": "Memorizing pi for fun (not for profit)", 
+                                "subtitle": "Day 2", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
                                 ]
                             }
                         ], 
@@ -12447,6 +12475,117 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Hardware Hacking Area": [
+                            {
+                                "id": 1156, 
+                                "guid": "bc7db31d-00e1-4c39-a982-9fb40d344728", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Arduino For Total Newbies", 
+                                "subtitle": "Day 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "''Learn Arduino using TV-B-Gone as an example project''<br> <br> You've probably heard lots about '''Arduino'''. But if you don't know what it is, or how you can use it to do all sorts of cool things, then this fun and easy workshop is for you. As an example project, we'll be creating a '''TV-B-Gone''' remote control out of an '''Arduino''' you can take home with you.<br> <br> ''(This is one of many cool things happening throughout 34C3 in the huge '''Hardware Hacking Area!)'''''<br> <br> This workshop will be given twice<br>(both identical):<br> &nbsp;&nbsp;&nbsp;Day 2: 28-Dec, 1pm - 4:30pm<br> &nbsp;&nbsp;&nbsp;Day 3: 29-Dec, 1pm - 4:30pm<br>", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies"
+                                ]
+                            }, 
+                            {
+                                "id": 1111, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4284", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3, session 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1113, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4283", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3, session 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1114, 
+                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4282", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Surface mount electronics assembly for terrified beginners", 
+                                "subtitle": "Day 3, session 1", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }
+                        ], 
                         "Assembly:Foodhackingbase": [
                             {
                                 "id": 1034, 
@@ -12588,89 +12727,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Hardware Hacking Area": [
-                            {
-                                "id": 1111, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4284", 
-                                "logo": null, 
-                                "date": "2018-12-29T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3, session 3", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1113, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4283", 
-                                "logo": null, 
-                                "date": "2018-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3, session 2", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1114, 
-                                "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4282", 
-                                "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "", 
-                                "title": "Surface mount electronics assembly for terrified beginners", 
-                                "subtitle": "Day 3, session 1", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20\u20ac/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
-                                        "public_name": "Kliment"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
                                 ]
                             }
                         ]
