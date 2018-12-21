@@ -1,5 +1,5 @@
 <schedule>
-  <version>Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 00:50</version>
+  <version>Buffy 2.1 0.9.10 v1.4 0.4 2018-12-21 01:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -120,10 +120,10 @@ Are we doomed?  Perhaps not.  This talk will highlight the sorry state of the ar
           <person id="5247">Peter Sewell</person>
         </persons>
         <links>
-          <link hef="https://www.cl.cam.ac.uk/~pes20/rems/">REMS</link>
-          <link hef="https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/">CHERI</link>
-          <link hef="http://www.cl.cam.ac.uk/~pes20/sail/">Sail ISA Description Language and Models</link>
-          <link hef="https://www.cl.cam.ac.uk/~pes20/cerberus/">Cerberus C Semantics</link>
+          <link href="https://www.cl.cam.ac.uk/~pes20/rems/">REMS</link>
+          <link href="https://www.cl.cam.ac.uk/research/security/ctsrd/cheri/">CHERI</link>
+          <link href="http://www.cl.cam.ac.uk/~pes20/sail/">Sail ISA Description Language and Models</link>
+          <link href="https://www.cl.cam.ac.uk/~pes20/cerberus/">Cerberus C Semantics</link>
         </links>
         <attachments/>
       </event>
@@ -273,7 +273,7 @@ Und wir haben ein paar Forderungen.</description>
           <person id="1630">Constanze Kurz</person>
         </persons>
         <links>
-          <link hef="https://netzpolitik.org/tag/polizeigesetz/">Berichterstattung zu den Polizeigesetzen bei netzpolitik.org</link>
+          <link href="https://netzpolitik.org/tag/polizeigesetz/">Berichterstattung zu den Polizeigesetzen bei netzpolitik.org</link>
         </links>
         <attachments/>
       </event>
@@ -335,9 +335,9 @@ The talk will give an overview of the developments that led to TLS 1.3, the majo
           <person id="2462">hanno</person>
         </persons>
         <links>
-          <link hef="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_44_tls_1_3_is_here">TLS 1.3 is here</link>
-          <link hef="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_33_why_tls_13_isnt_there_yet">Why TLS 1.3 isn’t there yet</link>
-          <link hef="https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html">TLS 1.3: Die Zukunft der Netzverschlüsselung</link>
+          <link href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_44_tls_1_3_is_here">TLS 1.3 is here</link>
+          <link href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_33_why_tls_13_isnt_there_yet">Why TLS 1.3 isn’t there yet</link>
+          <link href="https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html">TLS 1.3: Die Zukunft der Netzverschlüsselung</link>
         </links>
         <attachments/>
       </event>
@@ -393,7 +393,7 @@ The research we conduct at Censored Planet provides unique insights and data poi
           <person id="8385">Roya Ensafi</person>
         </persons>
         <links>
-          <link hef="https://censoredplanet.org">Censored Planet: a Global Censorship Observatory </link>
+          <link href="https://censoredplanet.org">Censored Planet: a Global Censorship Observatory </link>
         </links>
         <attachments/>
       </event>
@@ -487,7 +487,7 @@ Architectural vulnerabilities are vulnerabilities affecting the overall architec
           <person id="4958">Josh Datko</person>
         </persons>
         <links>
-          <link hef="https://wallet.fail">wallet.fail website</link>
+          <link href="https://wallet.fail">wallet.fail website</link>
         </links>
         <attachments/>
       </event>
@@ -518,7 +518,7 @@ Im Vortrag soll der Stand der Aufklärung im NSU-Komplex umrissen werden und dis
           <person id="8543">Caro Keller (NSU-Watch)</person>
         </persons>
         <links>
-          <link hef="nsu-watch.info">NSU-Watch</link>
+          <link href="nsu-watch.info">NSU-Watch</link>
         </links>
         <attachments/>
       </event>
@@ -594,10 +594,10 @@ Was mit CRISPR getan wird - darüber sollte es einen breiten Dialog in der Gesel
           <person id="6574">KaLeiMai</person>
         </persons>
         <links>
-          <link hef="http://scienceblogs.de/diekleinendinge/">Blog André Lampe / anderelampe</link>
-          <link hef="https://zellmedien.de/">Anna Müllner / Adora Belle </link>
-          <link hef="https://wirkstoffradio.de">Wirkstoffradio</link>
-          <link hef="https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0">kuratierte Podcastepisoden über CRISPR &amp; Co.</link>
+          <link href="http://scienceblogs.de/diekleinendinge/">Blog André Lampe / anderelampe</link>
+          <link href="https://zellmedien.de/">Anna Müllner / Adora Belle </link>
+          <link href="https://wirkstoffradio.de">Wirkstoffradio</link>
+          <link href="https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0">kuratierte Podcastepisoden über CRISPR &amp; Co.</link>
         </links>
         <attachments/>
       </event>
@@ -670,10 +670,10 @@ We will start with a crash-course covering fundamentals related to instruction d
           <person id="7984">Philipp Koppe</person>
         </persons>
         <links>
-          <link hef="https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask">Our 34C3 talk on microcode</link>
-          <link hef="https://www.syssec.rub.de/research/publications/constructive-microcode/">Paper with our new insights, to-be-presented on CCS 2018</link>
-          <link hef="https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe">Original microcode paper and corresponding talk</link>
-          <link hef="https://github.com/RUB-SysSec/Microcode">Github project - to be updated</link>
+          <link href="https://media.ccc.de/v/34c3-9058-everything_you_want_to_know_about_x86_microcode_but_might_have_been_afraid_to_ask">Our 34C3 talk on microcode</link>
+          <link href="https://www.syssec.rub.de/research/publications/constructive-microcode/">Paper with our new insights, to-be-presented on CCS 2018</link>
+          <link href="https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe">Original microcode paper and corresponding talk</link>
+          <link href="https://github.com/RUB-SysSec/Microcode">Github project - to be updated</link>
         </links>
         <attachments/>
       </event>
@@ -735,7 +735,7 @@ Dieser Talk zeigt, wie die AfD-Fraktion die Netzpolitik dennoch als vermeintlich
           <person id="4918">Noujoum</person>
         </persons>
         <links>
-          <link hef="https://seyborg.de/">Blog</link>
+          <link href="https://seyborg.de/">Blog</link>
         </links>
         <attachments/>
       </event>
@@ -767,7 +767,7 @@ In this talk, we will detail the full infection chain showing how Sednit was abl
           <person id="8388">Frédéric Vachon</person>
         </persons>
         <links>
-          <link hef="https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf">LOJAX: First UEFI rootkit found in the wild, courtesy of the Sednit group (white paper)</link>
+          <link href="https://www.welivesecurity.com/wp-content/uploads/2018/09/ESET-LoJax.pdf">LOJAX: First UEFI rootkit found in the wild, courtesy of the Sednit group (white paper)</link>
         </links>
         <attachments/>
       </event>
@@ -891,8 +891,8 @@ We have little time to stop these threats from becoming a reality, but we have m
           <person id="8770">Andreea Belu (EDRi)</person>
         </persons>
         <links>
-          <link hef="https://edri.org/press-release-eu-parliament-flip-flops-backwards-on-copyright/">EDRi's analysis on the adoption of upload filters</link>
-          <link hef="https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back">EFF analysis of upload filters in the EU</link>
+          <link href="https://edri.org/press-release-eu-parliament-flip-flops-backwards-on-copyright/">EDRi's analysis on the adoption of upload filters</link>
+          <link href="https://www.eff.org/deeplinks/2018/09/today-europe-lost-internet-now-we-fight-back">EFF analysis of upload filters in the EU</link>
         </links>
         <attachments/>
       </event>
@@ -925,7 +925,7 @@ Nach etwas mehr als der Hälfte meiner vierjährigen Periode möchte ich im Rahm
           <person id="4212">Leonhard Dobusch</person>
         </persons>
         <links>
-          <link hef="https://netzpolitik.org/neues-aus-dem-fernsehrat/">Reihe "Neues aus dem Fernsehrat" bei netzpolitik.org</link>
+          <link href="https://netzpolitik.org/neues-aus-dem-fernsehrat/">Reihe "Neues aus dem Fernsehrat" bei netzpolitik.org</link>
         </links>
         <attachments/>
       </event>
@@ -1051,12 +1051,12 @@ The discussion will include:&#13;
           <person id="8162">hammes hacks</person>
         </persons>
         <links>
-          <link hef="http://hammeshacks.com/">Project Webpage</link>
-          <link hef="https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A">Youtube Channel</link>
+          <link href="http://hammeshacks.com/">Project Webpage</link>
+          <link href="https://www.youtube.com/channel/UCuMGhT5u-Y6Ju8j4m7s8X2A">Youtube Channel</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/507/original/IMG_20181008_181143.jpg?1539015548">shamrock</attachment>
-          <attachment hef="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/507/original/IMG_20181008_181143.jpg?1539015548">shamrock</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9386" guid="527b56af-8d56-4edb-9027-9ca60767c742">
@@ -1086,7 +1086,7 @@ One of the most common applications of deep learning is the interpretation of im
           <person id="8117">teubi</person>
         </persons>
         <links>
-          <link hef="https://www.nussschale-podcast.de">Nussschale Podcast</link>
+          <link href="https://www.nussschale-podcast.de">Nussschale Podcast</link>
         </links>
         <attachments/>
       </event>
@@ -1117,7 +1117,7 @@ Nun werden auch die technischen Fähigkeiten von „Copernicus“ ausgebaut. Das
         </persons>
         <links/>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021"> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021"> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</attachment>
         </attachments>
       </event>
       <event id="9909" guid="65563dfd-db48-41ea-85a9-e889dd673d09">
@@ -1160,8 +1160,8 @@ Warum ist die Rolle der Menschenrechtsbeobachter, selbst in Europa, so wichtig?<
           <person id="8743">Nina Gassmann</person>
         </persons>
         <links>
-          <link hef="https://mare-liberum.org">Mare Liberum e. V.</link>
-          <link hef="https://mare-liberum.org/de/support">Unterstützung</link>
+          <link href="https://mare-liberum.org">Mare Liberum e. V.</link>
+          <link href="https://mare-liberum.org/de/support">Unterstützung</link>
         </links>
         <attachments/>
       </event>
@@ -1243,9 +1243,9 @@ In this talk I will cover voicemail systems, it's security and how we can use ol
           <person id="7159">Martin Vigo</person>
         </persons>
         <links>
-          <link hef="https://www.martinvigo.com/demo_bruteforcing.mp4">Bruteforcing a voicemail PIN with voicemailcracker</link>
-          <link hef="https://www.martinvigo.com/demo_whatsapp.mp4">Compromising WhatsApp with voicemailcracker</link>
-          <link hef="https://www.martinvigo.com/demo_paypal.mp4">Compromising Paypal with voicemailcracker</link>
+          <link href="https://www.martinvigo.com/demo_bruteforcing.mp4">Bruteforcing a voicemail PIN with voicemailcracker</link>
+          <link href="https://www.martinvigo.com/demo_whatsapp.mp4">Compromising WhatsApp with voicemailcracker</link>
+          <link href="https://www.martinvigo.com/demo_paypal.mp4">Compromising Paypal with voicemailcracker</link>
         </links>
         <attachments/>
       </event>
@@ -1274,7 +1274,7 @@ Over the last years at University of Cambridge I contributed to a formal model o
           <person id="1626">Hannes Mehnert</person>
         </persons>
         <links>
-          <link hef="https://www.cl.cam.ac.uk/~pes20/Netsem/paper3.pdf">Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API</link>
+          <link href="https://www.cl.cam.ac.uk/~pes20/Netsem/paper3.pdf">Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API</link>
         </links>
         <attachments/>
       </event>
@@ -1352,12 +1352,12 @@ In diesem Vortrag werden wir uns den Weg der Open Source firmware  Entwicklung v
           <person id="8332">zaolin</person>
         </persons>
         <links>
-          <link hef="www.coreboot.org">coreboot</link>
-          <link hef="www.linuxboot.org">LinuxBoot</link>
-          <link hef="www.denx.de/wiki/U-Boot">U-Boot</link>
-          <link hef="www.tianocore.org">TianoCore</link>
-          <link hef="www.trustedfirmware.org">ARM Trusted Firmware</link>
-          <link hef="github.com/open-power/hostboot">Hostboot</link>
+          <link href="www.coreboot.org">coreboot</link>
+          <link href="www.linuxboot.org">LinuxBoot</link>
+          <link href="www.denx.de/wiki/U-Boot">U-Boot</link>
+          <link href="www.tianocore.org">TianoCore</link>
+          <link href="www.trustedfirmware.org">ARM Trusted Firmware</link>
+          <link href="github.com/open-power/hostboot">Hostboot</link>
         </links>
         <attachments/>
       </event>
@@ -1420,7 +1420,7 @@ In addition, the talk will cover selected areas of the physics programme of this
           <person id="6836">Jost Migenda</person>
         </persons>
         <links>
-          <link hef="http://www.hyperk.org">Hyper-Kamiokande website</link>
+          <link href="http://www.hyperk.org">Hyper-Kamiokande website</link>
         </links>
         <attachments/>
       </event>
@@ -1455,10 +1455,10 @@ Once we get a hang on this, the machinery park in the clean room allows us to sh
           <person id="8731">Andreas Westerwick</person>
         </persons>
         <links>
-          <link hef="https://github.com/leviathanch/qtflow">QtFlow</link>
-          <link hef="https://github.com/chipforge/StdCellLib">Standard Cell Lib</link>
-          <link hef="http://libresilicon.com/">LibreSilicon project page</link>
-          <link hef="https://github.com/chipforge/PearlRiver">PearlRiver test wafer</link>
+          <link href="https://github.com/leviathanch/qtflow">QtFlow</link>
+          <link href="https://github.com/chipforge/StdCellLib">Standard Cell Lib</link>
+          <link href="http://libresilicon.com/">LibreSilicon project page</link>
+          <link href="https://github.com/chipforge/PearlRiver">PearlRiver test wafer</link>
         </links>
         <attachments/>
       </event>
@@ -1493,10 +1493,10 @@ Another Disclaimer: We guarantee an entertaining talk. :) </abstract>
           <person id="8148">Mark Lechtik</person>
         </persons>
         <links>
-          <link hef="https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/">Full technical publication of the research</link>
-          <link hef="https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/055/original/RECON-MTL-2018-silivaccine_weapon_of_mass_detection.pdf">Slide deck of this talk, as presented in REcon Montreal 2018</link>
-          <link hef="https://www.forbes.com/sites/thomasbrewster/2018/05/01/north-korea-antivirus-has-mystery-code-from-trend-micro/">A publication on the research from Forbes magazine (good non-technical summary)</link>
-          <link hef="https://www.theregister.co.uk/2018/05/02/north_korea_silivaccine_av_software_analysis/">An even shorter summary from The Register</link>
+          <link href="https://research.checkpoint.com/silivaccine-a-look-inside-north-koreas-anti-virus/">Full technical publication of the research</link>
+          <link href="https://recon.cx/2018/montreal/schedule/system/event_attachments/attachments/000/000/055/original/RECON-MTL-2018-silivaccine_weapon_of_mass_detection.pdf">Slide deck of this talk, as presented in REcon Montreal 2018</link>
+          <link href="https://www.forbes.com/sites/thomasbrewster/2018/05/01/north-korea-antivirus-has-mystery-code-from-trend-micro/">A publication on the research from Forbes magazine (good non-technical summary)</link>
+          <link href="https://www.theregister.co.uk/2018/05/02/north_korea_silivaccine_av_software_analysis/">An even shorter summary from The Register</link>
         </links>
         <attachments/>
       </event>
@@ -1531,8 +1531,8 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
           <person id="6147">Zenna / zelf</person>
         </persons>
         <links>
-          <link hef="https://www.scuttlebutt.nz/">Scuttlebutt</link>
-          <link hef="https://www.manyver.se/">Manyverse - Mobile Client for Scuttlebutt </link>
+          <link href="https://www.scuttlebutt.nz/">Scuttlebutt</link>
+          <link href="https://www.manyver.se/">Manyverse - Mobile Client for Scuttlebutt </link>
         </links>
         <attachments/>
       </event>
@@ -1575,7 +1575,7 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
           <person id="8521">Jürgen Pahle</person>
         </persons>
         <links>
-          <link hef="https://lab.pahle.org">Research group homepage</link>
+          <link href="https://lab.pahle.org">Research group homepage</link>
         </links>
         <attachments/>
       </event>
@@ -1607,7 +1607,7 @@ The medium "Virtual Reality" takes all its sense in this project, allowing an im
           <person id="8728">Sélim Harbi</person>
         </persons>
         <links>
-          <link hef="https://vimeo.com/254095649">Afroroutes trailer </link>
+          <link href="https://vimeo.com/254095649">Afroroutes trailer </link>
         </links>
         <attachments/>
       </event>
@@ -1676,7 +1676,7 @@ We will also share our website [currently under final revisions, will be open to
         </persons>
         <links/>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/526/original/ICA-London.jpg?1539525271">Cornelia Sollfrank at ICA London</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/526/original/ICA-London.jpg?1539525271">Cornelia Sollfrank at ICA London</attachment>
         </attachments>
       </event>
       <event id="10024" guid="85ec8360-737b-4ee3-be2d-d8e050b1d117">
@@ -1704,8 +1704,8 @@ We will also share our website [currently under final revisions, will be open to
           <person id="8734">Angela Washko</person>
         </persons>
         <links>
-          <link hef="www.angelawashko.com">Artist Website</link>
-          <link hef="www.art.cmu.edu/people/angela-washko/">Assistant Professor of Art, Carnegie Mellon University</link>
+          <link href="www.angelawashko.com">Artist Website</link>
+          <link href="www.art.cmu.edu/people/angela-washko/">Assistant Professor of Art, Carnegie Mellon University</link>
         </links>
         <attachments/>
       </event>
@@ -1786,8 +1786,8 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <person id="5824">Sergey Gordeychik</person>
         </persons>
         <links>
-          <link hef="http://www.scada.sl/search/label/sd-wan">SD-WAN New Hope project blog</link>
-          <link hef="https://github.com/sdnewhop/sdwannewhope">SD-WAN New Hope project Github</link>
+          <link href="http://www.scada.sl/search/label/sd-wan">SD-WAN New Hope project blog</link>
+          <link href="https://github.com/sdnewhop/sdwannewhope">SD-WAN New Hope project Github</link>
         </links>
         <attachments/>
       </event>
@@ -1808,7 +1808,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
         </persons>
         <links>
           <link>https://c3voc.de/</link>
@@ -1830,7 +1830,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Advanced Bondage Workshop</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Advanced_Bondage_Workshop</link>
@@ -1851,7 +1851,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Doxxing spyware suppliers by using FOIA and leaked material together to dox suppliers.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:DrWhax">DrWhax</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:DrWhax">DrWhax</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers.</link>
@@ -1912,7 +1912,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>The idea of this workshop is to share experiences with audio recording hardware and software.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth">KarlaByrinth</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth">KarlaByrinth</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
@@ -1933,7 +1933,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Vim is one of the two editors for adults. A distinguishing feature is that it has a perverse user-unfriendly charm. Learn how to use Vim in this workshop.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
@@ -1954,7 +1954,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Abstimmungs- und Vorbereitungstreffen für den Junghackertag</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel">Waldvogel</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel">Waldvogel</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Projects:Junghackertag</link>
@@ -2075,7 +2075,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description/>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds</link>
@@ -2138,7 +2138,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description/>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
@@ -2160,7 +2160,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>An examination of the Thucydides Trap</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix">Aestetix</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix">Aestetix</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F</link>
@@ -2183,7 +2183,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Introduction Meeting for Auti Support Angel and Auti Angel</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein">Fairsein</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein">Fairsein</person>
         </persons>
         <links>
           <link>https://events.ccc.de/2018/12/14/autism-support-35c3/</link>
@@ -2225,7 +2225,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Einweisung der Lötengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim Löten helfen. Du kannst Dich auf dem Lötengel-Meeting als Lötengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Djim">Djim</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Djim">Djim</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop</link>
@@ -2266,7 +2266,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
         </persons>
         <links>
           <link>https://c3subtitles.de/</link>
@@ -2288,7 +2288,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
         </persons>
         <links>
           <link>https://c3subtitles.de/</link>
@@ -2331,7 +2331,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <abstract/>
         <description>Privacy is the space in which ideas are developed, to retreat into whenever you want. This space is not only physical but digital as well. Governments and companies don't want to respect that so we become active ourselves.  The goal of this hands-on session is to pass on knowledge about protecting yourself in the digital space. This can include encrypted communication, preventing being tracked while browsing the web and general security advice for computers and smartphones.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Dawning-sun">Dawning-sun</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Dawning-sun">Dawning-sun</person>
         </persons>
         <links>
           <link>https://cryptoparty.in/35c3</link>
@@ -3791,7 +3791,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
@@ -3895,7 +3895,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Making of cidre/cider.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Cidre_making_35c3</link>
@@ -3917,7 +3917,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description/>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_35c3</link>
@@ -3939,7 +3939,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
@@ -3961,7 +3961,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
@@ -3985,7 +3985,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
@@ -4008,7 +4008,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -4029,7 +4029,7 @@ All seine Podcasts: http://dampfnudel.net</biography>
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -4178,7 +4178,7 @@ Finally, a solution to the security dilemma of using affected smart devices is o
           <person id="8478">Michael Steigerwald</person>
         </persons>
         <links>
-          <link hef="https://www.vtrust.de/35c3">Smart Home Smart Hack</link>
+          <link href="https://www.vtrust.de/35c3">Smart Home Smart Hack</link>
         </links>
         <attachments/>
       </event>
@@ -4208,7 +4208,7 @@ The exhibition incorporates concepts from artificial intelligence and cognitive 
           <person id="7970">Karim Ben Khelifa</person>
         </persons>
         <links>
-          <link hef="http://theenemyishere.org/about">The Enemy</link>
+          <link href="http://theenemyishere.org/about">The Enemy</link>
         </links>
         <attachments/>
       </event>
@@ -4241,10 +4241,10 @@ The disclosure of the efail vulnerabilities caused a lot of stir in the press an
           <person id="3205">Sebastian Schinzel</person>
         </persons>
         <links>
-          <link hef="https://efail.de/">The efail attacks.</link>
+          <link href="https://efail.de/">The efail attacks.</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057">Efail paper (USENIX Security 2018)</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057">Efail paper (USENIX Security 2018)</attachment>
         </attachments>
       </event>
       <event id="10030" guid="8943659a-536d-4afb-85de-f1b8b29a7902">
@@ -4358,7 +4358,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
+          <link href="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -4397,10 +4397,10 @@ We will finish by demonstrating some of the visualization tools are have deploye
           <person id="8187">Damon McCoy</person>
         </persons>
         <links>
-          <link hef="https://online-pol-ads.github.io/">Home page for our project</link>
+          <link href="https://online-pol-ads.github.io/">Home page for our project</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/451/original/Facebooks-archive_%281%29.pdf?1537466442">An Analysis of Facebook’s Archive of Ads With Political Content</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/451/original/Facebooks-archive_%281%29.pdf?1537466442">An Analysis of Facebook’s Archive of Ads With Political Content</attachment>
         </attachments>
       </event>
       <event id="10018" guid="23e85d7a-9645-4ae2-9954-63b71abc08d4">
@@ -4494,8 +4494,8 @@ Neben der Gefahr, dass Geflüchtete auf Grundlage der automatisierten Auswertung
           <person id="4465">Anna Biselli</person>
         </persons>
         <links>
-          <link hef="https://netzpolitik.org/2017/digitalisierte-migrationskontrolle-wenn-technik-ueber-asyl-entscheidet/">Digitalisierte Migrationskontrolle: Wenn Technik über Asyl entscheidet</link>
-          <link hef="https://motherboard.vice.com/de/article/a3q8wj/fluechtlinge-bamf-sprachanalyse-software-entscheidet-asyl">Eine Software des BAMF bringt Menschen in Gefahr</link>
+          <link href="https://netzpolitik.org/2017/digitalisierte-migrationskontrolle-wenn-technik-ueber-asyl-entscheidet/">Digitalisierte Migrationskontrolle: Wenn Technik über Asyl entscheidet</link>
+          <link href="https://motherboard.vice.com/de/article/a3q8wj/fluechtlinge-bamf-sprachanalyse-software-entscheidet-asyl">Eine Software des BAMF bringt Menschen in Gefahr</link>
         </links>
         <attachments/>
       </event>
@@ -4549,11 +4549,11 @@ A final example of a lesson we will discuss is the importance of picking the rig
           <person id="3155">bunnie</person>
         </persons>
         <links>
-          <link hef="https://hdmi2usb.tv">HDMI2USB.tv</link>
-          <link hef="https://m-labs.hk/migen">Migen (+Milkymist)</link>
-          <link hef="https://kosagi.com/w/index.php/NeTV_Main_Page">NeTV</link>
-          <link hef="https://www.crowdsupply.com/alphamax/netv2">NeTV2</link>
-          <link hef="http://www.enjoy-digital.fr/">Enjoy Digital + LiteX</link>
+          <link href="https://hdmi2usb.tv">HDMI2USB.tv</link>
+          <link href="https://m-labs.hk/migen">Migen (+Milkymist)</link>
+          <link href="https://kosagi.com/w/index.php/NeTV_Main_Page">NeTV</link>
+          <link href="https://www.crowdsupply.com/alphamax/netv2">NeTV2</link>
+          <link href="http://www.enjoy-digital.fr/">Enjoy Digital + LiteX</link>
         </links>
         <attachments/>
       </event>
@@ -4581,7 +4581,7 @@ A final example of a lesson we will discuss is the importance of picking the rig
           <person id="8682">Amy (itszn)</person>
         </persons>
         <links>
-          <link hef="https://ret2.io">Ret2 Systems</link>
+          <link href="https://ret2.io">Ret2 Systems</link>
         </links>
         <attachments/>
       </event>
@@ -4638,11 +4638,11 @@ We see how the hacker culture meets these challenges and what inner contradictio
           <person id="8745">Thies Mynther</person>
         </persons>
         <links>
-          <link hef="www.allcreatureswelcome.net">Movie Page</link>
+          <link href="www.allcreatureswelcome.net">Movie Page</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/622/original/ACW_Poster_KI_Regenbogen_digital.jpg?1542289809">Poster</attachment>
-          <attachment hef="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/622/original/ACW_Poster_KI_Regenbogen_digital.jpg?1542289809">Poster</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
     </room>
@@ -4692,9 +4692,9 @@ many countries. After giving an overview of various types of unwanted phone call
           <person id="8646">Aurélien Francillon</person>
         </persons>
         <links>
-          <link hef="http://www.s3.eurecom.fr/docs/eurosp17_sahin.pdf">SoK: Fraud in Telephony Networks</link>
-          <link hef="http://www.s3.eurecom.fr/docs/soups17_sahin.pdf">Using chatbots against voice spam: Analyzing Lenny’s effectiveness</link>
-          <link hef="https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper31-poster-abstract.pdf">IRSF</link>
+          <link href="http://www.s3.eurecom.fr/docs/eurosp17_sahin.pdf">SoK: Fraud in Telephony Networks</link>
+          <link href="http://www.s3.eurecom.fr/docs/soups17_sahin.pdf">Using chatbots against voice spam: Analyzing Lenny’s effectiveness</link>
+          <link href="https://www.ieee-security.org/TC/SP2018/poster-abstracts/oakland2018-paper31-poster-abstract.pdf">IRSF</link>
         </links>
         <attachments/>
       </event>
@@ -4772,8 +4772,8 @@ Previously developing for FPGAs has require getting giant closed source propriet
           <person id="6660">Tim 'mithro' Ansell</person>
         </persons>
         <links>
-          <link hef="https://symbiflow.github.io">SymbiFlow Website</link>
-          <link hef="http://github.com/SymbiFlow">SymbiFlow GitHub</link>
+          <link href="https://symbiflow.github.io">SymbiFlow Website</link>
+          <link href="http://github.com/SymbiFlow">SymbiFlow GitHub</link>
         </links>
         <attachments/>
       </event>
@@ -4860,7 +4860,7 @@ We also worked on &lt;a href="https://youtube.tracking.exposed"&gt;analyzing You
           <person id="4912">Claudio Agosti</person>
         </persons>
         <links>
-          <link hef="https://facebook.tracking.exposed">website</link>
+          <link href="https://facebook.tracking.exposed">website</link>
         </links>
         <attachments/>
       </event>
@@ -4924,8 +4924,8 @@ Finally, we show new variants of the Meltdown attack, exploiting different parts
           <person id="8528">Dieter Kranzlmueller</person>
         </persons>
         <links>
-          <link hef="https://badw.de/die-akademie/presse/pressemitteilungen/pm-einzelartikel/detail/supermuc-ng-next-generation-hoechstleistungsrechner-am-leibniz-rechenzentrum.html">Pressemitteilung zu SuperMUC-NG</link>
-          <link hef="https://www.lrz.de/services/compute/supermuc/supermuc-ng/">Characteristics SuperMUC-NG</link>
+          <link href="https://badw.de/die-akademie/presse/pressemitteilungen/pm-einzelartikel/detail/supermuc-ng-next-generation-hoechstleistungsrechner-am-leibniz-rechenzentrum.html">Pressemitteilung zu SuperMUC-NG</link>
+          <link href="https://www.lrz.de/services/compute/supermuc/supermuc-ng/">Characteristics SuperMUC-NG</link>
         </links>
         <attachments/>
       </event>
@@ -4955,7 +4955,7 @@ Members of GTC range from (former) whistle blowers, activist MPs, Oxford profess
           <person id="8525">Yann Leretaille</person>
         </persons>
         <links>
-          <link hef="https://goodtechnologycollective.com">Good Technology Collective Website</link>
+          <link href="https://goodtechnologycollective.com">Good Technology Collective Website</link>
         </links>
         <attachments/>
       </event>
@@ -5112,10 +5112,10 @@ Tag plz: #BlindNavigation @saizai #35c3</abstract>
           <person id="4696">Sai</person>
         </persons>
         <links>
-          <link hef="https://s.ai/ccc/ws">Workshop signup</link>
-          <link hef="https://s.ai/ccc">Notes &amp; other links</link>
-          <link hef="https://s.ai/essays/interaction">Interaction tips (from blind POV)</link>
-          <link hef="https://twitter.com/search?f=tweets&amp;q=%23BlindNavigation">Tweets about #BlindNavigation</link>
+          <link href="https://s.ai/ccc/ws">Workshop signup</link>
+          <link href="https://s.ai/ccc">Notes &amp; other links</link>
+          <link href="https://s.ai/essays/interaction">Interaction tips (from blind POV)</link>
+          <link href="https://twitter.com/search?f=tweets&amp;q=%23BlindNavigation">Tweets about #BlindNavigation</link>
         </links>
         <attachments/>
       </event>
@@ -5147,8 +5147,8 @@ It's used by educators, makers and professional hard- and software developers ar
           <person id="8135">Christine Spindler</person>
         </persons>
         <links>
-          <link hef="micropython.org">MicroPython Website</link>
-          <link hef="github.com/micropython">MicroPython on Git</link>
+          <link href="micropython.org">MicroPython Website</link>
+          <link href="github.com/micropython">MicroPython on Git</link>
         </links>
         <attachments/>
       </event>
@@ -5178,7 +5178,7 @@ multiplatform game, &lt;br&gt;&#13;
           <person id="8363">JAN BERGER</person>
         </persons>
         <links>
-          <link hef="http://www.janberger.info/nf.html">website summary never forgetti</link>
+          <link href="http://www.janberger.info/nf.html">website summary never forgetti</link>
         </links>
         <attachments/>
       </event>
@@ -5514,9 +5514,9 @@ This work just won fourth prize in the Mozilla "Wireless Innovation for a Networ
           <person id="5330">Hans-Christoph Steiner</person>
         </persons>
         <links>
-          <link hef="https://guardianproject.info/wind/">Guardian Project's Wind page</link>
-          <link hef="https://wirelesschallenge.mozilla.org/#grand-winners-1">Mozilla "Wireless Innovation for a Networked Society" Off-the-Grid Internet Challenge</link>
-          <link hef="https://okthanks.com/blog/peronas-latin-america">Latin American Personas for guiding design processes</link>
+          <link href="https://guardianproject.info/wind/">Guardian Project's Wind page</link>
+          <link href="https://wirelesschallenge.mozilla.org/#grand-winners-1">Mozilla "Wireless Innovation for a Networked Society" Off-the-Grid Internet Challenge</link>
+          <link href="https://okthanks.com/blog/peronas-latin-america">Latin American Personas for guiding design processes</link>
         </links>
         <attachments/>
       </event>
@@ -5548,12 +5548,12 @@ Wir entwickeln ein völlig freies quelloffenes Hardware- und Software-Design fü
           <person id="6677">Felix Just</person>
         </persons>
         <links>
-          <link hef="www.suprememachines.de">Supreme Machines Website</link>
+          <link href="www.suprememachines.de">Supreme Machines Website</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/586/original/hannah_push_recovery.mp4?1539639211">Kurzes Video vom Roboter</attachment>
-          <attachment hef="/system/event_attachments/attachments/000/003/587/original/IMG_20180525_155412.jpg?1539639211">Foto vom Roboter</attachment>
-          <attachment hef="/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211">Noch ein Foto vom Roboter</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/586/original/hannah_push_recovery.mp4?1539639211">Kurzes Video vom Roboter</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/587/original/IMG_20180525_155412.jpg?1539639211">Foto vom Roboter</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211">Noch ein Foto vom Roboter</attachment>
         </attachments>
       </event>
       <event id="9733" guid="2d71612c-7f40-484b-a939-10b809aedd80">
@@ -5653,7 +5653,7 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
           <person id="8297">Stephan Verbücheln</person>
         </persons>
         <links>
-          <link hef="https://arxiv.org/abs/1501.00447"> How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys</link>
+          <link href="https://arxiv.org/abs/1501.00447"> How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys</link>
         </links>
         <attachments/>
       </event>
@@ -5680,13 +5680,13 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
           <person id="8671">DISNOVATION.ORG</person>
         </persons>
         <links>
-          <link hef="disnovation.org">DISNOVATION.ORG Art Collective</link>
-          <link hef="predictiveartbot.com">Predictive Art Bot</link>
-          <link hef="thepiratecinema.com">The Pirate Cinema</link>
+          <link href="disnovation.org">DISNOVATION.ORG Art Collective</link>
+          <link href="predictiveartbot.com">Predictive Art Bot</link>
+          <link href="thepiratecinema.com">The Pirate Cinema</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/595/original/pab_v4_web.jpg?1539643475">Predictive Art Bot | Online artwork view</attachment>
-          <attachment hef="/system/event_attachments/attachments/000/003/596/original/pab_02_1920.jpg?1539643475">Predictive Art Bot | Installation view</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/595/original/pab_v4_web.jpg?1539643475">Predictive Art Bot | Online artwork view</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/596/original/pab_02_1920.jpg?1539643475">Predictive Art Bot | Installation view</attachment>
         </attachments>
       </event>
       <event id="10036" guid="1cff41a8-455e-42a6-ab08-d6cb166e7d3b">
@@ -5734,7 +5734,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
         </persons>
         <links>
           <link>https://c3voc.de/</link>
@@ -5814,7 +5814,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Open Rope Jam (Bondage)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam</link>
@@ -5894,8 +5894,8 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Please write us an e-mail to register / Bitte schreibt uns eine Mail zum Anmelden -- Awarenessteam-Treffen, für interessierte Personen die auf zukünfigen Events gerne das Team bereichern wollen. Awareness Team meeting, for interested people who like to join the team in the future,</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Leandra">Leandra</person>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Theresa">Theresa</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Leandra">Leandra</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Theresa">Theresa</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Awareness_Team_Meeting</link>
@@ -5916,7 +5916,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>BorgBackup Meetup for users and contributors</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Twi">Twi</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Twi">Twi</person>
         </persons>
         <links>
           <link>https://borgbackup.org/</link>
@@ -5938,7 +5938,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Gathering of Ethereum Magicians</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Ligi">Ligi</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ligi">Ligi</person>
         </persons>
         <links>
           <link>https://ethereum-magicians.org/t/magicians-at-35c3/2067/8</link>
@@ -5960,7 +5960,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Orgameeting der Hack im Pott 2019</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
         </persons>
         <links>
           <link>https://hackimpott.de</link>
@@ -5982,7 +5982,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Meetup of Kerbal Space Program Players. Show off your contraptions, Mods. Find likeminded people.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:VITAS">VITAS</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:VITAS">VITAS</person>
         </persons>
         <links>
           <link>https://en.wikipedia.org/wiki/Kerbal_Space_Program</link>
@@ -6024,7 +6024,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Programmierung der Audiosoftware Reaper</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
         </persons>
         <links>
           <link>http://ultraschall.fm</link>
@@ -6125,7 +6125,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Auf dem letzten Tor Meetup in Hamburg wurde beschlossen, dass ein Tor-Verein gegründet werden soll. Der aktuelle Stand und die nächsten Schritte werden in dieser Session vorgestellt.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kantorkel">Kantorkel</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kantorkel">Kantorkel</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_Tor-Verein_f%C3%BCr_Hamburg</link>
@@ -6146,7 +6146,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>An introduction to Numerical Weather Prediction systems</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Tecer">Tecer</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tecer">Tecer</person>
         </persons>
         <links>
           <link>https://git.hacknology.de/projekte/wrftut</link>
@@ -6168,7 +6168,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich möchte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit Rücksicht auf das Verständnis nähern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Franz">Franz</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Franz">Franz</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python</link>
@@ -6191,7 +6191,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Arch Linux user meetup</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Foxboron">Foxboron</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Foxboron">Foxboron</person>
         </persons>
         <links>
           <link>https://www.archlinux.org/</link>
@@ -6313,7 +6313,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>A meetup for bug hunters to network and discuss the current issues in the bug bounty space</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Jerh17">Jerh17</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jerh17">Jerh17</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup</link>
@@ -6373,7 +6373,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>The hacker's journey - there and back again. How to make struggling stories work and write new ones with the hero's journey in mind.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx">Jinxx</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx">Jinxx</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
@@ -6394,7 +6394,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Eine kurze Einführung in den humoristischen Dichterwettstreit</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia">Roikiermedia</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia">Roikiermedia</person>
         </persons>
         <links>
           <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html</link>
@@ -6416,7 +6416,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
         </persons>
         <links>
           <link>https://c3subtitles.de/</link>
@@ -6438,7 +6438,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cube">Cube</person>
         </persons>
         <links>
           <link>https://c3subtitles.de/</link>
@@ -6501,7 +6501,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <abstract/>
         <description>Meeting all these nice avatars from the fediverse! Thank your admins, spread love to your users, friends and bots!</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Ckeen">Ckeen</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ckeen">Ckeen</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
@@ -7913,7 +7913,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
@@ -8013,7 +8013,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>We will learn how to work with kefir culture making variety of delicious products.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Kefir_making_35c3</link>
@@ -8037,7 +8037,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
@@ -8060,7 +8060,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -8081,7 +8081,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -8102,7 +8102,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -8125,7 +8125,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <abstract/>
         <description>You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry</link>
@@ -8307,7 +8307,7 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
           <person id="8452">Leonid Evdokimov (darkk)</person>
         </persons>
         <links>
-          <link hef="https://usher2.club/en/">Usher II: having fun with Roskomnadzor's Register of Prohibited sites</link>
+          <link href="https://usher2.club/en/">Usher II: having fun with Roskomnadzor's Register of Prohibited sites</link>
         </links>
         <attachments/>
       </event>
@@ -8340,8 +8340,8 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
           <person id="4702">breakthesystem</person>
         </persons>
         <links>
-          <link hef="https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443">The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Springer Praxis Books) 1st ed. 2018 Edition</link>
-          <link hef="https://www.youtube.com/watch?v=09iTidqkriw">Another Talk by Daniel</link>
+          <link href="https://www.amazon.com/Design-Engineering-Curiosity-Performs-Springer/dp/3319681443">The Design and Engineering of Curiosity: How the Mars Rover Performs Its Job (Springer Praxis Books) 1st ed. 2018 Edition</link>
+          <link href="https://www.youtube.com/watch?v=09iTidqkriw">Another Talk by Daniel</link>
         </links>
         <attachments/>
       </event>
@@ -8424,7 +8424,7 @@ Hier lohnt es sich für den hackenden Nachwuchs, aus den Fehlern anderer zu lern
           <person id="8067">honky</person>
         </persons>
         <links>
-          <link hef="https://media.ccc.de/v/DS2018-9308-hebocon_finale">Datenspuren 2018</link>
+          <link href="https://media.ccc.de/v/DS2018-9308-hebocon_finale">Datenspuren 2018</link>
         </links>
         <attachments/>
       </event>
@@ -8487,7 +8487,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
+          <link href="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -8546,13 +8546,13 @@ It is unfortunate that the Vita was such a niche device, but we hope this talk w
           <person id="8140">Davee</person>
         </persons>
         <links>
-          <link hef="https://yifan.lu/2016/12/31/state-of-the-vita-2016/">State of the Vita (2016)</link>
-          <link hef="https://yifan.lu/2017/07/31/henkaku-enso-bootloader-hack-for-vita/">Ensō Bootloader Hack (2017)</link>
-          <link hef="https://yifan.lu/2016/11/01/taihen-cfw-framework-for-ps-vita/">taiHEN CFW Framework (2016)</link>
-          <link hef="https://yifan.lu/2016/07/28/henkaku-vita-homebrew-for-everyone/">HENkaku Hack (2016)</link>
-          <link hef="https://yifan.lu/2013/09/10/why-hacking-the-vita-is-hard-or-a-history-of-first-hacks/">Why hacking the Vita is hard (2013)</link>
-          <link hef="https://blog.xyz.is/2016/webkit-360.html">Exploiting WebKit on Vita 3.60</link>
-          <link hef="https://blog.xyz.is/2018/enso.html">Ensō: A PS Vita bootloader exploit</link>
+          <link href="https://yifan.lu/2016/12/31/state-of-the-vita-2016/">State of the Vita (2016)</link>
+          <link href="https://yifan.lu/2017/07/31/henkaku-enso-bootloader-hack-for-vita/">Ensō Bootloader Hack (2017)</link>
+          <link href="https://yifan.lu/2016/11/01/taihen-cfw-framework-for-ps-vita/">taiHEN CFW Framework (2016)</link>
+          <link href="https://yifan.lu/2016/07/28/henkaku-vita-homebrew-for-everyone/">HENkaku Hack (2016)</link>
+          <link href="https://yifan.lu/2013/09/10/why-hacking-the-vita-is-hard-or-a-history-of-first-hacks/">Why hacking the Vita is hard (2013)</link>
+          <link href="https://blog.xyz.is/2016/webkit-360.html">Exploiting WebKit on Vita 3.60</link>
+          <link href="https://blog.xyz.is/2018/enso.html">Ensō: A PS Vita bootloader exploit</link>
         </links>
         <attachments/>
       </event>
@@ -8659,10 +8659,10 @@ The rareness of the interesting phenomena not only calls for pure physics unders
           <person id="8736">Jurre van Bergen</person>
         </persons>
         <links>
-          <link hef="https://petsymposium.org/2018/files/hotpets/7-bini.pdf">No evidence of communication: Off-The-Record Protocol version 4OTRv4: HotPETS paper</link>
-          <link hef="https://github.com/otrv4/otrv4/blob/master/otrv4.md">OTRv4 specification</link>
-          <link hef="https://github.com/otrv4/libotr-ng">OTRv4 implementation</link>
-          <link hef="http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf">"The Moral Character of Cryptographic Work?" paper</link>
+          <link href="https://petsymposium.org/2018/files/hotpets/7-bini.pdf">No evidence of communication: Off-The-Record Protocol version 4OTRv4: HotPETS paper</link>
+          <link href="https://github.com/otrv4/otrv4/blob/master/otrv4.md">OTRv4 specification</link>
+          <link href="https://github.com/otrv4/libotr-ng">OTRv4 implementation</link>
+          <link href="http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf">"The Moral Character of Cryptographic Work?" paper</link>
         </links>
         <attachments/>
       </event>
@@ -8749,7 +8749,7 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
           <person id="8352">Werner Schober</person>
         </persons>
         <links>
-          <link hef="https://sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html">IoD Blogpost</link>
+          <link href="https://sec-consult.com/en/blog/2018/02/internet-of-dildos-a-long-way-to-a-vibrant-future-from-iot-to-iod/index.html">IoD Blogpost</link>
         </links>
         <attachments/>
       </event>
@@ -8779,9 +8779,9 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
           <person id="8597">Christopher Weatherhead</person>
         </persons>
         <links>
-          <link hef="https://privacyinternational.org/types-abuse/facebook">Privacy International [Facebook Stories]</link>
-          <link hef="https://privacyinternational.org">Privacy International Website [Clearnet]</link>
-          <link hef="https://privacyintyqcroe.onion">Privacy International Website [onion]</link>
+          <link href="https://privacyinternational.org/types-abuse/facebook">Privacy International [Facebook Stories]</link>
+          <link href="https://privacyinternational.org">Privacy International Website [Clearnet]</link>
+          <link href="https://privacyintyqcroe.onion">Privacy International Website [onion]</link>
         </links>
         <attachments/>
       </event>
@@ -8871,8 +8871,8 @@ Since smart cards are used in the authentication process, a lot of vulnerabiliti
         </persons>
         <links/>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/512/original/DEFCON-26-Eric-Sesterhenn-Soviet-Russia-Smartcard-Hacks-You.pdf?1539367610">Defcon Slides</attachment>
-          <attachment hef="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/512/original/DEFCON-26-Eric-Sesterhenn-Soviet-Russia-Smartcard-Hacks-You.pdf?1539367610">Defcon Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9674" guid="089b7fec-3ee1-493c-9b90-782c0514ffb4">
@@ -8900,9 +8900,9 @@ I will explain the basic usage of DNS, including stub and recursive resolver, se
           <person id="1626">Hannes Mehnert</person>
         </persons>
         <links>
-          <link hef="https://hannes.nqsb.io/Posts/DNS#What-is-DNS">Re-engineering DNS (blog)</link>
-          <link hef="https://github.com/roburio/udns">µDNS implementation</link>
-          <link hef="https://mirage.io">MirageOS</link>
+          <link href="https://hannes.nqsb.io/Posts/DNS#What-is-DNS">Re-engineering DNS (blog)</link>
+          <link href="https://github.com/roburio/udns">µDNS implementation</link>
+          <link href="https://mirage.io">MirageOS</link>
         </links>
         <attachments/>
       </event>
@@ -8931,7 +8931,7 @@ In this talk, we systematically explore this phenomenon: To begin with, we demon
           <person id="5643">Marius Musch</person>
         </persons>
         <links>
-          <link hef="https://arxiv.org/pdf/1808.09474.pdf">Technical Report</link>
+          <link href="https://arxiv.org/pdf/1808.09474.pdf">Technical Report</link>
         </links>
         <attachments/>
       </event>
@@ -8989,7 +8989,7 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <person id="8571">Dagmar Krefting</person>
         </persons>
         <links>
-          <link hef="http://remo2hbo.f4.htw-berlin.de/">remo2hbo-Projekt</link>
+          <link href="http://remo2hbo.f4.htw-berlin.de/">remo2hbo-Projekt</link>
         </links>
         <attachments/>
       </event>
@@ -9017,7 +9017,7 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <person id="5764">Andre Meister</person>
         </persons>
         <links>
-          <link hef="https://fts.berlin.de/">Funkzellenabfragen-Transparenz-System des Landes Berlin</link>
+          <link href="https://fts.berlin.de/">Funkzellenabfragen-Transparenz-System des Landes Berlin</link>
         </links>
         <attachments/>
       </event>
@@ -9049,7 +9049,7 @@ Wir werden unsere gegenwärtigen Ansätze vorstellen, untersuchen und daran die 
           <person id="8768">Rosa Rave*</person>
         </persons>
         <links>
-          <link hef="https://twitter.com/MenschMeier4/status/996775769664868352">Aufruf Tweet zu #afdwegbassen</link>
+          <link href="https://twitter.com/MenschMeier4/status/996775769664868352">Aufruf Tweet zu #afdwegbassen</link>
         </links>
         <attachments/>
       </event>
@@ -9153,8 +9153,8 @@ Another thing to take away from this talk is: writing drivers is neither scary n
           <person id="8772">Simon Ellmann</person>
         </persons>
         <links>
-          <link hef="https://media.ccc.de/v/34c3-9159-demystifying_network_cards">Talk about the basics of user space drivers</link>
-          <link hef="https://github.com/ixy-languages/ixy-languages">Project page on GitHub with further links</link>
+          <link href="https://media.ccc.de/v/34c3-9159-demystifying_network_cards">Talk about the basics of user space drivers</link>
+          <link href="https://github.com/ixy-languages/ixy-languages">Project page on GitHub with further links</link>
         </links>
         <attachments/>
       </event>
@@ -9190,11 +9190,11 @@ Protection of digital data has become a necessity, certainly in the light of new
           <person id="8308">Carlo Meijer</person>
         </persons>
         <links>
-          <link hef="http://www.cs.ru.nl/~cmeijer/">Author homepage</link>
-          <link hef="https://www.ru.nl/english/news-agenda/news/vm/icis/cyber-security/2018/radboud-university-researchers-discover-security/">Public Statement</link>
+          <link href="http://www.cs.ru.nl/~cmeijer/">Author homepage</link>
+          <link href="https://www.ru.nl/english/news-agenda/news/vm/icis/cyber-security/2018/radboud-university-researchers-discover-security/">Public Statement</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497">Draft Paper</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497">Draft Paper</attachment>
         </attachments>
       </event>
       <event id="9400" guid="e77ef54a-5dd7-4be1-80c7-42726b273e6f">
@@ -9302,7 +9302,7 @@ Be warned: This is not meant as investment advice. The goal of the talk is to gi
         </persons>
         <links/>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/626/original/IMG_20181014_202105.jpg?1543185403">Das Butterbrotdosen-Smartphone</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/626/original/IMG_20181014_202105.jpg?1543185403">Das Butterbrotdosen-Smartphone</attachment>
         </attachments>
       </event>
       <event id="9758" guid="3745513b-c2e6-449a-abd0-2e32f738f168">
@@ -9330,7 +9330,7 @@ This will be followed by an introduction into different experimental and computa
           <person id="8444">LorenzAdlung</person>
         </persons>
         <links>
-          <link hef="https://lorenzadlung.wordpress.com/socialmedia/scienceslams/">Link to my blog regarding science slams:</link>
+          <link href="https://lorenzadlung.wordpress.com/socialmedia/scienceslams/">Link to my blog regarding science slams:</link>
         </links>
         <attachments/>
       </event>
@@ -9361,7 +9361,7 @@ Finally, the input image, the known position and orientation of the card, the re
           <person id="8439">Jan Garcia</person>
         </persons>
         <links>
-          <link hef="https://www.deutschepost.de/de/p/postident/identifizierungsverfahren/verfahren-videochat.html">Official Post-Ident Video-Legitimation explanation</link>
+          <link href="https://www.deutschepost.de/de/p/postident/identifizierungsverfahren/verfahren-videochat.html">Official Post-Ident Video-Legitimation explanation</link>
         </links>
         <attachments/>
       </event>
@@ -9393,7 +9393,7 @@ Heikle personenbezogene Daten aus öffentlichen Datenbanken sollen zu allen wiss
           <person id="7704">Angelika Adensamer</person>
         </persons>
         <links>
-          <link hef="https://www.epicenter.works">epicenter.works</link>
+          <link href="https://www.epicenter.works">epicenter.works</link>
         </links>
         <attachments/>
       </event>
@@ -9459,15 +9459,15 @@ Constructing e-David has provided many challenges in the realms of engineering, 
           <person id="8722">Liat_Grayver</person>
         </persons>
         <links>
-          <link hef="https://www.liatgrayver.com/robotic-painting">Breaststrokes at the digital age</link>
-          <link hef="https://www.liatgrayver.com/robotic-painting-1">Robotic Paintings</link>
-          <link hef="https://www.liatgrayver.com/traversing-the-threshold">Traversing the Threshold</link>
-          <link hef="http://graphics.uni-konstanz.de/eDavid/">e-David. A painting process</link>
+          <link href="https://www.liatgrayver.com/robotic-painting">Breaststrokes at the digital age</link>
+          <link href="https://www.liatgrayver.com/robotic-painting-1">Robotic Paintings</link>
+          <link href="https://www.liatgrayver.com/traversing-the-threshold">Traversing the Threshold</link>
+          <link href="http://graphics.uni-konstanz.de/eDavid/">e-David. A painting process</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/618/original/grayver_brushstrokes_print_18.pdf?1541855201">Brushstrokes in the Digital age </attachment>
-          <attachment hef="/system/event_attachments/attachments/000/003/619/original/Traversing_the_Threshold_newpdf.pdf?1541855201">Traversing the Threshold</attachment>
-          <attachment hef="/system/event_attachments/attachments/000/003/621/original/Abstract_Grayver.pdf?1541861917">Abstract-Transhuman Expression. </attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/618/original/grayver_brushstrokes_print_18.pdf?1541855201">Brushstrokes in the Digital age </attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/619/original/Traversing_the_Threshold_newpdf.pdf?1541855201">Traversing the Threshold</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/621/original/Abstract_Grayver.pdf?1541861917">Abstract-Transhuman Expression. </attachment>
         </attachments>
       </event>
       <event id="9695" guid="4b765099-8cfa-4325-b132-0d9dc9b84267">
@@ -9502,8 +9502,8 @@ We will talk about standards (NMEA0183, NMEA2000), Communication technologies (V
           <person id="6989">Trollofix</person>
         </persons>
         <links>
-          <link hef="https://sea-watch.org">Seawatch</link>
-          <link hef="https://mission-lifeline.de/">Mission Lifeline</link>
+          <link href="https://sea-watch.org">Seawatch</link>
+          <link href="https://mission-lifeline.de/">Mission Lifeline</link>
         </links>
         <attachments/>
       </event>
@@ -9536,7 +9536,7 @@ By deriving cryptographic key material based on physical disorder and unclonable
           <person id="8539">Lars Steinschulte</person>
         </persons>
         <links>
-          <link hef="http://news.rub.de/vermischtes/2018-10-11-it-sicherheitspreis-die-besten-innovationen-kommen-aus-bochum">[1]</link>
+          <link href="http://news.rub.de/vermischtes/2018-10-11-it-sicherheitspreis-die-besten-innovationen-kommen-aus-bochum">[1]</link>
         </links>
         <attachments/>
       </event>
@@ -9596,7 +9596,7 @@ In this talk I hope to show how I found these bugs by using extremely targeted f
           <person id="7068">nedwill</person>
         </persons>
         <links>
-          <link hef="https://twitter.com/NedWilliamson/status/1043150732742946816">Exploit Demo</link>
+          <link href="https://twitter.com/NedWilliamson/status/1043150732742946816">Exploit Demo</link>
         </links>
         <attachments/>
       </event>
@@ -9630,11 +9630,11 @@ The documentation is delivered in an open-ended format, following Free/Libre Ope
           <person id="8443">Joana Chicau</person>
         </persons>
         <links>
-          <link hef="http://joanachicau.com/">Project Website</link>
+          <link href="http://joanachicau.com/">Project Website</link>
         </links>
         <attachments>
-          <attachment hef="/system/event_attachments/attachments/000/003/624/original/credit_Ana_Caria_and_Leonor_Fonseca01.jpg?1542546650">Performance by Joana Chicau</attachment>
-          <attachment hef="/attachments/original/missing.png">Performance image</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/624/original/credit_Ana_Caria_and_Leonor_Fonseca01.jpg?1542546650">Performance by Joana Chicau</attachment>
+          <attachment href="/attachments/original/missing.png">Performance image</attachment>
         </attachments>
       </event>
       <event id="9993" guid="70b257cc-d26a-4044-b95e-5d3e6d8c7597">
@@ -9664,8 +9664,8 @@ The goal of the experience is to empower its users, and create a heightened appr
           <person id="8711">Sabio</person>
         </persons>
         <links>
-          <link hef="http://infiniteobserver.com">Infinite Observer Project Page</link>
-          <link hef="http://thegladscientist.info">The Glad Scientist</link>
+          <link href="http://infiniteobserver.com">Infinite Observer Project Page</link>
+          <link href="http://thegladscientist.info">The Glad Scientist</link>
         </links>
         <attachments/>
       </event>
@@ -9702,11 +9702,11 @@ However, it's not always easy...</description>
           <person id="8661">Janina Abels</person>
         </persons>
         <links>
-          <link hef="https://foodsaving.world">foodsaving.world</link>
-          <link hef="https://github.com/yunity/karrot-frontend">Karrot</link>
-          <link hef="https://foodsharing.de">foodsharing.de</link>
-          <link hef="https://community.foodsaving.world">Foodsaving Community Forum</link>
-          <link hef="https://www.youtube.com/watch?v=MLWccmvhIlU">Presentation from the beginning of the project (2016)</link>
+          <link href="https://foodsaving.world">foodsaving.world</link>
+          <link href="https://github.com/yunity/karrot-frontend">Karrot</link>
+          <link href="https://foodsharing.de">foodsharing.de</link>
+          <link href="https://community.foodsaving.world">Foodsaving Community Forum</link>
+          <link href="https://www.youtube.com/watch?v=MLWccmvhIlU">Presentation from the beginning of the project (2016)</link>
         </links>
         <attachments/>
       </event>
@@ -9752,7 +9752,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Daily Meetup for A/V Angels</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex">Jwacalex</person>
         </persons>
         <links>
           <link>https://c3voc.de/</link>
@@ -9774,7 +9774,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Voctomix / Voctoknopf discussion after the daily meetup for A/V angels (day 3)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Pivot">Pivot</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pivot">Pivot</person>
         </persons>
         <links>
           <link>https://c3voc.de/</link>
@@ -9856,7 +9856,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Insights from 40 years of civic gamma radiation measurement networks and DIY sensor development How to pick the fission plant signatures out of atmospheric dose readings</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Capo">Capo</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Capo">Capo</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
@@ -9877,8 +9877,8 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Suche nach Methoden zur Förderung von kritischem Bewusstsein zu Medien- und Technikkompetenz</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles">Moelles</person>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Wurzel3">Wurzel3</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Moelles">Moelles</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Wurzel3">Wurzel3</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
@@ -9918,7 +9918,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
         </persons>
         <links>
           <link>https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148</link>
@@ -9940,7 +9940,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games</link>
@@ -10021,7 +10021,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Die aus tuwat resultierende Gruppe AG Kritis trifft sich.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis</link>
@@ -10083,7 +10083,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Try out a mechanical keyboard or show off your collection.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Rot13">Rot13</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rot13">Rot13</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
@@ -10125,7 +10125,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Lord">Lord</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lord">Lord</person>
         </persons>
         <links>
           <link>https://media.ccc.de/v/2018-137-mzakmdcvamigazbh</link>
@@ -10147,7 +10147,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>covering cohabitation projects that mix permaculture with hackerculture, an online &amp; onsite community</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia">Aimeejulia</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia">Aimeejulia</person>
         </persons>
         <links>
           <link>https://wiki.ecohackerfarm.org/</link>
@@ -10169,7 +10169,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>This workshop is for all who only have a vague idea or might not know at all what an "IP address" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F</link>
@@ -10268,7 +10268,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers</link>
@@ -10351,7 +10351,7 @@ However, it's not always easy...</description>
         <abstract/>
         <description>Regiotreffen auf dem 35c3</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Telegnom">Telegnom</person>
         </persons>
         <links>
           <link>https://ccc.de</link>
@@ -11977,7 +11977,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Everyday at 20:00 at the Assembly of the Free Software Foundation Europe we invite you to sing together the Free Software song; We have the lyrics and a conductor. Simply come, bring your hacker buddies and your voice and maybe an instrument and we form an ad-hoc choir and sing out loud our love for Free Software!  Sing-along sessions will happen everyday at 20:00.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Eal">Eal</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
@@ -12038,7 +12038,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>We will taste variety of cidres.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Cidre_flows_35c3</link>
@@ -12060,7 +12060,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>We will brew and taste variety of probioitic beverages sharing also the cultures.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
         </persons>
         <links>
           <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
@@ -12084,7 +12084,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Treffen der Datenschleuder-Redaktion</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Rince">Rince</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rince">Rince</person>
         </persons>
         <links>
           <link>https://ds.ccc.de/</link>
@@ -12108,7 +12108,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Learn how to knit. Lerne stricken.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Knitting_workshop_(Strickworkshop)</link>
@@ -12129,7 +12129,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
@@ -12152,7 +12152,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -12173,7 +12173,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -12194,7 +12194,7 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
@@ -12326,8 +12326,8 @@ Last, we show a new attack where any Nexus 5 connecting to or being connected by
           <person id="8329">mantz</person>
         </persons>
         <links>
-          <link hef="https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware">MRMCD talk on Internalblue</link>
-          <link hef="https://github.com/seemoo-lab/internalblue">InternalBlue on GitHub</link>
+          <link href="https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware">MRMCD talk on Internalblue</link>
+          <link href="https://github.com/seemoo-lab/internalblue">InternalBlue on GitHub</link>
         </links>
         <attachments/>
       </event>
@@ -12413,7 +12413,7 @@ For registration and schedule info, please check out https://c3lt.de/35c3</descr
           <person id="4601">bigalex</person>
         </persons>
         <links>
-          <link hef="https://c3lt.de/35c3">Registration and schedule</link>
+          <link href="https://c3lt.de/35c3">Registration and schedule</link>
         </links>
         <attachments/>
       </event>
@@ -12502,7 +12502,7 @@ If you'd like to know more, check out www.eyeskills.org and come along to this t
           <person id="8142">Ben Senior</person>
         </persons>
         <links>
-          <link hef="www.eyeskills.org">EyeSkills</link>
+          <link href="www.eyeskills.org">EyeSkills</link>
         </links>
         <attachments/>
       </event>
@@ -12584,7 +12584,7 @@ This is a Foundations talk. Though no prior understanding of circumvention techn
           <person id="8668">kmc</person>
         </persons>
         <links>
-          <link hef="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244046">A recently published paper by this presenter: Censorship and Collateral Damage: Analyzing the Telegram Ban in Iran</link>
+          <link href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3244046">A recently published paper by this presenter: Censorship and Collateral Damage: Analyzing the Telegram Ban in Iran</link>
         </links>
         <attachments/>
       </event>
@@ -12728,7 +12728,7 @@ As of Summer and Fall 2018 he is traveling and lecturing with the Danish compose
           <person id="8584">Jeffrey Scudder</person>
         </persons>
         <links>
-          <link hef="https://docs.google.com/document/d/170R26_4n3uQ_tlhGEWZZbsWssnwz6441ndqEQDSah2U/edit?usp=sharing">Summary / Media</link>
+          <link href="https://docs.google.com/document/d/170R26_4n3uQ_tlhGEWZZbsWssnwz6441ndqEQDSah2U/edit?usp=sharing">Summary / Media</link>
         </links>
         <attachments/>
       </event>
@@ -12756,7 +12756,7 @@ Welche Mittel können wir nutzen, um trotzdem Lichts ins Dunkel der Konzerne zu 
           <person id="5605">Arne Semsrott</person>
         </persons>
         <links>
-          <link hef="FragDenStaat.de">FragDenStaat</link>
+          <link href="FragDenStaat.de">FragDenStaat</link>
         </links>
         <attachments/>
       </event>
@@ -12867,7 +12867,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <abstract/>
         <description>For students of mathematics, computer science or a related subject.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
@@ -12910,7 +12910,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <abstract/>
         <description>This talk is for all who enjoyed the game "who can name the larger number?" as a kid.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Large_numbers,_very_large_numbers_and_very_very_large_numbers</link>
@@ -13751,7 +13751,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <abstract/>
         <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
@@ -13815,7 +13815,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <abstract/>
         <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
         <persons>
-          <person id="0" hef="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
