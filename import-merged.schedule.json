@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 23:10", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-21 23:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -5761,8 +5761,8 @@
                                 "id": 7, 
                                 "guid": "ee95f307-51bb-5c91-af43-fcb0fd1ede55", 
                                 "logo": null, 
-                                "date": "2018-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2018-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
                                 "duration": "00:45", 
                                 "room": "Sendetisch", 
                                 "slug": "KJ7UJX", 
@@ -8867,6 +8867,37 @@
                         ], 
                         "Sendetisch": [
                             {
+                                "id": 40, 
+                                "guid": "d911fe9a-cc65-5a63-8342-2d8dcd4643e6", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "BXXRKZ", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/BXXRKZ", 
+                                "title": "\u201eHilda Matheson\u201c - Pionierin des Talk-Radios.", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Hilda Matheson hat in den sp\u00e4ten 1920er Jahren bei der BBC das Talk Radio entwickelt, den Vorg\u00e4nger von Podcasts, wie wir sie heute kennen.", 
+                                "description": "Matheson war bei der BBC die erste \"Director of Talks\". Nach ihrem R\u00fccktritt von der BBC im Jahr 1931 ver\u00f6ffentlichte sie ein Buch \u00fcber die Entwicklung des Rundfunks. Hilda Matheson ist der Beitrag des Sendezentrums zur Haecksen Memorial-Aktion beim #35c3. W\u00e4hrend des Congress wird so an Erfinderinnen und Pionierinnen erinnert.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 25, 
+                                        "name": "Unbenannter Nutzer", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 15, 
                                 "guid": "90064a9e-a99a-54be-899d-13117165ce6b", 
                                 "logo": null, 
@@ -8890,6 +8921,37 @@
                                         "id": 14, 
                                         "name": "Macht Nix! Podcast", 
                                         "biography": "Ich bin Kristin & dieses Jahr das 1. Mal auf dem Kongress.\r\nIch habe den Podcast mit einer Freundin gestartet, seit ca. 1 Jahr bin ich alleine unterwegs mit dem Fokus auf einen Interviewpodcast: Ich mag's sehr gerne \u00fcber die unterschiedlichsten Themen Gespr\u00e4che zu f\u00fchren.\r\nDeshalb habe ich auch viel, viel mehr Folgen bereits aufgenommen, als ver\u00f6ffentlicht\r\nAnsonsten engagiere ich mich viel sozial & interessiere mich f\u00fcr digitale Bildung & dem Empowerment von Kids.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 38, 
+                                "guid": "f5e812d5-69e5-5443-bdc6-7d6229c004e9", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "NEBUH9", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/NEBUH9", 
+                                "title": "Chaos Moaning Cast", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Am\u00fcsante Nachrichtenmeldungen und ein kleiner R\u00fcckblick auf die vergangenen Congresstage.", 
+                                "description": "Wie eigentlich fast jeden Sonntag *hust* setzt man sich zusammen und bespricht die Ereignisse der letzten Tage. Da die andere H\u00e4lfte des SMC gerade noch damit besch\u00e4ftigt ist den Weihnachtsschmaus zu verdauen setzen sich Judith und Stefan an den Sendetisch auf dem 35c3 und quatschen ein bisschen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 39, 
+                                        "name": "Angbor3d", 
+                                        "biography": "Teil des SundayMoaning Casts und Ansgar vom Podstock.", 
                                         "answers": []
                                     }
                                 ], 

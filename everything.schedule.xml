@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 1.5 0.4 2018-12-21 23:10</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-21 23:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -7752,8 +7752,8 @@ Letztes Jahr gestartet aus der Motivation heraus, dem Motto tuwat gerecht zu wer
       </event>
       <event id="7" guid="ee95f307-51bb-5c91-af43-fcb0fd1ede55">
         <logo/>
-        <date>2018-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>00:45</duration>
         <room>Sendetisch</room>
         <slug>KJ7UJX</slug>
@@ -11781,6 +11781,35 @@ Das Projekt endet wie der Steinkohlebergbau zum Ende des Jahres!</biography>
       </event>
     </room>
     <room name="Sendetisch">
+      <event id="40" guid="d911fe9a-cc65-5a63-8342-2d8dcd4643e6">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>BXXRKZ</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/BXXRKZ</url>
+        <title>„Hilda Matheson“ - Pionierin des Talk-Radios.</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Hilda Matheson hat in den späten 1920er Jahren bei der BBC das Talk Radio entwickelt, den Vorgänger von Podcasts, wie wir sie heute kennen.</abstract>
+        <description>Matheson war bei der BBC die erste "Director of Talks". Nach ihrem Rücktritt von der BBC im Jahr 1931 veröffentlichte sie ein Buch über die Entwicklung des Rundfunks. Hilda Matheson ist der Beitrag des Sendezentrums zur Haecksen Memorial-Aktion beim #35c3. Während des Congress wird so an Erfinderinnen und Pionierinnen erinnert.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">
+            <name>Unbenannter Nutzer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="15" guid="90064a9e-a99a-54be-899d-13117165ce6b">
         <logo/>
         <date>2018-12-29T12:00:00+01:00</date>
@@ -11811,6 +11840,35 @@ Das möchte ich mit dem Podcast ändern!</description>
 Ich habe den Podcast mit einer Freundin gestartet, seit ca. 1 Jahr bin ich alleine unterwegs mit dem Fokus auf einen Interviewpodcast: Ich mag's sehr gerne über die unterschiedlichsten Themen Gespräche zu führen.&#13;
 Deshalb habe ich auch viel, viel mehr Folgen bereits aufgenommen, als veröffentlicht&#13;
 Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale Bildung &amp; dem Empowerment von Kids.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="38" guid="f5e812d5-69e5-5443-bdc6-7d6229c004e9">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>NEBUH9</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/NEBUH9</url>
+        <title>Chaos Moaning Cast</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Amüsante Nachrichtenmeldungen und ein kleiner Rückblick auf die vergangenen Congresstage.</abstract>
+        <description>Wie eigentlich fast jeden Sonntag *hust* setzt man sich zusammen und bespricht die Ereignisse der letzten Tage. Da die andere Hälfte des SMC gerade noch damit beschäftigt ist den Weihnachtsschmaus zu verdauen setzen sich Judith und Stefan an den Sendetisch auf dem 35c3 und quatschen ein bisschen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="39">
+            <name>Angbor3d</name>
+            <biography>Teil des SundayMoaning Casts und Ansgar vom Podstock.</biography>
           </person>
         </persons>
         <links/>
