@@ -5206,6 +5206,44 @@
             }
         ]
     }, 
+    "Session:LessWrong meetup# 6a4f5467ef37a899ba052ccb83a59a2c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545924000", 
+                "raw": "1/2018/12/27/15/20/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.lesswrong.com/"
+        ], 
+        "Has description": [
+            "Meetup for everyone interested or part of the Rationality/LessWrong movement"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "LessWrong meetup"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "7375c8c3-ef0c-4918-831f-6b72e5f28321"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup", 
+        "Has end time": []
+    }, 
     "Session:Let's hack words!# 96dd68006422b933c402ba1e0e45984a": {
         "Held in language": [
             "de - German", 
