@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:20</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 12:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6838,6 +6838,7 @@ Hierbei wird versucht, unwichtige Details weg zu lassen, nur die nötigsten Fach
 Wenn die Demo-Götter gut gelaunt sind, "infiziert" der Vortragende am Ende live seinen eigenen Rechner mit dem vorgestellten Verfahren.&#13;
 &#13;
 Zielgruppe: Alle außer ITSec ExpertInnen und anderen Menschen, die bereits wissen, wie ein Buffer Overflow funktioniert. :-)&#13;
+&#13;
 Quellcode von Folien und Demo: https://gitlab.com/chaos-siegen/oektion/vortrag/buffer_overflow</description>
         <recording>
           <license/>
