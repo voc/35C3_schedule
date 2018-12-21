@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.11 v1.4 0.4 2018-12-21 09:30</version>
+  <version>Columbo 2.1 0.9.12 v1.4 0.4 2018-12-21 09:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -5360,6 +5360,35 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
+      <event id="101" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
+        <logo/>
+        <date>2018-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>3CZK9Y</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y</url>
+        <title>Solidarity at Sea Movie</title>
+        <subtitle/>
+        <track/>
+        <type>Movie with Q&amp;A</type>
+        <language>en</language>
+        <abstract>Movie and Q&amp;A with crew members of Juventa and other SAR ships</abstract>
+        <description>Movie and Q&amp;A with crew members of Juventa and other SAR ships</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">
+            <name>Solidarity at Sea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="80" guid="a6bf60a6-dc23-5df1-9eea-eedbe8650994">
         <logo/>
         <date>2018-12-28T11:30:00+01:00</date>
@@ -10342,6 +10371,35 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
+      <event id="102" guid="076b0e7a-4d97-5958-8e02-740f6d8c6456">
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UVGYXJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ</url>
+        <title>Iuventa counter-investigation Movie</title>
+        <subtitle/>
+        <track/>
+        <type>Movie with Q&amp;A</type>
+        <language>en</language>
+        <abstract>Movie and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">
+            <name>Solidarity at Sea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="82" guid="07ca3e82-b108-5267-9c00-6aa584c24a12">
         <logo/>
         <date>2018-12-30T11:30:00+01:00</date>
