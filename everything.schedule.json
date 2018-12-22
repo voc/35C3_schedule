@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 22:50", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -13236,6 +13236,38 @@
                                 "links": [
                                     "http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies"
+                                ]
+                            }, 
+                            {
+                                "id": 1197, 
+                                "guid": "930f53c0-0aa4-4a54-99e6-3e90cd1a41ac", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": " Session:Soldering for Kids! (ages 4 to 6)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Mitch teaches how to solder to young kids of 4 to 6 years! They will solder a nifty Trippy RGB Waves Kit.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                                        "public_name": "Maltman23"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blizzz", 
+                                        "public_name": "Blizzz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Create_Session:_Session:Soldering_for_Kids!_(ages_4_to_6)"
                                 ]
                             }, 
                             {

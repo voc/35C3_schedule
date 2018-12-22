@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 22:50</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -12770,6 +12770,28 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <links>
           <link>http://cornfieldelectronics.com/cfe/projects/tvbg_arduino/tvbg_arduino_workshop.php</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies</link>
+        </links>
+      </event>
+      <event id="1197" guid="930f53c0-0aa4-4a54-99e6-3e90cd1a41ac">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title> Session:Soldering for Kids! (ages 4 to 6)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Mitch teaches how to solder to young kids of 4 to 6 years! They will solder a nifty Trippy RGB Waves Kit.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Blizzz">Blizzz</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Create_Session:_Session:Soldering_for_Kids!_(ages_4_to_6)</link>
         </links>
       </event>
       <event id="1160" guid="98125fad-be77-505a-903b-1e6f587c8997">
