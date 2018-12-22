@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 16:30", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 16:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -15049,6 +15049,33 @@
                                 "links": [
                                     "https://cornfieldelectronics.com/cfe/projects.php#ardutouch", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:ArduTouch_Music_Synthesizer_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1187, 
+                                "guid": "bb2df4ef-4912-4872-8037-46a999b7dd92", 
+                                "logo": null, 
+                                "date": "2018-12-30T13:30:00+01:00", 
+                                "start": "13:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "Bristlebots for kids", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "DE/EN/Fi Build a little electronic insect robot from a toothbrush and a motor", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                                        "public_name": "Kliment"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bristlebots_for_kids"
                                 ]
                             }, 
                             {

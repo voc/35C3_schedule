@@ -2683,6 +2683,67 @@
             }
         ]
     }, 
+    "Session:Bristlebots for kids# b4a9a0456a9ce21e6e30736d27918b53": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fi - Finnish"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546176600", 
+                "raw": "1/2018/12/30/13/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "DE/EN/Fi Build a little electronic insect robot from a toothbrush and a motor"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Bristlebots for kids"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "bb2df4ef-4912-4872-8037-46a999b7dd92"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bristlebots_for_kids", 
+        "Has end time": [
+            {
+                "timestamp": "1546180200", 
+                "raw": "1/2018/12/30/14/30/0/0"
+            }
+        ]
+    }, 
     "Session:Build your own Yub!Key# 9c945734187a94a6e240b8d16d81f80f": {
         "Held in language": [
             "de - German", 
@@ -3806,6 +3867,54 @@
                 "raw": "1/2018/12/27/16/30/0/0"
             }
         ]
+    }, 
+    "Session:Fastai python notebooks# a99a4ac7017a65418c7126bda523948d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545991200", 
+                "raw": "1/2018/12/28/10/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://course-v3.fast.ai/"
+        ], 
+        "Has description": [
+            "We will go through the 1st 1-2 lessons of the new fast.ai Deep Learning MOOC"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:C-base", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "understand the best Deep Learning MOOC out there, Deep Learning for coders"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Fastai python notebooks"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "988f1df7-1103-40b3-b128-cb7145fb3cec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fastai_python_notebooks", 
+        "Has end time": []
     }, 
     "Session:FediverseMeetup# 4d39c4d0b7cf1c1614fce6f5db332b58": {
         "Held in language": [], 
