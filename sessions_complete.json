@@ -5046,13 +5046,23 @@
         "Has website": [
             "https://freiheitsfoo.de/2018/12/14/horst-herold-ist-tot/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Wir lesen und diskutieren Texte von Horst Herold"
+        ], 
         "Has session type": [
             "Discussion"
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ulif", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ulif", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Horst Herold Hacks - der Mann, der die Gesellschaft mit dem Polizeicomputer revolutionieren wollte"
         ], 
