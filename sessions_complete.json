@@ -8013,6 +8013,112 @@
             }
         ]
     }, 
+    "Session:Sewing with Electricity# c0114b157359e08ad6d497f45673c50e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sewing electricity with Helen Leigh"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Make a squishy pressure sensor and learn about embroidering electronics"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sewing with Electricity"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "06a23c87-a522-4050-b187-97096dff1542"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity", 
+        "Has end time": [
+            {
+                "timestamp": "1546036200", 
+                "raw": "1/2018/12/28/22/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Sewing with Electricity# d54f4ae55a05f5d317a526962674f462": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sewing electricity with Helen Leigh"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Make a squishy pressure sensor and learn about embroidering electronics"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sewing with Electricity"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "a4454069-2a79-469f-9d49-5ccbf82e36e7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity", 
+        "Has end time": [
+            {
+                "timestamp": "1546122600", 
+                "raw": "1/2018/12/29/22/30/0/0"
+            }
+        ]
+    }, 
     "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 2b205e6e11659c3cc18cf3577fc75506": {
         "Held in language": [
             "de - German"
