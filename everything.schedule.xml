@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:50</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 16:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -12792,6 +12792,28 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <links>
           <link>https://foodhackingbase.org/wiki/Cidre_flows_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows</link>
+        </links>
+      </event>
+      <event id="1186" guid="95e25771-cd93-4c67-a627-66bfe90d4ac6">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug/>
+        <title>Mate Making DIY</title>
+        <subtitle>Tasting and Making Traditional Mate</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to make your own mate and host a circle.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate">Meta Mate</person>
+        </persons>
+        <links>
+          <link>http://metamate.cc/product/mate-introduction/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY</link>
         </links>
       </event>
       <event id="1094" guid="b7472a21-df97-415b-b00d-10c7f4b2933c">

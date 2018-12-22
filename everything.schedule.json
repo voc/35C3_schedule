@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:50", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 16:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -13272,6 +13272,34 @@
                                 "links": [
                                     "https://foodhackingbase.org/wiki/Cidre_flows_35c3", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows"
+                                ]
+                            }, 
+                            {
+                                "id": 1186, 
+                                "guid": "95e25771-cd93-4c67-a627-66bfe90d4ac6", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "", 
+                                "title": "Mate Making DIY", 
+                                "subtitle": "Tasting and Making Traditional Mate", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Learn how to make your own mate and host a circle.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate", 
+                                        "public_name": "Meta Mate"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://metamate.cc/product/mate-introduction/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY"
                                 ]
                             }, 
                             {

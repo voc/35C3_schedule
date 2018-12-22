@@ -5996,7 +5996,7 @@
             }
         ]
     }, 
-    "Session:Mate Making DIY# ffbfc5c556e4275e54af02974f36d520": {
+    "Session:Mate Making DIY# a2729cfebf0fe7cee64b677cc07c3458": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -6021,19 +6021,91 @@
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Meta Mate", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Mate Making DIY"
         ], 
         "Has duration": [], 
         "GUID": [
-            "f182a6d1-6dec-4bb9-a614-82aab61ee38d"
+            "a5764b62-185c-4b46-8697-1df939099bfd"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY", 
         "Has end time": []
+    }, 
+    "Session:Mate Making DIY# afc80ddcae6271282f3bf6fc510ca911": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://metamate.cc/product/mate-introduction/"
+        ], 
+        "Has description": [
+            "Learn how to make your own mate and host a circle."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Tasting and Making Traditional Mate"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Meta Mate", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Mate Making DIY"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "95e25771-cd93-4c67-a627-66bfe90d4ac6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY", 
+        "Has end time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ]
     }, 
     "Session:Mechanical Keyboard Meetup# ff24abd83aeb2a69e92e390bed470cb2": {
         "Held in language": [
