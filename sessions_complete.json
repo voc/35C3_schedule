@@ -9206,6 +9206,114 @@
             }
         ]
     }, 
+    "Session:TNC assembly workshop# 9c6097e36d329cbff96a4b348abef71a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Reflow soldering workshop for the TicTacLights Nano Colour kits sold at BlinkenArea"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "day 3"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "TNC assembly workshop"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "a02bd066-0c3d-4f23-9b14-53a2d751cb51"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:TNC assembly workshop# d2b61bcc3b3a8e24fcb6197e48d81409": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Reflow soldering workshop for the TicTacLights Nano Colour kits sold at BlinkenArea"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "day 2"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "TNC assembly workshop"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "90a789f7-5206-4aab-8578-b123edd96f0a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546039800", 
+                "raw": "1/2018/12/28/23/30/0/0"
+            }
+        ]
+    }, 
     "Session:Test Trick# fd14e70a8c1c72adcfcdc2f01058e2ee": {
         "Held in language": [
             "en - English"
@@ -10205,6 +10313,50 @@
             {
                 "timestamp": "1546110000", 
                 "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ]
+    }, 
+    "Session:TwinkMeetup# 1780fcc0aeee5280b0d5ca1b8e7dabe9": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546010100", 
+                "raw": "1/2018/12/28/15/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Twink Geeks Gathering - Flausch f\u00fcr Jungs \ud83c\udff3\ufe0f\ud83c\udf08"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "TwinkMeetup"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "669c9a37-1bca-4e16-b905-57bed1d0361d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:TwinkMeetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546011900", 
+                "raw": "1/2018/12/28/15/45/0/0"
             }
         ]
     }, 

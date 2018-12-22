@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 19:30", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 19:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8609,6 +8609,27 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
+                            }, 
+                            {
+                                "id": 1193, 
+                                "guid": "669c9a37-1bca-4e16-b905-57bed1d0361d", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "0:30", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "TwinkMeetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Twink Geeks Gathering - Flausch f\u00fcr Jungs \ud83c\udff3\ufe0f\ud83c\udf08", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:TwinkMeetup"
+                                ]
                             }
                         ], 
                         "Assembly:Hardware Hacking Area": [
@@ -8746,6 +8767,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1192, 
+                                "guid": "90a789f7-5206-4aab-8578-b123edd96f0a", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "4:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "TNC assembly workshop", 
+                                "subtitle": "day 2", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Reflow soldering workshop for the TicTacLights Nano Colour kits sold at BlinkenArea", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop"
                                 ]
                             }
                         ], 
@@ -13291,6 +13333,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1191, 
+                                "guid": "a02bd066-0c3d-4f23-9b14-53a2d751cb51", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "3:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "", 
+                                "title": "TNC assembly workshop", 
+                                "subtitle": "day 3", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Reflow soldering workshop for the TicTacLights Nano Colour kits sold at BlinkenArea", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop"
                                 ]
                             }
                         ], 
