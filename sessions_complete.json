@@ -4806,6 +4806,63 @@
             }
         ]
     }, 
+    "Session:Hackerfleet's Maritime Hacker Meetup# 85a77f53d9c18d086811ea570782c6eb": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://hackerfleet.de/35c3"
+        ], 
+        "Has description": [
+            "Join us for a nice hour (or two) of open discussion around the topics of maritime hacking. Meet&Greet included."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:C-base", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Riot", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Riot", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hackerfleet's Maritime Hacker Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "92f3fbb3-45c7-4178-9b49-d87bd9223b5d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
+        "Has end time": []
+    }, 
     "Session:Hacking through the Body: Systema and Aerodynamics of Cognitive Dance# 280d965eb2afce8e2be8ce0dbda65240": {
         "Held in language": [
             "en - English"
