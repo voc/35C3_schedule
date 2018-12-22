@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 11:10", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 11:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8089,6 +8089,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 17, 
+                                "guid": "fdf06e81-63a7-5a92-ac5a-053440cdf221", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "00:30", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "883YLC", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/883YLC", 
+                                "title": "Einf\u00fchrung in Kubernetes Deployments f\u00fcr Codefor Labs", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 18, 
+                                        "name": "Tobias", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 34, 
                                 "guid": "b87a648f-d84d-5669-b472-3df1a7f8035d", 
                                 "logo": null, 
@@ -14733,12 +14764,43 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 32, 
+                                "guid": "966fb613-e266-560b-be19-ab6b8aad1db8", 
+                                "logo": null, 
+                                "date": "2018-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "RGU9XL", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL", 
+                                "title": "Datenguide / Projektvorstellung & Workshop", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Gruppentischen", 
+                                "language": "de", 
+                                "abstract": "Mit unserem Projekt Datengui.de machen wir die Daten der statistischen \u00c4mter zug\u00e4nglich f\u00fcr alle! In unserer Pr\u00e4sentation zeigen wir, wie wir die Daten aus der amtlichen Statistik saugen und f\u00fcr euch so aufbereiten, dass ihr sie verstehen und weiterbenutzten k\u00f6nnt.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 27, 
+                                        "name": "Simon", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 31, 
                                 "guid": "ff31429a-f7bd-5c10-a816-6c5bfb1295e2", 
                                 "logo": null, 
                                 "date": "2018-12-30T14:30:00+01:00", 
                                 "start": "14:30", 
-                                "duration": "01:00", 
+                                "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "A9QYBU", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU", 

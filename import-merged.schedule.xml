@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 11:10</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 11:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6122,6 +6122,35 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <attachments/>
         <answers/>
       </event>
+      <event id="17" guid="fdf06e81-63a7-5a92-ac5a-053440cdf221">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>883YLC</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/883YLC</url>
+        <title>Einführung in Kubernetes Deployments für Codefor Labs</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="18">
+            <name>Tobias</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="34" guid="b87a648f-d84d-5669-b472-3df1a7f8035d">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
@@ -10850,11 +10879,40 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <attachments/>
         <answers/>
       </event>
+      <event id="32" guid="966fb613-e266-560b-be19-ab6b8aad1db8">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>RGU9XL</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL</url>
+        <title>Datenguide / Projektvorstellung &amp; Workshop</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract>Mit unserem Projekt Datengui.de machen wir die Daten der statistischen Ämter zugänglich für alle! In unserer Präsentation zeigen wir, wie wir die Daten aus der amtlichen Statistik saugen und für euch so aufbereiten, dass ihr sie verstehen und weiterbenutzten könnt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="27">
+            <name>Simon</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="31" guid="ff31429a-f7bd-5c10-a816-6c5bfb1295e2">
         <logo/>
         <date>2018-12-30T14:30:00+01:00</date>
         <start>14:30</start>
-        <duration>01:00</duration>
+        <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>A9QYBU</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU</url>
