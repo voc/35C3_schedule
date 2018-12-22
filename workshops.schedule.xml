@@ -407,6 +407,27 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
         </links>
       </event>
+      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
+        <logo/>
+        <date>2018-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup</description>
+        <persons/>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
+        </links>
+      </event>
       <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
@@ -2722,5 +2743,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-22 02:40</version>
+  <version>2018-12-22 02:50</version>
 </schedule>

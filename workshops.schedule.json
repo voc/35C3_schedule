@@ -503,6 +503,29 @@
                                 ]
                             }, 
                             {
+                                "id": 1181, 
+                                "guid": "db2db5a1-d8f5-4f3e-ae85-051dc1e57e76", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "F-Droid Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "F-Droid Community Meetup", 
+                                "persons": [], 
+                                "links": [
+                                    "https://f-droid.org", 
+                                    "https://mastodon.technology/@fdroidorg", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup"
+                                ]
+                            }, 
+                            {
                                 "id": 1050, 
                                 "guid": "84945cde-3908-4f12-ac48-0ada208bf17e", 
                                 "logo": null, 
@@ -3259,6 +3282,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 02:40"
+        "version": "2018-12-22 02:50"
     }
 }

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 02:40</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 02:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -1918,6 +1918,27 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
         </links>
       </event>
+      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
+        <logo/>
+        <date>2018-12-27T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup</description>
+        <persons/>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
+        </links>
+      </event>
       <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
@@ -3821,6 +3842,52 @@ All seine Podcasts: http://dampfnudel.net</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
+        </links>
+      </event>
+      <event id="1175" guid="2ca556b7-b032-4d2a-918d-622739d168fc">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>chaotikum</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
+        </links>
+      </event>
+      <event id="1178" guid="6cb66785-a5d3-5db8-a4f8-8d45545aa9cb">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>BLEP</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
         </links>
       </event>
       <event id="1142" guid="85caaa0d-3265-5b7f-a023-1eb06a004da0">
@@ -8091,6 +8158,75 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
         </links>
       </event>
+      <event id="1174" guid="bf6ea8a8-ed96-41bb-9289-39f3f0804435">
+        <logo/>
+        <date>2018-12-28T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>After-Talk 1</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
+        </links>
+      </event>
+      <event id="1176" guid="6e1fbd3d-be6b-597d-b05c-7251c5fd0acb">
+        <logo/>
+        <date>2018-12-28T16:10:00+01:00</date>
+        <start>16:10</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>After-Talk 2</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
+        </links>
+      </event>
+      <event id="1179" guid="014682ad-863f-569e-9891-76e5d22f7cc9">
+        <logo/>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>Day 3 TBD</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
+        </links>
+      </event>
       <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
         <logo/>
         <date>2018-12-28T20:00:00+01:00</date>
@@ -12341,6 +12477,29 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
+        </links>
+      </event>
+      <event id="1177" guid="e6ab1d0c-6a85-5d0a-9f3b-c0f811e9f054">
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Blind Navigation Workshops</title>
+        <subtitle>Day 4 TBD</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
+        </persons>
+        <links>
+          <link>https://s.ai/ccc/ws</link>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
         </links>
       </event>
       <event id="1141" guid="f5427987-a60c-467b-8dd7-9db40e8719fa">
