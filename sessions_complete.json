@@ -8175,6 +8175,96 @@
             }
         ]
     }, 
+    "Session:Stickertausch# 82f6fdabc2fbcf5bc3b08feba13c5ce3": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "we gather to exchange our stickers"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "1st meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Stickertausch"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "24c0f56a-48e9-416c-bfa5-0127fe250dee"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch", 
+        "Has end time": [
+            {
+                "timestamp": "1545943500", 
+                "raw": "1/2018/12/27/20/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Stickertausch# b073dd72b2b4ebe2508be3dcb90c6dc3": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546191000", 
+                "raw": "1/2018/12/30/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "we gather to exchange our stickers"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "2nd meeting"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Stickertausch"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "613ca87a-a52c-442f-b267-901950b2f3ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch", 
+        "Has end time": [
+            {
+                "timestamp": "1546193700", 
+                "raw": "1/2018/12/30/18/15/0/0"
+            }
+        ]
+    }, 
     "Session:Structure and Content of the Visible Darknet# e39a35ffd986fef6d3e0d901b6d1cc9d": {
         "Held in language": [
             "en - English"

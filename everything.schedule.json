@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 17:40", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 17:50", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3967,6 +3967,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nerfgun_Battle"
+                                ]
+                            }, 
+                            {
+                                "id": 1188, 
+                                "guid": "24c0f56a-48e9-416c-bfa5-0127fe250dee", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:45", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Stickertausch", 
+                                "subtitle": "1st meeting", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "we gather to exchange our stickers", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch"
                                 ]
                             }, 
                             {
@@ -15183,6 +15204,27 @@
                                 "links": [
                                     "https://schoenerhausen.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat_Hausbesichtigung"
+                                ]
+                            }, 
+                            {
+                                "id": 1189, 
+                                "guid": "613ca87a-a52c-442f-b267-901950b2f3ac", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "0:45", 
+                                "room": "", 
+                                "slug": "", 
+                                "title": "Stickertausch", 
+                                "subtitle": "2nd meeting", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "we gather to exchange our stickers", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch"
                                 ]
                             }, 
                             {
