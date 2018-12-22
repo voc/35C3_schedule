@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 13:20", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 13:30", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6566,7 +6566,7 @@
                                 "type": "", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what influence this should have on password length.", 
+                                "description": "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what this means for password length - or not.", 
                                 "persons": [
                                     {
                                         "id": 0, 

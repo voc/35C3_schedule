@@ -1607,7 +1607,7 @@
                                 "type": "", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what influence this should have on password length.", 
+                                "description": "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what this means for password length - or not.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -3366,6 +3366,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 13:20"
+        "version": "2018-12-22 13:30"
     }
 }

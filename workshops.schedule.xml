@@ -1330,7 +1330,7 @@
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what influence this should have on password length.</description>
+        <description>Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what this means for password length - or not.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tjal">Tjal</person>
         </persons>
@@ -2809,5 +2809,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-22 13:20</version>
+  <version>2018-12-22 13:30</version>
 </schedule>
