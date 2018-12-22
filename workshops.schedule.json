@@ -2418,7 +2418,7 @@
                                 "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "FPGAs and CPUs in your USB port. They're here, and they're open source. But what good are they? Come and share your ideas. We'll give out free USB Tomu boards to people who ask good questions!", 
+                                "description": "FPGAs and CPUs in your USB port. They're here, and they're open source. But what good are they? Come and share your ideas. We'll give out free USB Tomu boards to people who ask good questions!  We'll cover the basics of how Fomu is set up, as well as some of the cool and very open technology you can use today to develop on some very usable FPGAs.", 
                                 "persons": [], 
                                 "links": [
                                     "https://tomu.im/", 
@@ -3332,6 +3332,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 11:00"
+        "version": "2018-12-22 11:10"
     }
 }
