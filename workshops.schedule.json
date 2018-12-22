@@ -3121,6 +3121,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1198, 
+                                "guid": "e21c281d-cc1d-4bf9-97b9-9388dae8c877", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "SailfishOS (SFOS) Meetup", 
+                                "subtitle": "SFOS sailors on 35C3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "SailfishOS User Meetup", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                                        "public_name": "Franz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SailfishOS_(SFOS)_Meetup"
+                                ]
+                            }, 
+                            {
                                 "id": 1165, 
                                 "guid": "1dc4e117-7e7d-469b-bf40-83fe67abbaf2", 
                                 "logo": null, 
@@ -3387,6 +3414,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 23:40"
+        "version": "2018-12-22 23:50"
     }
 }

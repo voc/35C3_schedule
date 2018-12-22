@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:40", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:50", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -11099,6 +11099,33 @@
                                 "links": [
                                     "http://haecksen.org", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1198, 
+                                "guid": "e21c281d-cc1d-4bf9-97b9-9388dae8c877", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "SailfishOS (SFOS) Meetup", 
+                                "subtitle": "SFOS sailors on 35C3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "SailfishOS User Meetup", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                                        "public_name": "Franz"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SailfishOS_(SFOS)_Meetup"
                                 ]
                             }, 
                             {
