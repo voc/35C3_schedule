@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:50</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 00:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -8609,6 +8609,27 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         </links>
       </event>
     </room>
+    <room name="Assembly:Kidspace">
+      <event id="1200" guid="36ecd754-96dc-5506-b41a-021f2aa16a0c">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug/>
+        <title>Elektrobastelei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, Nägeln, Magneten und kleinen Lämpchen könnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Foodhackingbase">
       <event id="1069" guid="f3c8a25c-3a1b-436e-916f-4388c9c452f3">
         <logo/>
@@ -13027,6 +13048,27 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <links>
           <link>https://ds.ccc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Kidspace">
+      <event id="1199" guid="3d643d5a-cb73-4278-9bce-c457f9a50e85">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug/>
+        <title>Elektrobastelei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, Nägeln, Magneten und kleinen Lämpchen könnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei</link>
         </links>
       </event>
     </room>

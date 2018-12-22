@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 23:50", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 00:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8833,6 +8833,29 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Kidspace": [
+                            {
+                                "id": 1200, 
+                                "guid": "36ecd754-96dc-5506-b41a-021f2aa16a0c", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "", 
+                                "title": "Elektrobastelei", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei"
+                                ]
+                            }
+                        ], 
                         "Assembly:Foodhackingbase": [
                             {
                                 "id": 1069, 
@@ -13561,6 +13584,29 @@
                                 "links": [
                                     "https://ds.ccc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Kidspace": [
+                            {
+                                "id": 1199, 
+                                "guid": "3d643d5a-cb73-4278-9bce-c457f9a50e85", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "", 
+                                "title": "Elektrobastelei", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei"
                                 ]
                             }
                         ], 
