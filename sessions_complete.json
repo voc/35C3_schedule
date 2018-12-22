@@ -3358,6 +3358,44 @@
             }
         ]
     }, 
+    "Session:F-Droid Meetup# a55ab51c4174219f5d1736361c146cef": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://f-droid.org", 
+            "https://mastodon.technology/@fdroidorg"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "F-Droid Meetup"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "db2db5a1-d8f5-4f3e-ae85-051dc1e57e76"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup", 
+        "Has end time": []
+    }, 
     "Session:FediverseMeetup# 4d39c4d0b7cf1c1614fce6f5db332b58": {
         "Held in language": [], 
         "Has start time": [
