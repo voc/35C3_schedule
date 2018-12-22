@@ -2108,6 +2108,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1183, 
+                                "guid": "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "EPrivacy: Call to action!", 
+                                "subtitle": "Get active and fight for ePrivacy!", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Call to action to organise a campaign around ePrivacy in 2019", 
+                                "persons": [], 
+                                "links": [
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!"
+                                ]
+                            }, 
+                            {
                                 "id": 1042, 
                                 "guid": "5545c9a3-44dc-4722-a5eb-3e75e85f6e89", 
                                 "logo": null, 
@@ -3310,6 +3332,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 10:50"
+        "version": "2018-12-22 11:00"
     }
 }

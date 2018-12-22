@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 10:50</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 11:00</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -6249,6 +6249,26 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
+        </links>
+      </event>
+      <event id="1183" guid="bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug/>
+        <title>EPrivacy: Call to action!</title>
+        <subtitle>Get active and fight for ePrivacy!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Call to action to organise a campaign around ePrivacy in 2019</description>
+        <persons/>
+        <links>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!</link>
         </links>
       </event>
       <event id="1042" guid="5545c9a3-44dc-4722-a5eb-3e75e85f6e89">
