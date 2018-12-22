@@ -9712,14 +9712,14 @@
             }
         ]
     }, 
-    "Session:Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG# 9f7df7dc12f336df1e176e7439b941e5": {
+    "Session:Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG# ac1f7c201cfa3ae8a4f19a9f5f228264": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
             }
         ], 
         "Has event track": [
@@ -9734,13 +9734,23 @@
         "Has session type": [
             "Talk"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
             "ebc6e34d-df17-4d2d-81da-809ce08ad4ed"
         ], 
@@ -9748,7 +9758,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ]
     }, 
     "Session:WhiskyTasting# 0cf632f1f5841b1b6be91283aeeb1c4e": {
         "Held in language": [

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 08:30", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 08:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -10995,6 +10995,28 @@
                                 "links": [
                                     "http://susi.ai", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_Assistants_By_People_for_the_People"
+                                ]
+                            }, 
+                            {
+                                "id": 1182, 
+                                "guid": "ebc6e34d-df17-4d2d-81da-809ce08ad4ed", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilt OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird nur am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.nongnu.org/dkgpg/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG"
                                 ]
                             }
                         ], 
