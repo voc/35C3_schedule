@@ -3056,12 +3056,13 @@
                                 "title": "Introtoprogramminglanguagesforbeginners", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
+                                "type": "workshop", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Introduction to programming languages for beginners", 
                                 "persons": [], 
                                 "links": [
+                                    "http://haecksen.org", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners"
                                 ]
                             }, 
@@ -3332,6 +3333,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 11:20"
+        "version": "2018-12-22 11:30"
     }
 }
