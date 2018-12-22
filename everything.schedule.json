@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 13:10", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 13:20", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6555,8 +6555,8 @@
                                 "id": 1184, 
                                 "guid": "9f3a6677-5d19-40f7-8476-3f55daeec545", 
                                 "logo": null, 
-                                "date": "2018-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
+                                "date": "2018-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
                                 "duration": "0:45", 
                                 "room": "Lecture room M1", 
                                 "slug": "", 

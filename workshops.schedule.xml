@@ -1319,8 +1319,8 @@
       </event>
       <event id="1184" guid="9f3a6677-5d19-40f7-8476-3f55daeec545">
         <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2018-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
         <duration>0:45</duration>
         <room>Lecture room M1</room>
         <slug/>
@@ -2809,5 +2809,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-22 13:10</version>
+  <version>2018-12-22 13:20</version>
 </schedule>
