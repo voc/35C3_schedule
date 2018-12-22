@@ -5030,14 +5030,14 @@
             }
         ]
     }, 
-    "Session:Horst Herold Hacks - der Mann, der die Gesellschaft mit dem Polizeicomputer revolutionieren wollte# 11053d9031820d122b1b619f7a710305": {
+    "Session:Horst Herold Hacks - der Mann, der die Gesellschaft mit dem Polizeicomputer revolutionieren wollte# 2005b8ec0443839f4654ef12b4cd42bd": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546000200", 
+                "raw": "1/2018/12/28/12/30/0/0"
             }
         ], 
         "Has event track": [
@@ -5066,7 +5066,9 @@
         "Has title": [
             "Horst Herold Hacks - der Mann, der die Gesellschaft mit dem Polizeicomputer revolutionieren wollte"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "GUID": [
             "2708d339-0653-4648-bae1-0f2ec8d42811"
         ], 
@@ -5074,7 +5076,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ]
     }, 
     "Session:HowToConflict# c144e95b5c4152e8384c838e80efe9f4": {
         "Held in language": [
