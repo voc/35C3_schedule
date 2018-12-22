@@ -1593,6 +1593,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1184, 
+                                "guid": "9f3a6677-5d19-40f7-8476-3f55daeec545", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:45", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "Is That Password Long Enough?", 
+                                "subtitle": "Entry to medium level talk", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what influence this should have on password length.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Tjal", 
+                                        "public_name": "Tjal"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Is_That_Password_Long_Enough%3F"
+                                ]
+                            }, 
+                            {
                                 "id": 1072, 
                                 "guid": "510840f6-a273-42f3-89ee-d62ce607f9f6", 
                                 "logo": null, 
@@ -3339,6 +3366,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 13:00"
+        "version": "2018-12-22 13:10"
     }
 }

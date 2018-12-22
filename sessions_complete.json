@@ -5192,6 +5192,65 @@
             }
         ]
     }, 
+    "Session:Is That Password Long Enough?# 06ef99e8e652034b465f40fa6b0290e3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what influence this should have on password length."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Entry to medium level talk"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Tjal", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Tjal", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Is That Password Long Enough?"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "9f3a6677-5d19-40f7-8476-3f55daeec545"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Is_That_Password_Long_Enough%3F", 
+        "Has end time": [
+            {
+                "timestamp": "1546029900", 
+                "raw": "1/2018/12/28/20/45/0/0"
+            }
+        ]
+    }, 
     "Session:Kefir Making# 9b58c9320f991ff63e3dd35a89ae3e65": {
         "Held in language": [
             "en - English"
