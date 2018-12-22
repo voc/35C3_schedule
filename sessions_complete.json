@@ -3413,72 +3413,6 @@
             }
         ]
     }, 
-    "Create Session: Session:Soldering for Kids! (ages 4 to 6)# 6989ecbfc66b9b5786f615932363efca": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Mitch teaches how to solder to young kids of 4 to 6 years! They will solder a nifty Trippy RGB Waves Kit."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Hardware Hacking Area", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Maltman23", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }, 
-            {
-                "fulltext": "User:Blizzz", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blizzz", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            " Session:Soldering for Kids! (ages 4 to 6)"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "930f53c0-0aa4-4a54-99e6-3e90cd1a41ac"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Create_Session:_Session:Soldering_for_Kids!_(ages_4_to_6)", 
-        "Has end time": [
-            {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
-            }
-        ]
-    }, 
     "Session:Datenschleuder-Treffen# 6ec69bd6387b388eaf4e31ca2c5b6c61": {
         "Held in language": [
             "de - German"
@@ -8292,6 +8226,72 @@
             {
                 "timestamp": "1546122600", 
                 "raw": "1/2018/12/29/22/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Soldering for Kids! (ages 4 to 6)# 89fac034992626fa44b620e09206795d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Mitch teaches how to solder to young kids of 4 to 6 years! They will solder a nifty Trippy RGB Waves Kit."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Maltman23", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Blizzz", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blizzz", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Soldering for Kids! (ages 4 to 6)"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "930f53c0-0aa4-4a54-99e6-3e90cd1a41ac"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Soldering_for_Kids!_(ages_4_to_6)", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
             }
         ]
     }, 
