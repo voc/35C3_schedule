@@ -1307,7 +1307,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Ich werde euch eine Ideensammlung an die Hand geben, wie ihr euch bei bestimmten Situation verteidigen k\u00f6nnt. Der Workshop ist praxisorientiert und eine Anmeldung ist n\u00f6tig, siehe Beschreibung"
+            "Ich werde euch eine Ideensammlung an die Hand geben, wie ihr euch bei bestimmten Situationen verteidigen k\u00f6nnt. Der Workshop ist praxisorientiert und eine Anmeldung ist n\u00f6tig, siehe Beschreibung"
         ], 
         "Has session type": [
             "Workshop"
@@ -9535,6 +9535,44 @@
                 "raw": "1/2018/12/22/17/0/0/0"
             }
         ]
+    }, 
+    "Session:Test# 73b19bd4241d811fca742c565142319d": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Test"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "27224164-a862-4d0c-8c32-2f5efd3d93cc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Test", 
+        "Has end time": []
     }, 
     "Session:Tim May Memorial# 693cb995127e72c84514de38d12a0025": {
         "Held in language": [
