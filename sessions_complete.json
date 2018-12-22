@@ -7143,6 +7143,49 @@
             }
         ]
     }, 
+    "Session:Muster-/Polizeigesetz(e)# b713c8b9e1761f5806b15bcd67d41882": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Letztes Jahr haben sich ein paar Leute zum Thema \"Musterpolizeigesetz\" getroffen. So ein hierarchiefreies und wenig strukturiertes Treffen soll auch dieses Jahr m\u00f6glich sein. Gerne k\u00f6nnen auch Leute dazukommen, die sich gegen die derzeit wuchernden Polizeigesetzreformen zur Wehr setzen."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Muster-/Polizeigesetz(e)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "f45b9f26-45ad-4c8b-8350-1abfc1420514"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Muster-/Polizeigesetz(e)", 
+        "Has end time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Nerfgun Battle# e20b84aa8eda363c7035941403c5ae93": {
         "Held in language": [
             "de - German", 

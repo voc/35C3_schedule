@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 00:10</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 00:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -8403,6 +8403,25 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <links>
           <link>https://freiheitsfoo.de/2018/12/14/horst-herold-ist-tot/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte</link>
+        </links>
+      </event>
+      <event id="1201" guid="f45b9f26-45ad-4c8b-8350-1abfc1420514">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug/>
+        <title>Muster-/Polizeigesetz(e)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Letztes Jahr haben sich ein paar Leute zum Thema "Musterpolizeigesetz" getroffen. So ein hierarchiefreies und wenig strukturiertes Treffen soll auch dieses Jahr möglich sein. Gerne können auch Leute dazukommen, die sich gegen die derzeit wuchernden Polizeigesetzreformen zur Wehr setzen.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Muster-/Polizeigesetz(e)</link>
         </links>
       </event>
       <event id="1144" guid="5b7e4df9-2b03-5e2d-bd72-9642e5ff8998">
