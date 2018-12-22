@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 21:30", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 21:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -5961,6 +5961,27 @@
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1196, 
+                                "guid": "798bce4c-2d33-417c-bd1c-23b19c56c2c4", 
+                                "logo": null, 
+                                "date": "2018-12-28T09:30:00+01:00", 
+                                "start": "09:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "Analoge Selbstverteidigung", 
+                                "subtitle": "Anf\u00e4ngerkurs", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Ich werde euch eine Ideensammlung an die Hand geben, wie ihr euch bei bestimmten Situation verteidigen k\u00f6nnt. Der Workshop ist praxisorientiert und eine Anmeldung ist n\u00f6tig, siehe Beschreibung", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Analoge_Selbstverteidigung"
                                 ]
                             }, 
                             {

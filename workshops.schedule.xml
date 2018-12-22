@@ -937,6 +937,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting</link>
         </links>
       </event>
+      <event id="1196" guid="798bce4c-2d33-417c-bd1c-23b19c56c2c4">
+        <logo/>
+        <date>2018-12-28T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room 11</room>
+        <slug/>
+        <title>Analoge Selbstverteidigung</title>
+        <subtitle>Anfängerkurs</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Ich werde euch eine Ideensammlung an die Hand geben, wie ihr euch bei bestimmten Situation verteidigen könnt. Der Workshop ist praxisorientiert und eine Anmeldung ist nötig, siehe Beschreibung</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Analoge_Selbstverteidigung</link>
+        </links>
+      </event>
       <event id="1026" guid="d2971043-2bc3-4427-a411-6987e3c48e2a">
         <logo/>
         <date>2018-12-28T13:30:00+01:00</date>
@@ -2809,5 +2828,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-22 21:30</version>
+  <version>2018-12-22 21:40</version>
 </schedule>

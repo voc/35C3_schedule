@@ -1137,6 +1137,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1196, 
+                                "guid": "798bce4c-2d33-417c-bd1c-23b19c56c2c4", 
+                                "logo": null, 
+                                "date": "2018-12-28T09:30:00+01:00", 
+                                "start": "09:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "", 
+                                "title": "Analoge Selbstverteidigung", 
+                                "subtitle": "Anf\u00e4ngerkurs", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Ich werde euch eine Ideensammlung an die Hand geben, wie ihr euch bei bestimmten Situation verteidigen k\u00f6nnt. Der Workshop ist praxisorientiert und eine Anmeldung ist n\u00f6tig, siehe Beschreibung", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Analoge_Selbstverteidigung"
+                                ]
+                            }, 
+                            {
                                 "id": 1026, 
                                 "guid": "d2971043-2bc3-4427-a411-6987e3c48e2a", 
                                 "logo": null, 
@@ -3366,6 +3387,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 21:30"
+        "version": "2018-12-22 21:40"
     }
 }
