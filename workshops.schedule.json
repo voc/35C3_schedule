@@ -1036,7 +1036,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "\u201cPeople worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.\u201d", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:ChrisKelvin", 
+                                        "public_name": "ChrisKelvin"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Artificial_intelligence:_bridging_the_chasm"
                                 ]
@@ -1166,7 +1172,7 @@
                                 "type": "meeting", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Fr\u00fchst\u00fcck f\u00fcr Haeckerinnen (Haecksen) und alle, die es werden wollen", 
                                 "persons": [], 
                                 "links": [
                                     "http://haecksen.org", 
@@ -3333,6 +3339,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-22 11:40"
+        "version": "2018-12-22 11:50"
     }
 }

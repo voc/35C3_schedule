@@ -1572,7 +1572,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:ChrisKelvin", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:ChrisKelvin", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Artificial intelligence: bridging the chasm"
         ], 
@@ -4705,7 +4713,9 @@
         "Has website": [
             "http://haecksen.org"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Fr\u00fchst\u00fcck f\u00fcr Haeckerinnen (Haecksen) und alle, die es werden wollen"
+        ], 
         "Has session type": [
             "Meeting"
         ], 

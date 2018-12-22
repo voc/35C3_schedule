@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 11:40</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 11:50</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2095,7 +2095,9 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <language>en</language>
         <abstract/>
         <description>“People worry that computers will get too smart and take over the world, but the real problem is that they're too stupid and they've already taken over the world.”</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:ChrisKelvin">ChrisKelvin</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Artificial_intelligence:_bridging_the_chasm</link>
         </links>
@@ -5893,7 +5895,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <type>meeting</type>
         <language>de</language>
         <abstract/>
-        <description/>
+        <description>Frühstück für Haeckerinnen (Haecksen) und alle, die es werden wollen</description>
         <persons/>
         <links>
           <link>http://haecksen.org</link>
