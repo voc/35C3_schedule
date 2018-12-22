@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 00:50", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.4 2018-12-22 01:00", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -5979,60 +5979,6 @@
                         ], 
                         "Seminar room 14-15": [
                             {
-                                "id": 1170, 
-                                "guid": "637a7f7f-735b-4375-8cb3-040439073627", 
-                                "logo": null, 
-                                "date": "2018-12-28T10:00:00+01:00", 
-                                "start": "10:00", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "(Python) Programming for Absolute Beginners", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
-                                        "public_name": "Ingo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners"
-                                ]
-                            }, 
-                            {
-                                "id": 1171, 
-                                "guid": "cf26c47b-f4ca-44c0-984e-a330f566b993", 
-                                "logo": null, 
-                                "date": "2018-12-28T20:30:00+01:00", 
-                                "start": "20:30", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "", 
-                                "title": "(Python) Programming for Absolute Beginners", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
-                                        "public_name": "Ingo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners"
-                                ]
-                            }, 
-                            {
                                 "id": 1022, 
                                 "guid": "3e46bf2b-aabb-4418-9865-bee32ca9a505", 
                                 "logo": null, 
@@ -6228,6 +6174,33 @@
                             }
                         ], 
                         "Seminar room 13": [
+                            {
+                                "id": 1172, 
+                                "guid": "f805d381-4f99-4eb4-a843-6d0d8a110d35", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "", 
+                                "title": "(Python) Programming for Absolute Beginners", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                                        "public_name": "Ingo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners"
+                                ]
+                            }, 
                             {
                                 "id": 1002, 
                                 "guid": "cf7a5483-fd80-4deb-9e64-0c88fed4b803", 
@@ -10435,6 +10408,33 @@
                             }
                         ], 
                         "Seminar room 14-15": [
+                            {
+                                "id": 1173, 
+                                "guid": "d832ca66-9064-4cd6-b9d7-4e85c906fdbd", 
+                                "logo": null, 
+                                "date": "2018-12-29T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "(Python) Programming for Absolute Beginners", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                                        "public_name": "Ingo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners"
+                                ]
+                            }, 
                             {
                                 "id": 1154, 
                                 "guid": "ce97b81d-87de-42cc-bcf2-1b5a0507aeac", 
