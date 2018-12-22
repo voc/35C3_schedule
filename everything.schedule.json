@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:30", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:40", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3018,6 +3018,12 @@
                                         "name": "Hibas123", 
                                         "biography": "Hobby Entwickler, mit anscheinend zu viel Freizeit :)", 
                                         "answers": []
+                                    }, 
+                                    {
+                                        "id": 92, 
+                                        "name": "adnidor", 
+                                        "biography": "Mastodon: @adnidor@chaos.social", 
+                                        "answers": []
                                     }
                                 ], 
                                 "links": [], 
@@ -3245,6 +3251,12 @@
                                         "id": 38, 
                                         "name": "Hibas123", 
                                         "biography": "Hobby Entwickler, mit anscheinend zu viel Freizeit :)", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 92, 
+                                        "name": "adnidor", 
+                                        "biography": "Mastodon: @adnidor@chaos.social", 
                                         "answers": []
                                     }
                                 ], 

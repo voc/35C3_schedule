@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:30</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-22 15:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2976,6 +2976,10 @@ In diesem Talk wird der aktuelle Stand des Projektes vorgestellt, sowie im Ansch
             <name>Hibas123</name>
             <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
           </person>
+          <person id="92">
+            <name>adnidor</name>
+            <biography>Mastodon: @adnidor@chaos.social</biography>
+          </person>
         </persons>
         <links/>
         <attachments/>
@@ -3197,6 +3201,10 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="38">
             <name>Hibas123</name>
             <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
+          <person id="92">
+            <name>adnidor</name>
+            <biography>Mastodon: @adnidor@chaos.social</biography>
           </person>
         </persons>
         <links/>
