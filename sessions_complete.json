@@ -9729,7 +9729,7 @@
             "https://www.nongnu.org/dkgpg/"
         ], 
         "Has description": [
-            "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilt OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird nur am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind."
+            "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilte OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird nur am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind."
         ], 
         "Has session type": [
             "Talk"
@@ -9744,7 +9744,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:HS", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:HS", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG"
         ], 
