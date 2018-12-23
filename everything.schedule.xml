@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 02:10</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 02:20</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -8646,6 +8646,29 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:FOSSASIA">
+      <event id="1202" guid="0efe53ce-0f5e-44f1-9391-7c6971ab593b">
+        <logo/>
+        <date>2018-12-28T20:15:00+01:00</date>
+        <start>20:15</start>
+        <duration>1:00</duration>
+        <room>Assembly:FOSSASIA</room>
+        <slug/>
+        <title>Feminist hackers &amp; makers meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meetup for anyone who identifies as feminist: hardware hackers, software hackers, society hackers, all welcome! At the FOSSASIA assembly, after the Feminist Perspectives panel</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Freakatoms">Freakatoms</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feminist_hackers_%26_makers_meetup</link>
         </links>
       </event>
     </room>
