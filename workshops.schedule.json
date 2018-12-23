@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 22:40", 
+        "version": "2018-12-23 22:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3269,6 +3269,34 @@
                             }
                         ], 
                         "Lecture room M1": [
+                            {
+                                "id": 1244, 
+                                "guid": "f60a4ce8-bf79-4b40-a01a-1661188399b0", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1244-session_autistic_meetup", 
+                                "title": "Autistic Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Autistic Meetup", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein", 
+                                        "public_name": "Fairsein"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://twitter.com/c3auti", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup"
+                                ]
+                            }, 
                             {
                                 "id": 1044, 
                                 "guid": "77654164-ca0f-48b7-8b74-92fb367fdb7c", 

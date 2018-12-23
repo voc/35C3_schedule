@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:40", 
+        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10545,6 +10545,114 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Foodhackingbase": [
+                            {
+                                "id": 1245, 
+                                "guid": "69acb0e0-6c30-4a76-aedd-71f7406c375a", 
+                                "logo": null, 
+                                "date": "2018-12-28T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1245-session_beertasting", 
+                                "title": "BeerTasting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Beer tasting at the FoodHackingBase. Taste some beers which are not very typical in german. Donations at your will, or bring at least 2 liters of unusual beer", 
+                                "persons": [], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Beer_tasting_35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:BeerTasting"
+                                ]
+                            }, 
+                            {
+                                "id": 1069, 
+                                "guid": "f3c8a25c-3a1b-436e-916f-4388c9c452f3", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1069-session_kefir_making", 
+                                "title": "Kefir Making", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We will learn how to work with kefir culture making variety of delicious products.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                                        "public_name": "Algoldor"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Kefir_making_35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making"
+                                ]
+                            }, 
+                            {
+                                "id": 1233, 
+                                "guid": "0494b788-28c5-40d7-877a-a024050fe42c", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "0:45", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1233-session_mead_making_presentation", 
+                                "title": "Mead making presentation", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "How to make mead (honey wine)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
+                                        "public_name": "Lefrog"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Fhb_35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation"
+                                ]
+                            }, 
+                            {
+                                "id": 1235, 
+                                "guid": "fd8d2e57-f517-4888-a1b5-de3fe14a1433", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:45:00+01:00", 
+                                "start": "11:45", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1235-session_obai_brause_mix_your_own_caffeinated_sherbet_powder", 
+                                "title": "Obai Brause: Mix your own caffeinated sherbet powder", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Mix your own caffeinated sherbet powder (German: \u201eBrausepulver\u201c). We provide tools and ingredients, you mix.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Schmittlauch", 
+                                        "public_name": "Schmittlauch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Caffeinated_Sherbet", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder"
+                                ]
+                            }
+                        ], 
                         "Kidspace": [
                             {
                                 "id": 1236, 
@@ -10734,92 +10842,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Foodhackingbase": [
-                            {
-                                "id": 1069, 
-                                "guid": "f3c8a25c-3a1b-436e-916f-4388c9c452f3", 
-                                "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Foodhackingbase", 
-                                "slug": "35c3-1069-session_kefir_making", 
-                                "title": "Kefir Making", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We will learn how to work with kefir culture making variety of delicious products.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
-                                        "public_name": "Algoldor"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://foodhackingbase.org/wiki/Kefir_making_35c3", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Kefir_Making"
-                                ]
-                            }, 
-                            {
-                                "id": 1233, 
-                                "guid": "0494b788-28c5-40d7-877a-a024050fe42c", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "0:45", 
-                                "room": "Assembly:Foodhackingbase", 
-                                "slug": "35c3-1233-session_mead_making_presentation", 
-                                "title": "Mead making presentation", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "How to make mead (honey wine)", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
-                                        "public_name": "Lefrog"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://foodhackingbase.org/wiki/Fhb_35c3", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation"
-                                ]
-                            }, 
-                            {
-                                "id": 1235, 
-                                "guid": "fd8d2e57-f517-4888-a1b5-de3fe14a1433", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:45:00+01:00", 
-                                "start": "11:45", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Foodhackingbase", 
-                                "slug": "35c3-1235-session_obai_brause_mix_your_own_caffeinated_sherbet_powder", 
-                                "title": "Obai Brause: Mix your own caffeinated sherbet powder", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Mix your own caffeinated sherbet powder (German: \u201eBrausepulver\u201c). We provide tools and ingredients, you mix.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Schmittlauch", 
-                                        "public_name": "Schmittlauch"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://foodhackingbase.org/wiki/Caffeinated_Sherbet", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder"
                                 ]
                             }
                         ], 
@@ -14079,6 +14101,34 @@
                             }
                         ], 
                         "Lecture room M1": [
+                            {
+                                "id": 1244, 
+                                "guid": "f60a4ce8-bf79-4b40-a01a-1661188399b0", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1244-session_autistic_meetup", 
+                                "title": "Autistic Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Autistic Meetup", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein", 
+                                        "public_name": "Fairsein"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://twitter.com/c3auti", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup"
+                                ]
+                            }, 
                             {
                                 "id": 1044, 
                                 "guid": "77654164-ca0f-48b7-8b74-92fb367fdb7c", 
