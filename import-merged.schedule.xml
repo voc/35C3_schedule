@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 15:00</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -1792,16 +1792,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <attachments/>
       </event>
     </room>
-    <room name="Chaos West Stage"/>
-    <room name="OIO lecture arena"/>
-    <room name="BühneLecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
     <room name="Chaos West Bühne">
       <event id="167" guid="2184122e-03b0-5730-bedf-dc8015807a56">
         <logo/>
@@ -2472,6 +2462,14 @@ The talk is reasonably technical - it doesn't delve in to code or algorithms but
         <answers/>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="c-base"/>
     <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="287" guid="589930fa-a993-54cc-93f9-b6eafdd97cc6">
@@ -5412,16 +5410,6 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <attachments/>
       </event>
     </room>
-    <room name="Chaos West Stage"/>
-    <room name="OIO lecture arena"/>
-    <room name="BühneLecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
     <room name="Chaos West Bühne">
       <event id="120" guid="5e68df49-aed6-535b-b7e3-094f66b11c12">
         <logo/>
@@ -6247,6 +6235,14 @@ This talk is for people not yet familiar with Nextcloud!</description>
         <answers/>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="c-base"/>
     <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="288" guid="c225c6dc-8f35-50e7-b4b1-f83f2022577d">
@@ -9109,16 +9105,6 @@ However, it's not always easy...</description>
         <attachments/>
       </event>
     </room>
-    <room name="Chaos West Stage"/>
-    <room name="OIO lecture arena"/>
-    <room name="BühneLecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
     <room name="Chaos West Bühne">
       <event id="163" guid="8f9197a2-06a9-5809-b094-621f95e8d2e7">
         <logo/>
@@ -10015,6 +10001,14 @@ Fragen....</description>
         <answers/>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="c-base"/>
     <room name="OIO Lötarea">
       <event id="290" guid="3c8fb2e5-b752-524f-b9b1-d3393929976d">
         <logo/>
@@ -11933,16 +11927,6 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <attachments/>
       </event>
     </room>
-    <room name="Chaos West Stage"/>
-    <room name="OIO lecture arena"/>
-    <room name="BühneLecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
     <room name="Chaos West Bühne">
       <event id="119" guid="04c8e1d6-ccde-596c-8d15-1fe758d0bc0e">
         <logo/>
@@ -12460,6 +12444,14 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
         <answers/>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Vintage Computing Cluster"/>
+    <room name="c-base"/>
     <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="285" guid="9fbdc7f9-97d6-56b9-a082-f2581a307401">

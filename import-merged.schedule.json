@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 15:00", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -1779,16 +1779,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "Chaos West Stage": [], 
-                        "OIO lecture arena": [], 
-                        "B\u00fchneLecture room 11": [], 
-                        "Seminar room 14-15": [], 
-                        "Seminar room 13": [], 
-                        "Lecture room M1": [], 
-                        "Lecture room M2": [], 
-                        "Lecture room M3": [], 
-                        "Vintage Computing Cluster": [], 
-                        "c-base": [], 
                         "Chaos West B\u00fchne": [
                             {
                                 "id": 167, 
@@ -2412,6 +2402,14 @@
                                 "answers": []
                             }
                         ], 
+                        "B\u00fchneLecture room 11": [], 
+                        "Seminar room 14-15": [], 
+                        "Seminar room 13": [], 
+                        "Lecture room M1": [], 
+                        "Lecture room M2": [], 
+                        "Lecture room M3": [], 
+                        "Vintage Computing Cluster": [], 
+                        "c-base": [], 
                         "OIO L\u00f6tarea": [], 
                         "OIO Workshop-Domo": [
                             {
@@ -5313,16 +5311,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "Chaos West Stage": [], 
-                        "OIO lecture arena": [], 
-                        "B\u00fchneLecture room 11": [], 
-                        "Seminar room 14-15": [], 
-                        "Seminar room 13": [], 
-                        "Lecture room M1": [], 
-                        "Lecture room M2": [], 
-                        "Lecture room M3": [], 
-                        "Vintage Computing Cluster": [], 
-                        "c-base": [], 
                         "Chaos West B\u00fchne": [
                             {
                                 "id": 120, 
@@ -6052,6 +6040,14 @@
                                 "answers": []
                             }
                         ], 
+                        "B\u00fchneLecture room 11": [], 
+                        "Seminar room 14-15": [], 
+                        "Seminar room 13": [], 
+                        "Lecture room M1": [], 
+                        "Lecture room M2": [], 
+                        "Lecture room M3": [], 
+                        "Vintage Computing Cluster": [], 
+                        "c-base": [], 
                         "OIO L\u00f6tarea": [], 
                         "OIO Workshop-Domo": [
                             {
@@ -9115,16 +9111,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "Chaos West Stage": [], 
-                        "OIO lecture arena": [], 
-                        "B\u00fchneLecture room 11": [], 
-                        "Seminar room 14-15": [], 
-                        "Seminar room 13": [], 
-                        "Lecture room M1": [], 
-                        "Lecture room M2": [], 
-                        "Lecture room M3": [], 
-                        "Vintage Computing Cluster": [], 
-                        "c-base": [], 
                         "Chaos West B\u00fchne": [
                             {
                                 "id": 163, 
@@ -9909,6 +9895,14 @@
                                 "answers": []
                             }
                         ], 
+                        "B\u00fchneLecture room 11": [], 
+                        "Seminar room 14-15": [], 
+                        "Seminar room 13": [], 
+                        "Lecture room M1": [], 
+                        "Lecture room M2": [], 
+                        "Lecture room M3": [], 
+                        "Vintage Computing Cluster": [], 
+                        "c-base": [], 
                         "OIO L\u00f6tarea": [
                             {
                                 "id": 290, 
@@ -11876,16 +11870,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "Chaos West Stage": [], 
-                        "OIO lecture arena": [], 
-                        "B\u00fchneLecture room 11": [], 
-                        "Seminar room 14-15": [], 
-                        "Seminar room 13": [], 
-                        "Lecture room M1": [], 
-                        "Lecture room M2": [], 
-                        "Lecture room M3": [], 
-                        "Vintage Computing Cluster": [], 
-                        "c-base": [], 
                         "Chaos West B\u00fchne": [
                             {
                                 "id": 119, 
@@ -12373,6 +12357,14 @@
                                 "answers": []
                             }
                         ], 
+                        "B\u00fchneLecture room 11": [], 
+                        "Seminar room 14-15": [], 
+                        "Seminar room 13": [], 
+                        "Lecture room M1": [], 
+                        "Lecture room M2": [], 
+                        "Lecture room M3": [], 
+                        "Vintage Computing Cluster": [], 
+                        "c-base": [], 
                         "OIO L\u00f6tarea": [], 
                         "OIO Workshop-Domo": [
                             {
