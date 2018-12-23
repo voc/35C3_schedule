@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 23:52", 
+        "version": "2018-12-24 00:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1097,8 +1097,8 @@
                                 "start": "16:30", 
                                 "duration": "1:30", 
                                 "room": "Lecture room M2", 
-                                "slug": "35c3-1117-session_tor_relays_operators_meetup", 
-                                "title": "Tor relays operators meetup", 
+                                "slug": "35c3-1117-session_tor_relay_operators_meetup", 
+                                "title": "Tor relay operators meetup", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
@@ -1107,7 +1107,7 @@
                                 "description": "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.", 
                                 "persons": [], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup"
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup"
                                 ]
                             }
                         ], 

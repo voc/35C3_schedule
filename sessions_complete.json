@@ -12104,7 +12104,7 @@
             }
         ]
     }, 
-    "Session:Tor relays operators meetup# feccadb8aa665b0ce22929abd80ddfdd": {
+    "Session:Tor relay operators meetup# 5642a14f46f24882ddfa557b3e62e1a4": {
         "Held in language": [
             "en - English"
         ], 
@@ -12136,7 +12136,7 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Tor relays operators meetup"
+            "Tor relay operators meetup"
         ], 
         "Has duration": [
             90
@@ -12147,7 +12147,7 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup", 
         "Has end time": [
             {
                 "timestamp": "1545933600", 
@@ -13271,6 +13271,49 @@
                 "raw": "1/2018/12/29/12/0/0/0"
             }
         ]
+    }, 
+    "Session:Werwolf# 5934fd0a8ed54b64f637f7b637598bc5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Playing Werwolf together"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hetti", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Werwolf"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "68a6adc7-2f7f-4b48-8f53-68999d6828bd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
+        "Has end time": []
     }, 
     "Session:WhiskyTasting# 0cf632f1f5841b1b6be91283aeeb1c4e": {
         "Held in language": [
