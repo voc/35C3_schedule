@@ -2029,6 +2029,43 @@
             }
         ]
     }, 
+    "Session:Backspace Jeopardy# 1af9750c398893bf055967fb7f50d807": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Daily jeopardy sessions at Backspace assembly"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Backspace Jeopardy"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "a2d98217-7390-4459-bcdd-63c3d737cd7a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy", 
+        "Has end time": []
+    }, 
     "Session:Berlin Scholarship Program: Empowering Journalists in the Digital Field# 78579d6026d227bd339b62edd9a574d7": {
         "Held in language": [
             "en - English"
@@ -4391,16 +4428,11 @@
             }
         ]
     }, 
-    "Session:Fastai python notebooks# a99a4ac7017a65418c7126bda523948d": {
+    "Session:Fastai python notebooks# 31c8140d885bcb316df9d79e5d2c4b01": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            {
-                "timestamp": "1545991200", 
-                "raw": "1/2018/12/28/10/0/0/0"
-            }
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
@@ -4415,10 +4447,10 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": "1", 
+                "fulltext": "SEMINAR ROOM 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/SEMINAR_ROOM_13", 
+                "namespace": 0, 
+                "exists": "", 
                 "displaytitle": ""
             }
         ], 
