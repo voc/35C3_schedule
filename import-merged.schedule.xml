@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.0.0 v1.7 0.5</version>
+  <version>Columbo 3 1.0.1 v1.7 0.5</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2275,6 +2275,35 @@ how to control lights</description>
           <person id="7">
             <name>Andreas Bräu</name>
             <biography>Freifunker since 2006</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="305" guid="bb0127dd-fda6-5793-9237-bca7d0e3c31c">
+        <logo/>
+        <date>2018-12-27T10:55:00+01:00</date>
+        <start>10:55</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>9ZHVHL</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/9ZHVHL</url>
+        <title>OIO habour clean up  - Day 1</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily OIO habour clean up</abstract>
+        <description>daily OIO habour clean up</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -5959,6 +5988,64 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
+      <event id="301" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
+        <logo/>
+        <date>2018-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>3CZK9Y</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y</url>
+        <title>Solidarity at Sea</title>
+        <subtitle/>
+        <track/>
+        <type>Movie with Q&amp;A</type>
+        <language>en</language>
+        <abstract>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</abstract>
+        <description>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">
+            <name>Solidarity at Sea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="303" guid="ae80ba34-8a38-566f-bf6e-506a525f7a96">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>ZJ99EX</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZJ99EX</url>
+        <title>OIO habour clean up</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily habour clean up @ OIO</abstract>
+        <description>daily habour clean up @ OIO</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="280" guid="a6bf60a6-dc23-5df1-9eea-eedbe8650994">
         <logo/>
         <date>2018-12-28T11:30:00+01:00</date>
@@ -9804,6 +9891,35 @@ Auch das Publikum wird mitraten dürfen. Dabei wird die Anzahl der korrekten Ant
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
+      <event id="306" guid="83cb47b2-23fd-5a97-a82f-053469f31640">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QMHCUH</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QMHCUH</url>
+        <title>OIO habour clean up - Day 2</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily OIO habour clean up - Day 2</abstract>
+        <description>daily OIO habour clean up - Day 2</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="281" guid="e498a961-fe0d-5eb0-b12b-b462061f6edc">
         <logo/>
         <date>2018-12-29T11:30:00+01:00</date>
@@ -12335,6 +12451,35 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
         <persons>
           <person id="91">
             <name>Solidarity at Sea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="304" guid="7db71e6b-183a-55cf-b1eb-4bbf104ec505">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>R3DGAF</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/R3DGAF</url>
+        <title>OIO habour clean up  - Day 3</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>OIO habour clean up</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
             <biography/>
           </person>
         </persons>

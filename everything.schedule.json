@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:50", 
+        "version": "Columbo 3 1.0.1 v1.7 0.5 2018-12-23 23:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2195,6 +2195,37 @@
                                         "id": 7, 
                                         "name": "Andreas Br\u00e4u", 
                                         "biography": "Freifunker since 2006", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 305, 
+                                "guid": "bb0127dd-fda6-5793-9237-bca7d0e3c31c", 
+                                "logo": null, 
+                                "date": "2018-12-27T10:55:00+01:00", 
+                                "start": "10:55", 
+                                "duration": "00:30", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "9ZHVHL", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/9ZHVHL", 
+                                "title": "OIO habour clean up  - Day 1", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "OIO Housekeeping", 
+                                "language": "en", 
+                                "abstract": "daily OIO habour clean up", 
+                                "description": "daily OIO habour clean up", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 93, 
+                                        "name": "35c3oio@freifunk.space", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
@@ -7166,6 +7197,68 @@
                             }
                         ], 
                         "OIO Vortrags-Arena": [
+                            {
+                                "id": 301, 
+                                "guid": "0baf6d5c-aea9-5a68-b02d-fa820c81010c", 
+                                "logo": null, 
+                                "date": "2018-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "02:00", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "3CZK9Y", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y", 
+                                "title": "Solidarity at Sea", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Movie with Q&A", 
+                                "language": "en", 
+                                "abstract": "Documentation and Q&A with crew members of Juventa and other SAR ships", 
+                                "description": "Documentation and Q&A with crew members of Juventa and other SAR ships", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 91, 
+                                        "name": "Solidarity at Sea", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 303, 
+                                "guid": "ae80ba34-8a38-566f-bf6e-506a525f7a96", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "00:30", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "ZJ99EX", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZJ99EX", 
+                                "title": "OIO habour clean up", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "OIO Housekeeping", 
+                                "language": "en", 
+                                "abstract": "daily habour clean up @ OIO", 
+                                "description": "daily habour clean up @ OIO", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 93, 
+                                        "name": "35c3oio@freifunk.space", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 280, 
                                 "guid": "a6bf60a6-dc23-5df1-9eea-eedbe8650994", 
@@ -13194,6 +13287,37 @@
                         ], 
                         "OIO Vortrags-Arena": [
                             {
+                                "id": 306, 
+                                "guid": "83cb47b2-23fd-5a97-a82f-053469f31640", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "00:30", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "QMHCUH", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QMHCUH", 
+                                "title": "OIO habour clean up - Day 2", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "OIO Housekeeping", 
+                                "language": "en", 
+                                "abstract": "daily OIO habour clean up - Day 2", 
+                                "description": "daily OIO habour clean up - Day 2", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 93, 
+                                        "name": "35c3oio@freifunk.space", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 281, 
                                 "guid": "e498a961-fe0d-5eb0-b12b-b462061f6edc", 
                                 "logo": null, 
@@ -17415,6 +17539,37 @@
                                     {
                                         "id": 91, 
                                         "name": "Solidarity at Sea", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 304, 
+                                "guid": "7db71e6b-183a-55cf-b1eb-4bbf104ec505", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "00:30", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "R3DGAF", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/R3DGAF", 
+                                "title": "OIO habour clean up  - Day 3", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "OIO Housekeeping", 
+                                "language": "en", 
+                                "abstract": "OIO habour clean up", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 93, 
+                                        "name": "35c3oio@freifunk.space", 
                                         "biography": null, 
                                         "answers": []
                                     }
