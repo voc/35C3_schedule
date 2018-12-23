@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 14:10", 
+        "version": "2018-12-23 14:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -670,6 +670,49 @@
                         ], 
                         "OIO lecture arena": [], 
                         "Kidspace": [
+                            {
+                                "id": 1216, 
+                                "guid": "0beb6543-cc8a-46d8-a59a-12dea4a66ac7", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1216-session_scratch_programmieren_mit_der_maus", 
+                                "title": "Scratch - Programmieren mit der Maus", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1219, 
+                                "guid": "d3eb3a07-b1df-45ac-9f36-754cddab1ac3", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1219-session_tinkerbots", 
+                                "title": "Tinkerbots", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.tinkerbots.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots"
+                                ]
+                            }, 
                             {
                                 "id": 1213, 
                                 "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
@@ -1608,6 +1651,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1218, 
+                                "guid": "b362afbe-50fe-57ff-9463-c2a63d68488a", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1218-session_scratch_programmieren_mit_der_maus", 
+                                "title": "Scratch - Programmieren mit der Maus", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
                                 ]
                             }, 
                             {
@@ -2751,6 +2815,49 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1217, 
+                                "guid": "09993a07-4721-4488-9c00-72f8908a022b", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1217-session_scratch_programmieren_mit_der_maus", 
+                                "title": "Scratch - Programmieren mit der Maus", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1220, 
+                                "guid": "57b4d3bb-2d08-4118-995d-9c66176600b0", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1220-session_tinkerbots", 
+                                "title": "Tinkerbots", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.tinkerbots.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots"
                                 ]
                             }, 
                             {

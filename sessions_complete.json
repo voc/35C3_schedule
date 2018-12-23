@@ -8556,27 +8556,24 @@
             }
         ]
     }, 
-    "Session:Scratch - Programmieren mit der Maus# 0b9e4f8350e117ba6b3f218dc13da3b0": {
+    "Session:Scratch - Programmieren mit der Maus# 24387ea333a12203e758592c8d4b6df7": {
         "Held in language": [
-            "en - English"
+            "en - English", 
+            "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545494400", 
-                "raw": "1/2018/12/22/16/0/0/0"
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://events.ccc.de"
-        ], 
-        "Has description": [
-            "Only a test trick for function test"
-        ], 
+        "Has website": [], 
+        "Has description": [], 
         "Has session type": [
-            "Game"
+            "Workshop"
         ], 
         "Has session location": [
             {
@@ -8587,23 +8584,13 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Optional subtitle for Testing"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Magu", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
         "Has title": [
             "Scratch - Programmieren mit der Maus"
         ], 
         "Has duration": [
-            60
+            120
         ], 
         "GUID": [
             "0beb6543-cc8a-46d8-a59a-12dea4a66ac7"
@@ -8614,8 +8601,108 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus", 
         "Has end time": [
             {
-                "timestamp": "1545498000", 
-                "raw": "1/2018/12/22/17/0/0/0"
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Scratch - Programmieren mit der Maus# 514a8d6aedac4f51fb809f3f4293a77e": {
+        "Held in language": [
+            "en - English", 
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Scratch - Programmieren mit der Maus"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "09993a07-4721-4488-9c00-72f8908a022b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Scratch - Programmieren mit der Maus# f8c66a157320bcc5758f7d1f08cae2c6": {
+        "Held in language": [
+            "en - English", 
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Scratch - Programmieren mit der Maus"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "09993a07-4721-4488-9c00-72f8908a022b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus", 
+        "Has end time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
             }
         ]
     }, 
@@ -10144,6 +10231,104 @@
             {
                 "timestamp": "1546122600", 
                 "raw": "1/2018/12/29/22/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Tinkerbots# b122f3fd396006d2d4ef32062d22e2e7": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.tinkerbots.de/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tinkerbots"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "d3eb3a07-b1df-45ac-9f36-754cddab1ac3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots", 
+        "Has end time": [
+            {
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Tinkerbots# e87e94c02621edde844206838e0d5974": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.tinkerbots.de/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tinkerbots"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "57b4d3bb-2d08-4118-995d-9c66176600b0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots", 
+        "Has end time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
             }
         ]
     }, 
