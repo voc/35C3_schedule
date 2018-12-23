@@ -3189,6 +3189,55 @@
             }
         ]
     }, 
+    "Session:Chaos als Au\u00dferschulischer Lernort# 7e600da9fbcdf576f8d9220ee94c6c5f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wir als Chaostreff Flesburg machen (Technik) Jugend Bildung au\u00dferhalb von Schulen und wollen dar\u00fcber reden und wisse wie das andere machen."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Chaos als Au\u00dferschulischer Lernort"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ae69c229-12cd-4a3f-b4f9-f48630abdfe8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_als_Au%C3%9Ferschulischer_Lernort", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:Cidre Flows# c088ab0e16f7fa859fb69e193e239d51": {
         "Held in language": [
             "en - English"

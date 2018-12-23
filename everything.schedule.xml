@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 1.0.0 v1.7 0.5 2018-12-23 16:30</version>
+  <version>Columbo 2.1 1.0.0 v1.7 0.5 2018-12-23 16:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15099,6 +15099,47 @@ LOVE FREEDOM EVERYTHING</abstract>
         </links>
       </event>
     </room>
+    <room name="Assembly:MOiN - Mehrere Orte im Norden">
+      <event id="1229" guid="ae69c229-12cd-4a3f-b4f9-f48630abdfe8">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:MOiN - Mehrere Orte im Norden</room>
+        <slug>35c3-1229-session_chaos_als_ausserschulischer_lernort</slug>
+        <title>Chaos als Außerschulischer Lernort</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Wir als Chaostreff Flesburg machen (Technik) Jugend Bildung außerhalb von Schulen und wollen darüber reden und wisse wie das andere machen.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_als_Au%C3%9Ferschulischer_Lernort</link>
+        </links>
+      </event>
+      <event id="1227" guid="628d094a-c885-448e-8307-877ddd7ce75a">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:MOiN - Mehrere Orte im Norden</room>
+        <slug>35c3-1227-session_diy_ductace_wallets</slug>
+        <title>DIY Ductace Wallets</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people. Here is an example: https://www.wikihow.com/Make-a-Duct-Tape-Wallet</description>
+        <persons/>
+        <links>
+          <link>https://www.wikihow.com/Make-a-Duct-Tape-Wallet</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Foodhackingbase">
       <event id="1034" guid="b2c21678-66f6-498e-97ed-42f34c5e295e">
         <logo/>
@@ -15164,28 +15205,6 @@ LOVE FREEDOM EVERYTHING</abstract>
         <links>
           <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:MOiN - Mehrere Orte im Norden">
-      <event id="1227" guid="628d094a-c885-448e-8307-877ddd7ce75a">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:MOiN - Mehrere Orte im Norden</room>
-        <slug>35c3-1227-session_diy_ductace_wallets</slug>
-        <title>DIY Ductace Wallets</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people. Here is an example: https://www.wikihow.com/Make-a-Duct-Tape-Wallet</description>
-        <persons/>
-        <links>
-          <link>https://www.wikihow.com/Make-a-Duct-Tape-Wallet</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets</link>
         </links>
       </event>
     </room>
