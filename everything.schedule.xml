@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 1.0.0 v1.7 0.5 2018-12-23 16:50</version>
+  <version>Columbo 2.1 1.0.0 v1.7 0.5 2018-12-23 17:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15110,12 +15110,15 @@ LOVE FREEDOM EVERYTHING</abstract>
         <title>Chaos als Außerschulischer Lernort</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type/>
+        <type>discussion</type>
         <language>de</language>
         <abstract/>
-        <description>Wir als Chaostreff Flesburg machen (Technik) Jugend Bildung außerhalb von Schulen und wollen darüber reden und wisse wie das andere machen.</description>
-        <persons/>
+        <description>Wir als Chaostreff Flensburg machen (Technik) Jugend Bildung außerhalb von Schulen und wollen darüber reden und wissen wie das andere machen.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo">Scammo</person>
+        </persons>
         <links>
+          <link>https://chaostreff-flensburg.de/events/jugendtreff-neue-tueftler/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_als_Au%C3%9Ferschulischer_Lernort</link>
         </links>
       </event>
