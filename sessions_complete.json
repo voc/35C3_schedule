@@ -2773,6 +2773,52 @@
             }
         ]
     }, 
+    "Session:Briar party (the messenger which ticks most of the boxes)# ed167a6e9ea5d77347230bd03f775d04": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://briarproject.org/"
+        ], 
+        "Has description": [
+            "Briar is a free (GPLv3), decentralized (using Tor or bluetooth meshing), end-to-end encrypted messenger which is not tied to phone numbers. We are fans who want to present it and create a congress-wide group."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Briar party (the messenger which ticks most of the boxes)"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "d6de1975-f9b7-4e58-b8c0-c11f0f1e4c0e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Briar_party_(the_messenger_which_ticks_most_of_the_boxes)", 
+        "Has end time": []
+    }, 
     "Session:Bristlebots for kids# b4a9a0456a9ce21e6e30736d27918b53": {
         "Held in language": [
             "de - German", 
