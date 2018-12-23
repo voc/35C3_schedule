@@ -8140,7 +8140,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fpfle", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Pharis\u00e4er tasting"
         ], 
