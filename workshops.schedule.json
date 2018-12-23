@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 15:03", 
+        "version": "2018-12-23 15:05", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -282,6 +282,7 @@
                                 ]
                             }
                         ], 
+                        "B\u00fchne": [], 
                         "c-base": [], 
                         "Lecture room M1": [
                             {
@@ -338,7 +339,6 @@
                             }
                         ], 
                         "OIO Vortrags-Arena": [], 
-                        "B\u00fchneLecture room 11": [], 
                         "Seminar room 13": []
                     }, 
                     "day_start": "2018-12-26T06:00:00+01:00"
@@ -846,6 +846,7 @@
                                 ]
                             }
                         ], 
+                        "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
                             {
@@ -1109,7 +1110,6 @@
                             }
                         ], 
                         "OIO Vortrags-Arena": [], 
-                        "B\u00fchneLecture room 11": [], 
                         "Seminar room 13": [
                             {
                                 "id": 1001, 
@@ -1877,6 +1877,7 @@
                                 ]
                             }
                         ], 
+                        "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
                             {
@@ -2268,7 +2269,6 @@
                             }
                         ], 
                         "OIO Vortrags-Arena": [], 
-                        "B\u00fchneLecture room 11": [], 
                         "Seminar room 13": [
                             {
                                 "id": 1172, 
@@ -3055,6 +3055,7 @@
                                 ]
                             }
                         ], 
+                        "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
                             {
@@ -3425,7 +3426,6 @@
                             }
                         ], 
                         "OIO Vortrags-Arena": [], 
-                        "B\u00fchneLecture room 11": [], 
                         "Seminar room 13": [
                             {
                                 "id": 1004, 
@@ -3700,6 +3700,7 @@
                                 ]
                             }
                         ], 
+                        "B\u00fchne": [], 
                         "c-base": [], 
                         "Lecture room M1": [
                             {
@@ -3754,7 +3755,6 @@
                         ], 
                         "Lecture room M3": [], 
                         "OIO Vortrags-Arena": [], 
-                        "B\u00fchneLecture room 11": [], 
                         "Seminar room 13": [
                             {
                                 "id": 1003, 

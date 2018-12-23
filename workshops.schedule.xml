@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 15:03</version>
+  <version>2018-12-23 15:05</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -229,6 +229,7 @@
         </links>
       </event>
     </room>
+    <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Lecture room M1">
       <event id="1101" guid="ac02f3e2-5c9e-41db-a912-96bda2afb030">
@@ -277,7 +278,6 @@
       </event>
     </room>
     <room name="OIO Vortrags-Arena"/>
-    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13"/>
   </day>
   <day date="2018-12-27" index="1" end="2018-12-28T04:00:00+01:00" start="2018-12-27T06:00:00+01:00">
@@ -699,6 +699,7 @@
         </links>
       </event>
     </room>
+    <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
       <event id="1216" guid="0beb6543-cc8a-46d8-a59a-12dea4a66ac7">
@@ -928,7 +929,6 @@
       </event>
     </room>
     <room name="OIO Vortrags-Arena"/>
-    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1001" guid="a0b76b11-70c6-46b5-a89d-45731e196f7a">
         <logo/>
@@ -1562,6 +1562,7 @@
         </links>
       </event>
     </room>
+    <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
       <event id="1212" guid="b9703347-bb1b-5c11-87d3-e0dee16f1403">
@@ -1907,7 +1908,6 @@
       </event>
     </room>
     <room name="OIO Vortrags-Arena"/>
-    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1172" guid="f805d381-4f99-4eb4-a843-6d0d8a110d35">
         <logo/>
@@ -2558,6 +2558,7 @@
         </links>
       </event>
     </room>
+    <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
       <event id="1199" guid="3d643d5a-cb73-4278-9bce-c457f9a50e85">
@@ -2884,7 +2885,6 @@
       </event>
     </room>
     <room name="OIO Vortrags-Arena"/>
-    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1004" guid="5bcac53d-4417-4bbb-9c4a-d02103f8705a">
         <logo/>
@@ -3119,6 +3119,7 @@
         </links>
       </event>
     </room>
+    <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Lecture room M1">
       <event id="1036" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
@@ -3165,7 +3166,6 @@
     </room>
     <room name="Lecture room M3"/>
     <room name="OIO Vortrags-Arena"/>
-    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1003" guid="5bcac53d-4417-4bbb-9c4a-d02103f8705b">
         <logo/>
