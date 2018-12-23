@@ -1,4 +1,5 @@
 <schedule>
+  <version>2018-12-23 12:13</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -15,7 +16,7 @@
         <start>23:00</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1009-session_a_v_angel_meeting</slug>
         <title>A/V Angel Meeting</title>
         <subtitle>A/V Technican Meetup</subtitle>
         <track>self organized sessions</track>
@@ -37,7 +38,7 @@
         <start>22:30</start>
         <duration>0:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1032-session_cashdesk_angel_introduction</slug>
         <title>Cashdesk Angel Introduction</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -58,7 +59,7 @@
         <start>20:00</start>
         <duration>2:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1140-session_translation_second_channel</slug>
         <title>Translation second channel</title>
         <subtitle>Meeting Day 0 (all translators)</subtitle>
         <track>self organized sessions</track>
@@ -77,7 +78,7 @@
         <start>20:00</start>
         <duration>2:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1118-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 0</subtitle>
         <track>self organized sessions</track>
@@ -100,7 +101,7 @@
         <start>14:00</start>
         <duration>3:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1012-session_arm_rop_exploitation_intro</slug>
         <title>ARM ROP Exploitation Intro</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -121,7 +122,7 @@
         <start>20:00</start>
         <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1062-session_herald_angel_introduction</slug>
         <title>Herald Angel Introduction</title>
         <subtitle>for</subtitle>
         <track>self organized sessions</track>
@@ -146,7 +147,7 @@
         <start>20:00</start>
         <duration>3:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1101-session_stage_manager_angel_introduction</slug>
         <title>Stage Manager Angel Introduction</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -170,7 +171,7 @@
         <start>19:00</start>
         <duration>1:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1057-session_general_angel_meeting</slug>
         <title>General Angel Meeting</title>
         <subtitle>Day0</subtitle>
         <track>self organized sessions</track>
@@ -192,7 +193,7 @@
         <start>22:45</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1168-session_audio_angel_introduction</slug>
         <title>Audio Angel Introduction</title>
         <subtitle>Experienced Audio Angel Introduction</subtitle>
         <track>self organized sessions</track>
@@ -214,7 +215,7 @@
         <start>21:45</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1169-session_audio_angel_introduction</slug>
         <title>Audio Angel Introduction</title>
         <subtitle>Audio Mixer Angel Introduction</subtitle>
         <track>self organized sessions</track>
@@ -236,7 +237,7 @@
         <start>20:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1021-session_auti_angel_meeting</slug>
         <title>Auti Angel Meeting</title>
         <subtitle>Introduction</subtitle>
         <track>self organized sessions</track>
@@ -258,7 +259,7 @@
         <start>21:00</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1103-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -275,6 +276,7 @@
         </links>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13"/>
     <room name="c-base"/>
   </day>
@@ -286,7 +288,7 @@
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1010-session_a_v_angel_meeting</slug>
         <title>A/V Angel Meeting</title>
         <subtitle>Day 1</subtitle>
         <track>self organized sessions</track>
@@ -308,7 +310,7 @@
         <start>22:00</start>
         <duration>1:59</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1014-session_advanced_bondage_workshop</slug>
         <title>Advanced Bondage Workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -329,7 +331,7 @@
         <start>18:00</start>
         <duration>1:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1040-session_document_forensics_how_to_still_dox_spyware_suppliers_</slug>
         <title>Document forensics: How to still dox spyware suppliers.</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -350,7 +352,7 @@
         <start>15:10</start>
         <duration>1:10</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1124-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 1a</subtitle>
         <track>self organized sessions</track>
@@ -369,7 +371,7 @@
         <start>19:45</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1125-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 1b</subtitle>
         <track>self organized sessions</track>
@@ -392,7 +394,7 @@
         <start>16:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1019-session_audio_recording_setups</slug>
         <title>Audio Recording Setups</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -413,7 +415,7 @@
         <start>15:30</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1181-session_f_droid_meetup</slug>
         <title>F-Droid Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -434,7 +436,7 @@
         <start>13:10</start>
         <duration>0:45</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1050-session_foundation_workshop_vim_for_beginners</slug>
         <title>Foundation workshop: Vim for beginners</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -455,7 +457,7 @@
         <start>20:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1073-session_koordinierungstreffen_junghackertag</slug>
         <title>Koordinierungstreffen Junghackertag</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -477,7 +479,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1074-session_lehrerinnenstammtisch</slug>
         <title>LehrerInnenstammtisch</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -496,7 +498,7 @@
         <start>18:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1088-session_origami</slug>
         <title>Origami</title>
         <subtitle>paperless? how boring! A quick introduction to beginners</subtitle>
         <track>self organized sessions</track>
@@ -515,7 +517,7 @@
         <start>15:00</start>
         <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1097-session_relationship_anarchy</slug>
         <title>Relationship Anarchy</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -534,7 +536,7 @@
         <start>19:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1133-session_wiehelfengegencyberstalking</slug>
         <title>WieHelfenGegenCyberStalking</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -557,7 +559,7 @@
         <start>15:30</start>
         <duration>0:45</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1029-session_cccchoir</slug>
         <title>CCCChoir</title>
         <subtitle>All creatures welcome, especially beginners</subtitle>
         <track>self organized sessions</track>
@@ -576,7 +578,7 @@
         <start>18:00</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1206-session_lesswrong_meetup</slug>
         <title>LessWrong meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -596,7 +598,7 @@
         <start>20:00</start>
         <duration>3:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
         <title>Stage Manager Angel Introduction</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -618,7 +620,7 @@
         <start>15:00</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1132-session_why_does_war_happen_</slug>
         <title>Why Does War Happen?</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -641,7 +643,7 @@
         <start>16:00</start>
         <duration>3:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1000-session_how_to_survive_35c3_cryptoparty</slug>
         <title>"How To Survive 35C3" CryptoParty</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -663,7 +665,7 @@
         <start>15:15</start>
         <duration>0:45</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1055-session_general_angel_meeting</slug>
         <title>General Angel Meeting</title>
         <subtitle>Day1</subtitle>
         <track>self organized sessions</track>
@@ -683,7 +685,7 @@
         <start>19:00</start>
         <duration>2:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1095-session_queerfeministgeeks_meetup</slug>
         <title>QueerFeministGeeks - MeetUp</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -705,7 +707,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1020-session_auti_angel_meeting</slug>
         <title>Auti Angel Meeting</title>
         <subtitle>Introduction</subtitle>
         <track>self organized sessions</track>
@@ -727,7 +729,7 @@
         <start>19:01</start>
         <duration>0:59</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1023-session_binaergewitter_hoerertreffen</slug>
         <title>Binärgewitter Hörertreffen</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -747,7 +749,7 @@
         <start>18:01</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1030-session_cms_loethelferworkshop</slug>
         <title>CMS Löthelferworkshop</title>
         <subtitle>Löthelferworkshop</subtitle>
         <track>self organized sessions</track>
@@ -768,7 +770,7 @@
         <start>15:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1046-session_feedback_session_for_the_arbitration_board</slug>
         <title>Feedback Session for the Arbitration Board</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -788,7 +790,7 @@
         <start>12:00</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1104-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -810,7 +812,7 @@
         <start>16:00</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1107-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -832,7 +834,7 @@
         <start>16:30</start>
         <duration>1:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1117-session_tor_relays_operators_meetup</slug>
         <title>Tor relays operators meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -846,6 +848,7 @@
         </links>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1001" guid="a0b76b11-70c6-46b5-a89d-45731e196f7a">
         <logo/>
@@ -853,7 +856,7 @@
         <start>15:15</start>
         <duration>0:45</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1001-session_42birds_hacker_s_digest</slug>
         <title>42birds: Hacker’s Digest</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -873,7 +876,7 @@
         <start>16:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1167-session_artificial_intelligence_bridging_the_chasm</slug>
         <title>Artificial intelligence: bridging the chasm</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -894,7 +897,7 @@
         <start>18:00</start>
         <duration>2:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1063-session_herald_angel_introduction</slug>
         <title>Herald Angel Introduction</title>
         <subtitle>for the small group of new Heralds</subtitle>
         <track>self organized sessions</track>
@@ -916,7 +919,7 @@
         <start>20:00</start>
         <duration>2:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1098-session_ssg_meeting</slug>
         <title>SSG Meeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -941,7 +944,7 @@
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1008-session_a_v_angel_meeting</slug>
         <title>A/V Angel Meeting</title>
         <subtitle>Day 2</subtitle>
         <track>self organized sessions</track>
@@ -963,7 +966,7 @@
         <start>09:30</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1196-session_analoge_selbstverteidigung</slug>
         <title>Analoge Selbstverteidigung</title>
         <subtitle>Anfängerkurs</subtitle>
         <track>self organized sessions</track>
@@ -982,7 +985,7 @@
         <start>13:30</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1026-session_bondage_workshop</slug>
         <title>Bondage Workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1001,7 +1004,7 @@
         <start>11:00</start>
         <duration>3:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1060-session_haecksenbreakfast</slug>
         <title>HaecksenBreakfast</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1021,7 +1024,7 @@
         <start>19:00</start>
         <duration>0:45</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1084-session_not_quite_free_and_open_source</slug>
         <title>Not quite Free and Open Source</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1040,7 +1043,7 @@
         <start>22:00</start>
         <duration>1:59</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1087-session_open_rope_jam</slug>
         <title>Open Rope Jam</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1061,7 +1064,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1092-session_polyamory</slug>
         <title>Polyamory</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1080,7 +1083,7 @@
         <start>19:45</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1120-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 2b</subtitle>
         <track>self organized sessions</track>
@@ -1099,7 +1102,7 @@
         <start>15:10</start>
         <duration>1:10</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1121-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 2a</subtitle>
         <track>self organized sessions</track>
@@ -1122,7 +1125,7 @@
         <start>15:10</start>
         <duration>1:00</duration>
         <room>CCL Hall 3</room>
-        <slug/>
+        <slug>35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry</slug>
         <title>Wondrous Mathematics: The curious world of four-dimensional geometry</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1145,7 +1148,7 @@
         <start>16:00</start>
         <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1022-session_awareness_team_meeting</slug>
         <title>Awareness Team Meeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1167,7 +1170,7 @@
         <start>22:00</start>
         <duration>1:30</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1139-session_borgbackup_meetup</slug>
         <title>BorgBackup Meetup</title>
         <subtitle>You will be assimilated!</subtitle>
         <track>self organized sessions</track>
@@ -1189,7 +1192,7 @@
         <start>17:30</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1043-session_ethereum_magicians_gathering</slug>
         <title>Ethereum Magicians gathering</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1211,7 +1214,7 @@
         <start>15:00</start>
         <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1058-session_hip_orga_treffen</slug>
         <title>HIP Orga Treffen</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1233,7 +1236,7 @@
         <start>10:00</start>
         <duration>3:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1070-session_kerbal_space_program_meetup</slug>
         <title>Kerbal Space Program Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1255,7 +1258,7 @@
         <start>13:00</start>
         <duration>1:30</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1093-session_privacy_meetup_stammtisch_buendnis_privatsphaere_leipzig</slug>
         <title>Privacy Meetup. Stammtisch Bündnis Privatsphäre Leipzig</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1275,7 +1278,7 @@
         <start>19:00</start>
         <duration>1:30</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1128-session_ultraschall_und_reaper_programmierung</slug>
         <title>Ultraschall und Reaper-Programmierung</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1300,7 +1303,7 @@
         <start>19:00</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1018-session_arch_linux_meetup</slug>
         <title>Arch Linux Meetup</title>
         <subtitle>Meetup</subtitle>
         <track>self organized sessions</track>
@@ -1322,7 +1325,7 @@
         <start>21:30</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1047-session_follow_up_meeting_to_the_netzpolitik_in_der_schweiz_talk</slug>
         <title>Follow-up meeting to the Netzpolitik in der Schweiz talk</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1342,7 +1345,7 @@
         <start>15:00</start>
         <duration>2:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1061-session_hands_on_introduction_to_self_hosting_with_yunohost</slug>
         <title>Hands-on introduction to self-Hosting with YunoHost</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1362,7 +1365,7 @@
         <start>20:30</start>
         <duration>0:45</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1184-session_is_that_password_long_enough_</slug>
         <title>Is That Password Long Enough?</title>
         <subtitle>Entry to medium level talk</subtitle>
         <track>self organized sessions</track>
@@ -1383,7 +1386,7 @@
         <start>17:30</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1072-session_konsens_workshop</slug>
         <title>Konsens-Workshop</title>
         <subtitle>Consensus decision making for social change and softdrinks distribution.</subtitle>
         <track>self organized sessions</track>
@@ -1403,7 +1406,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1163-session_open_science_ag_de_rse_meetup</slug>
         <title>Open-Science-AG/de-RSE MeetUp</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1423,7 +1426,7 @@
         <start>17:00</start>
         <duration>0:30</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1089-session_pslab_io_pocket_science_lab</slug>
         <title>PSLab.io - Pocket Science Lab</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1444,7 +1447,7 @@
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1025-session_bodymind_operating_system_adaptation_infiltration_and_vulnerability_</slug>
         <title>Bodymind Operating System: Adaptation, Infiltration and Vulnerability.</title>
         <subtitle>Introduction</subtitle>
         <track>self organized sessions</track>
@@ -1464,7 +1467,7 @@
         <start>15:30</start>
         <duration>1:30</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1028-session_cccchoir</slug>
         <title>CCCChoir</title>
         <subtitle>All creatures welcome</subtitle>
         <track>self organized sessions</track>
@@ -1483,7 +1486,7 @@
         <start>14:00</start>
         <duration>0:45</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1045-session_fediversemeetup</slug>
         <title>FediverseMeetup</title>
         <subtitle>Meeting all these nice avatars afk</subtitle>
         <track>self organized sessions</track>
@@ -1504,7 +1507,7 @@
         <start>19:30</start>
         <duration>1:30</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1066-session_introduction_into_anarchism</slug>
         <title>Introduction into anarchism</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1524,7 +1527,7 @@
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1129-session_unitary_software_patents_urgency</slug>
         <title>Unitary Software Patents Urgency</title>
         <subtitle>How to install software patents via the Unitary Patent Court (UPC)</subtitle>
         <track>self organized sessions</track>
@@ -1546,7 +1549,7 @@
         <start>18:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1013-session_aaron_s_law_and_other_unfinished_business</slug>
         <title>Aaron's Law and Other Unfinished Business</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1565,7 +1568,7 @@
         <start>09:30</start>
         <duration>2:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1153-session_berlin_scholarship_program_empowering_journalists_in_the_digital_field</slug>
         <title>Berlin Scholarship Program: Empowering Journalists in the Digital Field</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1585,7 +1588,7 @@
         <start>19:30</start>
         <duration>2:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1033-session_chaos_bug_bounty_meetup</slug>
         <title>Chaos Bug Bounty Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1606,7 +1609,7 @@
         <start>15:30</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1056-session_general_angel_meeting</slug>
         <title>General Angel Meeting</title>
         <subtitle>Day2</subtitle>
         <track>self organized sessions</track>
@@ -1626,7 +1629,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1065-session_human_rights_and_surveillance</slug>
         <title>Human Rights and Surveillance</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1645,7 +1648,7 @@
         <start>15:00</start>
         <duration>1:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1075-session_let_s_hack_words_</slug>
         <title>Let's hack words!</title>
         <subtitle>The hacker's journey</subtitle>
         <track>self organized sessions</track>
@@ -1666,7 +1669,7 @@
         <start>16:30</start>
         <duration>1:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1091-session_poetry_slam_workshop</slug>
         <title>Poetry Slam Workshop</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1688,7 +1691,7 @@
         <start>12:00</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1105-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1710,7 +1713,7 @@
         <start>19:00</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1106-session_subtitles_angelmeeting</slug>
         <title>Subtitles Angelmeeting</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1727,6 +1730,7 @@
         </links>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1172" guid="f805d381-4f99-4eb4-a843-6d0d8a110d35">
         <logo/>
@@ -1734,7 +1738,7 @@
         <start>20:30</start>
         <duration>1:30</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1172-session_python_programming_for_absolute_beginners</slug>
         <title>(Python) Programming for Absolute Beginners</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1755,7 +1759,7 @@
         <start>10:15</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1002-session_42birds_hitchhiker_s_towel_yoga</slug>
         <title>42birds: Hitchhiker's Towel-Yoga</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1774,7 +1778,7 @@
         <start>12:00</start>
         <duration>0:45</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1007-session_42birds_your_first_steps_with_webextensions</slug>
         <title>42birds: Your First Steps with WebExtensions</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1794,7 +1798,7 @@
         <start>15:30</start>
         <duration>1:30</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1024-session_blender_artists_and_developer_meetup</slug>
         <title>Blender Artists and Developer Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1813,7 +1817,7 @@
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1037-session_computerforensikfueranfaengerinnen</slug>
         <title>ComputerForensikfuerAnfaengerinnen</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1832,7 +1836,7 @@
         <start>17:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1183-session_eprivacy_call_to_action_</slug>
         <title>EPrivacy: Call to action!</title>
         <subtitle>Get active and fight for ePrivacy!</subtitle>
         <track>self organized sessions</track>
@@ -1852,7 +1856,7 @@
         <start>19:30</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1042-session_ein_tor_verein_fuer_hamburg</slug>
         <title>Ein Tor-Verein für Hamburg</title>
         <subtitle>Der Stand der Dinge</subtitle>
         <track>self organized sessions</track>
@@ -1873,7 +1877,7 @@
         <start>13:00</start>
         <duration>2:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1085-session_numerical_weather_prediction</slug>
         <title>Numerical Weather Prediction</title>
         <subtitle>A gentle introduction to numerical weather prediction, running WRF, and visualizing results</subtitle>
         <track>self organized sessions</track>
@@ -1895,7 +1899,7 @@
         <start>18:00</start>
         <duration>1:30</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1100-session_sparen_am_aktienmarkt_eine_zeitserienanalyse_mit_python</slug>
         <title>Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1921,7 +1925,7 @@
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1011-session_a_v_angel_meeting</slug>
         <title>A/V Angel Meeting</title>
         <subtitle>Day 3</subtitle>
         <track>self organized sessions</track>
@@ -1943,7 +1947,7 @@
         <start>18:30</start>
         <duration>1:15</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1016-session_after_the_a_v_angel_meeting_voctomix_voctoknopf_discussion</slug>
         <title>After the A/V Angel Meeting: Voctomix / Voctoknopf Discussion</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -1965,7 +1969,7 @@
         <start>15:10</start>
         <duration>1:10</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1122-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 3a</subtitle>
         <track>self organized sessions</track>
@@ -1984,7 +1988,7 @@
         <start>19:45</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1123-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 3b</subtitle>
         <track>self organized sessions</track>
@@ -2003,7 +2007,7 @@
         <start>12:00</start>
         <duration>3:00</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1138-session_workshop_on_prison_and_justice_system_de_</slug>
         <title>Workshop on prison and justice system (de)</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2027,7 +2031,7 @@
         <start>13:00</start>
         <duration>2:00</duration>
         <room>CCL Hall 3</room>
-        <slug/>
+        <slug>35c3-1038-session_datenschleuder_treffen</slug>
         <title>Datenschleuder-Treffen</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2051,7 +2055,7 @@
         <start>10:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1173-session_python_programming_for_absolute_beginners</slug>
         <title>(Python) Programming for Absolute Beginners</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2072,7 +2076,7 @@
         <start>16:00</start>
         <duration>0:50</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1154-session_fomu_an_fpga_in_your_usb_port</slug>
         <title>Fomu: An FPGA in your USB Port</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2092,7 +2096,7 @@
         <start>20:00</start>
         <duration>1:30</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1052-session_gamma_radiation_monitoring</slug>
         <title>Gamma Radiation Monitoring</title>
         <subtitle>Civic Rad Protector's Meeting .</subtitle>
         <track>self organized sessions</track>
@@ -2113,7 +2117,7 @@
         <start>17:00</start>
         <duration>1:30</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1078-session_medienkompetenz_kann_man_nicht_downloaden_diskussion</slug>
         <title>Medienkompetenz kann man nicht downloaden - Diskussion</title>
         <subtitle>Diskussion zu Lightningtalk</subtitle>
         <track>self organized sessions</track>
@@ -2135,7 +2139,7 @@
         <start>14:00</start>
         <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1099-session_scacheapier</slug>
         <title>ScaCheapier</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2154,7 +2158,7 @@
         <start>21:30</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1157-session_tim_may_memorial</slug>
         <title>Tim May Memorial</title>
         <subtitle>Remembrance event for Tim C. May, Cypherpunks co-founder &amp; Cryptoanarchist who passed away earlier this month.</subtitle>
         <track>self organized sessions</track>
@@ -2174,7 +2178,7 @@
         <start>11:00</start>
         <duration>3:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1127-session_ultraschall_fuer_einsteigerinnen</slug>
         <title>Ultraschall für EinsteigerInnen</title>
         <subtitle>Erst Anfänger, dann Fortgeschrittene</subtitle>
         <track>self organized sessions</track>
@@ -2196,7 +2200,7 @@
         <start>18:30</start>
         <duration>0:40</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1135-session_wondrous_mathematics_fun_with_transfinite_games</slug>
         <title>Wondrous Mathematics: Fun with transfinite games</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2220,7 +2224,7 @@
         <start>18:00</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1044-session_everybody_hates_mimes_challenges_in_keeping_p_p_engine_development_free</slug>
         <title>Everybody hates MIMEs - Challenges in keeping p≡p engine development free</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2239,7 +2243,7 @@
         <start>13:00</start>
         <duration>3:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1064-session_howtoconflict</slug>
         <title>HowToConflict</title>
         <subtitle>besser streiten</subtitle>
         <track>self organized sessions</track>
@@ -2259,7 +2263,7 @@
         <start>19:00</start>
         <duration>2:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1077-session_mechanical_keyboard_meetup</slug>
         <title>Mechanical Keyboard Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2280,7 +2284,7 @@
         <start>16:00</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1090-session_personal_assistants_by_people_for_the_people</slug>
         <title>Personal Assistants By People for the People</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2300,7 +2304,7 @@
         <start>11:00</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1182-session_verteilte_schluesselerzeugung_fuer_openpgp_mit_dkgpg</slug>
         <title>Verteilte Schlüsselerzeugung für OpenPGP mit DKGPG</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2324,7 +2328,7 @@
         <start>14:00</start>
         <duration>2:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1059-session_hacking_through_the_body_systema_and_aerodynamics_of_cognitive_dance</slug>
         <title>Hacking through the Body: Systema and Aerodynamics of Cognitive Dance</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2344,7 +2348,7 @@
         <start>20:00</start>
         <duration>1:30</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1083-session_new_police_law_in_saxony_police_state_attacks_</slug>
         <title>New police law in Saxony - police state attacks?</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2364,7 +2368,7 @@
         <start>12:00</start>
         <duration>2:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1086-session_open_hardware_book_scanner_meetup</slug>
         <title>Open Hardware Book Scanner Meetup</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2384,7 +2388,7 @@
         <start>16:00</start>
         <duration>2:00</duration>
         <room>Lecture room M3</room>
-        <slug/>
+        <slug>35c3-1096-session_regiotreffen</slug>
         <title>Regiotreffen</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2408,7 +2412,7 @@
         <start>21:00</start>
         <duration>3:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1017-session_amiga_amigaaa_disksalvation_scene_gathering</slug>
         <title>Amiga! Amigaaa! Disksalvation &amp; Scene Gathering</title>
         <subtitle>Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD</subtitle>
         <track>self organized sessions</track>
@@ -2430,7 +2434,7 @@
         <start>20:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1041-session_eco_hacker_farm</slug>
         <title>Eco Hacker Farm</title>
         <subtitle>cohabitation spaces mixing permaculture with hackerculture</subtitle>
         <track>self organized sessions</track>
@@ -2452,7 +2456,7 @@
         <start>17:20</start>
         <duration>0:50</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1049-session_foundation_workshop_hands_on_how_does_the_internet_work_</slug>
         <title>Foundation workshop: Hands-on, how does the Internet work?</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2473,7 +2477,7 @@
         <start>19:00</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1051-session_fund_raising_for_free_software_thinking_big</slug>
         <title>Fund-Raising for Free Software - Thinking Big</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2492,7 +2496,7 @@
         <start>15:30</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1053-session_general_angel_meeting</slug>
         <title>General Angel Meeting</title>
         <subtitle>Day3</subtitle>
         <track>self organized sessions</track>
@@ -2512,7 +2516,7 @@
         <start>12:45</start>
         <duration>1:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1076-session_locale_presse_oeffentlichkeitsarbeit</slug>
         <title>Locale Presse-/Öffentlichkeitsarbeit</title>
         <subtitle>Vernetzungstreffen und Erfahrungsaustausch</subtitle>
         <track>self organized sessions</track>
@@ -2531,7 +2535,7 @@
         <start>18:10</start>
         <duration>0:50</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1151-session_mietshaeuser_syndikat</slug>
         <title>Mietshäuser Syndikat</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2551,7 +2555,7 @@
         <start>16:10</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1134-session_wondrous_mathematics_fun_with_infinitely_large_numbers</slug>
         <title>Wondrous Mathematics: Fun with infinitely large numbers</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2567,6 +2571,7 @@
         </links>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1004" guid="5bcac53d-4417-4bbb-9c4a-d02103f8705a">
         <logo/>
@@ -2574,7 +2579,7 @@
         <start>10:15</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1004-session_42birds_hitchhiker_s_towel_yoga</slug>
         <title>42birds: Hitchhiker's Towel-Yoga</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2593,7 +2598,7 @@
         <start>20:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1005-session_42birds_nerd_game_show</slug>
         <title>42birds: Nerd Game Show</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2613,7 +2618,7 @@
         <start>14:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1068-session_introtoprogramminglanguagesforbeginners</slug>
         <title>Introtoprogramminglanguagesforbeginners</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2633,7 +2638,7 @@
         <start>12:00</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1198-session_sailfishos_sfos_meetup</slug>
         <title>SailfishOS (SFOS) Meetup</title>
         <subtitle>SFOS sailors on 35C3</subtitle>
         <track>self organized sessions</track>
@@ -2654,7 +2659,7 @@
         <start>15:30</start>
         <duration>0:30</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1165-session_structure_and_content_of_the_visible_darknet</slug>
         <title>Structure and Content of the Visible Darknet</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2676,7 +2681,7 @@
         <start>17:00</start>
         <duration>2:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1126-session_tuwat_ag_kritis</slug>
         <title>Tuwat AG Kritis</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2702,7 +2707,7 @@
         <start>15:10</start>
         <duration>1:30</duration>
         <room>Lecture room 11</room>
-        <slug/>
+        <slug>35c3-1119-session_translation</slug>
         <title>Translation</title>
         <subtitle>Meeting Day 4</subtitle>
         <track>self organized sessions</track>
@@ -2725,7 +2730,7 @@
         <start>11:00</start>
         <duration>3:00</duration>
         <room>Seminar room 14-15</room>
-        <slug/>
+        <slug>35c3-1205-session_workshop_with_le_reset_writing_interactive_speculative_fiction_with_twine</slug>
         <title>Workshop with Le RESET: Writing interactive speculative fiction with Twine</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2748,7 +2753,7 @@
         <start>15:10</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1036-session_cognitive_stimulation_interfaces_how_to_circumvent_the_obvious</slug>
         <title>Cognitive Stimulation Interfaces: How to Circumvent the Obvious</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2768,7 +2773,7 @@
         <start>12:55</start>
         <duration>1:00</duration>
         <room>Lecture room M1</room>
-        <slug/>
+        <slug>35c3-1136-session_wondrous_mathematics_large_numbers_very_large_numbers_and_very_very_large_numbers</slug>
         <title>Wondrous Mathematics: Large numbers, very large numbers and very very large numbers</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2792,7 +2797,7 @@
         <start>15:30</start>
         <duration>0:30</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1054-session_general_angel_meeting</slug>
         <title>General Angel Meeting</title>
         <subtitle>Day4 - Teardown</subtitle>
         <track>self organized sessions</track>
@@ -2812,7 +2817,7 @@
         <start>11:30</start>
         <duration>2:00</duration>
         <room>Lecture room M2</room>
-        <slug/>
+        <slug>35c3-1166-session_nextcloud_install_party</slug>
         <title>Nextcloud Install Party</title>
         <subtitle>Run your own Nextcloud instance!</subtitle>
         <track>self organized sessions</track>
@@ -2827,6 +2832,7 @@
         </links>
       </event>
     </room>
+    <room name="BühneLecture room 11"/>
     <room name="Seminar room 13">
       <event id="1003" guid="5bcac53d-4417-4bbb-9c4a-d02103f8705b">
         <logo/>
@@ -2834,7 +2840,7 @@
         <start>10:15</start>
         <duration>1:00</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1003-session_42birds_hitchhiker_s_towel_yoga</slug>
         <title>42birds: Hitchhiker's Towel-Yoga</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2853,7 +2859,7 @@
         <start>15:15</start>
         <duration>0:45</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1006-session_42birds_powerful_writing_it_s_easy_if_you_do_it_smart_</slug>
         <title>42birds: Powerful Writing? It’s Easy If You Do It Smart.</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2872,7 +2878,7 @@
         <start>11:00</start>
         <duration>1:30</duration>
         <room>Seminar room 13</room>
-        <slug/>
+        <slug>35c3-1048-session_formalizing_mathematics_in_the_proof_assistant_agda</slug>
         <title>Formalizing mathematics in the proof assistant Agda</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -2890,5 +2896,4 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-23 12:10</version>
 </schedule>
