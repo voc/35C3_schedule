@@ -2620,7 +2620,7 @@
             "https://8os.io"
         ], 
         "Has description": [
-            "In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics.."
+            "In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics.<br><br> <span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>"
         ], 
         "Has session type": [
             "Workshop"
@@ -5441,7 +5441,7 @@
             "https://8os.io"
         ], 
         "Has description": [
-            "The concepts of vulnerability, infiltration, disruption can be enacted through physical interaction to gain additional insights about their operation."
+            "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>"
         ], 
         "Has session type": [
             "Workshop"
@@ -8302,10 +8302,10 @@
         "Has subtitle": [], 
         "Is organized by": [
             {
-                "fulltext": "User:Algoldor", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "fulltext": "User:Schmittlauch", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Schmittlauch", 
                 "namespace": 2, 
-                "exists": "1", 
+                "exists": "", 
                 "displaytitle": ""
             }
         ], 
@@ -11191,6 +11191,59 @@
             {
                 "timestamp": "1546020000", 
                 "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Text Network Analysis for Bias Detection in Discourse# 4ae4f2205ca7423f2154a16eee541332": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546007400", 
+                "raw": "1/2018/12/28/14/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://noduslabs.com/category/tutorials/"
+        ], 
+        "Has description": [
+            "A quick intro on how text network analysis can be used to detect bias in discourse and to generate insight from any text."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Text Network Analysis for Bias Detection in Discourse"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "802dc67e-ab37-4ecf-8e30-a213688a5644"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse", 
+        "Has end time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
     }, 

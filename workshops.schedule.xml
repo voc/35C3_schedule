@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 20:50</version>
+  <version>2018-12-23 21:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1560,6 +1560,26 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Privacy_Meetup._Stammtisch_B%C3%BCndnis_Privatsph%C3%A4re_Leipzig</link>
         </links>
       </event>
+      <event id="1238" guid="802dc67e-ab37-4ecf-8e30-a213688a5644">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1238-session_text_network_analysis_for_bias_detection_in_discourse</slug>
+        <title>Text Network Analysis for Bias Detection in Discourse</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>A quick intro on how text network analysis can be used to detect bias in discourse and to generate insight from any text.</description>
+        <persons/>
+        <links>
+          <link>https://noduslabs.com/category/tutorials/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse</link>
+        </links>
+      </event>
       <event id="1128" guid="df883408-2ce9-4640-89c4-112eb0d64394">
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
@@ -1840,7 +1860,7 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics..</description>
+        <description>In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics.&lt;br&gt;&lt;br&gt; &lt;span style="color:orange"&gt;'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''&lt;/span&gt;</description>
         <persons/>
         <links>
           <link>https://8os.io</link>
@@ -2879,7 +2899,7 @@
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>The concepts of vulnerability, infiltration, disruption can be enacted through physical interaction to gain additional insights about their operation.</description>
+        <description>We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.&lt;br&gt;&lt;br&gt;&lt;span style="color:orange"&gt;'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''&lt;/span&gt;</description>
         <persons/>
         <links>
           <link>https://8os.io</link>

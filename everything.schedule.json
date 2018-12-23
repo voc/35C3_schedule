@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 20:50", 
+        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 21:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7938,6 +7938,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1238, 
+                                "guid": "802dc67e-ab37-4ecf-8e30-a213688a5644", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "0:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1238-session_text_network_analysis_for_bias_detection_in_discourse", 
+                                "title": "Text Network Analysis for Bias Detection in Discourse", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A quick intro on how text network analysis can be used to detect bias in discourse and to generate insight from any text.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://noduslabs.com/category/tutorials/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse"
+                                ]
+                            }, 
+                            {
                                 "id": 1128, 
                                 "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
                                 "logo": null, 
@@ -8592,7 +8614,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics..", 
+                                "description": "In this session we will explore the notions used in hacking through interactive physical exercises. Creating the body-based code for the software, based on systemic thinking and non-equilibrium dynamics.<br><br> <span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>", 
                                 "persons": [], 
                                 "links": [
                                     "https://8os.io", 
@@ -10650,8 +10672,8 @@
                                 "persons": [
                                     {
                                         "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
-                                        "public_name": "Algoldor"
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Schmittlauch", 
+                                        "public_name": "Schmittlauch"
                                     }
                                 ], 
                                 "links": [
@@ -14307,7 +14329,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "The concepts of vulnerability, infiltration, disruption can be enacted through physical interaction to gain additional insights about their operation.", 
+                                "description": "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>", 
                                 "persons": [], 
                                 "links": [
                                     "https://8os.io", 
