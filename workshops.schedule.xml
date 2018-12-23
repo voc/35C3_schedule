@@ -2698,7 +2698,28 @@
     </room>
     <room name="Chaos West Stage"/>
     <room name="Vintage Computing Cluster"/>
-    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 14-15">
+      <event id="1205" guid="ee94e378-5c00-4b31-98ca-f0324f665a86">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug/>
+        <title>Workshop with Le RESET: Writing interactive speculative fiction with Twine</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will write together new utopian, situated, fun, anti-capitalist narratives and will question imaginaries around feminist, ancestral, autonomous, emancipatory, anti-capitalist technologies. We will use Twine, a free software that allows fast creation of interactive narratives</description>
+        <persons/>
+        <links>
+          <link>https://wiki.lereset.org/ateliers:ecriturespeculative</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_with_Le_RESET:_Writing_interactive_speculative_fiction_with_Twine</link>
+        </links>
+      </event>
+    </room>
     <room name="OIO lecture arena"/>
     <room name="Lecture room M1">
       <event id="1036" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
@@ -2849,5 +2870,5 @@
     </room>
     <room name="c-base"/>
   </day>
-  <version>2018-12-23 11:00</version>
+  <version>2018-12-23 11:10</version>
 </schedule>

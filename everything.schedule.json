@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 11:00", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 11:10", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -14367,7 +14367,30 @@
                                 ]
                             }
                         ], 
-                        "Seminar room 14-15": [], 
+                        "Seminar room 14-15": [
+                            {
+                                "id": 1205, 
+                                "guid": "ee94e378-5c00-4b31-98ca-f0324f665a86", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "", 
+                                "title": "Workshop with Le RESET: Writing interactive speculative fiction with Twine", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We will write together new utopian, situated, fun, anti-capitalist narratives and will question imaginaries around feminist, ancestral, autonomous, emancipatory, anti-capitalist technologies. We will use Twine, a free software that allows fast creation of interactive narratives", 
+                                "persons": [], 
+                                "links": [
+                                    "https://wiki.lereset.org/ateliers:ecriturespeculative", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_with_Le_RESET:_Writing_interactive_speculative_fiction_with_Twine"
+                                ]
+                            }
+                        ], 
                         "Seminar room 13": [
                             {
                                 "id": 1003, 

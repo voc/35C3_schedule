@@ -11873,5 +11873,58 @@
                 "raw": "1/2018/12/29/15/0/0/0"
             }
         ]
+    }, 
+    "Session:Workshop with Le RESET: Writing interactive speculative fiction with Twine# 936ba5657ed50d821852ab272c908f70": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546167600", 
+                "raw": "1/2018/12/30/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.lereset.org/ateliers:ecriturespeculative"
+        ], 
+        "Has description": [
+            "We will write together new utopian, situated, fun, anti-capitalist narratives and will question imaginaries around feminist, ancestral, autonomous, emancipatory, anti-capitalist technologies. We will use Twine, a free software that allows fast creation of interactive narratives"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Workshop with Le RESET: Writing interactive speculative fiction with Twine"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "ee94e378-5c00-4b31-98ca-f0324f665a86"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_with_Le_RESET:_Writing_interactive_speculative_fiction_with_Twine", 
+        "Has end time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ]
     }
 }
