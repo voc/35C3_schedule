@@ -3366,6 +3366,42 @@
             }
         ]
     }, 
+    "Session:Commie curious# e803e0db042b6b762f65a6ca06b3312f": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://telekommunisten.net"
+        ], 
+        "Has description": [
+            "A warm and welcoming place for people who think they might be a little communist."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Commie curious"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "ee32a212-a49d-4bb3-b18f-8501e0a77597"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious", 
+        "Has end time": []
+    }, 
     "Session:ComputerForensikfuerAnfaengerinnen# fc7dc04adc59ed56c72abd2b53d2055a": {
         "Held in language": [
             "de - German"
