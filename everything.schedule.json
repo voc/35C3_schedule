@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.1 v1.7 0.5 2018-12-23 23:00", 
+        "version": "Columbo 3 1.0.1 v1.7 0.5 2018-12-23 23:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10217,141 +10217,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1239, 
-                                "guid": "a0ff2399-7c1e-4b7c-9ced-182708dfb77c", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:30", 
-                                "room": "", 
-                                "slug": "35c3-1239-session_jht_beweise_ohne_worte", 
-                                "title": "JHT: Beweise ohne Worte", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "(f\u00fcr Kinder und Erwachsene) In der Schule besteht Mathematik zu einem gro\u00dfen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zur\u00fcckzuf\u00fchren, und dazu geh\u00f6ren ergreifende emotionale Aha-Momente beim Verstehen von Zusammenh\u00e4ngen. In diesem Workshop behandeln wir grafische Beweise.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Beweise_ohne_Worte"
-                                ]
-                            }, 
-                            {
-                                "id": 1240, 
-                                "guid": "b393369d-e65d-4256-8498-81b6597512cc", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:30", 
-                                "room": "", 
-                                "slug": "35c3-1240-session_jht_cosmic_call_eine_botschaft_an_ausserirdische", 
-                                "title": "JHT: Cosmic Call, eine Botschaft an Au\u00dferirdische", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "(f\u00fcr Kinder und Erwachsene) Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Cosmic_Call,_eine_Botschaft_an_Au%C3%9Ferirdische"
-                                ]
-                            }, 
-                            {
-                                "id": 1241, 
-                                "guid": "8610749c-051e-45c1-9a3a-d63b557bb210", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:30", 
-                                "room": "", 
-                                "slug": "35c3-1241-session_jht_rubik_s_cube_workshop_zauberwuerfelworkshop_", 
-                                "title": "JHT: Rubik's Cube Workshop (Zauberw\u00fcrfelworkshop)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "(for kids and adults) Learn how to solve the Rubik's cube! Lerne, wie man den Zauberw\u00fcrfel l\u00f6st!", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Rubik%27s_Cube_Workshop_(Zauberw%C3%BCrfelworkshop)"
-                                ]
-                            }, 
-                            {
-                                "id": 1242, 
-                                "guid": "ef314c4e-c40d-4a32-a37e-2e09fa67f143", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:30", 
-                                "room": "", 
-                                "slug": "35c3-1242-session_jht_spiel_und_spass_mit_der_vierten_dimension", 
-                                "title": "JHT: Spiel und Spa\u00df mit der vierten Dimension", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "(f\u00fcr Kinder) In unserer Welt k\u00f6nnen wir uns nach links und rechts, nach hinten und vorne sowie nach unten und oben bewegen. Weitere Richtungen gibt es nicht. Das muss aber nicht so sein! In der Mathematik ist auch eine weitere Dimension vorstellbar. In diesem Workshop lernen wir diese vierte Dimension spielerisch und anschaulich kennen.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_der_vierten_Dimension"
-                                ]
-                            }, 
-                            {
-                                "id": 1243, 
-                                "guid": "cd728d9b-5e09-492a-bb88-453c1681ded9", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:30", 
-                                "room": "", 
-                                "slug": "35c3-1243-session_jht_spiel_und_spass_mit_unendlichen_zahlen_und_unendlichen_spielen", 
-                                "title": "JHT: Spiel und Spa\u00df mit unendlichen Zahlen und unendlichen Spielen", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "(f\u00fcr Kinder) Irgendwann lernt man, dass das Spiel \u201ewer kann die gr\u00f6\u00dfere Zahl sagen?\u201c langweilig wird. Oder stimmt das gar nicht?", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_unendlichen_Zahlen_und_unendlichen_Spielen"
-                                ]
-                            }, 
-                            {
                                 "id": 1201, 
                                 "guid": "f45b9f26-45ad-4c8b-8350-1abfc1420514", 
                                 "logo": null, 
@@ -10879,6 +10744,143 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Feminist_hackers_%26_makers_meetup"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Pseudoroom": [
+                            {
+                                "id": 1239, 
+                                "guid": "a0ff2399-7c1e-4b7c-9ced-182708dfb77c", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Pseudoroom", 
+                                "slug": "35c3-1239-session_jht_beweise_ohne_worte", 
+                                "title": "JHT: Beweise ohne Worte", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder und Erwachsene) In der Schule besteht Mathematik zu einem gro\u00dfen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zur\u00fcckzuf\u00fchren, und dazu geh\u00f6ren ergreifende emotionale Aha-Momente beim Verstehen von Zusammenh\u00e4ngen. In diesem Workshop behandeln wir grafische Beweise.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Beweise_ohne_Worte"
+                                ]
+                            }, 
+                            {
+                                "id": 1240, 
+                                "guid": "b393369d-e65d-4256-8498-81b6597512cc", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Pseudoroom", 
+                                "slug": "35c3-1240-session_jht_cosmic_call_eine_botschaft_an_ausserirdische", 
+                                "title": "JHT: Cosmic Call, eine Botschaft an Au\u00dferirdische", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder und Erwachsene) Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Cosmic_Call,_eine_Botschaft_an_Au%C3%9Ferirdische"
+                                ]
+                            }, 
+                            {
+                                "id": 1241, 
+                                "guid": "8610749c-051e-45c1-9a3a-d63b557bb210", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Pseudoroom", 
+                                "slug": "35c3-1241-session_jht_rubik_s_cube_workshop_zauberwuerfelworkshop_", 
+                                "title": "JHT: Rubik's Cube Workshop (Zauberw\u00fcrfelworkshop)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(for kids and adults) Learn how to solve the Rubik's cube! Lerne, wie man den Zauberw\u00fcrfel l\u00f6st!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Rubik%27s_Cube_Workshop_(Zauberw%C3%BCrfelworkshop)"
+                                ]
+                            }, 
+                            {
+                                "id": 1242, 
+                                "guid": "ef314c4e-c40d-4a32-a37e-2e09fa67f143", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Pseudoroom", 
+                                "slug": "35c3-1242-session_jht_spiel_und_spass_mit_der_vierten_dimension", 
+                                "title": "JHT: Spiel und Spa\u00df mit der vierten Dimension", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder) In unserer Welt k\u00f6nnen wir uns nach links und rechts, nach hinten und vorne sowie nach unten und oben bewegen. Weitere Richtungen gibt es nicht. Das muss aber nicht so sein! In der Mathematik ist auch eine weitere Dimension vorstellbar. In diesem Workshop lernen wir diese vierte Dimension spielerisch und anschaulich kennen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_der_vierten_Dimension"
+                                ]
+                            }, 
+                            {
+                                "id": 1243, 
+                                "guid": "cd728d9b-5e09-492a-bb88-453c1681ded9", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "Assembly:Pseudoroom", 
+                                "slug": "35c3-1243-session_jht_spiel_und_spass_mit_unendlichen_zahlen_und_unendlichen_spielen", 
+                                "title": "JHT: Spiel und Spa\u00df mit unendlichen Zahlen und unendlichen Spielen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder) Irgendwann lernt man, dass das Spiel \u201ewer kann die gr\u00f6\u00dfere Zahl sagen?\u201c langweilig wird. Oder stimmt das gar nicht?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_unendlichen_Zahlen_und_unendlichen_Spielen"
                                 ]
                             }
                         ], 
