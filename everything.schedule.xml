@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 20:10</version>
+  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 20:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4639,7 +4639,7 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         <type>game</type>
         <language>de</language>
         <abstract/>
-        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
@@ -10071,7 +10071,7 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <type>game</type>
         <language>de</language>
         <abstract/>
-        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
@@ -13472,6 +13472,28 @@ Das Projekt endet wie der Steinkohlebergbau zum Ende des Jahres!</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mechanical_Keyboard_Meetup</link>
         </links>
       </event>
+      <event id="1237" guid="0cb42226-2aff-4739-a7b1-3712b08920d8">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1237-session_nixos_pratical_introduction_into_cross_compiling</slug>
+        <title>NixOS: Pratical Introduction into Cross-Compiling</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description>A introduction into cross-compiling with nix and nixpkgs</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Mic92">Mic92</person>
+        </persons>
+        <links>
+          <link>https://nixos.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:NixOS:_Pratical_Introduction_into_Cross-Compiling</link>
+        </links>
+      </event>
       <event id="1090" guid="8b827630-c55d-40bd-884f-ac587bd4f43a">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -15255,7 +15277,7 @@ LOVE FREEDOM EVERYTHING</abstract>
         <type>game</type>
         <language>de</language>
         <abstract/>
-        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>

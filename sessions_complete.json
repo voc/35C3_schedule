@@ -3087,7 +3087,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
+            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
         ], 
         "Has session type": [
             "Game"
@@ -3139,7 +3139,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
+            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
         ], 
         "Has session type": [
             "Game"
@@ -3191,7 +3191,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
+            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
         ], 
         "Has session type": [
             "Game"
@@ -8058,6 +8058,65 @@
             {
                 "timestamp": "1546176600", 
                 "raw": "1/2018/12/30/13/30/0/0"
+            }
+        ]
+    }, 
+    "Session:NixOS: Pratical Introduction into Cross-Compiling# 258a1e1267407ca93a13f2385ba8f977": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://nixos.org"
+        ], 
+        "Has description": [
+            "A introduction into cross-compiling with nix and nixpkgs"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mic92", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mic92", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "NixOS: Pratical Introduction into Cross-Compiling"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0cb42226-2aff-4739-a7b1-3712b08920d8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:NixOS:_Pratical_Introduction_into_Cross-Compiling", 
+        "Has end time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
             }
         ]
     }, 
