@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.7 0.5</version>
+  <version>Columbo 2.1 1.0.0 v1.7 0.5</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2664,6 +2664,35 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="6">
             <name>Andreas Dorfer</name>
             <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="297" guid="f185741b-3aaf-5b51-914e-6406c9df8e1c">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>MLQWXT</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/MLQWXT</url>
+        <title>nerds go humanitarian aid</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Ein Workshop um Möglichkeiten aufzuzeigen, wie und wo sich Betätigungsfelder für Nerds, Geeks und Specialists im humanitären Bereich ergeben...operativ werden statt nur Geld spenden.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="60">
+            <name>Sebastian</name>
+            <biography>CEO von CADUS e.V.</biography>
           </person>
         </persons>
         <links/>
@@ -5930,35 +5959,6 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
-      <event id="301" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
-        <logo/>
-        <date>2018-12-28T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>02:00</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>3CZK9Y</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y</url>
-        <title>Solidarity at Sea Movie</title>
-        <subtitle/>
-        <track/>
-        <type>Movie with Q&amp;A</type>
-        <language>en</language>
-        <abstract>Movie and Q&amp;A with crew members of Juventa and other SAR ships</abstract>
-        <description>Movie and Q&amp;A with crew members of Juventa and other SAR ships</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="91">
-            <name>Solidarity at Sea</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="280" guid="a6bf60a6-dc23-5df1-9eea-eedbe8650994">
         <logo/>
         <date>2018-12-28T11:30:00+01:00</date>
@@ -6131,6 +6131,38 @@ Wir stellen in unserem Talk unsere Architektur vor und zeigen welchen Stand unse
           <person id="61">
             <name>Chris Fiege und Jan Lübbe</name>
             <biography>Chris Fiege (chrissi^) und Jan Lübbe (shoragan) sind ein Teil der Technik-Abteilung beim Freifunk Braunschweig.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="296" guid="d69cd444-9df3-5e9b-a79f-b70b7b3ec98d">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>BBGXPY</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BBGXPY</url>
+        <title>Wem ist noch zu helfen</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Global NGO Players vs. (linke) Grassroots-Gruppen - wer entscheidet, wem wann wie geholfen wird...und wo verkommt humanitäre Praxis zum politischen Spielfeld</abstract>
+        <description>Aus Kritik am humanitären System der UN und seinen beteiligten Groß-NGOs haben sich viele (linke) Grassroots-Gruppen gegründet. Auch diese können natürlich nicht ohne finanzielle Mittel arbeiten, und sind somit auf Spenden, ergo auf Öffentlichkeitsarbeit angewiesen. &#13;
+Wie entscheiden die "Großen" wann und wie und wem geholfen wird? Welche Lücken bleiben dabei (zwangsläufig)?&#13;
+Und wie werden diese Entscheidungen bei den Grassroots getroffen? Und welche Auswirkungen auf die Wahrnehmung von Krisen hat ihre Öffentlichkeitsarbeit? "Trommeln gehört  zum Handwerk", aber wo läuft linkes humanitäres Engagement Gefahr, in rein politisch motivierten Aktivismus abzudriften? Und wenn das schlimm ist, warum? &#13;
+Eine kritische Betrachtungsweise.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="60">
+            <name>Sebastian</name>
+            <biography>CEO von CADUS e.V.</biography>
           </person>
         </persons>
         <links/>
