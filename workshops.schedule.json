@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 23:40", 
+        "version": "2018-12-23 23:52", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -14,6 +14,218 @@
                     "index": 0, 
                     "day_end": "2018-12-27T04:00:00+01:00", 
                     "rooms": {
+                        "OIO Vortrags-Arena": [], 
+                        "Lecture room 11": [
+                            {
+                                "id": 1009, 
+                                "guid": "83e455a6-c0bc-4364-b4df-8bc7b7dd01ad", 
+                                "logo": null, 
+                                "date": "2018-12-26T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1009-session_a_v_angel_meeting", 
+                                "title": "A/V Angel Meeting", 
+                                "subtitle": "A/V Technican Meetup", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Daily Meetup for A/V Angels", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
+                                        "public_name": "Jwacalex"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3voc.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1032, 
+                                "guid": "eae0d0dc-1206-4703-9ad5-6a31c41ed5f9", 
+                                "logo": null, 
+                                "date": "2018-12-26T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1032-session_cashdesk_angel_introduction", 
+                                "title": "Cashdesk Angel Introduction", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Want to try being a cashdesk angel? You'll need this introduction first.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx", 
+                                        "public_name": "Rixx"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction"
+                                ]
+                            }, 
+                            {
+                                "id": 1140, 
+                                "guid": "2f310a9e-c8f5-4f48-8760-87419e256e61", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1140-session_translation_second_channel", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 0 (all translators)", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1118, 
+                                "guid": "1cd15de3-a4ba-4d4b-a565-eab68a76188b", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1118-session_translation", 
+                                "title": "Translation", 
+                                "subtitle": "Meeting Day 0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation"
+                                ]
+                            }
+                        ], 
+                        "OIO Workshop-Domo": [], 
+                        "CCL Saal 3": [], 
+                        "Chaos West B\u00fchne": [], 
+                        "Seminar room 14-15": [
+                            {
+                                "id": 1012, 
+                                "guid": "dd8c40c5-e24b-4246-bc6a-014b6f392949", 
+                                "logo": null, 
+                                "date": "2018-12-26T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "3:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1012-session_arm_rop_exploitation_intro", 
+                                "title": "ARM ROP Exploitation Intro", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Exploiting stack based buffer overflows using ROP on ARM", 
+                                "persons": [], 
+                                "links": [
+                                    "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
+                                    "https://blog.3or.de//35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro"
+                                ]
+                            }, 
+                            {
+                                "id": 1062, 
+                                "guid": "7f0ea54b-63b3-463a-bc68-35780a206f85", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1062-session_herald_angel_introduction", 
+                                "title": "Herald Angel Introduction", 
+                                "subtitle": "for", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                                        "public_name": "Ijon"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction"
+                                ]
+                            }
+                        ], 
+                        "ChaosZone": [], 
+                        "Kidspace": [], 
+                        "Lecture room M1": [
+                            {
+                                "id": 1101, 
+                                "guid": "ac02f3e2-5c9e-41db-a912-96bda2afb030", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1101-session_stage_manager_angel_introduction", 
+                                "title": "Stage Manager Angel Introduction", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                                        "public_name": "Ijon"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
+                                ]
+                            }
+                        ], 
+                        "Lecture room M3": [
+                            {
+                                "id": 1057, 
+                                "guid": "13ed6368-e819-490b-8d71-7e1b291bb55b", 
+                                "logo": null, 
+                                "date": "2018-12-26T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1057-session_general_angel_meeting", 
+                                "title": "General Angel Meeting", 
+                                "subtitle": "Day0", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel Meeting", 
+                                "persons": [], 
+                                "links": [
+                                    "https://engelsystem.de/35c3/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
+                                ]
+                            }
+                        ], 
                         "Lecture room M2": [
                             {
                                 "id": 1168, 
@@ -128,217 +340,6 @@
                                 ]
                             }
                         ], 
-                        "Lecture room 11": [
-                            {
-                                "id": 1009, 
-                                "guid": "83e455a6-c0bc-4364-b4df-8bc7b7dd01ad", 
-                                "logo": null, 
-                                "date": "2018-12-26T23:00:00+01:00", 
-                                "start": "23:00", 
-                                "duration": "1:30", 
-                                "room": "Lecture room 11", 
-                                "slug": "35c3-1009-session_a_v_angel_meeting", 
-                                "title": "A/V Angel Meeting", 
-                                "subtitle": "A/V Technican Meetup", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Daily Meetup for A/V Angels", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jwacalex", 
-                                        "public_name": "Jwacalex"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3voc.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:A/V_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1032, 
-                                "guid": "eae0d0dc-1206-4703-9ad5-6a31c41ed5f9", 
-                                "logo": null, 
-                                "date": "2018-12-26T22:30:00+01:00", 
-                                "start": "22:30", 
-                                "duration": "0:30", 
-                                "room": "Lecture room 11", 
-                                "slug": "35c3-1032-session_cashdesk_angel_introduction", 
-                                "title": "Cashdesk Angel Introduction", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Want to try being a cashdesk angel? You'll need this introduction first.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rixx", 
-                                        "public_name": "Rixx"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cashdesk_Angel_Introduction"
-                                ]
-                            }, 
-                            {
-                                "id": 1140, 
-                                "guid": "2f310a9e-c8f5-4f48-8760-87419e256e61", 
-                                "logo": null, 
-                                "date": "2018-12-26T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Lecture room 11", 
-                                "slug": "35c3-1140-session_translation_second_channel", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 0 (all translators)", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
-                                ]
-                            }, 
-                            {
-                                "id": 1118, 
-                                "guid": "1cd15de3-a4ba-4d4b-a565-eab68a76188b", 
-                                "logo": null, 
-                                "date": "2018-12-26T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Lecture room 11", 
-                                "slug": "35c3-1118-session_translation", 
-                                "title": "Translation", 
-                                "subtitle": "Meeting Day 0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The Translation teams meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation"
-                                ]
-                            }
-                        ], 
-                        "Chaos West B\u00fchne": [], 
-                        "Vintage Computing Cluster": [], 
-                        "Seminar room 14-15": [
-                            {
-                                "id": 1012, 
-                                "guid": "dd8c40c5-e24b-4246-bc6a-014b6f392949", 
-                                "logo": null, 
-                                "date": "2018-12-26T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "3:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1012-session_arm_rop_exploitation_intro", 
-                                "title": "ARM ROP Exploitation Intro", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Exploiting stack based buffer overflows using ROP on ARM", 
-                                "persons": [], 
-                                "links": [
-                                    "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
-                                    "https://blog.3or.de//35c3", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro"
-                                ]
-                            }, 
-                            {
-                                "id": 1062, 
-                                "guid": "7f0ea54b-63b3-463a-bc68-35780a206f85", 
-                                "logo": null, 
-                                "date": "2018-12-26T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1062-session_herald_angel_introduction", 
-                                "title": "Herald Angel Introduction", 
-                                "subtitle": "for", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                                        "public_name": "Ijon"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction"
-                                ]
-                            }
-                        ], 
-                        "B\u00fchne": [], 
-                        "c-base": [], 
-                        "Lecture room M1": [
-                            {
-                                "id": 1101, 
-                                "guid": "ac02f3e2-5c9e-41db-a912-96bda2afb030", 
-                                "logo": null, 
-                                "date": "2018-12-26T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "35c3-1101-session_stage_manager_angel_introduction", 
-                                "title": "Stage Manager Angel Introduction", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                                        "public_name": "Ijon"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
-                                ]
-                            }
-                        ], 
-                        "Lecture room M3": [
-                            {
-                                "id": 1057, 
-                                "guid": "13ed6368-e819-490b-8d71-7e1b291bb55b", 
-                                "logo": null, 
-                                "date": "2018-12-26T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1057-session_general_angel_meeting", 
-                                "title": "General Angel Meeting", 
-                                "subtitle": "Day0", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel Meeting", 
-                                "persons": [], 
-                                "links": [
-                                    "https://engelsystem.de/35c3/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
-                                ]
-                            }
-                        ], 
-                        "OIO Vortrags-Arena": [], 
                         "Seminar room 13": []
                     }, 
                     "day_start": "2018-12-26T06:00:00+01:00"
@@ -348,184 +349,7 @@
                     "index": 1, 
                     "day_end": "2018-12-28T04:00:00+01:00", 
                     "rooms": {
-                        "Lecture room M2": [
-                            {
-                                "id": 1020, 
-                                "guid": "bd012aa6-8ea8-4df6-a115-6d911a61ab03", 
-                                "logo": null, 
-                                "date": "2018-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1020-session_auti_angel_meeting", 
-                                "title": "Auti Angel Meeting", 
-                                "subtitle": "Introduction", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Introduction Meeting for Auti Support Angel and Auti Angel", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein", 
-                                        "public_name": "Fairsein"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/2018/12/14/autism-support-35c3/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1023, 
-                                "guid": "8b99c47f-86ed-4c06-b508-f135d906b9bc", 
-                                "logo": null, 
-                                "date": "2018-12-27T19:01:00+01:00", 
-                                "start": "19:01", 
-                                "duration": "0:59", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1023-session_binaergewitter_hoerertreffen", 
-                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "H\u00f6rertreffen vom Bin\u00e4rgewitter Podcast", 
-                                "persons": [], 
-                                "links": [
-                                    "http://krepel.us", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
-                                ]
-                            }, 
-                            {
-                                "id": 1030, 
-                                "guid": "1e313c03-b69b-452c-88d1-cfa0fe297790", 
-                                "logo": null, 
-                                "date": "2018-12-27T18:01:00+01:00", 
-                                "start": "18:01", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1030-session_cms_loethelferworkshop", 
-                                "title": "CMS L\u00f6thelferworkshop", 
-                                "subtitle": "L\u00f6thelferworkshop", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
-                                        "public_name": "Djim"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop"
-                                ]
-                            }, 
-                            {
-                                "id": 1046, 
-                                "guid": "e4e37c0f-db57-4d10-9a4e-35ec132cda22", 
-                                "logo": null, 
-                                "date": "2018-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1046-session_feedback_session_for_the_arbitration_board", 
-                                "title": "Feedback Session for the Arbitration Board", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Workshop provides the official place to give feedback on the newly established arbitration board for handling conflicts at the Xc3", 
-                                "persons": [], 
-                                "links": [
-                                    "http://help.ccc.de", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board"
-                                ]
-                            }, 
-                            {
-                                "id": 1104, 
-                                "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
-                                "logo": null, 
-                                "date": "2018-12-27T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1104-session_subtitles_angelmeeting", 
-                                "title": "Subtitles Angelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1107, 
-                                "guid": "c687a764-0204-46f1-9393-bce5dd7f65fc", 
-                                "logo": null, 
-                                "date": "2018-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1107-session_subtitles_angelmeeting", 
-                                "title": "Subtitles Angelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1117, 
-                                "guid": "af201fc8-81aa-4959-90ae-81307e17a6e3", 
-                                "logo": null, 
-                                "date": "2018-12-27T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1117-session_tor_relays_operators_meetup", 
-                                "title": "Tor relays operators meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup"
-                                ]
-                            }
-                        ], 
+                        "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
                                 "id": 1010, 
@@ -652,8 +476,9 @@
                                 ]
                             }
                         ], 
+                        "OIO Workshop-Domo": [], 
+                        "CCL Saal 3": [], 
                         "Chaos West B\u00fchne": [], 
-                        "Vintage Computing Cluster": [], 
                         "Seminar room 14-15": [
                             {
                                 "id": 1019, 
@@ -846,8 +671,7 @@
                                 ]
                             }
                         ], 
-                        "B\u00fchne": [], 
-                        "c-base": [], 
+                        "ChaosZone": [], 
                         "Kidspace": [
                             {
                                 "id": 1213, 
@@ -1109,7 +933,184 @@
                                 ]
                             }
                         ], 
-                        "OIO Vortrags-Arena": [], 
+                        "Lecture room M2": [
+                            {
+                                "id": 1020, 
+                                "guid": "bd012aa6-8ea8-4df6-a115-6d911a61ab03", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1020-session_auti_angel_meeting", 
+                                "title": "Auti Angel Meeting", 
+                                "subtitle": "Introduction", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Introduction Meeting for Auti Support Angel and Auti Angel", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fairsein", 
+                                        "public_name": "Fairsein"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/2018/12/14/autism-support-35c3/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Auti_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1023, 
+                                "guid": "8b99c47f-86ed-4c06-b508-f135d906b9bc", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:01:00+01:00", 
+                                "start": "19:01", 
+                                "duration": "0:59", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1023-session_binaergewitter_hoerertreffen", 
+                                "title": "Bin\u00e4rgewitter H\u00f6rertreffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "H\u00f6rertreffen vom Bin\u00e4rgewitter Podcast", 
+                                "persons": [], 
+                                "links": [
+                                    "http://krepel.us", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bin%C3%A4rgewitter_H%C3%B6rertreffen"
+                                ]
+                            }, 
+                            {
+                                "id": 1030, 
+                                "guid": "1e313c03-b69b-452c-88d1-cfa0fe297790", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:01:00+01:00", 
+                                "start": "18:01", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1030-session_cms_loethelferworkshop", 
+                                "title": "CMS L\u00f6thelferworkshop", 
+                                "subtitle": "L\u00f6thelferworkshop", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einweisung der L\u00f6tengel die beim Junghacker-Tag (28.12.18/Tag 2) den Junghackern beim L\u00f6ten helfen. Du kannst Dich auf dem L\u00f6tengel-Meeting als L\u00f6tengel freischalten lassen. Das Meeting findet am 27.12.18 um 18 Uhr statt.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Djim", 
+                                        "public_name": "Djim"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:CMS_L%C3%B6thelferworkshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1046, 
+                                "guid": "e4e37c0f-db57-4d10-9a4e-35ec132cda22", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1046-session_feedback_session_for_the_arbitration_board", 
+                                "title": "Feedback Session for the Arbitration Board", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Workshop provides the official place to give feedback on the newly established arbitration board for handling conflicts at the Xc3", 
+                                "persons": [], 
+                                "links": [
+                                    "http://help.ccc.de", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board"
+                                ]
+                            }, 
+                            {
+                                "id": 1104, 
+                                "guid": "c687a764-0204-46f1-9393-bce5dd7f65fb", 
+                                "logo": null, 
+                                "date": "2018-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1104-session_subtitles_angelmeeting", 
+                                "title": "Subtitles Angelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1107, 
+                                "guid": "c687a764-0204-46f1-9393-bce5dd7f65fc", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1107-session_subtitles_angelmeeting", 
+                                "title": "Subtitles Angelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1117, 
+                                "guid": "af201fc8-81aa-4959-90ae-81307e17a6e3", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1117-session_tor_relays_operators_meetup", 
+                                "title": "Tor relays operators meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relays_operators_meetup"
+                                ]
+                            }
+                        ], 
                         "Seminar room 13": [
                             {
                                 "id": 1001, 
@@ -1219,232 +1220,7 @@
                     "index": 2, 
                     "day_end": "2018-12-29T04:00:00+01:00", 
                     "rooms": {
-                        "Lecture room M2": [
-                            {
-                                "id": 1013, 
-                                "guid": "249656d2-6f97-47bd-9d47-a4bf7d31f640", 
-                                "logo": null, 
-                                "date": "2018-12-28T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1013-session_aaron_s_law_and_other_unfinished_business", 
-                                "title": "Aaron's Law and Other Unfinished Business", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business"
-                                ]
-                            }, 
-                            {
-                                "id": 1153, 
-                                "guid": "6cdb89b6-0055-4756-abb5-30362193f54b", 
-                                "logo": null, 
-                                "date": "2018-12-28T09:30:00+01:00", 
-                                "start": "09:30", 
-                                "duration": "2:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1153-session_berlin_scholarship_program_empowering_journalists_in_the_digital_field", 
-                                "title": "Berlin Scholarship Program: Empowering Journalists in the Digital Field", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Final Workshop with participatns of the fellowship program by Reporters Without Borders Germany", 
-                                "persons": [], 
-                                "links": [
-                                    "https://www.reporter-ohne-grenzen.de/hilfe-schutz/stipendien/berliner-stipendienprogramm/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Berlin_Scholarship_Program:_Empowering_Journalists_in_the_Digital_Field"
-                                ]
-                            }, 
-                            {
-                                "id": 1033, 
-                                "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
-                                "logo": null, 
-                                "date": "2018-12-28T19:30:00+01:00", 
-                                "start": "19:30", 
-                                "duration": "2:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1033-session_chaos_bug_bounty_meetup", 
-                                "title": "Chaos Bug Bounty Meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "A meetup for bug hunters to network and discuss the current issues in the bug bounty space", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jerh17", 
-                                        "public_name": "Jerh17"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup"
-                                ]
-                            }, 
-                            {
-                                "id": 1056, 
-                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca2", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1056-session_general_angel_meeting", 
-                                "title": "General Angel Meeting", 
-                                "subtitle": "Day2", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel Meeting", 
-                                "persons": [], 
-                                "links": [
-                                    "https://engelsystem.de/35c3/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1065, 
-                                "guid": "8e20f78f-9e08-4be3-8202-3f273e02ff52", 
-                                "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1065-session_human_rights_and_surveillance", 
-                                "title": "Human Rights and Surveillance", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "In the talk we want to shed light on the current global situation and focus on how we can stand together with human rights defenders affected by hacking. How is digital persecution working? Who is involved? What can Amnesty, other NGOs and every person do about it, together and individually?", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance"
-                                ]
-                            }, 
-                            {
-                                "id": 1075, 
-                                "guid": "94754b4f-c813-4b3f-b9e9-c18932c73e2a", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "1:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1075-session_let_s_hack_words_", 
-                                "title": "Let's hack words!", 
-                                "subtitle": "The hacker's journey", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "The hacker's journey - there and back again. How to make struggling stories work and write new ones with the hero's journey in mind.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx", 
-                                        "public_name": "Jinxx"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!"
-                                ]
-                            }, 
-                            {
-                                "id": 1091, 
-                                "guid": "e75da001-77b7-402d-82b3-943157807136", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1091-session_poetry_slam_workshop", 
-                                "title": "Poetry Slam Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Eine kurze Einf\u00fchrung in den humoristischen Dichterwettstreit", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia", 
-                                        "public_name": "Roikiermedia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop"
-                                ]
-                            }, 
-                            {
-                                "id": 1105, 
-                                "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
-                                "logo": null, 
-                                "date": "2018-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1105-session_subtitles_angelmeeting", 
-                                "title": "Subtitles Angelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1106, 
-                                "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d7", 
-                                "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1106-session_subtitles_angelmeeting", 
-                                "title": "Subtitles Angelmeeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
-                                        "public_name": "Cube"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://c3subtitles.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
-                                ]
-                            }
-                        ], 
+                        "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
                                 "id": 1008, 
@@ -1650,8 +1426,8 @@
                                 ]
                             }
                         ], 
-                        "Chaos West B\u00fchne": [], 
-                        "Vintage Computing Cluster": [], 
+                        "OIO Workshop-Domo": [], 
+                        "CCL Saal 3": [], 
                         "CCL Hall 3": [
                             {
                                 "id": 1232, 
@@ -1708,6 +1484,7 @@
                                 ]
                             }
                         ], 
+                        "Chaos West B\u00fchne": [], 
                         "Seminar room 14-15": [
                             {
                                 "id": 1022, 
@@ -1926,8 +1703,7 @@
                                 ]
                             }
                         ], 
-                        "B\u00fchne": [], 
-                        "c-base": [], 
+                        "ChaosZone": [], 
                         "Kidspace": [
                             {
                                 "id": 1236, 
@@ -2317,7 +2093,232 @@
                                 ]
                             }
                         ], 
-                        "OIO Vortrags-Arena": [], 
+                        "Lecture room M2": [
+                            {
+                                "id": 1013, 
+                                "guid": "249656d2-6f97-47bd-9d47-a4bf7d31f640", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1013-session_aaron_s_law_and_other_unfinished_business", 
+                                "title": "Aaron's Law and Other Unfinished Business", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The criminalisation of unauthorised access is the original sin of computer crimes law. The free software community has long understood this but now everyone else is catching up. In the years following Aaron Swartz's death, the wider public has become increasingly aware of the importance of security research for the protection of their personal data. The role of hackers in journalism, as whistleblowers and journalistic sources, is increasingly visible. And free societies will always need protest and civil disobedience to raise awkward questions.  While attempts to introduce \"Aaron's Law\" in the US ultimately failed, in this talk I'll talk about the developments in a number of jurisdictions that make Aarons Law-type reforms a realistic project in the next few years. In particular, I'll discuss the important implications of the EU draft whistleblowing directive for the free software community, the work I'll be doing through 2019 and the coalition we need to build in order to make Aaron's Law a reality.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Aaron%27s_Law_and_Other_Unfinished_Business"
+                                ]
+                            }, 
+                            {
+                                "id": 1153, 
+                                "guid": "6cdb89b6-0055-4756-abb5-30362193f54b", 
+                                "logo": null, 
+                                "date": "2018-12-28T09:30:00+01:00", 
+                                "start": "09:30", 
+                                "duration": "2:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1153-session_berlin_scholarship_program_empowering_journalists_in_the_digital_field", 
+                                "title": "Berlin Scholarship Program: Empowering Journalists in the Digital Field", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Final Workshop with participatns of the fellowship program by Reporters Without Borders Germany", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.reporter-ohne-grenzen.de/hilfe-schutz/stipendien/berliner-stipendienprogramm/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Berlin_Scholarship_Program:_Empowering_Journalists_in_the_Digital_Field"
+                                ]
+                            }, 
+                            {
+                                "id": 1033, 
+                                "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1033-session_chaos_bug_bounty_meetup", 
+                                "title": "Chaos Bug Bounty Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A meetup for bug hunters to network and discuss the current issues in the bug bounty space", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jerh17", 
+                                        "public_name": "Jerh17"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_Bug_Bounty_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1056, 
+                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca2", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1056-session_general_angel_meeting", 
+                                "title": "General Angel Meeting", 
+                                "subtitle": "Day2", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel Meeting", 
+                                "persons": [], 
+                                "links": [
+                                    "https://engelsystem.de/35c3/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1065, 
+                                "guid": "8e20f78f-9e08-4be3-8202-3f273e02ff52", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1065-session_human_rights_and_surveillance", 
+                                "title": "Human Rights and Surveillance", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "In the talk we want to shed light on the current global situation and focus on how we can stand together with human rights defenders affected by hacking. How is digital persecution working? Who is involved? What can Amnesty, other NGOs and every person do about it, together and individually?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Human_Rights_and_Surveillance"
+                                ]
+                            }, 
+                            {
+                                "id": 1075, 
+                                "guid": "94754b4f-c813-4b3f-b9e9-c18932c73e2a", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1075-session_let_s_hack_words_", 
+                                "title": "Let's hack words!", 
+                                "subtitle": "The hacker's journey", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "The hacker's journey - there and back again. How to make struggling stories work and write new ones with the hero's journey in mind.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx", 
+                                        "public_name": "Jinxx"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!"
+                                ]
+                            }, 
+                            {
+                                "id": 1091, 
+                                "guid": "e75da001-77b7-402d-82b3-943157807136", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1091-session_poetry_slam_workshop", 
+                                "title": "Poetry Slam Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Eine kurze Einf\u00fchrung in den humoristischen Dichterwettstreit", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Roikiermedia", 
+                                        "public_name": "Roikiermedia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop"
+                                ]
+                            }, 
+                            {
+                                "id": 1105, 
+                                "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1105-session_subtitles_angelmeeting", 
+                                "title": "Subtitles Angelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1106, 
+                                "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d7", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1106-session_subtitles_angelmeeting", 
+                                "title": "Subtitles Angelmeeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel introduction meeting for Subtitles Angels. All Subtitles Angels are required to attend at least once.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cube", 
+                                        "public_name": "Cube"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://c3subtitles.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
+                                ]
+                            }
+                        ], 
                         "Seminar room 13": [
                             {
                                 "id": 1172, 
@@ -2528,232 +2529,7 @@
                     "index": 3, 
                     "day_end": "2018-12-30T04:00:00+01:00", 
                     "rooms": {
-                        "Lecture room M2": [
-                            {
-                                "id": 1017, 
-                                "guid": "a389345e-a14c-4823-8ec6-3d07dd6037de", 
-                                "logo": null, 
-                                "date": "2018-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1017-session_amiga_amigaaa_disksalvation_scene_gathering", 
-                                "title": "Amiga! Amigaaa! Disksalvation & Scene Gathering", 
-                                "subtitle": "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Socialize with other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lord", 
-                                        "public_name": "Lord"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://media.ccc.de/v/2018-137-mzakmdcvamigazbh", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering"
-                                ]
-                            }, 
-                            {
-                                "id": 1041, 
-                                "guid": "2d8406f5-a50c-413d-9d86-9fa77aca2081", 
-                                "logo": null, 
-                                "date": "2018-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1041-session_eco_hacker_farm", 
-                                "title": "Eco Hacker Farm", 
-                                "subtitle": "cohabitation spaces mixing permaculture with hackerculture", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "covering cohabitation projects that mix permaculture with hackerculture, an online & onsite community", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia", 
-                                        "public_name": "Aimeejulia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://wiki.ecohackerfarm.org/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm"
-                                ]
-                            }, 
-                            {
-                                "id": 1049, 
-                                "guid": "33f0fb3d-b49b-484f-b71c-cb378aacd8b1", 
-                                "logo": null, 
-                                "date": "2018-12-29T17:20:00+01:00", 
-                                "start": "17:20", 
-                                "duration": "0:50", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1049-session_foundation_workshop_hands_on_how_does_the_internet_work_", 
-                                "title": "Foundation workshop: Hands-on, how does the Internet work?", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F"
-                                ]
-                            }, 
-                            {
-                                "id": 1051, 
-                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
-                                "logo": null, 
-                                "date": "2018-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1051-session_fund_raising_for_free_software_thinking_big", 
-                                "title": "Fund-Raising for Free Software - Thinking Big", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
-                                ]
-                            }, 
-                            {
-                                "id": 1053, 
-                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca3", 
-                                "logo": null, 
-                                "date": "2018-12-29T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1053-session_general_angel_meeting", 
-                                "title": "General Angel Meeting", 
-                                "subtitle": "Day3", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel Meeting", 
-                                "persons": [], 
-                                "links": [
-                                    "https://engelsystem.de/35c3/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1076, 
-                                "guid": "6b6fc2e4-dceb-4560-b75f-659349507ff0", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "1:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1076-session_locale_presse_oeffentlichkeitsarbeit", 
-                                "title": "Locale Presse-/\u00d6ffentlichkeitsarbeit", 
-                                "subtitle": "Vernetzungstreffen und Erfahrungsaustausch", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Vernetzung zur dezentralen \u00d6ffentlichkeitsarbeit", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit"
-                                ]
-                            }, 
-                            {
-                                "id": 1151, 
-                                "guid": "706cce29-f6b4-499a-b4ad-1c46ef604205", 
-                                "logo": null, 
-                                "date": "2018-12-29T18:10:00+01:00", 
-                                "start": "18:10", 
-                                "duration": "0:50", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1151-session_mietshaeuser_syndikat", 
-                                "title": "Mietsh\u00e4user Syndikat", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?", 
-                                "persons": [], 
-                                "links": [
-                                    "http://syndikat.org", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat"
-                                ]
-                            }, 
-                            {
-                                "id": 1234, 
-                                "guid": "bedf5d5f-246b-4825-a577-50d80e5fa024", 
-                                "logo": null, 
-                                "date": "2018-12-29T11:30:00+01:00", 
-                                "start": "11:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1234-session_teckids_teamlead_orga_meeting", 
-                                "title": "Teckids Teamlead Orga Meeting", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Orga Meeting f\u00fcr Teckids Teamleiter", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
-                                        "public_name": "Magu"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://teckids.org", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1134, 
-                                "guid": "45a13447-70ed-47d2-82ae-e88366738130", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:10:00+01:00", 
-                                "start": "16:10", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1134-session_wondrous_mathematics_fun_with_infinitely_large_numbers", 
-                                "title": "Wondrous Mathematics: Fun with infinitely large numbers", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers"
-                                ]
-                            }
-                        ], 
+                        "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
                                 "id": 1011, 
@@ -2876,8 +2652,8 @@
                                 ]
                             }
                         ], 
-                        "Chaos West B\u00fchne": [], 
-                        "Vintage Computing Cluster": [], 
+                        "OIO Workshop-Domo": [], 
+                        "CCL Saal 3": [], 
                         "CCL Hall 3": [
                             {
                                 "id": 1038, 
@@ -2908,6 +2684,7 @@
                                 ]
                             }
                         ], 
+                        "Chaos West B\u00fchne": [], 
                         "Seminar room 14-15": [
                             {
                                 "id": 1173, 
@@ -3116,8 +2893,7 @@
                                 ]
                             }
                         ], 
-                        "B\u00fchne": [], 
-                        "c-base": [], 
+                        "ChaosZone": [], 
                         "Kidspace": [
                             {
                                 "id": 1214, 
@@ -3542,7 +3318,232 @@
                                 ]
                             }
                         ], 
-                        "OIO Vortrags-Arena": [], 
+                        "Lecture room M2": [
+                            {
+                                "id": 1017, 
+                                "guid": "a389345e-a14c-4823-8ec6-3d07dd6037de", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1017-session_amiga_amigaaa_disksalvation_scene_gathering", 
+                                "title": "Amiga! Amigaaa! Disksalvation & Scene Gathering", 
+                                "subtitle": "Meet other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Socialize with other Demosceners and rescue your old Amiga Floppy Disks as adf/SD", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lord", 
+                                        "public_name": "Lord"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://media.ccc.de/v/2018-137-mzakmdcvamigazbh", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering"
+                                ]
+                            }, 
+                            {
+                                "id": 1041, 
+                                "guid": "2d8406f5-a50c-413d-9d86-9fa77aca2081", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1041-session_eco_hacker_farm", 
+                                "title": "Eco Hacker Farm", 
+                                "subtitle": "cohabitation spaces mixing permaculture with hackerculture", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "covering cohabitation projects that mix permaculture with hackerculture, an online & onsite community", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia", 
+                                        "public_name": "Aimeejulia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://wiki.ecohackerfarm.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eco_Hacker_Farm"
+                                ]
+                            }, 
+                            {
+                                "id": 1049, 
+                                "guid": "33f0fb3d-b49b-484f-b71c-cb378aacd8b1", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:20:00+01:00", 
+                                "start": "17:20", 
+                                "duration": "0:50", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1049-session_foundation_workshop_hands_on_how_does_the_internet_work_", 
+                                "title": "Foundation workshop: Hands-on, how does the Internet work?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Hands-on,_how_does_the_Internet_work%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1051, 
+                                "guid": "11969007-53c5-40f3-922a-6c1a87b7cf30", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1051-session_fund_raising_for_free_software_thinking_big", 
+                                "title": "Fund-Raising for Free Software - Thinking Big", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
+                                ]
+                            }, 
+                            {
+                                "id": 1053, 
+                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca3", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1053-session_general_angel_meeting", 
+                                "title": "General Angel Meeting", 
+                                "subtitle": "Day3", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel Meeting", 
+                                "persons": [], 
+                                "links": [
+                                    "https://engelsystem.de/35c3/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1076, 
+                                "guid": "6b6fc2e4-dceb-4560-b75f-659349507ff0", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1076-session_locale_presse_oeffentlichkeitsarbeit", 
+                                "title": "Locale Presse-/\u00d6ffentlichkeitsarbeit", 
+                                "subtitle": "Vernetzungstreffen und Erfahrungsaustausch", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Vernetzung zur dezentralen \u00d6ffentlichkeitsarbeit", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit"
+                                ]
+                            }, 
+                            {
+                                "id": 1151, 
+                                "guid": "706cce29-f6b4-499a-b4ad-1c46ef604205", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:10:00+01:00", 
+                                "start": "18:10", 
+                                "duration": "0:50", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1151-session_mietshaeuser_syndikat", 
+                                "title": "Mietsh\u00e4user Syndikat", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?", 
+                                "persons": [], 
+                                "links": [
+                                    "http://syndikat.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat"
+                                ]
+                            }, 
+                            {
+                                "id": 1234, 
+                                "guid": "bedf5d5f-246b-4825-a577-50d80e5fa024", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1234-session_teckids_teamlead_orga_meeting", 
+                                "title": "Teckids Teamlead Orga Meeting", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Orga Meeting f\u00fcr Teckids Teamleiter", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
+                                        "public_name": "Magu"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://teckids.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1134, 
+                                "guid": "45a13447-70ed-47d2-82ae-e88366738130", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:10:00+01:00", 
+                                "start": "16:10", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1134-session_wondrous_mathematics_fun_with_infinitely_large_numbers", 
+                                "title": "Wondrous Mathematics: Fun with infinitely large numbers", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers"
+                                ]
+                            }
+                        ], 
                         "Seminar room 13": [
                             {
                                 "id": 1004, 
@@ -3722,52 +3723,7 @@
                     "index": 4, 
                     "day_end": "2018-12-30T23:00:00+01:00", 
                     "rooms": {
-                        "Lecture room M2": [
-                            {
-                                "id": 1054, 
-                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 
-                                "logo": null, 
-                                "date": "2018-12-30T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "0:30", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1054-session_general_angel_meeting", 
-                                "title": "General Angel Meeting", 
-                                "subtitle": "Day4 - Teardown", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Angel Meeting", 
-                                "persons": [], 
-                                "links": [
-                                    "https://engelsystem.de/35c3/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1166, 
-                                "guid": "060799d9-c887-4ffc-9a15-cac5169ab561", 
-                                "logo": null, 
-                                "date": "2018-12-30T11:30:00+01:00", 
-                                "start": "11:30", 
-                                "duration": "2:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1166-session_nextcloud_install_party", 
-                                "title": "Nextcloud Install Party", 
-                                "subtitle": "Run your own Nextcloud instance!", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Get back control over your data - learn how to install your own Nextcloud instance!", 
-                                "persons": [], 
-                                "links": [
-                                    "https://nextcloud.com/yourdata/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nextcloud_Install_Party"
-                                ]
-                            }
-                        ], 
+                        "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
                                 "id": 1119, 
@@ -3791,8 +3747,9 @@
                                 ]
                             }
                         ], 
+                        "OIO Workshop-Domo": [], 
+                        "CCL Saal 3": [], 
                         "Chaos West B\u00fchne": [], 
-                        "Vintage Computing Cluster": [], 
                         "Seminar room 14-15": [
                             {
                                 "id": 1230, 
@@ -3838,8 +3795,8 @@
                                 ]
                             }
                         ], 
-                        "B\u00fchne": [], 
-                        "c-base": [], 
+                        "ChaosZone": [], 
+                        "Kidspace": [], 
                         "Lecture room M1": [
                             {
                                 "id": 1036, 
@@ -3892,7 +3849,52 @@
                             }
                         ], 
                         "Lecture room M3": [], 
-                        "OIO Vortrags-Arena": [], 
+                        "Lecture room M2": [
+                            {
+                                "id": 1054, 
+                                "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:30:00+01:00", 
+                                "start": "15:30", 
+                                "duration": "0:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1054-session_general_angel_meeting", 
+                                "title": "General Angel Meeting", 
+                                "subtitle": "Day4 - Teardown", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Angel Meeting", 
+                                "persons": [], 
+                                "links": [
+                                    "https://engelsystem.de/35c3/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1166, 
+                                "guid": "060799d9-c887-4ffc-9a15-cac5169ab561", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1166-session_nextcloud_install_party", 
+                                "title": "Nextcloud Install Party", 
+                                "subtitle": "Run your own Nextcloud instance!", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Get back control over your data - learn how to install your own Nextcloud instance!", 
+                                "persons": [], 
+                                "links": [
+                                    "https://nextcloud.com/yourdata/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nextcloud_Install_Party"
+                                ]
+                            }
+                        ], 
                         "Seminar room 13": [
                             {
                                 "id": 1003, 

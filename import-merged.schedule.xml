@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.0.1 v1.7 0.5</version>
+  <version>Columbo 3 1.3 v1.7 0.5 1.0.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -1792,6 +1792,179 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <attachments/>
       </event>
     </room>
+    <room name="Lecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3">
+      <event id="425" guid="0923dc04-8021-5c22-99ca-d009b22274fc">
+        <logo/>
+        <date>2018-12-27T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>00:45</duration>
+        <room>CCL Saal 3</room>
+        <slug>J7JMJP</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/J7JMJP</url>
+        <title>Autistische Wahrnehmungen</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Der Podcast Autistische Wahrnehmungen beschäftigt sich mit Autismus und wie es sich damit so lebt.</abstract>
+        <description>Auf dem 35c3 gibt es den Podcast [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/) zum ersten Mal live. Ich [(@fair_sein)](https://twitter.com/fair_sein) werde auf der Bühne sein und habe einen weiteren Autisten [(@wus_sel)](https://twitter.com/wus_sel/) zu Gast. Mit ihm werden wir das ersten Jahr Autistische Wahrnehmungen Folge für Folge Revue passieren lassen und nochmal ein paar Anmerkungen zu den Folgen machen.&#13;
+&#13;
+Und auch das Publikum kommt nicht zu kurz und darf uns jederzeit Fragen stellen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">
+            <name>fairsein</name>
+            <biography>Hallo, ich bin Jan, 30 Jahre alt und aus Berlin. Ich arbeite in der IT-Branche und bin Autist. Ich mache mehrere Podcasts:&#13;
+&#13;
+- [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/)&#13;
+- [Hör Doch Mal Zu](https://hoer-doch-mal-zu.de/)&#13;
+- [Wasserstandsmeldung](https://fairsein.org/)&#13;
+- [Hörerklärbär](https://hörerklärbär.de/)&#13;
+&#13;
+Auf Twitter bin ich unter [@fair_sein](https://twitter.com/fair_sein) zu finden. Seit 2016 habe ich die Diagnose "Autismus". Auf dem 35c3 bin ich Teil des [c3Auti Teams](https://help.ccc.de/c3auti/index.html).</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="419" guid="639a9e3c-0176-5170-9f2f-af2a97c3771d">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>9LDDFU</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/9LDDFU</url>
+        <title>Reichlich Randale – Der feministische Jahresrückblick</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Von #menaretrash bis #thefutureisnonbinary, von Beyonce bis Ada Hegerberg, von „Abtreibungsparagraph 219a“ bis „Aktion Standesamt 2018“ – es gibt viel zu besprechen. Zeit für einen empowernden feministischen Jahresrückblick!</abstract>
+        <description>Mittlerweile hat es fast Tradition: der feministische Jahresrückblick auf dem Congress im Rahmen des Podcasts „Reichlich Randale“ – mit tollen Gäst:innen. Diesmal dabei sind @die_horst, @_noujoum und @SuVeHe und als Host @genderbeitrag. Von #menaretrash bis #thefutureisnonbinary, von Beyonce bis Ada Hegerberg, von „Abtreibungsparagraph 219a“ bis „Aktion Standesamt 2018“ – es gibt viel zu besprechen. Wir freuen uns darauf, uns mit euch über empowernde Gedanken und Strukturen auszutauschen. Für intersektionale Solidarität und Freund:innenschaft!&#13;
+&#13;
+„Reichlich Randale“ ist ein Personal-Pöbel-Podcast – inklusive exklusiver Becci-Rants. „Reichlich Randale“ ist feministisch, fußballverliebt, immer unterwegs, cinephil, laut, politisch, offen. Weil ich es bin. „Reichlich Randale“ erzählt euch ein bisschen aus meinem Leben, aber es fühlt sich gleichzeitig nach viel mehr an.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Becci (@genderbeitrag)</name>
+            <biography>x</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="405" guid="3f05fefb-095c-5b53-87dc-378691e0a9b6">
+        <logo/>
+        <date>2018-12-27T21:40:00+01:00</date>
+        <start>21:40</start>
+        <duration>00:45</duration>
+        <room>CCL Saal 3</room>
+        <slug>C879MW</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/C879MW</url>
+        <title>Gala Be Need Inn</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Die Podcast Quiz Show deren Name ein Anagram des Originals ist!</abstract>
+        <description>Gala Be Need Inn ist nicht nur die große Podcast Quiz Show deren Name ein Anagram des Originals ist, sondern auch wie das große Vorbild: Spaß für die ganze Familie. Wir gehen den wichtigen, ernsten Fragen des Lebens nach: Was ist ein Alarmstuhl, warum haben Schaffner in Frankreich Knallerbsen dabei, was ist ein Nagelkommando und was zur Hölle ist Spritzgeld? &#13;
+&#13;
+Seid dabei wenn sich die KandidatInnen diesen harten Fragen des Moderators MacSnider unter wachsendem (freiwilligem) Alkoholeinfluss stellen. &#13;
+&#13;
+Am Ende gibt es Ruhm und Ehre zu gewinnen!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>MacSnider</name>
+            <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
+&#13;
+35c3 DECT: 7331 GSM: 7332</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="428" guid="1eb26dde-ec4b-590c-9b2e-932ed1ca8e30">
+        <logo/>
+        <date>2018-12-27T22:50:00+01:00</date>
+        <start>22:50</start>
+        <duration>01:30</duration>
+        <room>CCL Saal 3</room>
+        <slug>EWPXJE</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/EWPXJE</url>
+        <title>1. Podcast-Selbstkritiktreffen</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Nicolas Wöhrl, Stefan Schulz und Moritz Klenk wollen mit Podcasterinnen und Podcasthörern über die Finanzierung, Formate und Freiheit des Podcastings diskutieren.</abstract>
+        <description>Podcasts sind Flauschzonen, aber unter dem Deckel brodelt es. Immer häufiger kristallisieren sich Themen heraus zu denen es sehr unterschiedliche Meinungen in der Podcastlandschaft gibt. Wie sollte Werbung eingebettet werden? Welche Formate haben Relevanz? Gibt es noch neue Formatideen? Wie wichtig ist die Technik?&#13;
+Wir wollen über diese Themen diskutieren. Und der 35C3 ist der richtige Ort dafür, da nirgendwo sonst so viele Podcaster ihren Hörern begegnen. Üblicherweise bestehen die spontanen Hörertreffen aus Dankesbekundungen und interessierten Nachfragen. Doch wir wollen die Gelegenheit wahrnehmen, unsere Fragen in einem Setting der Debatte aufzuwerfen. Ebenso sind wir daran interessiert, zu erfahren, wie Podcasts tatsächlich gehört werden.&#13;
+&#13;
+Setting&#13;
+&#13;
+90 Minuten, 3 + 1 ständig wechselnder Teilnehmer aus dem Publikum, so viel Publikum wie möglich, gleichzeitig und fortlaufend Stimmungsbilder aus dem Publikum durch die interaktive Präsentationssoftware “Mentimeter”.&#13;
+&#13;
+Ablauf&#13;
+&#13;
+Jede Diskussionsrunde beginnt mit einer einminütigen pointierten Themenvorstellung, auf die jeweils drei anderthalbminütige Meinungsbeiträge von uns folgen. Dieser Durchlauf eröffnet der Diskussion, zeigt das Meinungsspektrum auf und wir übergeben anschließend an einen Teilnehmer aus dem Publikum. Dieser nimmt auf dem freien Stuhl platz und erweitert die Diskussion mit seiner Meinung. Jeder kann so lang sitzen bleiben, bis er oder sie aus dem Publikum durch abklatschen abgelöst wird. Diskussionsteilnehmer können unbegrenzt häufig an der Diskussion teilnehmen. Nach dreißig Minuten wird das Thema gewechselt und ein neuer Durchlauf beginnt. Zusätzlich ermöglichen wir fortlaufend Impulse aus dem Publikum. Durch den Einsatz der Präsentationssoftware “Mentimeter” kann das Publikum zu jedem Zeitpunkt Stichworte oder kurzes Feedback mit Hilfe des Smartphones auf die Präsentationsfläche werfen. Diese niederschwellige Feedbackschleife ermöglicht die fortlaufende Abbildung eines Stimmungsbildes aus dem Publikum, auf das bei Bedarf eingegangen werden kann und was zusätzlich die Diskussion auf der Bühne bereichern kann.  &#13;
+&#13;
+Themen&#13;
+Finanzierung&#13;
+&#13;
+Im Sendegate flammt von Zeit zu Zeit die Diskussion über Werbung als Geldquelle für Podcasts auf. Eine ähnliche Diskussion über Hörerfinanzierung gibt es nicht. Dabei gibt es Formatfragen: Wie nimmt man das Geld an? Wie geht man mit den Zuwendungen im Podcast um? Wie fragt man nach mehr Geld? Warum zahlen Hörer freiwillig?&#13;
+&#13;
+Formate&#13;
+&#13;
+Zwei Männer sitzen im Wohnzimmer und unterhalten sich ohne Sendungsplan über Technikkram. Das ist immer noch zu häufig die Wahrnehmung von privat produzierten Podcasts. Aber stimmt das eigentlich? Wie sieht es mit der Formatvielfalt aus? Gibt es kluge und gewagte Experimente, die die Podcastlandschaft hervorgebracht hat? Und wie findet man eigentlich neues Publikum? Wie durchbricht man die Podcastblase? Sind Live-Podcasts eine Möglichkeit oder befriedigen sie nur die Egozentrik der Macher ohne Mehrwert für den Hörer? &#13;
+&#13;
+Feedback&#13;
+&#13;
+Bertolt Brecht schrieb 1932 über das Radio: “Der Rundfunk ist aus einem Distributionsapparat in einen Kommunikationsapparat zu verwandeln. Der Rundfunk wäre der denkbar großartigste Kommunikationsapparat des öffentlichen Lebens, ein ungeheures Kanalsystem, das heißt, er wäre es, wenn er es verstünde, nicht nur auszusenden, sondern auch zu empfangen, also den Zuhörer nicht nur hören, sondern auch sprechen zu machen und ihn nicht zu isolieren, sondern ihn in Beziehung zu setzen. Der Rundfunk müsste demnach aus dem Lieferantentum herausgehen und den Hörer als Lieferanten organisieren.”&#13;
+Wenn wir vom Podcast als Zukunft des Radios sprechen, ist es nicht genau das, was damit gemeint sein muss? Aber wie organisieren wir denn Hörer*innen, statt sie nur zu beschallen? Wie kann ein autoritäres Sender-Empfänger-Verständnis überwunden werden? Oder sollte es überhaupt? Welche technischen Lösungen braucht es für einen echten Kommunikationsapparat? Wie wollt ihr als Hörer*innen eingebunden werden - wie wollt ihr als Podcaster*innen mit diesen Kommunikationsmöglichkeiten umgehen? Braucht es überhaupt noch diese Unterscheidung von Hörer*innen und Podcaster*innen?&#13;
+&#13;
+Freiheit&#13;
+&#13;
+(Optionales viertes Thema) Podcast waren einmal angetreten, um mit geringem technischen Aufwand interessante Beiträge zu erzeugen. Jeder konnte zum Sender werden und jeder konnte das Publikum für seine Inhalte finden. Ganz so “grassroots” scheint aber die aktuelle Szene nicht mehr zu sein. Arbeitsweisen werden dogmatisch abgelehnt. Mindeststandards für Technik definiert. Vertriebsplattformen, Technik, Software wird kategorisch in “richtig” und “falsch” eingeordnet. Sind wir noch offen für neue Ideen und Wege? &#13;
+&#13;
+Personen&#13;
+&#13;
+Nicolas Wöhrl (Methodisch Inkorrekt), Stefan Schulz (Aufwachen Podcast), Moritz Klenk (Podlog)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>Nicolas Wöhrl, Stefan Schulz, Moritz Klenk</name>
+            <biography>Die Stimmen in deinem Ohr bitten dich zum Gespräch</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Chaos West Bühne">
       <event id="167" guid="2184122e-03b0-5730-bedf-dc8015807a56">
         <logo/>
@@ -2249,6 +2422,197 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
         <answers/>
       </event>
     </room>
+    <room name="ChaosZone">
+      <event id="715" guid="ef2d214c-12a5-5162-b8f6-74dde79c7c09">
+        <logo/>
+        <date>2018-12-27T11:00:00+00:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>ChaosZone</room>
+        <slug>DALFMM</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/DALFMM</url>
+        <title>livestream - Opening Ceremony</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>Live stream of the 35C3 Opening Ceremony</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>livestream</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="701" guid="52c50dc4-e473-5716-a4fc-6ef7e328902c">
+        <logo/>
+        <date>2018-12-27T12:50:00+00:00</date>
+        <start>12:50</start>
+        <duration>00:30</duration>
+        <room>ChaosZone</room>
+        <slug>KYND3Y</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/KYND3Y</url>
+        <title>ChaosZone opening ceremony</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Welcome to ChaosZone at 35C3. Lets have a nice kickoff together. Learn and discuss about everything regarding ChaosZone at 35C3 and beyond.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="1">
+            <name>nilo</name>
+            <biography/>
+          </person>
+          <person id="4">
+            <name>bigalex</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="707" guid="181cc8cd-d3f4-59b6-befa-3e4e8c8cd8c2">
+        <logo/>
+        <date>2018-12-27T14:00:00+00:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>PUCEB3</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/PUCEB3</url>
+        <title>Früh übt sich -- Junghacker am Eigenbaukombinat</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Eine kurze Einführung in den Junghackertag am Eigenbaukombiant in Halle. Was machen wir dort? Was haben wir gemacht?</abstract>
+        <description>Seit circa 2 Jahren treffen wir uns an jedem¹ 4. Samstag im Monat, um Kindern und Jugendlichen den Spaß am Umgang mit Elektronik, Bits und Bytes und Aspekte darum herum nahe zu bringen. In meiner kurzen Einführung möchte ich davon berichten, was gut läuft, wo wir Probleme sehen und wieso die Arbeit mit dem Nachwuchs nicht nur wichtig ist, sondern auch noch Spaß macht.&#13;
+&#13;
+¹ Ausnahmen, wenn wir uns nicht treffen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <name>frlan</name>
+            <biography>Linux-Admin, Freie Software-Aktivist, Entwickler. Kurz gesagt: Klischee pur.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="703" guid="c1c12d9d-12bd-5bab-820f-c4cbac4dce86">
+        <logo/>
+        <date>2018-12-27T17:30:00+00:00</date>
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>U8YM3N</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/U8YM3N</url>
+        <title>Makertools im Labor - Über Raketentriebwerke und Beschleunigung</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Die Möglichkeiten moderner 3D-Drucker sind mannigfaltig. Komplexe Objekte lassen sich in kurzer Zeit von der digitalen Blaupause in die reale Welt bringen. Wir möchten die Möglichkeiten moderner 3D-Drucker im wissenschaftlichen Laborumfeld aufzeigen. Wie wäre es hochempfindliche Sensoren und Raketenantriebe damit zu drucken? Und da alles noch besser mit einem LASER wird, bauen wir diesen auch gleich mit ein.</abstract>
+        <description>Raoul-Amadeus Lorbeer, Benjamin Ewers&#13;
+Deutsches Zentrum für Luft- und Raumfahrt, Institut für technische Physik, Stuttgart&#13;
+&#13;
+Wir zeigen einen Laserantrieb für Satelliten aus dem 3D-Drucker. Dabei wird der Treibstoff durch intensive Laserimpulse beschleunigt und generiert präzisen Schub. Soll der Antrieb zudem noch in einen Cube-Sat passen wird eine kompakte Bauweise obligatorisch. Dies wurde mittels 3D-Druck verwirklicht. Gesteuert wird der Antrieb mittels Mikrokontroller. Und da alles noch besser mit einem USB-Anschluss wird, bauen wir diesen auch gleich mit ein.&#13;
+Beschleunigungssensoren arbeiten häufig mit einer federnd gelagerten Masse, dessen Verschiebung kontinuierlich gemessen wird. Verschiebungen lassen sich hervorragend mit optischen Interferometern messen. Wir zeigen einen präzisen interferometrischen Beschleunigungssensor aus dem 3D-Drucker, natürlich mit LASER. Und da alles noch besser mit einem SDR (Software Defined Radio) wird, bauen wir dieses auch gleich mit ein.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="11">
+            <name>Benjamin Ewers, Raoul-Amadeus Lorbeer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="711" guid="7425b4d7-95f5-5551-b81b-2e7aca7fb400">
+        <logo/>
+        <date>2018-12-27T19:30:00+00:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>MZWAKF</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/MZWAKF</url>
+        <title>a home among the stars: Galina Balashova, architect of the soviet space programme</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>aurora</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="704" guid="3a86fe86-b951-5f20-a2f9-8d300e3f77e8">
+        <logo/>
+        <date>2018-12-27T21:00:00+00:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>SVLSXP</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/SVLSXP</url>
+        <title>Erinnerungen an Wau Holland</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Erinnerungen an den Mitgründer des Chaos Computer Clubs, Wau Holland alias Herwart Holland Moritz</abstract>
+        <description>Bin gern bereit, einige Geschichten aus dem Leben von Wau Holland zu erzählen. Und ich würde mich freuen, wenn zu dieser Session noch andere Leute sich zugesellen würden, die Wau vor oder während der Gründung des CCC kennen und schätzen gelernt haben.  Und die meine Geschichten relativieren oder andere Geschichten beifügen könnten.  &#13;
+&#13;
+Wau oder Herwart Holland-Moritz ist nun seit 17 Jahren tot. Seit 15 Jahren gibt es die Wau Holland Stiftung, die ein Archiv seines Nachlasses der Öffentlichkeit zugänglich machen soll und sein Lebenswerk weiter in Erinnerung bringen und vervollständigen soll. &#13;
+Ich möchte meine persönlichen Erinnerungen an ihn teilen und Menschen treffen, die  auch ihre Erinnerungen an einen großartigen und innovatives intergalaktisches Wesen teilen möchten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>Ursula Kooke</name>
+            <biography>Na ja, über mich gibt es nicht viel zu sagen. Ich habe Wau kennen gelernt, als ich 18 war und wir gemeinsam Mathematik und Politik in Marburg studiert haben. Er war über lange Jahre bis zu seinem Tod mein bester Freund. Ich habe zeitweilig bei seinem Vater gelebt, der mich auch beauftragt, hat, Waus Nachlass zu verwalten, als Wau gestorben war. Und so habe ich gemeinsam mit Winfried Motzkus, Bernd Fix, Gerriet Hellwig und Mel Wahl auf der Beisetzungsfeier beschlossen, eine Stiftung zu gründen, habe als Stifterin diese errichtet und war die ersten Jahre auch Vorsitzende. Gab dann erst den Vorsitz und dann den Vorstandssitz 2007 ab. &#13;
+&#13;
+ Ich bin Asperger Autistin und komme mit medizinischem Begleithund. Die Veranstaltung ist also nix für Hundehaarallergiker oder Paniker.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena">
       <event id="293" guid="0bb3bf25-818e-5503-ab16-e4f6625dcd41">
         <logo/>
@@ -2534,181 +2898,6 @@ The talk is reasonably technical - it doesn't delve in to code or algorithms but
         <answers/>
       </event>
     </room>
-    <room name="Bühne">
-      <event id="425" guid="0923dc04-8021-5c22-99ca-d009b22274fc">
-        <logo/>
-        <date>2018-12-27T19:15:00+01:00</date>
-        <start>19:15</start>
-        <duration>00:45</duration>
-        <room>Bühne</room>
-        <slug>J7JMJP</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/J7JMJP</url>
-        <title>Autistische Wahrnehmungen</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Der Podcast Autistische Wahrnehmungen beschäftigt sich mit Autismus und wie es sich damit so lebt.</abstract>
-        <description>Auf dem 35c3 gibt es den Podcast [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/) zum ersten Mal live. Ich [(@fair_sein)](https://twitter.com/fair_sein) werde auf der Bühne sein und habe einen weiteren Autisten [(@wus_sel)](https://twitter.com/wus_sel/) zu Gast. Mit ihm werden wir das ersten Jahr Autistische Wahrnehmungen Folge für Folge Revue passieren lassen und nochmal ein paar Anmerkungen zu den Folgen machen.&#13;
-&#13;
-Und auch das Publikum kommt nicht zu kurz und darf uns jederzeit Fragen stellen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="26">
-            <name>fairsein</name>
-            <biography>Hallo, ich bin Jan, 30 Jahre alt und aus Berlin. Ich arbeite in der IT-Branche und bin Autist. Ich mache mehrere Podcasts:&#13;
-&#13;
-- [Autistische Wahrnehmungen](https://autistische-wahrnehmungen.de/)&#13;
-- [Hör Doch Mal Zu](https://hoer-doch-mal-zu.de/)&#13;
-- [Wasserstandsmeldung](https://fairsein.org/)&#13;
-- [Hörerklärbär](https://hörerklärbär.de/)&#13;
-&#13;
-Auf Twitter bin ich unter [@fair_sein](https://twitter.com/fair_sein) zu finden. Seit 2016 habe ich die Diagnose "Autismus". Auf dem 35c3 bin ich Teil des [c3Auti Teams](https://help.ccc.de/c3auti/index.html).</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="419" guid="639a9e3c-0176-5170-9f2f-af2a97c3771d">
-        <logo/>
-        <date>2018-12-27T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>9LDDFU</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/9LDDFU</url>
-        <title>Reichlich Randale – Der feministische Jahresrückblick</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Von #menaretrash bis #thefutureisnonbinary, von Beyonce bis Ada Hegerberg, von „Abtreibungsparagraph 219a“ bis „Aktion Standesamt 2018“ – es gibt viel zu besprechen. Zeit für einen empowernden feministischen Jahresrückblick!</abstract>
-        <description>Mittlerweile hat es fast Tradition: der feministische Jahresrückblick auf dem Congress im Rahmen des Podcasts „Reichlich Randale“ – mit tollen Gäst:innen. Diesmal dabei sind @die_horst, @_noujoum und @SuVeHe und als Host @genderbeitrag. Von #menaretrash bis #thefutureisnonbinary, von Beyonce bis Ada Hegerberg, von „Abtreibungsparagraph 219a“ bis „Aktion Standesamt 2018“ – es gibt viel zu besprechen. Wir freuen uns darauf, uns mit euch über empowernde Gedanken und Strukturen auszutauschen. Für intersektionale Solidarität und Freund:innenschaft!&#13;
-&#13;
-„Reichlich Randale“ ist ein Personal-Pöbel-Podcast – inklusive exklusiver Becci-Rants. „Reichlich Randale“ ist feministisch, fußballverliebt, immer unterwegs, cinephil, laut, politisch, offen. Weil ich es bin. „Reichlich Randale“ erzählt euch ein bisschen aus meinem Leben, aber es fühlt sich gleichzeitig nach viel mehr an.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="5">
-            <name>Becci (@genderbeitrag)</name>
-            <biography>x</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="405" guid="3f05fefb-095c-5b53-87dc-378691e0a9b6">
-        <logo/>
-        <date>2018-12-27T21:40:00+01:00</date>
-        <start>21:40</start>
-        <duration>00:45</duration>
-        <room>Bühne</room>
-        <slug>C879MW</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/C879MW</url>
-        <title>Gala Be Need Inn</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Podcast Quiz Show deren Name ein Anagram des Originals ist!</abstract>
-        <description>Gala Be Need Inn ist nicht nur die große Podcast Quiz Show deren Name ein Anagram des Originals ist, sondern auch wie das große Vorbild: Spaß für die ganze Familie. Wir gehen den wichtigen, ernsten Fragen des Lebens nach: Was ist ein Alarmstuhl, warum haben Schaffner in Frankreich Knallerbsen dabei, was ist ein Nagelkommando und was zur Hölle ist Spritzgeld? &#13;
-&#13;
-Seid dabei wenn sich die KandidatInnen diesen harten Fragen des Moderators MacSnider unter wachsendem (freiwilligem) Alkoholeinfluss stellen. &#13;
-&#13;
-Am Ende gibt es Ruhm und Ehre zu gewinnen!</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="7">
-            <name>MacSnider</name>
-            <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
-&#13;
-35c3 DECT: 7331 GSM: 7332</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="428" guid="1eb26dde-ec4b-590c-9b2e-932ed1ca8e30">
-        <logo/>
-        <date>2018-12-27T22:50:00+01:00</date>
-        <start>22:50</start>
-        <duration>01:30</duration>
-        <room>Bühne</room>
-        <slug>EWPXJE</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/EWPXJE</url>
-        <title>1. Podcast-Selbstkritiktreffen</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Nicolas Wöhrl, Stefan Schulz und Moritz Klenk wollen mit Podcasterinnen und Podcasthörern über die Finanzierung, Formate und Freiheit des Podcastings diskutieren.</abstract>
-        <description>Podcasts sind Flauschzonen, aber unter dem Deckel brodelt es. Immer häufiger kristallisieren sich Themen heraus zu denen es sehr unterschiedliche Meinungen in der Podcastlandschaft gibt. Wie sollte Werbung eingebettet werden? Welche Formate haben Relevanz? Gibt es noch neue Formatideen? Wie wichtig ist die Technik?&#13;
-Wir wollen über diese Themen diskutieren. Und der 35C3 ist der richtige Ort dafür, da nirgendwo sonst so viele Podcaster ihren Hörern begegnen. Üblicherweise bestehen die spontanen Hörertreffen aus Dankesbekundungen und interessierten Nachfragen. Doch wir wollen die Gelegenheit wahrnehmen, unsere Fragen in einem Setting der Debatte aufzuwerfen. Ebenso sind wir daran interessiert, zu erfahren, wie Podcasts tatsächlich gehört werden.&#13;
-&#13;
-Setting&#13;
-&#13;
-90 Minuten, 3 + 1 ständig wechselnder Teilnehmer aus dem Publikum, so viel Publikum wie möglich, gleichzeitig und fortlaufend Stimmungsbilder aus dem Publikum durch die interaktive Präsentationssoftware “Mentimeter”.&#13;
-&#13;
-Ablauf&#13;
-&#13;
-Jede Diskussionsrunde beginnt mit einer einminütigen pointierten Themenvorstellung, auf die jeweils drei anderthalbminütige Meinungsbeiträge von uns folgen. Dieser Durchlauf eröffnet der Diskussion, zeigt das Meinungsspektrum auf und wir übergeben anschließend an einen Teilnehmer aus dem Publikum. Dieser nimmt auf dem freien Stuhl platz und erweitert die Diskussion mit seiner Meinung. Jeder kann so lang sitzen bleiben, bis er oder sie aus dem Publikum durch abklatschen abgelöst wird. Diskussionsteilnehmer können unbegrenzt häufig an der Diskussion teilnehmen. Nach dreißig Minuten wird das Thema gewechselt und ein neuer Durchlauf beginnt. Zusätzlich ermöglichen wir fortlaufend Impulse aus dem Publikum. Durch den Einsatz der Präsentationssoftware “Mentimeter” kann das Publikum zu jedem Zeitpunkt Stichworte oder kurzes Feedback mit Hilfe des Smartphones auf die Präsentationsfläche werfen. Diese niederschwellige Feedbackschleife ermöglicht die fortlaufende Abbildung eines Stimmungsbildes aus dem Publikum, auf das bei Bedarf eingegangen werden kann und was zusätzlich die Diskussion auf der Bühne bereichern kann.  &#13;
-&#13;
-Themen&#13;
-Finanzierung&#13;
-&#13;
-Im Sendegate flammt von Zeit zu Zeit die Diskussion über Werbung als Geldquelle für Podcasts auf. Eine ähnliche Diskussion über Hörerfinanzierung gibt es nicht. Dabei gibt es Formatfragen: Wie nimmt man das Geld an? Wie geht man mit den Zuwendungen im Podcast um? Wie fragt man nach mehr Geld? Warum zahlen Hörer freiwillig?&#13;
-&#13;
-Formate&#13;
-&#13;
-Zwei Männer sitzen im Wohnzimmer und unterhalten sich ohne Sendungsplan über Technikkram. Das ist immer noch zu häufig die Wahrnehmung von privat produzierten Podcasts. Aber stimmt das eigentlich? Wie sieht es mit der Formatvielfalt aus? Gibt es kluge und gewagte Experimente, die die Podcastlandschaft hervorgebracht hat? Und wie findet man eigentlich neues Publikum? Wie durchbricht man die Podcastblase? Sind Live-Podcasts eine Möglichkeit oder befriedigen sie nur die Egozentrik der Macher ohne Mehrwert für den Hörer? &#13;
-&#13;
-Feedback&#13;
-&#13;
-Bertolt Brecht schrieb 1932 über das Radio: “Der Rundfunk ist aus einem Distributionsapparat in einen Kommunikationsapparat zu verwandeln. Der Rundfunk wäre der denkbar großartigste Kommunikationsapparat des öffentlichen Lebens, ein ungeheures Kanalsystem, das heißt, er wäre es, wenn er es verstünde, nicht nur auszusenden, sondern auch zu empfangen, also den Zuhörer nicht nur hören, sondern auch sprechen zu machen und ihn nicht zu isolieren, sondern ihn in Beziehung zu setzen. Der Rundfunk müsste demnach aus dem Lieferantentum herausgehen und den Hörer als Lieferanten organisieren.”&#13;
-Wenn wir vom Podcast als Zukunft des Radios sprechen, ist es nicht genau das, was damit gemeint sein muss? Aber wie organisieren wir denn Hörer*innen, statt sie nur zu beschallen? Wie kann ein autoritäres Sender-Empfänger-Verständnis überwunden werden? Oder sollte es überhaupt? Welche technischen Lösungen braucht es für einen echten Kommunikationsapparat? Wie wollt ihr als Hörer*innen eingebunden werden - wie wollt ihr als Podcaster*innen mit diesen Kommunikationsmöglichkeiten umgehen? Braucht es überhaupt noch diese Unterscheidung von Hörer*innen und Podcaster*innen?&#13;
-&#13;
-Freiheit&#13;
-&#13;
-(Optionales viertes Thema) Podcast waren einmal angetreten, um mit geringem technischen Aufwand interessante Beiträge zu erzeugen. Jeder konnte zum Sender werden und jeder konnte das Publikum für seine Inhalte finden. Ganz so “grassroots” scheint aber die aktuelle Szene nicht mehr zu sein. Arbeitsweisen werden dogmatisch abgelehnt. Mindeststandards für Technik definiert. Vertriebsplattformen, Technik, Software wird kategorisch in “richtig” und “falsch” eingeordnet. Sind wir noch offen für neue Ideen und Wege? &#13;
-&#13;
-Personen&#13;
-&#13;
-Nicolas Wöhrl (Methodisch Inkorrekt), Stefan Schulz (Aufwachen Podcast), Moritz Klenk (Podlog)</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="28">
-            <name>Nicolas Wöhrl, Stefan Schulz, Moritz Klenk</name>
-            <biography>Die Stimmen in deinem Ohr bitten dich zum Gespräch</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Lecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
-    <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="287" guid="589930fa-a993-54cc-93f9-b6eafdd97cc6">
         <logo/>
@@ -2765,175 +2954,6 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="60">
             <name>Sebastian</name>
             <biography>CEO von CADUS e.V.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Thementisch 1">
-      <event id="245" guid="f2444f75-7b94-5026-bb2e-d6c5a9ce7fa5">
-        <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>12:00</duration>
-        <room>OIO Thementisch 1</room>
-        <slug>Z98HRQ</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z98HRQ</url>
-        <title>Freifunk IoT-Demo</title>
-        <subtitle/>
-        <track/>
-        <type>Präsentationsinsel (alle 3 Tage)</type>
-        <language>de</language>
-        <abstract>An dieser Präsentationsinsel wird das Konzept und verschiedene interaktive Ausstellungsstücke von Freifunk-IoT gezeigt.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="12">
-            <name>margau</name>
-            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
-          </person>
-          <person id="38">
-            <name>Hibas123</name>
-            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
-          </person>
-          <person id="92">
-            <name>adnidor</name>
-            <biography>Mastodon: @adnidor@chaos.social</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Thementisch 2">
-      <event id="265" guid="0435ccb3-5d7c-5f90-a52d-88d964a6fedc">
-        <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>12:00</duration>
-        <room>OIO Thementisch 2</room>
-        <slug>Z37GSP</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z37GSP</url>
-        <title>Seenotrettung</title>
-        <subtitle/>
-        <track/>
-        <type>Präsentationsinsel (alle 3 Tage)</type>
-        <language>de</language>
-        <abstract>Seenotrettungs-NGOs präsentieren ihre Arbeit, machen auf die Kriminalisierung von humanitärer Hilfe aufmerksam und freuen sich auf Gespräche und Austausch.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="55">
-            <name>just humans</name>
-            <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Thementisch 3">
-      <event id="261" guid="052afba9-6f2d-52c7-bb4b-7bd7e4753242">
-        <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>12:00</duration>
-        <room>OIO Thementisch 3</room>
-        <slug>HYJXWE</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HYJXWE</url>
-        <title>Lots of blinking stuff, Pixelflut and Intergalaktische Reisepässe</title>
-        <subtitle/>
-        <track/>
-        <type>Präsentationsinsel (alle 3 Tage)</type>
-        <language>de</language>
-        <abstract>Lots of blinking stuff and Pixelflut. Selling Intergalaktische Reisepässe</abstract>
-        <description>We will populate a  Presentation isle with blinking decoration and sculptures.&#13;
-&#13;
-Additionally we will provide a 40 Gb/s Pixelflut server.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="52">
-            <name>tsys</name>
-            <biography>I'm a software developer/network administrator at Freifunk Kiel and active member of the Open Infrastructure Orbit Orga.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Thementisch 4">
-      <event id="272" guid="cf0bd4d5-ecdb-5822-a45f-978f92bba358">
-        <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>12:00</duration>
-        <room>OIO Thementisch 4</room>
-        <slug>NVXWSM</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NVXWSM</url>
-        <title>Nextcloud</title>
-        <subtitle/>
-        <track/>
-        <type>Präsentationsinsel (alle 3 Tage)</type>
-        <language>en</language>
-        <abstract>We're the Nextcloud community (nextcloud.com/yourdata/) and we're here to meet people and chat about self-hosting, decentralization, federation, and many more topics! We can also show you Nextcloud demos, help you to get involved in our community, and of course, tell you everything about our new Nextcloud Include diversity program!</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="59">
-            <name>Jos Poortvliet</name>
-            <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
-          </person>
-          <person id="68">
-            <name>shiro</name>
-            <biography>I'm shiro (shiromarieke.github.io) and I work on Nextcloud :)</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="OIO Thementisch 6">
-      <event id="264" guid="112c596e-4b94-559b-b00b-ef92a5de53ca">
-        <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>12:00</duration>
-        <room>OIO Thementisch 6</room>
-        <slug>W9G9FB</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/W9G9FB</url>
-        <title>Freifunk Event Installationen und autarke Installationen</title>
-        <subtitle/>
-        <track/>
-        <type>Präsentationsinsel (alle 3 Tage)</type>
-        <language>de</language>
-        <abstract>Freifunk temporär für kleine, mittlere und große Veranstaltungen. Freifunk kabelungebunden autark betreiben.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="42">
-            <name>Matthias Schmidt</name>
-            <biography>Seit September 2014 aktiv bei Freifunk Düren und Aachen.</biography>
           </person>
         </persons>
         <links/>
@@ -3821,6 +3841,176 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
           <link href="https://hearthis.at/tasmo/">https://hearthis.at/tasmo/</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="OIO Lötarea"/>
+    <room name="OIO Thementisch 1">
+      <event id="245" guid="f2444f75-7b94-5026-bb2e-d6c5a9ce7fa5">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 1</room>
+        <slug>Z98HRQ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z98HRQ</url>
+        <title>Freifunk IoT-Demo</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>An dieser Präsentationsinsel wird das Konzept und verschiedene interaktive Ausstellungsstücke von Freifunk-IoT gezeigt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>margau</name>
+            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
+          <person id="92">
+            <name>adnidor</name>
+            <biography>Mastodon: @adnidor@chaos.social</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 2">
+      <event id="265" guid="0435ccb3-5d7c-5f90-a52d-88d964a6fedc">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 2</room>
+        <slug>Z37GSP</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z37GSP</url>
+        <title>Seenotrettung</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Seenotrettungs-NGOs präsentieren ihre Arbeit, machen auf die Kriminalisierung von humanitärer Hilfe aufmerksam und freuen sich auf Gespräche und Austausch.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="55">
+            <name>just humans</name>
+            <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 3">
+      <event id="261" guid="052afba9-6f2d-52c7-bb4b-7bd7e4753242">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 3</room>
+        <slug>HYJXWE</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HYJXWE</url>
+        <title>Lots of blinking stuff, Pixelflut and Intergalaktische Reisepässe</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Lots of blinking stuff and Pixelflut. Selling Intergalaktische Reisepässe</abstract>
+        <description>We will populate a  Presentation isle with blinking decoration and sculptures.&#13;
+&#13;
+Additionally we will provide a 40 Gb/s Pixelflut server.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">
+            <name>tsys</name>
+            <biography>I'm a software developer/network administrator at Freifunk Kiel and active member of the Open Infrastructure Orbit Orga.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 4">
+      <event id="272" guid="cf0bd4d5-ecdb-5822-a45f-978f92bba358">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 4</room>
+        <slug>NVXWSM</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NVXWSM</url>
+        <title>Nextcloud</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>en</language>
+        <abstract>We're the Nextcloud community (nextcloud.com/yourdata/) and we're here to meet people and chat about self-hosting, decentralization, federation, and many more topics! We can also show you Nextcloud demos, help you to get involved in our community, and of course, tell you everything about our new Nextcloud Include diversity program!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Jos Poortvliet</name>
+            <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
+          </person>
+          <person id="68">
+            <name>shiro</name>
+            <biography>I'm shiro (shiromarieke.github.io) and I work on Nextcloud :)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 6">
+      <event id="264" guid="112c596e-4b94-559b-b00b-ef92a5de53ca">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 6</room>
+        <slug>W9G9FB</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/W9G9FB</url>
+        <title>Freifunk Event Installationen und autarke Installationen</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Freifunk temporär für kleine, mittlere und große Veranstaltungen. Freifunk kabelungebunden autark betreiben.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">
+            <name>Matthias Schmidt</name>
+            <biography>Seit September 2014 aktiv bei Freifunk Düren und Aachen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
   </day>
@@ -5511,6 +5701,129 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <attachments/>
       </event>
     </room>
+    <room name="Lecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3">
+      <event id="429" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
+        <logo/>
+        <date>2018-12-28T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>E7MS3S</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
+        <title>Die Wochendämmerung</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
+        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <name>Die Wochendämmerung</name>
+            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="437" guid="4815f212-911e-5a64-9496-df5fd2c3f7ff">
+        <logo/>
+        <date>2018-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>MXZKDC</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/MXZKDC</url>
+        <title>NSU-Watch</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland.</abstract>
+        <description>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland. Gesprächiger als sonst im Podcast, der meist eher featuresk ist.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="422" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
+        <logo/>
+        <date>2018-12-28T21:45:00+01:00</date>
+        <start>21:45</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>JZMDEP</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/JZMDEP</url>
+        <title>Das geheime Kabinett - Live!</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Was Euch der Geschichtslehrer verschwieg - die kuriosesten und absurdesten Fakten aus der Geschichte</abstract>
+        <description>Das geheime Kabinett Live!&#13;
+Im Archäologischen Nationalmuseum in Neapel gibt ein sogenanntes Gabinetto Segreto, also ein geheimes Kabinett, in dem sich ganz besondere Fundstücke aus der römischen Antike finden: Fundstücke aus den Grabungen in Pompeji die man „moralisch weniger gefestigten“ Personen vorenthalten wollte, weil sie den Kuratoren zu anstößig erschienen.&#13;
+Ähnlich dem neapolitanischen Kabinett beschäftigt sich auch "der Buddler“ in seinen regelmäßigen Podcasts mit Skurrilitäten der Geschichtsschreibung, welche die „seriöse“ Geschichtsschreibung lieber verschämt unterschlägt: So etwa Rasputins verschollenes Gemächt, kleine Geschäfte mit dem kleinen Geschäft im alten Rom, hysterische Gebärmütter im Mittelalter, Pornographie im Vatikan, und vieles Derartige mehr. &#13;
+Zur Feier der 100sten Folge präsentiert der Buddler die absurdesten Fakten aus der Geschichte auf der Podcastbühne -  live und in Farbe.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="18">
+            <name>Der Buddler</name>
+            <biography>Der Buddler ist im wahren Leben gelernter Archäologe und Historiker. Wenn er nicht gerade in irgendwelche Mikrofone redet, plant er Ausstellungen oder schreibt Essays und Fachtexte, die vermutlich keiner liest.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="412" guid="3107edea-1762-56a5-a694-955a37b2c350">
+        <logo/>
+        <date>2018-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:30</duration>
+        <room>CCL Saal 3</room>
+        <slug>U7NPLK</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/U7NPLK</url>
+        <title>UKW</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Unsere Kleine Welt</abstract>
+        <description>Ein neues Format von Tim Pritlove startet mit zwei Überraschungsgästen. Unsere kleine Welt spricht mit Menschen über ihre Motivationen, Aktivitäten, Meinungen und Einschätzungen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">
+            <name>Tim Pritlove</name>
+            <biography>Discordian Evangelist</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Chaos West Bühne">
       <event id="157" guid="c557a9ec-5f07-50fd-997f-f6cc568d66c9">
         <logo/>
@@ -5987,6 +6300,210 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
         <answers/>
       </event>
     </room>
+    <room name="ChaosZone">
+      <event id="710" guid="45c95b37-47c3-5a75-b6ef-85d6356e2063">
+        <logo/>
+        <date>2018-12-28T16:00:00+00:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>7JWW8Q</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/7JWW8Q</url>
+        <title>WikiTech</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>How does Wikimedia serve a hundred thousand Wikipedia pages second?</abstract>
+        <description>An overview of the technical side of running Wikipedia &amp; Co, from code review and the server farm to the deployment process and scaling storage infrastructure.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">
+            <name>brightbyte</name>
+            <biography>Been here. Done that. Got all the t-shirts.</biography>
+          </person>
+          <person id="16">
+            <name>áč</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="702" guid="64da27c8-9346-59c0-94a5-844d47514384">
+        <logo/>
+        <date>2018-12-28T17:30:00+00:00</date>
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>PHHS7L</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/PHHS7L</url>
+        <title>Reversing Industrial Protocols – Real World Use Cases</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>Most PLC protocols are old (older than the entire Ethernet protocol) and by their very nature insecure. I will not be discussing the “known” industrial protocols, such as S7com, TwinCAT and modbusTCP etc … in large detail, but rather the lesser known variants that are used to actually control and/or configure these devices.</abstract>
+        <description>Almost every single use case and demonstration during this session are actually zero days and will remain zero days. Since it is a “normal” use of the (unauthenticated protocols) and these devices remain untouched for 20 to 30 years, it is practically impossible to “update the protocols” without closing down a million dollar factory for like a year or so.&#13;
+&#13;
+We will demonstrate vulnerabilities on Siemens and Beckhoff PLC's. Both patched and non patched (as part of the protocol).</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Tijl Deneut</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="706" guid="74cf6b9d-8228-5fa7-be7a-a5cda7f69fd8">
+        <logo/>
+        <date>2018-12-28T19:00:00+00:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>3L8XYN</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/3L8XYN</url>
+        <title>Polizei Gesetz in Sachsen</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Nein zum neuen saechsichen Polizeigesetz!</abstract>
+        <description>Der Referent*innen Entwurf für das neue sächsische Polizeigesetz (Sächsisches Polizeivollzugsdienstgesetz – SächsPVDG) wurde geleaked: download&#13;
+&#13;
+Einführung&#13;
+&#13;
+Wenn es nach der sächsischen Polizei geht, sind wir zukünftig alle verdächtig. Wir alle sind eine potenzielle Bedrohung und müssen mit Kameras, Maschinenpistolen und Überwachungstechnik in Schach gehalten werden. Der Staat scheint sich vor uns schützen zu wollen aber wie schützen wir uns eigentlich vor dem Staat?&#13;
+&#13;
+Im sächsischen Landtag wird derzeit über ein neues Polizeigesetz verhandelt. In Bayern soll ein ähnliches Gesetz verabschiedet werden und stößt auf viel Widerstand.&#13;
+Nicht umsonst wird der (bayerische) Entwurf als „schärfstes Polizeigesetz seit 1945“ bezeichnet: Die Polizei soll umfangreiche neue Befugnisse erhalten, selbstständig Grundrechte einschränken und uns alle überwachen und bespitzeln dürfen. Gleichzeitig werden die Einheiten militärisch aufgerüstet und bewaffnet. Hier werden Freiheitsrechte und die Unschuldsvermutung mit Füßen getreten. Es wird verstärkt ein Klima der Angst und des gegenseitigen Misstrauens geschaffen. Der Rechtsstaat verändert sich immer mehr hin zu einem autoritären Polizeistaat. Diese Entwicklung betrifft uns alle!&#13;
+&#13;
+Angriff auf Grundrechte&#13;
+&#13;
+Das Gesetz gibt der Polizei Befugnisse bei einer „drohenden Gefahr“ und gegenüber sogenannten Gefährdern. Die sächsische Polizei könnte dann bei bloßen Vermutungen ermitteln, ohne dass überhaupt ein Verbrechen begangen wurde oder ein begründeter Verdacht vorliegt. Das bedeutet: Die Polizei kann quasi gegen jede/n ermitteln. So würde das Polizeigesetz die Unschuldsvermutung außer Kraft setzen.&#13;
+Eine Art Hausarrest (Aufenthaltsgebot §21) bis zu drei Monaten kann die Polizei verhängen, auch ohne richterlichen Beschluss. Dies kann sie mittels elektronischer Fußfesseln durchsetzten. Jede Privatsphäre von Betroffenen kann ohne konkreten Vorwurf ausgehebelt werden. Auch Verdächtige und Verurteilte haben Grundrechte. Das unterscheidet einen Rechtsstaat vom Polizeistaat.&#13;
+Mit dem neuen Polizeigesetz soll auch der besondere Schutz für Journalist/Innen und Beratungsstellen aufgehoben werden. Die Polizei darf diese dann auch nach eigenem Ermessen abhören und überwachen. Das ist ein drastischer Eingriff in die Pressefreiheit und gefährdet das Vertrauen in diese Institutionen.&#13;
+Das neue Polizeigesetz rüttelt an der körperlichen Unversehrtheit, der persönlichen Freiheit, dem Recht auf informationelle Selbstbestimmung, dem Briefgeheimnis, der Unverletztlichkeit der Wohnung. Das Gesetz ist ein Angriff auf unsere Grundrechte und die Grundfesten des Zusammenlebens. Das können wir nicht hinnehmen!&#13;
+&#13;
+Rassismus und Abschottung&#13;
+&#13;
+Viele der Maßnahmen, die im Gesetz vorgesehen sind, richten sich offensiv gegen Geflüchtete und Menschen, die nicht in Deutschland geboren sind. Die Einstufung von Refugee-Unterkünften als sogenannte „gefährliche Orte“ stellt alle dort Lebenden unter Generalverdacht und lässt zu sie jederzeit zu kontrollieren. Hausarrest und technische Überwachung erleichtern es, Menschen jederzeit orten und abschieben zu können.&#13;
+Stärkere Grenzkontrollen mithilfe von Videoüberwachung und Gesichtserkennung dienen nicht der allgemeinen Sicherheit sondern der Abschottung nach außen.&#13;
+Der Staat nimmt sich hier das Recht, Menschen als Kriminelle zu behandeln, sie zu bevormunden und zu schikanieren und das ausschließlich auf Grund ihrer Hautfarbe und Herkunft. Das ist keine Sicherheitspolitik, das ist rassistische Ausgrenzung. Flucht ist kein Verbrechen – Bewegungsfreiheit ist Menschenrecht!&#13;
+&#13;
+Überwachung um jeden Preis&#13;
+&#13;
+Das neue Gesetz würde die Videoüberwachung noch mehr ausweiten: Auch die Polizeibehörden, also die Kommunen, sollen künftig mit Kameras überwachen dürfen. Kennzeichen, Ort, Zeit und Fahrtrichtung von Autos soll die Polizei zu bestimmten Anlässen automatisch erfassen dürfen. In grenznahen Gebieten soll sogar automatische Gesichtserkennung ermöglicht werden.&#13;
+Der Öffentliche Raum wird so immer mehr überwacht. Der Staat soll überall zuschauen.&#13;
+Zusammen mit den vielen digitalen Überwachungsprogrammen führt das zum „gläsernen Menschen“. Wir lassen uns nicht belauschen und überwachen. Wir haben ein Recht auf Privatsphäre!&#13;
+&#13;
+Grungrechte statt Polizeisonderrechte&#13;
+&#13;
+Auch Polizeibeamt*innen im Dienst begehen Straftaten. Es kommt jedoch selten zu Prozessen gegen sie und sie werden praktisch nie verurteilt, obwohl Betroffene Anzeige erstatten. . Wir fordern dagegen, auch Polizist*innen zur Verantwortung zu ziehen: Mit einer Kennzeichnungspflicht könnten Beamt*innen nach Straftaten juristisch verfolgt werden. Eine Beschwerdestelle könnte ein Beginn sein, Polizei zu kontrollieren und Missständen entgegenzuwirken – wenn sie unabhängig ist. Das würde die Grundrechte Aller stärken.&#13;
+Stattdessen bleiben diese wiederholten Forderungen unbeachtet, Polizist*innen „kontrollieren“ sich gegenseitig und interne Ermittlungen enden weiterhin an einer Mauer des Schweigens. Keine andere Berufs- oder Bevölkerungsgruppe hat solche Sonderrechte.&#13;
+&#13;
+Paragraphen&#13;
+&#13;
+Militarisierung, Bewaffnung (§40)&#13;
+&#13;
+Einige Polizeieinheiten tragen künftig Handgranaten, Maschinengewehre und anderes militärisches Equitment.&#13;
+&#13;
+Hausarrest &amp; Fußfesseln (§21)&#13;
+&#13;
+Die Polizei kann dir zukünft verbieten dich an bestimmten Orten aufzuhalten, dir den Kontakt zu bestimmten Menschen untersagen, dich zwingen einen festen Bereich nicht zu verlassen oder dich unter Hausarrest stellen. Dazu darf sie dich auch zwingen eine elektronische Fußfessel zu tragen.&#13;
+&#13;
+Videoüberwachung, Gesichtserkennung (§ 15, § 58 sowie § 30 PVB)&#13;
+&#13;
+Zukünftig dar der öffentliche Raum noch stärker videoüberwacht werden. Dazu darf auch Gesichtserkennungstechnik und Kennzeichenerfassung eingesetzt werden. Es kann dadurch genau erfasst werden, wann du dich wo in diesen Bereichen aufgehalten hast. Auch das Ordnungsamt und die Kommunen dürfen diese Technik einsetzen. Sie ist nicht auf konkrete Ermittlungen beschränkt.&#13;
+&#13;
+Telefon- und Handyüberwachung (§§ 66-70)&#13;
+&#13;
+Zukünftig dürfen Polizeibeamte nicht nur Telefonate abhören, sondern sie auch unterbrechen. Das gilt auch für ganze Funkmasten. Der Handyempfang kann so etwa in ganzen Gebieten (etwa bei Demos) unterbrochen werden. Außerdem dürfen auch die Bestandsdaten eines Mobiltelefons ausgelesen werden. Also: Name, Adresse, Kontodaten, PIN &amp; PUK Nummer, gespeicherte Passwörter, alles Accountzugänge auf dem Telefon, Mailaccounts und gespeicherte Bilder und Kontakte.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">
+            <name>Anarchist Black Cross Dresden</name>
+            <biography>Anarchist Black Cross Dresden ist ein Kollektiv von Menschen das sich zum Ziel gesetzt hat Ideen über Anarchismus und Solidarität zu verbreiten. Wir organisieren gemeinsame Abende um Briefe an Gefangene zu schreiben, Spendenaktionen und Vortäge, die über verschiedene Orte der Welt informieren. Durch das Verbreiten von Informationen über Gefangene und Repression gegen soziale Bewegungen, hoffen wir Menschen in Dresden Mechanismen von Repression aufzuzeigen, um diese besser bekämpfen zu können und eine Kultur der Solidarität in der Gesellschaft zu entwickeln.&#13;
+&#13;
+ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, deren Ideen anarchistische Grundsätze nicht wiedersprechen. Wir unterstützen auch Menschen, die während ihrere Zeit im Gefängnis Anarchist*innen werden.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="713" guid="8e6aecc6-acbb-52bb-87be-2d06f0ff0640">
+        <logo/>
+        <date>2018-12-28T20:30:00+00:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>EQPXLK</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/EQPXLK</url>
+        <title>M.A.R.V.I.N.</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>In Chemnitz wurde seit Frühjahr 2016 eine Überwachung der Innenstadt geplant und zum 1. Oktober 2018 umgesetzt. In einem kurzen Abriss werden die Ereignisse zusammengefasst, die eingesetzte Technik vorgestellt und anschließend die parallele Entstehung einer Antwort vorgestellt.</abstract>
+        <description>Als es hieß, dass  Chemnitz im großen Stil videoüberwacht werden soll, saßen wir in Chemnitz zusammen und haben über eine Antwort nachgedacht. Langsam entstand die Idee, die Überwacher zu überwachen. In reichlich einem Jahr ist MARVIN entstanden, während parallel immer neue Meldungen und Erklärungen der Stadt zur die Presse geisterten. Am 1. Oktober war es so weit, ein Großteil der Kameras ging online. Pünktlich hatte auch MARVIN seinen Auftritt und rief erste Reaktionen auf den Plan. Eine fernsteuerbare Drohne mit Kamera auf Augenhöhe führ und fährt nun durch die Stadt und soll die Überwachung ins Blickfeld zurückholen. Die Geschichte um die Kameras in der chemnitzer Innenstadt soll aber noch nicht abgeschlossen sein, da Sie nun auch den sächsischen Landtag beschäftigen</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="18">
+            <name>DaTa</name>
+            <biography>Seit ca. 5 Jahren im Chaostreff Chemnitz aktiv, versuche ich Kunst, Kultur und Technik in einer Stadt mit vielen Potentialen unter einen Hut zu bringen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="716" guid="0935bbb5-3f02-54f0-ad72-d204de35fbd6">
+        <logo/>
+        <date>2018-12-28T22:10:00+00:00</date>
+        <start>22:10</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>V9T9UR</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/V9T9UR</url>
+        <title>livestream - The Ghost in the Machine (Joscha)</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>Livestream from Room Adams</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>livestream</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena">
       <event id="301" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
         <logo/>
@@ -6354,131 +6871,6 @@ This talk is for people not yet familiar with Nextcloud!</description>
         <answers/>
       </event>
     </room>
-    <room name="Bühne">
-      <event id="429" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
-        <logo/>
-        <date>2018-12-28T19:15:00+01:00</date>
-        <start>19:15</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>E7MS3S</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/E7MS3S</url>
-        <title>Die Wochendämmerung</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Die Wochendämmerung live! Mit Holger Klein und Katrin Rönicke zurück blicken: Was war los? Was war seltsam? Was regt uns auf?</abstract>
-        <description>Die Wochendämmerung setzt euch jeden Freitag einmal auf den aktuellen Stand der Geschehnisse in Deutschland und der Welt. In einer unterhaltsamen Mischung aus intensiver Recherche, Gesprächen mit Expert_innen und sehr viel Meinung der beiden Hosts, Katrin Rönicke und Holger Klein, liegt das Geheimrezept dieses Wochenrückblicks. Auch zwischen den Jahren gibt es Ereignisse und Nachrichten, die durchleuchtet, zerkaut und kommentiert werden wollen. Gemeinsam mit euch wird also auch die letzte Woche des Jahres mit Katrins "wir danken für eure Aufmerksamkeit" und Holgers "Tschühüüs" enden.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="30">
-            <name>Die Wochendämmerung</name>
-            <biography>Holger Klein und Katrin Rönicke – zwei meinungsstarke Stimmen in einem Podcast. Jede Woche fassen sie in einer kurzweiligen Audio-Sendung alle nötigen Ereignisse zusammen, von denen man gehört haben sollte, um auf der Party am Wochenende mitreden zu können.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="437" guid="4815f212-911e-5a64-9496-df5fd2c3f7ff">
-        <logo/>
-        <date>2018-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>MXZKDC</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/MXZKDC</url>
-        <title>NSU-Watch</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland.</abstract>
-        <description>Jahresrückblick NSU-Watch-Podcast mit Prozessbeobachter(n) und Blick u.a. auf NSU 2.0 und den Rechtsruck in Deutschland. Gesprächiger als sonst im Podcast, der meist eher featuresk ist.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="422" guid="88b78a34-c4eb-581a-af4c-cbae744b57e7">
-        <logo/>
-        <date>2018-12-28T21:45:00+01:00</date>
-        <start>21:45</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>JZMDEP</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/JZMDEP</url>
-        <title>Das geheime Kabinett - Live!</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Was Euch der Geschichtslehrer verschwieg - die kuriosesten und absurdesten Fakten aus der Geschichte</abstract>
-        <description>Das geheime Kabinett Live!&#13;
-Im Archäologischen Nationalmuseum in Neapel gibt ein sogenanntes Gabinetto Segreto, also ein geheimes Kabinett, in dem sich ganz besondere Fundstücke aus der römischen Antike finden: Fundstücke aus den Grabungen in Pompeji die man „moralisch weniger gefestigten“ Personen vorenthalten wollte, weil sie den Kuratoren zu anstößig erschienen.&#13;
-Ähnlich dem neapolitanischen Kabinett beschäftigt sich auch "der Buddler“ in seinen regelmäßigen Podcasts mit Skurrilitäten der Geschichtsschreibung, welche die „seriöse“ Geschichtsschreibung lieber verschämt unterschlägt: So etwa Rasputins verschollenes Gemächt, kleine Geschäfte mit dem kleinen Geschäft im alten Rom, hysterische Gebärmütter im Mittelalter, Pornographie im Vatikan, und vieles Derartige mehr. &#13;
-Zur Feier der 100sten Folge präsentiert der Buddler die absurdesten Fakten aus der Geschichte auf der Podcastbühne -  live und in Farbe.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="18">
-            <name>Der Buddler</name>
-            <biography>Der Buddler ist im wahren Leben gelernter Archäologe und Historiker. Wenn er nicht gerade in irgendwelche Mikrofone redet, plant er Ausstellungen oder schreibt Essays und Fachtexte, die vermutlich keiner liest.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="412" guid="3107edea-1762-56a5-a694-955a37b2c350">
-        <logo/>
-        <date>2018-12-28T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>01:30</duration>
-        <room>Bühne</room>
-        <slug>U7NPLK</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/U7NPLK</url>
-        <title>UKW</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Unsere Kleine Welt</abstract>
-        <description>Ein neues Format von Tim Pritlove startet mit zwei Überraschungsgästen. Unsere kleine Welt spricht mit Menschen über ihre Motivationen, Aktivitäten, Meinungen und Einschätzungen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="13">
-            <name>Tim Pritlove</name>
-            <biography>Discordian Evangelist</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Lecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
-    <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="288" guid="c225c6dc-8f35-50e7-b4b1-f83f2022577d">
         <logo/>
@@ -6615,11 +7007,6 @@ Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
         <answers/>
       </event>
     </room>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 6"/>
     <room name="Sendetisch">
       <event id="411" guid="71b7a853-7929-52ad-905b-37c696fa76e3">
         <logo/>
@@ -7650,6 +8037,12 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <attachments/>
       </event>
     </room>
+    <room name="OIO Lötarea"/>
+    <room name="OIO Thementisch 1"/>
+    <room name="OIO Thementisch 2"/>
+    <room name="OIO Thementisch 3"/>
+    <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 6"/>
   </day>
   <day index="3" date="2018-12-29" start="2018-12-29T11:00:00+01:00" end="2018-12-30T03:00:00+01:00">
     <room name="Adams">
@@ -9255,6 +9648,141 @@ However, it's not always easy...</description>
         <attachments/>
       </event>
     </room>
+    <room name="Lecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3">
+      <event id="416" guid="5afe9a93-cefb-5b31-8cf1-2caf3dfe3f0b">
+        <logo/>
+        <date>2018-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>VNAU89</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/VNAU89</url>
+        <title>Zellkultur Live Podcast</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Wir (Anna und Claudia) vom Zellkultur-Podcast (https://zellmedien.de/podcast/) würden uns sehr freuen auf der Bühne oder am Sendetisch eine Livesendung zu machen. Wir diskutieren - auch gerne mit Gästen - über aktuelle und nicht so aktuelle Themen aus dem Bereich Life Science.</abstract>
+        <description>Seit 2015 gibt es unseren Podcast, 2016 haben wir das erste Mal eine Live-Sendung auf dem c3 gemacht und da Fragen unserer Zuhörer beantwortet und mit unseren Gästen diskutiert. Und dabei Franzbrötchen gegessen. Weil das so schön war, haben wir das letztes Jahr wiederholt, diesmal mit dem Hauptthema Hygiene auf dem c3. Auch dieses Jahr hätten wir wieder großes Interesse eine Live-Sendung auf dem Kongress zu machen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <name>moepern</name>
+            <biography>always curious</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="418" guid="947237f8-4ded-5ffa-b607-06a08ff7719b">
+        <logo/>
+        <date>2018-12-29T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>BBMDJN</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/BBMDJN</url>
+        <title>Der Datenschutz Podcast</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Im Datenschutz Podcast geht es um Privatsphäre, Datenschutz und die gesellschaftlichen Auswirkungen der digitalisierten Welt.</abstract>
+        <description>Datenschutz ist ein "Gähn-Thema". In der breiten Masse weckt schon das Wort die unweigerliche Reaktion: "Mir egal, ich habe ja nichts zu verbergen!" Dabei geht es gar nicht darum, jemanden eines Verbrechens zu überführen, die wir alle - hoffentlich! - nicht begangen haben, sondern um etwas ganz Grundlegendes: darum, unsere  fundamentalen Grundrechte zu verteidigen, die bei zunehmender Überwachung, Untergrabung unserer Freiheit und allem, was die Politik weltwelt momentan aus dem Hut zieht, immer mehr in Vergessenheit geraten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>Klaudia Zotzmann-Koch</name>
+            <biography>Autorin und Datenschutzexpertin, macht im Dayjob auch was mit Datenschutz und hat tatsächlich Spaß daran. Auf Twitter und Mastodon aktiv unter @jinxxproof bzw. @jinxx@chaos.social.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="409" guid="4b5e6421-6130-5983-929f-4ac9989e58c3">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>C9HJBQ</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/C9HJBQ</url>
+        <title>Kohlenpod</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Ende des Kohlenpod (als Nullnummer da Countdown) und gleichzeitig Nullnummer des Nachfolgeprojekts.</abstract>
+        <description>Zum Ende des Jahres endet der Steinkohlebergbau in Deutschland. Ich habe mit dem Projekt Kohlenpod.de dieses Ende als Countdown mit 52 Folgen im Wochenrhytmus begleitet. Es war von Anfang an geplant die "Nullnummer" auf dem 35c3 aufzunehmen. Mit dabei seien werden Menschen die in dem Projekt irgendwann mal beteiligt waren (Nicolas von Minkorrekt, Martin und Lars vom Sendegarten und eventuell Linus von LNP) - die Nullnummer des Kohlenpod -mit der das Projekt endet, wird gleichzeitig die Nullnummer des neuen Projekts herzschlag.ruhr&#13;
+&#13;
+Lockere Gesprächsrunde mit einem Rückblick auf das Projekt Kohlenpod sowie  einem Ausblick auf das Projekt herzschlag.ruhr&#13;
+&#13;
+Mit Unterstützung von Videos, Fotos etc. wird auf ein Jahr Abschied von der Steinkohle zurückgeblickt. Die schönsten Momente werden gezeigt und die Reaktionen der klassischen Medien auf dieses einzigartige Podcastprojekt gezeigt. Das Projekt ist für das Medium Podcast ein wahrscheinlich einzigartiges Zeitdokument welches auch das Potential von Podcasts aufzeigt, gesellschaftlichen Wandel zu begleiten, dokumentieren und zu archivieren.“&#13;
+&#13;
+Geplant sind ca. 90 min, Setup wären 5-6 Menschen,  Videoeinspieler, Fotos, Diverse Erinnerungsstücke sollen gezeigt werden</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="11">
+            <name>Kohlenpod</name>
+            <biography>Christian, 52 - verheiratet, Vater von 3 Kindern, auf Kohle geboren.&#13;
+&#13;
+Ich habe mit dem Projekt www.kohlenpod.de das letzte Jahr des Steinkohlebergbaus begleitet. Als Countdown mit Folge 52 habe ich begonnen und wöchentlich Menschen aus und rund um den Bergbau interviewt.&#13;
+&#13;
+Das Projekt endet wie der Steinkohlebergbau zum Ende des Jahres!</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="432" guid="0efa2d57-ab20-5c3e-8356-284410812268">
+        <logo/>
+        <date>2018-12-29T23:10:00+01:00</date>
+        <start>23:10</start>
+        <duration>02:00</duration>
+        <room>CCL Saal 3</room>
+        <slug>ULH7AU</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/ULH7AU</url>
+        <title>Wir müssen reden</title>
+        <subtitle/>
+        <track/>
+        <type>nur Bühne</type>
+        <language>de</language>
+        <abstract>Regelmäßiger Podcast mit Michael Seemann, Max von Webel und idealerweise Gast oder Gästen.</abstract>
+        <description>WMR dürfte mittlerweile zu der Urgesteinen der deutschsprachigen Podcasts gehören. Seit bald 10 Jahren reden Michael und Max regelmäßig über das Zeitgeschehen, wenn es geht mit Gästen. Es wäre toll, unseren Reunion Podcast auf dem Congress zu machen: Max hat über 4 Jahre lang in Kalifornien gelebt, und dies könnte dies könnte die erste Folge sein, die regulär wieder an nur einem Ort aufgezeichnet wird.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="33">
+            <name>Max von Webel &amp; Michael Seemann</name>
+            <biography>Michael und Max podcasten schon fast seit einem Jahrzehnt über Politik und Netz und Entwicklungen. Michael ist Kulturwissenschaftler wohingegen Max immer noch probiert vernünftig programmieren zu lernen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="Chaos West Bühne">
       <event id="163" guid="8f9197a2-06a9-5809-b094-621f95e8d2e7">
         <logo/>
@@ -9890,6 +10418,163 @@ Auch das Publikum wird mitraten dürfen. Dabei wird die Anzahl der korrekten Ant
         <answers/>
       </event>
     </room>
+    <room name="ChaosZone">
+      <event id="709" guid="fc628de1-d13c-5cca-a55e-56bc092c8fb3">
+        <logo/>
+        <date>2018-12-29T14:00:00+00:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>8ZNLPJ</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/8ZNLPJ</url>
+        <title>Haskell Game Development</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>A short view on my yet early stages of game development in Haskell and the tools I have crafted so far.</abstract>
+        <description>In this talk I will give some insights into the programming language Haskell as well as common problems you encounter, when starting game development in this language.&#13;
+&#13;
+Furthermore You will see my attempts at game programming in this language, being both 2D and 3D applications, and my best attempts in completing a game, of which one is still work in progress.&#13;
+&#13;
+I will also be presenting "Affection", my own, still minimalist, game engine to the public and seek like-minded people to help advance it further.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="14">
+            <name>Nek0</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="718" guid="a1139df6-a02e-5d1b-96f3-0a1094909659">
+        <logo/>
+        <date>2018-12-29T16:45:00+00:00</date>
+        <start>16:45</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>UDCQHX</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/UDCQHX</url>
+        <title>Hebocon - Regionalliga</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Weight-In und Vorausscheid für das später staffindende Hebocon-Finale</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="21">
+            <name>honky</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="712" guid="14a8a211-a5f3-5495-891d-72392cd0550e">
+        <logo/>
+        <date>2018-12-29T18:00:00+00:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>KHLB8Z</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/KHLB8Z</url>
+        <title>Aus der Praxis eines studentischen Hackspaces: Selfhosting, Freie Software, Chaos</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Der Maschinenraum ist ein Hackspace, der seit fast 20 Jahren Teil des studentischen Lebens in Weimar ist. Bei uns läuft einiges anderes - wir erzählen vom Kampf um freie Software, Akzeptanz dezentraler Dienste, und dem allgemeinen Chaos.</abstract>
+        <description>Wir betreiben als Initative des Studierendenkonvents u.a. eigene Nextcloud-, Gitlab-, Etherpad-, Wordpress- &amp; Mastodon-Instanzen. Und wir kämpfen für freie Software in der Lehre – manchmal auch einfach nur, weil wir keinen Bock mehr haben 10 mal am Tag gefragt zu werden ob wir Photoshop cracken können.&#13;
+Und auch die Bürokratie kann nicht viel mit einem Hackspace anfangen, aktuell sollen wir z.B. der Innenrevision nachweisen, dass wir nicht im kriminelle Machenschaften verstrickt sind – und zwar indem wir Selbstzensur und Totalüberwachung betreiben.&#13;
+Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und technischen Vortrag. :)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="17">
+            <name>aurora</name>
+            <biography/>
+          </person>
+          <person id="22">
+            <name>mt</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="708" guid="886791c2-9ab1-5779-b889-3429d5e4021e">
+        <logo/>
+        <date>2018-12-29T19:30:00+00:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>GYDDDD</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/GYDDDD</url>
+        <title>DevOps Disasters</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Abgründe und Gruseligkeiten aus der Operations-Welt</abstract>
+        <description>Software will nicht nur gebaut, sondern auch betrieben werden. Spätestens, wenn es sich beim Production Environment nicht länger um Wohnzimmerprovider, Standard-Webspace und FTP handelt, wird schnell deutlich, was ein Stück Code wirklich taugt, ob er skaliert, oder ob das, was in der Entwicklungsumgebung noch ganz nett aussah im Betrieb für ernsthafte Schmerzen sorgt. Doch nicht nur die Software selbst hat Grusel-Potential...</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="5">
+            <name>Stefan</name>
+            <biography>Hacktivism, DevOpse, Guerilla-IT, freies Radio &amp; Co.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="714" guid="806d9394-f19e-512b-9290-91e633e9921d">
+        <logo/>
+        <date>2018-12-29T21:00:00+00:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>SPC9JS</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/SPC9JS</url>
+        <title>Lighningtalks Overflow</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>You didn't manage to get an official Lightningtalk slot? Here is another chance to deliver your talk.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>-</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena">
       <event id="306" guid="83cb47b2-23fd-5a97-a82f-053469f31640">
         <logo/>
@@ -10211,176 +10896,6 @@ Fragen....</description>
         <answers/>
       </event>
     </room>
-    <room name="Bühne">
-      <event id="416" guid="5afe9a93-cefb-5b31-8cf1-2caf3dfe3f0b">
-        <logo/>
-        <date>2018-12-29T19:15:00+01:00</date>
-        <start>19:15</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>VNAU89</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/VNAU89</url>
-        <title>Zellkultur Live Podcast</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Wir (Anna und Claudia) vom Zellkultur-Podcast (https://zellmedien.de/podcast/) würden uns sehr freuen auf der Bühne oder am Sendetisch eine Livesendung zu machen. Wir diskutieren - auch gerne mit Gästen - über aktuelle und nicht so aktuelle Themen aus dem Bereich Life Science.</abstract>
-        <description>Seit 2015 gibt es unseren Podcast, 2016 haben wir das erste Mal eine Live-Sendung auf dem c3 gemacht und da Fragen unserer Zuhörer beantwortet und mit unseren Gästen diskutiert. Und dabei Franzbrötchen gegessen. Weil das so schön war, haben wir das letztes Jahr wiederholt, diesmal mit dem Hauptthema Hygiene auf dem c3. Auch dieses Jahr hätten wir wieder großes Interesse eine Live-Sendung auf dem Kongress zu machen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="16">
-            <name>moepern</name>
-            <biography>always curious</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="418" guid="947237f8-4ded-5ffa-b607-06a08ff7719b">
-        <logo/>
-        <date>2018-12-29T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>BBMDJN</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/BBMDJN</url>
-        <title>Der Datenschutz Podcast</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Im Datenschutz Podcast geht es um Privatsphäre, Datenschutz und die gesellschaftlichen Auswirkungen der digitalisierten Welt.</abstract>
-        <description>Datenschutz ist ein "Gähn-Thema". In der breiten Masse weckt schon das Wort die unweigerliche Reaktion: "Mir egal, ich habe ja nichts zu verbergen!" Dabei geht es gar nicht darum, jemanden eines Verbrechens zu überführen, die wir alle - hoffentlich! - nicht begangen haben, sondern um etwas ganz Grundlegendes: darum, unsere  fundamentalen Grundrechte zu verteidigen, die bei zunehmender Überwachung, Untergrabung unserer Freiheit und allem, was die Politik weltwelt momentan aus dem Hut zieht, immer mehr in Vergessenheit geraten.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="20">
-            <name>Klaudia Zotzmann-Koch</name>
-            <biography>Autorin und Datenschutzexpertin, macht im Dayjob auch was mit Datenschutz und hat tatsächlich Spaß daran. Auf Twitter und Mastodon aktiv unter @jinxxproof bzw. @jinxx@chaos.social.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="409" guid="4b5e6421-6130-5983-929f-4ac9989e58c3">
-        <logo/>
-        <date>2018-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
-        <duration>01:00</duration>
-        <room>Bühne</room>
-        <slug>C9HJBQ</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/C9HJBQ</url>
-        <title>Kohlenpod</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Ende des Kohlenpod (als Nullnummer da Countdown) und gleichzeitig Nullnummer des Nachfolgeprojekts.</abstract>
-        <description>Zum Ende des Jahres endet der Steinkohlebergbau in Deutschland. Ich habe mit dem Projekt Kohlenpod.de dieses Ende als Countdown mit 52 Folgen im Wochenrhytmus begleitet. Es war von Anfang an geplant die "Nullnummer" auf dem 35c3 aufzunehmen. Mit dabei seien werden Menschen die in dem Projekt irgendwann mal beteiligt waren (Nicolas von Minkorrekt, Martin und Lars vom Sendegarten und eventuell Linus von LNP) - die Nullnummer des Kohlenpod -mit der das Projekt endet, wird gleichzeitig die Nullnummer des neuen Projekts herzschlag.ruhr&#13;
-&#13;
-Lockere Gesprächsrunde mit einem Rückblick auf das Projekt Kohlenpod sowie  einem Ausblick auf das Projekt herzschlag.ruhr&#13;
-&#13;
-Mit Unterstützung von Videos, Fotos etc. wird auf ein Jahr Abschied von der Steinkohle zurückgeblickt. Die schönsten Momente werden gezeigt und die Reaktionen der klassischen Medien auf dieses einzigartige Podcastprojekt gezeigt. Das Projekt ist für das Medium Podcast ein wahrscheinlich einzigartiges Zeitdokument welches auch das Potential von Podcasts aufzeigt, gesellschaftlichen Wandel zu begleiten, dokumentieren und zu archivieren.“&#13;
-&#13;
-Geplant sind ca. 90 min, Setup wären 5-6 Menschen,  Videoeinspieler, Fotos, Diverse Erinnerungsstücke sollen gezeigt werden</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="11">
-            <name>Kohlenpod</name>
-            <biography>Christian, 52 - verheiratet, Vater von 3 Kindern, auf Kohle geboren.&#13;
-&#13;
-Ich habe mit dem Projekt www.kohlenpod.de das letzte Jahr des Steinkohlebergbaus begleitet. Als Countdown mit Folge 52 habe ich begonnen und wöchentlich Menschen aus und rund um den Bergbau interviewt.&#13;
-&#13;
-Das Projekt endet wie der Steinkohlebergbau zum Ende des Jahres!</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="432" guid="0efa2d57-ab20-5c3e-8356-284410812268">
-        <logo/>
-        <date>2018-12-29T23:10:00+01:00</date>
-        <start>23:10</start>
-        <duration>02:00</duration>
-        <room>Bühne</room>
-        <slug>ULH7AU</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/ULH7AU</url>
-        <title>Wir müssen reden</title>
-        <subtitle/>
-        <track/>
-        <type>nur Bühne</type>
-        <language>de</language>
-        <abstract>Regelmäßiger Podcast mit Michael Seemann, Max von Webel und idealerweise Gast oder Gästen.</abstract>
-        <description>WMR dürfte mittlerweile zu der Urgesteinen der deutschsprachigen Podcasts gehören. Seit bald 10 Jahren reden Michael und Max regelmäßig über das Zeitgeschehen, wenn es geht mit Gästen. Es wäre toll, unseren Reunion Podcast auf dem Congress zu machen: Max hat über 4 Jahre lang in Kalifornien gelebt, und dies könnte dies könnte die erste Folge sein, die regulär wieder an nur einem Ort aufgezeichnet wird.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="33">
-            <name>Max von Webel &amp; Michael Seemann</name>
-            <biography>Michael und Max podcasten schon fast seit einem Jahrzehnt über Politik und Netz und Entwicklungen. Michael ist Kulturwissenschaftler wohingegen Max immer noch probiert vernünftig programmieren zu lernen.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="Lecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
-    <room name="OIO Lötarea">
-      <event id="290" guid="3c8fb2e5-b752-524f-b9b1-d3393929976d">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>04:00</duration>
-        <room>OIO Lötarea</room>
-        <slug>HPHDXC</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HPHDXC</url>
-        <title>Solder your own MPP tracker</title>
-        <subtitle/>
-        <track/>
-        <type>Lötarea 110 min</type>
-        <language>en</language>
-        <abstract>Elektra prepares some kits of her MPP tracker, you'll finish them with her help.</abstract>
-        <description>See details here: https://wiki.freifunk.net/Freifunk-MPP-Tracker&#13;
-&#13;
-You can participate on a first come first serve base.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="57">
-            <name>Elektra</name>
-            <biography>Free wireless networks since 2001&#13;
-Freifunk since 2003</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
     <room name="OIO Workshop-Domo">
       <event id="286" guid="e2492352-efbd-5b2c-88e6-29f890fc148c">
         <logo/>
@@ -10444,11 +10959,6 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <answers/>
       </event>
     </room>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 6"/>
     <room name="Sendetisch">
       <event id="440" guid="d911fe9a-cc65-5a63-8342-2d8dcd4643e6">
         <logo/>
@@ -11547,6 +12057,45 @@ LOVE FREEDOM EVERYTHING</abstract>
         <attachments/>
       </event>
     </room>
+    <room name="OIO Lötarea">
+      <event id="290" guid="3c8fb2e5-b752-524f-b9b1-d3393929976d">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>04:00</duration>
+        <room>OIO Lötarea</room>
+        <slug>HPHDXC</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HPHDXC</url>
+        <title>Solder your own MPP tracker</title>
+        <subtitle/>
+        <track/>
+        <type>Lötarea 110 min</type>
+        <language>en</language>
+        <abstract>Elektra prepares some kits of her MPP tracker, you'll finish them with her help.</abstract>
+        <description>See details here: https://wiki.freifunk.net/Freifunk-MPP-Tracker&#13;
+&#13;
+You can participate on a first come first serve base.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <name>Elektra</name>
+            <biography>Free wireless networks since 2001&#13;
+Freifunk since 2003</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 1"/>
+    <room name="OIO Thementisch 2"/>
+    <room name="OIO Thementisch 3"/>
+    <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 6"/>
   </day>
   <day index="4" date="2018-12-30" start="2018-12-30T11:00:00+01:00" end="2018-12-30T19:00:00+01:00">
     <room name="Adams">
@@ -12137,6 +12686,14 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <attachments/>
       </event>
     </room>
+    <room name="Lecture room 11"/>
+    <room name="Seminar room 14-15"/>
+    <room name="Seminar room 13"/>
+    <room name="Lecture room M1"/>
+    <room name="Lecture room M2"/>
+    <room name="Lecture room M3"/>
+    <room name="Kidspace"/>
+    <room name="CCL Saal 3"/>
     <room name="Chaos West Bühne">
       <event id="116" guid="94644686-b92d-5c42-bfdc-0a10a5a62672">
         <logo/>
@@ -12428,6 +12985,37 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
         <answers/>
       </event>
     </room>
+    <room name="ChaosZone">
+      <event id="717" guid="a3f657ab-f9d6-5af0-9f54-2121dc894491">
+        <logo/>
+        <date>2018-12-30T17:10:00+00:00</date>
+        <start>17:10</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>L8MWNG</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/L8MWNG</url>
+        <title>livestream - Closing Ceremony</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>Livestream from the 35C3 Closing Ceremony</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>livestream</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena">
       <event id="302" guid="076b0e7a-4d97-5958-8e02-740f6d8c6456">
         <logo/>
@@ -12652,16 +13240,6 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
         <answers/>
       </event>
     </room>
-    <room name="Bühne"/>
-    <room name="Lecture room 11"/>
-    <room name="Seminar room 14-15"/>
-    <room name="Seminar room 13"/>
-    <room name="Lecture room M1"/>
-    <room name="Lecture room M2"/>
-    <room name="Lecture room M3"/>
-    <room name="Vintage Computing Cluster"/>
-    <room name="c-base"/>
-    <room name="OIO Lötarea"/>
     <room name="OIO Workshop-Domo">
       <event id="285" guid="9fbdc7f9-97d6-56b9-a082-f2581a307401">
         <logo/>
@@ -12693,11 +13271,6 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
         <answers/>
       </event>
     </room>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 6"/>
     <room name="Sendetisch">
       <event id="426" guid="b9d7c464-6660-563e-8df9-79cb0b8df68d">
         <logo/>
@@ -13218,5 +13791,11 @@ www.beatport.com/label/eureka/21727&#13;
         <attachments/>
       </event>
     </room>
+    <room name="OIO Lötarea"/>
+    <room name="OIO Thementisch 1"/>
+    <room name="OIO Thementisch 2"/>
+    <room name="OIO Thementisch 3"/>
+    <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 6"/>
   </day>
 </schedule>
