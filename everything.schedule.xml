@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 04:30</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 04:40</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -4087,6 +4087,26 @@ All seine Podcasts: http://dampfnudel.net</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1203" guid="042a87a0-f095-4102-b428-0375ecec28ae">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Scrappy circuits</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!</description>
+        <persons/>
+        <links>
+          <link>https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits</link>
         </links>
       </event>
       <event id="1108" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
@@ -8524,6 +8544,26 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1204" guid="ab1495dc-5220-4557-9d9d-95f2f6e05032">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug/>
+        <title>Scrappy circuits</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!</description>
+        <persons/>
+        <links>
+          <link>https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits</link>
         </links>
       </event>
       <event id="1194" guid="06a23c87-a522-4050-b187-97096dff1542">

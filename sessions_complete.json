@@ -8384,6 +8384,112 @@
             }
         ]
     }, 
+    "Session:Scrappy circuits# eb947f7bff5b5a84a7f6f4d1dc27cf0c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545926400", 
+                "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0"
+        ], 
+        "Has description": [
+            "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Scrappy circuits"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "042a87a0-f095-4102-b428-0375ecec28ae"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Scrappy circuits# fd82909d1ad10e3efe8e3a6023d73720": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0"
+        ], 
+        "Has description": [
+            "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Scrappy circuits"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ab1495dc-5220-4557-9d9d-95f2f6e05032"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits", 
+        "Has end time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Sewing with Electricity# c0114b157359e08ad6d497f45673c50e": {
         "Held in language": [
             "en - English"
