@@ -5880,7 +5880,9 @@
     }, 
     "Session:Introduction to beekeeping.# d228be8d3bf833c9ef34376f03f2c669": {
         "Held in language": [
-            "en - English"
+            "en - English", 
+            "de - German", 
+            "fr - French"
         ], 
         "Has start time": [
             {
@@ -6048,6 +6050,65 @@
             {
                 "timestamp": "1546031700", 
                 "raw": "1/2018/12/28/21/15/0/0"
+            }
+        ]
+    }, 
+    "Session:Junghackertag Er\u00f6ffnung# 40ba389a10149178cb107142b1e60e5b": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545991200", 
+                "raw": "1/2018/12/28/10/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Pr\u00e4sentation des Junghackertags und seiner Angebote f\u00fcr Junghacker und Begleitpersonen"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:CCL Hall 3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:CCL_Hall_3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Waldvogel", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Waldvogel", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Junghackertag Er\u00f6ffnung"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "1df88946-6ef3-4331-835b-9e207f7acead"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Junghackertag_Er%C3%B6ffnung", 
+        "Has end time": [
+            {
+                "timestamp": "1545993000", 
+                "raw": "1/2018/12/28/10/30/0/0"
             }
         ]
     }, 
@@ -7057,6 +7118,69 @@
             {
                 "timestamp": "1546084800", 
                 "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Mead making presentation# 6d071aa665006eb64fe4840d9cdae10a": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009800", 
+                "raw": "1/2018/12/28/15/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Fhb_35c3"
+        ], 
+        "Has description": [
+            "How to make mead (honey wine)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lefrog", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Mead making presentation"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "0494b788-28c5-40d7-877a-a024050fe42c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation", 
+        "Has end time": [
+            {
+                "timestamp": "1546012500", 
+                "raw": "1/2018/12/28/15/55/0/0"
             }
         ]
     }, 
