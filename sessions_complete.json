@@ -3464,14 +3464,14 @@
             }
         ]
     }, 
-    "Session:DIY Ductace Wallets# 87957ceab94120bd737a342a15cc3efa": {
+    "Session:DIY Ductace Wallets# 2619329a49525dcf92b369d3b90d4ff5": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ], 
         "Has event track": [
@@ -3486,13 +3486,23 @@
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "DIY Ductace Wallets"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            90
+        ], 
         "GUID": [
             "628d094a-c885-448e-8307-877ddd7ce75a"
         ], 
@@ -3500,7 +3510,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ]
     }, 
     "Session:Datenschleuder-Treffen# 6ec69bd6387b388eaf4e31ca2c5b6c61": {
         "Held in language": [
@@ -8028,6 +8043,60 @@
             {
                 "timestamp": "1546102800", 
                 "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Pharis\u00e4er tasting# f416fea504b6f7d673456f8e92c00089": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://de.wikipedia.org/wiki/Pharis\u00e4er_(Getr\u00e4nk)"
+        ], 
+        "Has description": [
+            "We are tasting a classic north german drink called \"Pharis\u00e4er\"."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pharis\u00e4er tasting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "acde0ed3-4fd9-4724-87a8-9ab16c7d0fd2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pharis%C3%A4er_tasting", 
+        "Has end time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
             }
         ]
     }, 
