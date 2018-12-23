@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 20:00", 
+        "version": "2018-12-23 20:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -849,6 +849,27 @@
                         "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
+                            {
+                                "id": 1213, 
+                                "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1213-session_cartoon_workshop_trickmisch", 
+                                "title": "Cartoon-Workshop: Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch"
+                                ]
+                            }, 
                             {
                                 "id": 1216, 
                                 "guid": "0beb6543-cc8a-46d8-a59a-12dea4a66ac7", 
@@ -1886,6 +1907,27 @@
                         "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
+                            {
+                                "id": 1236, 
+                                "guid": "44282ab5-0932-54b6-aad2-e240a28575b8", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1236-session_cartoon_workshop_trickmisch", 
+                                "title": "Cartoon-Workshop: Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch"
+                                ]
+                            }, 
                             {
                                 "id": 1212, 
                                 "guid": "b9703347-bb1b-5c11-87d3-e0dee16f1403", 
@@ -3071,6 +3113,27 @@
                         "B\u00fchne": [], 
                         "c-base": [], 
                         "Kidspace": [
+                            {
+                                "id": 1214, 
+                                "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1214-session_cartoon_workshop_trickmisch", 
+                                "title": "Cartoon-Workshop: Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch"
+                                ]
+                            }, 
                             {
                                 "id": 1199, 
                                 "guid": "3d643d5a-cb73-4278-9bce-c457f9a50e85", 

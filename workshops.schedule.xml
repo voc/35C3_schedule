@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 20:00</version>
+  <version>2018-12-23 20:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -702,6 +702,25 @@
     <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
+      <event id="1213" guid="27224164-a862-4d0c-8c32-2f5efd3d93cc">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1213-session_cartoon_workshop_trickmisch</slug>
+        <title>Cartoon-Workshop: Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
+        </links>
+      </event>
       <event id="1216" guid="0beb6543-cc8a-46d8-a59a-12dea4a66ac7">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
@@ -1567,6 +1586,25 @@
     <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
+      <event id="1236" guid="44282ab5-0932-54b6-aad2-e240a28575b8">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1236-session_cartoon_workshop_trickmisch</slug>
+        <title>Cartoon-Workshop: Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
+        </links>
+      </event>
       <event id="1212" guid="b9703347-bb1b-5c11-87d3-e0dee16f1403">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
@@ -2566,6 +2604,25 @@
     <room name="Bühne"/>
     <room name="c-base"/>
     <room name="Kidspace">
+      <event id="1214" guid="4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1214-session_cartoon_workshop_trickmisch</slug>
+        <title>Cartoon-Workshop: Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst dafür eigene Zeichnungen, Scherenschnitte und Bildhintergründe erstellen und am Computer animieren. Die Filme könnt ihr später auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstelen. Alle Zeichungen aus dem kollektiv erstellten Bildwörterbuch können dafür verwenden.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
+        </links>
+      </event>
       <event id="1199" guid="3d643d5a-cb73-4278-9bce-c457f9a50e85">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
