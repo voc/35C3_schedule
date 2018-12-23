@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:20", 
+        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -8108,28 +8108,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1183, 
-                                "guid": "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac", 
-                                "logo": null, 
-                                "date": "2018-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1183-session_eprivacy_call_to_action_", 
-                                "title": "EPrivacy: Call to action!", 
-                                "subtitle": "Get active and fight for ePrivacy!", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Call to action to organise a campaign around ePrivacy in 2019", 
-                                "persons": [], 
-                                "links": [
-                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!"
-                                ]
-                            }, 
-                            {
                                 "id": 1042, 
                                 "guid": "5545c9a3-44dc-4722-a5eb-3e75e85f6e89", 
                                 "logo": null, 
@@ -10096,6 +10074,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1183, 
+                                "guid": "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "", 
+                                "slug": "35c3-1183-session_eprivacy_call_to_action_", 
+                                "title": "EPrivacy: Call to action!", 
+                                "subtitle": "Get active and fight for ePrivacy!", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Call to action to organise a campaign around ePrivacy in 2019", 
+                                "persons": [], 
+                                "links": [
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!"
+                                ]
+                            }, 
+                            {
                                 "id": 1190, 
                                 "guid": "2708d339-0653-4648-bae1-0f2ec8d42811", 
                                 "logo": null, 
@@ -10121,6 +10121,141 @@
                                 "links": [
                                     "https://freiheitsfoo.de/2018/12/14/horst-herold-ist-tot/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte"
+                                ]
+                            }, 
+                            {
+                                "id": 1239, 
+                                "guid": "a0ff2399-7c1e-4b7c-9ced-182708dfb77c", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "", 
+                                "slug": "35c3-1239-session_jht_beweise_ohne_worte", 
+                                "title": "JHT: Beweise ohne Worte", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder und Erwachsene) In der Schule besteht Mathematik zu einem gro\u00dfen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zur\u00fcckzuf\u00fchren, und dazu geh\u00f6ren ergreifende emotionale Aha-Momente beim Verstehen von Zusammenh\u00e4ngen. In diesem Workshop behandeln wir grafische Beweise.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Beweise_ohne_Worte"
+                                ]
+                            }, 
+                            {
+                                "id": 1240, 
+                                "guid": "b393369d-e65d-4256-8498-81b6597512cc", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "", 
+                                "slug": "35c3-1240-session_jht_cosmic_call_eine_botschaft_an_ausserirdische", 
+                                "title": "JHT: Cosmic Call, eine Botschaft an Au\u00dferirdische", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder und Erwachsene) Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgew\u00e4hlte Sterne, in der Hoffnung, dass die Nachricht Au\u00dferirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Cosmic_Call,_eine_Botschaft_an_Au%C3%9Ferirdische"
+                                ]
+                            }, 
+                            {
+                                "id": 1241, 
+                                "guid": "8610749c-051e-45c1-9a3a-d63b557bb210", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "", 
+                                "slug": "35c3-1241-session_jht_rubik_s_cube_workshop_zauberwuerfelworkshop_", 
+                                "title": "JHT: Rubik's Cube Workshop (Zauberw\u00fcrfelworkshop)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(for kids and adults) Learn how to solve the Rubik's cube! Lerne, wie man den Zauberw\u00fcrfel l\u00f6st!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Rubik%27s_Cube_Workshop_(Zauberw%C3%BCrfelworkshop)"
+                                ]
+                            }, 
+                            {
+                                "id": 1242, 
+                                "guid": "ef314c4e-c40d-4a32-a37e-2e09fa67f143", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "", 
+                                "slug": "35c3-1242-session_jht_spiel_und_spass_mit_der_vierten_dimension", 
+                                "title": "JHT: Spiel und Spa\u00df mit der vierten Dimension", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder) In unserer Welt k\u00f6nnen wir uns nach links und rechts, nach hinten und vorne sowie nach unten und oben bewegen. Weitere Richtungen gibt es nicht. Das muss aber nicht so sein! In der Mathematik ist auch eine weitere Dimension vorstellbar. In diesem Workshop lernen wir diese vierte Dimension spielerisch und anschaulich kennen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_der_vierten_Dimension"
+                                ]
+                            }, 
+                            {
+                                "id": 1243, 
+                                "guid": "cd728d9b-5e09-492a-bb88-453c1681ded9", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:30", 
+                                "room": "", 
+                                "slug": "35c3-1243-session_jht_spiel_und_spass_mit_unendlichen_zahlen_und_unendlichen_spielen", 
+                                "title": "JHT: Spiel und Spa\u00df mit unendlichen Zahlen und unendlichen Spielen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "(f\u00fcr Kinder) Irgendwann lernt man, dass das Spiel \u201ewer kann die gr\u00f6\u00dfere Zahl sagen?\u201c langweilig wird. Oder stimmt das gar nicht?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_unendlichen_Zahlen_und_unendlichen_Spielen"
                                 ]
                             }, 
                             {
@@ -17217,12 +17352,12 @@
                                 "room": "OIO Vortrags-Arena", 
                                 "slug": "UVGYXJ", 
                                 "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ", 
-                                "title": "Iuventa counter-investigation Movie", 
+                                "title": "Iuventa counter-investigation", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Movie with Q&A", 
                                 "language": "en", 
-                                "abstract": "Movie and Q&A with crew members of Iuventa and other SAR ships", 
+                                "abstract": "Documentation and Q&A with crew members of Iuventa and other SAR ships", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 

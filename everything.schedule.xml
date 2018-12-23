@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:20</version>
+  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 22:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7991,26 +7991,6 @@ Zur Feier der 100sten Folge präsentiert der Buddler die absurdesten Fakten aus 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
         </links>
       </event>
-      <event id="1183" guid="bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac">
-        <logo/>
-        <date>2018-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1183-session_eprivacy_call_to_action_</slug>
-        <title>EPrivacy: Call to action!</title>
-        <subtitle>Get active and fight for ePrivacy!</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Call to action to organise a campaign around ePrivacy in 2019</description>
-        <persons/>
-        <links>
-          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!</link>
-        </links>
-      </event>
       <event id="1042" guid="5545c9a3-44dc-4722-a5eb-3e75e85f6e89">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
@@ -9814,6 +9794,26 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
         </links>
       </event>
+      <event id="1183" guid="bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1183-session_eprivacy_call_to_action_</slug>
+        <title>EPrivacy: Call to action!</title>
+        <subtitle>Get active and fight for ePrivacy!</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Call to action to organise a campaign around ePrivacy in 2019</description>
+        <persons/>
+        <links>
+          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!</link>
+        </links>
+      </event>
       <event id="1190" guid="2708d339-0653-4648-bae1-0f2ec8d42811">
         <logo/>
         <date>2018-12-28T12:30:00+01:00</date>
@@ -9834,6 +9834,111 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <links>
           <link>https://freiheitsfoo.de/2018/12/14/horst-herold-ist-tot/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte</link>
+        </links>
+      </event>
+      <event id="1239" guid="a0ff2399-7c1e-4b7c-9ced-182708dfb77c">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:30</duration>
+        <room/>
+        <slug>35c3-1239-session_jht_beweise_ohne_worte</slug>
+        <title>JHT: Beweise ohne Worte</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>(für Kinder und Erwachsene) In der Schule besteht Mathematik zu einem großen Teil aus Rechnungen. Das ist aber nicht das, was Mathematik wirklich ausmacht! Mathematik ist die Kunst, das Verborgene auf das Offensichtliche zurückzuführen, und dazu gehören ergreifende emotionale Aha-Momente beim Verstehen von Zusammenhängen. In diesem Workshop behandeln wir grafische Beweise.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Beweise_ohne_Worte</link>
+        </links>
+      </event>
+      <event id="1240" guid="b393369d-e65d-4256-8498-81b6597512cc">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:30</duration>
+        <room/>
+        <slug>35c3-1240-session_jht_cosmic_call_eine_botschaft_an_ausserirdische</slug>
+        <title>JHT: Cosmic Call, eine Botschaft an Außerirdische</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>(für Kinder und Erwachsene) Vor etwa 15 Jahren schickte die Menschheit eine Radiobotschaft an ausgewählte Sterne, in der Hoffnung, dass die Nachricht Außerirdische erreicht, diese die Nachricht verstehen und uns antworten. Die Nachricht ist nicht auf Deutsch oder Englisch verfasst, sondern bedient sich einer eigens entwickelten Symbolsprache. Schaffen wenigstens wir Menschen, die Botschaft zu entziffern? Das wollen wir in dem Workshop an uns selbst testen und herausfinden!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Cosmic_Call,_eine_Botschaft_an_Au%C3%9Ferirdische</link>
+        </links>
+      </event>
+      <event id="1241" guid="8610749c-051e-45c1-9a3a-d63b557bb210">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:30</duration>
+        <room/>
+        <slug>35c3-1241-session_jht_rubik_s_cube_workshop_zauberwuerfelworkshop_</slug>
+        <title>JHT: Rubik's Cube Workshop (Zauberwürfelworkshop)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>(for kids and adults) Learn how to solve the Rubik's cube! Lerne, wie man den Zauberwürfel löst!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Rubik%27s_Cube_Workshop_(Zauberw%C3%BCrfelworkshop)</link>
+        </links>
+      </event>
+      <event id="1242" guid="ef314c4e-c40d-4a32-a37e-2e09fa67f143">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:30</duration>
+        <room/>
+        <slug>35c3-1242-session_jht_spiel_und_spass_mit_der_vierten_dimension</slug>
+        <title>JHT: Spiel und Spaß mit der vierten Dimension</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>(für Kinder) In unserer Welt können wir uns nach links und rechts, nach hinten und vorne sowie nach unten und oben bewegen. Weitere Richtungen gibt es nicht. Das muss aber nicht so sein! In der Mathematik ist auch eine weitere Dimension vorstellbar. In diesem Workshop lernen wir diese vierte Dimension spielerisch und anschaulich kennen.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_der_vierten_Dimension</link>
+        </links>
+      </event>
+      <event id="1243" guid="cd728d9b-5e09-492a-bb88-453c1681ded9">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>3:30</duration>
+        <room/>
+        <slug>35c3-1243-session_jht_spiel_und_spass_mit_unendlichen_zahlen_und_unendlichen_spielen</slug>
+        <title>JHT: Spiel und Spaß mit unendlichen Zahlen und unendlichen Spielen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>(für Kinder) Irgendwann lernt man, dass das Spiel „wer kann die größere Zahl sagen?“ langweilig wird. Oder stimmt das gar nicht?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_unendlichen_Zahlen_und_unendlichen_Spielen</link>
         </links>
       </event>
       <event id="1201" guid="f45b9f26-45ad-4c8b-8350-1abfc1420514">
@@ -16491,12 +16596,12 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
         <room>OIO Vortrags-Arena</room>
         <slug>UVGYXJ</slug>
         <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ</url>
-        <title>Iuventa counter-investigation Movie</title>
+        <title>Iuventa counter-investigation</title>
         <subtitle/>
         <track/>
         <type>Movie with Q&amp;A</type>
         <language>en</language>
-        <abstract>Movie and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
+        <abstract>Documentation and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
         <description/>
         <recording>
           <license/>
