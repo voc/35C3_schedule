@@ -10685,6 +10685,65 @@
             }
         ]
     }, 
+    "Session:Teckids Teamlead Orga Meeting# 0c57bf105e6f22498270a7a7db1e9b66": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546083000", 
+                "raw": "1/2018/12/29/11/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://teckids.org"
+        ], 
+        "Has description": [
+            "Orga Meeting f\u00fcr Teckids Teamleiter"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magu", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Teckids Teamlead Orga Meeting"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "bedf5d5f-246b-4825-a577-50d80e5fa024"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting", 
+        "Has end time": [
+            {
+                "timestamp": "1546086600", 
+                "raw": "1/2018/12/29/12/30/0/0"
+            }
+        ]
+    }, 
     "Session:Tetrapix - Lichterkunst mit Saftkartons# 31643712ebed053a6490688e8ed1716e": {
         "Held in language": [], 
         "Has start time": [

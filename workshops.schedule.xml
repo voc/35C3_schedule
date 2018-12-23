@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 18:40</version>
+  <version>2018-12-23 19:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2257,6 +2257,28 @@
         <links>
           <link>http://syndikat.org</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat</link>
+        </links>
+      </event>
+      <event id="1234" guid="bedf5d5f-246b-4825-a577-50d80e5fa024">
+        <logo/>
+        <date>2018-12-29T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1234-session_teckids_teamlead_orga_meeting</slug>
+        <title>Teckids Teamlead Orga Meeting</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Orga Meeting für Teckids Teamleiter</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Magu">Magu</person>
+        </persons>
+        <links>
+          <link>http://teckids.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting</link>
         </links>
       </event>
       <event id="1134" guid="45a13447-70ed-47d2-82ae-e88366738130">
