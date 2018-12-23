@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 15:05</version>
+  <version>Columbo 2.1 0.9.12 v1.7 0.5 2018-12-23 16:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8619,6 +8619,37 @@ Letztes Jahr gestartet aus der Motivation heraus, dem Motto tuwat gerecht zu wer
         <attachments/>
         <answers/>
       </event>
+      <event id="441" guid="9c832796-30da-5786-9c3c-e57288435b8d">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>V3AVZ9</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/V3AVZ9</url>
+        <title>Several Ways To Live In Mexico City</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>en</language>
+        <abstract>Mexico is complicated, but we eat our way to an explanation.</abstract>
+        <description>For all of Mexico’s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.&#13;
+&#13;
+There might be free tacos.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>Unbenannter Nutzer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="407" guid="ee95f307-51bb-5c91-af43-fcb0fd1ede55">
         <logo/>
         <date>2018-12-28T18:00:00+01:00</date>
@@ -12086,13 +12117,13 @@ These are the biggest firmware trends of 2018, according to these two people</de
           <optout>true</optout>
         </recording>
         <persons>
-          <person id="65">
-            <name>Mimoja</name>
-            <biography>Mimoja is a western german hacker with a focus on firmware, hardware and security.</biography>
-          </person>
           <person id="64">
             <name>bibor</name>
             <biography>bibor is a random hacker with and interest in firmware, hardware and their security.</biography>
+          </person>
+          <person id="65">
+            <name>Mimoja</name>
+            <biography>Mimoja is a western german hacker with a focus on firmware, hardware and security.</biography>
           </person>
         </persons>
         <links/>
@@ -12205,15 +12236,15 @@ Das GeoPortal des Guten Lebens wird gemeinsam von der zivilgesellschaftlichen Or
             <name>Benedikt</name>
             <biography>twitter.com/kleinbenny</biography>
           </person>
-          <person id="78">
-            <name>Ralf</name>
-            <biography/>
-          </person>
           <person id="77">
             <name>Jana</name>
             <biography>Jana is an UX, Communication and Public Interest Designer from Wuppertal. She works for the project "GeoPortal des Guten Lebens" at the Center for Transformation Research and Sustainability (TransZent) at the University of Wuppertal.&#13;
 &#13;
 @JanaGreen |  janapahlkoetter.de</biography>
+          </person>
+          <person id="78">
+            <name>Ralf</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -12283,17 +12314,17 @@ Außerdem berichten wir von einem anderen Anlauf, der in diese Richtung schon 20
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="23">
-            <name>nomaster</name>
-            <biography>Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.</biography>
+          <person id="47">
+            <name>ytvwld</name>
+            <biography>Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.</biography>
           </person>
           <person id="57">
             <name>hanemile</name>
             <biography>{Python, Go} {TFG, HHU, @chaosdorf} {ENERGIE!}</biography>
           </person>
-          <person id="47">
-            <name>ytvwld</name>
-            <biography>Ich bin Teil des Freitagsfoo-Moderations-Teams im Chaosdorf und Hauptentwickler unserer Info-Beamer-App und der Webapp.</biography>
+          <person id="23">
+            <name>nomaster</name>
+            <biography>Studied computer science and philosophy, but never got an academic title. With a practical approach, got some insight into the legacy of operating systems and networks. As an active member of several hackspaces and the Freifunk community, nomaster dedicates his work on the educational perspective on technology.</biography>
           </person>
         </persons>
         <links/>
@@ -15936,15 +15967,15 @@ Kommt also zur Chaos-West Bühne und lasst die Nacht voller Energie ausklingen z
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="10">
-            <name>DrLuke</name>
-            <biography>I am VJ Pyree</biography>
-          </person>
           <person id="28">
             <name>Alexeyan</name>
             <biography>CTF-Spieler und DJ&#13;
 https://twitter.com/Alexeyan2&#13;
 https://www.mixcloud.com/Alexeyan/</biography>
+          </person>
+          <person id="10">
+            <name>DrLuke</name>
+            <biography>I am VJ Pyree</biography>
           </person>
         </persons>
         <links/>
@@ -16082,11 +16113,6 @@ Registrierung als Gründungsinteressent: Leere Mail mit Betreff "Interesse" an g
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="51">
-            <name>therojam</name>
-            <biography>Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.&#13;
-Today working in Linux &amp; OpenSource branch as Consultant &amp; Supporter.</biography>
-          </person>
           <person id="50">
             <name>ajuvo</name>
             <biography>## Privatier und Zeitzeuge. &#13;
@@ -16098,6 +16124,11 @@ Radio Hyperbandrauschen auf Berlin 88.4 ;  Podcaster damals-tm-podcast.de ; c-ba
 zur Zeit c3auti ; Chaospate für Chaos Potsdam &#13;
 &#13;
 URL: [crew.c-base.org](https://ajuvo.crew.c-base.org/)</biography>
+          </person>
+          <person id="51">
+            <name>therojam</name>
+            <biography>Bone shortly after. The Wallmanns down in the ChaosZone near Elbe.&#13;
+Today working in Linux &amp; OpenSource branch as Consultant &amp; Supporter.</biography>
           </person>
         </persons>
         <links/>
