@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 11:20</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 11:30</version>
   <base_url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/</base_url>
   <conference>
     <acronym>35c3</acronym>
@@ -2163,6 +2163,26 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CCCChoir</link>
+        </links>
+      </event>
+      <event id="1206" guid="7375c8c3-ef0c-4918-831f-6b72e5f28321">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug/>
+        <title>LessWrong meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meetup for everyone interested or part of the Rationality/LessWrong movement</description>
+        <persons/>
+        <links>
+          <link>https://www.lesswrong.com/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup</link>
         </links>
       </event>
       <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">

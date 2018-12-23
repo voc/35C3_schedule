@@ -6271,14 +6271,14 @@
             }
         ]
     }, 
-    "Session:LessWrong meetup# 6a4f5467ef37a899ba052ccb83a59a2c": {
+    "Session:LessWrong meetup# 5215772fbdae8057e47bca531f5f1483": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545924000", 
-                "raw": "1/2018/12/27/15/20/0/0"
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
             }
         ], 
         "Has event track": [
@@ -6293,13 +6293,23 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "LessWrong meetup"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            90
+        ], 
         "GUID": [
             "7375c8c3-ef0c-4918-831f-6b72e5f28321"
         ], 
@@ -6307,7 +6317,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1545939000", 
+                "raw": "1/2018/12/27/19/30/0/0"
+            }
+        ]
     }, 
     "Session:Let's hack words!# 96dd68006422b933c402ba1e0e45984a": {
         "Held in language": [

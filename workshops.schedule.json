@@ -690,6 +690,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1206, 
+                                "guid": "7375c8c3-ef0c-4918-831f-6b72e5f28321", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M1", 
+                                "slug": "", 
+                                "title": "LessWrong meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meetup for everyone interested or part of the Rationality/LessWrong movement", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.lesswrong.com/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup"
+                                ]
+                            }, 
+                            {
                                 "id": 1102, 
                                 "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
                                 "logo": null, 
@@ -3437,6 +3459,6 @@
                 }
             ]
         }, 
-        "version": "2018-12-23 11:20"
+        "version": "2018-12-23 11:30"
     }
 }
