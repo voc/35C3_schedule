@@ -8020,6 +8020,68 @@
             }
         ]
     }, 
+    "Session:Obai Brause: Mix your own caffeinated sherbet powder# 14488f118fcd83adf414f3f773441f4f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545997500", 
+                "raw": "1/2018/12/28/11/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Caffeinated_Sherbet"
+        ], 
+        "Has description": [
+            "Mix your own caffeinated sherbet powder (German: \u201eBrausepulver\u201c). We provide tools and ingredients, you mix."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Algoldor", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Obai Brause: Mix your own caffeinated sherbet powder"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "fd8d2e57-f517-4888-a1b5-de3fe14a1433"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder", 
+        "Has end time": [
+            {
+                "timestamp": "1546004700", 
+                "raw": "1/2018/12/28/13/45/0/0"
+            }
+        ]
+    }, 
     "Session:Open Hardware Book Scanner Meetup# 41bd70f38f770d29d61320a22213e8cc": {
         "Held in language": [
             "en - English"
@@ -11003,7 +11065,9 @@
         "Has website": [
             "https://www.tinkerbots.de/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Tinkerbots ist was du daraus machst \u2013 Nimm das Powerbrain in die Hand und baue deinen eigenen Roboter. Mit verschiedenen Modulen, die sich einfach zusammenstecken lassen und Daten und Energie automatisch \u00fcbertragen, sind deinen vielen kreativen M\u00f6glichkeiten keine Grenzen gesetzt."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -11052,7 +11116,9 @@
         "Has website": [
             "https://www.tinkerbots.de/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Tinkerbots ist was du daraus machst \u2013 Nimm das Powerbrain in die Hand und baue deinen eigenen Roboter. Mit verschiedenen Modulen, die sich einfach zusammenstecken lassen und Daten und Energie automatisch \u00fcbertragen, sind deinen vielen kreativen M\u00f6glichkeiten keine Grenzen gesetzt."
+        ], 
         "Has session type": [
             "Workshop"
         ], 
@@ -11911,156 +11977,6 @@
             {
                 "timestamp": "1545945300", 
                 "raw": "1/2018/12/27/21/15/0/0"
-            }
-        ]
-    }, 
-    "Session:Trickmisch# 2043d5bc4fb84fa82b7a37e685a2006d": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545919200", 
-                "raw": "1/2018/12/27/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Trickmisch"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "27224164-a862-4d0c-8c32-2f5efd3d93cc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
-        "Has end time": [
-            {
-                "timestamp": "1545933600", 
-                "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Trickmisch# 20486fe4815f52f4891d8a1456787c05": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Trickmisch"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
-        "Has end time": [
-            {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Trickmisch# b0a08d797c2019880db07d38cb99daea": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Trickmisch"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
-        "Has end time": [
-            {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
     }, 

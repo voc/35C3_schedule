@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 19:20", 
+        "version": "Columbo 3 1.0.0 v1.7 0.5 2018-12-23 20:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5091,32 +5091,11 @@
                                 "type": "workshop", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Tinkerbots ist was du daraus machst \u2013 Nimm das Powerbrain in die Hand und baue deinen eigenen Roboter. Mit verschiedenen Modulen, die sich einfach zusammenstecken lassen und Daten und Energie automatisch \u00fcbertragen, sind deinen vielen kreativen M\u00f6glichkeiten keine Grenzen gesetzt.", 
                                 "persons": [], 
                                 "links": [
                                     "https://www.tinkerbots.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots"
-                                ]
-                            }, 
-                            {
-                                "id": 1213, 
-                                "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
-                                "logo": null, 
-                                "date": "2018-12-27T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "4:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1213-session_trickmisch", 
-                                "title": "Trickmisch", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
                                 ]
                             }
                         ]
@@ -10466,27 +10445,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons"
                                 ]
-                            }, 
-                            {
-                                "id": 1214, 
-                                "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
-                                "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "4:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1214-session_trickmisch", 
-                                "title": "Trickmisch", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
-                                ]
                             }
                         ], 
                         "Assembly:FOSSASIA": [
@@ -10629,6 +10587,34 @@
                                 "links": [
                                     "https://foodhackingbase.org/wiki/Fhb_35c3", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation"
+                                ]
+                            }, 
+                            {
+                                "id": 1235, 
+                                "guid": "fd8d2e57-f517-4888-a1b5-de3fe14a1433", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:45:00+01:00", 
+                                "start": "11:45", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1235-session_obai_brause_mix_your_own_caffeinated_sherbet_powder", 
+                                "title": "Obai Brause: Mix your own caffeinated sherbet powder", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Mix your own caffeinated sherbet powder (German: \u201eBrausepulver\u201c). We provide tools and ingredients, you mix.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor", 
+                                        "public_name": "Algoldor"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://foodhackingbase.org/wiki/Caffeinated_Sherbet", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder"
                                 ]
                             }
                         ], 
@@ -16191,32 +16177,11 @@
                                 "type": "workshop", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Tinkerbots ist was du daraus machst \u2013 Nimm das Powerbrain in die Hand und baue deinen eigenen Roboter. Mit verschiedenen Modulen, die sich einfach zusammenstecken lassen und Daten und Energie automatisch \u00fcbertragen, sind deinen vielen kreativen M\u00f6glichkeiten keine Grenzen gesetzt.", 
                                 "persons": [], 
                                 "links": [
                                     "https://www.tinkerbots.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots"
-                                ]
-                            }, 
-                            {
-                                "id": 1215, 
-                                "guid": "20fc93fe-1ea4-5fa8-9c9d-d5752c8a9e41", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "4:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1215-session_trickmisch", 
-                                "title": "Trickmisch", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
                                 ]
                             }
                         ], 
