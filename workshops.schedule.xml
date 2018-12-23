@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 17:20</version>
+  <version>2018-12-23 18:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -3098,6 +3098,25 @@
     <room name="Chaos West Bühne"/>
     <room name="Vintage Computing Cluster"/>
     <room name="Seminar room 14-15">
+      <event id="1230" guid="8f79bf39-54ae-4a2c-8d6c-082dc1de88b1">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1230-session_datenschutz_datenschuetzer_und_datenkraken</slug>
+        <title>Datenschutz, Datenschützer und Datenkraken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Was tun für mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbehörde, Workshop und Meetup von Datenschützern für Datenschützer, Hacker und andere Interessierte</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschutz,_Datensch%C3%BCtzer_und_Datenkraken</link>
+        </links>
+      </event>
       <event id="1205" guid="ee94e378-5c00-4b31-98ca-f0324f665a86">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 17:20</version>
+  <version>Columbo 3 1.0.0 v1.7 0.5 2018-12-23 18:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4668,6 +4668,28 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         <links>
           <link>https://foodhackingbase.org/wiki/Tempeh_making_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Tempeh_Making</link>
+        </links>
+      </event>
+      <event id="1231" guid="77aba0eb-adc3-431c-98a0-88907f8c7db3">
+        <logo/>
+        <date>2018-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>0:45</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1231-session_introduction_to_beekeeping_</slug>
+        <title>Introduction to beekeeping.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to beekeeping, short presentation on how to keep 2-10 hives for honey and for fun. Good for the environment, too...</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog">Lefrog</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_beekeeping.</link>
         </links>
       </event>
       <event id="1130" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
@@ -16547,6 +16569,25 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
       </event>
     </room>
     <room name="Seminar room 14-15">
+      <event id="1230" guid="8f79bf39-54ae-4a2c-8d6c-082dc1de88b1">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1230-session_datenschutz_datenschuetzer_und_datenkraken</slug>
+        <title>Datenschutz, Datenschützer und Datenkraken</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Was tun für mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbehörde, Workshop und Meetup von Datenschützern für Datenschützer, Hacker und andere Interessierte</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschutz,_Datensch%C3%BCtzer_und_Datenkraken</link>
+        </links>
+      </event>
       <event id="1205" guid="ee94e378-5c00-4b31-98ca-f0324f665a86">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>

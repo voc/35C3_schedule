@@ -3639,6 +3639,57 @@
             }
         ]
     }, 
+    "Session:Datenschutz, Datensch\u00fctzer und Datenkraken# ac3ec5b5d73e7db28b0a419f1b8afcf0": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546180200", 
+                "raw": "1/2018/12/30/14/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Was tun f\u00fcr mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbeh\u00f6rde, Workshop und Meetup von Datensch\u00fctzern f\u00fcr Datensch\u00fctzer, Hacker und andere Interessierte"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Datenschutz, Datensch\u00fctzer und Datenkraken"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8f79bf39-54ae-4a2c-8d6c-082dc1de88b1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschutz,_Datensch%C3%BCtzer_und_Datenkraken", 
+        "Has end time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Dining Cryptographers' Party# 438f27ebcb5a91b876fbeac16d5705fe": {
         "Held in language": [
             "de - German", 
@@ -5824,6 +5875,67 @@
             {
                 "timestamp": "1545926400", 
                 "raw": "1/2018/12/27/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Introduction to beekeeping.# d228be8d3bf833c9ef34376f03f2c669": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545931800", 
+                "raw": "1/2018/12/27/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Fhb_35c3"
+        ], 
+        "Has description": [
+            "Introduction to beekeeping, short presentation on how to keep 2-10 hives for honey and for fun. Good for the environment, too..."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lefrog", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Introduction to beekeeping."
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "77aba0eb-adc3-431c-98a0-88907f8c7db3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_beekeeping.", 
+        "Has end time": [
+            {
+                "timestamp": "1545934500", 
+                "raw": "1/2018/12/27/18/15/0/0"
             }
         ]
     }, 
