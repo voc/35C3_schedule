@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 12:30</version>
+  <version>2018-12-23 12:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2610,6 +2610,26 @@
         <links>
           <link>https://kahoot.it/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Nerd_Game_Show</link>
+        </links>
+      </event>
+      <event id="1207" guid="ee32a212-a49d-4bb3-b18f-8501e0a77597">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1207-session_commie_curious</slug>
+        <title>Commie curious</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>A warm and welcoming place for people who think they might be a little communist.</description>
+        <persons/>
+        <links>
+          <link>http://telekommunisten.net</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious</link>
         </links>
       </event>
       <event id="1068" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">

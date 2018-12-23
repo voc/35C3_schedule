@@ -3366,12 +3366,12 @@
             }
         ]
     }, 
-    "Session:Commie curious# e803e0db042b6b762f65a6ca06b3312f": {
+    "Session:Commie curious# 9f47726b1c91939be05ceed885dc25df": {
         "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
             }
         ], 
         "Has event track": [
@@ -3386,13 +3386,23 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "Commie curious"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
             "ee32a212-a49d-4bb3-b18f-8501e0a77597"
         ], 
@@ -3400,7 +3410,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
     }, 
     "Session:ComputerForensikfuerAnfaengerinnen# fc7dc04adc59ed56c72abd2b53d2055a": {
         "Held in language": [
