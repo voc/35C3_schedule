@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 14:40", 
+        "version": "2018-12-23 14:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -689,6 +689,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1224, 
+                                "guid": "b0e9f5ed-6e77-45d6-a620-3990afb1ba16", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1224-session_tetrapix_lichterkunst_mit_saftkartons", 
+                                "title": "Tetrapix - Lichterkunst mit Saftkartons", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons"
                                 ]
                             }, 
                             {
@@ -1654,6 +1675,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1222, 
+                                "guid": "6bd84d31-2eba-420a-a35f-cfcdade2467b", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1222-session_how_to_make_a_trap_song_in_20_minutes", 
+                                "title": "How to make a trap song in 20 minutes", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes"
+                                ]
+                            }, 
+                            {
                                 "id": 1218, 
                                 "guid": "b362afbe-50fe-57ff-9463-c2a63d68488a", 
                                 "logo": null, 
@@ -1672,6 +1714,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1225, 
+                                "guid": "8f8681c6-def3-5ffa-b418-7bbb6f513ff4", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1225-session_tetrapix_lichterkunst_mit_saftkartons", 
+                                "title": "Tetrapix - Lichterkunst mit Saftkartons", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons"
                                 ]
                             }, 
                             {
@@ -2818,6 +2881,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1221, 
+                                "guid": "c8ea0ed2-fcea-4e93-8285-e53f436fd311", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1221-session_how_to_make_a_trap_song_in_20_minutes", 
+                                "title": "How to make a trap song in 20 minutes", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes"
+                                ]
+                            }, 
+                            {
                                 "id": 1217, 
                                 "guid": "09993a07-4721-4488-9c00-72f8908a022b", 
                                 "logo": null, 
@@ -2836,6 +2920,48 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1223, 
+                                "guid": "7cb15742-b7c4-498a-a394-0223bddee795", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1223-session_tetrapix_lichterkunst_mit_saftkartons", 
+                                "title": "Tetrapix - Lichterkunst mit Saftkartons", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons"
+                                ]
+                            }, 
+                            {
+                                "id": 1226, 
+                                "guid": "6308ef97-9bc2-4925-97ce-057c8d53a592", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1226-session_through_the_sky_small_journey_in_the_universe", 
+                                "title": "Through the sky, small journey in the Universe", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Creating and using paper star wheel with walkthrough through sky with Stellarium app.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Through_the_sky,_small_journey_in_the_Universe"
                                 ]
                             }, 
                             {

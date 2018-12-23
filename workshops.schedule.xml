@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-23 14:40</version>
+  <version>2018-12-23 14:50</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -570,6 +570,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1224" guid="b0e9f5ed-6e77-45d6-a620-3990afb1ba16">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1224-session_tetrapix_lichterkunst_mit_saftkartons</slug>
+        <title>Tetrapix - Lichterkunst mit Saftkartons</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons</link>
         </links>
       </event>
       <event id="1219" guid="d3eb3a07-b1df-45ac-9f36-754cddab1ac3">
@@ -1376,6 +1395,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
         </links>
       </event>
+      <event id="1222" guid="6bd84d31-2eba-420a-a35f-cfcdade2467b">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1222-session_how_to_make_a_trap_song_in_20_minutes</slug>
+        <title>How to make a trap song in 20 minutes</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes</link>
+        </links>
+      </event>
       <event id="1218" guid="b362afbe-50fe-57ff-9463-c2a63d68488a">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
@@ -1393,6 +1431,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1225" guid="8f8681c6-def3-5ffa-b418-7bbb6f513ff4">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1225-session_tetrapix_lichterkunst_mit_saftkartons</slug>
+        <title>Tetrapix - Lichterkunst mit Saftkartons</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons</link>
         </links>
       </event>
       <event id="1214" guid="4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a">
@@ -2356,6 +2413,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
         </links>
       </event>
+      <event id="1221" guid="c8ea0ed2-fcea-4e93-8285-e53f436fd311">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1221-session_how_to_make_a_trap_song_in_20_minutes</slug>
+        <title>How to make a trap song in 20 minutes</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes</link>
+        </links>
+      </event>
       <event id="1217" guid="09993a07-4721-4488-9c00-72f8908a022b">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
@@ -2373,6 +2449,44 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1223" guid="7cb15742-b7c4-498a-a394-0223bddee795">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1223-session_tetrapix_lichterkunst_mit_saftkartons</slug>
+        <title>Tetrapix - Lichterkunst mit Saftkartons</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons</link>
+        </links>
+      </event>
+      <event id="1226" guid="6308ef97-9bc2-4925-97ce-057c8d53a592">
+        <logo/>
+        <date>2018-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1226-session_through_the_sky_small_journey_in_the_universe</slug>
+        <title>Through the sky, small journey in the Universe</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Creating and using paper star wheel with walkthrough through sky with Stellarium app.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Through_the_sky,_small_journey_in_the_Universe</link>
         </links>
       </event>
       <event id="1220" guid="57b4d3bb-2d08-4118-995d-9c66176600b0">
