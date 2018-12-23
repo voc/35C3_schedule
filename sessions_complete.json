@@ -2296,114 +2296,7 @@
             }
         ]
     }, 
-    "Session:Blind Navigation Workshops# 0fe8004e6c158d728ca2d4d9c2c977dc": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546013400", 
-                "raw": "1/2018/12/28/16/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://s.ai/ccc/ws", 
-            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
-        ], 
-        "Has description": [
-            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "After-Talk 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Saizai", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Blind Navigation Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168fc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
-        "Has end time": [
-            {
-                "timestamp": "1546017000", 
-                "raw": "1/2018/12/28/17/10/0/0"
-            }
-        ]
-    }, 
-    "Session:Blind Navigation Workshops# 2db21ddec94c5f2af2f0ec2a6a711f74": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546128000", 
-                "raw": "1/2018/12/30"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://s.ai/ccc/ws", 
-            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
-        ], 
-        "Has description": [
-            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [
-            "Day 4 TBD"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Saizai", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Blind Navigation Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168fc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
-        "Has end time": []
-    }, 
-    "Session:Blind Navigation Workshops# 615d785a8663f3563ed2e8a47e5dadbe": {
+    "Session:Blind Navigation Workshops# 1ec062e244fd493d2caf6a0622df669e": {
         "Held in language": [
             "en - English"
         ], 
@@ -2446,7 +2339,7 @@
             60
         ], 
         "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168fc"
+            "2ca556b7-b032-4d2a-918d-622739d168fd"
         ], 
         "Has color": [
             "#0099ab"
@@ -2459,7 +2352,7 @@
             }
         ]
     }, 
-    "Session:Blind Navigation Workshops# e5bf0a20f600ea30a056bd631dc4ae19": {
+    "Session:Blind Navigation Workshops# 8185378812901e4649d47b8039ce768c": {
         "Held in language": [
             "en - English"
         ], 
@@ -2502,7 +2395,58 @@
             60
         ], 
         "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168fc"
+            "2ca556b7-b032-4d2a-918d-622739d168ff"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
+        "Has end time": []
+    }, 
+    "Session:Blind Navigation Workshops# aa401288d28dbaae9065f3929ad938c2": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546128000", 
+                "raw": "1/2018/12/30"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://s.ai/ccc/ws", 
+            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
+        ], 
+        "Has description": [
+            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 4 TBD"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Saizai", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Blind Navigation Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2ca556b7-b032-4d2a-918d-622739d168f0"
         ], 
         "Has color": [
             "#0099ab"
@@ -2563,6 +2507,62 @@
             {
                 "timestamp": "1545858000", 
                 "raw": "1/2018/12/26/21/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Blind Navigation Workshops# e83a4ca20ea2bf2ed42901193e144fdb": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546013400", 
+                "raw": "1/2018/12/28/16/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://s.ai/ccc/ws", 
+            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
+        ], 
+        "Has description": [
+            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "After-Talk 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Saizai", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Blind Navigation Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2ca556b7-b032-4d2a-918d-622739d168fe"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
+        "Has end time": [
+            {
+                "timestamp": "1546017000", 
+                "raw": "1/2018/12/28/17/10/0/0"
             }
         ]
     }, 
@@ -3807,7 +3807,7 @@
             }
         ]
     }, 
-    "Session:Elektrobastelei# 1b2878ef5e38ee51e99394a1bfe9ac2d": {
+    "Session:Elektrobastelei - electric tinkering# 78ef4574b0553166eede5a114b4f7dfa": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -3828,9 +3828,9 @@
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
@@ -3838,7 +3838,7 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Elektrobastelei"
+            "Elektrobastelei - electric tinkering"
         ], 
         "Has duration": [
             120
@@ -3849,7 +3849,7 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering", 
         "Has end time": [
             {
                 "timestamp": "1546106400", 
@@ -3857,7 +3857,7 @@
             }
         ]
     }, 
-    "Session:Elektrobastelei# d0200a07493aaa7a4a8a15cb5e7a85c9": {
+    "Session:Elektrobastelei - electric tinkering# f183d32fa615d71cdc5855d2f0242107": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -3878,9 +3878,9 @@
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
@@ -3888,7 +3888,7 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Elektrobastelei"
+            "Elektrobastelei - electric tinkering"
         ], 
         "Has duration": [
             120
@@ -3897,7 +3897,7 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering", 
         "Has end time": [
             {
                 "timestamp": "1546020000", 
@@ -8556,6 +8556,69 @@
             }
         ]
     }, 
+    "Session:Scratch - Programmieren mit der Maus# 0b9e4f8350e117ba6b3f218dc13da3b0": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545494400", 
+                "raw": "1/2018/12/22/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://events.ccc.de"
+        ], 
+        "Has description": [
+            "Only a test trick for function test"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Optional subtitle for Testing"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Magu", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Scratch - Programmieren mit der Maus"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "0beb6543-cc8a-46d8-a59a-12dea4a66ac7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus", 
+        "Has end time": [
+            {
+                "timestamp": "1545498000", 
+                "raw": "1/2018/12/22/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Sewing with Electricity# c0114b157359e08ad6d497f45673c50e": {
         "Held in language": [
             "en - English"
@@ -10029,107 +10092,6 @@
             }
         ]
     }, 
-    "Session:Test Trick# fd14e70a8c1c72adcfcdc2f01058e2ee": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545494400", 
-                "raw": "1/2018/12/22/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://events.ccc.de"
-        ], 
-        "Has description": [
-            "Only a test trick for function test"
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Optional subtitle for Testing"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Magu", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Magu", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Test Trick"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "0beb6543-cc8a-46d8-a59a-12dea4a66ac7"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Test_Trick", 
-        "Has end time": [
-            {
-                "timestamp": "1545498000", 
-                "raw": "1/2018/12/22/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Test# 73b19bd4241d811fca742c565142319d": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Test"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "27224164-a862-4d0c-8c32-2f5efd3d93cc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Test", 
-        "Has end time": []
-    }, 
     "Session:Tim May Memorial# 693cb995127e72c84514de38d12a0025": {
         "Held in language": [
             "en - English"
@@ -11009,6 +10971,156 @@
             {
                 "timestamp": "1545945300", 
                 "raw": "1/2018/12/27/21/15/0/0"
+            }
+        ]
+    }, 
+    "Session:Trickmisch# 2043d5bc4fb84fa82b7a37e685a2006d": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "27224164-a862-4d0c-8c32-2f5efd3d93cc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            {
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Trickmisch# 20486fe4815f52f4891d8a1456787c05": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Trickmisch# b0a08d797c2019880db07d38cb99daea": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch", 
+        "Has end time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
     }, 

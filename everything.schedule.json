@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 13:50", 
+        "version": "Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 14:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -4382,14 +4382,14 @@
                                 ]
                             }, 
                             {
-                                "id": 1178, 
-                                "guid": "6cb66785-a5d3-5db8-a4f8-8d45545aa9cb", 
+                                "id": 1208, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fd", 
                                 "logo": null, 
                                 "date": "2018-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "1:00", 
                                 "room": "", 
-                                "slug": "35c3-1178-session_blind_navigation_workshops", 
+                                "slug": "35c3-1208-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
                                 "subtitle": "BLEP", 
                                 "track": "self organized sessions", 
@@ -4913,6 +4913,29 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                ]
+                            }
+                        ], 
+                        "Kidspace": [
+                            {
+                                "id": 1213, 
+                                "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1213-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
                                 ]
                             }
                         ]
@@ -9583,16 +9606,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1176, 
-                                "guid": "6e1fbd3d-be6b-597d-b05c-7251c5fd0acb", 
+                                "id": 1209, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168ff", 
                                 "logo": null, 
-                                "date": "2018-12-28T16:10:00+01:00", 
-                                "start": "16:10", 
+                                "date": "2018-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "", 
-                                "slug": "35c3-1176-session_blind_navigation_workshops", 
+                                "slug": "35c3-1209-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
-                                "subtitle": "After-Talk 2", 
+                                "subtitle": "Day 3 TBD", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -9612,16 +9635,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1179, 
-                                "guid": "014682ad-863f-569e-9891-76e5d22f7cc9", 
+                                "id": 1211, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fe", 
                                 "logo": null, 
-                                "date": "2018-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2018-12-28T16:10:00+01:00", 
+                                "start": "16:10", 
                                 "duration": "1:00", 
                                 "room": "", 
-                                "slug": "35c3-1179-session_blind_navigation_workshops", 
+                                "slug": "35c3-1211-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
-                                "subtitle": "Day 3 TBD", 
+                                "subtitle": "After-Talk 2", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -10181,17 +10204,17 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Kidspace": [
                             {
-                                "id": 1200, 
-                                "guid": "36ecd754-96dc-5506-b41a-021f2aa16a0c", 
+                                "id": 1212, 
+                                "guid": "b9703347-bb1b-5c11-87d3-e0dee16f1403", 
                                 "logo": null, 
                                 "date": "2018-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1200-session_elektrobastelei", 
-                                "title": "Elektrobastelei", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1212-session_elektrobastelei_electric_tinkering", 
+                                "title": "Elektrobastelei - electric tinkering", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
@@ -10200,7 +10223,28 @@
                                 "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
                                 "persons": [], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei"
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1214, 
+                                "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1214-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
                                 ]
                             }
                         ], 
@@ -15101,14 +15145,14 @@
                                 ]
                             }, 
                             {
-                                "id": 1177, 
-                                "guid": "e6ab1d0c-6a85-5d0a-9f3b-c0f811e9f054", 
+                                "id": 1210, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168f0", 
                                 "logo": null, 
                                 "date": "2018-12-30T00:00:00+01:00", 
                                 "start": "00:00", 
                                 "duration": "1:00", 
                                 "room": "", 
-                                "slug": "35c3-1177-session_blind_navigation_workshops", 
+                                "slug": "35c3-1210-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
                                 "subtitle": "Day 4 TBD", 
                                 "track": "self organized sessions", 
@@ -15622,7 +15666,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Kidspace": [
                             {
                                 "id": 1199, 
                                 "guid": "3d643d5a-cb73-4278-9bce-c457f9a50e85", 
@@ -15630,9 +15674,9 @@
                                 "date": "2018-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1199-session_elektrobastelei", 
-                                "title": "Elektrobastelei", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1199-session_elektrobastelei_electric_tinkering", 
+                                "title": "Elektrobastelei - electric tinkering", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "", 
@@ -15641,7 +15685,28 @@
                                 "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
                                 "persons": [], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei"
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1215, 
+                                "guid": "20fc93fe-1ea4-5fa8-9c9d-d5752c8a9e41", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1215-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
                                 ]
                             }
                         ], 

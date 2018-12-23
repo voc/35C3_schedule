@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-23 13:50", 
+        "version": "2018-12-23 14:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -669,6 +669,29 @@
                             }
                         ], 
                         "OIO lecture arena": [], 
+                        "Kidspace": [
+                            {
+                                "id": 1213, 
+                                "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1213-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
+                                ]
+                            }
+                        ], 
                         "Lecture room M1": [
                             {
                                 "id": 1029, 
@@ -1565,6 +1588,50 @@
                             }
                         ], 
                         "OIO lecture arena": [], 
+                        "Kidspace": [
+                            {
+                                "id": 1212, 
+                                "guid": "b9703347-bb1b-5c11-87d3-e0dee16f1403", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1212-session_elektrobastelei_electric_tinkering", 
+                                "title": "Elektrobastelei - electric tinkering", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1214, 
+                                "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1214-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
+                                ]
+                            }
+                        ], 
                         "Lecture room M1": [
                             {
                                 "id": 1018, 
@@ -2664,6 +2731,50 @@
                             }
                         ], 
                         "OIO lecture arena": [], 
+                        "Kidspace": [
+                            {
+                                "id": 1199, 
+                                "guid": "3d643d5a-cb73-4278-9bce-c457f9a50e85", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1199-session_elektrobastelei_electric_tinkering", 
+                                "title": "Elektrobastelei - electric tinkering", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, N\u00e4geln, Magneten und kleinen L\u00e4mpchen k\u00f6nnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1215, 
+                                "guid": "20fc93fe-1ea4-5fa8-9c9d-d5752c8a9e41", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1215-session_trickmisch", 
+                                "title": "Trickmisch", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch"
+                                ]
+                            }
+                        ], 
                         "Lecture room M1": [
                             {
                                 "id": 1044, 

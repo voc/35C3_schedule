@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 13:50</version>
+  <version>Columbo 2.1 0.9.12 v1.6.1 0.5 2018-12-23 14:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4309,13 +4309,13 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
         </links>
       </event>
-      <event id="1178" guid="6cb66785-a5d3-5db8-a4f8-8d45545aa9cb">
+      <event id="1208" guid="2ca556b7-b032-4d2a-918d-622739d168fd">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>1:00</duration>
         <room/>
-        <slug>35c3-1178-session_blind_navigation_workshops</slug>
+        <slug>35c3-1208-session_blind_navigation_workshops</slug>
         <title>Blind Navigation Workshops</title>
         <subtitle>BLEP</subtitle>
         <track>self organized sessions</track>
@@ -4751,6 +4751,27 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Kidspace">
+      <event id="1213" guid="27224164-a862-4d0c-8c32-2f5efd3d93cc">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1213-session_trickmisch</slug>
+        <title>Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch</link>
         </links>
       </event>
     </room>
@@ -9366,15 +9387,15 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
         </links>
       </event>
-      <event id="1176" guid="6e1fbd3d-be6b-597d-b05c-7251c5fd0acb">
+      <event id="1209" guid="2ca556b7-b032-4d2a-918d-622739d168ff">
         <logo/>
-        <date>2018-12-28T16:10:00+01:00</date>
-        <start>16:10</start>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
         <duration>1:00</duration>
         <room/>
-        <slug>35c3-1176-session_blind_navigation_workshops</slug>
+        <slug>35c3-1209-session_blind_navigation_workshops</slug>
         <title>Blind Navigation Workshops</title>
-        <subtitle>After-Talk 2</subtitle>
+        <subtitle>Day 3 TBD</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>en</language>
@@ -9389,15 +9410,15 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
         </links>
       </event>
-      <event id="1179" guid="014682ad-863f-569e-9891-76e5d22f7cc9">
+      <event id="1211" guid="2ca556b7-b032-4d2a-918d-622739d168fe">
         <logo/>
-        <date>2018-12-29T00:00:00+01:00</date>
-        <start>00:00</start>
+        <date>2018-12-28T16:10:00+01:00</date>
+        <start>16:10</start>
         <duration>1:00</duration>
         <room/>
-        <slug>35c3-1179-session_blind_navigation_workshops</slug>
+        <slug>35c3-1211-session_blind_navigation_workshops</slug>
         <title>Blind Navigation Workshops</title>
-        <subtitle>Day 3 TBD</subtitle>
+        <subtitle>After-Talk 2</subtitle>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>en</language>
@@ -9875,15 +9896,15 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
-      <event id="1200" guid="36ecd754-96dc-5506-b41a-021f2aa16a0c">
+    <room name="Kidspace">
+      <event id="1212" guid="b9703347-bb1b-5c11-87d3-e0dee16f1403">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
-        <slug>35c3-1200-session_elektrobastelei</slug>
-        <title>Elektrobastelei</title>
+        <room>Kidspace</room>
+        <slug>35c3-1212-session_elektrobastelei_electric_tinkering</slug>
+        <title>Elektrobastelei - electric tinkering</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
@@ -9892,7 +9913,26 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <description>Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, Nägeln, Magneten und kleinen Lämpchen könnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.</description>
         <persons/>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
+        </links>
+      </event>
+      <event id="1214" guid="4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1214-session_trickmisch</slug>
+        <title>Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch</link>
         </links>
       </event>
     </room>
@@ -14534,13 +14574,13 @@ LOVE FREEDOM EVERYTHING</abstract>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
         </links>
       </event>
-      <event id="1177" guid="e6ab1d0c-6a85-5d0a-9f3b-c0f811e9f054">
+      <event id="1210" guid="2ca556b7-b032-4d2a-918d-622739d168f0">
         <logo/>
         <date>2018-12-30T00:00:00+01:00</date>
         <start>00:00</start>
         <duration>1:00</duration>
         <room/>
-        <slug>35c3-1177-session_blind_navigation_workshops</slug>
+        <slug>35c3-1210-session_blind_navigation_workshops</slug>
         <title>Blind Navigation Workshops</title>
         <subtitle>Day 4 TBD</subtitle>
         <track>self organized sessions</track>
@@ -14960,15 +15000,15 @@ LOVE FREEDOM EVERYTHING</abstract>
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
+    <room name="Kidspace">
       <event id="1199" guid="3d643d5a-cb73-4278-9bce-c457f9a50e85">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
-        <slug>35c3-1199-session_elektrobastelei</slug>
-        <title>Elektrobastelei</title>
+        <room>Kidspace</room>
+        <slug>35c3-1199-session_elektrobastelei_electric_tinkering</slug>
+        <title>Elektrobastelei - electric tinkering</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type/>
@@ -14977,7 +15017,26 @@ LOVE FREEDOM EVERYTHING</abstract>
         <description>Wie wird ein Nagel zum Magneten und warum dreht sich ein Elektromotor? Aus Kupferdraht, Nägeln, Magneten und kleinen Lämpchen könnt ihr Stromkreise, Elektromagnete und kleine Motoren bauen und verstehen, was es damit auf sich hat.</description>
         <persons/>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
+        </links>
+      </event>
+      <event id="1215" guid="20fc93fe-1ea4-5fa8-9c9d-d5752c8a9e41">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>4:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1215-session_trickmisch</slug>
+        <title>Trickmisch</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Trickmisch</link>
         </links>
       </event>
     </room>
