@@ -1810,7 +1810,7 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <description>Opening der Chaos-West Stage</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="85">
