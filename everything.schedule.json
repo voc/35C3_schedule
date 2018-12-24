@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 14:50", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 15:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -4982,18 +4982,18 @@
                                 ]
                             }
                         ], 
-                        "Assembly:CCL": [
+                        "Assembly:Blind navigation workshop": [
                             {
-                                "id": 1208, 
-                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fd", 
+                                "id": 1175, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fc", 
                                 "logo": null, 
-                                "date": "2018-12-27T18:00:00+01:00", 
-                                "start": "18:00", 
+                                "date": "2018-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "1:00", 
-                                "room": "Assembly:CCL", 
-                                "slug": "35c3-1208-session_blind_navigation_workshops", 
+                                "room": "Assembly:Blind navigation workshop", 
+                                "slug": "35c3-1175-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
-                                "subtitle": "BLEP", 
+                                "subtitle": "chaotikum", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -5013,16 +5013,16 @@
                                 ]
                             }, 
                             {
-                                "id": 1175, 
-                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fc", 
+                                "id": 1208, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168fd", 
                                 "logo": null, 
-                                "date": "2018-12-27T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
                                 "duration": "1:00", 
-                                "room": "Assembly:CCL", 
-                                "slug": "35c3-1175-session_blind_navigation_workshops", 
+                                "room": "Assembly:Blind navigation workshop", 
+                                "slug": "35c3-1208-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
-                                "subtitle": "chaotikum", 
+                                "subtitle": "BLEP", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -11061,36 +11061,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:CCL": [
-                            {
-                                "id": 1209, 
-                                "guid": "2ca556b7-b032-4d2a-918d-622739d168ff", 
-                                "logo": null, 
-                                "date": "2018-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:CCL", 
-                                "slug": "35c3-1209-session_blind_navigation_workshops", 
-                                "title": "Blind Navigation Workshops", 
-                                "subtitle": "Day 3 TBD", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                                        "public_name": "Saizai"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://s.ai/ccc/ws", 
-                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
-                                ]
-                            }, 
+                        "Assembly:Blind navigation workshop": [
                             {
                                 "id": 1174, 
                                 "guid": "bf6ea8a8-ed96-41bb-9289-39f3f0804435", 
@@ -11098,7 +11069,7 @@
                                 "date": "2018-12-28T15:10:00+01:00", 
                                 "start": "15:10", 
                                 "duration": "1:00", 
-                                "room": "Assembly:CCL", 
+                                "room": "Assembly:Blind navigation workshop", 
                                 "slug": "35c3-1174-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
                                 "subtitle": "After-Talk 1", 
@@ -11127,10 +11098,39 @@
                                 "date": "2018-12-28T17:50:00+01:00", 
                                 "start": "17:50", 
                                 "duration": "1:00", 
-                                "room": "Assembly:CCL", 
+                                "room": "Assembly:Blind navigation workshop", 
                                 "slug": "35c3-1211-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
                                 "subtitle": "After-Talk 2", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
+                                        "public_name": "Saizai"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://s.ai/ccc/ws", 
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
+                                ]
+                            }, 
+                            {
+                                "id": 1209, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168ff", 
+                                "logo": null, 
+                                "date": "2018-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Blind navigation workshop", 
+                                "slug": "35c3-1209-session_blind_navigation_workshops", 
+                                "title": "Blind Navigation Workshops", 
+                                "subtitle": "Day 3 TBD", 
                                 "track": "self organized sessions", 
                                 "type": "hands-on", 
                                 "language": "en", 
@@ -17128,7 +17128,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:CCL": [
+                        "Assembly:Blind navigation workshop": [
                             {
                                 "id": 1210, 
                                 "guid": "2ca556b7-b032-4d2a-918d-622739d168f0", 
@@ -17136,7 +17136,7 @@
                                 "date": "2018-12-30T00:00:00+01:00", 
                                 "start": "00:00", 
                                 "duration": "1:00", 
-                                "room": "Assembly:CCL", 
+                                "room": "Assembly:Blind navigation workshop", 
                                 "slug": "35c3-1210-session_blind_navigation_workshops", 
                                 "title": "Blind Navigation Workshops", 
                                 "subtitle": "Day 4 TBD", 
