@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-24 12:40</version>
+  <version>2018-12-24 13:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -970,6 +970,28 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Artificial_intelligence:_bridging_the_chasm</link>
+        </links>
+      </event>
+      <event id="1251" guid="e6c5d406-c23f-4063-b325-2316a6bc5dc1">
+        <logo/>
+        <date>2018-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1251-session_digital_health_and_patient_data</slug>
+        <title>Digital Health and Patient Data</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Even in healthcare, the analogous age is almost over (even though some of us still have to carry DVDs with X-ray images from one doc to the next). But where will our health data be stored and processed in the future? On Apple's and Amazon's servers? Or is it possible to have independent and privacy-friendly projects in Europe?</description>
+        <persons/>
+        <links>
+          <link>https://www.serapion.de</link>
+          <link>https://www.youtube.com/watch?v=0d-TZfBN4cg</link>
+          <link>https://www.youtube.com/watch?v=OQwgja-TOwg</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Digital_Health_and_Patient_Data</link>
         </links>
       </event>
       <event id="1063" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">

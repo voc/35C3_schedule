@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-24 12:40", 
+        "version": "2018-12-24 13:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1159,6 +1159,30 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Artificial_intelligence:_bridging_the_chasm"
+                                ]
+                            }, 
+                            {
+                                "id": 1251, 
+                                "guid": "e6c5d406-c23f-4063-b325-2316a6bc5dc1", 
+                                "logo": null, 
+                                "date": "2018-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1251-session_digital_health_and_patient_data", 
+                                "title": "Digital Health and Patient Data", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Even in healthcare, the analogous age is almost over (even though some of us still have to carry DVDs with X-ray images from one doc to the next). But where will our health data be stored and processed in the future? On Apple's and Amazon's servers? Or is it possible to have independent and privacy-friendly projects in Europe?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.serapion.de", 
+                                    "https://www.youtube.com/watch?v=0d-TZfBN4cg", 
+                                    "https://www.youtube.com/watch?v=OQwgja-TOwg", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Digital_Health_and_Patient_Data"
                                 ]
                             }, 
                             {

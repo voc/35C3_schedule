@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.6 v1.7 0.5 1.0.2</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 1.0.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18,13 +18,13 @@
         <start>11:00</start>
         <duration>00:30</duration>
         <room>Adams</room>
-        <slug>35c3-9985-opening_ceremony</slug>
-        <title>Opening Ceremony</title>
+        <slug>35c3-9985-opening_event</slug>
+        <title>Opening Event</title>
         <subtitle>35C3: Refreshing Memories</subtitle>
         <track>CCC</track>
         <type>lecture</type>
-        <language>en</language>
-        <abstract/>
+        <language>de</language>
+        <abstract>Hier geht es los.</abstract>
         <description/>
         <recording>
           <license/>
@@ -1275,6 +1275,7 @@ Over the last years at University of Cambridge I contributed to a formal model o
         </persons>
         <links>
           <link href="https://www.cl.cam.ac.uk/~pes20/Netsem/paper3.pdf">Engineering with Logic: Rigorous Test-Oracle Specification and Validation for TCP/IP and the Sockets API</link>
+          <link href="https://github.com/rems-project/netsem">Network Semantics repository</link>
         </links>
         <attachments/>
       </event>
@@ -3995,7 +3996,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type>Präsentationsinsel (alle 3 Tage)</type>
         <language>de</language>
         <abstract>Freifunk temporär für kleine, mittlere und große Veranstaltungen. Freifunk kabelungebunden autark betreiben.</abstract>
-        <description/>
+        <description>Die Präsentation von Freifunk Düren zeigt zwei Dinge, einmal, wie Freifunk für Veranstaltungen angeboten werden kann und wie eine Versorgung ohne Kabelanbindung mit Strom und Mobilfunk möglich ist. Freifunk Düren hat vier Jahre Erfahrungen dazu sammeln können, wie auf Events bis zu 300 Clients versorgt werden und wie praxisnah Sachen funktionieren oder nicht. Ursprünglich war das Equipment groß und schwer. Wir zeigen, wie die Installationen so klein werden können, dass das Kisten schleppen entfällt und der Stromverbrauch so niedrig wird, dass mit Solarzellen kleineren Ausmaßes oder Powerbank der Betrieb funktioniert. Vom handlichen Freifunk2go mit LTE Stick für 30 Clients, um Freifunk in öffentlichen Verkehrsmitteln oder im Park mobil zu realisieren, bis zu einem mobilen LTE Offloader für 300 Clients, werden wir unserer Geräte zeigen. Auch die Aussicht, irgendwann Freifunk auf der Annakirmes anbieten zu können, einem Event in Düren mit bis zu 50.000 Menschen, die gleichzeitig auf dem Kirmesplatz sind, können wir berichten, was dafür benötigt wird. Der Stadt Düren konnten schon erste Vorschläge gemacht werden, die Orientierung dazu ist das WLAN auf dem Congress.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -4047,7 +4048,7 @@ For 35C3 we did some extra analytics and will publish new numbers, how pseudo-ac
       </event>
       <event id="9975" guid="f17d3060-fb3d-4d73-b1e3-8bd5ec4d4d12">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9975.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/975/large/Jahresrueckblick18.png?1545577737</logo>
         <date>2018-12-28T12:50:00+01:00</date>
         <start>12:50</start>
         <duration>02:20</duration>
@@ -4068,6 +4069,7 @@ For 35C3 we did some extra analytics and will publish new numbers, how pseudo-ac
           <person id="3995">Linus Neumann</person>
           <person id="1630">Constanze Kurz</person>
           <person id="1633">frank</person>
+          <person id="1544">erdgeist</person>
         </persons>
         <links/>
         <attachments/>
@@ -4125,11 +4127,11 @@ More than 10,000 different device manufacturers from all over the world use the 
 The analysis of this base shows considerable security deficiencies, also of a conceptual nature, and thus various points of attack, which affects millions of smart devices.&#13;
 The lecture will present the functionality of smart devices in relation with the above-mentioned basic platform, show the extent of the security gaps using various attack scenarios and offer the community a solution for the secure use of the affected devices.</abstract>
         <description>GERMAN:&#13;
-Für die dem Vortrag zu Grunde liegenden Tests wurden verschiedenste Glühbirnen und Steckdosen verschiedener Hersteller bei amazon.de bestellt und untersucht. Dabei fiel sofort auf, dass sehr oft ein ESP8266 (sehr kostengünstiger 32-Bit-Mikrocontroller mit integriertem 802.11 b/g/n Wi-Fi) der chinesischen Firma espressif verwendet wird.&#13;
+Für die dem Vortrag zu Grunde liegenden Tests wurden verschiedenste Glühbirnen und Steckdosen verschiedener Hersteller bestellt und untersucht. Dabei fiel sofort auf, dass sehr oft ein ESP8266 (sehr kostengünstiger 32-Bit-Mikrocontroller mit integriertem 802.11 b/g/n Wi-Fi) der chinesischen Firma espressif verwendet wird.&#13;
 Weitere Untersuchungen zeigten, dass neben dem verwendeten WIFI-Modul, unabhängig vom aufgedruckten Hersteller der Smart-Devices, auch dieselbe Cloud, sowie die gleiche Basis-App eines chinesischen IoT-Modul-Herstellers verwendet wird. &#13;
 Diese Basis-Plattform ermöglicht somit jedem weltweit in kürzester Zeit selbst zum Reseller von bereits fertigen Produkten, wie „Smart Bulbs“ und „Smart Plugs“ zu werden, oder seine ganz eigenen Smart-Devices auf den Markt zu bringen, auch ohne den Besitz tieferer technischer Kenntnisse bezüglich IoT oder IT-Sicherheit.&#13;
 &#13;
-Die Analyse der "Smart"-Devices, die diese Basis-Plattform verwenden, ist allgemein erschreckend. Einfachste Sicherheitsregeln werden nicht befolgt und es gibt gravierende systematische und konzeptionelle Mängel, die stark zu Lasten der Sicherheit der Endanwender gehen. Aufgrund der einfachen Möglichkeit des Bezugs und Inverkehrbringens solcher Smart-Devices (z.B. über Amazon) sind ganz neuartige kriminelle Konzepte denkbar, die auch ohne großes Experten-Hacker-Wissen in die Tat umgesetzt werden könnten.&#13;
+Die Analyse der "Smart"-Devices, die diese Basis-Plattform verwenden, ist allgemein erschreckend. Einfachste Sicherheitsregeln werden nicht befolgt und es gibt gravierende systematische und konzeptionelle Mängel, die stark zu Lasten der Sicherheit der Endanwender gehen. Aufgrund der einfachen Möglichkeit des Bezugs und Inverkehrbringens solcher Smart-Devices sind ganz neuartige kriminelle Konzepte denkbar, die auch ohne großes Experten-Hacker-Wissen in die Tat umgesetzt werden könnten.&#13;
 &#13;
 Der Vortrag stellt die Funktionsweise der untersuchten smarten Geräte im Zusammenhang mit der verwendeten Basis-Plattform dar und zeigt das Ausmaß der Sicherheitslücken anhand diverser Angriffsszenarien.&#13;
 Abschließend wird eine Lösung des Sicherheitsdilemmas bei der Verwendung betroffener Smart-Devices angeboten, welche die sichere Nutzung dieser Geräte im eigenen Zuhause, auch für Nichtexperten, möglich macht.&#13;
@@ -4137,11 +4139,11 @@ Abschließend wird eine Lösung des Sicherheitsdilemmas bei der Verwendung betro
 &#13;
 &#13;
 ENGLISH:&#13;
-For the tests on which the lecture is based, various light bulbs and sockets from different manufacturers were ordered from amazon.de and tested. It was immediately noticed that an ESP8266 (very cost-effective 32-bit microcontroller with integrated 802.11 b/g/n Wi-Fi) from the Chinese company espressif is very often used.&#13;
+For the tests on which the lecture is based, various light bulbs and sockets from different manufacturers were ordered  and tested. It was immediately noticed that an ESP8266 (very cost-effective 32-bit microcontroller with integrated 802.11 b/g/n Wi-Fi) from the Chinese company espressif is very often used.&#13;
 Further investigations showed that the same cloud and the same basic app from a Chinese IoT module manufacturer are used in addition to the WIFI module used, regardless of the printed manufacturer of the smart devices. &#13;
 This basic platform gives anyone worldwide the possibility to become a reseller of already finished products, such as "Smart Bulbs" and "Smart Plugs", or to bring their own smart devices onto the market in the shortest possible time, even without having in-depth technical knowledge of IoT or IT security.&#13;
 &#13;
-The analysis of the "smart" devices using this basic platform is generally frightening. The simplest security rules are not followed and there are serious systematic and conceptual shortcomings, which strongly affect the security of end users. Due to the simple possibility of obtaining and placing such smart devices on the market (e.g. via Amazon), completely new criminal concepts are conceivable that could be put into practice even without a great deal of expert hacker knowledge.&#13;
+The analysis of the "smart" devices using this basic platform is generally frightening. The simplest security rules are not followed and there are serious systematic and conceptual shortcomings, which strongly affect the security of end users. Due to the simple possibility of obtaining and placing such smart devices on the market, completely new criminal concepts are conceivable that could be put into practice even without a great deal of expert hacker knowledge.&#13;
 &#13;
 The talk presents the functionality of the examined smart devices in relation with the basic platform and shows the extent of the security gaps on the basis of various attack scenarios.&#13;
 Finally, a solution to the security dilemma of using affected smart devices is offered, which makes it possible for even non-experts to safely use these devices in their own homes.</description>
@@ -4613,7 +4615,7 @@ We see how the hacker culture meets these challenges and what inner contradictio
           <person id="8745">Thies Mynther</person>
         </persons>
         <links>
-          <link href="www.allcreatureswelcome.net">Movie Page</link>
+          <link href="http://www.allcreatureswelcome.net">Movie Page</link>
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/622/original/ACW_Poster_KI_Regenbogen_digital.jpg?1542289809">Poster</attachment>
@@ -5094,39 +5096,6 @@ Tag plz: #BlindNavigation @saizai #35c3</abstract>
         </links>
         <attachments/>
       </event>
-      <event id="9648" guid="e66cded3-7336-42bd-a7c8-d77073465ad2">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9648.html</url>
-        <logo>/system/events/logos/000/009/648/large/CCC_title.jpg?1539521954</logo>
-        <date>2018-12-28T16:10:00+01:00</date>
-        <start>16:10</start>
-        <duration>01:00</duration>
-        <room>Dijkstra</room>
-        <slug>35c3-9648-micropython_python_for_microcontrollers</slug>
-        <title>MicroPython – Python for Microcontrollers</title>
-        <subtitle>How high-level scripting languages make your hardware project beautifuly easy</subtitle>
-        <track>Hardware &amp; Making</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.&lt;br&gt;&#13;
-This talk will give an overview about the MicroPython hard- and software and introduces the community.</abstract>
-        <description>MicroPython is an Open Source project and developed in the open on GitHub. With more than 7000 stars, it ranks in the top 100 of the most popular C/C++ projects.&lt;br&gt;&#13;
-The MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.&lt;br&gt;&#13;
-MicroPython is packed full of advanced features such as an interactive prompt, arbitrary precision integers, closures, list comprehension, generators, exception handling and more. Yet it is compact enough to fit and run within just 256k of code space and 16k of RAM.&lt;br&gt;&#13;
-MicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.&lt;br&gt;&#13;
-It's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Thins into space applications.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="8135">Christine Spindler</person>
-        </persons>
-        <links>
-          <link href="micropython.org">MicroPython Website</link>
-          <link href="github.com/micropython">MicroPython on Git</link>
-        </links>
-        <attachments/>
-      </event>
       <event id="9526" guid="623e136b-1ac6-4ef3-8152-d55cfcc80268">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9526.html</url>
         <logo>/system/events/logos/000/009/526/large/SOUNDCLOUD.jpg?1539001057</logo>
@@ -5136,11 +5105,11 @@ It's used by educators, makers and professional hard- and software developers ar
         <room>Dijkstra</room>
         <slug>35c3-9526-never_forgetti</slug>
         <title>Never Forgetti</title>
-        <subtitle/>
+        <subtitle>a didactic live-gaming performance about dying women across video game history</subtitle>
         <track>Art &amp; Culture</track>
         <type>performance</type>
         <language>en</language>
-        <abstract>a didactic live-gaming performance about dying women across video game history</abstract>
+        <abstract/>
         <description>Never Forgetti &lt;br&gt;&#13;
 lecture performance, 2018 &lt;br&gt;&#13;
 multiplatform game, &lt;br&gt;&#13;
@@ -5445,7 +5414,7 @@ III.v Parallels between hacking and urbanism</description>
         <language>en</language>
         <abstract>This talk will share the experience of a leading African extended reality lab - Imisi 3D. It will highlight this African journey to adopt augmented and virtual reality, the challenges and lessons learned and will then focus on some of the arts and culture use cases that have emerged so far. In particular we will explore the collaboration with the IAF Basel festival (organisers of the Contemporary Africa Photography prize) that resulted in Reality Check, a simultaneous virtual reality tour of Lagos and Basel.&#13;
 </abstract>
-        <description>coming...</description>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5545,10 +5514,10 @@ Wir entwickeln ein völlig freies quelloffenes Hardware- und Software-Design fü
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Beim Datenschutz geht es mitnichten um Privatsphäre, um das eigene Schlafzimmer oder um das Teilen privater Daten bei Facebook. Es geht gleichermaßen um den Erhalt einer demokratischen Gesellschaftsordnung wie um den Erhalt von individuellen Handlungsalternativen im digitalen Zeitalter. Wir dürfen also nicht so sehr über Einzelpersonen und ihre höchst subjektiven Privatheitswünsche sprechen, sondern viel mehr von Machtasymmetrien, Durchsetzungsmacht, sowie „starken“ und „schwachen“ Akteuren.&#13;
+        <abstract>Beim Datenschutz geht es mitnichten um Privatsphäre, um das eigene Schlafzimmer oder um das Teilen privater Daten bei Facebook. Es geht gleichermaßen um den Erhalt einer demokratischen Gesellschaftsordnung wie um den Erhalt individueller Handlungsalternativen im digitalen Zeitalter. Wir dürfen also nicht so sehr über Einzelpersonen und ihre höchst subjektiven Privatheitswünsche sprechen, sondern viel mehr von Machtasymmetrien, Durchsetzungsmacht, sowie „starken“ und „schwachen“ Akteuren.</abstract>
+        <description>Erst mit diesem strukturellen Blick können wir politischen Nebelkerzen wie "Selbst-Datenschutz", "Dateneigentum", "individuelle Datensouveränität" oder etwa "Algorithmen-Ethik" etwas entgegensetzen, die zunehmend als Lösung für das Problem der Verdatung der Gesellschaft angeboten werden. Wir müssen uns strukturell und auch theoretisch mit dem Problem der Informationsmacht großer Organisationen (Behörden, Firmen) beschäftigen, wenn wir einer grundrechtsorientierten digitalen Gesellschaft leben wollen. Denn Datenreichtumsbefürworter- und DatenschutzverächterInnen, die derartige Probleme wie so oft dem Individuum aufbürden wollen, haben nämlich keinen theoretischen Unterbau.&#13;
 &#13;
-Erst dann können wir politischen Nebelkerzen wie "Selbst-Datenschutz", "Dateneigentum", "individuelle Datensouveränität" oder etwa "Algorithmen-Ethik" etwas entgegensetzen, die zunehmend als Lösung für Verdatung der Gesellschaft angeboten werden. Doch wir müssen uns strukturell und auch theoretisch mit dem Problem der Informationsmacht großer Organisationen (Behörden, Firmen) beschäftigen, wenn wir einer grundrechtsorientierten digitalen Gesellschaft leben wollen. Datenreichtumsbefürworter- und DatenschutzverächterInnen, die derartige Probleme wie so oft dem Individuum aufbürden wollen, haben nämlich keinen theoretischen Unterbau. Dieser Foundation-Talk vermittelt passioniert das Rüstzeug und die nötigen Grundlagen, um tatsächlich sinnvolle Datenschutzbebatten zu führen.</abstract>
-        <description/>
+Dieser Foundation-Talk vermittelt passioniert das Rüstzeug und die nötigen Grundlagen, um tatsächlich sinnvolle Datenschutzbebatten zu führen.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5572,26 +5541,26 @@ Erst dann können wir politischen Nebelkerzen wie "Selbst-Datenschutz", "Datenei
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>de</language>
-        <abstract>Datenreichtum, Massenüberwachung und andere netzpolitische Schauplätze in der Schweiz</abstract>
+        <abstract>Datenreichtum, E-Voting, Massenüberwachung und andere netzpolitische Schauplätze in der Schweiz</abstract>
         <description>Der Kampf um die Freiheit im digitalen Raum wird auch in der Schweiz intensiver. Wir blicken auf das netzpolitische Jahr 2018 in der Schweiz zwischen Bodensee und Matterhorn zurück. Wir behandeln jene Themen, die relevant waren und relevant bleiben. Weiter zeigen wir, was von der Digitalen Gesellschaft in der Schweiz im neuen Jahr zu erwarten ist.&#13;
 &#13;
 &lt;strong&gt;Themen sind unter anderem:&lt;/strong&gt;&#13;
 &#13;
-&lt;strong&gt;Massenüberwachung:&lt;/strong&gt; Kabelaufklärung und Vorratsdatenspeicherung sowie die Beschwerden, welche die Digitale Gesellschaft führt&#13;
+&lt;strong&gt;Massenüberwachung:&lt;/strong&gt; Kabelaufklärung und Vorratsdatenspeicherung sowie die Beschwerden, welche die Digitale Gesellschaft in der Schweiz führt.&#13;
 &#13;
-&lt;strong&gt;E-Voting:&lt;/strong&gt; Abstimmungen und Wahlen im Internet sowie der Kampf für das Vertrauen in die Direkte Demokratie in der Schweiz&#13;
+&lt;strong&gt;E-Voting:&lt;/strong&gt; Abstimmungen und Wahlen im Internet sowie der Kampf für das Vertrauen in die Direkte Demokratie in der Schweiz.&#13;
 &#13;
 &lt;strong&gt;Netzsperren:&lt;/strong&gt; Die Zensur im schweizerischen Internet begann mit «Denkt denn niemand an die Kinder?» und geht nun mit Geldspielen im Internet weiter …&#13;
 &#13;
-&lt;strong&gt;Urheberrecht:&lt;/strong&gt; Wie die USA im «Piratenstaat» Schweiz ihre Forderungen durchsetzen, unter anderem Massenabmahnungen gegen Filesharing&#13;
+&lt;strong&gt;Urheberrecht:&lt;/strong&gt; Wie die USA im «Piratenstaat» Schweiz ihre Forderungen durchsetzen, unter anderem mit Massenabmahnungen gegen Filesharing.&#13;
 &#13;
 &lt;strong&gt;Datenschutz:&lt;/strong&gt; Wo war in der Schweiz besonders viel «Datenreichtum» zu beobachten?&#13;
 &#13;
-&lt;strong&gt;Digitale Gesellschaft in der Schweiz:&lt;/strong&gt; Razzia am «Hort der Linksextremen», Winterkongress und andere Aktivitäten&#13;
+&lt;strong&gt;Digitale Gesellschaft in der Schweiz:&lt;/strong&gt; Razzia am «Hort der Linksextremen», Winterkongress und andere Aktivitäten.&#13;
 &#13;
 Nach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion an einem Workshop der Digitalen Gesellschaft fortzusetzen. Es werden Aktivisten von verschiedenen aktiven Organisationen der Netzpolitik in der Schweiz anwesend sein (Digitale Gesellschaft, CCC-CH, CCCZH, Piratenpartei Schweiz, Digitale Allmend).&#13;
 &#13;
-https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk</description>
+&lt;a href="https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk"&gt;https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk&lt;/a&gt;</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5601,7 +5570,9 @@ https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_
           <person id="6351">Patrick "packi" Stählin</person>
           <person id="7723">Kire</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://www.digitale-gesellschaft.ch">Digitale Gesellschaft in der Schweiz</link>
+        </links>
         <attachments/>
       </event>
       <event id="9492" guid="86b96f3f-a6b5-49c0-a189-69912c016916">
@@ -5652,7 +5623,7 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
         <type>lecture</type>
         <language>en</language>
         <abstract>Through the hacking of surveillance techniques, machine learning, and big-data analytics, DISNOVATION.ORG’s trilogy of internet bots is uncovering and repurposing some of the influential and opaque operating systems of our online environment. </abstract>
-        <description>Through the hacking of surveillance techniques, machine learning, and big-data analytics, DISNOVATION.ORG’s trilogy of internet bots is uncovering and repurposing some of the influential and opaque operating systems of our online environment. Started in 2012 with The Pirate Cinema (exposing the dynamics of peer-to-peer media sharing and its materiality), followed by Predictive Art Bot (a disruption of the normative effects of social media on creativity), and continued with Computational Propaganda (a ‘system test’ of the online political influence apparatus), this series explores black box technologies and the algorithmic governance of our aspirations, decisions, and political views. These three artworks aim to reveal emergent algorithmic imaginaries, expose the inner workings of these systems, and stimulate critical debate.</description>
+        <description>Started in 2012 with The Pirate Cinema (exposing the dynamics of peer-to-peer media sharing and its materiality), followed by Predictive Art Bot (a disruption of the normative effects of social media on creativity), and continued with Computational Propaganda (a ‘system test’ of the online political influence apparatus), this series explores black box technologies and the algorithmic governance of our aspirations, decisions, and political views. These three artworks aim to reveal emergent algorithmic imaginaries, expose the inner workings of these systems, and stimulate critical debate.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -5661,9 +5632,9 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
           <person id="8671">DISNOVATION.ORG</person>
         </persons>
         <links>
-          <link href="disnovation.org">DISNOVATION.ORG Art Collective</link>
-          <link href="predictiveartbot.com">Predictive Art Bot</link>
-          <link href="thepiratecinema.com">The Pirate Cinema</link>
+          <link href="https://disnovation.org">DISNOVATION.ORG Art Collective</link>
+          <link href="http://predictiveartbot.com">Predictive Art Bot</link>
+          <link href="https://thepiratecinema.com">The Pirate Cinema</link>
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/595/original/pab_v4_web.jpg?1539643475">Predictive Art Bot | Online artwork view</attachment>
@@ -8702,16 +8673,14 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
         <start>23:50</start>
         <duration>00:40</duration>
         <room>Borg</room>
-        <slug>35c3-9941-shadow_profiles_gdpr_nightmares_and_third_party_tracking_in_android</slug>
-        <title>Shadow profiles, GDPR nightmares and third party tracking in Android</title>
-        <subtitle/>
+        <slug>35c3-9941-how_facebook_tracks_you_on_android</slug>
+        <title>How Facebook tracks you on Android</title>
+        <subtitle>(even if you don’t have a Facebook account)</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>&lt;p&gt;Not on Facebook? Well Facebook could still have created a shadow profile for you!&lt;/p&gt;&#13;
-&#13;
-&lt;p&gt;Privacy International has been analysing the potential ways in which Facebook can profile individuals who are not Facebook users (so called shadow profiles), including through Android apps which implement the Facebook SDK.&lt;/p&gt;</abstract>
-        <description>&lt;p&gt;In this talk, we’re looking at shadow profiles and third party tracking on Android. We’ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook  information about your device and usage patterns. We’ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of their users.&lt;/p&gt;</description>
+        <abstract>&lt;p&gt;In this talk, we’re looking at third party tracking on Android. We’ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook  information about your device and usage patterns - the second the app is opened. We’ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of their users.&lt;/p&gt;</abstract>
+        <description>&lt;p&gt;In this talk, we’re looking at third party tracking on Android. We’ve captured and decrypted data in transit between our own devices and Facebook servers. It turns out that some apps routinely send Facebook  information about your device and usage patterns - the second the app is opened. We’ll walk you through the technical part of our analysis and end with a call to action: We believe that both Facebook and developers can do more to avoid oversharing, profiling and damaging the privacy of their users.&lt;/p&gt;</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8765,12 +8734,12 @@ This session could be helpful both for people interested in getting into the sec
         <start>12:50</start>
         <duration>01:00</duration>
         <room>Clarke</room>
-        <slug>35c3-9664-how_light_in_the_antarctic_ice_unveiled_the_first_cosmic_particle_accelerator</slug>
-        <title>How light in the Antarctic Ice unveiled the first cosmic particle accelerator</title>
-        <subtitle>About the Texas Blazar and Multi-Messenger Astrophysics</subtitle>
+        <slug>35c3-9664-kosmische_teilchenbeschleuniger_und_ihre_spuren_in_der_antarktis</slug>
+        <title>Kosmische Teilchenbeschleuniger und ihre Spuren in der Antarktis</title>
+        <subtitle>Über die Identifikation des ersten kosmischen Teilchenbeschleunigers und den Start einer neuen Ära in der Multimessenger-Astronomie</subtitle>
         <track>Science</track>
         <type>lecture</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>On September 17th 2017 the blazar TXS0506+056, a gigantic particle accelerator driven by the super-massive black hole at the center of its host galaxy, emitted a large number of weakly interacting elementary particles, known as neutrinos. One of these particles found its way to Earth and interacted with water molecules in the South-Antarctic Ice Sheet. Fortunately, the IceCube Observatory, a cubic kilometer of instrumented ice recorded a track of light that pointed directly back to its origin, unlike many other neutrinos captured in the past. This event, called IceCube-170922A writes history, since for the first time a concrete astrophysical object can be associated to the origin of this neutrino and thus the presence of strongly accelerated, interacting matter. A second look at the data recorded in 2014-2015 confirmed that the blazar has indeed periods of high-neutrino emission, strengthening the confidence in the 2017 event to be a real discovery and great success for Multi-Messenger Astrophysics.</abstract>
         <description>As discovered by Victor Hess already in 1912, there are particles impinging the Earth’s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  &#13;
 &#13;
@@ -8783,6 +8752,39 @@ In this lecture, we will aim to explain what motivates mankind to build complex 
           <person id="7409">Anni</person>
         </persons>
         <links/>
+        <attachments/>
+      </event>
+      <event id="9648" guid="e66cded3-7336-42bd-a7c8-d77073465ad2">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9648.html</url>
+        <logo>/system/events/logos/000/009/648/large/CCC_title.jpg?1539521954</logo>
+        <date>2018-12-29T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>01:00</duration>
+        <room>Clarke</room>
+        <slug>35c3-9648-micropython_python_for_microcontrollers</slug>
+        <title>MicroPython – Python for Microcontrollers</title>
+        <subtitle>How high-level scripting languages make your hardware project beautifuly easy</subtitle>
+        <track>Hardware &amp; Making</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract>MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.&lt;br&gt;&#13;
+This talk will give an overview about the MicroPython hard- and software and introduces the community.</abstract>
+        <description>MicroPython is an Open Source project and developed in the open on GitHub. With more than 7000 stars, it ranks in the top 100 of the most popular C/C++ projects.&lt;br&gt;&#13;
+The MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.&lt;br&gt;&#13;
+MicroPython is packed full of advanced features such as an interactive prompt, arbitrary precision integers, closures, list comprehension, generators, exception handling and more. Yet it is compact enough to fit and run within just 256k of code space and 16k of RAM.&lt;br&gt;&#13;
+MicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.&lt;br&gt;&#13;
+It's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Thins into space applications.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8135">Christine Spindler</person>
+        </persons>
+        <links>
+          <link href="micropython.org">MicroPython Website</link>
+          <link href="github.com/micropython">MicroPython on Git</link>
+        </links>
         <attachments/>
       </event>
       <event id="9346" guid="7ee42591-4f4d-481d-884b-44f5e18e1803">
@@ -9195,7 +9197,7 @@ Wir berichten vom Ablauf eines solchen Prozesses inklusive Anekdoten, weisen auf
       </event>
       <event id="9573" guid="07f5d97a-161c-4435-abad-6ef08107df15">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9573.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/573/large/photo_2018-12-21_13-24-19.jpg?1545395075</logo>
         <date>2018-12-29T19:10:00+01:00</date>
         <start>19:10</start>
         <duration>00:40</duration>
@@ -9507,7 +9509,7 @@ This talk will discuss the technologies used and the challenges encountered in d
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="8389">maxb</person>
+          <person id="8389">Maximilian Burkhardt</person>
         </persons>
         <links/>
         <attachments/>
@@ -12322,13 +12324,13 @@ Last, we show a new attack where any Nexus 5 connecting to or being connected by
         <start>17:10</start>
         <duration>01:00</duration>
         <room>Adams</room>
-        <slug>35c3-9986-closing_ceremony</slug>
-        <title>Closing Ceremony</title>
+        <slug>35c3-9986-closing_event</slug>
+        <title>Closing Event</title>
         <subtitle/>
         <track>CCC</track>
         <type>lecture</type>
-        <language>en</language>
-        <abstract/>
+        <language>de</language>
+        <abstract>Hier hört es auf.</abstract>
         <description/>
         <recording>
           <license/>
@@ -12466,7 +12468,7 @@ If you'd like to know more, check out www.eyeskills.org and come along to this t
       </event>
       <event id="9768" guid="75b955c7-3e7c-463d-9d31-5b1e1745a5b2">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9768.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/768/large/0865eb00acd7dc00c592fd205d3f93de_preview_featured.jpg?1545500740</logo>
         <date>2018-12-30T12:50:00+01:00</date>
         <start>12:50</start>
         <duration>01:00</duration>
