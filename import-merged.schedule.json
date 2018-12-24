@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.4 v1.7 0.5 1.0.2", 
+        "version": "Columbo 3 1.5 v1.7 0.5 1.0.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6141,6 +6141,37 @@
                             }
                         ], 
                         "ChaosZone": [
+                            {
+                                "id": 719, 
+                                "guid": "d1903628-4268-5647-9e46-6515297f53e7", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:30:00+00:00", 
+                                "start": "14:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "QX9NBX", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/QX9NBX", 
+                                "title": "Datenguide: Hacking the statistics office!", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "With our project [Datenguide](https://datengui.de), we work on making official statistics data more accessible to normal people. In this session we'll explain why and how we do it.", 
+                                "description": "Official statistics are statistics published by government agencies and other public bodies, usually about economic, environmental, and societal topics. They are commonly used by policy makers and public administrators but are also an important tool for journalists and civil society initiatives. Official statistics can be used for political reporting, for debunking misinformation and \"fake news\", and for lobbying for social change.\r\n\r\nThe good news is that official statistics are open data, so at least in theory anyone can download and use them for whatever they like. The bad news is that official statistics are usually made and published by bureaucrats for other bureaucrats. German official statistics are hidden in ancient data portal software and are notorious for being hard to use and to understand. \r\n\r\n[Datenguide](https://datengui.de) is a civic tech initiative that aims to make German official statistics accessible to everyone. We work on [Python and JavaScript tools](https://github.com/datenguide/datenguide) for freeing official statistics data and organize events to help people use them. In this talk, we'll give an overview of the technology we are building, explain the problems we are facing, and talk about ways to contribute to the project.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 24, 
+                                        "name": "Simon Jockers", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 710, 
                                 "guid": "45c95b37-47c3-5a75-b6ef-85d6356e2063", 
