@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-24 01:40", 
+        "version": "2018-12-24 02:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2603,7 +2603,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Bondage f\u00fcr Anf\u00e4nger, keine Vorkenntnisse erforderlich.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy", 
+                                        "public_name": "Lil-Missy"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger"
                                 ]

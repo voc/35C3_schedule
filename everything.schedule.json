@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 01:40", 
+        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 02:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5272,7 +5272,7 @@
                                 "title": "Scrappy circuits", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "hands-on", 
+                                "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!", 
@@ -10904,7 +10904,7 @@
                                 "title": "Scrappy circuits", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "hands-on", 
+                                "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!", 
@@ -13254,7 +13254,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Bondage f\u00fcr Anf\u00e4nger, keine Vorkenntnisse erforderlich.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy", 
+                                        "public_name": "Lil-Missy"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger"
                                 ]

@@ -6913,7 +6913,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lil-Missy", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger"
         ], 
@@ -9796,7 +9804,7 @@
             "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
@@ -9849,7 +9857,7 @@
             "Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!"
         ], 
         "Has session type": [
-            "Hands-On"
+            "Workshop"
         ], 
         "Has session location": [
             {
