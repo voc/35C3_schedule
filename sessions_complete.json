@@ -4600,6 +4600,57 @@
             }
         ]
     }, 
+    "Session:Energy and Environment \u2013 An Open Discussion# 64178ce9ce0d82686f6c97ae52703703": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A discussion about different methods of gaining usable energy and their safety for people and the environment."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Phasenraum", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Phasenraum", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Energy and Environment \u2013 An Open Discussion"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "b6ace07c-9bef-450c-af57-7484863242d4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Energy_and_Environment_%E2%80%93_An_Open_Discussion", 
+        "Has end time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ]
+    }, 
     "Session:Ethereum Magicians gathering# 74c3a8409a20f75c4e020abdda1e3b91": {
         "Held in language": [
             "en - English"
@@ -9666,7 +9717,7 @@
             }
         ]
     }, 
-    "Session:Powerplant hackathon intro session# 47f3901ddea8170ae41e824f968abc20": {
+    "Session:Powerplant hackathon intro session# 17202caae425b33ede366d763139259e": {
         "Held in language": [
             "en - English"
         ], 
@@ -9688,7 +9739,15 @@
         "Has session type": [
             "Hands-On"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Eco Hacker Farm", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Eco_Hacker_Farm", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [
             "intro to the hackathon to be held on day 2"
         ], 
