@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.3 v1.7 0.5 1.0.1</version>
+  <version>Columbo 3 1.4 v1.7 0.5 1.0.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2510,6 +2510,36 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
           <person id="8">
             <name>frlan</name>
             <biography>Linux-Admin, Freie Software-Aktivist, Entwickler. Kurz gesagt: Klischee pur.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="720" guid="11077242-300d-582f-8060-d711bf9072a3">
+        <logo/>
+        <date>2018-12-27T16:00:00+00:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>GEBZBY</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/GEBZBY</url>
+        <title>Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="25">
+            <name>Nicolas North</name>
+            <biography>Founder at openspace, the new hackerspace in Milano, Italia.&#13;
+systems automation enthusiast and developer.</biography>
           </person>
         </persons>
         <links/>

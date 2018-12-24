@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.3 v1.7 0.5 1.0.1 2018-12-24 01:00", 
+        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 01:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -3247,6 +3247,37 @@
                                         "id": 8, 
                                         "name": "frlan", 
                                         "biography": "Linux-Admin, Freie Software-Aktivist, Entwickler. Kurz gesagt: Klischee pur.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 720, 
+                                "guid": "11077242-300d-582f-8060-d711bf9072a3", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+00:00", 
+                                "start": "16:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GEBZBY", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GEBZBY", 
+                                "title": "Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 25, 
+                                        "name": "Nicolas North", 
+                                        "biography": "Founder at openspace, the new hackerspace in Milano, Italia.\r\nsystems automation enthusiast and developer.", 
                                         "answers": []
                                     }
                                 ], 
