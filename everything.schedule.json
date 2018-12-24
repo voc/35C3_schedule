@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:20", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2636,6 +2636,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch"
+                                ]
+                            }, 
+                            {
+                                "id": 1261, 
+                                "guid": "905bb142-6b89-40bb-acf3-8b0e2da65f03", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1261-session_djchen", 
+                                "title": "DJchen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Kids DJ-Workshop", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen"
                                 ]
                             }, 
                             {
@@ -8509,6 +8530,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1263, 
+                                "guid": "5438affe-16a5-4310-b00f-7d4d30484b4d", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1263-session_modulare_synthesizer_for_kids", 
+                                "title": "Modulare synthesizer for kids", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "A chaotic introduction to the world of modular synthesis. For children from 12 years old.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids"
                                 ]
                             }, 
                             {
@@ -14944,6 +14986,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1260, 
+                                "guid": "a025b8da-d323-4561-9c02-1b0176abcf80", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1260-session_djchen", 
+                                "title": "DJchen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Kids DJ-Workshop", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen"
+                                ]
+                            }, 
+                            {
                                 "id": 1199, 
                                 "guid": "3d643d5a-cb73-4278-9bce-c457f9a50e85", 
                                 "logo": null, 
@@ -14962,6 +15025,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
+                                ]
+                            }, 
+                            {
+                                "id": 1262, 
+                                "guid": "adcfe051-dd11-4016-93f3-9f75d99acc6f", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1262-session_modulare_synthesizer_for_kids", 
+                                "title": "Modulare synthesizer for kids", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "A chaotic introduction to the world of modular synthesis. For children from 12 years old.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids"
                                 ]
                             }, 
                             {

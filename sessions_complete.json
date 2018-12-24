@@ -4052,6 +4052,138 @@
             }
         ]
     }, 
+    "Session:DJchen# 0f2094d5cb2bc1090e4c4112c54e9abd": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Kids DJ-Workshop"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJchen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "a025b8da-d323-4561-9c02-1b0176abcf80"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen", 
+        "Has end time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ]
+    }, 
+    "Session:DJchen# 974caa19d2b4d63537aec38dfe537236": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Kids DJ-Workshop"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJchen"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "a025b8da-d323-4561-9c02-1b0176abcf80"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen", 
+        "Has end time": []
+    }, 
+    "Session:DJchen# b02d6051f93f63f9bb9207c95c8d22d0": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545935400", 
+                "raw": "1/2018/12/27/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Kids DJ-Workshop"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJchen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "905bb142-6b89-40bb-acf3-8b0e2da65f03"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen", 
+        "Has end time": [
+            {
+                "timestamp": "1545942600", 
+                "raw": "1/2018/12/27/20/30/0/0"
+            }
+        ]
+    }, 
     "Session:Datenschleuder-Treffen# 6ec69bd6387b388eaf4e31ca2c5b6c61": {
         "Held in language": [
             "de - German"
@@ -8593,6 +8725,110 @@
             {
                 "timestamp": "1546110000", 
                 "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Modulare synthesizer for kids# a58c0fb73f2577eb98f3da75c5dc2155": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A chaotic introduction to the world of modular synthesis. For children from 12 years old."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Modulare synthesizer for kids"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "adcfe051-dd11-4016-93f3-9f75d99acc6f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids", 
+        "Has end time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Modulare synthesizer for kids# cc60d8f2e3f1ecfd5da89e790850a0d2": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A chaotic introduction to the world of modular synthesis. For children from 12 years old."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Modulare synthesizer for kids"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5438affe-16a5-4310-b00f-7d4d30484b4d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids", 
+        "Has end time": [
+            {
+                "timestamp": "1546000200", 
+                "raw": "1/2018/12/28/12/30/0/0"
             }
         ]
     }, 

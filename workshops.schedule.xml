@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-24 23:20</version>
+  <version>2018-12-24 23:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -575,6 +575,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
+        </links>
+      </event>
+      <event id="1261" guid="905bb142-6b89-40bb-acf3-8b0e2da65f03">
+        <logo/>
+        <date>2018-12-27T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>2:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1261-session_djchen</slug>
+        <title>DJchen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Kids DJ-Workshop</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen</link>
         </links>
       </event>
       <event id="1216" guid="0beb6543-cc8a-46d8-a59a-12dea4a66ac7">
@@ -1503,6 +1522,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
+        </links>
+      </event>
+      <event id="1263" guid="5438affe-16a5-4310-b00f-7d4d30484b4d">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1263-session_modulare_synthesizer_for_kids</slug>
+        <title>Modulare synthesizer for kids</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A chaotic introduction to the world of modular synthesis. For children from 12 years old.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids</link>
         </links>
       </event>
       <event id="1218" guid="b362afbe-50fe-57ff-9463-c2a63d68488a">
@@ -2547,6 +2585,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch</link>
         </links>
       </event>
+      <event id="1260" guid="a025b8da-d323-4561-9c02-1b0176abcf80">
+        <logo/>
+        <date>2018-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>2:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1260-session_djchen</slug>
+        <title>DJchen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>Kids DJ-Workshop</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen</link>
+        </links>
+      </event>
       <event id="1199" guid="3d643d5a-cb73-4278-9bce-c457f9a50e85">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -2564,6 +2621,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
+        </links>
+      </event>
+      <event id="1262" guid="adcfe051-dd11-4016-93f3-9f75d99acc6f">
+        <logo/>
+        <date>2018-12-29T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>1:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1262-session_modulare_synthesizer_for_kids</slug>
+        <title>Modulare synthesizer for kids</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>A chaotic introduction to the world of modular synthesis. For children from 12 years old.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Modulare_synthesizer_for_kids</link>
         </links>
       </event>
       <event id="1217" guid="09993a07-4721-4488-9c00-72f8908a022b">
