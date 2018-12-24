@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-24 15:10</version>
+  <version>2018-12-24 15:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -528,7 +528,9 @@
         <language>en</language>
         <abstract/>
         <description>A nice &amp; cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Wieueberall">Wieueberall</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
         </links>
@@ -774,8 +776,10 @@
         <type>meeting</type>
         <language>en</language>
         <abstract/>
-        <description>the queerfeminist geeks plenary meetup</description>
-        <persons/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Wieueberall">Wieueberall</person>
+        </persons>
         <links>
           <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
@@ -2376,6 +2380,26 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion</link>
+        </links>
+      </event>
+      <event id="1252" guid="3267f14a-da88-4833-b8e3-0ec7c80ca80f">
+        <logo/>
+        <date>2018-12-29T19:10:00+01:00</date>
+        <start>19:10</start>
+        <duration>0:50</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1252-session_oparl_ein_datenstandard_um_politische_entscheidungen_transparent_zu_machen</slug>
+        <title>OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>OParl ist ein Datenstandard für kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort fördern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung, und Version 1.1 ist auch veröffentlicht. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge präsentieren gemeinsam über die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung.</description>
+        <persons/>
+        <links>
+          <link>https://oparl.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen</link>
         </links>
       </event>
       <event id="1099" guid="7b3566f7-6baa-4002-812c-baa454f0b08b">

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 15:10", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 15:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2072,7 +2072,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "A nice & cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Wieueberall", 
+                                        "public_name": "Wieueberall"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy"
                                 ]
@@ -2569,8 +2575,14 @@
                                 "type": "meeting", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "the queerfeminist geeks plenary meetup", 
-                                "persons": [], 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Wieueberall", 
+                                        "public_name": "Wieueberall"
+                                    }
+                                ], 
                                 "links": [
                                     "https://lists.riseup.net/www/subscribe/queerfeministgeeks", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp"
@@ -13478,6 +13490,28 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Medienkompetenz_kann_man_nicht_downloaden_-_Diskussion"
+                                ]
+                            }, 
+                            {
+                                "id": 1252, 
+                                "guid": "3267f14a-da88-4833-b8e3-0ec7c80ca80f", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:10:00+01:00", 
+                                "start": "19:10", 
+                                "duration": "0:50", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1252-session_oparl_ein_datenstandard_um_politische_entscheidungen_transparent_zu_machen", 
+                                "title": "OParl: ein Datenstandard, um politische Entscheidungen transparent zu machen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "OParl ist ein Datenstandard f\u00fcr kommunale Entscheidungen, welche in Ratsinformationssystemen gespeichert werden. Mit den Daten kann man Transparenz und Beteiligung vor Ort f\u00f6rdern. Auf dem 33C3 stand der Standard in den Kinderschuhen, nun findet er zunehmend Verbreitung, und Version 1.1 ist auch ver\u00f6ffentlicht. Wir - ein Team der Open Knowledge Foundation - wollen den Stand der Dinge pr\u00e4sentieren gemeinsam \u00fcber die Zukunft reden: Anwendungen, Standard-Weiterentwicklung, weitere Verbreitung.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://oparl.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:OParl:_ein_Datenstandard,_um_politische_Entscheidungen_transparent_zu_machen"
                                 ]
                             }, 
                             {
