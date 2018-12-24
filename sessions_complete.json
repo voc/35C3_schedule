@@ -3103,15 +3103,15 @@
             }
         ]
     }, 
-    "Session:CCC-CH Gettogether# 5fec4f43c2debec6abfa80d9a6cceae2": {
+    "Session:CCC-CH Gettogether# 88de8efecc696521649d526f8ee8dd33": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
+                "timestamp": "1546001100", 
+                "raw": "1/2018/12/28/12/45/0/0"
             }
         ], 
         "Has event track": [
@@ -3126,7 +3126,15 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
@@ -3144,8 +3152,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCC-CH_Gettogether", 
         "Has end time": [
             {
-                "timestamp": "1546018200", 
-                "raw": "1/2018/12/28/17/30/0/0"
+                "timestamp": "1546006500", 
+                "raw": "1/2018/12/28/14/15/0/0"
             }
         ]
     }, 
@@ -4176,9 +4184,11 @@
             "https://www.youtube.com/watch?v=OQwgja-TOwg"
         ], 
         "Has description": [
-            "Even in healthcare, the analogous age is almost over (even though some of us still have to carry DVDs with X-ray images from one doc to the next). But where will our health data be stored and processed in the future? On Apple's and Amazon's servers? Or is it possible to have independent and privacy-friendly projects in Europe?"
+            "Even in healthcare, the analogous age is almost over (even though some of us still have to carry DVDs with X-ray images from one doc to the next). But where will our health data be stored and processed in the future? On Apple's and Amazon's servers? Or is it possible to have independent and privacy-friendly projects in Europe? Do we need the government to take action or will grassroot solutions be successful? Let's meet + share views and experiences."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Seminar room 13", 
@@ -4189,7 +4199,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Christina", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Christina", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Digital Health and Patient Data"
         ], 
