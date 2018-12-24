@@ -1,5 +1,5 @@
 <schedule>
-  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:10</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8206,6 +8206,25 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons</link>
         </links>
       </event>
+      <event id="1222" guid="6bd84d31-2eba-420a-a35f-cfcdade2467b">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1222-session_we_record_1_trapsong_autotune4kids_</slug>
+        <title>We record 1 Trapsong (Autotune4Kids)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>In der Zeit die wir zur Verfügung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, überlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits &amp; Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 &amp; Thigh Gap Boi &amp;&amp;&amp;)</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)</link>
+        </links>
+      </event>
     </room>
     <room name="CCL Saal 3">
       <event id="429" guid="e8738619-fb1f-539a-bd9c-a1682bc69d84">
@@ -14266,6 +14285,25 @@ Workshop muss leider ausfallen, weil die Workshopanbieter keinen Zugang zum Cong
         <links>
           <link>https://www.tinkerbots.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots</link>
+        </links>
+      </event>
+      <event id="1221" guid="c8ea0ed2-fcea-4e93-8285-e53f436fd311">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1221-session_we_record_1_trapsong_autotune4kids_</slug>
+        <title>We record 1 Trapsong (Autotune4Kids)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description>In der Zeit die wir zur Verfügung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, überlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits &amp; Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 &amp; Thigh Gap Boi &amp;&amp;&amp;)</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)</link>
         </links>
       </event>
     </room>
