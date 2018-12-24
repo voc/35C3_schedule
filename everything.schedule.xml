@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.5 v1.7 0.5 1.0.2 2018-12-24 11:50</version>
+  <version>Columbo 3 1.6 v1.7 0.5 1.0.2 2018-12-24 12:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3146,8 +3146,8 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
     <room name="ChaosZone">
       <event id="715" guid="ef2d214c-12a5-5162-b8f6-74dde79c7c09">
         <logo/>
-        <date>2018-12-27T12:00:00+01:00</date>
-        <start>12:00</start>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>00:30</duration>
         <room>ChaosZone</room>
         <slug>DALFMM</slug>
@@ -3175,8 +3175,8 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
       </event>
       <event id="701" guid="52c50dc4-e473-5716-a4fc-6ef7e328902c">
         <logo/>
-        <date>2018-12-27T13:50:00+01:00</date>
-        <start>13:50</start>
+        <date>2018-12-27T12:50:00+01:00</date>
+        <start>12:50</start>
         <duration>00:30</duration>
         <room>ChaosZone</room>
         <slug>KYND3Y</slug>
@@ -3208,8 +3208,8 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
       </event>
       <event id="707" guid="181cc8cd-d3f4-59b6-befa-3e4e8c8cd8c2">
         <logo/>
-        <date>2018-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>PUCEB3</slug>
@@ -3239,8 +3239,8 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
       </event>
       <event id="720" guid="11077242-300d-582f-8060-d711bf9072a3">
         <logo/>
-        <date>2018-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>GEBZBY</slug>
@@ -3269,8 +3269,8 @@ systems automation enthusiast and developer.</biography>
       </event>
       <event id="703" guid="c1c12d9d-12bd-5bab-820f-c4cbac4dce86">
         <logo/>
-        <date>2018-12-27T18:30:00+01:00</date>
-        <start>18:30</start>
+        <date>2018-12-27T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>U8YM3N</slug>
@@ -3302,8 +3302,8 @@ Beschleunigungssensoren arbeiten häufig mit einer federnd gelagerten Masse, des
       </event>
       <event id="711" guid="7425b4d7-95f5-5551-b81b-2e7aca7fb400">
         <logo/>
-        <date>2018-12-27T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2018-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>MZWAKF</slug>
@@ -3331,8 +3331,8 @@ Beschleunigungssensoren arbeiten häufig mit einer federnd gelagerten Masse, des
       </event>
       <event id="704" guid="3a86fe86-b951-5f20-a2f9-8d300e3f77e8">
         <logo/>
-        <date>2018-12-27T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>SVLSXP</slug>
@@ -8517,8 +8517,8 @@ Dieses Spiel soll zum einen für ein wenig Entspannung nach Talks und Arbeit auf
     <room name="ChaosZone">
       <event id="719" guid="d1903628-4268-5647-9e46-6515297f53e7">
         <logo/>
-        <date>2018-12-28T15:30:00+01:00</date>
-        <start>15:30</start>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>QX9NBX</slug>
@@ -8550,8 +8550,8 @@ The good news is that official statistics are open data, so at least in theory a
       </event>
       <event id="710" guid="45c95b37-47c3-5a75-b6ef-85d6356e2063">
         <logo/>
-        <date>2018-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>7JWW8Q</slug>
@@ -8583,8 +8583,8 @@ The good news is that official statistics are open data, so at least in theory a
       </event>
       <event id="702" guid="64da27c8-9346-59c0-94a5-844d47514384">
         <logo/>
-        <date>2018-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
+        <date>2018-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>PHHS7L</slug>
@@ -8614,8 +8614,8 @@ We will demonstrate vulnerabilities on Siemens and Beckhoff PLC's. Both patched 
       </event>
       <event id="706" guid="74cf6b9d-8228-5fa7-be7a-a5cda7f69fd8">
         <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>3L8XYN</slug>
@@ -8694,8 +8694,8 @@ ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, der
       </event>
       <event id="713" guid="8e6aecc6-acbb-52bb-87be-2d06f0ff0640">
         <logo/>
-        <date>2018-12-28T21:30:00+01:00</date>
-        <start>21:30</start>
+        <date>2018-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>EQPXLK</slug>
@@ -8723,8 +8723,8 @@ ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, der
       </event>
       <event id="716" guid="0935bbb5-3f02-54f0-ad72-d204de35fbd6">
         <logo/>
-        <date>2018-12-28T23:10:00+01:00</date>
-        <start>23:10</start>
+        <date>2018-12-28T22:10:00+01:00</date>
+        <start>22:10</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>V9T9UR</slug>
@@ -14399,8 +14399,8 @@ Auch das Publikum wird mitraten dürfen. Dabei wird die Anzahl der korrekten Ant
     <room name="ChaosZone">
       <event id="709" guid="fc628de1-d13c-5cca-a55e-56bc092c8fb3">
         <logo/>
-        <date>2018-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>8ZNLPJ</slug>
@@ -14432,8 +14432,8 @@ I will also be presenting "Affection", my own, still minimalist, game engine to 
       </event>
       <event id="718" guid="a1139df6-a02e-5d1b-96f3-0a1094909659">
         <logo/>
-        <date>2018-12-29T17:45:00+01:00</date>
-        <start>17:45</start>
+        <date>2018-12-29T16:45:00+01:00</date>
+        <start>16:45</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>UDCQHX</slug>
@@ -14461,8 +14461,8 @@ I will also be presenting "Affection", my own, still minimalist, game engine to 
       </event>
       <event id="712" guid="14a8a211-a5f3-5495-891d-72392cd0550e">
         <logo/>
-        <date>2018-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>KHLB8Z</slug>
@@ -14496,8 +14496,8 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
       </event>
       <event id="708" guid="886791c2-9ab1-5779-b889-3429d5e4021e">
         <logo/>
-        <date>2018-12-29T20:30:00+01:00</date>
-        <start>20:30</start>
+        <date>2018-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>GYDDDD</slug>
@@ -14525,8 +14525,8 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
       </event>
       <event id="714" guid="806d9394-f19e-512b-9290-91e633e9921d">
         <logo/>
-        <date>2018-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>SPC9JS</slug>
@@ -17653,8 +17653,8 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
     <room name="ChaosZone">
       <event id="717" guid="a3f657ab-f9d6-5af0-9f54-2121dc894491">
         <logo/>
-        <date>2018-12-30T18:10:00+01:00</date>
-        <start>18:10</start>
+        <date>2018-12-30T17:10:00+01:00</date>
+        <start>17:10</start>
         <duration>01:00</duration>
         <room>ChaosZone</room>
         <slug>L8MWNG</slug>
