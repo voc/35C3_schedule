@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 01:30", 
+        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 01:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -13236,6 +13236,27 @@
                                 "links": [
                                     "https://c3voc.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:After_the_A/V_Angel_Meeting:_Voctomix_/_Voctoknopf_Discussion"
+                                ]
+                            }, 
+                            {
+                                "id": 1250, 
+                                "guid": "31bf9c3b-a12b-4ef5-84d0-a8b162609462", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1250-session_kinkygeeks_bondage_workshop_fuer_anfaenger", 
+                                "title": "KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Bondage f\u00fcr Anf\u00e4nger, keine Vorkenntnisse erforderlich.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger"
                                 ]
                             }, 
                             {
