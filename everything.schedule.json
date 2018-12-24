@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:00", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 23:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -8512,27 +8512,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1222, 
-                                "guid": "6bd84d31-2eba-420a-a35f-cfcdade2467b", 
-                                "logo": null, 
-                                "date": "2018-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1222-session_how_to_make_a_trap_song_in_20_minutes", 
-                                "title": "How to make a trap song in 20 minutes", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes"
-                                ]
-                            }, 
-                            {
                                 "id": 1218, 
                                 "guid": "b362afbe-50fe-57ff-9463-c2a63d68488a", 
                                 "logo": null, 
@@ -12043,6 +12022,36 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe"
                                 ]
                             }
+                        ], 
+                        "Assembly:Eco Hacker Farm": [
+                            {
+                                "id": 1259, 
+                                "guid": "affa535f-47b5-46de-a388-8cb436187444", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "3:00", 
+                                "room": "Assembly:Eco Hacker Farm", 
+                                "slug": "35c3-1259-session_powerplant_hackathon_coding_session", 
+                                "title": "Powerplant hackathon coding session", 
+                                "subtitle": "coding session for powerplant", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "come and code on powerplant!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia", 
+                                        "public_name": "Aimeejulia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://wiki.ecohackerfarm.org/powerplant:start", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_coding_session"
+                                ]
+                            }
                         ]
                     }
                 }, 
@@ -14932,27 +14941,6 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering"
-                                ]
-                            }, 
-                            {
-                                "id": 1221, 
-                                "guid": "c8ea0ed2-fcea-4e93-8285-e53f436fd311", 
-                                "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1221-session_how_to_make_a_trap_song_in_20_minutes", 
-                                "title": "How to make a trap song in 20 minutes", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_make_a_trap_song_in_20_minutes"
                                 ]
                             }, 
                             {
