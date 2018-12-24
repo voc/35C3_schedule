@@ -5359,6 +5359,58 @@
             }
         ]
     }, 
+    "Session:Fundamentals of Laser Physics# 85cd209c490d7c81ffb27008f8e090f4": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Fundamental explanation of laser technology"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Phasenraum", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Phasenraum", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Fundamentals of Laser Physics"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "24868265-2e10-4cbf-abc8-b3763e76bbbe"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fundamentals_of_Laser_Physics", 
+        "Has end time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
     "Session:Gamma Radiation Monitoring# 49346e6190c9cfcab2f083f5f1679902": {
         "Held in language": [
             "de - German", 
@@ -9611,6 +9663,61 @@
             {
                 "timestamp": "1546009200", 
                 "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Powerplant hackathon intro session# 47f3901ddea8170ae41e824f968abc20": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.ecohackerfarm.org/powerplant:start"
+        ], 
+        "Has description": [
+            "powerplant is an open source software that allows anyone planning a garden to utilize companion planting and other permaculture practices. It provides intelligent suggestions to help the gardener by advising the best planting schedules and combinations of crops to maximize the garden's yield."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "intro to the hackathon to be held on day 2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Aimeejulia", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Powerplant hackathon intro session"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "8ab601e5-9628-4af2-9b58-6ddab0e9a6cc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_intro_session", 
+        "Has end time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
             }
         ]
     }, 

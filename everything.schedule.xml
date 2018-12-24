@@ -1,5 +1,5 @@
 <schedule>
-  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 22:40</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-24 22:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5059,6 +5059,28 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Nerfgun_Battle</link>
+        </links>
+      </event>
+      <event id="1257" guid="8ab601e5-9628-4af2-9b58-6ddab0e9a6cc">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1257-session_powerplant_hackathon_intro_session</slug>
+        <title>Powerplant hackathon intro session</title>
+        <subtitle>intro to the hackathon to be held on day 2</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>powerplant is an open source software that allows anyone planning a garden to utilize companion planting and other permaculture practices. It provides intelligent suggestions to help the gardener by advising the best planting schedules and combinations of crops to maximize the garden's yield.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Aimeejulia">Aimeejulia</person>
+        </persons>
+        <links>
+          <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_intro_session</link>
         </links>
       </event>
       <event id="1248" guid="d056aed3-4ca0-427a-a565-24b2595ffcac">
@@ -11387,6 +11409,27 @@ music.</abstract>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feminist_hackers_%26_makers_meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Phasenraum">
+      <event id="1256" guid="24868265-2e10-4cbf-abc8-b3763e76bbbe">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Phasenraum</room>
+        <slug>35c3-1256-session_fundamentals_of_laser_physics</slug>
+        <title>Fundamentals of Laser Physics</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Fundamental explanation of laser technology</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fundamentals_of_Laser_Physics</link>
         </links>
       </event>
     </room>
