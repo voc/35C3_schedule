@@ -12548,6 +12548,57 @@
             }
         ]
     }, 
+    "Session:Tor relay operators meetup# 923f2b5d2341d3a901058e66fd68df26": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545957000", 
+                "raw": "1/2018/12/28/0/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tor relay operators meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "6a64b395-e553-4579-b48d-ce8aaec0d4ad"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1545962400", 
+                "raw": "1/2018/12/28/2/0/0/0"
+            }
+        ]
+    }, 
     "Session:Translation second channel# 647eef1d256b934dc2c59ea5ae0a30ab": {
         "Held in language": [], 
         "Has start time": [
