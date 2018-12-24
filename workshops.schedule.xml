@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-24 23:30</version>
+  <version>2018-12-25 00:50</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -533,6 +533,25 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
+        </links>
+      </event>
+      <event id="1264" guid="e7d23ce2-877b-41a0-98b8-796d31635ce0">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1264-session_rust_2025</slug>
+        <title>Rust 2025</title>
+        <subtitle>Rust in the year 2025</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>An open minded discussion about the Rust programming language.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Rust_2025</link>
         </links>
       </event>
       <event id="1133" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">

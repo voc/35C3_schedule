@@ -10323,6 +10323,57 @@
             }
         ]
     }, 
+    "Session:Rust 2025# dcfdf217af137b17b7ef10daffe9c25d": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "An open minded discussion about the Rust programming language."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Rust in the year 2025"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Rust 2025"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e7d23ce2-877b-41a0-98b8-796d31635ce0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rust_2025", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:SSG Meeting# aa001ea60231f0ec6ef71ae94c365f0c": {
         "Held in language": [
             "en - English"
