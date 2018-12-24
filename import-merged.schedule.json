@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Columbo 3 1.4 v1.7 0.5 1.0.1", 
+        "version": "Columbo 3 1.4 v1.7 0.5 1.0.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2721,37 +2721,6 @@
                                         "id": 59, 
                                         "name": "Jos Poortvliet", 
                                         "biography": "People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 299, 
-                                "guid": "bde24074-90b6-511b-8fd8-588149529d8f", 
-                                "logo": null, 
-                                "date": "2018-12-27T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "00:20", 
-                                "room": "OIO Vortrags-Arena", 
-                                "slug": "ZFQCBB", 
-                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZFQCBB", 
-                                "title": "Mathematische Modellierung informatischer Probleme", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Talk 20min total (etwa 5min  Q&A)", 
-                                "language": "de", 
-                                "abstract": "Der Vortrag soll sich haupts\u00e4chlich darauf beziehen, wie Mathematik bei der L\u00f6sung von informationstechischen Problemen helfen kann, wobei M\u00f6glichkeiten und Probleme aufgezeigt werden sollen.", 
-                                "description": "", 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 78, 
-                                        "name": "Lukas Schneider", 
-                                        "biography": "* Sch\u00fcler am ASGspez in Erfurt\r\n* BwInf-Teilnehmer\r\n* Gro\u00dfes Interesse an Politik\r\n* Und an Informatik :-D", 
                                         "answers": []
                                     }
                                 ], 
@@ -10786,6 +10755,37 @@
                                         "id": 44, 
                                         "name": "Daniel Fussy", 
                                         "biography": "Freifunk M\u00fcnchen", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 299, 
+                                "guid": "bde24074-90b6-511b-8fd8-588149529d8f", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "00:20", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "ZFQCBB", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZFQCBB", 
+                                "title": "Mathematische Modellierung informatischer Probleme", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk 20min total (etwa 5min  Q&A)", 
+                                "language": "de", 
+                                "abstract": "Der Vortrag soll sich haupts\u00e4chlich darauf beziehen, wie Mathematik bei der L\u00f6sung von informationstechischen Problemen helfen kann, wobei M\u00f6glichkeiten und Probleme aufgezeigt werden sollen.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 78, 
+                                        "name": "Lukas Schneider", 
+                                        "biography": "* Sch\u00fcler am ASGspez in Erfurt\r\n* BwInf-Teilnehmer\r\n* Gro\u00dfes Interesse an Politik\r\n* Und an Informatik :-D", 
                                         "answers": []
                                     }
                                 ], 

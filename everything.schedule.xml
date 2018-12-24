@@ -1,5 +1,5 @@
 <schedule>
-  <version>Columbo 3 1.4 v1.7 0.5 1.0.1 2018-12-24 02:40</version>
+  <version>Columbo 3 1.4 v1.7 0.5 1.0.2 2018-12-24 09:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3552,38 +3552,6 @@ The talk is reasonably technical - it doesn't delve in to code or algorithms but
           <person id="59">
             <name>Jos Poortvliet</name>
             <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="299" guid="bde24074-90b6-511b-8fd8-588149529d8f">
-        <logo/>
-        <date>2018-12-27T17:30:00+01:00</date>
-        <start>17:30</start>
-        <duration>00:20</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>ZFQCBB</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZFQCBB</url>
-        <title>Mathematische Modellierung informatischer Probleme</title>
-        <subtitle/>
-        <track/>
-        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
-        <language>de</language>
-        <abstract>Der Vortrag soll sich hauptsächlich darauf beziehen, wie Mathematik bei der Lösung von informationstechischen Problemen helfen kann, wobei Möglichkeiten und Probleme aufgezeigt werden sollen.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="78">
-            <name>Lukas Schneider</name>
-            <biography>* Schüler am ASGspez in Erfurt&#13;
-* BwInf-Teilnehmer&#13;
-* Großes Interesse an Politik&#13;
-* Und an Informatik :-D</biography>
           </person>
         </persons>
         <links/>
@@ -14866,6 +14834,38 @@ Fragen....</description>
           <person id="44">
             <name>Daniel Fussy</name>
             <biography>Freifunk München</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="299" guid="bde24074-90b6-511b-8fd8-588149529d8f">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>ZFQCBB</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZFQCBB</url>
+        <title>Mathematische Modellierung informatischer Probleme</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Der Vortrag soll sich hauptsächlich darauf beziehen, wie Mathematik bei der Lösung von informationstechischen Problemen helfen kann, wobei Möglichkeiten und Probleme aufgezeigt werden sollen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="78">
+            <name>Lukas Schneider</name>
+            <biography>* Schüler am ASGspez in Erfurt&#13;
+* BwInf-Teilnehmer&#13;
+* Großes Interesse an Politik&#13;
+* Und an Informatik :-D</biography>
           </person>
         </persons>
         <links/>
