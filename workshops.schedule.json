@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-24 13:00", 
+        "version": "2018-12-24 13:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3441,7 +3441,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.", 
+                                "description": "This workshop is for all who only have a vague idea or might not know at all what an \"IP address\" is. We'll learn how the Internet works by making Internet traffic visible. This is a beginner's workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.", 
                                 "persons": [
                                     {
                                         "id": 0, 

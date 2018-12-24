@@ -1,5 +1,5 @@
 <schedule>
-  <version>Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 13:00</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 1.0.2 2018-12-24 13:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13309,7 +13309,7 @@ However, it's not always easy...</description>
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>This workshop is for all who only have a vague idea or might not know at all what an "IP address" is. If you toyed with Wireshark before, you will be bored to hell in this workshop.</description>
+        <description>This workshop is for all who only have a vague idea or might not know at all what an "IP address" is. We'll learn how the Internet works by making Internet traffic visible. This is a beginner's workshop. If you toyed with Wireshark before, you will be bored to hell in this workshop.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
