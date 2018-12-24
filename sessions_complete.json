@@ -8269,7 +8269,7 @@
             "http://syndikat.org"
         ], 
         "Has description": [
-            "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?"
+            "Wie starte ich ein Hausprojekt im Mietsh\u00e4user Syndikat?\nWorkshop muss leider ausfallen, weil die Workshopanbieter keinen Zugang zum Congress bekommen\n."
         ], 
         "Has session type": [
             "Workshop"
@@ -13732,6 +13732,50 @@
                 "raw": "1/2018/12/29/19/10/0/0"
             }
         ]
+    }, 
+    "Session:Wondrous Mathematics: Fundamental limits of mathematical reasoning# f6d000ed513df88e551483f6b1050871": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "One can mathematically rigorously prove that there are certain fundamental limits to mathematical reasoning. This talk explains what these limits are, how we know about them and how we deal with them."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Wondrous Mathematics: Fundamental limits of mathematical reasoning"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "c3aebe03-92ab-4a73-8933-9c7062f33b3c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fundamental_limits_of_mathematical_reasoning", 
+        "Has end time": []
     }, 
     "Session:Wondrous Mathematics: Large numbers, very large numbers and very very large numbers# 91bb7e19b7fafdd2b2b8eee59044d5c6": {
         "Held in language": [
