@@ -6025,6 +6025,50 @@
             }
         ]
     }, 
+    "Session:Herb Vaporizer Meetup# df96a06c6850d0d983622436ca416ce6": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This is a meetup for (not only cannabis) vaporisation enthusiasts."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Herb Vaporizer Meetup"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "dbff7859-dd75-4555-8452-370ced7b4a82"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546107600", 
+                "raw": "1/2018/12/29/18/20/0/0"
+            }
+        ]
+    }, 
     "Session:Horst Herold Hacks - der Mann, der die Gesellschaft mit dem Polizeicomputer revolutionieren wollte# 2005b8ec0443839f4654ef12b4cd42bd": {
         "Held in language": [
             "de - German"
