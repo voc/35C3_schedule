@@ -1,5 +1,5 @@
 <schedule>
-  <version>Dr Who 3 1.6 v1.7 0.5 1.0.2</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3287,17 +3287,17 @@ All seine Podcasts: http://dampfnudel.net</biography>
     <room name="Discodrama">
       <event id="10049" guid="09e6fbc0-aca1-418a-862b-dedd2571b627">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10049.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/049/large/sui.jpg?1545328482</logo>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10049-sui</slug>
         <title>SUI</title>
-        <subtitle>Sofie</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Diverse Music</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>it is happy, sometimes it is buzzing and eats pizza.&#13;
 furthermore it is connected to mjut club (leipzig), so&amp;so (leipzig) and the ambientfloor of garbicz-festival (poland).&#13;
 beautiful insane friends were found at this places, with whom it likes to play and create whatever comes up in twisted days and nights.</abstract>
@@ -3312,9 +3312,36 @@ beautiful insane friends were found at this places, with whom it likes to play a
         </links>
         <attachments/>
       </event>
+      <event id="10112" guid="772c609d-c220-49fd-8e9a-671c6045304d">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10112.html</url>
+        <logo>/system/events/logos/000/010/112/large/1654341_593106100763608_757469119_n.jpg?1545404961</logo>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35c3-lineup-10112-das_weltweite_netzwerk_fur_ein_bedingungsloses_grundeinkommen</slug>
+        <title>Das weltweite Netzwerk für ein bedingungsloses Grundeinkommen</title>
+        <subtitle>Experimental Pop</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>»Das weltweite Netzwerk fur ein bedingungsloses Grundeinkommen« steht gekleidet im Blaumann mit beiden Beinen fest auf einem leeren Bierkasten und zersingt altbekannte Popsongs. Es vervielfaltigt einfältige Ohrwurmer so lange, bis sie Schwarmintelligenz entwickeln. Es transformiert beiläufges Nachgesumme in gänsehauterregende Opernchöre und Unterhaltungsgedudel in antikapitalistische Klagelieder.</abstract>
+        <description>»Das weltweite Netzwerk für ein bedingungsloses Grundeinkommen« ist der bescheidene Name des Musikarbeiters und Medienkünstlers Tommy Neuwirth, der ganz alleine mit den Tönen und ihrer Herkunft jongliert, dass einem das taube Dahinhören vergeht und die Ohren des Publikums ihre vielfältigen Verbindungen zu verschiedensten Hirnregionen, zu den Lachmuskeln, den Tränensäcken und den Tanzbeinen entdecken.&#13;
+Neuwirth gönnt seinen Songs - oder soll man sagen: Musikkabarettnummern? - Nachdenkpausen, wenn die musikalische Konventionen sie voran peitschen wurden, er gebiert Melodien und überlässt sie sich selber und dem Publikum, wahrend er seine Aufmerksamkeit schon neuem Spielzeug widmet. Er trennt die Geräusche, die er als Performer live auf der Bühne hervorbringt magischerweise ab von den Bewegungen seines Körpers und synchronisiert sich mit erstaunlichstem.&#13;
+»Das weltweite Netzwerk fur ein bedingungsloses Grundeinkommen« alias Tommy Neuwirth lässt seinen skurrilen Humor seit 2012 in Form von Videos, Konzerten, Performances und Radio-Improvisationen auf die Menschen los.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="www.tommyneuwirth.de">www.tommyneuwirth.de</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10045" guid="749eb50d-d91f-4035-a7ef-eac5904cbefc">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10045.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/045/large/954843_902544953129673_2577253257806048523_n.jpg?1545405145</logo>
         <date>2018-12-27T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
@@ -3322,9 +3349,9 @@ beautiful insane friends were found at this places, with whom it likes to play a
         <slug>35c3-lineup-10045-melted_moon</slug>
         <title>Melted Moon</title>
         <subtitle>8 Bit Electro</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract>A black text on green background, scrolling towards the middle of the screen. Di-Dinnng! Gameboy: the electronic soul of the past. It flows across the dance floor like a flash in the fog. We are the symbiosis of man and machine, the pulse drives us, heartbeats counted in BPM, we make sounds out of waves and waves out of sounds, we turn music into emotions and emotions into music, from minimum to maximum, from techno to dubstep. The whole spectrum is dancing. Penetrating sounds move you, electrify you, and the bass is massaging your soul. 8-bit power saves your life. Give yourself a chance. Experience Melted Moon&#13;
 &#13;
 Melted Moon started in 2006, when Mathias combined his two hobbies (music and gaming) by converting Gameboys into instruments. Back then, Melted Moon was merely a solo project, which slowly but perceptively gained popularity in Aschaffenburg. Later, in 2012, his friend Stefan joined him, followed by Fabian in 2013. Stefan was more technically savvy, while Fabian brought a lot of musical know-how, and it took just half a year to find a label and release the first album, "Meltdown".&#13;
@@ -3341,7 +3368,7 @@ Melted Moon uses only original Gameboy hardware to make music. The Gameboys are,
         </recording>
         <persons/>
         <links>
-          <link href="https://www.meltedmoon.de/">https://www.meltedmoon.de/</link>
+          <link href="https://www.meltedmoon.de/">https://www.meltedmoon.de</link>
         </links>
         <attachments/>
       </event>
@@ -3354,10 +3381,10 @@ Melted Moon uses only original Gameboy hardware to make music. The Gameboys are,
         <room>Discodrama</room>
         <slug>35c3-lineup-10091-konflikt</slug>
         <title>Konflikt</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Techno/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -3379,10 +3406,10 @@ Melted Moon uses only original Gameboy hardware to make music. The Gameboys are,
         <room>Discodrama</room>
         <slug>35c3-lineup-10086-vril</slug>
         <title>Vril</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Techno Live Set</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>Seemingly out of nothing, through dust and with no bang, VRIL appeared on the scene in 2010 with his debut on Giegling. His music made such beautiful noise that it instantly found his place on Marcel Dettmann’s selection for his “Conducted” CD. Also he was part of the Berghain05 Compilation in 2011. His sound is a search for the evergoing movement, exploring a never stopping energy. Once he catches you in his groove it will shine so bright you won’t be able to escape it.&#13;
 </abstract>
         <description>Tales of his harder sounding live sets being heard at DGTL, Awakenings, Fusion Festival, Berghain and all over the world. All sets share the same common feature that it was an as euphoric as energetic travel in sound.&#13;
@@ -3401,24 +3428,25 @@ VRIL -Omniverse- (12 inch on Dystopian) VRIL -anima mundi- (LP on Delsin Records
         </recording>
         <persons/>
         <links>
-          <link href="https://www.residentadvisor.net/dj/vril/">https://www.residentadvisor.net/dj/vril/</link>
+          <link href="https://soundcloud.com/vril_01">https://soundcloud.com/vril_01</link>
+          <link href="https://vrildelsin.bandcamp.com">https://vrildelsin.bandcamp.com</link>
         </links>
         <attachments/>
       </event>
-      <event id="10067" guid="416595e3-d56c-456c-b1d8-6141dd21d9d2">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10067.html</url>
-        <logo/>
+      <event id="10114" guid="c79080c5-41d5-4159-b7ba-4d3d12efbbb5">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10114.html</url>
+        <logo>/system/events/logos/000/010/114/large/Steffen-Bennemann-1-by-Martin-Lovekosi_quad.jpg?1545310913</logo>
         <date>2018-12-28T01:00:00+01:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10067-steffen_bennemann</slug>
-        <title> steffen bennemann</title>
-        <subtitle>nachtdigital / morskie oko</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <slug>35c3-lineup-10114-steffen_bennemann</slug>
+        <title>Steffen Bennemann</title>
+        <subtitle>Techno/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Curator of Nachtdigital Festival, Holger Records and many events in his home city of Leipzig - among them: Acid Haus (allnighters in a dark foggy basement), Sleep In (indoors &amp; outdoors Ambient sleepovers), Idiots (parties in various off-locations).</abstract>
         <description/>
         <recording>
           <license/>
@@ -3430,49 +3458,49 @@ VRIL -Omniverse- (12 inch on Dystopian) VRIL -anima mundi- (LP on Delsin Records
         </links>
         <attachments/>
       </event>
-      <event id="10082" guid="c640d4ef-2d0b-46e1-beab-230b298f01f3">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10082.html</url>
-        <logo/>
+      <event id="10113" guid="0a8eb550-c937-480a-909c-a0506c22cf7f">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10113.html</url>
+        <logo>/system/events/logos/000/010/113/large/Map.Ache-by-Thomas-Kru%CC%88ger-1068x527.png?1545310592</logo>
         <date>2018-12-28T03:00:00+01:00</date>
         <start>03:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10082-map_ache</slug>
-        <title>map.ache</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>The music label KANN was founded by map.ache, Sevensol &amp; Bender. Musically KANN is defined by modern dance music but with an individual approach to the music. Despite the label owners have different musical origins.&#13;
+        <slug>35c3-lineup-10113-map_ache</slug>
+        <title>Map.ache</title>
+        <subtitle>House Live Set</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Map.ache is Jan Barich, a Leipzig-based DJ-producer most widely known for his releases on Giegling, as part of the DJ duo Manamana, and work with KANN, the acclaimed imprint he runs with Alex Neuschulz (a.k.a. Sevensol) and Dennis Knoof (a.k.a. Bender). Promoting what they call "modern dance music," and with a discography that includes, among many other immensely talented artists, themselves, Traumprinz, and Falke, it's no surprise that the label is regarded so highly by deep house fans today.</abstract>
+        <description>Barich's story has been partly told before: growing up in Leipzig, he began playing the drums aged 14 and subsequently became involved in two band projects, namely Diario and The Hands Of The Wrong People—the former of which was a real success. Steadily, throughout the mid-'90s, he became increasingly interested in electronica, in part down regular visits to Conne Island, an alternative youth cultural center that hosted a rich musical program ranging across the entire spectrum. "It [Conne Island] certainly shaped my musical personality," Barich reflects.&#13;
 &#13;
-Everything KANN!!!! </abstract>
-        <description/>
+Soon, however, he began attending illegal techno parties around the city, held in abandoned spaces in the twilight hours after Conne Island's doors had been closed. DJing and production started soon thereafter. He learned to do the former around the age of 14, though only started playing out in the early 2000s; while he taught himself the latter in 2003, inspired by the music he was being exposed too. He was, he says, a "shy bedroom producer" who lacked the self-confidence to share his music with labels, leading him to set up KANN in 2008 as an outlet for his productions and those of his partners. The imprint, without question, has been a success, seeing a wide number of wonderful releases and serving as a platform for Map.ache to share his work elsewhere: since quitting his job at Conne Island in 2014, the Leipzig-based artist has released a beautiful collection of musical works. He's certainly an artist on the rise, so what better time to catch up with him to reflect on his journey to date and plans for the future.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
         <links>
-          <link href="https://soundcloud.com/kann">https://soundcloud.com/kann</link>
-          <link href="https://kann-records.com/">https://kann-records.com/</link>
-          <link href="https://www.discogs.com/label/120038-Kann-Records">https://www.discogs.com/label/120038-Kann-Records</link>
+          <link href="https://soundcloud.com/ache-map">https://soundcloud.com/ache-map</link>
+          <link href="https://kann-records.com">https://kann-records.com</link>
         </links>
         <attachments/>
       </event>
-      <event id="10066" guid="80dba213-2571-4078-94e4-db40614fe65a">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10066.html</url>
-        <logo/>
+      <event id="10111" guid="c39ca3be-da21-4910-b107-8de2a6e87dca">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10111.html</url>
+        <logo>/system/events/logos/000/010/111/large/avatars-000146613399-bud282-t500x500.jpg?1545404839</logo>
         <date>2018-12-28T04:00:00+01:00</date>
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10066-rss</slug>
-        <title>RSS</title>
-        <subtitle>RSS Disco</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>One’s company, two’s a crowd, and three’s a party! When these three pink-feathered crémantbirds nest in the DJ booth they’ll unreservedly mix through synthesizerdisco, acid-drenched house and vocal-overloaded popgems.</abstract>
+        <slug>35c3-lineup-10111-rss_disco</slug>
+        <title>RSS Disco</title>
+        <subtitle>Disco/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>RSS DISCO (originally RSS Music Summary; later, two competing approaches emerged, which used the backronyms Really Simple Seduction and Relatively Serious Sequence respectively) is a type of continuous music feed which allows users and robots to access updates to recorded content in a standardized, computer-readable format. This feed can, for example, allow a dancer to keep track of many different tracks in a single night. Any fun aggregator can periodically check RSS Disco for new content, allowing the content to be automatically passed from the turntable to the soundsystem. This passing of content is called DJing. &#13;
+An RSS experience (called “set”, “mix”, or "performance") includes full frequencies, action and vibes.</abstract>
         <description/>
         <recording>
           <license/>
@@ -3480,7 +3508,6 @@ Everything KANN!!!! </abstract>
         </recording>
         <persons/>
         <links>
-          <link href="http://rssdisco.com">http://rssdisco.com</link>
           <link href="https://soundcloud.com/rss">https://soundcloud.com/rss</link>
         </links>
         <attachments/>
@@ -3553,8 +3580,8 @@ zuurb is a walking chillgoldmine, whether to deliver drum´n bass sets in front 
         <slug>35c3-lineup-10095-timo_minmon</slug>
         <title>Timo Minmon</title>
         <subtitle>Minmon Kollektiv</subtitle>
-        <track/>
-        <type/>
+        <track>Music</track>
+        <type>djset</type>
         <language/>
         <abstract/>
         <description/>
@@ -3578,9 +3605,9 @@ zuurb is a walking chillgoldmine, whether to deliver drum´n bass sets in front 
         <slug>35c3-lineup-10096-barbnerdy</slug>
         <title>barbnerdy</title>
         <subtitle>Basic chillout</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>barbnerdy ist Teil der Congresschillabteilung - ja man streitet sich auch mal und dann schaut man nach vorne und hört gemeinsam gute Musik mit viel Bass, das ist nämlich ihr Steckenpferd.&#13;
 ---&#13;
@@ -3605,9 +3632,9 @@ barbnerdy is part of the congresschill department - yes argue happened sometimes
         <slug>35c3-lineup-10097-mohammed_atari</slug>
         <title>Mohammed Atari</title>
         <subtitle>Vinyl Spezialist</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Mohammed Atari spielte mal in Hamburg seine Lieblingsschallplatten, als ein junges Mädchen an das DJ Pult herantrat und laut rief: “Tolle Musik spielst du!”. Er ist ein Mysterium und ja wir sind gespannt auf sein Set.&#13;
 ---&#13;
@@ -3632,9 +3659,9 @@ Mohammed Atari was playing his beloved vinyls once in Hamburg when a young girl 
         <slug>35c3-lineup-10098-gregoa</slug>
         <title>Gregoa</title>
         <subtitle>Mr. G. Music</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Gregoa - Verkorkster Endvierziger mit Hang zu melancholischer Musik zwischen geschmeidigen bis stümperhaften Übergängen.&#13;
 Bislang unentdeckt, doch vom Chaos wegen der doch recht speziellen Musikmischung geschätzt.&#13;
@@ -3661,9 +3688,9 @@ So far undiscovered, but appreciated by the chaos because of the very special mu
         <slug>35c3-lineup-10099-bidi_morelle</slug>
         <title>Bidi &amp; Morelle</title>
         <subtitle>Swiss Fondue und Hamburger Jung'</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Bidi - https://vannutt.ch/ ist direkt aus einem Casting einer italienisch-schweizerischen  Koproduktion über psychidelische Aspekte nächtelanger Chillkultur und derer Interaktion mit heruntergepitchen Schlagersongs entsprungen und wie immer lange und spät dran.&#13;
 &#13;
@@ -3681,75 +3708,21 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <attachments/>
       </event>
     </room>
-    <room name="Compeiler"/>
-    <room name="Uptime Bar">
-      <event id="10074" guid="e35d77cb-637c-4383-b0d9-a454d09383e1">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10074.html</url>
+    <room name="Compeiler">
+      <event id="10146" guid="3e99eab9-bce3-4446-a635-74a26d538c5f">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10146.html</url>
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
-        <room>Uptime Bar</room>
-        <slug>35c3-lineup-10074-birds_tapes</slug>
-        <title> birds&amp;tapes</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10146-rote_schule_music_workshop</slug>
+        <title>Rote Schule Music Workshop</title>
+        <subtitle>Workshop/Performance</subtitle>
+        <track>Music</track>
+        <type>workshop</type>
+        <language>en</language>
         <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/birds-and-tapes">https://soundcloud.com/birds-and-tapes</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10063" guid="5f7f1cef-1b23-43f3-8de5-6bf77048fba3">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10063.html</url>
-        <logo/>
-        <date>2018-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>02:00</duration>
-        <room>Uptime Bar</room>
-        <slug>35c3-lineup-10063-shikoba</slug>
-        <title> SHIKOBA</title>
-        <subtitle>Planet Almanac</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Cepheidians are the bulk of the universe, the foundation of any knowledge from the greater to the smaller. Temporal and local changes underlayed and still consistent in their spirit, they sweep through the universe and are the comparison and its resolution."&#13;
-&#13;
-Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, both in mental and physical perceptibility. The playful way with the periodic repetition, addition and subtraction to create moments of deepest and greatest excitement is blown with an ease which is difficult for the listener to distinguish between fact and fiction.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://soundcloud.com/shikobamakesnoize">https://soundcloud.com/shikobamakesnoize</link>
-          <link href="https://www.residentadvisor.net/record-label.aspx?id=12184">https://www.residentadvisor.net/record-label.aspx?id=12184</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10058" guid="76278e10-8c1e-40df-9a70-618d7985cf8e">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10058.html</url>
-        <logo/>
-        <date>2018-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
-        <room>Uptime Bar</room>
-        <slug>35c3-lineup-10058-psychedelic_duct_tape</slug>
-        <title>Psychedelic Duct Tape</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>ambient dj couple</abstract>
         <description/>
         <recording>
           <license/>
@@ -3759,21 +3732,45 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         <links/>
         <attachments/>
       </event>
-      <event id="10051" guid="f4e16f26-2d94-41ca-9ee0-a33feb10c602">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10051.html</url>
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>02:00</duration>
-        <room>Uptime Bar</room>
-        <slug>35c3-lineup-10051-adel_akram</slug>
-        <title>Adel Akram</title>
-        <subtitle>Adel Akram Alameddine</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Former artist and creative director of ZCKR Records (2010 - 2015)&#13;
-</abstract>
+      <event id="10120" guid="e874417a-105a-4c49-a251-553f9aa5359a">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10120.html</url>
+        <logo>/system/events/logos/000/010/120/large/EselsAlptraum_1.jpg?1545595130</logo>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10120-esels_alptraum</slug>
+        <title>Esels Alptraum</title>
+        <subtitle>Antifaschistisches Jodel Duo</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Love Yodel - Hate Fascism</abstract>
+        <description>"Jodeln klingt für Viele nach Heimatkitsch &amp; Konservatismus - Nicht mit uns! Als Jodel-Delegation des 1. anarchistischen Traditions- und Folklorevereins jodeln wir gegen die Beschissenheit des Systems und für das gute, schöne, lustvolle Leben."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://www.eselsalptraum.de">http://www.eselsalptraum.de</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10121" guid="5ddc92a0-46b6-4a12-a529-71ba23699ad2">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10121.html</url>
+        <logo>/system/events/logos/000/010/121/large/1535626_619269164806791_1189704944_n.jpg?1545594520</logo>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10121-form</slug>
+        <title>Form</title>
+        <subtitle>HipHop</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>form ist ein Gutmensch und macht Arschbombe in die Rapszene. Denn entgegen landläufiger Erwartungen muss man gar kein faschistoider, sexistischer Volltrottel sein, um zu rappen. HipHop ist very gut, vergesst das nicht! form ist ein sehr lebendiger Beweis dafür. Drum reihet euch ein, um auf der Achterbahn der Gutmenschlichkeit durch die Höhen und Tiefen der menschlichen Existenz zu rasen. Es knallt, versprochen.</abstract>
         <description/>
         <recording>
           <license/>
@@ -3781,16 +3778,259 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         </recording>
         <persons/>
         <links>
+          <link href="http://www.fifaform.de">http://www.fifaform.de</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10122" guid="2fee9c9c-ce05-4a5e-91fe-92a971fc264a">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10122.html</url>
+        <logo>/system/events/logos/000/010/122/large/lena_bio.jpg?1545410988</logo>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10122-lena_stoehrfaktor</slug>
+        <title>Lena Stoehrfaktor</title>
+        <subtitle>HipHop</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Lena Stoehrfaktor, rappende Underground-Größe aus Berlin, bringt sich seit 2004 mit rotzigen Styles in die karge HipHop-Landschaft ein. Seitdem entstanden 4 eigene Alben sowie 3 Crewalben mit "Conexion Musical". Außerdem wirkt sie in verschiedenen musikalischen Projekten mit. Seit ihren Anfängen ist sich Lena Stoehrfaktor treu geblieben. Die Themen ihrer Texte werden aus dem realen Leben gegriffen und in feinster Art und Weise auf Beats gelegt, die die Stimmung der Inhalte unterstreichen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.lenastoehrfaktor.de">https://www.lenastoehrfaktor.de</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10123" guid="cb9ed396-4cf9-4bec-8934-0bf97cf0f705">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10123.html</url>
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10123-koffer</slug>
+        <title>Koffer</title>
+        <subtitle>Punk (19:30-20:30)</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Punk from Berlin</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10124" guid="b73eed35-ced6-4fbf-8261-38bc8f8c252d">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10124.html</url>
+        <logo>/system/events/logos/000/010/124/large/0009954533_10.jpg?1545411278</logo>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10124-warm_swords</slug>
+        <title>Warm Swords</title>
+        <subtitle>Garage Psy Rock (20:30-21:30)</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Warm Swords is the "solo-project" of Regal's very own Caelan O'Flaherty. Born in New Zealand, raised in France, lived in Belgium and now living in Leipzig Germany where he found his live band featuring two members of The Staches.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://warmswords.bandcamp.com">https://warmswords.bandcamp.com</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10125" guid="165a5f2a-c57d-4e86-81f4-de270b572434">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10125.html</url>
+        <logo>/system/events/logos/000/010/125/large/page18-1000-full.jpg?1545410749</logo>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10125-guts_pie_earshot</slug>
+        <title>Guts Pie Earshot</title>
+        <subtitle>DancePunk vs. DubTech - Hardcore vs. Punk'n'Bass (22:15-23:15)</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>GUTS PIE EARSHOT are surely one of the most unusual modern bands who music-wise vaguely have something to do with punk/hardcore and in the same time breakbeat/techno.</abstract>
+        <description>Their music is purely instrumental. This instrumentation may appear minimalist, only cello and drums are played, and yet the music conjures up entire new universes in the mind's eye - or ear.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://www.gutspieearshot.de">http://www.gutspieearshot.de</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10126" guid="3e91d529-95d8-41f6-b250-c529c0a94997">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10126.html</url>
+        <logo/>
+        <date>2018-12-28T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10126-hits_hits_hits</slug>
+        <title>Hits Hits Hits</title>
+        <subtitle>HitsPunkTrash</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10127" guid="749655f5-a19d-49ea-83a6-cb7c5d3fde75">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10127.html</url>
+        <logo/>
+        <date>2018-12-28T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10127-miss_the_point</slug>
+        <title>Miss the Point</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10128" guid="0394f713-47fc-47eb-b759-d9835df2f8b3">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10128.html</url>
+        <logo/>
+        <date>2018-12-28T04:00:00+01:00</date>
+        <start>04:00</start>
+        <duration>02:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10128-monis_crew</slug>
+        <title>Monis Crew</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Uptime Bar">
+      <event id="10074" guid="e35d77cb-637c-4383-b0d9-a454d09383e1">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10074.html</url>
+        <logo>/system/events/logos/000/010/074/large/2018-08-25_20.52.00.jpg?1545576403</logo>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10074-otto_paul</slug>
+        <title>otto/paul</title>
+        <subtitle>Breakbeats, Pop, Electronic, Ambient</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>otto/paul appeared at the event horizon of Sagittarius A* where he began his journey to planet earth. While travelling through space &amp; time he happened to meet ancient astronauts, superintelligences and multi-dimensional entities and collected their most different types of music. Currently on earth, otto/paul blends breakbeats, pop, electronic, ambient, tribal and slow rhythim from allover the galaxy to satisfy and enlighten the ears of mankind.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/MartinOttoPaul/">https://www.mixcloud.com/MartinOttoPaul/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10058" guid="76278e10-8c1e-40df-9a70-618d7985cf8e">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10058.html</url>
+        <logo>/system/events/logos/000/010/058/large/avatars-000460064742-8nkpcj-t500x500.jpg?1545406404</logo>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10058-psychedelic_duct_tape</slug>
+        <title>Psychedelic Duct Tape</title>
+        <subtitle>Ambient &amp; more</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/user-956219626">https://soundcloud.com/user-956219626</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10116" guid="8c5b0d1c-b7f4-498b-b826-85ab8d2394d0">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10116.html</url>
+        <logo>/system/events/logos/000/010/116/large/adelakram.jpg?1545311240</logo>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10116-adel_akram</slug>
+        <title>Adel Akram</title>
+        <subtitle>Diverse Electronic Music</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>With a background in shaping landscapes and creating permacultural environments, Adel became a multidimensional and interdisciplinary artist creating visuals whilst exploring waveforms and rooms. As well as providing visuals for Herrensauna and AnnaMelina’s and Varg’s Flora project at atonalFestival, his music appears in the upcoming movie M/M by DrewLint. By launching ‘When Are We Now?’ Adel Akram takes the idea of a label as an archive to document his surrounding and the process of examination with different media, arts and questions about our current position in time. </abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://timeandplace.net">http://timeandplace.net</link>
+          <link href="https://wawn.bandcamp.com">https://wawn.bandcamp.com</link>
           <link href="https://soundcloud.com/adelakram">https://soundcloud.com/adelakram</link>
-          <link href="http://timeandplace.net/">http://timeandplace.net/</link>
-          <link href="https://www.discogs.com/artist/2216465-Adel-Akram">https://www.discogs.com/artist/2216465-Adel-Akram</link>
-          <link href="https://wawn.bandcamp.com/releases">https://wawn.bandcamp.com/releases</link>
         </links>
         <attachments/>
       </event>
       <event id="10077" guid="c36d4196-e932-43c3-8bd6-ef6651684a43">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10077.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/077/large/123e-109b-4180-9a71-8c4a1880dba7.jpeg?1545406618</logo>
         <date>2018-12-27T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
@@ -3798,9 +4038,9 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         <slug>35c3-lineup-10077-alexeyan</slug>
         <title>Alexeyan</title>
         <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>From the family...</abstract>
         <description/>
         <recording>
@@ -3815,7 +4055,7 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
       </event>
       <event id="10085" guid="3d8b7f78-1df5-4928-bd8f-766e940e0521">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10085.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/085/large/avatars-000068578992-leteqv-t500x500.jpg?1545406859</logo>
         <date>2018-12-28T00:00:00+01:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
@@ -3823,10 +4063,10 @@ Iku Sakan's Cepheidian circles between the poles of contraction and relaxation, 
         <slug>35c3-lineup-10085-tasmo</slug>
         <title>Tasmo</title>
         <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>from the family...</abstract>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>From the family...</abstract>
         <description/>
         <recording>
           <license/>
@@ -7415,61 +7655,54 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
     <room name="Discodrama">
       <event id="10062" guid="64e1c408-0738-42c8-84ec-c619c0cca73e">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10062.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/062/large/avatars-000007922119-cq47oe-t500x500.jpg?1545407521</logo>
         <date>2018-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10062-lxc</slug>
         <title>LXC</title>
-        <subtitle>Alphacut</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>breakbeat vinyl &amp; bass music since 2003 &#13;
+        <subtitle>Dub, Broken Beats, Drum&amp;Bass</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>LXC is an audio tinker from Leipzig, creating pretty much everything between Ambient and Hardcore with a focus on broken beats, dubwise soundscapes and a hefty amount of sub bass.</abstract>
+        <description>Early sound research about 8 bit bassdrum sampling started about 1993, leading to a quite noisy Drum&amp;Bass liveact around the years of 2000. The leipzig based label Phantomnoise pressed LXC's pretty harsh debut vinyl entitled Strukturbruch EP in 2002. Further releaes followed up on labels such as Offshore from overseas, Subtle Sudio from Dublin, Death$ucker from London, on the hamburg-based imprints Sozialistischer Plattenbau and Plainaudio and Tübingen's Santorin. These days one can find works on Zamzam's Khaliphonic and the latest compilation of Defrostatica, again from trade fair town. Or bare rave town?&#13;
+Beyond exploring unheard music and non-music, the man like LXC is running his own cutting-edge drum&amp;bass/jungle imprint called Alphacut Records, which got expanded into sublabels like 45seven and Alpha Cutauri. Also, LXC is promoting Bassmaessage, Alphacutility and more bassy nights in his home hood, operating Bassmaessage sound system, mastering and cutting lacquers at the RAND Muzik vinyl pressing plant and is looking after an endless amount of smaller projects about audible and visual confusion every now and then. No shit.&#13;
 &#13;
-alphacut is a record label founded around 2002 in leipzig germoney earth, releasing contemporary jungle, experimental drum&amp;bass, scientific dub and more innocently labeled sound objects.&#13;
+LXC sounds like:&#13;
+Anti-clockwize-Drum'n'Bass, Scientific Dubber, Fakecore, Noskoolbreaks, Dumbstep, Reggaetomb, Deathhall, Gabbadub, Chip Hop, Phunkrock, Bambient, ...&#13;
 &#13;
-the labels are featuring worldwide up and coming artists, broken beats, heavy basslines, open minded sounds and a healthy bit of ruff dancefloor attitude.&#13;
-&#13;
-important principles are pacifism, solidarity and transparency. alphacut works as diy as possible, pushing local and independent structures.&#13;
-&#13;
-shops &amp; mailorders can order directly and get cool conditions. check our stocklist and get in contact, vinyl swaps, trades, exchanges are appreciated!&#13;
-&#13;
-digital sales are not available at the moment, but you may request what you need (release / wav or mp3) to digital at alphacut dt org. the files will be transfered along donation information, cheers!8&#13;
-&#13;
-demos are getting heard 100% and receive as much feedback as possible. send safe links and don't forget contact details and information about you.&#13;
-&#13;
-alphacut will not sign indy guitar bands, cheesy teenage mcs or pseudo-arty minimal techno. check our releases before sending stuff. breakbeat and uptempo related material prefered. if you are a versatile wunderkind, don't hesitate to include your speed ambient, chillcore or heavy listening material. </abstract>
-        <description/>
+LXC releases on:&#13;
+45seven, Alphacut, Alpha Cutauri, Offshore, Subtle Audio, Bustle Beats, Modern Urban Jazz, Death$ucker, Zamzam's Khaliphonic, Defrostatica, Sozialistischer Plattenbau, Phantomnoise, Santorin, Plainaudio, Dhyana, Minor, Trash Tapes, Moniker Eggplant, ...</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
         <links>
-          <link href="http://alphacut.net/">http://alphacut.net/</link>
+          <link href="http://www.lxc808.com">http://www.lxc808.com</link>
+          <link href="https://soundcloud.com/lxc">https://soundcloud.com/lxc</link>
+          <link href="http://alphacut.net">http://alphacut.net</link>
         </links>
         <attachments/>
       </event>
       <event id="10069" guid="c88ebe30-c799-46d7-8835-b64b42fd591d">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10069.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/069/large/avatars-000361741337-lfts8t-t500x500.jpg?1545407693</logo>
         <date>2018-12-28T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10069-voxel_blue</slug>
         <title>voxel.blue</title>
-        <subtitle>voxel blue (Gaggalacka)</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Various Styles of Psy</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>DJ from Dresden / Sachsen / Germany&#13;
-Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybient, ambient,...&#13;
-&#13;
-My style changes over the day. The atmosphere of the floor heavy influence the music I find fitting so, zero guarantees ;)</abstract>
-        <description/>
+Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybient, ambient, ...</abstract>
+        <description>"My style changes over the day. The atmosphere of the floor heavy influence the music I find fitting so, zero guarantees ;)"</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7482,17 +7715,17 @@ My style changes over the day. The atmosphere of the floor heavy influence the m
       </event>
       <event id="10041" guid="c6260cf6-e3cc-4f6c-977c-85d22be3b58b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10041.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/041/large/avatars-000119756252-ydapyg-t500x500.jpg?1545407986</logo>
         <date>2018-12-28T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10041-kollektiv_turmstrasse</slug>
         <title>Kollektiv Turmstrasse</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Techno/House/Trance</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>There are few artists operating in the house/techno milieu who offer much beyond functionality in their music. Those who bring more than this to the table always stand out from the crowd. Hamburg/Berlin duo Kollektiv Turmstrasse (Christian Hilscher and Nico Plagemann) are one of those rare acts whose music caters for both body and soul.</abstract>
         <description/>
         <recording>
@@ -7507,19 +7740,19 @@ My style changes over the day. The atmosphere of the floor heavy influence the m
       </event>
       <event id="10068" guid="ad4d8964-4f48-44c0-b7ef-0853b77cd4f1">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10068.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/068/large/avatars-000109415745-x7apen-t500x500.jpg?1545389220</logo>
         <date>2018-12-29T00:00:00+01:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10068-dave_dinger</slug>
         <title> Dave Dinger</title>
-        <subtitle>Bachstelzen/KaterBlau Berlin</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
+        <subtitle>Techno/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Bachstelzen / KaterBlau, Berlin</abstract>
+        <description>Dave Dinger began his illustrious career in Berlins legendary Bar25 in his own, very special way. There, he didn’t just play music, but actually built the DJ booths where the music was played from. This unique blend of passion for music and intrigue in aesthetic concepts has driven him through the mesmerising Berlin underground since the end of the '90s. Dave is personalizing his workspace as a DJ according to his interpretation of what electronic music culture is all about. There is a certain warmth, honesty and depth throughout his work that transcends through both his musicality and his design treatments. As a core member of Berlins famous Bachstelzen Collective, he was one of the founders who blueprinted what got to be known as the typical Berlin style – an architecture of social, musical and aesthetic concepts. Using chaotic, wild and organic scrap wood in his constructions were his distinctive signature well before the term ‘up-cycling‘ became hip. Bar25, the Katerholzig club and the Bachstelzen floor at Fusion Festival were prototypes of this time. His recent works contain a more polarising focus; a love for minimalistic abstract geometry, and years of experience in project management. Nothing shows this development in a greater way than Garbicz Festival — whose natural, albeit utopian habitat has become a homebase for both his music and his design aesthetics. An invitation to create the celebrated Turmbühne Stage at Fusion Festival’s 20th anniversary along with a coveted gig on the stage marked a milestone for both of his careers. For Dave, spacial design and sound are tools for installing an arena for unconventional social interactions. A sphere where common aesthetics are to be challenged and will change therefore constantly. His residency in KaterBlau helped him to build up his reputation as a DJ and to grow into the international realm. In the last years he has worked and played in Australia, New Zealand, India and all around Europe. There is a saying that ‘To talk about music, is like dancing to architecture’ - Dave Dinger takes the latter part as a challenge. So let his music speak for itself — and dance to both.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7527,24 +7760,23 @@ My style changes over the day. The atmosphere of the floor heavy influence the m
         <persons/>
         <links>
           <link href="https://soundcloud.com/dave-dinger">https://soundcloud.com/dave-dinger</link>
-          <link href="https://myspace.com/davedinger">https://myspace.com/davedinger</link>
         </links>
         <attachments/>
       </event>
       <event id="10083" guid="4fc77737-db51-409d-88bc-ad025d8a3ebf">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10083.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/083/large/avatars-000007049727-oyxhri-t500x500.jpg?1545408610</logo>
         <date>2018-12-29T02:00:00+01:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10083-akaak</slug>
         <title>akaak</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <subtitle>House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>akaak is also a member of hamburg-based dj-trio sutsche</abstract>
         <description/>
         <recording>
           <license/>
@@ -7565,12 +7797,12 @@ My style changes over the day. The atmosphere of the floor heavy influence the m
         <room>Discodrama</room>
         <slug>35c3-lineup-10071-404</slug>
         <title>404</title>
-        <subtitle>dj 7000, bidi, 404, köfte, dj abbau, dj closing, ayran, tyskie, and more, dj partner set</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Unter gewaltigen Opfern, schreibt er eine Reihe von Geschichten mit Ortsnamen, Jahreszahlen und sonstigen Daten, die sich durchaus belegen lassen und in ihrer Wirklichkeit nicht anzuzweifeln sind. Diese Eckdaten sind nur Bruchstücke, die aus einer Summe von Erinnerungen zusammengesetzt wurden. Das tatsächlich gelebte und dies was wir zu erleben glaubten, ist ein Teil seiner Biographie, die lediglich eine nachträgliche Interpretation darstellt.</abstract>
-        <description/>
+        <subtitle>Electronica, Downbeat</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>dj 7000, bidi, 404, köfte, dj abbau, dj closing, ayran, tyskie, dj partner set, and more ...</abstract>
+        <description>Unter gewaltigen Opfern, schreibt er eine Reihe von Geschichten mit Ortsnamen, Jahreszahlen und sonstigen Daten, die sich durchaus belegen lassen und in ihrer Wirklichkeit nicht anzuzweifeln sind. Diese Eckdaten sind nur Bruchstücke, die aus einer Summe von Erinnerungen zusammengesetzt wurden. Das tatsächlich gelebte und dies was wir zu erleben glaubten, ist ein Teil seiner Biographie, die lediglich eine nachträgliche Interpretation darstellt.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -7594,9 +7826,9 @@ My style changes over the day. The atmosphere of the floor heavy influence the m
         <slug>35c3-lineup-10102-mogreens</slug>
         <title>Mogreens</title>
         <subtitle>Vinyls of Funk, Soul and Jazz</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Einer der ersten Stunden. Ein echter Prototyp.&#13;
 ---&#13;
@@ -7619,9 +7851,9 @@ One of the first. A real prototype.</description>
         <slug>35c3-lineup-10103-fussel</slug>
         <title>Fussel</title>
         <subtitle>Electronic Music</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Fussel, vom Pech verfolgt, ist er nicht nur unser Allrounder für die Umsetzung jeder noch so wahnsinnigen Idee, er hat auch einen ausgeprägten Hang zur endzeitlichen, elektronischen Musik - auf die wir uns sehr freuen. &#13;
 ---&#13;
@@ -7644,9 +7876,9 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <slug>35c3-lineup-10104-karlakakarl</slug>
         <title>Karlakakarl</title>
         <subtitle>Gute Music von Schallplatte</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Karlakakarl wäre gern mit dem Rad gekommen, muss aber gleich weiter nach Tel Aviv - Karl untersucht den Einfluss guter Musik (vorsicht kann Teile von Jazz enthalten) auf die Bluthirnschranke und teilt seine Erkenntnisse für 2 Stunden mit uns. &#13;
 ---&#13;
@@ -7669,9 +7901,9 @@ Karlakakarl would have liked to come by bike, but has to go straight on to Tel A
         <slug>35c3-lineup-10105-mr_jb</slug>
         <title>Mr. JB</title>
         <subtitle>The master of mission</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Mr. JB aka monkeyking ist die Geheimwaffe und der wohl am besten vorbereiteteste DJ im Shutterisland, ein wandelndes Musiklexikon und Meister der Übergänge und genau darum bekommt er auch 6h Playtime.&#13;
 ---&#13;
@@ -7696,9 +7928,9 @@ Mr. JB is the secret weapon and probably the best prepared dj in shutterisland, 
         <slug>35c3-lineup-10106-senor_sib</slug>
         <title>Señor SIB</title>
         <subtitle>More Vinyl</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>Señor SIB ist in der (guten) politschen Bildung tätig und er sammelt (gute) Platten und er ist ein (guter) Freund - irgendein Bogen von jazzig zu drum´n bass war mal im Gespräch.&#13;
 ---&#13;
@@ -7723,9 +7955,9 @@ Señor SIB is active in (good) political education and he collects (good) record
         <slug>35c3-lineup-10107-zeerone</slug>
         <title>ZeerOne</title>
         <subtitle>TwittyTwister</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description>ZeerOne der Philosoph mit diesem Humor darf nicht fehlen. Er ist der Inbegriff der gut gelaunten Stetigkeit und sein musikalisches Spektrum würde auf kein Display passen.&#13;
 ---&#13;
@@ -7750,9 +7982,9 @@ ZeerOne the philosopher and with this humor must not be absent. He is the epitom
         <slug>35c3-lineup-10108-malte_rathmann</slug>
         <title>Malte Rathmann</title>
         <subtitle>Audio / Video Set</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -7773,9 +8005,9 @@ ZeerOne the philosopher and with this humor must not be absent. He is the epitom
         <slug>35c3-lineup-10109-die_snuff_lagune</slug>
         <title>Die Snuff Lagune</title>
         <subtitle>Audio / Video Set</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract/>
         <description>Devon, Franziska, Jan, Malte. elektoinstrumentaler ambient chillcore, Glitchyplatsch meets Rohrschachbrettmuster im Darkroom. Alle können. immer.&#13;
 ---&#13;
@@ -7788,22 +8020,181 @@ Devon, Franziska, Jan, Malte. electro-instrumental ambient chillcore, Glitchypla
         <links/>
         <attachments/>
       </event>
+      <event id="10110" guid="e16cb096-773e-47d0-86d2-ccdb5ca953bb">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10110.html</url>
+        <logo/>
+        <date>2018-12-29T06:00:00+01:00</date>
+        <start>06:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10110-fussel</slug>
+        <title>Fussel</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description>Fussel, vom Pech verfolgt, ist er nicht nur unser Allrounder für die Umsetzung jeder noch so wahnsinnigen Idee, er hat auch einen ausgeprägten Hang zur endzeitlichen, elektronischen Musik - auf die wir uns sehr freuen. &#13;
+---&#13;
+Fussel - followed by bad luck, he is not only our all-rounder for the realization of even-the-most-insane-ideas, he also has a pronounced inclination towards electronic music of the last days - to which we are very much looking forward.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
     </room>
     <room name="Compeiler">
+      <event id="10147" guid="0dcd4053-2b28-4f2a-b462-022f5afa0b58">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10147.html</url>
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10147-rote_schule_music_workshop</slug>
+        <title>Rote Schule Music Workshop</title>
+        <subtitle>Workshop/Performance</subtitle>
+        <track>Music</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10129" guid="ff216e54-ddee-4f70-8314-605dfc93a567">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10129.html</url>
+        <logo>/system/events/logos/000/010/129/large/avatars-000138623825-tpdxbg-t500x500.jpg?1545595311</logo>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10129-anna_hauss</slug>
+        <title>Anna Hauss</title>
+        <subtitle>Singer-Songwriterin</subtitle>
+        <track>Music</track>
+        <type/>
+        <language>en</language>
+        <abstract>Anna Hauss ist Sängerin, Texterin und Komponistin und lebt derzeit in Leipzig. Aufgewachsen ist sie in Berlin, wo ihre musikalische Laufbahn schon früh begann. 2013 erschien ihr Solo-Debüt "Summerbreak", ein Jahr später begann sie in Leipzig Jazzgesang zu studieren. In ihren Songs geht es um persönliche Erfahrungen sowie aktuelle Beobachtungen unserer Zeit. Dabei ist sie immer wieder auf der Suche nach neuen Herausforderungen und Sounds. Aktuell ist sie mit ihrer Band STILL IN THE WOODS und deren aktuellem Album "Rootless Tree" unterwegs, spielt Konzerte als Solokünstlerin oder startet Projekte mit Musikern aus der Leipziger Jazzszene.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/haussmusic">https://soundcloud.com/haussmusic</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10130" guid="10ed2311-451b-44e9-a7fa-58303a6034c3">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10130.html</url>
+        <logo>/system/events/logos/000/010/130/large/bio01.png?1545412551</logo>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10130-peter_klohmann</slug>
+        <title>Peter Klohmann</title>
+        <subtitle>Jazz</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract/>
+        <description>Peter Klohmann &#13;
+geb. 1986, Frankfurt am Main&#13;
+2001-2005 Jungstudent am Peter-Cornelius-Konservatorium Mainz &#13;
+2005-2010 Bachelor Studium Jazz Saxophon an der Johannes Gutenberg-Universität Mainz&#13;
+2010 bis 2012 Master Studium Jazz Saxophon bei Prof. Bernd Konrad an der Musikhochschule Stuttgart&#13;
+ab WS 2012 Master Studium Jazz Komposition bei Prof. Rainer Tempel an der Musikhochschule Stuttgart&#13;
+2001-2007 Landesjugenjazzorchesters Rheinland-Pfalz &#13;
+2007-2011 Bundesjazzorchester (BujazzO)&#13;
+2012 Aushilfe HR-Big Band (Schultour)&#13;
+Tourneen führten ihn nach Brasilien, USA, Südafrika, Süd-Korea, Russland, Polen, Indien, Italien und auf den Balkan (Kroatien, Bosnien-Herzegowina, Serbien, Bulgarien, Rumänien)&#13;
+ &#13;
+Gründet 2009 die Konzertreihe „Junge Szene Frankfurt“&#13;
+2013 Arbeitsstipendium Jazz der Stadt Frankfurt am Main&#13;
+2014 Eröffnung des 45. Deutsches Jazzfestivals Frankfurt am Main</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://peterklohmann.com">http://peterklohmann.com</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10088" guid="95f3d4ff-145f-426d-a705-52e67e416c94">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10088.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/088/large/avatars-000389452269-8x5ub9-t500x500.jpg?1545412662</logo>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10088-jeanette_tresbien</slug>
         <title>Jeanette Trèsbien</title>
-        <subtitle>Moloch / Ringelpiez</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Part 1</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Moloch, Ringelpietz / Hamburg</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/jeanette-tr-sbien">https://soundcloud.com/jeanette-tr-sbien</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10131" guid="244005eb-b499-4f13-80e1-ab1ee66db666">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10131.html</url>
+        <logo/>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10131-zso_co</slug>
+        <title>Zso &amp; Co.</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10132" guid="c8a0ca06-f75e-45b9-871b-f48a468df302">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10132.html</url>
+        <logo>/system/events/logos/000/010/132/large/avatars-000389452269-8x5ub9-t500x500.jpg?1545412872</logo>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10132-jeanette_tresbien</slug>
+        <title>Jeanette Trèsbien</title>
+        <subtitle>Part 2</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Moloch, Ringelpietz / Hamburg</abstract>
         <description/>
         <recording>
           <license/>
@@ -7817,49 +8208,56 @@ Devon, Franziska, Jan, Malte. electro-instrumental ambient chillcore, Glitchypla
       </event>
       <event id="10053" guid="94a79550-1fef-4ba0-8db6-985c8241b90b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10053.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/053/large/35.jpg?1545413155</logo>
         <date>2018-12-28T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10053-air_cushion_finish</slug>
         <title>Air Cushion Finish</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Reviews say&#13;
-a provocation to not take yourself too seriously. (the-attic.net – 4/5)&#13;
-an immersively psychedelic (sweet, rather than head-frying) world unto themselves. (Boomkat)&#13;
-something superb as Flink is exceptional and truly unique. (Kristof d’Haeseleer)&#13;
-it’s a really magical musical realism. (Krossfingers)</abstract>
-        <description/>
+        <subtitle>Impromptu, Acousmatic, Ambient, Krautrock,</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Air Cushion Finish do multi-style and real time music. It's created from anything the players come up with at a particular moment. The resulting music defies style definitions.</abstract>
+        <description>The slow motion part was referred to as homeopathic punk. before, however ambient, electro-acoustic electronica, dada, soundtrack, radio play, spoken word, impromptu (though preconceived in a certain sense), even jazz or free music could come to mind as well.&#13;
+&#13;
+Air Cushion Finish formed in Berlin in 2007 and comprised composer/player jayrope and natural vocal synthesizer Lippstueck, who had enjoyed playing Berlin’s underground together since the 1990s. Lippstueck prominently sings, wordless and backwards in time, while his partner jayrope tends to also appreciate any DIY, electronic, string or percussion instrument small enough to fit into a single suitcase altogether. &#13;
+Changing setup and subsequently music is programmatic to them, as well as having friends as guest musicians, all resulting into an unforeseeable slow motion cacophony of whispers, bleeps, rhythms and harmonies. &#13;
+There’s a notion of Dada, but you never know.&#13;
+&#13;
+This rather poetic note about their separation from cemented structures &amp; styles took them to places. ACF got to support a number of their own favourite artists along the line. Subsequently ACF’s 8th album FLINK – upon a friendly invitation – was recorded and mixed with Thierry Amar at Montreal’s Hotel2Tango. For the first time in a proper studio, if you will, but nonetheless with an audience present at recording time. The resulting double 12” ‘Flink’ was released on Lullabies for Insominacs in early 2017, telling of ACF’s current state of poetical accident, swaying, swinging and bouncing, boldly careful, like a transparent tattoo on your forehead.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
         <links>
-          <link href="https://www.aircushionfinish.com/">https://www.aircushionfinish.com/</link>
-          <link href="https://www.aircushionfinish.com/home">https://www.aircushionfinish.com/home</link>
+          <link href="https://www.aircushionfinish.com">https://www.aircushionfinish.com</link>
           <link href="https://aircushionfinish.bandcamp.com/">https://aircushionfinish.bandcamp.com/</link>
         </links>
         <attachments/>
       </event>
       <event id="10079" guid="b2755b2f-1701-42b7-8d2e-61f328f6c2fa">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10079.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/079/large/avatars-000023223454-7aeb1i-t500x500.jpg?1545413510</logo>
         <date>2018-12-28T21:00:00+01:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10079-webermichelson</slug>
-        <title>WEBERMICHELSON</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <slug>35c3-lineup-10079-michelson</slug>
+        <title>Michelson</title>
+        <subtitle>Part 1</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>..puts compositions together like a dj does &#13;
+so that makes him a dj &#13;
+in a ambienty, krauty, electronicy way he is&#13;
+trtying to tell you something he only knows &#13;
+when its time for it. &#13;
+magical! &#13;
+</abstract>
         <description/>
         <recording>
           <license/>
@@ -7880,13 +8278,11 @@ it’s a really magical musical realism. (Krossfingers)</abstract>
         <room>Compeiler</room>
         <slug>35c3-lineup-10060-vai</slug>
         <title>Vai</title>
-        <subtitle>Son of Idaia</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Holger is a creative family combining diverse sounds and visuals from various playgrounds.&#13;
-&#13;
-Founded in 2013 and run by Jan &amp; Steffen Bennemann.</abstract>
+        <subtitle>Experimental Electronics Live Set</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>"This world is so full of love. You are not here by accident. You don’t have to worry about anything. Your being, is so full of love, so full of peace. You don’t have to go to someplace else to find peace. It is right where you are. Trust this, don’t worry about anything at all. Just enter this place and be ."</abstract>
         <description/>
         <recording>
           <license/>
@@ -7894,24 +8290,55 @@ Founded in 2013 and run by Jan &amp; Steffen Bennemann.</abstract>
         </recording>
         <persons/>
         <links>
-          <link href="https://holger-records.bandcamp.com/album/son-of-idaia">https://holger-records.bandcamp.com/album/son-of-idaia</link>
+          <link href="https://holger-records.bandcamp.com/album/son-of-idaia">Listen: Son of Idaia EP (Holger Records)</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10133" guid="5b864156-e94c-4935-854b-9a0df97c3564">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10133.html</url>
+        <logo>/system/events/logos/000/010/133/large/avatars-000023223454-7aeb1i-t500x500.jpg?1545413633</logo>
+        <date>2018-12-28T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10133-michelson</slug>
+        <title>Michelson</title>
+        <subtitle>Part 2</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>..puts compositions together like a dj does &#13;
+so that makes him a dj &#13;
+in a ambienty, krauty, electronicy way he is&#13;
+trtying to tell you something he only knows &#13;
+when its time for it. &#13;
+magical! &#13;
+</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/megamichelson">https://soundcloud.com/megamichelson</link>
         </links>
         <attachments/>
       </event>
       <event id="10081" guid="76b1d16f-ca84-4b46-afe5-7932e75fbfbc">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10081.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/081/large/Leafar-Legov-.jpg?1545389380</logo>
         <date>2018-12-29T00:00:00+01:00</date>
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10081-leafar_legov</slug>
-        <title> leafar legov </title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <title> Leafar Legov </title>
+        <subtitle>Ambient</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Leafar Legov is a quiet but essential member of the Giegling family. Legov's relationship with club music seems purely conditional—he'll follow its guidelines only when they happen to suit his creative impulses. With Kettenkarussell, he makes what could loosely be described as downtempo house. On his solo records, he offsets ambient sketches with somber hip-hop instrumentals. But his personal musical universe is still, for the most part, a mystery—aside from "Blush," an excellent one-off from 2009 he made as Robert Oh, his first solo release was the EP "Talk" on Giegling, which came out in 2016. Abstract and subdued, it's a record that points to Giegling's emotional depth and stylistic open-endedness. </abstract>
         <description/>
         <recording>
           <license/>
@@ -7923,22 +8350,57 @@ Founded in 2013 and run by Jan &amp; Steffen Bennemann.</abstract>
         </links>
         <attachments/>
       </event>
+      <event id="10134" guid="fd70f35d-95d9-4fd3-ba93-2d96039f0a9b">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10134.html</url>
+        <logo/>
+        <date>2018-12-29T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10134-pacheko_b2b_oliotronix</slug>
+        <title>Pacheko b2b Oliotronix</title>
+        <subtitle>Techno/Rave</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Oliotronix:&#13;
+In 2017/18 her new music setup has taken shape in form of energetic performances using Gameboy DMG and various electronic noise machines still combined with an hooligan/techno/rave DJ set.</abstract>
+        <description>Few feedbacks from the audience:&#13;
+&#13;
+“What is exciting about DJ Oliotronix is she doesn't follow the trend but deliver crazy sets following her own taste while keeping it entertaining on a high level of intensity. Prepare to have fun!“&#13;
+Madame Claude, Berlin&#13;
+&#13;
+“Very original and eclectic, with interesting non-standard use of equipment. Also very cool neo-cyber-hip look!”&#13;
+Galaxy Wolf, London&#13;
+&#13;
+“Great! Good energy and selection. Nice to see DJs enjoying themselves too!”&#13;
+Crux, London</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/elcapitano">Pacheko: https://soundcloud.com/elcapitano</link>
+        </links>
+        <attachments/>
+      </event>
     </room>
     <room name="Uptime Bar">
       <event id="10061" guid="60b4884f-575e-4849-903c-6403631e70b4">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10061.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/061/large/avatars-000140974016-n2w1av-t500x500.jpg?1545414123</logo>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10061-sudseemelodien</slug>
         <title>Südseemelodien</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>melodies from the South Seas</abstract>
+        <subtitle>Finest Hawaii Bar Sounds</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Purest aloha spirit to dream away as you let the sounds transporting you to ocean, beach, surfers and luau riding on the back of a glittering Humuhumunukunukuāpua'a.</abstract>
         <description/>
         <recording>
           <license/>
@@ -7950,28 +8412,20 @@ Founded in 2013 and run by Jan &amp; Steffen Bennemann.</abstract>
         </links>
         <attachments/>
       </event>
-      <event id="10073" guid="78b5625a-0af0-494e-bc6b-57edd0138d27">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10073.html</url>
-        <logo/>
-        <date>2018-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
+      <event id="10063" guid="5f7f1cef-1b23-43f3-8de5-6bf77048fba3">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10063.html</url>
+        <logo>/system/events/logos/000/010/063/large/shikoba.jpg?1545329369</logo>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10073-alexa_d_saster</slug>
-        <title> Alexa D!saster </title>
-        <subtitle>DJ Alexa D Saster - puts some musical oxymorons in the mix.</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>AL-D! (Alexa-D!saster) // electric-guitar //loops &amp; effects // vocals // lo-fi //improv // DAW // drums // bells //&#13;
-&#13;
-Alexa D Saster is a DJ, musician and multimedia artist based in Berlin.&#13;
-&#13;
-DJ Alexa D!saster is a record collector and sound-explorer. Her dj-sets are exotic and eclectic and based on underground-dance-music. She's spinning her records in Berlin's subculture spots and elsewhere in Germany and Europe. As well as on festivals like Fusion (DE) or Garbicz Festival (PL).&#13;
-&#13;
-Alexa is a guitarist and singer and plays in different formations. Under the moniker AL-D! she runs her indie-electronic solo-project, where she combines electronic sounds with vocals and electric-guitar. AL-D! works with loops and effects and creates a smooth atmosphere full of lo-fi sound-layers. The past years she hit the road across Europe. She has been toured here and there in Germany, Netherlands, Belgium, Switzerland and Italy.&#13;
-&#13;
-In addition to her musical work, Alexa is working as a comic artist (KATO Comics), webdesigner and organizes concerts and events like mild! open air and Golden Disko.</abstract>
+        <slug>35c3-lineup-10063-shikoba</slug>
+        <title> Shikoba</title>
+        <subtitle>Diverse Music</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Shikoba runs the Planet Almanac label from Leipzig and is involved with local club startup mjut.</abstract>
         <description/>
         <recording>
           <license/>
@@ -7979,27 +8433,62 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         </recording>
         <persons/>
         <links>
-          <link href="http://alexa-dsaster.de/home.html">http://alexa-dsaster.de/</link>
+          <link href="https://soundcloud.com/shikobamakesnoize">https://soundcloud.com/shikobamakesnoize</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10073" guid="78b5625a-0af0-494e-bc6b-57edd0138d27">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10073.html</url>
+        <logo>/system/events/logos/000/010/073/large/avatars-000539299344-d3tt0s-t500x500.jpg?1545414558</logo>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10073-alexa_d_saster</slug>
+        <title> Alexa D!saster </title>
+        <subtitle>Musical oxymorons</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>AL-D! (Alexa-D!saster) // electric-guitar //loops &amp; effects // vocals // lo-fi //improv // DAW // drums // bells //&#13;
+&#13;
+Alexa D Saster is a DJ, musician and crossover artist based in Berlin. &#13;
+&#13;
+DJ Alexa D!saster is a record collector and sound-explorer. Her dj-sets are between mildstyle and wildstyle and based on underground-music and unheard rarities. She's spinning her sets in Berlin's subculture spots and elsewhere in Germany and Europe. &#13;
+&#13;
+Alexa is a guitarist and singer and plays in different formations. Under the moniker AL-D! she runs her indie-loop-project, where she combines electronic sounds with vocals and electric-guitar.&#13;
+&#13;
+She is creator of Golden Disko, resident of mild! open air in Berlin's cutest garden Zuckerzauber and host of Kizamani kisasa radio show on Radio Rixdorf.&#13;
+&#13;
+In addition to her music, Alexa is working as comic artist  and web designer.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://alexa-dsaster.de">http://alexa-dsaster.de</link>
           <link href="https://soundcloud.com/alexadsaster">https://soundcloud.com/alexadsaster</link>
-          <link href="https://www.mixcloud.com/alexadsaster/">https://www.mixcloud.com/alexadsaster/</link>
+          <link href="https://www.mixcloud.com/alexadsaster">https://www.mixcloud.com/alexadsaster</link>
           <link href="https://soundcloud.com/alexadisaster">https://soundcloud.com/alexadisaster (spot the difference!)</link>
         </links>
         <attachments/>
       </event>
       <event id="10087" guid="18f08a7c-9481-4928-9ed1-6842d10a40ca">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10087.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/087/large/avatars-000449268345-ysghqy-t500x500.jpg?1545414667</logo>
         <date>2018-12-28T20:00:00+01:00</date>
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10087-melina</slug>
-        <title>Melina</title>
-        <subtitle/>
-        <track/>
-        <type/>
+        <slug>35c3-lineup-10087-please_talk_softly</slug>
+        <title>Please Talk Softly</title>
+        <subtitle>Diverse Music</subtitle>
+        <track>Music</track>
+        <type>djset</type>
         <language/>
-        <abstract/>
+        <abstract>Con Han Hop, mjut / Leipzig</abstract>
         <description/>
         <recording>
           <license/>
@@ -8008,7 +8497,6 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <persons/>
         <links>
           <link href="https://soundcloud.com/pleasetalksoftly">https://soundcloud.com/pleasetalksoftly</link>
-          <link href="https://soundcloud.com/iron-curtis">https://soundcloud.com/iron-curtis</link>
         </links>
         <attachments/>
       </event>
@@ -8021,11 +8509,11 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10084-cornelius_niki_nebel</slug>
         <title> Cornelius &amp; Niki Nebel</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <subtitle>Diverse Music</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Hamburg in town</abstract>
         <description/>
         <recording>
           <license/>
@@ -8036,6 +8524,30 @@ In addition to her musical work, Alexa is working as a comic artist (KATO Comics
           <link href="https://soundcloud.com/nele-wittler">https://soundcloud.com/nele-wittler</link>
           <link href="https://soundcloud.com/cornelius11">https://soundcloud.com/cornelius11</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="10117" guid="0e0a5472-d260-4936-917a-fcb8063caac1">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10117.html</url>
+        <logo/>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10117-dj_samantha</slug>
+        <title>DJ Samantha</title>
+        <subtitle>Music for non places</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>A selection of dub, african and techno classics will be rearranged for a mix; to park (20 kilogramm) suitcases; find a seat next to the smoking compartment and head off to gate B. Playing a DJ set with mostly vinyl, Samantha is slowly paneling her sound with a diverse selection of&#13;
+music.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
         <attachments/>
       </event>
     </room>
@@ -11526,17 +12038,17 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
     <room name="Discodrama">
       <event id="10048" guid="217f7d18-c837-4e12-aac4-2cf826730252">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10048.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/048/large/0007254766_10.jpg?1545415840</logo>
         <date>2018-12-29T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10048-demoscene_time_machine</slug>
         <title>Demoscene Time Machine</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Melodic bleepy &amp; fakebit music</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract>Demoscene Time Machine (aka David Whiting) has been making melodic bleepy music since 2008. Inspired by old SNES soundtracks, DOS demos and the ever-versatile range of the PC speaker, he’s now in full force producing heavy dancefloor-friendly fakebit music with catchy melodies and infectious beats.</abstract>
         <description/>
         <recording>
@@ -11556,19 +12068,21 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
       </event>
       <event id="10042" guid="b1b875a6-812f-4e6c-86aa-40fff58ff790">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10042.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/042/large/avatars-000373881752-5r40p5-t500x500.jpg?1545415685</logo>
         <date>2018-12-29T19:00:00+01:00</date>
         <start>19:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10042-viktor_talking_machine</slug>
         <title>Viktor Talking Machine</title>
-        <subtitle>JUST DO VINYL</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
+        <subtitle>House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Digital is death.&#13;
+&#13;
+Shortly before the Tibetan Highlands, a small clearing, dressed with black fern which sways to the rhythm of the sun, extends itself. Here you can meet the inhabitants of a sleepy coastal village, who had found the remains of a huge comet years ago. A viscous dark mass that they turned immediately into brownies with ice cream and pickles. The energy that was gained from the process drives huge machines, planting anemones and helps the bees with their mating rituals. Every 1210 years when the planets order in a circular orbit, a child is born into this magical world, who comes to change everything.</abstract>
+        <description>Viktor grew up in a musical family on the outskirts of a small mountain village. Early on, he discovered his love for nature and analogue soundscapes. He devoured all the sounds of nature and the vastness of the Antarctic wilderness and distilled from them his deep sound which accompanies him until today.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11579,22 +12093,41 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         </links>
         <attachments/>
       </event>
-      <event id="10064" guid="1b66a579-3b51-4306-ae97-2eccc8a086a1">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10064.html</url>
-        <logo/>
+      <event id="10052" guid="877f5b00-c744-4c27-930c-cfa9e4e26bbc">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10052.html</url>
+        <logo>/system/events/logos/000/010/052/large/avatars-000410038332-aohj1k-t500x500.jpg?1545416337</logo>
         <date>2018-12-29T21:00:00+01:00</date>
         <start>21:00</start>
-        <duration>01:00</duration>
+        <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10064-disrupt</slug>
-        <title>Disrupt</title>
-        <subtitle>Jahtari</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003.&#13;
+        <slug>35c3-lineup-10052-maurizio_schmitz</slug>
+        <title> Maurizio Schmitz</title>
+        <subtitle>Techno/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Maurizio Schmitz drives his own bus, dividing his diary effortlessly between work and play and playing.&#13;
 &#13;
-Starting the Jahtari imprint as an outlet for those humble but fun experiments helped to gain momentum for the sound and DIY approach the label is now known for. A fair heap of releases followed since 2007. </abstract>
+Half Italian, half German and his is a dizzying ongoing musical journey that flies economy and business all at the same time. Maurizio exploits these contrasts, wearing pinstripes or pyjamas or both - he jams.&#13;
+&#13;
+We are talking about psychedelic house here. Socks off and sensual. It works on the big stage, it works in the club and it washes all over an after hour. This sound did not happen by accident.&#13;
+In 1990 scrambling around some old Thorens decks in a club his mother worked in Maurizio was scooping up all the vinyl lost from the night before – the first Schmitz mixtapes (which actually were not mixed) saw the light of day at this time. Many were to follow and these valuable suckers live amongst 11,000 pieces of vinyl collected and stroked over the years.&#13;
+&#13;
+When German techno was dynamite, changing the rules and ushering in a whole new world of electronic music Maurizio was not only there – he was smack in the middle of it.&#13;
+&#13;
+Bonn, Hamburg, Frankfurt, Munich. From the infamous “Labor” club to a 10 years residency at 'FrequenzBerater' to Frankfurt and “U60311”. Many many more but maybe two things stand out and tell you more. Spaldingstreet 43 in Hamburg, the original flat sharing rave. Maurizio presided over 7 years of lovely madness. Today you could create a major art/music festival just from the people who crashed out on the sofas there. Then the tour de force. His very own Mauromusica night founded in Bonn 2004 in the beautiful “Rheingarten”. An octagon shaped glass pavilion. Promoter, resident DJ and mum on the door. Another 10 years.&#13;
+&#13;
+No need to name names, somewhere in the above paragraph they all passed through.&#13;
+&#13;
+Perhaps one name, because here comes the other Maurizio Schmitz.&#13;
+In a 1994 after hour set in Munich, “Pulvertum” it was called, the raver Maurizio noticed Sven Vath 2 metres high in a tree mid set. You don’t forget stuff like that.&#13;
+Their paths were never going to stop crossing.&#13;
+&#13;
+Event manager, promoter, booker and for some time now the right hand man and frequent support act for the immortal legendary magician Sven Vath. It is a relationship that is not stopping any time soon.&#13;
+&#13;
+So, to summarise, Sicilan passion met German techno and spat out the Dj Maurizio Schmitz.&#13;
+&#13;
+(2018, Words by Andrew Gillings)</abstract>
         <description/>
         <recording>
           <license/>
@@ -11602,70 +12135,53 @@ Starting the Jahtari imprint as an outlet for those humble but fun experiments h
         </recording>
         <persons/>
         <links>
-          <link href="https://jahtari.org/artists/disrupt/">https://jahtari.org/artists/disrupt/</link>
-          <link href="https://soundcloud.com/jahtari_records">https://soundcloud.com/jahtari_records</link>
+          <link href="https://soundcloud.com/mauromusica/">https://soundcloud.com/mauromusica/</link>
         </links>
         <attachments/>
       </event>
       <event id="10075" guid="1df771b7-17cf-4c3b-9472-251c660f0ef4">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10075.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/075/large/pozm8.jpg?1545416811</logo>
         <date>2018-12-29T23:00:00+01:00</date>
         <start>23:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10075-dominik_eulberg</slug>
         <title>Dominik Eulberg</title>
-        <subtitle>I like birds</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>(DE below)&#13;
-&#13;
-Dominik Eulberg has two lifelong passions: music and nature. Over the course of more than ten accomplished years, he has managed to reconcile both by producing an ever-evolving but always organic and melodic brand of electronic music. The German born a..&#13;
-&#13;
-Of course, Dominik is also a well travelled DJ who is always observing the natural world on his worldly travels. Much like a wide open landscape of flora and fauna that is always changing and mutating through the seasons, his sounds never stay still for long. As such a DJ set from the man at clubs and festivals around Europe, South America, the USA and many places in between always offer a compelling blend of physical groove and heady melody. No shade of techno or house is out of his grasp, and he can weave together deep, hard, textural, emotive and/or angelic tropes depending on what the situation requires.&#13;
+        <subtitle>Techno/Trance/Rave</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Dominik Eulberg has two lifelong passions: music and nature. Over the course of more than ten accomplished years, he has managed to reconcile both by producing an ever-evolving but always organic and melodic brand of electronic music.</abstract>
+        <description>Of course, Dominik is also a well travelled DJ who is always observing the natural world on his worldly travels. Much like a wide open landscape of flora and fauna that is always changing and mutating through the seasons, his sounds never stay still for long. As such a DJ set from the man at clubs and festivals around Europe, South America, the USA and many places in between always offer a compelling blend of physical groove and heady melody. No shade of techno or house is out of his grasp, and he can weave together deep, hard, textural, emotive and/or angelic tropes depending on what the situation requires.&#13;
 For Dominik, mother nature is the greatest artist of all. As a painter paints his representation of the natural world, Dominik wants to create an acoustic image that depicts how he feels about it. For example, a walk in the woods can be a blueprint for exciting music, because “in the woods you never know what is waiting for you around the next corner.” In the forest a rustle in the coppice can turn into a hookline, just like a subtle synth can become the main feature of one of his moving productions. As well as producing plenty of standout 12”s, Dominik is also a revered remixer who has worked on nearly 100 projects and music by Hot Chip, DJ Hell, Tiefschwarz, Nathan Fake, Roman Flügel and many more. &#13;
-In 2007 Dominik was awarded the "Preis der deutschen Schallplattenkritik" for his second album Heimische Gefilde, whilst the follow up in 2011, Diorma, was just as widely acclaimed. Over the years he has always managed to stay in the press and place highly in polls by Raveline, Groove and De:Bug was well as pick up various awards for his studio and DJ work. Now a veteran of more than ten years in the game, Dominik is still as fresh as compelling as he ever was, much like the natural world in which he so passionately surrounds himself.</abstract>
-        <description>Viele haben es versucht, doch er kann tatsächlich von sich behaupten, die Vogelkunde und den Techno unter einen Hut gebracht zu haben: Dominik Eulberg, der ravende Ornithologe aus dem Westerwald, international gebuchter DJ im Rampenlicht und stiller Beobachter heimatlicher Flora wie Fauna gleichermaßen, ein Meister der versöhnten Widersprüche.&#13;
-&#13;
-Seit seiner ersten Veröffentlichung auf Traum Schallplatten im Jahre 2003 streut der Ausnahmeproduzent nun schon ökologisches Fachwissen und Vogelzwitschern in seinen Tracks aus. Die Natur ist die Inspirationsquelle für das eigene Schaffen, inhaltlich wie dramaturgisch und das bereits seit 1993.&#13;
-&#13;
-Der Spaziergang im Wald, das ist Dominik’s Blueprint für spannende Musik, denn „hier weißt du nie, was dich hinter der nächsten Biegung erwartet“. Da kann ein Rascheln im Unterholz zur Hookline mutieren, jedes Geräusch zählt und verleiht den Tracks jene Lebendigkeit, die der Tanzflur braucht. Minimal, maximal, scheißegal: das Publikum liebt aussergewöhnlichen Charakter ebenso wie eine fette Bassdrum, und wer beides zusammenbringt hat nicht zu Unrecht das hohe Ansehen, welches Dominik im sonst eher engstirnigen Clubkanon weltweit genießt.&#13;
-&#13;
-„Mehr Fleisch am Knochen“, das ist sein Motto, gerade in Zeiten des skelettierten Diät-Technos eine unverzichtbare Haltung und so konnte der DJ, Produzent und Remixer sich mehr als nur einen Namen machen. Seit mehreren Jahren beherrscht er nun das situative Losrocken auf 12“-Format ebenso wie die abendfüllende Lauflänge eines Künstleralbums.&#13;
-&#13;
-Im Jahr 2007 erhielt Dominik den Preis der deutschen Schallplattenkritik für sein zweites Album “Heimische Gefilde”, womit er viel für die genreübergreifende Akzeptanz von Techno leistete. Es erschien auf Traumschallplatten, dass von seinen wichtigsten Förderern Jacqueline und Riley Reinhold betrieben wird. Bei den Leserumfragen der Magazine Groove, Raveline und De:Bug landete er mehrfach auf den vorderen Plätzen, wurde etwa zum Newcomer oder Produzenten des Jahres gewählt. Auch sein Schaffen als DJ, als auch seine Remixe für Künstler wie Hot Chip, DJ Hell, Tiefschwarz, Nathan Fake oder Roman Flügel wurden mehrfach ausgeszeichnet.&#13;
-&#13;
-Auch in der Zukunft wird Dominik weiter seiner Vorliebe für mehr Emotionalität im Beatkorsett fröhnen. Die Kreativität seines musikalischen Schaffens bleibt dabei weiterhin komplex und innovativ, aber natürlich auch immer zugänglich durch die ihr innewohnende Bodenständigkeit. Schließlich möchte man sein Publikum mit auf eine Reise nehmen und nicht am Fahrkarten-schalter stehen lassen.</description>
+In 2007 Dominik was awarded the "Preis der deutschen Schallplattenkritik" for his second album Heimische Gefilde, whilst the follow up in 2011, Diorma, was just as widely acclaimed. Over the years he has always managed to stay in the press and place highly in polls by Raveline, Groove and De:Bug was well as pick up various awards for his studio and DJ work. Now a veteran of more than ten years in the game, Dominik is still as fresh as compelling as he ever was, much like the natural world in which he so passionately surrounds himself.</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons/>
         <links>
-          <link href="http://www.dominik-eulberg.de/">http://www.dominik-eulberg.de/ (very lovely website including an Identification Service (Bestimmungs Service)))</link>
+          <link href="http://www.dominik-eulberg.de">http://www.dominik-eulberg.de (very lovely website including an Identification Service (Bestimmungs Service))</link>
           <link href="https://soundcloud.com/dominik-eulberg">https://soundcloud.com/dominik-eulberg</link>
-          <link href="https://www.residentadvisor.net/dj/dominikeulberg/">https://www.residentadvisor.net/dj/dominikeulberg/</link>
         </links>
         <attachments/>
       </event>
       <event id="10044" guid="2cb3722c-ea32-4f51-8b06-b2c190fe87e9">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10044.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/044/large/tn04_104__andreas04.jpg?1545417072</logo>
         <date>2018-12-30T01:00:00+01:00</date>
         <start>01:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10044-der_dritte_raum</slug>
         <title>Der Dritte Raum</title>
-        <subtitle>I love music. Not just electronic music. All music.</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Andreas Krüger, aka Der Dritte Raum, is the man behind some of the most stirring electronic music of the past twenty-five years. But he'd rather not talk about himself.&#13;
-"The least important thing in all I do is myself," he says. "It's about the music."&#13;
-But of course there would be no music -- no epic anthems like "Hale Bopp" nor transcendent tunes like "Electric Friends" without his creativity, vision, and technical virtuosity which has been honed by his lifelong fascination with sound.&#13;
+        <subtitle>Techno/Trance</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Andreas Krüger, aka Der Dritte Raum, is the man behind some of the most stirring electronic music of the past twenty-five years. But he'd rather not talk about himself. "The least important thing in all I do is myself," he says. "It's about the music."</abstract>
+        <description>But of course there would be no music -- no epic anthems like "Hale Bopp" nor transcendent tunes like "Electric Friends" without his creativity, vision, and technical virtuosity which has been honed by his lifelong fascination with sound.&#13;
 The son of musical parents, Andreas grew up immersed in music. He began to study the piano as a child but quickly tired of rigid instruction. He stopped taking lessons and instead played along to records by The Beatles and Pink Floyd, "trying to understand how they made the songs."&#13;
 His main love, though, was electronics and physics. "I never thought I'd be a musician," he says with a chuckle. "I was the boy who built my own circuits, my own AM radio."&#13;
 This fascination with electronics helped spark his love for pioneering synth bands like Devo, Human League and Heaven 17. When a friend lent him a synthesizer, Andreas and his brother set it up in their basement, along with a drum machine and organ, and proceeded to "make a lot of noise." He was studying physics at the time but music absorbed more and more of his energy.&#13;
@@ -11675,8 +12191,7 @@ With typical fervour, Andreas dropped his other projects to concentrate on makin
 The marriage of Andreas's deep musical background and peerless technical skills birthed a unique sound that runs like a high-tensile wire through his prolific output as Der Dritte Raum. In the course of a dozen albums and almost thirty records and EPs, Andreas has never lost his fascination with pushing the boundaries of melody and technology.&#13;
 "Commercial music has a very narrow horizon," he says. " It is important for me to make music that can be played with other tracks without copying other ideas or sounds. It is dangerous to maintain a unique direction but that is the basic idea of making art."&#13;
 Currently, the artist is at work on multiple projects, including polishing a new techno album for release later this year, playing with a live band, remastering old Der Dritte Raum material, and taking his music to the masses with his DJ/live performance partner Ralf Uhrlandt. As Der Dritte Raum live, Andreas and Ralf have been pushing the boundaries of electronica since the early '90s. They bring the studio to life onstage with an array of computers, synths, desks and effects. "The equipment keeps evolving but it's always about jamming with sounds," says Andreas.&#13;
-However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a simple truth: "I love music. Not just electronic music. All music.</abstract>
-        <description/>
+However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a simple truth: "I love music. Not just electronic music. All music.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11690,17 +12205,17 @@ However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a 
       </event>
       <event id="10076" guid="ba07707c-a984-4ac5-b6f7-b947a44245b2">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10076.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/076/large/31947322_1886358088061796_2297047130939850752_n.jpg?1545417368</logo>
         <date>2018-12-30T02:00:00+01:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10076-super_flu</slug>
         <title>Super Flu</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Progressive House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>Willkommen in einer Welt, in der knusprig gebackene Bassdrums den Ton angeben; in der Momratzn zu zwickenden Hihats zucken und dir Sprechblasen sympathische Bässe zuwinken! Du musst eine schwierige Entscheidung treffen? Super Flu empfehlen dir Doppelbrötchen mit Knoblauch und 6-Minuten-Eiern! Dein Equipment ist Schrott? Vertrau auf dein Gefühl, kitzel das Maximale aus der alten Bude und quetsch Inspiration aus allem, das du in die Finger kriegst! Dir fehlen die Ideen? Hör auf deinen Papagei! Mach Urlaub und trink Bier. Probier, (weißt schon, was zu machen, was du sonst nie machen würdest). Hör Jazz. Bastel was aus lustigen Dönerbuden-Namen, exotischen Instrumenten und Kinderspielzeug. Mit deinem besten Kumpel und mindestens einem gemeinsamen Lieblingsbäcker, viel Herzblut und einem großen Traum dahinter kann dir nun nichts mehr passieren…!</abstract>
         <description/>
         <recording>
@@ -11711,24 +12226,23 @@ However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a 
         <links>
           <link href="http://super-flu.de/">http://super-flu.de/</link>
           <link href="https://soundcloud.com/super-flu-de">https://soundcloud.com/super-flu-de</link>
-          <link href="https://www.last.fm/de/music/Super+Flu/">https://www.last.fm/de/music/Super+Flu/</link>
         </links>
         <attachments/>
       </event>
       <event id="10070" guid="634362fa-d58b-4a76-bf26-5e763619c4f6">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10070.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/070/large/avatars-000186202996-mb8pqe-t500x500.jpg?1545417580</logo>
         <date>2018-12-30T04:00:00+01:00</date>
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10070-rk9</slug>
         <title>RK9</title>
-        <subtitle>Joeri Jungschlager, EDM / Drum &amp; Bass / Breakcore</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>From reverbnation: &#13;
+        <subtitle>Joeri Jungschlager, EDM/Drum&amp;Bass/Breakcore</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>From reverbnation:&#13;
 &#13;
 RK9 is an allias for Joeri Jungschlager, he used to play in bands and compose music in gerne's like hardcore (punk), jazz, deathcore &amp; mathcore. in 2012 he first released on his own behave a EP Liquid Mind Fucks/Push this party till dawn later on in 2013 his first own EP murder for reblogs which came out on 2C-Broadcast Recordings and in 2014 a fully 3DS produced single came out through bandcamp 'miss the sky' and later used in a full live set recording avaible through youtube. RK9 is a general work out of the idea of a hybrid between liquid drum &amp; bass and breakcore. Allong the road the hybrid ellements changed from the orginal idea too hardcore drum &amp; bass/breakcore with mathcore. Which have given endless suprises and elements too the act.&#13;
 &#13;
@@ -11739,19 +12253,14 @@ Also he made several podcasts in that year Satanicast for example.&#13;
 RK9 is the Allias for Joeri Jungschlager also known as the disturbing breakcore panda but that is just a scene name.&#13;
 He was born in Drachten, Netherlands but now lives in Rotterdam.&#13;
 &#13;
-Press&#13;
-http://3voor12.vpro.nl/lokaal/zuid-holland/nieuws/2015/februari/eendrachtfestival-5-worm.html&#13;
-&#13;
 ====&#13;
 &#13;
 From Soundcloud: &#13;
 &#13;
 Started out pretty young in the squat scené around nintencore &amp; breakcore but moved on to breakcore and jungle and a different allias in 2011 RK9 plays and produces a violent combination of Liquid Drum &amp; Bass, Breakcore and crossbreed with support from around various scené's and different labels doing VIP Remix for various Dubstep &amp; DnB labels. And founded 2C-Broadcast together with the prototype being the only hard DnB label in the Hague but also made several appearnces at District 9, Langweiligkeit, Benchmark Sessions and the PRSPCT stage on Eendracht Festival (Rotterdam) His productions since 2015 got several radio plays. And is played on the internet. Also he made several podcasts in that year Satanicast for example.</abstract>
-        <description>RK9 is also a Developer of OpenDJ: &#13;
+        <description>RK9 is also a Developer of OpenDJ:&#13;
 (text from Github)&#13;
-Open DJ or oDJ project is a project that aims to build a fully open source tabletop mediaplayer like pioneers X/CDJ or Denon SC5000 allowing DJ's to do more with their equipment than just DJ. The goal so far is to build 3 models one CDJ which contains CD/USB/SD card and ethernet/wifi link up connections, one XDJ which contains USB/SD, ethernet connections, wifi &amp; LoRaWAN and a modular model which will start with an USB/SD but is expandable and get it's own development kit. Since this all can be quite complex and we have a tech community with more knowledge than just me, I want to build a community around this. This topic for a relatively simple device will be heavily cross domain. The goal is to provide an Open Source building block for smart clubs.&#13;
-&#13;
-</description>
+Open DJ or oDJ project is a project that aims to build a fully open source tabletop mediaplayer like pioneers X/CDJ or Denon SC5000 allowing DJ's to do more with their equipment than just DJ. The goal so far is to build 3 models one CDJ which contains CD/USB/SD card and ethernet/wifi link up connections, one XDJ which contains USB/SD, ethernet connections, wifi &amp; LoRaWAN and a modular model which will start with an USB/SD but is expandable and get it's own development kit. Since this all can be quite complex and we have a tech community with more knowledge than just me, I want to build a community around this. This topic for a relatively simple device will be heavily cross domain. The goal is to provide an Open Source building block for smart clubs.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11761,30 +12270,28 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
           <link href="https://www.reverbnation.com/rk9">https://www.reverbnation.com/rk9</link>
           <link href="https://soundcloud.com/rk9_dnb">https://soundcloud.com/rk9_dnb</link>
           <link href="https://github.com/sicarii-13/OpenDJ">OpenDJ on Github </link>
-          <link href="https://www.mixcloud.com/joeridamianjungschlager/beginning-of-fall-mixtape/">https://www.mixcloud.com/joeridamianjungschlager/beginning-of-fall-mixtape/</link>
-          <link href="https://www.youtube.com/watch?v=iQsPaYc_1D4">youtube.com : RK9 - Beginning of Fall Mixtape [Dark Drum &amp; Bass/Jungle]</link>
+          <link href="https://www.mixcloud.com/joeridamianjungschlager">https://www.mixcloud.com/joeridamianjungschlager</link>
         </links>
         <attachments/>
       </event>
     </room>
-    <room name="Shutter Island">
-      <event id="10110" guid="e16cb096-773e-47d0-86d2-ccdb5ca953bb">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10110.html</url>
+    <room name="Shutter Island"/>
+    <room name="Compeiler">
+      <event id="10148" guid="91b4a4c3-98e0-49f6-a3fc-621140621c7f">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10148.html</url>
         <logo/>
-        <date>2018-12-30T06:00:00+01:00</date>
-        <start>06:00</start>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>01:00</duration>
-        <room>Shutter Island</room>
-        <slug>35c3-lineup-10110-fussel</slug>
-        <title>Fussel</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10148-rote_schule_music_workshop</slug>
+        <title>Rote Schule Music Workshop</title>
+        <subtitle>Workshop/Performance</subtitle>
+        <track>Music</track>
+        <type>workshop</type>
+        <language>en</language>
         <abstract/>
-        <description>Fussel, vom Pech verfolgt, ist er nicht nur unser Allrounder für die Umsetzung jeder noch so wahnsinnigen Idee, er hat auch einen ausgeprägten Hang zur endzeitlichen, elektronischen Musik - auf die wir uns sehr freuen. &#13;
----&#13;
-Fussel - followed by bad luck, he is not only our all-rounder for the realization of even-the-most-insane-ideas, he also has a pronounced inclination towards electronic music of the last days - to which we are very much looking forward.</description>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11793,26 +12300,44 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <links/>
         <attachments/>
       </event>
-    </room>
-    <room name="Compeiler">
+      <event id="10135" guid="6f0d635e-7483-4e6a-8ed3-05c39df5546d">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10135.html</url>
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10135-riley</slug>
+        <title>Riley</title>
+        <subtitle>Dance performance</subtitle>
+        <track>Music</track>
+        <type>performance</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10057" guid="f6457dfe-a669-453d-ad9f-ddecdd261feb">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10057.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/057/large/47163654_2020787697968002_5431537559463264256_n.jpg?1545417900</logo>
         <date>2018-12-29T16:00:00+01:00</date>
         <start>16:00</start>
-        <duration>02:00</duration>
+        <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10057-window_magic</slug>
         <title> Window Magic</title>
-        <subtitle>Andreas Bonkowski</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>"Tape deck ghosts + sonic research" (from twitter)&#13;
-&#13;
-"Actual Figures and Window Magic are, respectively, a radical voodoo disco duo and a one-man soundscape of tape loops and robot lullabies. The lovechild of these two harrowing forces of nature is divided into two chapters of seductive doom that end in breathtaking devastation. Recorded over the course of one evening in the outskirts of Berlin, both tracks are free-formed and unedited as part of a larger live session, with no rules, guidelines, or outtakes. The marriage of audio-montage of American fringe-culture footage and old films with floating electronic melodies destroys any sense of linear reality, as the sound slowly swells into waves of insanity interspersed with extended lulls of ceremonial bass drums, radiating keys, reverberating bells, and fits of static electricity. Via repetition of audio-montage, the song haunts itself, until it starts to change shape. As in stages of sleep, it picks up pace into an ecosystem of seemingly interacting electronic loops, layered on top of and within each other. And just when it’s about to unhinge once more, the seas calm, submerging once more into ritualistic bass rhythms, layered with audio-montage and deep-blue distorted tones for a fragmented dreamlike effect. The end seems to linger at the edge of experience, looking back over the damage it has caused. Through near-subsonic bass notes, the music reaches the rest of the body before it registers in the ears, washing over the body in a hypnotizing maelstrom of primordial sound waves. In continuous cycles of build-up, where the beat almost drops but always stops short, disintegrating, it leaves its already weary listeners begging to be satisfied but never quite gives in. And yet, we press replay -- it is the nightmare that tempts us back to sleep."&#13;
-– Ani Alexandra  </abstract>
-        <description/>
+        <subtitle>Ambient/Experimental</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Tape deck ghosts + sonic research</abstract>
+        <description>Sometimes you hear a sound and may be not quite sure what it is. Or what it was. If you are fascinated by the mystery of noise, tape music is an artichoke, a rough diamond, a welcome phantom with many faces. Window Magic melts found sounds, manipulated source material and field recordings into tape deck ghosts and drones that haunt, flutter and sing. From a very early age growing up in East-Berlin, Andreas Bonkowski was fascinated by tape recorders and shortwave radio stations, filling C60s of his late night finds and experimenting with cutting techniques to make his own versions of songs and broadcasts. This fascination never left, though his other musical adventures with Corwood Manual or Siva. somehow took very different routes to explore other territories. Window Magic opens a portal to someplace else, channeling sounds that move outside the workings of time.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11826,20 +12351,22 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         </links>
         <attachments/>
       </event>
-      <event id="10080" guid="003d5cf1-efd6-47e5-b01f-4b49e81271c4">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10080.html</url>
-        <logo/>
-        <date>2018-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>02:00</duration>
+      <event id="10050" guid="a4d093fc-aa2f-4edb-86ea-a9d149ba75a9">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10050.html</url>
+        <logo>/system/events/logos/000/010/050/large/22730453_1809696109060321_4866779364793401634_n.jpg?1545419292</logo>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10080-ana_bogner</slug>
-        <title>ANA BOGNER </title>
-        <subtitle>no borders</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <slug>35c3-lineup-10050-sevensol</slug>
+        <title>Sevensol</title>
+        <subtitle>Part 1</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Alex is one third of esteemed label Kann and 1/2 of DJ Duo Manamana together with Map.ache.&#13;
+&#13;
+Aside from his former work in recordshops, Dj-ing since ages and releasing new music (Mana-All-Nite, Kann) Alex has also been quietly issuing out his own music (together with Bender) and remixes as well.</abstract>
         <description/>
         <recording>
           <license/>
@@ -11847,7 +12374,66 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         </recording>
         <persons/>
         <links>
+          <link href="https://soundcloud.com/sevensol">https://soundcloud.com/sevensol</link>
+          <link href="https://kann-records.com/">https://kann-records.com/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10080" guid="003d5cf1-efd6-47e5-b01f-4b49e81271c4">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10080.html</url>
+        <logo>/system/events/logos/000/010/080/large/maxresdefault.jpg?1545419128</logo>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10080-ana_bogner</slug>
+        <title>Ana Bogner</title>
+        <subtitle>Experimental/Ambient</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Ana Bogner is an electronic musician and sound artist.&#13;
+Her artistic content revolves around the theme of imaginary space: poetic realities as a state of human consciousness. She works both compositionally and installatively - architecturally.&#13;
+She layers spheres, dreams of utopian urban ambience, built on ethereal light-heartedness through which stories float.</abstract>
+        <description>She received a honorary mention "Digital Musics and Sound Art" for "sounds from the white box" (as part of the exhibition Pulse 'Lab II: Works for Wave Field Synthesis', initiated by Robert Henke), Ars Electronica, AUS&#13;
+In 2014 her EP multiple proportions was published on headphonica.&#13;
+In 2019 there will be the release of 1967/People in collaboration with Arpen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://anabogner.de">http://anabogner.de</link>
           <link href="https://soundcloud.com/anabogner">https://soundcloud.com/anabogner</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10136" guid="220c710c-e4f9-4dda-9bd4-a9416acc2901">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10136.html</url>
+        <logo>/system/events/logos/000/010/136/large/22730453_1809696109060321_4866779364793401634_n.jpg?1545419446</logo>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10136-sevensol</slug>
+        <title>Sevensol</title>
+        <subtitle>Part 2</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Alex is one third of esteemed label Kann and 1/2 of DJ Duo Manamana together with Map.ache.&#13;
+&#13;
+Aside from his former work in recordshops, Dj-ing since ages and releasing new music (Mana-All-Nite, Kann) Alex has also been quietly issuing out his own music (together with Bender) and remixes as well.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/sevensol">https://soundcloud.com/sevensol</link>
+          <link href="https://kann-records.com">https://kann-records.com</link>
         </links>
         <attachments/>
       </event>
@@ -11860,25 +12446,20 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <room>Compeiler</room>
         <slug>35c3-lineup-10090-esmark</slug>
         <title>Esmark</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Esmark, named after a glacier at Spitzbergen that debouches into the Ymerbay, is a collaboration between the sound architect Nikolai von Sallwitz (Taprikk Sweezee, Karachi Files) and the experimental artist Alsen Rau (Scheich in China, On+Brr).&#13;
-&#13;
-Both have worked on various experimental and performative projects together since 2001.&#13;
-&#13;
-Alsen Rau is also known as one half of the German Duo On+Brr. He recently released under the name Scheich in China and is one of the founders and curators of the Hamburg-based club Kraniche that gained attention as an experimental art and music place in Hamburg. He curated exhibitions, performances and readings.&#13;
-&#13;
-Nikolai von Sallwitz, known as vocalist and producer Taprikk Sweezee, has composed music and sound design for film, theater and a various number of art and pop projects and has collaborated with visual artists such like Chris Hoffmann, Andreas Nicholas Fischer and Robert Seidel who crafted a real time performed video piece for one of the tracks.&#13;
-&#13;
-In late 2016 in scandinavian solitude, quite a number of tracks have been recorded by Esmark and some of the work is now released as two parallel albums named Māra I / Māra II on Bureau B.&#13;
-&#13;
-Esmark's musical setup is mainly build analog. Instruments like drum computers and synth boxes have been connected in constantly changing chains of fx and filters. Some recorded on tape and fed back into the compositions. Track names are partly reflections of biogeograhy and cartography of the place where the material was recorded.&#13;
-&#13;
-The dark and hidden polyphony of their debuts Māra I / Māra II sounds like a dystopic science fiction movie and is a fundamental ground element and origin on which these haunting minimal compositions are based on.&#13;
-</abstract>
-        <description/>
+        <subtitle>Dark Drone Landscapes </subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Esmark is the latest musical vehicle of sound architect Nikolai von Sallwitz and experimental artist Alsen Rau. They’ve worked together on a variety of experimental and performative projects since 2001. Their latest project was recorded in late 2016, in Scandinavia, where they beautiful surroundings and solitude inspired them to record enough music for two albums. Rather than save some of the music for a followup album, a decision was made to release two albums simultaneously.</abstract>
+        <description>Both Nikolai von Sallwitz and Alsen Rau are experienced musicians, who have enjoyed lengthy and successful careers. They’ve both previously worked together, and have also worked with a variety of different artists in a variety of roles.&#13;
+In the case of sound architect Nikolai von Sallwitz he was mastered Scheich In China first two albums and has written for the Karachi Files’ 2016 debut eponymous album and Scheich In China. However, Nikolai von Sallwitz is best known as known as Taprikk Sweezee, which is the moniker he has been using since 2006.&#13;
+Since then, Taprikk Sweezee has worked in a variety of capacities, ranging from singer and songwriter, to recordist remixer and producer. His career as Taprikk Sweezee started in 2006 as a vocalist and since then, he has served what is akin to a musical apprentice. That is only part of the Taprikk Sweezee story.&#13;
+Taprikk Sweezee has written music and has been involved with sound design for film, theatre and a variety of art and pop projects. Somehow, Taprikk Sweezee has found time to collaborate with a number of visual artists, including Chris Hoffmann, Andreas Nicholas Fischer and Robert Seidel. There are it seems, many strings to Taprikk Sweezee’s bow.&#13;
+In 2010, Taprikk Sweezee released his debut EP Conversea. A year later, and Taprikk Sweezee returned with his sophomore EP Poly. Taprikk Sweezee also finds time to work on projects with his friend Alsen Rau, including on the Barabass, Scheich in China and their most recent project Esmark.&#13;
+Just like Nikolai von Sallwitz, Alsen Rau has a wealth of musical experience. Over the years, he has been a member of various groups including Barabass, who released an EP in 2006. On + Brr followed in 2010, who released their debut album Peace and Love in 2010. This was followed by a quartet of singles. Alsen Rau’s next project was Scheich in China, who have released five albums between 2014 and 2016. However, this is just part of the story of Alsen Rau.&#13;
+He’s also one of the founders and curators of Kraniche, a Hamburg-based club, that is renowned for exhibitions of experimental art. They’ve received praise and plaudits from critics and cultural commentators. There’s also been performances of experimental music at Kraniche, which has gained a reputation as a place that is&#13;
+  &#13;
+unafraid to showcase ambitious and inventive music. Away from Kraniche, Alsen Rau has also curated a number of exhibitions, performances and readings, and is heavily involved with city’s art scene. However, much of Alsen Rau’s time is spent making music.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11886,36 +12467,27 @@ The dark and hidden polyphony of their debuts Māra I / Māra II sounds like a d
         <persons/>
         <links>
           <link href="http://www.bureau-b.com/esmark.php">http://www.bureau-b.com/esmark.php</link>
-          <link href="http://www.bureau-b.com/infotexte/BB272%20BB273%20Esmark%20Mara%20I%20&amp;%20II%20dt.pdf"> info sheet (PDF) in German</link>
-          <link href="http://www.bureau-b.com/infotexte/BB272%20BB273%20Esmark%20Mara%20I%20&amp;%20II%20eng.pdf">info sheet (PDF) in English</link>
+          <link href="https://e-s-m-a-r-k.tumblr.com">https://e-s-m-a-r-k.tumblr.com</link>
         </links>
         <attachments/>
       </event>
       <event id="10056" guid="c1d78229-225b-44fd-a087-b6acd77601c0">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10056.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/056/large/avatars-000118314231-989ats-t500x500.jpg?1545419962</logo>
         <date>2018-12-29T21:00:00+01:00</date>
         <start>21:00</start>
-        <duration>01:00</duration>
+        <duration>02:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10056-electric_kool_aid</slug>
         <title> Electric Kool Aid</title>
-        <subtitle>atmospheric spacetech (deepdub / opium / cirque du son)</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>&#13;
-Looking back on an intimate personal relationship with more than fifteen years of electrosonic art, Peer has been able to make himself a name – both as an artist and a remixer, with a great hand for unique and diverse atmospheres - as well as a witty producer, with the ability to capture and further refine the magic studio moment. With his dj residency @ "Zoo" in Hamburg's world famous "Villa Nova" club - he is regularly warming up for some of the biggest names in the industry like Dave Seaman, Robert Babicz, Extrawelt, Oliver Schories, Butch, Namito, Thomas Schumacher or D-Nox &amp; Beckers with his praised musical and atmospheric blend of deephouse and groovy deeptech. You should also try to catch one of his acclaimed radio mixes on Frisky radio with a more listening oriented, couch-esque approach.&#13;
+        <subtitle>Deeptech</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Electric Kool Aid is the atmospheric deeptech outfit of label head, studiogeek and dj extraordinaire Peer Schmid.</abstract>
+        <description>Looking back on an intimate personal relationship with more than fifteen years of electrosonic art, Peer has been able to make himself a name – both as an artist and a remixer, with a great hand for unique and diverse atmospheres - as well as a witty producer, with the ability to capture and further refine the magic studio moment. With his dj residency @ "Zoo" in Hamburg's world famous "Villa Nova" club - he is regularly warming up for some of the biggest names in the industry like Dave Seaman, Robert Babicz, Extrawelt, Oliver Schories, Butch, Namito, Thomas Schumacher or D-Nox &amp; Beckers with his praised musical and atmospheric blend of deephouse and groovy deeptech. You should also try to catch one of his acclaimed radio mixes on Frisky radio with a more listening oriented, couch-esque approach.&#13;
 &#13;
-Having worked in event-, label- and artist management, in both the underground and the mainstream music industry alike, his music proves a mature sense for the outstanding and fresh. Apart from his solo works as Electric Kool Aid, he has released more than 60 tracks under diverse names and further collaborated in diverse styles with various artists on dozens of different projects.&#13;
-&#13;
-WEB: http://electrickoolaid.net&#13;
-&#13;
-&#13;
-=====&#13;
-&#13;
-Suffering from severe sonic schizophrenia and advanced musical diarrhoea - this is where I funnel all my various and diverse musical stumblings ! (text from "alter ego" account "PEER" on soundcloud)</abstract>
-        <description/>
+Having worked in event-, label- and artist management, in both the underground and the mainstream music industry alike, his music proves a mature sense for the outstanding and fresh. Apart from his solo works as Electric Kool Aid, he has released more than 60 tracks under diverse names and further collaborated in diverse styles with various artists on dozens of different projects.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11923,25 +12495,49 @@ Suffering from severe sonic schizophrenia and advanced musical diarrhoea - this 
         <persons/>
         <links>
           <link href="https://soundcloud.com/electrickoolaid">https://soundcloud.com/electrickoolaid</link>
-          <link href="https://soundcloud.com/peer">https://soundcloud.com/peer (alter ego)</link>
-          <link href="http://electrickoolaid.net">http://electrickoolaid.net</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10119" guid="402a0c16-edf5-4f1a-8315-3955383292b9">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10119.html</url>
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>01:00</duration>
+        <room>Compeiler</room>
+        <slug>35c3-lineup-10119-crasser_sauer</slug>
+        <title>Crasser &amp; Sauer</title>
+        <subtitle>Experimental Electronics Live Set</subtitle>
+        <track>Music</track>
+        <type>other</type>
+        <language>en</language>
+        <abstract>Electroaccoustic interplay between the Leipzig-based musicians Judith Crasser &amp; Adam Sauer, both representing the local Pracht collective, an association and venue dedicated to extraordinarities in sound and beyond. In their dialogic live-perfomance they investigate the relations between sonic reality and synthesized fiction, dynamically combining elements of Musique Concrete, Industrial, Glitch and Free Improvisation.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/judithcrasser">https://soundcloud.com/judithcrasser</link>
+          <link href="https://soundcloud.com/zond21">https://soundcloud.com/zond21</link>
         </links>
         <attachments/>
       </event>
       <event id="10089" guid="7d635c88-125c-4798-9e23-987aae04db30">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10089.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/089/large/A-4388736-1517147016-1439.jpeg.jpg?1545387098</logo>
         <date>2018-12-30T00:00:00+01:00</date>
         <start>00:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10089-rodion_levin</slug>
         <title>Rodion Levin</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <subtitle>Techno</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>One half of On+Brr and Brenz Hold (both with Alsen Rau), known for their infamous Hamburg club "Kraniche" (R.I.P.).</abstract>
         <description/>
         <recording>
           <license/>
@@ -11955,18 +12551,18 @@ Suffering from severe sonic schizophrenia and advanced musical diarrhoea - this 
       </event>
       <event id="10047" guid="c61626b4-4b8c-45cd-ac46-90176071ab43">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10047.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/047/large/26239498_140042200002882_4900957278046703016_n.jpg?1545420767</logo>
         <date>2018-12-30T01:00:00+01:00</date>
         <start>01:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10047-niklas_wandt</slug>
         <title>Niklas Wandt</title>
-        <subtitle>Cosmic Courier</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Deeply inhaling rock music, then hiphop and, maybe most significantly jazz from an early age, collecting music has been Niklas’ favorite pastime since way back when. Starting to dj was then really just a process of making public and formatting a bit what had been going on at home anyways – with as little care for genre and imposed boundaries as possible, you’ll find Niklas aka Franco DJ play a diverse range of fringe dance musics from percussion and library records, disco and boogie tunes, spiritual jazz, No Wave, far out Kosmische and, yes, some roughed up house music. IN Berlin, he regularly throws a party dedicated to genre-defying dances named SMELLS in various locations such as Sameheads and Loophole.&#13;
+        <subtitle>Part 1</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Deeply inhaling rock music, then hiphop and, maybe most significantly jazz from an early age, collecting music has been Niklas’ favorite pastime since way back when. Starting to dj was then really just a process of making public and formatting a bit what had been going on at home anyways – with as little care for genre and imposed boundaries as possible, you’ll find Niklas aka Franco DJ play a diverse range of fringe dance musics from percussion and library records, disco and boogie tunes, spiritual jazz, No Wave, far out Kosmische and, yes, some roughed up house music. In Berlin, he regularly throws a party dedicated to genre-defying dances named SMELLS in various locations such as Sameheads and Loophole.&#13;
 Guests thus far include Jan Schulte, Retrogott, Basso, Philipp Otterbach, Jules, Twit One, Katzele among others. As a DJ, Niklas was heard at the Salon Des Amateurs, Düsseldorf, in Berlin at KaterBlau, JohnnyKnüppel, Klunkerkranich and Sisyphos, at the Teder/Romano in Tel Aviv and over the airwaves of LYL Radio, Redlight Radio and Cashmere Radio.&#13;
 &#13;
 Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-Neukölln and at King Georg in Cologne.</abstract>
@@ -11975,9 +12571,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
           <license/>
           <optout>false</optout>
         </recording>
-        <persons>
-          <person id="8807">Niklas Wandt</person>
-        </persons>
+        <persons/>
         <links>
           <link href="https://niklaswandt.com">https://niklaswandt.com</link>
           <link href="https://soundcloud.com/niklaswandtmusik">https://soundcloud.com/niklaswandtmusik</link>
@@ -11986,17 +12580,17 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
       </event>
       <event id="10078" guid="d41b8215-69f0-442c-8c77-c8f5871bce22">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10078.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/078/large/48416970_718041131928965_6199364178822561792_n.jpg?1545402577</logo>
         <date>2018-12-30T02:00:00+01:00</date>
         <start>02:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10078-nkls</slug>
         <title>nkls</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Synths &amp; Stuff</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
         <abstract>walking on tounges of drums,&#13;
 writing melodic textures - &#13;
 why not crying for a miracle ?</abstract>
@@ -12013,31 +12607,106 @@ why not crying for a miracle ?</abstract>
       </event>
       <event id="10092" guid="57f5b48a-2337-44e8-abf2-b5e3bf96ea1f">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10092.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/092/large/26239498_140042200002882_4900957278046703016_n.jpg?1545420917</logo>
         <date>2018-12-30T03:00:00+01:00</date>
         <start>03:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10092-niklas_wandt</slug>
         <title>Niklas Wandt</title>
-        <subtitle/>
-        <track/>
-        <type/>
+        <subtitle>Part 2</subtitle>
+        <track>Music</track>
+        <type>djset</type>
         <language/>
+        <abstract>Deeply inhaling rock music, then hiphop and, maybe most significantly jazz from an early age, collecting music has been Niklas’ favorite pastime since way back when. Starting to dj was then really just a process of making public and formatting a bit what had been going on at home anyways – with as little care for genre and imposed boundaries as possible, you’ll find Niklas aka Franco DJ play a diverse range of fringe dance musics from percussion and library records, disco and boogie tunes, spiritual jazz, No Wave, far out Kosmische and, yes, some roughed up house music. In Berlin, he regularly throws a party dedicated to genre-defying dances named SMELLS in various locations such as Sameheads and Loophole. &#13;
+Guests thus far include Jan Schulte, Retrogott, Basso, Philipp Otterbach, Jules, Twit One, Katzele among others. As a DJ, Niklas was heard at the Salon Des Amateurs, Düsseldorf, in Berlin at KaterBlau, JohnnyKnüppel, Klunkerkranich and Sisyphos, at the Teder/Romano in Tel Aviv and over the airwaves of LYL Radio, Redlight Radio and Cashmere Radio.&#13;
+&#13;
+Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-Neukölln and at King Georg in Cologne.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://niklaswandt.com">https://niklaswandt.com</link>
+          <link href="https://soundcloud.com/niklaswandtmusik">https://soundcloud.com/niklaswandtmusik</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
+    <room name="Uptime Bar">
+      <event id="10138" guid="c743b3a8-aaf7-4458-8eb8-400ea9870a53">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10138.html</url>
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10138-chiara</slug>
+        <title>Chiara</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
-        <persons>
-          <person id="8807">Niklas Wandt</person>
-        </persons>
+        <persons/>
         <links/>
         <attachments/>
       </event>
-    </room>
-    <room name="Uptime Bar">
+      <event id="10139" guid="0b24a14d-f414-4fec-990c-fa5154072925">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10139.html</url>
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10139-faheus</slug>
+        <title>faheus</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/matthiasdamasty/">https://www.mixcloud.com/matthiasdamasty/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10140" guid="e1d5950b-3278-4e04-aa4e-919ea48860bf">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10140.html</url>
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10140-morellion</slug>
+        <title>Morellion</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10055" guid="6e2d531c-b9ea-4801-b7ee-388c6c5657d1">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10055.html</url>
         <logo/>
@@ -12047,11 +12716,11 @@ why not crying for a miracle ?</abstract>
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10055-dj_t_shaba</slug>
         <title>DJ T´shaba</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>spielt electro-kraut und cosmic-shit hat kein soundklaus und benutzt kein emil!</abstract>
+        <subtitle>Electro-Kraut &amp; Cosmic-Shit</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>„Welche Rolle spielt Musik bei der Identitätsbildung? Müssen Punker Punk hören? Dürfen Rocker nur Gitarre? Raver nur Techno? Rastas Reggae? Oder lässt sich da was extrahieren, gibt es sowas wie eine universale Musik? Aus einer in 30 Jahren in viele Richtungen gewachsenen Plattensammlung mit Subkulturaffinität werden im berliner underground, auf festivals wie fusion und eben auch hier Antworten versucht, Vinyl only, alles analoge Handarbeit.“</abstract>
         <description/>
         <recording>
           <license/>
@@ -12063,23 +12732,22 @@ why not crying for a miracle ?</abstract>
       </event>
       <event id="10054" guid="b9a5df83-302b-4e7d-8dd2-4599b3df2e9a">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10054.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/054/large/avatars-000373142309-25ak0t-t500x500.jpg?1545421325</logo>
         <date>2018-12-29T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10054-naroma</slug>
         <title>Naroma</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Downtempo</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>people also called her sets n°aromatherapy.&#13;
-it assumes that movement and emotion are directly related.&#13;
-Dance has been used therapeutically for thousands of years,&#13;
-its an expressive therapy for cognitive, social, behavioral and physical conditions.</abstract>
-        <description>I’ve been hearing about Naroma from the beginning of my time working with artists from Europe. She’s a bit of a legend as an organizer - Urubu Marinka reported she traveled to Leipzig to play one of Naroma’s parties and stayed an extra night, and then another, and basically just moved to Leipzig, in large part due to Naroma’s warmth as a host.&#13;
-And then as a performer, there are Naroma’s 8-hour closing sets at Fusion. That’s some serious business. But, there’s a twist - for years she performed these marathons on two iPods. You know, with the wheels. This is entirely bonkers, borderline impossible. But don’t worry,  since 2 years she uses a computer to play  on and she loves all the new possibilities. </description>
+it assumes that movement and emotion are directly related.</abstract>
+        <description>Dance has been used therapeutically for thousands of years,&#13;
+its an expressive therapy for cognitive, social, behavioral and physical conditions. I’ve been hearing about Naroma from the beginning of my time working with artists from Europe. She’s a bit of a legend as an organizer - Urubu Marinka reported she traveled to Leipzig to play one of Naroma’s parties and stayed an extra night, and then another, and basically just moved to Leipzig, in large part due to Naroma’s warmth as a host.&#13;
+And then as a performer, there are Naroma’s 8-hour closing sets at Fusion. That’s some serious business. But, there’s a twist - for years she performed these marathons on two iPods. You know, with the wheels. This is entirely bonkers, borderline impossible. But don’t worry,  since 2 years she uses a computer to play on and she loves all the new possibilities. </description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -12101,10 +12769,10 @@ And then as a performer, there are Naroma’s 8-hour closing sets at Fusion. Tha
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10072-bambi_de_luxe</slug>
         <title>bambi de luxe</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Electronica/Downtempo</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>Hailing from Geneva to Falken, bambi de luxe has been haunting Zurich's underground scene for many years. She cultivates an alternative vision of living in occupied places promoting community spirit and rejecting materialism in the centre of capitalism and consumption.&#13;
 Plays only on best PA’s.&#13;
 On a couch.&#13;
@@ -13662,41 +14330,49 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
       </event>
     </room>
     <room name="Discodrama">
-      <event id="10052" guid="877f5b00-c744-4c27-930c-cfa9e4e26bbc">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10052.html</url>
+      <event id="10141" guid="097ca083-59b5-4b79-885e-76c3cfe285d3">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10141.html</url>
         <logo/>
-        <date>2018-12-30T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>02:00</duration>
+        <date>2018-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10052-maurizio_schmitz</slug>
-        <title> Maurizio Schmitz</title>
+        <slug>35c3-lineup-10141-bobopk</slug>
+        <title>BoboPK</title>
         <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Maurizio Schmitz drives his own bus, dividing his diary effortlessly between work and play and playing.&#13;
-&#13;
-Half Italian, half German and his is a dizzying ongoing musical journey that flies economy and business all at the same time. Maurizio exploits these contrasts, wearing pinstripes or pyjamas or both - he jams.&#13;
-&#13;
-We are talking about psychedelic house here. Socks off and sensual. It works on the big stage, it works in the club and it washes all over an after hour. This sound did not happen by accident.&#13;
-In 1990 scrambling around some old Thorens decks in a club his mother worked in Maurizio was scooping up all the vinyl lost from the night before – the first Schmitz mixtapes (which actually were not mixed) saw the light of day at this time. Many were to follow and these valuable suckers live amongst 11,000 pieces of vinyl collected and stroked over the years.&#13;
-&#13;
-When German techno was dynamite, changing the rules and ushering in a whole new world of electronic music Maurizio was not only there – he was smack in the middle of it.&#13;
-&#13;
-Bonn, Hamburg, Frankfurt, Munich. From the infamous “Labor” club to a 10 years residency at 'FrequenzBerater' to Frankfurt and “U60311”. Many many more but maybe two things stand out and tell you more. Spaldingstreet 43 in Hamburg, the original flat sharing rave. Maurizio presided over 7 years of lovely madness. Today you could create a major art/music festival just from the people who crashed out on the sofas there. Then the tour de force. His very own Mauromusica night founded in Bonn 2004 in the beautiful “Rheingarten”. An octagon shaped glass pavilion. Promoter, resident DJ and mum on the door. Another 10 years.&#13;
-&#13;
-No need to name names, somewhere in the above paragraph they all passed through.&#13;
-&#13;
-Perhaps one name, because here comes the other Maurizio Schmitz.&#13;
-In a 1994 after hour set in Munich, “Pulvertum” it was called, the raver Maurizio noticed Sven Vath 2 metres high in a tree mid set. You don’t forget stuff like that.&#13;
-Their paths were never going to stop crossing.&#13;
-&#13;
-Event manager, promoter, booker and for some time now the right hand man and frequent support act for the immortal legendary magician Sven Vath. It is a relationship that is not stopping any time soon.&#13;
-&#13;
-So, to summarise, Sicilan passion met German techno and spat out the Dj Maurizio Schmitz.&#13;
-&#13;
-(2018, Words by Andrew Gillings)</abstract>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10142" guid="22702740-7748-46c5-84c4-7fd05aeba5c4">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10142.html</url>
+        <logo>/system/events/logos/000/010/142/large/avatars-000311048113-9dewz4-t500x500.jpg?1545422530</logo>
+        <date>2018-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35c3-lineup-10142-exoboom</slug>
+        <title>Exoboom</title>
+        <subtitle>Techno</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>We were deeply into research, &#13;
+together with a mad cartoon scientist,&#13;
+when shit hit the fan!&#13;
+..However, we got stuck in your dimension.&#13;
+And we brought you something very special.&#13;
+Our Quantum Techno Generator - EXOBOOM.&#13;
+You don´t want to miss us firing up that thing!</abstract>
         <description/>
         <recording>
           <license/>
@@ -13704,29 +14380,24 @@ So, to summarise, Sicilan passion met German techno and spat out the Dj Maurizio
         </recording>
         <persons/>
         <links>
-          <link href="https://soundcloud.com/mauromusica/">https://soundcloud.com/mauromusica/</link>
-          <link href="https://www.residentadvisor.net/dj/maurizioschmitz">https://www.residentadvisor.net/dj/maurizioschmitz</link>
+          <link href="https://soundcloud.com/exoboom">https://soundcloud.com/exoboom</link>
         </links>
         <attachments/>
       </event>
-      <event id="10065" guid="301217de-d81e-42e8-ae95-cd7428f5c04a">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10065.html</url>
+      <event id="10143" guid="ec9d20a1-1795-4ec7-9f34-116b180be603">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10143.html</url>
         <logo/>
-        <date>2018-12-30T23:00:00+01:00</date>
-        <start>23:00</start>
+        <date>2018-12-30T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10065-ruz</slug>
-        <title>RUZ</title>
-        <subtitle>ALPHACUT | 45SEVEN | BASSMÆSSAGE</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>Leipzig based Artist and Producer Sebastian G. aka RUZ.&#13;
-&#13;
-Original Junglist, Soundscape lover and musical Madness searching Vinylist from Leipzig, Germany.&#13;
-From ruff &amp; rugged Breakbeat fiddlin' over smooth Oldschool Reggae Dub Vibes to dark, psychotic and melancholic Soundspheres.&#13;
-On this Mixcloud Page, a fan of 90's oldschool Jungle &amp; newly modern Drum and Bass movements will be satisfied.</abstract>
+        <slug>35c3-lineup-10143-onetake_perm</slug>
+        <title>Onetake &amp; Perm</title>
+        <subtitle>Part 1</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Since years OneTake &amp; Perm share a faible for heavyweight and spacey Dub 7inches. Every once in a while they get together for a rare b2b set.</abstract>
         <description/>
         <recording>
           <license/>
@@ -13734,25 +14405,83 @@ On this Mixcloud Page, a fan of 90's oldschool Jungle &amp; newly modern Drum an
         </recording>
         <persons/>
         <links>
-          <link href="https://soundcloud.com/ruzztle">https://soundcloud.com/ruzztle</link>
-          <link href="https://www.mixcloud.com/TaRUZ/">https://www.mixcloud.com/TaRUZ/</link>
+          <link href="https://soundcloud.com/onetake">https://soundcloud.com/onetake</link>
+          <link href="https://soundcloud.com/perm-3">https://soundcloud.com/perm-3</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10064" guid="1b66a579-3b51-4306-ae97-2eccc8a086a1">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10064.html</url>
+        <logo>/system/events/logos/000/010/064/large/disrupt_Cliona1.jpg?1545422990</logo>
+        <date>2018-12-30T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35c3-lineup-10064-disrupt</slug>
+        <title>Disrupt</title>
+        <subtitle>DigiDub</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003.&#13;
+&#13;
+Starting the Jahtari imprint as an outlet for those humble but fun experiments helped to gain momentum for the sound and DIY approach the label is now known for.</abstract>
+        <description>A fair heap of releases followed since 2007: “Foundation Bit” (on Werk Discs), “The Bass Has Left The Bilding” (LP), “Dot Matrix With Stereo Sound” and many ruffneck dancehall EPs and 7″s alongside Maffi and Naram.&#13;
+&#13;
+Disrupt also produced the cosmic enka LP “Karma No Kusari” by Kiki Hitomi, and the dub poetry epics “Dis Side Ah Town” and “Dog Heart City” by Roger Robinson.&#13;
+&#13;
+With his highly immersive SciFi adventure album “Omega Station” disrupt is setting out towards a new era of space exploration for the Jahtari label.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://jahtari.org/artists/disrupt/">https://jahtari.org/artists/disrupt/</link>
+          <link href="https://soundcloud.com/jahtari_records">https://soundcloud.com/jahtari_records</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10144" guid="1c784f88-981b-4174-a58c-4692112cc373">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10144.html</url>
+        <logo/>
+        <date>2018-12-30T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35c3-lineup-10144-onetake_perm</slug>
+        <title>Onetake &amp; Perm</title>
+        <subtitle>Part 2</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Since years OneTake &amp; Perm share a faible for heavyweight and spacey Dub 7inches. Every once in a while they get together for a rare b2b set.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/onetake">https://soundcloud.com/onetake</link>
+          <link href="https://soundcloud.com/perm-3">https://soundcloud.com/perm-3</link>
         </links>
         <attachments/>
       </event>
       <event id="10059" guid="b284e621-c3d1-42b5-925b-5380b3eb9c77">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10059.html</url>
-        <logo/>
-        <date>2018-12-31T00:00:00+01:00</date>
-        <start>00:00</start>
+        <logo>/system/events/logos/000/010/059/large/avatars-000529235811-z36gbq-t500x500.jpg?1545423475</logo>
+        <date>2018-12-30T23:00:00+01:00</date>
+        <start>23:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10059-t-data</slug>
         <title>T-Data</title>
-        <subtitle>Clear Memory</subtitle>
-        <track/>
-        <type/>
-        <language/>
-        <abstract/>
+        <subtitle>Bass</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Clear Memory / Leipzig</abstract>
         <description/>
         <recording>
           <license/>
@@ -13764,32 +14493,54 @@ On this Mixcloud Page, a fan of 90's oldschool Jungle &amp; newly modern Drum an
         </links>
         <attachments/>
       </event>
+      <event id="10065" guid="301217de-d81e-42e8-ae95-cd7428f5c04a">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10065.html</url>
+        <logo>/system/events/logos/000/010/065/large/avatars-000189510234-u4rq4y-t500x500.jpg?1545423354</logo>
+        <date>2018-12-31T01:00:00+01:00</date>
+        <start>01:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35c3-lineup-10065-ruz</slug>
+        <title>RUZ</title>
+        <subtitle>Jungle/Bass/Rave</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Leipzig based Artist and Producer Sebastian G. aka RUZ.&#13;
+Associated with: ALPHACUT | 45SEVEN | BASSMÆSSAGE&#13;
+Original Junglist, Soundscape lover and musical Madness searching Vinylist from Leipzig, Germany.</abstract>
+        <description>From ruff &amp; rugged Breakbeat fiddlin' over smooth Oldschool Reggae Dub Vibes to dark, psychotic and melancholic Soundspheres.&#13;
+For fans of 90's oldschool Jungle &amp; newly modern Drum and Bass movements.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/ruzztle">https://soundcloud.com/ruzztle</link>
+          <link href="https://www.mixcloud.com/TaRUZ/">https://www.mixcloud.com/TaRUZ/</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10043" guid="1e1d04bd-c5b7-41a0-b330-532ee2c85af7">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10043.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/043/large/avatars-000154450404-yn2uz6-t500x500.jpg?1545423670</logo>
         <date>2018-12-31T02:00:00+01:00</date>
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
         <slug>35c3-lineup-10043-ingo_boss</slug>
         <title>Ingo Boss</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
-        <abstract>(german version below)&#13;
-&#13;
-Ingo Boss was born in 1979 in Frankfurt am Main. At the tender age of 11, Ingo was already entranced by the new sound called techno that he had heard on the radio – two years later he already became acquainted with the wonderful things one can do with two decks and a mixer. As so many others, he was inspired by the music Sven Väth played at the legendary „Omen“ in Frankfurt where Ingo used to turn the night into day at the age of 15. In 1998 he had his first gig at the short-lived „U-Bahnstation Miquelallee“ in Frankfurt. In 2000, Ingo became a resident at a series of events called „Spectrum@MTW“, organized by the German music magazine GROOVE. That same year he published his first production „modes“ in cooperation with his studio partner Denis Engemann on PV Records and later on two mix CDs.&#13;
+        <subtitle>Techno</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract>Ingo Boss was born in 1979 in Frankfurt am Main. At the tender age of 11, Ingo was already entranced by the new sound called techno that he had heard on the radio – two years later he already became acquainted with the wonderful things one can do with two decks and a mixer. As so many others, he was inspired by the music Sven Väth played at the legendary „Omen“ in Frankfurt where Ingo used to turn the night into day at the age of 15. In 1998 he had his first gig at the short-lived „U-Bahnstation Miquelallee“ in Frankfurt. In 2000, Ingo became a resident at a series of events called „Spectrum@MTW“, organized by the German music magazine GROOVE. That same year he published his first production „modes“ in cooperation with his studio partner Denis Engemann on PV Records and later on two mix CDs.&#13;
 &#13;
 In 2001, Ingo went on a tour which also led him abroad for the first time: with PV Records and with the Delirium Recordstore on the occasion of their 10 year anniversary. In 2002, he began his residency at the „U60311“ in Frankfurt and he held it until he gave it up in 2004 in favour of Cocoonclub. Ingo’s breakthrough as a producer came in the form of his EP „Transistor“, which was released on Cocoon Recordings in 2003 and which contained the goosebump track „Little Eternity“. The track made it onto Sven Väth’s mix CD „Sound of the Fourth Season“.&#13;
 &#13;
-On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by side with Sven Väth and 2Raumwohnung – he became a regular at Cocoonclub and pretty soon, he hosted the „micromized“ night with Chris Tietjen as co-host. In 2006, he and REBOOT made the successful remix of G-Man’s techno classic „Quo Vadis“. In november 2010, the industrious musician finally released his first album on TopModel Records. Ingo has been part of the Cocoon roster since 2009. In 2011 he launched his BEATPORT label called EUREKA Frankfurt. In February 2012 he released "Same Mind" - his second artist album - on Eureka. Later on followed by the „Same Mind Remixes“ abum incl. Remixes by Mark Reeve, Johannes Heil, Romano Alfieri, Dr. Shingo and many more artist. In this year he launched also his „insane“ Techno Release „Freakshow EP“ with a Neil Landstrumm Remix (EURK006). And a Co-Op Production with Mark Reeve on Cocoon Recordings („Initial Spark“ – COR12099). In August 2013 he decide to be an artist of CONTACT Booking agency.&#13;
-&#13;
-</abstract>
-        <description>Ingo Boss erblickte 1979 in Frankfurt am Main das Licht der Welt. Schon im zarten Alter von 11 Jahren hatte es Ingo der Techno angetan, den er damals natürlich nur im Radio hören durfte - zwei Jahre später entdeckte er bereits die wunderbaren Dinge, die man mit Plattenspielern und einem Mischpult anstellen konnte. Wie viele andere inspirierte ihn die Musik Sven Väths im legendären Omen, in dem er sich schon mit 15 die Nacht um die Ohren schlug. 1998 hatte er dann seinen ersten Gig in der kurzlebigen „U-Bahnstation Miquelallee“ in Frankfurt. 2000 wurde er Resident bei der GROOVE-Veranstaltungsreihe Spectrum@MTW. Auf PV Records veröffentlichte er 2000 seine erste eigene Produktion „modes“ zusammen mit seinem Studiopartner Denis Engemann, es folgten im gleichen Jahr zwei Mix-CDs. Das Jahr 2001 schickte Ingo auf seine ersten Tourneen und damit auch Auslandsgigs: mit PV Records und mit dem Delirium Recordstore anlässlich des 10jährigen Bestehens. 2002 begann seine Residency im U60, der er treu blieb, bis er sie 2004 für den Cocoonclub aufgab. Sein Durchbruch als Produzent kam mit der „Transistor EP“, die 2003 auf Cocoon Recordings erschien und die den Gänsehaut-Track „Little Eternity“ enthielt, den Sven Väth in seine Mix-CD „Sound of the Fourth Season“ aufnahm. 2004 gab Ingo dann an Weihnachten seinen Einstand im Cocoonclub, wo er an der Seite von Sven und 2Raumwohnung die Platten drehte – daraus folgte der „micromized“ Abend, den er zusammen mit Chris Tietjen hostete. 2006 produzierte er zusammen mit REBOOT den erfolgreichen Remix des Technoklassikers „Quo Vadis“ von G-Man. Im November 2010 erschien das erste Album des umtriebigen Musikers : „3.625 Tage“ (TopModel Records). Seit 2009 ist Ingo Teil des Cocoon Booking Rosters. 2011 startete er sein eigenes BEATPORT Label namens EUREKA Frankfurt. Im Februar 2012 erschien sein zweites Artistalbum "Same Mind" auf Eureka. Wozu Ende 2012 noch das "Same Mind Remixes" Album, mit Remixes von Mark Reeve, Johannes Heil, Romano Alfieri, Dr. Shingo und weiteren Künstlern erschien. Mitte 2012 produzierte er noch eine schräg, verrückte Techno Maxi "Freakshow", wozu es noch einen Remix von Neil Landstrumm gab. Plus die Co-Op Produktionen mit Mark Reeve "Initial Spark" (Cocoon Recordings - COR12099) &amp; zwei Remixen für Sian auf Octopus.&#13;
-&#13;
-www.beatport.com/label/eureka/21727&#13;
-</description>
+On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by side with Sven Väth and 2Raumwohnung – he became a regular at Cocoonclub and pretty soon, he hosted the „micromized“ night with Chris Tietjen as co-host. In 2006, he and REBOOT made the successful remix of G-Man’s techno classic „Quo Vadis“. In november 2010, the industrious musician finally released his first album on TopModel Records. Ingo has been part of the Cocoon roster since 2009. In 2011 he launched his BEATPORT label called EUREKA Frankfurt. In February 2012 he released "Same Mind" - his second artist album - on Eureka. Later on followed by the „Same Mind Remixes“ abum incl. Remixes by Mark Reeve, Johannes Heil, Romano Alfieri, Dr. Shingo and many more artist. In this year he launched also his „insane“ Techno Release „Freakshow EP“ with a Neil Landstrumm Remix (EURK006). And a Co-Op Production with Mark Reeve on Cocoon Recordings („Initial Spark“ – COR12099). In August 2013 he decide to be an artist of CONTACT Booking agency.</abstract>
+        <description/>
         <recording>
           <license/>
           <optout>false</optout>
@@ -13809,10 +14560,10 @@ www.beatport.com/label/eureka/21727&#13;
         <room>Discodrama</room>
         <slug>35c3-lineup-10040-tschunkelmusik</slug>
         <title>Tschunkelmusik</title>
-        <subtitle/>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Techno/House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>two guys from the family, Erna Besen &amp; Rosa Luxus, helping you to dance goodbye to 35C3</abstract>
         <description/>
         <recording>
@@ -13830,19 +14581,44 @@ www.beatport.com/label/eureka/21727&#13;
     <room name="Shutter Island"/>
     <room name="Compeiler"/>
     <room name="Uptime Bar">
+      <event id="10145" guid="e5985477-ef56-4e96-8b4a-24dd775570db">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10145.html</url>
+        <logo>/system/events/logos/000/010/145/large/avatars-000059086552-x8yvq5-t500x500.jpg?1545424436</logo>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10145-jaycee</slug>
+        <title>Jaycee</title>
+        <subtitle>House/Techno</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/jaycieh">https://soundcloud.com/jaycieh</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10046" guid="3c8a875f-0d6b-42c5-8c7c-8891ea66c06d">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10046.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/046/large/avatars-000384533228-52qa9w-t500x500.jpg?1545424204</logo>
         <date>2018-12-30T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10046-juli_jane</slug>
         <title>Juli Jane</title>
-        <subtitle>Techno • Tech House • Deep House</subtitle>
-        <track/>
-        <type/>
-        <language/>
+        <subtitle>Techno/Tech House/Deep House</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language>en</language>
         <abstract>I love music and I mix and create tracks which make me happy. I do my thing and if you like it, it makes me even happier :)</abstract>
         <description/>
         <recording>
