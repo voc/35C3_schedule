@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.3 2018-12-25 21:20</version>
+  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 21:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -10079,6 +10079,35 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
       </event>
     </room>
     <room name="WikiPakaWG Esszimmer">
+      <event id="501" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>F9NUJT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT</url>
+        <title>Generative Art with Paper.js</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="2">
+            <name>bleeptrack</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="516" guid="ded36d57-579c-524e-9bf8-a7477670608f">
         <logo/>
         <date>2018-12-28T13:00:00+01:00</date>
@@ -16370,35 +16399,6 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <persons>
           <person id="6">
             <name>Lucas</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="501" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
-        <logo/>
-        <date>2018-12-29T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Esszimmer</room>
-        <slug>F9NUJT</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT</url>
-        <title>Generative Art with Paper.js</title>
-        <subtitle/>
-        <track/>
-        <type>Workshop mit Gruppentischen</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="2">
-            <name>bleeptrack</name>
             <biography/>
           </person>
         </persons>

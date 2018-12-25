@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.3 2018-12-25 21:20", 
+        "version": "Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 21:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10350,6 +10350,37 @@
                         ], 
                         "WikiPakaWG Esszimmer": [
                             {
+                                "id": 501, 
+                                "guid": "c1a547d9-2f53-5444-8e3c-6b6ebb26578d", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "F9NUJT", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT", 
+                                "title": "Generative Art with Paper.js", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Gruppentischen", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 2, 
+                                        "name": "bleeptrack", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 516, 
                                 "guid": "ded36d57-579c-524e-9bf8-a7477670608f", 
                                 "logo": null, 
@@ -17093,37 +17124,6 @@
                                     {
                                         "id": 6, 
                                         "name": "Lucas", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 501, 
-                                "guid": "c1a547d9-2f53-5444-8e3c-6b6ebb26578d", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "01:00", 
-                                "room": "WikiPakaWG Esszimmer", 
-                                "slug": "F9NUJT", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT", 
-                                "title": "Generative Art with Paper.js", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Workshop mit Gruppentischen", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 2, 
-                                        "name": "bleeptrack", 
                                         "biography": null, 
                                         "answers": []
                                     }
