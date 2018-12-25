@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 10:40", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 11:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -8213,6 +8213,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1254, 
+                                "guid": "7ec29383-2da6-4d11-822c-509b6927d6de", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:45:00+01:00", 
+                                "start": "12:45", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1254-session_ccc_ch_gettogether", 
+                                "title": "CCC-CH Gettogether", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Das Gettogether des CCC-CH am 35c3", 
+                                "persons": [], 
+                                "links": [
+                                    "https://ccc-ch.ch", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCC-CH_Gettogether"
+                                ]
+                            }, 
+                            {
                                 "id": 1033, 
                                 "guid": "e95c93fc-bd6e-491d-853f-3fd66a8e3584", 
                                 "logo": null, 
@@ -8415,28 +8437,6 @@
                                 "links": [
                                     "https://8os.io", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bodymind_Operating_System:_Adaptation,_Infiltration_and_Vulnerability."
-                                ]
-                            }, 
-                            {
-                                "id": 1254, 
-                                "guid": "7ec29383-2da6-4d11-822c-509b6927d6de", 
-                                "logo": null, 
-                                "date": "2018-12-28T12:45:00+01:00", 
-                                "start": "12:45", 
-                                "duration": "1:30", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1254-session_ccc_ch_gettogether", 
-                                "title": "CCC-CH Gettogether", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Das Gettogether des CCC-CH am 35c3", 
-                                "persons": [], 
-                                "links": [
-                                    "https://ccc-ch.ch", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:CCC-CH_Gettogether"
                                 ]
                             }, 
                             {
