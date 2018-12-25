@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2</version>
+  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3020,6 +3020,37 @@ Außerdem stellt Daniela das Projekt podcasterinnen.org vor, welches aus dem 35C
             <biography>Seit 2015 podcaste ich in meinem Podcast kunst &amp; horst über Kunst und Kultur. Meistens über das Theater, hin und wieder mit einem Abstecher ins Politische. &#13;
 Seit Mitte 2018 arbeite ich mit an dem Projekt podcasterinnen.org, welches sich zum Ziel gesetzt hat, Podcasterinnen und nicht-binäre Podcastpersonen auf Bühnen und in Podcasts sichtbarer zu machen.&#13;
 Ich lebe und arbeite in Berlin.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="442" guid="3d83580a-b46e-5b3b-adc9-84ac99ec8015">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>T97DN9</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/T97DN9</url>
+        <title>Nerd Emissionen</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Der etwas andere apfellastige Tech Podcast.</abstract>
+        <description>Die Sendung die eigentlich noch vor dem Congress kommen sollte, die nun auf dem Congress statt findet, vor der Sendung die auf dem Congress statt findet ;)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>MacSnider</name>
+            <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
+&#13;
+35c3 DECT: 7331 GSM: 7332</biography>
           </person>
         </persons>
         <links/>

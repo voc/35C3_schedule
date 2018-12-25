@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 19:20", 
+        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2 2018-12-25 19:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -3901,6 +3901,37 @@
                                         "id": 21, 
                                         "name": "Daniela Ishorst @die_horst", 
                                         "biography": "Seit 2015 podcaste ich in meinem Podcast kunst & horst \u00fcber Kunst und Kultur. Meistens \u00fcber das Theater, hin und wieder mit einem Abstecher ins Politische. \r\nSeit Mitte 2018 arbeite ich mit an dem Projekt podcasterinnen.org, welches sich zum Ziel gesetzt hat, Podcasterinnen und nicht-bin\u00e4re Podcastpersonen auf B\u00fchnen und in Podcasts sichtbarer zu machen.\r\nIch lebe und arbeite in Berlin.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 442, 
+                                "guid": "3d83580a-b46e-5b3b-adc9-84ac99ec8015", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "T97DN9", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/T97DN9", 
+                                "title": "Nerd Emissionen", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Der etwas andere apfellastige Tech Podcast.", 
+                                "description": "Die Sendung die eigentlich noch vor dem Congress kommen sollte, die nun auf dem Congress statt findet, vor der Sendung die auf dem Congress statt findet ;)", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 7, 
+                                        "name": "MacSnider", 
+                                        "biography": "Irgendwo zwischen Nerd & Geek\u2122 | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-J\u00e4ger | Dosen\u00f6ffner f\u00fcr Katzen | K\u00f6nig vom Stimmenreich\r\n\r\n35c3 DECT: 7331 GSM: 7332", 
                                         "answers": []
                                     }
                                 ], 
