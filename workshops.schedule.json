@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-25 21:50", 
+        "version": "2018-12-25 22:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2647,6 +2647,29 @@
                                 "links": [
                                     "https://b76.ch/9730", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Your_First_Steps_with_WebExtensions"
+                                ]
+                            }, 
+                            {
+                                "id": 1277, 
+                                "guid": "8c9d2a74-4d8a-41e2-a850-3e3e951567a8", 
+                                "logo": null, 
+                                "date": "2018-12-28T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1277-session_acroyoga", 
+                                "title": "AcroYoga", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://en.wikipedia.org/wiki/Acroyoga", 
+                                    "https://kanthaus.online/en/events/2018-12-05_acroyoga", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga"
                                 ]
                             }, 
                             {
