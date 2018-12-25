@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.7 0.5 memoryrefresh 1.0.2", 
+        "version": "Emergency Room 3 1.6 v1.7 0.6 memoryrefresh 1.0.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3079,6 +3079,37 @@
                                     {
                                         "id": 13, 
                                         "name": "Saadya", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 538, 
+                                "guid": "8cfcba40-e656-5f5b-b46f-8a9f09913c85", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "YWXE7F", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F", 
+                                "title": "Programmieren mit der Maus", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Standard-Bestuhlung", 
+                                "language": "de", 
+                                "abstract": "Werkstattbericht: Wie kam es zu Programmieren mit der Maus? Wie geht es 2019 weiter und gibt es W\u00fcnsche f\u00fcr Programmieren mit dem Elefanten?", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 37, 
+                                        "name": "P3nny", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -7494,6 +7525,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 519, 
+                                "guid": "928f8340-4213-5db7-bb4c-05f2187bde49", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "EC9ZRM", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM", 
+                                "title": "Wikibase Quick starter guide", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 19, 
+                                        "name": "Matthias", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 520, 
                                 "guid": "14be7095-56d4-56b8-ad6e-ef4e08238936", 
                                 "logo": null, 
@@ -11820,6 +11882,37 @@
                                     {
                                         "id": 5, 
                                         "name": "Daniel", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 526, 
+                                "guid": "7956605c-adae-5563-ab8c-c97b6781fefa", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "X7FPWS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS", 
+                                "title": "Alles was du jemals zu Wikipedia wissen wolltest", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "de", 
+                                "abstract": "Du kennst Wikipedia. Gibt es ja auch seit 17 Jahren. Du nutzt Wikipedia regelm\u00e4\u00dfig und wei\u00dft alles dar\u00fcber. Aber wer zur H\u00f6lle sind Wikimedia, MediaWiki, Wikidata? Was machen die? Was k\u00f6nnen sie f\u00fcr dich tun? Menschen, die f\u00fcr Wikipedia Artikel oder Code schreiben, sich politisch oder kulturell oder f\u00fcr die Freiwilligen der Wikipedia einsetzen, k\u00f6nnen dir in dieser Session deine Fragen beantworten.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 21, 
+                                        "name": "Verena", 
                                         "biography": null, 
                                         "answers": []
                                     }

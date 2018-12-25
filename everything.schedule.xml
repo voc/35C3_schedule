@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 15:10</version>
+  <version>Emergency Room 3 1.6 v1.7 0.6 memoryrefresh 1.0.2 2018-12-25 17:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4008,6 +4008,35 @@ All seine Podcasts: http://dampfnudel.net</biography>
           </person>
           <person id="13">
             <name>Saadya</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="538" guid="8cfcba40-e656-5f5b-b46f-8a9f09913c85">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>YWXE7F</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F</url>
+        <title>Programmieren mit der Maus</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Standard-Bestuhlung</type>
+        <language>de</language>
+        <abstract>Werkstattbericht: Wie kam es zu Programmieren mit der Maus? Wie geht es 2019 weiter und gibt es Wünsche für Programmieren mit dem Elefanten?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">
+            <name>P3nny</name>
             <biography/>
           </person>
         </persons>
@@ -10112,6 +10141,35 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <attachments/>
         <answers/>
       </event>
+      <event id="519" guid="928f8340-4213-5db7-bb4c-05f2187bde49">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>EC9ZRM</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM</url>
+        <title>Wikibase Quick starter guide</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>Matthias</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="520" guid="14be7095-56d4-56b8-ad6e-ef4e08238936">
         <logo/>
         <date>2018-12-28T20:00:00+01:00</date>
@@ -16198,6 +16256,35 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <persons>
           <person id="5">
             <name>Daniel</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="526" guid="7956605c-adae-5563-ab8c-c97b6781fefa">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>X7FPWS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS</url>
+        <title>Alles was du jemals zu Wikipedia wissen wolltest</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Du kennst Wikipedia. Gibt es ja auch seit 17 Jahren. Du nutzt Wikipedia regelmäßig und weißt alles darüber. Aber wer zur Hölle sind Wikimedia, MediaWiki, Wikidata? Was machen die? Was können sie für dich tun? Menschen, die für Wikipedia Artikel oder Code schreiben, sich politisch oder kulturell oder für die Freiwilligen der Wikipedia einsetzen, können dir in dieser Session deine Fragen beantworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="21">
+            <name>Verena</name>
             <biography/>
           </person>
         </persons>
