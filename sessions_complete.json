@@ -4031,7 +4031,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "DIY Ductace Wallets"
         ], 
@@ -12961,6 +12969,52 @@
             {
                 "timestamp": "1546009200", 
                 "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:The Klingon Civil War# 44726c6082ac537103ecf992e21f9a95": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.randorianalysis.de/?p=260"
+        ], 
+        "Has description": [
+            "Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "The Klingon Civil War"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "279dc130-1d1f-42d6-9272-54abae62edda"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War", 
+        "Has end time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
             }
         ]
     }, 

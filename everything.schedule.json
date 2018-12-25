@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2 2018-12-25 19:30", 
+        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2 2018-12-25 19:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -18239,6 +18239,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1275, 
+                                "guid": "279dc130-1d1f-42d6-9272-54abae62edda", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "35c3-1275-session_the_klingon_civil_war", 
+                                "title": "The Klingon Civil War", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.randorianalysis.de/?p=260", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War"
+                                ]
+                            }, 
+                            {
                                 "id": 1141, 
                                 "guid": "f5427987-a60c-467b-8dd7-9db40e8719fa", 
                                 "logo": null, 
@@ -18591,7 +18613,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people. Here is an example: https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
+                                        "public_name": "Scammo"
+                                    }
+                                ], 
                                 "links": [
                                     "https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets"
