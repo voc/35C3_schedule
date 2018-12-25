@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-25 22:10</version>
+  <version>2018-12-25 22:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -3705,6 +3705,27 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart.</link>
+        </links>
+      </event>
+      <event id="1278" guid="8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1278-session_acroyoga</slug>
+        <title>AcroYoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage.</description>
+        <persons/>
+        <links>
+          <link>https://en.wikipedia.org/wiki/Acroyoga</link>
+          <link>https://kanthaus.online/en/events/2018-12-05_acroyoga</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga</link>
         </links>
       </event>
       <event id="1048" guid="deebfa74-b38b-421c-8dbb-fe8dd86d4f2a">

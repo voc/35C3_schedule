@@ -1063,6 +1063,61 @@
             }
         ]
     }, 
+    "Session:AcroYoga# 270c3df4ab7d9ea14275ec3b33016d5d": {
+        "Held in language": [
+            "en - English", 
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://en.wikipedia.org/wiki/Acroyoga", 
+            "https://kanthaus.online/en/events/2018-12-05_acroyoga"
+        ], 
+        "Has description": [
+            "AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "AcroYoga"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga", 
+        "Has end time": [
+            {
+                "timestamp": "1546191000", 
+                "raw": "1/2018/12/30/17/30/0/0"
+            }
+        ]
+    }, 
     "Session:AcroYoga# 2c80f73f2bb1e1c59765de15b6c2ac24": {
         "Held in language": [
             "en - English", 
