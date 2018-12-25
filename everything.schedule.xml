@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 18:30</version>
+  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 18:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9968,11 +9968,11 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <track/>
         <type>Meetup</type>
         <language>de</language>
-        <abstract/>
+        <abstract>Alle Leute, die FragDenStaat und Informationsfreiheitsgesetze bereits nutzen oder nutzen wollen, sind herzlich eingeladen. Wir sprechen über Neuerungen und Pläner für FragDenStaat.de und nehmen Kritik und Anregungen auf.</abstract>
         <description/>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="17">
@@ -10067,11 +10067,11 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <track/>
         <type>Workshop mit Gruppentischen</type>
         <language>de</language>
-        <abstract/>
+        <abstract>Mit OffeneGesetze.de haben wir sämtliche Bundesgesetzblätter seit 1949 frei veröffentlicht. Jetzt sollten wir die Dokumente auch angemessen nutzen. Hier besprechen wir, was man mit den Daten machen kann und was wir als nächstes befreien sollten.</abstract>
         <description/>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="17">

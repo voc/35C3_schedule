@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 18:30", 
+        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 18:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10220,10 +10220,10 @@
                                 "track": null, 
                                 "type": "Meetup", 
                                 "language": "de", 
-                                "abstract": "", 
+                                "abstract": "Alle Leute, die FragDenStaat und Informationsfreiheitsgesetze bereits nutzen oder nutzen wollen, sind herzlich eingeladen. Wir sprechen \u00fcber Neuerungen und Pl\u00e4ner f\u00fcr FragDenStaat.de und nehmen Kritik und Anregungen auf.", 
                                 "description": null, 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 17, 
@@ -10331,10 +10331,10 @@
                                 "track": null, 
                                 "type": "Workshop mit Gruppentischen", 
                                 "language": "de", 
-                                "abstract": "", 
+                                "abstract": "Mit OffeneGesetze.de haben wir s\u00e4mtliche Bundesgesetzbl\u00e4tter seit 1949 frei ver\u00f6ffentlicht. Jetzt sollten wir die Dokumente auch angemessen nutzen. Hier besprechen wir, was man mit den Daten machen kann und was wir als n\u00e4chstes befreien sollten.", 
                                 "description": null, 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 17, 
