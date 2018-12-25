@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-25 12:20", 
+        "version": "2018-12-25 12:30", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1964,6 +1964,34 @@
                                 "links": [
                                     "https://www.archlinux.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Arch_Linux_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1267, 
+                                "guid": "4bb67695-e90a-48b4-b210-63cc1d8cd185", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1267-session_extinction_rebellion_not_shutting_down_the_internet_civil_disobedience_non_violent_direct_action_on_a_massive_scale", 
+                                "title": "Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Calling all Flat Earth activists... Just kidding, climate change is for real and we are sending a message to the government. We are setting the foundation to become the government too.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mars", 
+                                        "public_name": "Mars"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://xrebellion.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale"
                                 ]
                             }, 
                             {
