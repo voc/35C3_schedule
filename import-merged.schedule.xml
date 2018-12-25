@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.7 0.6 memoryrefresh 1.0.2</version>
+  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7706,6 +7706,35 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <persons>
           <person id="4">
             <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="539" guid="a9053903-cfac-5d45-87d0-6711510c68e4">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>LSDUED</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED</url>
+        <title>Mitfahr-Börsen: Schnittstellen, OpenData und mehr</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Ein kleines Treffen von Menschen, die etwas mit Mitfahr-Börsen zu tun haben.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">
+            <name>Ernesto</name>
             <biography/>
           </person>
         </persons>

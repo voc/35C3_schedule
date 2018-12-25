@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.7 0.6 memoryrefresh 1.0.2 2018-12-25 17:20", 
+        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 17:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10397,6 +10397,37 @@
                                     {
                                         "id": 4, 
                                         "name": "WikiPaka Orga", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 539, 
+                                "guid": "a9053903-cfac-5d45-87d0-6711510c68e4", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "01:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "LSDUED", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED", 
+                                "title": "Mitfahr-B\u00f6rsen: Schnittstellen, OpenData und mehr", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "Ein kleines Treffen von Menschen, die etwas mit Mitfahr-B\u00f6rsen zu tun haben.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 38, 
+                                        "name": "Ernesto", 
                                         "biography": null, 
                                         "answers": []
                                     }
