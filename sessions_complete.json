@@ -10543,7 +10543,15 @@
         "Has subtitle": [
             "Rust in the year 2025"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mwarning", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mwarning", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Rust 2025"
         ], 

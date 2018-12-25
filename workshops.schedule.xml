@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-25 17:50</version>
+  <version>2018-12-25 18:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -549,7 +549,9 @@
         <language>en</language>
         <abstract/>
         <description>An open minded discussion about the Rust programming language.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Mwarning">Mwarning</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Rust_2025</link>
         </links>
