@@ -10583,6 +10583,60 @@
             }
         ]
     }, 
+    "Session:Postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft# c7478a8bdba8429634c25517e6995ba6": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://p0stap0calyptic.wordpress.com/"
+        ], 
+        "Has description": [
+            "postapokalyptisches schrottbasteln aus \u00fcberresten der menschlichen zivilisation. making postapocalyptic art things from from (electronic) scrap and other leftovers from human civilisation. upcycling workshop"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "8569e919-a6a9-44bc-a39b-8f955aa04d77"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Postapokalyptisches_zeug_-_schrottbasteln_/_postapocalyptic_stuff_handicraft", 
+        "Has end time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Powerplant hackathon coding session# e2e8f7140f545f2eae74983f71fb8011": {
         "Held in language": [
             "en - English"
