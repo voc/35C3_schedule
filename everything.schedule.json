@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 19:00", 
+        "version": "Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 19:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5396,6 +5396,33 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }, 
+                            {
+                                "id": 1273, 
+                                "guid": "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "35c3-1273-session_whisky", 
+                                "title": "Whisky", 
+                                "subtitle": "Main Event", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
+                                        "public_name": "Blackspear"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky"
                                 ]
                             }
                         ], 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 19:00</version>
+  <version>Emergency Room 3 1.6 v1.7 0.7 memoryrefresh 1.0.2 2018-12-25 19:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5253,6 +5253,27 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel</link>
+        </links>
+      </event>
+      <event id="1273" guid="ed141b6b-a6bf-4ecc-98ab-29013cf7c20f">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room/>
+        <slug>35c3-1273-session_whisky</slug>
+        <title>Whisky</title>
+        <subtitle>Main Event</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear">Blackspear</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky</link>
         </links>
       </event>
     </room>
