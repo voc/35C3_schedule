@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2", 
+        "version": "Emergency Room 3 1.6 v1.7 0.5 memoryrefresh 1.0.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -172,7 +172,7 @@
                                 "persons": [
                                     {
                                         "id": 8179, 
-                                        "public_name": "Florian"
+                                        "public_name": "Florian Euchner (Jeija)"
                                     }
                                 ], 
                                 "links": [], 
@@ -233,6 +233,34 @@
                                     {
                                         "id": 8381, 
                                         "public_name": "Julian"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10016.html", 
+                                "id": 10016, 
+                                "guid": "f010dc03-13bc-413d-95ec-e8786626a2f1", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:50:00+01:00", 
+                                "start": "20:50", 
+                                "duration": "01:00", 
+                                "room": "Adams", 
+                                "slug": "35c3-10016-g10_bnd-gesetz_und_der_effektive_schutz_von_grundrechten", 
+                                "title": "G10, BND-Gesetz und der effektive Schutz von Grundrechten", 
+                                "subtitle": "Die strategische Fernmelde\u00fcberwachung des BND vor dem Bundesverfassungsgericht", 
+                                "track": "Ethics, Society & Politics", 
+                                "type": "lecture", 
+                                "language": "de", 
+                                "abstract": "Der Vortrag behandelt die Klage des Internetknotens DE-CIX gegen die strategische Fernmelde\u00fcberwachung des BND vor dem Bundesverwaltungsgericht in Leipzig, was wir aus dem Urteil \u00fcber den Rechtsschutz der B\u00fcrger lernen k\u00f6nnen und wieso der Fall nun das Bundesverfassungsgericht in Karlsruhe besch\u00e4ftigt.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 174, 
+                                        "public_name": "Klaus Landefeld"
                                     }
                                 ], 
                                 "links": [], 
@@ -4306,6 +4334,10 @@
                                     {
                                         "id": 1544, 
                                         "public_name": "erdgeist"
+                                    }, 
+                                    {
+                                        "id": 4395, 
+                                        "public_name": "nexus"
                                     }
                                 ], 
                                 "links": [], 
@@ -5283,6 +5315,51 @@
                                     {
                                         "url": "https://twitter.com/search?f=tweets&q=%23BlindNavigation", 
                                         "title": "Tweets about #BlindNavigation"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10039.html", 
+                                "id": 10039, 
+                                "guid": "663a4b68-bb0d-493d-826c-07c609883b86", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:10:00+01:00", 
+                                "start": "16:10", 
+                                "duration": "01:00", 
+                                "room": "Dijkstra", 
+                                "slug": "35c3-10039-theater_und_quantenzeitalter", 
+                                "title": "Theater und Quantenzeitalter", 
+                                "subtitle": "\u201eDie Parallelwelt\u201c- Das Schauspiel Dortmund und die Digitalit\u00e4t", 
+                                "track": "Art & Culture", 
+                                "type": "lecture", 
+                                "language": "de", 
+                                "abstract": "Seit 2010 ist die Sehnsucht des Schauspiel Dortmund, ein gegenw\u00e4rtiges und wagemutiges Schauspiel f\u00fcr ein Publikum des 21. Jahrhunderts zu schaffen, ein Volkstheater f\u00fcr die Digitale Moderne. Intendant Kay Voges, Videok\u00fcnstler Mario Simon und Engineer Lucas Ple\u00df berichten \u00fcber Dortmunder Theaterarbeiten zum Menschsein im Digitalen Zeitalter, speziell \u00fcber die St\u00fcckentwicklung \"Die Parallelwelt\", die im September 2018 am Berliner Ensemble und am Schauspiel Dortmund gleichzeitig Premiere hatte, sowie \u00fcber die \"Akademie f\u00fcr Digitalit\u00e4t und Theater\", die 2020 in Dortmund gegr\u00fcndet werden soll. ", 
+                                "description": "Einen Theaterabend, der die R\u00e4nder des Erz\u00e4hlens auslotet und die Grenzen zwischen Theater, Film und Netz in Frage stellt: Im September 2018 hatte \u201eDie Parallelwelt\u201c simultan am Schauspiel Dortmund und am Berliner Ensemble Premiere. Regisseur Kay Voges, Videok\u00fcnstler Mario Simon und Software-Ingenieur Lucas Ple\u00df vom Schauspiel Dortmund berichten \u00fcber die Entwicklung eines Theaterabends, f\u00fcr den zwei B\u00fchnen und zwei Zuschauerr\u00e4ume in zwei St\u00e4dten in Echtzeit per Glasfaser verbunden sind. \u201eDie Parallelwelt\u201c spielt mit der Vervielf\u00e4ltigung von Identit\u00e4ten im Zusammenspiel mit dem Wandel von Bildern, die sich die menschliche Spezies zu dem Kosmos macht, dessen Teil sie ist \u2013 und mit Entgrenzung, Aufl\u00f6sungs-Alptraum und einer Neuzusammensetzung der Welt, wie wir sie kannten.\r\n\r\n\u201eDie Parallelwelt\u201c ist die neueste Produktion zum Thema Menschsein im Digitalen Zeitalter vom Dortmunder Team um Kay Voges, das seit 2010 inhaltlich und formal an den Grenzen von Theater und Installation, Performance, Coding, Game und neuer Medienkunst forscht. Die Sehnsucht von \u201eDeutschlands f\u00fchrendem Theaterlabor\u201c (DIE WELT): Ein gegenw\u00e4rtiges und wagemutiges Schauspiel f\u00fcr ein Publikum des 21. Jahrhunderts, ein Volkstheater f\u00fcr die Digitale Moderne. Diese Forschungsreise wird ab 2020 intensiviert werden, wenn in Dortmund die neue \u201eAkademie f\u00fcr Digitalit\u00e4t und Theater\u201c an den Start gehen soll.\r\n", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 8813, 
+                                        "public_name": "Kay Voges"
+                                    }, 
+                                    {
+                                        "id": 8814, 
+                                        "public_name": "Mario Simon"
+                                    }, 
+                                    {
+                                        "id": 8793, 
+                                        "public_name": "Lucas Ple\u00df"
+                                    }
+                                ], 
+                                "links": [
+                                    {
+                                        "url": "https://www.theaterdo.de/detail/event/die-parallelwelt/", 
+                                        "title": "\"Parallelwelt\" in Dortmund"
+                                    }, 
+                                    {
+                                        "url": "https://www.berliner-ensemble.de/inszenierung/die-parallelwelt", 
+                                        "title": "Parallelwelt in Berlin"
                                     }
                                 ], 
                                 "attachments": []
@@ -9129,12 +9206,12 @@
                                 "room": "Clarke", 
                                 "slug": "35c3-9664-kosmische_teilchenbeschleuniger_und_ihre_spuren_in_der_antarktis", 
                                 "title": "Kosmische Teilchenbeschleuniger und ihre Spuren in der Antarktis", 
-                                "subtitle": "\u00dcber die Identifikation des ersten kosmischen Teilchenbeschleunigers und den Start einer neuen \u00c4ra in der Multimessenger-Astronomie", 
+                                "subtitle": "\u00dcber die Identifikation des ersten kosmischen Teilchenbeschleunigers und den Beginn einer neuen \u00c4ra in der Multimessenger-Astronomie", 
                                 "track": "Science", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "On September 17th 2017 the blazar TXS0506+056, a gigantic particle accelerator driven by the super-massive black hole at the center of its host galaxy, emitted a large number of weakly interacting elementary particles, known as neutrinos. One of these particles found its way to Earth and interacted with water molecules in the South-Antarctic Ice Sheet. Fortunately, the IceCube Observatory, a cubic kilometer of instrumented ice recorded a track of light that pointed directly back to its origin, unlike many other neutrinos captured in the past. This event, called IceCube-170922A writes history, since for the first time a concrete astrophysical object can be associated to the origin of this neutrino and thus the presence of strongly accelerated, interacting matter. A second look at the data recorded in 2014-2015 confirmed that the blazar has indeed periods of high-neutrino emission, strengthening the confidence in the 2017 event to be a real discovery and great success for Multi-Messenger Astrophysics.", 
-                                "description": "As discovered by Victor Hess already in 1912, there are particles impinging the Earth\u2019s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  \r\n\r\nIn this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.", 
+                                "abstract": "Am 17. September 2018 emittierte der Blazar TXS0506+056 eine gro\u00dfe Menge schwach wechselwirkender Neutrinos. Von dem durch ein supermassives schwarzes Loch im Zentrum seiner Galaxie angetriebenen kosmischen Teilchenbeschleuniger fand eines dieser Teilchen seinen Weg zur Erde und interagierte mit Wassermolek\u00fclen im antarktischen Eis. Durch einen gl\u00fccklichen Zufall konnte das IceCube Neutrino Observatory, ein Kubikkilometer gro\u00dfer Detektor aus instrumentiertem Eis, eine Lichtspur aufzeichnen, die direkt zur Quelle zur\u00fcck zeigte. Damit konnte erstmals ein bekanntes astrophysikalisches Objekt mit dem Ursprung eines kosmischen Neutrinos assoziert werden und das Ereignis IceCube-170922A schrieb Geschichte. Ein n\u00e4herer Blick auf die w\u00e4hrend 2014-2015 gesammelten Daten zeigte, dass die Neutrino-Emission von TXS0506+056 phasenweise erh\u00f6ht ist. Dies unterst\u00fctzt die These, dass das Ereignis von 2017 tats\u00e4chlich dem Blazar zugeordnet werden kann und die Entdeckung wurde zu einem gro\u00dfer Erfolg f\u00fcr die Multi-Messenger Astrophysik. \r\n\r\nOn September 17th 2017 the blazar TXS0506+056, a gigantic particle accelerator driven by the super-massive black hole at the center of its host galaxy, emitted a large number of weakly interacting elementary particles, known as neutrinos. One of these particles found its way to Earth and interacted with water molecules in the South-Antarctic Ice Sheet. Fortunately, the IceCube Observatory, a cubic kilometer of instrumented ice recorded a track of light that pointed directly back to its origin, unlike many other neutrinos captured in the past. This event, called IceCube-170922A writes history, since for the first time a concrete astrophysical object can be associated to the origin of this neutrino and thus the presence of strongly accelerated, interacting matter. A second look at the data recorded in 2014-2015 confirmed that the blazar has indeed periods of high-neutrino emission, strengthening the confidence in the 2017 event to be a real discovery and great success for Multi-Messenger Astrophysics.", 
+                                "description": "Bereits 1912 entdeckte Viktor Hess die als kosmische Strahlen bekannten hochenergetischen Teilchen, die im Sekundentakt aus dem Weltall auf die Erdatmosph\u00e4re treffen. Einige von ihnen stammen aus unserer Sonne, andere von Quellen in unserer eigenen Galaxie \u2013 bei den h\u00f6chsten Energien liegen die Urspr\u00fcnge allerdings vermutlich in weit entfernten Galaxien. Ungl\u00fccklicherweise handelt es sich gr\u00f6\u00dfteils um geladene Ionen, die auf ihrem Weg durch das Universum durch Magnetfelder abgelenkt werden und nicht zu ihren Quellen zur\u00fcckverfolgt werden k\u00f6nnen. Deswegen konnte in den mehr als 100 Jahren seit ihrer Entdeckung keine eindeutige Quelle extragalaktischer kosmischer Strahlen identifiziert werden.  \r\nTrotz allem gibt es dort drau\u00dfen Objekte, die winzige Teilchen mit den unvorstellbar geringen Massen von 10^-24g auf die Energie beschleunigen, mit der Rafael Nadal seine Tennisb\u00e4lle aufschl\u00e4gt. In irgendeiner Form m\u00fcssen diese Objekte strahlen und neben kosmischen Strahlen auch andere Teilchen emittieren. Hier setzt die Idee von Multi-Messenger Astroteilchenphysik an: Bei der Untersuchung der energiereichsten Objekte unseres Universums werden zugleich Licht, Neutrinos und Gravitationswellen betrachtet, allesamt ungeladene Boten, die Informationen von den Quellen direkt zu unseren Detektoren tragen. W\u00e4hrend 2017 Gravtitationswellen eines Gammastrahlenblitzes identifiziert werden konnten, war der diesj\u00e4hrige Durchbruch in der Multi-Messenger Astroteilchenphysik die Assoziation eines von IceCube detektierten Neutrinos mit einem bekannten Blazar in einer weit entfernten Galaxie. \r\n\r\nIn diesem Vortrag erkl\u00e4ren wir, was Menschen zum Bau komplexer Detektoren an den exotischsten Pl\u00e4tzen der Welt motiviert, um hochenergetische Teilchen aus dem Weltall zu jagen. Wir sprechen \u00fcber die bahnbrechende Entdeckung diesen Jahres und beleuchten, wie der Durchbruch durch twitter-\u00e4hnliche Echtzeit-Monitoring-Systeme \u00fcberhaupt erst m\u00f6glich wurde.  \r\n\r\nAs discovered by Victor Hess already in 1912, there are particles impinging the Earth\u2019s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  \r\n\r\nIn this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -9618,7 +9695,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9573.html", 
                                 "id": 9573, 
                                 "guid": "07f5d97a-161c-4435-abad-6ef08107df15", 
-                                "logo": "/system/events/logos/000/009/573/large/photo_2018-12-21_13-24-19.jpg?1545395075", 
+                                "logo": "/system/events/logos/000/009/573/large/chain0.png?1545670378", 
                                 "date": "2018-12-29T19:10:00+01:00", 
                                 "start": "19:10", 
                                 "duration": "00:40", 
@@ -13267,14 +13344,14 @@
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "Radical Digital Painting groups and presents several ideas and artifacts related to contemporary painting and contextualizes its connection to historical processes and digital technology. It is inspired by and is a continuation of Radical Computer Music.\r\n\r\nThrough demonstrative, interactive performance lectures, American artist and educator Jeffrey Alan Scudder presents homegrown software inventions and new theories about painting and picture making. ", 
-                                "description": "Radical Digital Painting groups and presents several ideas and artifacts related to contemporary painting and contextualizes its connection to historical processes and digital technology. It is inspired by and is a continuation of Radical Computer Music.\r\n\r\nThrough demonstrative, interactive performance lectures, American artist and educator Jeffrey Alan Scudder presents homegrown software inventions and new theories about painting and picture making. \r\n\r\nHe has performed more than 45 times since 2016 across the US and Europe, mostly in art schools for students, and often with collaborators Goodiepal, Casey REAS, Julia Yerger, and Artur Erman.\r\n\r\nA Google search for \u201cdigital painting\u201d today mostly brings up Photoshop tutorials related to translating age old representational painting techniques to computational media, but the topic of digital painting has much more to offer fine arts in terms of poetry and theory.\r\n\r\nPainting software today has largely developed out of a need for traditional artists to keep up pace of work in large scale mass media production pipelines, like those of video games and movies. Few systems have been developed to explore the spontaneity and spirituality present in modernism and contemporary art and further develop the language of painting in general. \r\n\r\nJeffrey has created several programs that highlight abstract expressivity, play, and improvisation over production quality and technical control.\r\n\r\nIn addition to software demos, new theoretical models of image resolution, computer literacy, and picture making are illustrated, described, and connected to the history of abstraction in drawing and painting. New ways of approaching drawing are also presented. \r\n\r\nHe presently spends all his time traveling, performing, and continuing to develop his software and media performances.\r\n\r\nAs of Summer and Fall 2018 he is traveling and lecturing with the Danish composer Goodiepal and his band GP&PLS throughout Europe. Jeffrey\u2019s work Ten Minute Painting is now a part of the International Goodiepal Collection at the SMK Statens Museum for Kunst in Copenhagen, Denmark.", 
+                                "abstract": "Radical Digital Painting groups and presents several ideas and artifacts related to contemporary painting and contextualizes its connection to historical processes and digital technology. It is inspired by and is a continuation of Radical Computer Music.", 
+                                "description": "Through demonstrative, interactive performance lectures, American artist and educator Jeffrey Alan Scudder presents homegrown software inventions and new theories about painting and picture making. \r\n\r\nHe has performed 60 times since 2016 across the US and Europe, mostly in art schools for students, and often with collaborators Goodiepal, Casey REAS, Julia Yerger, and Artur Erman.\r\n\r\nA Google search for \u201cdigital painting\u201d today mostly brings up Photoshop tutorials related to translating age old representational painting techniques to computational media, but the topic of digital painting has much more to offer fine arts in terms of poetry and theory.\r\n\r\nPainting software today has largely developed out of a need for traditional artists to keep up pace of work in large scale mass media production pipelines, like those of video games and movies. Few systems have been developed to explore the spontaneity and spirituality present in modernism and contemporary art and further develop the language of painting in general. \r\n\r\nJeffrey has created several programs that highlight abstract expressivity, play, and improvisation over production quality and technical control.\r\n\r\nIn addition to software demos, new theoretical models of image resolution, computer literacy, and picture making are illustrated, described, and connected to the history of abstraction in drawing and painting. New ways of approaching drawing are also presented. \r\n\r\nHe presently spends all his time traveling, performing, and continuing to develop his software and media performances.\r\n\r\nAs of Summer and Fall 2018 he is traveling and lecturing with the Danish composer Goodiepal and his band GP&PLS throughout Europe. Jeffrey\u2019s work Ten Minute Painting is now a part of the International Goodiepal Collection at the SMK Statens Museum for Kunst in Copenhagen, Denmark.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
                                         "id": 8584, 
-                                        "public_name": "Jeffrey Scudder"
+                                        "public_name": "Jeffrey Alan Scudder"
                                     }
                                 ], 
                                 "links": [
