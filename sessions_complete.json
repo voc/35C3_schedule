@@ -7487,6 +7487,76 @@
             }
         ]
     }, 
+    "Session:KiCad Beginner Workshop# 0e5351a6dbf984bd535541d409362dfd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://kicad-pcb.org", 
+            "https://forum.kicad.info/t/35c3-new-year-new-congress/14026"
+        ], 
+        "Has description": [
+            "For all creatures who want to learn KiCad"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Cpresser", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Pointhi", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "KiCad Beginner Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "fff5267a-aad1-4b77-9c07-0ab0649ec8ce"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger# 8fa1fd2c3b5beb2703a79a56f58e36b5": {
         "Held in language": [
             "de - German", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2 2018-12-25 19:50</version>
+  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.3 2018-12-25 21:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2386,6 +2386,30 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
         </links>
       </event>
+      <event id="1276" guid="fff5267a-aad1-4b77-9c07-0ab0649ec8ce">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1276-session_kicad_beginner_workshop</slug>
+        <title>KiCad Beginner Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>For all creatures who want to learn KiCad</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser">Cpresser</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi">Pointhi</person>
+        </persons>
+        <links>
+          <link>http://kicad-pcb.org</link>
+          <link>https://forum.kicad.info/t/35c3-new-year-new-congress/14026</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop</link>
+        </links>
+      </event>
       <event id="1104" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
         <logo/>
         <date>2018-12-27T12:00:00+01:00</date>
@@ -3809,6 +3833,35 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="60">
             <name>Sebastian</name>
             <biography>CEO von CADUS e.V.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="300" guid="e3a587be-30ad-511c-a706-d24b48d1581a">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>VWQJGS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/VWQJGS</url>
+        <title>GNUnet e. V. Mitgliederversammlung</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Mitglieder Versammlung des GNUnet e. V.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">
+            <name>xrs</name>
+            <biography>Mitglied des GNUnet e. V.</biography>
           </person>
         </persons>
         <links/>

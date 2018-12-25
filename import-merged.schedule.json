@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2", 
+        "version": "Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2879,6 +2879,37 @@
                                         "id": 60, 
                                         "name": "Sebastian", 
                                         "biography": "CEO von CADUS e.V.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 300, 
+                                "guid": "e3a587be-30ad-511c-a706-d24b48d1581a", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "02:00", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "VWQJGS", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/VWQJGS", 
+                                "title": "GNUnet e. V. Mitgliederversammlung", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 80min", 
+                                "language": "de", 
+                                "abstract": "Mitglieder Versammlung des GNUnet e. V.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 79, 
+                                        "name": "xrs", 
+                                        "biography": "Mitglied des GNUnet e. V.", 
                                         "answers": []
                                     }
                                 ], 

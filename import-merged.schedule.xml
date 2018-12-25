@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.2</version>
+  <version>Emergency Room 3 1.6 v1.8 0.7 memoryrefresh 1.0.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2981,6 +2981,35 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
           <person id="60">
             <name>Sebastian</name>
             <biography>CEO von CADUS e.V.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="300" guid="e3a587be-30ad-511c-a706-d24b48d1581a">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>VWQJGS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/VWQJGS</url>
+        <title>GNUnet e. V. Mitgliederversammlung</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Mitglieder Versammlung des GNUnet e. V.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">
+            <name>xrs</name>
+            <biography>Mitglied des GNUnet e. V.</biography>
           </person>
         </persons>
         <links/>
