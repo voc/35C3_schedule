@@ -3999,7 +3999,7 @@
             }
         ]
     }, 
-    "Session:Commie curious# 9f47726b1c91939be05ceed885dc25df": {
+    "Session:Commie curious# b3cdf5c1ed95f1e411bced6db696bc4a": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -4028,7 +4028,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "the follow-up session"
+        ], 
         "Is organized by": [], 
         "Has title": [
             "Commie curious"
@@ -4047,6 +4049,59 @@
             {
                 "timestamp": "1546102800", 
                 "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Commie curious# ced99be4efd725138d50350bfe4fb180": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546092900", 
+                "raw": "1/2018/12/29/14/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://telekommunisten.net"
+        ], 
+        "Has description": [
+            "A warm and welcoming place for people who think they might be a little communist."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "the introductory session"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Commie curious"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "06d8debb-e24a-4abd-9887-931407587e41"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious", 
+        "Has end time": [
+            {
+                "timestamp": "1546096500", 
+                "raw": "1/2018/12/29/15/15/0/0"
             }
         ]
     }, 

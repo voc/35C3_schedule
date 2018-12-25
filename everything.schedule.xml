@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 22:30</version>
+  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 23:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14115,7 +14115,7 @@ However, it's not always easy...</description>
         <room>Seminar room 13</room>
         <slug>35c3-1207-session_commie_curious</slug>
         <title>Commie curious</title>
-        <subtitle/>
+        <subtitle>the follow-up session</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language/>
@@ -14400,6 +14400,26 @@ However, it's not always easy...</description>
         <links>
           <link>https://media.ccc.de/v/2018-137-mzakmdcvamigazbh</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Amiga!_Amigaaa!_Disksalvation_%26_Scene_Gathering</link>
+        </links>
+      </event>
+      <event id="1279" guid="06d8debb-e24a-4abd-9887-931407587e41">
+        <logo/>
+        <date>2018-12-29T14:15:00+01:00</date>
+        <start>14:15</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1279-session_commie_curious</slug>
+        <title>Commie curious</title>
+        <subtitle>the introductory session</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>A warm and welcoming place for people who think they might be a little communist.</description>
+        <persons/>
+        <links>
+          <link>http://telekommunisten.net</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious</link>
         </links>
       </event>
       <event id="1041" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
