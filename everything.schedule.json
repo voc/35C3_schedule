@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 14:50", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 15:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -20054,6 +20054,12 @@
                                     {
                                         "id": 27, 
                                         "name": "Simon", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 37, 
+                                        "name": "P3nny", 
                                         "biography": null, 
                                         "answers": []
                                     }
