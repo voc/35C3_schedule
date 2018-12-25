@@ -4462,14 +4462,14 @@
             }
         ]
     }, 
-    "Session:EPrivacy: Call to action!# 178befd8124265d86fddda4e26fa2dda": {
+    "Session:EPrivacy: Call to action!# cccb662292ce0b0201ac3ef4411f23ec": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
             }
         ], 
         "Has event track": [
@@ -4484,7 +4484,15 @@
         "Has session type": [
             "Workshop"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [
             "Get active and fight for ePrivacy!"
         ], 
@@ -4504,8 +4512,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!", 
         "Has end time": [
             {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
             }
         ]
     }, 
