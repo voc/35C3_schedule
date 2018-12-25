@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-25 13:20</version>
+  <version>2018-12-25 13:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -988,6 +988,26 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup</link>
+        </links>
+      </event>
+      <event id="1268" guid="91519f50-9c75-445c-aaf1-63a95f89614a">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1268-session_verhaltenserkennung_stoppen_aktionsbrainstorming_gegen_analysierende_videoueberwachung_in_deutschland</slug>
+        <title>Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Videoüberwachung in Deutschland</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Aktionsbrainstorming: Wir suchen nach Protestideen und Aktionen gegen Verhaltenserkennung/Gesichtserkennung</description>
+        <persons/>
+        <links>
+          <link>http://digitale-freiheit.jetzt</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verhaltenserkennung_stoppen!_Aktionsbrainstorming_gegen_analysierende_Video%C3%BCberwachung_in_Deutschland</link>
         </links>
       </event>
     </room>

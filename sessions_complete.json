@@ -14237,6 +14237,59 @@
             }
         ]
     }, 
+    "Session:Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Video\u00fcberwachung in Deutschland# 3f5d1ba7f5247d34e83f6f5e6cf684f8": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://digitale-freiheit.jetzt"
+        ], 
+        "Has description": [
+            "Aktionsbrainstorming: Wir suchen nach Protestideen und Aktionen gegen Verhaltenserkennung/Gesichtserkennung"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Video\u00fcberwachung in Deutschland"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "91519f50-9c75-445c-aaf1-63a95f89614a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verhaltenserkennung_stoppen!_Aktionsbrainstorming_gegen_analysierende_Video%C3%BCberwachung_in_Deutschland", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG# ac1f7c201cfa3ae8a4f19a9f5f228264": {
         "Held in language": [
             "de - German"
