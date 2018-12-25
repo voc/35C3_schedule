@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-25 17:30", 
+        "version": "2018-12-25 17:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4057,6 +4057,28 @@
                     "rooms": {
                         "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
+                            {
+                                "id": 1270, 
+                                "guid": "836954ed-284c-4063-b7a2-8d8eaf154222", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1270-session_people_who_write_code", 
+                                "title": "People who write code", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?", 
+                                "persons": [], 
+                                "links": [
+                                    "http://code.neopostmodern.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:People_who_write_code"
+                                ]
+                            }, 
                             {
                                 "id": 1119, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa8", 

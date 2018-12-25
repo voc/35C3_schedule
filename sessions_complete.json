@@ -9774,6 +9774,60 @@
             }
         ]
     }, 
+    "Session:People who write code# c771f1de9931cac765d50f336489b047": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://code.neopostmodern.com"
+        ], 
+        "Has description": [
+            "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "People who write code"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "836954ed-284c-4063-b7a2-8d8eaf154222"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:People_who_write_code", 
+        "Has end time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Personal Assistants By People for the People# 3dda4af1d3d76b6b3366f119cbf267ee": {
         "Held in language": [], 
         "Has start time": [
