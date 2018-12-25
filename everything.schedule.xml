@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 23:20</version>
+  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 23:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5669,6 +5669,29 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Kidspace">
+      <event id="1280" guid="901817fd-1431-46f6-916e-6443eb168baa">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1280-session_pen_paper_mini_game_jam_</slug>
+        <title>Pen&amp;paper mini "Game Jam“</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>pen&amp;paper mini "Game Jam“</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
         </links>
       </event>
     </room>
@@ -12087,6 +12110,29 @@ music.</abstract>
         </links>
       </event>
     </room>
+    <room name="Assembly:Kidspace">
+      <event id="1283" guid="67526e98-c495-53e2-b9ec-9baee92aa89f">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1283-session_pen_paper_mini_game_jam_</slug>
+        <title>Pen&amp;paper mini "Game Jam“</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>pen&amp;paper mini "Game Jam“</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Eco Hacker Farm">
       <event id="1259" guid="affa535f-47b5-46de-a388-8cb436187444">
         <logo/>
@@ -18030,6 +18076,29 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Kidspace">
+      <event id="1282" guid="238c51cf-b5a7-5bf3-a6f3-c34db984c763">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1282-session_pen_paper_mini_game_jam_</slug>
+        <title>Pen&amp;paper mini "Game Jam“</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>pen&amp;paper mini "Game Jam“</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
+        </links>
+      </event>
+    </room>
   </day>
   <day index="4" date="2018-12-30" start="2018-12-30T11:00:00+01:00" end="2018-12-30T19:00:00+01:00">
     <room name="Adams">
@@ -20292,6 +20361,29 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Kidspace">
+      <event id="1281" guid="8b04ebe0-ce11-4b6c-b31b-e27699676d36">
+        <logo/>
+        <date>2018-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1281-session_pen_paper_mini_game_jam_</slug>
+        <title>Pen&amp;paper mini "Game Jam“</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>pen&amp;paper mini "Game Jam“</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
         </links>
       </event>
     </room>
