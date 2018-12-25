@@ -4901,70 +4901,7 @@
             }
         ]
     }, 
-    "Session:Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale# 6e53b73009b94b9b0015f387e6fd2324": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546178400", 
-                "raw": "1/2018/12/30/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://xrebellion.org/"
-        ], 
-        "Has description": [
-            "Climate change is for real and we are sending a message to influence the government. Even better - setting the foundation to become the government \ud83d\udd25\ud83d\udd25\ud83d\udd25"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Second date because there will be some key findings and research in the meanwhile."
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Mars", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mars", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "24d88d04-b624-4fcc-a464-17aeb935a86e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale", 
-        "Has end time": [
-            {
-                "timestamp": "1546182000", 
-                "raw": "1/2018/12/30/15/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale# 8c06516cceac888ae402cbe4c1a27f91": {
+    "Session:Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale# 07d4b244ac75750767b7af6650f6436a": {
         "Held in language": [
             "en - English"
         ], 
@@ -4996,7 +4933,7 @@
             }
         ], 
         "Has subtitle": [
-            "Discussion, planning, organising, prioritising."
+            "Discussion, planning, organising, prioritising \ud83d\udd25\ud83d\udd25\ud83d\udd25"
         ], 
         "Is organized by": [
             {
@@ -5024,6 +4961,69 @@
             {
                 "timestamp": "1546005600", 
                 "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale# bff1b814fd9c8f4b3327f9290443af43": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://xrebellion.org/"
+        ], 
+        "Has description": [
+            "Climate change is for real and we are sending a message to influence the government. Even better - setting the foundation to become the government \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Second date because there will be some key findings and research in the meanwhile \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Mars", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mars", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Extinction Rebellion - NOT shutting down the internet - civil disobedience (non violent direct action) on a massive scale"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "24d88d04-b624-4fcc-a464-17aeb935a86e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale", 
+        "Has end time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
             }
         ]
     }, 
