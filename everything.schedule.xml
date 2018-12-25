@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 22:20</version>
+  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-25 22:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -10153,6 +10153,10 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
             <name>Arne</name>
             <biography/>
           </person>
+          <person id="41">
+            <name>Stefan</name>
+            <biography/>
+          </person>
         </persons>
         <links/>
         <attachments/>
@@ -10254,6 +10258,10 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
           </person>
           <person id="40">
             <name>Johannes Filter</name>
+            <biography/>
+          </person>
+          <person id="41">
+            <name>Stefan</name>
             <biography/>
           </person>
         </persons>
@@ -15715,7 +15723,7 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
         <room>ChaosZone</room>
         <slug>SPC9JS</slug>
         <url>https://cfp.chaoszone.cz/35c3/talk/SPC9JS</url>
-        <title>Lighningtalks Overflow</title>
+        <title>Lightningtalks Overflow</title>
         <subtitle/>
         <track/>
         <type>Session 60min</type>

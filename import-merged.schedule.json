@@ -7436,6 +7436,12 @@
                                         "name": "Arne", 
                                         "biography": null, 
                                         "answers": []
+                                    }, 
+                                    {
+                                        "id": 41, 
+                                        "name": "Stefan", 
+                                        "biography": null, 
+                                        "answers": []
                                     }
                                 ], 
                                 "links": [], 
@@ -7551,6 +7557,12 @@
                                     {
                                         "id": 40, 
                                         "name": "Johannes Filter", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 41, 
+                                        "name": "Stefan", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11247,7 +11259,7 @@
                                 "room": "ChaosZone", 
                                 "slug": "SPC9JS", 
                                 "url": "https://cfp.chaoszone.cz/35c3/talk/SPC9JS", 
-                                "title": "Lighningtalks Overflow", 
+                                "title": "Lightningtalks Overflow", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Session 60min", 
