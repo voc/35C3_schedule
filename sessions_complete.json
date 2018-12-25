@@ -10548,7 +10548,7 @@
                 "fulltext": "User:Mwarning", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Mwarning", 
                 "namespace": 2, 
-                "exists": "", 
+                "exists": "1", 
                 "displaytitle": ""
             }
         ], 
@@ -12910,6 +12910,43 @@
                 "raw": "1/2018/12/28/15/0/0/0"
             }
         ]
+    }, 
+    "Session:Theremin Game Controller# 06ff0ca891d2ec77cc269e0b5b751b67": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Play a video game using a theremin as controller, that's the instrument from Big Bang Theory! The installation is quite retro-ish and an the open source game engine Godot was used."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Theremin Game Controller"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "cee5eaa9-09bb-47ca-8ac2-d839ab5df039"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Theremin_Game_Controller", 
+        "Has end time": []
     }, 
     "Session:Through the sky, small journey in the Universe# 5b3df034515a9d544d8d6e59d8453ae0": {
         "Held in language": [], 
