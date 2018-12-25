@@ -1,5 +1,5 @@
 <schedule>
-  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 11:50</version>
+  <version>Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 12:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17073,6 +17073,26 @@ Freifunk since 2003</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
+        </links>
+      </event>
+      <event id="1266" guid="423e176e-6b33-4a50-adca-58daf4bd5fe7">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room/>
+        <slug>35c3-1266-session_foodsharing_de_call_for_web_developers</slug>
+        <title>Foodsharing.de call for web developers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>foodsharing.de, a voluntary driven platform to coordinate foodsaving with more than 20000 volunteers is looking for people helping out with the development. Join us to get an overview of what we do and how you can help.</description>
+        <persons/>
+        <links>
+          <link>https://foodsharing.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foodsharing.de_call_for_web_developers</link>
         </links>
       </event>
       <event id="1253" guid="dbff7859-dd75-4555-8452-370ced7b4a82">
