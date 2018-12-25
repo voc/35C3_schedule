@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-25 19:10</version>
+  <version>2018-12-25 19:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1685,6 +1685,25 @@
         <links>
           <link>https://xrebellion.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale</link>
+        </links>
+      </event>
+      <event id="1274" guid="d176d83e-3f5f-4aca-9061-d9627318fc01">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1274-session_face_detection_how_to_camouflage_in_public_space_</slug>
+        <title>Face detection : how to camouflage in public space ?</title>
+        <subtitle>outloud thoughts about camouflage</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Is now a good time to care about camouflage in public spaces ?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Face_detection_:_how_to_camouflage_in_public_space_%3F</link>
         </links>
       </event>
       <event id="1047" guid="90e70b6f-f94d-4b02-b779-137337df409a">
