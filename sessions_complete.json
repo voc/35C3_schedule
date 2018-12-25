@@ -6887,6 +6887,43 @@
             }
         ]
     }, 
+    "Session:Indoor Localization Game Controller# db9563573dfeb1e4f26afe47e2df4aa8": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Play video games using an indoor localization as a controller, so that you (physically) are the player! The installation is quite retro-ish and the open source game engine Godot was used, among other things."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Indoor Localization Game Controller"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "25ea8ac0-52aa-4659-9846-c37a0f1a726a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller", 
+        "Has end time": []
+    }, 
     "Session:Introduction into anarchism# 36b5ca65fcd2732f13dbcc66745f1b9f": {
         "Held in language": [
             "en - English"
