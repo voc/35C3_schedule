@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-25 10:20</version>
+  <version>2018-12-25 10:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2177,9 +2177,9 @@
       </event>
       <event id="1183" guid="bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac">
         <logo/>
-        <date>2018-12-28T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
+        <date>2018-12-28T11:25:00+01:00</date>
+        <start>11:25</start>
+        <duration>0:45</duration>
         <room>Seminar room 13</room>
         <slug>35c3-1183-session_eprivacy_call_to_action_</slug>
         <title>EPrivacy: Call to action!</title>
@@ -3342,6 +3342,25 @@ Workshop muss leider ausfallen, weil die Workshopanbieter keinen Zugang zum Cong
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis</link>
+        </links>
+      </event>
+      <event id="1265" guid="26f72a31-9f02-4fbf-944d-23f77608ceec">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1265-session_upload_filters_call_to_action_</slug>
+        <title>Upload filters: Call to action!</title>
+        <subtitle>Get active, remove upload filters</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Call to action to put upload filters away from the current pieces of EU legislation</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
         </links>
       </event>
     </room>

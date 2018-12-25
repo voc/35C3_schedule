@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 10:20", 
+        "version": "Dr Who 3 1.6 v1.7 0.5 memoryrefresh 1.0.2 2018-12-25 10:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7901,9 +7901,9 @@
                                 "id": 1183, 
                                 "guid": "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac", 
                                 "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
+                                "date": "2018-12-28T11:25:00+01:00", 
+                                "start": "11:25", 
+                                "duration": "0:45", 
                                 "room": "Seminar room 13", 
                                 "slug": "35c3-1183-session_eprivacy_call_to_action_", 
                                 "title": "EPrivacy: Call to action!", 
@@ -14481,6 +14481,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis"
+                                ]
+                            }, 
+                            {
+                                "id": 1265, 
+                                "guid": "26f72a31-9f02-4fbf-944d-23f77608ceec", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1265-session_upload_filters_call_to_action_", 
+                                "title": "Upload filters: Call to action!", 
+                                "subtitle": "Get active, remove upload filters", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Call to action to put upload filters away from the current pieces of EU legislation", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!"
                                 ]
                             }
                         ], 

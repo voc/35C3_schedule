@@ -4462,14 +4462,14 @@
             }
         ]
     }, 
-    "Session:EPrivacy: Call to action!# cccb662292ce0b0201ac3ef4411f23ec": {
+    "Session:EPrivacy: Call to action!# 08cc1d2f23b9b30f555e3a607e1c2c93": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545994800", 
-                "raw": "1/2018/12/28/11/0/0/0"
+                "timestamp": "1545996300", 
+                "raw": "1/2018/12/28/11/25/0/0"
             }
         ], 
         "Has event track": [
@@ -4501,7 +4501,7 @@
             "EPrivacy: Call to action!"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
             "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac"
@@ -4512,8 +4512,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!", 
         "Has end time": [
             {
-                "timestamp": "1545998400", 
-                "raw": "1/2018/12/28/12/0/0/0"
+                "timestamp": "1545999000", 
+                "raw": "1/2018/12/28/12/10/0/0"
             }
         ]
     }, 
@@ -14082,6 +14082,95 @@
             {
                 "timestamp": "1545998400", 
                 "raw": "1/2018/12/28/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Upload filters: Call to action!# ad2ffef1e01d0636012a7dd713e218fa": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Call to action to put upload filters away from the current pieces of EU legislation"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Upload filters: Call to action!"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "8c591a6d-ba22-4919-97a1-17ab3b1e31d9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!", 
+        "Has end time": []
+    }, 
+    "Session:Upload filters: Call to action!# ee035191bb80d75e644a3d2529c0a35f": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Call to action to put upload filters away from the current pieces of EU legislation"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Get active, remove upload filters"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Upload filters: Call to action!"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "26f72a31-9f02-4fbf-944d-23f77608ceec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!", 
+        "Has end time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
             }
         ]
     }, 
