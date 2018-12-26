@@ -10638,7 +10638,9 @@
         ]
     }, 
     "Session:Polyamory# 581316812544b0867fc57fbc27843517": {
-        "Held in language": [], 
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             {
                 "timestamp": "1546005600", 
@@ -10648,9 +10650,15 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
+        "Has website": [
+            "http://twitter.com/sycretsoul"
+        ], 
+        "Has description": [
+            "Polyamory - Rethinking Love, Rethinking Relationships"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Lecture room 11", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-26 09:40</version>
+  <version>Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3 2018-12-26 09:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7649,12 +7649,13 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <title>Polyamory</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type/>
-        <language/>
+        <type>workshop</type>
+        <language>en</language>
         <abstract/>
-        <description/>
+        <description>Polyamory - Rethinking Love, Rethinking Relationships</description>
         <persons/>
         <links>
+          <link>http://twitter.com/sycretsoul</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory</link>
         </links>
       </event>
@@ -10132,6 +10133,36 @@ There might be free tacos.</description>
           <person id="40">
             <name>Unbenannter Nutzer</name>
             <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="410" guid="1046a7b1-1eca-5b60-977f-0bb21a548dd7">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:15</duration>
+        <room>Sendetisch</room>
+        <slug>UE8LHX</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/UE8LHX</url>
+        <title>Trollcontainer Jahresrückblick</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Kleiner Jahresrückblick mit verschiedenen Gästen</abstract>
+        <description>Der Congress ist doch die beste Zeit um auf das vergangene Jahr zurück zu blicken.&#13;
+Mit verschiedenen Gästen werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zurückblicken.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="9">
+            <name>TJ</name>
+            <biography>Just me!</biography>
           </person>
         </persons>
         <links/>
@@ -16476,36 +16507,6 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
             <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
 &#13;
 35c3 DECT: 7331 GSM: 7332</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="410" guid="1046a7b1-1eca-5b60-977f-0bb21a548dd7">
-        <logo/>
-        <date>2018-12-29T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:45</duration>
-        <room>Sendetisch</room>
-        <slug>UE8LHX</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/UE8LHX</url>
-        <title>Trollcontainer Jahresrückblick</title>
-        <subtitle/>
-        <track/>
-        <type>Sendetisch</type>
-        <language>de</language>
-        <abstract>Kleiner Jahresrückblick mit verschiedenen Gästen</abstract>
-        <description>Der Congress ist doch die beste Zeit um auf das vergangene Jahr zurück zu blicken.&#13;
-Mit verschiedenen Gästen werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zurückblicken.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="9">
-            <name>TJ</name>
-            <biography>Just me!</biography>
           </person>
         </persons>
         <links/>

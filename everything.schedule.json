@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-26 09:40", 
+        "version": "Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3 2018-12-26 09:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7895,12 +7895,13 @@
                                 "title": "Polyamory", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "", 
+                                "type": "workshop", 
+                                "language": "en", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Polyamory - Rethinking Love, Rethinking Relationships", 
                                 "persons": [], 
                                 "links": [
+                                    "http://twitter.com/sycretsoul", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Polyamory"
                                 ]
                             }, 
@@ -10432,6 +10433,37 @@
                                         "id": 40, 
                                         "name": "Unbenannter Nutzer", 
                                         "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 410, 
+                                "guid": "1046a7b1-1eca-5b60-977f-0bb21a548dd7", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "01:15", 
+                                "room": "Sendetisch", 
+                                "slug": "UE8LHX", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/UE8LHX", 
+                                "title": "Trollcontainer Jahresr\u00fcckblick", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Kleiner Jahresr\u00fcckblick mit verschiedenen G\u00e4sten", 
+                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 9, 
+                                        "name": "TJ", 
+                                        "biography": "Just me!", 
                                         "answers": []
                                     }
                                 ], 
@@ -17248,37 +17280,6 @@
                                         "id": 7, 
                                         "name": "MacSnider", 
                                         "biography": "Irgendwo zwischen Nerd & Geek\u2122 | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-J\u00e4ger | Dosen\u00f6ffner f\u00fcr Katzen | K\u00f6nig vom Stimmenreich\r\n\r\n35c3 DECT: 7331 GSM: 7332", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 410, 
-                                "guid": "1046a7b1-1eca-5b60-977f-0bb21a548dd7", 
-                                "logo": null, 
-                                "date": "2018-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "UE8LHX", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/UE8LHX", 
-                                "title": "Trollcontainer Jahresr\u00fcckblick", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "de", 
-                                "abstract": "Kleiner Jahresr\u00fcckblick mit verschiedenen G\u00e4sten", 
-                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 9, 
-                                        "name": "TJ", 
-                                        "biography": "Just me!", 
                                         "answers": []
                                     }
                                 ], 
