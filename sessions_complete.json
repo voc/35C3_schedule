@@ -5515,6 +5515,62 @@
             }
         ]
     }, 
+    "Session:Easy iot# c27630b3f10d28aea2bc5354e767ab89": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://m5stack.com"
+        ], 
+        "Has description": [
+            "M5stack is a modular programmable prototyping device which has the esp32 at its core. M5stack can be programmed with the arduino IDE, esp-idf, micropython  and more. In this workshop however we will be focusing on using block programming to control the light, sound, images on the screen, sensors etc. This workshop is suited for kids or anyone who is taking their first steps in coding, and maybe are put off by thinking they have to learn lots of typed commands to do even the most basic of things. The Uiflow interface for M5stack (flow.m5stack.com) is designed to lower the creative  barrier so that anyone without prior knowledge can get setup making their first IoT application in minutes."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kliment", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Easy iot"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "888c6313-9c33-49b0-b3f2-502653083938"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Easy_iot", 
+        "Has end time": []
+    }, 
     "Session:Eco Hacker Farm# ae4033534ab142c3d625ee5dcf414841": {
         "Held in language": [
             "en - English"
