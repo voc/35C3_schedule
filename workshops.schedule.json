@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 11:30", 
+        "version": "2018-12-26 11:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4185,6 +4185,33 @@
                                 "links": [
                                     "http://telekommunisten.net", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious"
+                                ]
+                            }, 
+                            {
+                                "id": 1302, 
+                                "guid": "7ef5b19d-c69a-4f74-8afb-dc66b7c3b488", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1302-session_esperanto_a_planned_nerd_language_actually_spoken", 
+                                "title": "Esperanto \u2013 a planned nerd language actually spoken", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "A short introduction into the international language Esperanto. A planned language actually spoken by nerds all over the world", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Johmue", 
+                                        "public_name": "Johmue"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
                                 ]
                             }, 
                             {
