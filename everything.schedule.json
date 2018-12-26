@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:20", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5552,7 +5552,7 @@
                                 "subtitle": "Users of german and other sign languages / Nutzer der Deutschen Geb\u00e4rdensprache (DGS) und anderer Geb\u00e4rdensprachen", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
-                                "language": "de", 
+                                "language": "", 
                                 "abstract": "", 
                                 "description": "We want to meet and connect with sign language using humans. Wir wollen uns mit anderen Geb\u00e4rdensprachlern treffen und vernetzen.", 
                                 "persons": [], 

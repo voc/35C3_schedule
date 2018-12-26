@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:20</version>
+  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5385,7 +5385,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <subtitle>Users of german and other sign languages / Nutzer der Deutschen Gebärdensprache (DGS) und anderer Gebärdensprachen</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language>de</language>
+        <language/>
         <abstract/>
         <description>We want to meet and connect with sign language using humans. Wir wollen uns mit anderen Gebärdensprachlern treffen und vernetzen.</description>
         <persons/>
