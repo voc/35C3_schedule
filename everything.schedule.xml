@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:20</version>
+  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2445,30 +2445,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>http://help.ccc.de</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board</link>
-        </links>
-      </event>
-      <event id="1276" guid="fff5267a-aad1-4b77-9c07-0ab0649ec8ce">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room M2</room>
-        <slug>35c3-1276-session_kicad_beginner_workshop</slug>
-        <title>KiCad Beginner Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>For all creatures who want to learn KiCad</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser">Cpresser</person>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi">Pointhi</person>
-        </persons>
-        <links>
-          <link>http://kicad-pcb.org</link>
-          <link>https://forum.kicad.info/t/35c3-new-year-new-congress/14026</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop</link>
         </links>
       </event>
       <event id="1104" guid="c687a764-0204-46f1-9393-bce5dd7f65fb">
@@ -5371,6 +5347,27 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Nerfgun_Battle</link>
+        </links>
+      </event>
+      <event id="1301" guid="46c78e60-7cbe-4740-a043-95540584bfbf">
+        <logo/>
+        <date>2018-12-27T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>0:30</duration>
+        <room/>
+        <slug>35c3-1301-session_rubik_s_cube_loesen_lernen</slug>
+        <title>Rubik's Cube Lösen Lernen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Rubik's Cube - Learn to Solve</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kmkkmk">Kmkkmk</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Rubik%27s_Cube_L%C3%B6sen_Lernen</link>
         </links>
       </event>
       <event id="1248" guid="d056aed3-4ca0-427a-a565-24b2595ffcac">
@@ -8662,6 +8659,30 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <links>
           <link>https://and.notraces.net</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism</link>
+        </links>
+      </event>
+      <event id="1276" guid="fff5267a-aad1-4b77-9c07-0ab0649ec8ce">
+        <logo/>
+        <date>2018-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1276-session_kicad_beginner_workshop</slug>
+        <title>KiCad Beginner Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>For all creatures who want to learn KiCad</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser">Cpresser</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi">Pointhi</person>
+        </persons>
+        <links>
+          <link>http://kicad-pcb.org</link>
+          <link>https://forum.kicad.info/t/35c3-new-year-new-congress/14026</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop</link>
         </links>
       </event>
       <event id="1129" guid="7bc214f9-4c4d-448d-bfa0-88c91c39285c">

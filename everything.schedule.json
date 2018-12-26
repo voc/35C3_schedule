@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:20", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2561,40 +2561,6 @@
                                 "links": [
                                     "http://help.ccc.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Feedback_Session_for_the_Arbitration_Board"
-                                ]
-                            }, 
-                            {
-                                "id": 1276, 
-                                "guid": "fff5267a-aad1-4b77-9c07-0ab0649ec8ce", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1276-session_kicad_beginner_workshop", 
-                                "title": "KiCad Beginner Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "For all creatures who want to learn KiCad", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser", 
-                                        "public_name": "Cpresser"
-                                    }, 
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi", 
-                                        "public_name": "Pointhi"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://kicad-pcb.org", 
-                                    "https://forum.kicad.info/t/35c3-new-year-new-congress/14026", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop"
                                 ]
                             }, 
                             {
@@ -5536,6 +5502,33 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nerfgun_Battle"
+                                ]
+                            }, 
+                            {
+                                "id": 1301, 
+                                "guid": "46c78e60-7cbe-4740-a043-95540584bfbf", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "0:30", 
+                                "room": "", 
+                                "slug": "35c3-1301-session_rubik_s_cube_loesen_lernen", 
+                                "title": "Rubik's Cube L\u00f6sen Lernen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rubik's Cube - Learn to Solve", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kmkkmk", 
+                                        "public_name": "Kmkkmk"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rubik%27s_Cube_L%C3%B6sen_Lernen"
                                 ]
                             }, 
                             {
@@ -9096,6 +9089,40 @@
                                 "links": [
                                     "https://and.notraces.net", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_into_anarchism"
+                                ]
+                            }, 
+                            {
+                                "id": 1276, 
+                                "guid": "fff5267a-aad1-4b77-9c07-0ab0649ec8ce", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1276-session_kicad_beginner_workshop", 
+                                "title": "KiCad Beginner Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "For all creatures who want to learn KiCad", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Cpresser", 
+                                        "public_name": "Cpresser"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pointhi", 
+                                        "public_name": "Pointhi"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://kicad-pcb.org", 
+                                    "https://forum.kicad.info/t/35c3-new-year-new-congress/14026", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop"
                                 ]
                             }, 
                             {
