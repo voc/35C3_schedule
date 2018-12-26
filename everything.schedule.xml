@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 13:00</version>
+  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 13:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -12186,6 +12186,26 @@ music.</abstract>
       </event>
     </room>
     <room name="Assembly:Verstehbahnhof">
+      <event id="1306" guid="b04e85b0-adaa-40d1-a601-69a5fecb19b4">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Verstehbahnhof</room>
+        <slug>35c3-1306-session_calliope_workshop</slug>
+        <title>Calliope Workshop</title>
+        <subtitle>Calliope Workshop 02</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Calliope Workshops für Kinder und Jugendliche</description>
+        <persons/>
+        <links>
+          <link>https://calliope.cc</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
+        </links>
+      </event>
       <event id="1305" guid="37a10bdc-0edc-41c5-9443-7551e66fd428">
         <logo/>
         <date>2018-12-28T11:30:00+01:00</date>

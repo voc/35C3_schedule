@@ -3589,6 +3589,61 @@
             }
         ]
     }, 
+    "Session:Calliope Workshop# 2f26ecc9a564807a70926d3b523418a4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://calliope.cc"
+        ], 
+        "Has description": [
+            "Calliope Workshops f\u00fcr Kinder und Jugendliche"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Verstehbahnhof", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Verstehbahnhof", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 02"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b04e85b0-adaa-40d1-a601-69a5fecb19b4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Calliope Workshop# abaa79a2a41df75eff50accea0ecf3fc": {
         "Held in language": [
             "de - German"
