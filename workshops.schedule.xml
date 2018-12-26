@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 18:10</version>
+  <version>2018-12-26 18:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -799,6 +799,27 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F</link>
+        </links>
+      </event>
+    </room>
+    <room name="Popticum Art-and-Play">
+      <event id="1309" guid="e83e6ccf-d34e-4040-8b5e-6fb50a30927b">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1309-session_concert_franzi_klimpel_julia_andreas</slug>
+        <title>Concert Franzi Klimpel &amp; Julia Andreas</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Tango Nuevo von Astor Piazzolla, Eigenes und Anderes...</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_Franzi_Klimpel_%26_Julia_Andreas</link>
         </links>
       </event>
     </room>

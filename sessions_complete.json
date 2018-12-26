@@ -4430,6 +4430,53 @@
             }
         ]
     }, 
+    "Session:Concert Franzi Klimpel & Julia Andreas# 0cb0fcd28f1b791e5ccbecd02172f952": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Tango Nuevo von Astor Piazzolla, Eigenes und Anderes..."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert Franzi Klimpel & Julia Andreas"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e83e6ccf-d34e-4040-8b5e-6fb50a30927b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_Franzi_Klimpel_%26_Julia_Andreas", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:Couching Textile Speakers# 910bd877b27565b3f3d6b9100f163257": {
         "Held in language": [
             "en - English"
@@ -6014,7 +6061,7 @@
             }
         ]
     }, 
-    "Session:Foodsharing.de call for web developers# 5607b2da785ac0911edbaa64b3bd8662": {
+    "Session:Foodsharing.de call for web developers# 1db5f0607b67f7d13637cbf2b293274d": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -6037,7 +6084,15 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodsaving", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodsaving", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [

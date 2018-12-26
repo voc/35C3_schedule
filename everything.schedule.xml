@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 18:10</version>
+  <version>Firefly 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 18:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5777,6 +5777,27 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <links>
           <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
+        </links>
+      </event>
+    </room>
+    <room name="Popticum Art-and-Play">
+      <event id="1309" guid="e83e6ccf-d34e-4040-8b5e-6fb50a30927b">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1309-session_concert_franzi_klimpel_julia_andreas</slug>
+        <title>Concert Franzi Klimpel &amp; Julia Andreas</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Tango Nuevo von Astor Piazzolla, Eigenes und Anderes...</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_Franzi_Klimpel_%26_Julia_Andreas</link>
         </links>
       </event>
     </room>
@@ -18102,26 +18123,6 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
         </links>
       </event>
-      <event id="1266" guid="423e176e-6b33-4a50-adca-58daf4bd5fe7">
-        <logo/>
-        <date>2018-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>0:30</duration>
-        <room/>
-        <slug>35c3-1266-session_foodsharing_de_call_for_web_developers</slug>
-        <title>Foodsharing.de call for web developers</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>foodsharing.de, a voluntary driven platform to coordinate foodsaving with more than 20000 volunteers is looking for people helping out with the development. Join us to get an overview of what we do and how you can help.</description>
-        <persons/>
-        <links>
-          <link>https://foodsharing.de</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foodsharing.de_call_for_web_developers</link>
-        </links>
-      </event>
       <event id="1253" guid="dbff7859-dd75-4555-8452-370ced7b4a82">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>
@@ -18633,6 +18634,28 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Energy_and_Environment_%E2%80%93_An_Open_Discussion</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Foodsaving">
+      <event id="1266" guid="423e176e-6b33-4a50-adca-58daf4bd5fe7">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Assembly:Foodsaving</room>
+        <slug>35c3-1266-session_foodsharing_de_call_for_web_developers</slug>
+        <title>Foodsharing.de call for web developers</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>foodsharing.de, a voluntary driven platform to coordinate foodsaving with more than 20000 volunteers is looking for people helping out with the development. Join us to get an overview of what we do and how you can help.</description>
+        <persons/>
+        <links>
+          <link>https://foodsharing.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foodsharing.de_call_for_web_developers</link>
         </links>
       </event>
     </room>
