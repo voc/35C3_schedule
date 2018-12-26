@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 20:50</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 21:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5214,13 +5214,13 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <attachments/>
       </event>
     </room>
-    <room name="Dome 3 #talks">
+    <room name="Komona Dome 3 #talks">
       <event id="826" guid="db12250b-7a4e-5673-8c60-eeb4abf20034">
         <logo/>
         <date>2018-12-27T10:30:00+00:00</date>
         <start>10:30</start>
         <duration>01:00</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>GZVBSM</slug>
         <url>https://talks.komona.org/35c3/talk/GZVBSM</url>
         <title>Back to the Congress with Back Training! Gegen die Verspannung!</title>
@@ -5251,7 +5251,7 @@ Aim of the workshop is taking a small break from sitting in front of your laptop
         <date>2018-12-27T14:00:00+00:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>3BT8ZB</slug>
         <url>https://talks.komona.org/35c3/talk/3BT8ZB</url>
         <title>Anarchistische Theorie I : Im Spannungsfeld gegen Hegemonie! - anarchistische Perspektive auf Hegemonietheorien</title>
@@ -5284,7 +5284,7 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <date>2018-12-27T16:00:00+00:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>NJQUZZ</slug>
         <url>https://talks.komona.org/35c3/talk/NJQUZZ</url>
         <title>voice and presence: how to be loud</title>
@@ -5313,7 +5313,7 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <date>2018-12-27T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>FRWFQE</slug>
         <url>https://talks.komona.org/35c3/talk/FRWFQE</url>
         <title>Spontanistan</title>
@@ -5342,7 +5342,7 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <date>2018-12-27T20:00:00+00:00</date>
         <start>20:00</start>
         <duration>00:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>JTZVBN</slug>
         <url>https://talks.komona.org/35c3/talk/JTZVBN</url>
         <title>Über Musik schreiben ist wie zu Architektur tanzen - Perlen aus Bandbewerbungen und Poesie von Bookingagenturen</title>
@@ -5367,13 +5367,13 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <answers/>
       </event>
     </room>
-    <room name="Dome 1 #workshops #talks">
+    <room name="Komona Dome 1 #workshops #talks">
       <event id="847" guid="45365c5f-94af-59ca-800c-c27d0787ee9b">
         <logo/>
         <date>2018-12-27T11:00:00+00:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>8A3BU8</slug>
         <url>https://talks.komona.org/35c3/talk/8A3BU8</url>
         <title>Letter writing to prisoners</title>
@@ -5402,7 +5402,7 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <date>2018-12-27T12:30:00+00:00</date>
         <start>12:30</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>RZYGAU</slug>
         <url>https://talks.komona.org/35c3/talk/RZYGAU</url>
         <title>Activisti Calendar</title>
@@ -5431,7 +5431,7 @@ Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen
         <date>2018-12-27T15:00:00+00:00</date>
         <start>15:00</start>
         <duration>01:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>8BKDXX</slug>
         <url>https://talks.komona.org/35c3/talk/8BKDXX</url>
         <title>Ticketfrei - A sousveillance bot for avoiding ticket controllers on public transport</title>
@@ -5472,7 +5472,7 @@ speakers: b3yond &amp; ph4nt</description>
         <date>2018-12-27T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>01:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>PHFHSW</slug>
         <url>https://talks.komona.org/35c3/talk/PHFHSW</url>
         <title>Cultural Protocols</title>
@@ -5497,13 +5497,13 @@ speakers: b3yond &amp; ph4nt</description>
         <answers/>
       </event>
     </room>
-    <room name="Dome 4/Zelt #workshops #handson">
+    <room name="Komona Dome 4/Zelt #workshops #handson">
       <event id="827" guid="9f5fbb1a-af88-52b5-a660-aac60a6c3199">
         <logo/>
         <date>2018-12-27T14:00:00+00:00</date>
         <start>14:00</start>
         <duration>02:30</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>ZGM9D3</slug>
         <url>https://talks.komona.org/35c3/talk/ZGM9D3</url>
         <title>Artificial Impact - The Deep Learning Board Game</title>
@@ -12065,13 +12065,13 @@ music.</abstract>
         <attachments/>
       </event>
     </room>
-    <room name="Dome 3 #talks">
+    <room name="Komona Dome 3 #talks">
       <event id="829" guid="14648c6b-e459-522c-bb22-570b2c01d252">
         <logo/>
         <date>2018-12-28T10:30:00+00:00</date>
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>FA9KQX</slug>
         <url>https://talks.komona.org/35c3/talk/FA9KQX</url>
         <title>Corrupt Yoga</title>
@@ -12100,7 +12100,7 @@ music.</abstract>
         <date>2018-12-28T12:30:00+00:00</date>
         <start>12:30</start>
         <duration>02:00</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>9MSDYV</slug>
         <url>https://talks.komona.org/35c3/talk/9MSDYV</url>
         <title>Kreative Formen und Farben des Widerstands / Creative Forms and Colors of Resistance</title>
@@ -12147,7 +12147,7 @@ Lasst uns zusammen auf die Suche nach neuen Narrativen, Symbolen, Sprachen und D
         <date>2018-12-28T14:30:00+00:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>W3PXNH</slug>
         <url>https://talks.komona.org/35c3/talk/W3PXNH</url>
         <title>Anarchistische Theorie II : (Anti-)Politik im Anarchismus</title>
@@ -12178,7 +12178,7 @@ Schon auf den ersten Blick scheint ein anarchistischer Begriff von Politik ambiv
         <date>2018-12-28T16:00:00+00:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>UA9LSS</slug>
         <url>https://talks.komona.org/35c3/talk/UA9LSS</url>
         <title>Speaking in front of people</title>
@@ -12212,7 +12212,7 @@ we will train with and without microphone</description>
         <date>2018-12-28T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>PUY3F9</slug>
         <url>https://talks.komona.org/35c3/talk/PUY3F9</url>
         <title>Framewars - Rahmungstheorien für Aktivistis</title>
@@ -12241,7 +12241,7 @@ we will train with and without microphone</description>
         <date>2018-12-28T20:00:00+00:00</date>
         <start>20:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>7JQZCC</slug>
         <url>https://talks.komona.org/35c3/talk/7JQZCC</url>
         <title>Autonomimimi - zum Autonomiebegriff der ausserparlamentarischen Linken</title>
@@ -12272,13 +12272,13 @@ freu mich auf Haltungen, liebe Mitrevoluzzis.</description>
         <answers/>
       </event>
     </room>
-    <room name="Dome 1 #workshops #talks">
+    <room name="Komona Dome 1 #workshops #talks">
       <event id="851" guid="e36b7465-f7e5-51fc-826a-64d58ce17bf0">
         <logo/>
         <date>2018-12-28T11:00:00+00:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>JYKYBC</slug>
         <url>https://talks.komona.org/35c3/talk/JYKYBC</url>
         <title>Letter writing to prisoners</title>
@@ -12307,7 +12307,7 @@ freu mich auf Haltungen, liebe Mitrevoluzzis.</description>
         <date>2018-12-28T12:30:00+00:00</date>
         <start>12:30</start>
         <duration>02:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>RBZZBQ</slug>
         <url>https://talks.komona.org/35c3/talk/RBZZBQ</url>
         <title>Delta Chat App Intro and Hands-on Testing and Feedback Session</title>
@@ -12346,7 +12346,7 @@ Just better, safer and user-optimised.</biography>
         <date>2018-12-28T14:30:00+00:00</date>
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>V9C7JL</slug>
         <url>https://talks.komona.org/35c3/talk/V9C7JL</url>
         <title>"game-over" Society</title>
@@ -12386,7 +12386,7 @@ A tool that functions as communication platform, dating app, networking tool, ho
         <date>2018-12-28T15:00:00+00:00</date>
         <start>15:00</start>
         <duration>01:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>K3FGVH</slug>
         <url>https://talks.komona.org/35c3/talk/K3FGVH</url>
         <title>Books on (Community) Health and Collective Decision Making</title>
@@ -12421,7 +12421,7 @@ You will have around five minutes to present, but we want to keep the format fle
         <date>2018-12-28T17:00:00+00:00</date>
         <start>17:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>8K97H3</slug>
         <url>https://talks.komona.org/35c3/talk/8K97H3</url>
         <title>Spontanistan</title>
@@ -12450,7 +12450,7 @@ You will have around five minutes to present, but we want to keep the format fle
         <date>2018-12-28T18:30:00+00:00</date>
         <start>18:30</start>
         <duration>03:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>EJPMBX</slug>
         <url>https://talks.komona.org/35c3/talk/EJPMBX</url>
         <title>postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft</title>
@@ -12475,13 +12475,13 @@ You will have around five minutes to present, but we want to keep the format fle
         <answers/>
       </event>
     </room>
-    <room name="Dome 4/Zelt #workshops #handson">
+    <room name="Komona Dome 4/Zelt #workshops #handson">
       <event id="846" guid="b568c0ab-b5db-5772-b43d-99ba2b830a3a">
         <logo/>
         <date>2018-12-28T12:30:00+00:00</date>
         <start>12:30</start>
         <duration>02:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>7MNZCX</slug>
         <url>https://talks.komona.org/35c3/talk/7MNZCX</url>
         <title>"Reinventing infinity - a pink proposal for post capitalist network communication"</title>
@@ -12519,7 +12519,7 @@ for more, see: www.getaphilosopher.com</biography>
         <date>2018-12-28T15:30:00+00:00</date>
         <start>15:30</start>
         <duration>02:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>W8VXDW</slug>
         <url>https://talks.komona.org/35c3/talk/W8VXDW</url>
         <title>Creating &amp; Funding Resistance Structure Fractals</title>
@@ -12558,7 +12558,7 @@ PS: Initiation rituals to be created for the organizations and for the welcoming
         <date>2018-12-28T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>8V8RZY</slug>
         <url>https://talks.komona.org/35c3/talk/8V8RZY</url>
         <title>Die Verfassungsschutzberichte 2017 und was sie uns sagen können.</title>
@@ -19009,13 +19009,13 @@ LOVE FREEDOM EVERYTHING</abstract>
         <attachments/>
       </event>
     </room>
-    <room name="Dome 3 #talks">
+    <room name="Komona Dome 3 #talks">
       <event id="828" guid="4673b489-b6df-5aac-bb08-c6e1f61d8f29">
         <logo/>
         <date>2018-12-29T10:30:00+00:00</date>
         <start>10:30</start>
         <duration>00:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>MEGCHS</slug>
         <url>https://talks.komona.org/35c3/talk/MEGCHS</url>
         <title>Corrupt Yoga</title>
@@ -19044,7 +19044,7 @@ LOVE FREEDOM EVERYTHING</abstract>
         <date>2018-12-29T14:00:00+00:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>ZPPCME</slug>
         <url>https://talks.komona.org/35c3/talk/ZPPCME</url>
         <title>Anarchistische Theorie III : Anarchistisches Denken in Paradoxien und Spannungsfeldern</title>
@@ -19075,7 +19075,7 @@ Kritiker*innen verwerfen den Anarchismus als widersprüchlich und inkohärent. T
         <date>2018-12-29T16:00:00+00:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>BC9VKJ</slug>
         <url>https://talks.komona.org/35c3/talk/BC9VKJ</url>
         <title>Rhetorics: how to touch with language</title>
@@ -19107,7 +19107,7 @@ bring your texts!</description>
         <date>2018-12-29T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>02:00</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>GRYS3Q</slug>
         <url>https://talks.komona.org/35c3/talk/GRYS3Q</url>
         <title>How to produce a Demo-Rave</title>
@@ -19138,13 +19138,13 @@ Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn e
         <answers/>
       </event>
     </room>
-    <room name="Dome 1 #workshops #talks">
+    <room name="Komona Dome 1 #workshops #talks">
       <event id="850" guid="047b080e-ec33-528d-9a87-252c08f245ca">
         <logo/>
         <date>2018-12-29T11:00:00+00:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>XSCLCE</slug>
         <url>https://talks.komona.org/35c3/talk/XSCLCE</url>
         <title>Letter writing to prisoners</title>
@@ -19173,7 +19173,7 @@ Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn e
         <date>2018-12-29T14:30:00+00:00</date>
         <start>14:30</start>
         <duration>00:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>RNRTSB</slug>
         <url>https://talks.komona.org/35c3/talk/RNRTSB</url>
         <title>"game-over" Society</title>
@@ -19213,7 +19213,7 @@ A tool that functions as communication platform, dating app, networking tool, ho
         <date>2018-12-29T15:00:00+00:00</date>
         <start>15:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>ZYVSU3</slug>
         <url>https://talks.komona.org/35c3/talk/ZYVSU3</url>
         <title>Widerstand gegen den AfD-Bundesparteitag in RIESA 2019</title>
@@ -19260,7 +19260,7 @@ www.karnevalderalternativen.org (Dezember 2018)</description>
         <date>2018-12-29T16:30:00+00:00</date>
         <start>16:30</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>KUUPYE</slug>
         <url>https://talks.komona.org/35c3/talk/KUUPYE</url>
         <title>Spontanistan</title>
@@ -19289,7 +19289,7 @@ www.karnevalderalternativen.org (Dezember 2018)</description>
         <date>2018-12-29T18:00:00+00:00</date>
         <start>18:00</start>
         <duration>01:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>9GRP88</slug>
         <url>https://talks.komona.org/35c3/talk/9GRP88</url>
         <title>Community Management online und offline</title>
@@ -19318,7 +19318,7 @@ www.karnevalderalternativen.org (Dezember 2018)</description>
         <date>2018-12-29T20:00:00+00:00</date>
         <start>20:00</start>
         <duration>02:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>GEEG9P</slug>
         <url>https://talks.komona.org/35c3/talk/GEEG9P</url>
         <title>Club Culture, a Data Perspective</title>
@@ -19345,13 +19345,13 @@ in collaboration with Cityscan and Reclaim Club Culture</biography>
         <answers/>
       </event>
     </room>
-    <room name="Dome 4/Zelt #workshops #handson">
+    <room name="Komona Dome 4/Zelt #workshops #handson">
       <event id="838" guid="e7a8527f-6d17-5cd0-b8ea-57d27c96b924">
         <logo/>
         <date>2018-12-29T09:00:00+00:00</date>
         <start>09:00</start>
         <duration>03:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>CBAMYR</slug>
         <url>https://talks.komona.org/35c3/talk/CBAMYR</url>
         <title>Live Siebdruck - Daphne Oram</title>
@@ -19390,7 +19390,7 @@ Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Su
         <date>2018-12-29T13:30:00+00:00</date>
         <start>13:30</start>
         <duration>03:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>99DUZF</slug>
         <url>https://talks.komona.org/35c3/talk/99DUZF</url>
         <title>Reclaim Your Data</title>
@@ -19429,7 +19429,7 @@ Cityscan.berlin - is an initiative to make facts and maps for city development v
         <date>2018-12-29T17:00:00+00:00</date>
         <start>17:00</start>
         <duration>01:30</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>FZVFSF</slug>
         <url>https://talks.komona.org/35c3/talk/FZVFSF</url>
         <title>Tech Co-ops: No Masters, No Slaves</title>
@@ -19459,7 +19459,7 @@ After the talk there'll be QA and an open discussion.</abstract>
         <date>2018-12-29T19:00:00+00:00</date>
         <start>19:00</start>
         <duration>02:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>EJBNT9</slug>
         <url>https://talks.komona.org/35c3/talk/EJBNT9</url>
         <title>DIY handmade Stickers workshop</title>
@@ -19488,7 +19488,7 @@ After the talk there'll be QA and an open discussion.</abstract>
         <date>2018-12-29T21:00:00+00:00</date>
         <start>21:00</start>
         <duration>01:00</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>NUYMGA</slug>
         <url>https://talks.komona.org/35c3/talk/NUYMGA</url>
         <title>Basic principles of architectural construction drawing</title>
@@ -22348,13 +22348,13 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <attachments/>
       </event>
     </room>
-    <room name="Dome 3 #talks">
+    <room name="Komona Dome 3 #talks">
       <event id="842" guid="434d261f-43c7-5839-8cd2-a7f931960f3f">
         <logo/>
         <date>2018-12-30T14:00:00+00:00</date>
         <start>14:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>VTFTFQ</slug>
         <url>https://talks.komona.org/35c3/talk/VTFTFQ</url>
         <title>Anarchistische Theorie IV : Subjekt - Widerstand - Emanzipation – anarchistische Subjekttheorie</title>
@@ -22386,7 +22386,7 @@ Nach wie vor und vielleicht mehr denn ja, müssen wir verschiedensten Anforderun
         <date>2018-12-30T16:00:00+00:00</date>
         <start>16:00</start>
         <duration>01:30</duration>
-        <room>Dome 3 #talks</room>
+        <room>Komona Dome 3 #talks</room>
         <slug>BKZPKD</slug>
         <url>https://talks.komona.org/35c3/talk/BKZPKD</url>
         <title>A*CHOIR</title>
@@ -22412,13 +22412,13 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <answers/>
       </event>
     </room>
-    <room name="Dome 1 #workshops #talks">
+    <room name="Komona Dome 1 #workshops #talks">
       <event id="818" guid="021a8962-889e-5e39-bb0f-da0ec0f302b2">
         <logo/>
         <date>2018-12-30T01:00:00+00:00</date>
         <start>01:00</start>
         <duration>02:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>Z9LAV7</slug>
         <url>https://talks.komona.org/35c3/talk/Z9LAV7</url>
         <title>#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 2</title>
@@ -22447,7 +22447,7 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <date>2018-12-30T11:00:00+00:00</date>
         <start>11:00</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>9FRQQG</slug>
         <url>https://talks.komona.org/35c3/talk/9FRQQG</url>
         <title>Letter writing to prisoners</title>
@@ -22476,7 +22476,7 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <date>2018-12-30T12:00:00+00:00</date>
         <start>12:00</start>
         <duration>02:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>UCAQVZ</slug>
         <url>https://talks.komona.org/35c3/talk/UCAQVZ</url>
         <title>#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 3</title>
@@ -22505,7 +22505,7 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <date>2018-12-30T14:30:00+00:00</date>
         <start>14:30</start>
         <duration>01:30</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>EXZERE</slug>
         <url>https://talks.komona.org/35c3/talk/EXZERE</url>
         <title>Transnational Networking for current Forms of Antifascism and Solidarity</title>
@@ -22534,7 +22534,7 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <date>2018-12-30T16:30:00+00:00</date>
         <start>16:30</start>
         <duration>01:00</duration>
-        <room>Dome 1 #workshops #talks</room>
+        <room>Komona Dome 1 #workshops #talks</room>
         <slug>UE9PLG</slug>
         <url>https://talks.komona.org/35c3/talk/UE9PLG</url>
         <title>Spontanistan</title>
@@ -22559,13 +22559,13 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <answers/>
       </event>
     </room>
-    <room name="Dome 4/Zelt #workshops #handson">
+    <room name="Komona Dome 4/Zelt #workshops #handson">
       <event id="823" guid="6c468d05-7ab0-569f-bca9-718d1f27df8e">
         <logo/>
         <date>2018-12-30T15:00:00+00:00</date>
         <start>15:00</start>
         <duration>02:30</duration>
-        <room>Dome 4/Zelt #workshops #handson</room>
+        <room>Komona Dome 4/Zelt #workshops #handson</room>
         <slug>3DT7CN</slug>
         <url>https://talks.komona.org/35c3/talk/3DT7CN</url>
         <title>Subkultur. Kollektivität. Organisation. Die Fäden verknüpfen – Wie werden selbstorganisierte Kollektive handlungsfähig?</title>
