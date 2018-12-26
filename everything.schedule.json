@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:10", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14093,6 +14093,11 @@
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:JanHenrik", 
                                         "public_name": "JanHenrik"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Otter", 
+                                        "public_name": "Otter"
                                     }
                                 ], 
                                 "links": [
@@ -21078,6 +21083,27 @@
                             }
                         ], 
                         "Popticum Art-and-Play": [
+                            {
+                                "id": 1318, 
+                                "guid": "89362698-1994-4f9f-bd0b-fe6956ebe614", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:45", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1318-session_concert_tibslc", 
+                                "title": "Concert -- TIBSLC", 
+                                "subtitle": "Can't take no more but take it anyways. Sound research since 1998. Love it! Life is real.", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC"
+                                ]
+                            }, 
                             {
                                 "id": 1317, 
                                 "guid": "201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3", 

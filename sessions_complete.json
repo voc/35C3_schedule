@@ -4571,6 +4571,53 @@
             }
         ]
     }, 
+    "Session:Concert -- TIBSLC# 243194143d54be5feff0ef1a3d96800c": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Can't take no more but take it anyways. Sound research since 1998. Love it! Life is real."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert -- TIBSLC"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "89362698-1994-4f9f-bd0b-fe6956ebe614"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC", 
+        "Has end time": [
+            {
+                "timestamp": "1546116300", 
+                "raw": "1/2018/12/29/20/45/0/0"
+            }
+        ]
+    }, 
     "Session:Concert -- \u041b\u0443\u043d\u043e\u0445\u043e\u0434 (Lunochod)# 6f6c7ec116910c2597a75013ca41746a": {
         "Held in language": [], 
         "Has start time": [
@@ -10254,6 +10301,13 @@
             {
                 "fulltext": "User:JanHenrik", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:JanHenrik", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Otter", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Otter", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 22:10", 
+        "version": "2018-12-26 22:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3910,6 +3910,27 @@
                             }
                         ], 
                         "Popticum Art-and-Play": [
+                            {
+                                "id": 1318, 
+                                "guid": "89362698-1994-4f9f-bd0b-fe6956ebe614", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:45", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1318-session_concert_tibslc", 
+                                "title": "Concert -- TIBSLC", 
+                                "subtitle": "Can't take no more but take it anyways. Sound research since 1998. Love it! Life is real.", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC"
+                                ]
+                            }, 
                             {
                                 "id": 1317, 
                                 "guid": "201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:10</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13550,6 +13550,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <description>Treffen von Leuten, die gerne fahrende Dinge bauen. Hier gibts support und tipps für alles mit elektrischem Antrieb, insbesondere mit Hoverboard-Teilen. Hauptsächlich Elektronik-und Firmware-patching, aber auch vorort-Grobmechanik ist wohl möglich.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:JanHenrik">JanHenrik</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Otter">Otter</person>
         </persons>
         <links>
           <link>https://github.com/NiklasFauth/hoverboard-firmware-hack</link>
@@ -20100,6 +20101,25 @@ Freifunk since 2003</biography>
       </event>
     </room>
     <room name="Popticum Art-and-Play">
+      <event id="1318" guid="89362698-1994-4f9f-bd0b-fe6956ebe614">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1318-session_concert_tibslc</slug>
+        <title>Concert -- TIBSLC</title>
+        <subtitle>Can't take no more but take it anyways. Sound research since 1998. Love it! Life is real.</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC</link>
+        </links>
+      </event>
       <event id="1317" guid="201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3">
         <logo/>
         <date>2018-12-29T21:00:00+01:00</date>
