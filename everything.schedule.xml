@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3 2018-12-26 10:00</version>
+  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3933,6 +3933,35 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
       </event>
     </room>
     <room name="Sendetisch">
+      <event id="443" guid="a3d993db-31aa-5080-a722-7439f1eb1bed">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>HRXUGB</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/HRXUGB</url>
+        <title>Technikeinführung</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Einführung in die vorhandene Soft- und Hardware am Sendetisch für alle Helfer:innen</abstract>
+        <description>Wir gehen gemeinsam die Technik durch, die am Sendetisch für die Aufzeichnung benutzt wird, durch, damit alle Helfer:innen damit umgehen können. Wer an dem Termin nicht kann, trotzdem helfen möchte, kann auch bei Bedarf individuell eingewiesen werden. Aber es wäre natürlich schön, wenn wir das Wissen um die Technik auf möglichst viele Köpfe transferieren könnten.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="3">
+            <name>Christopher van der Meyden</name>
+            <biography>bla</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="408" guid="ad095e37-b1da-58b8-9021-8b63b30c7c76">
         <logo/>
         <date>2018-12-27T17:00:00+01:00</date>

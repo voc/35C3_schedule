@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2919,6 +2919,37 @@
                             }
                         ], 
                         "Sendetisch": [
+                            {
+                                "id": 443, 
+                                "guid": "a3d993db-31aa-5080-a722-7439f1eb1bed", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "HRXUGB", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/HRXUGB", 
+                                "title": "Technikeinf\u00fchrung", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Einf\u00fchrung in die vorhandene Soft- und Hardware am Sendetisch f\u00fcr alle Helfer:innen", 
+                                "description": "Wir gehen gemeinsam die Technik durch, die am Sendetisch f\u00fcr die Aufzeichnung benutzt wird, durch, damit alle Helfer:innen damit umgehen k\u00f6nnen. Wer an dem Termin nicht kann, trotzdem helfen m\u00f6chte, kann auch bei Bedarf individuell eingewiesen werden. Aber es w\u00e4re nat\u00fcrlich sch\u00f6n, wenn wir das Wissen um die Technik auf m\u00f6glichst viele K\u00f6pfe transferieren k\u00f6nnten.", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 3, 
+                                        "name": "Christopher van der Meyden", 
+                                        "biography": "bla", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 408, 
                                 "guid": "ad095e37-b1da-58b8-9021-8b63b30c7c76", 
