@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 22:20</version>
+  <version>2018-12-26 22:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1246,6 +1246,28 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Analoge_Selbstverteidigung</link>
+        </links>
+      </event>
+      <event id="1321" guid="b00743ae-6149-40fc-97c1-f16dcc91fdae">
+        <logo/>
+        <date>2018-12-28T16:25:00+01:00</date>
+        <start>16:25</start>
+        <duration>0:35</duration>
+        <room>Lecture room 11</room>
+        <slug>35c3-1321-session_gnu_radio_users_devs_meetup</slug>
+        <title>GNU Radio Users &amp; Devs Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>GNU Radio Users &amp; devs meeting. We talk applications, ways to go, and problems and how to solve them.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Funkylab">Funkylab</person>
+        </persons>
+        <links>
+          <link>https://blog.gnuradio.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:GNU_Radio_Users_%26_Devs_Meetup</link>
         </links>
       </event>
       <event id="1060" guid="3736ba4e-ad99-4b34-9e0d-4ae031dff0a8">
@@ -3285,8 +3307,8 @@
     <room name="Popticum Art-and-Play">
       <event id="1318" guid="89362698-1994-4f9f-bd0b-fe6956ebe614">
         <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
         <duration>0:45</duration>
         <room>Popticum Art-and-Play</room>
         <slug>35c3-1318-session_concert_tibslc</slug>
@@ -3300,6 +3322,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC</link>
+        </links>
+      </event>
+      <event id="1319" guid="dec6259f-939e-40ff-a3c4-db7bd092b603">
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>0:30</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1319-session_concert_wisp_kollektiv</slug>
+        <title>Concert -- Wisp Kollektiv</title>
+        <subtitle>audiovisual concert</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Wisp_Kollektiv</link>
         </links>
       </event>
       <event id="1317" guid="201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3">
@@ -3319,6 +3360,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_%D0%9B%D1%83%D0%BD%D0%BE%D1%85%D0%BE%D0%B4_(Lunochod)</link>
+        </links>
+      </event>
+      <event id="1320" guid="012c401d-fdba-4189-acfe-09c219feeb46">
+        <logo/>
+        <date>2018-12-29T23:30:00+01:00</date>
+        <start>23:30</start>
+        <duration>2:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1320-session_dj_the_happiest_couple_on_earth_lonely</slug>
+        <title>DJ -- the happiest couple on earth lonely</title>
+        <subtitle>DJ set</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_the_happiest_couple_on_earth_lonely</link>
         </links>
       </event>
     </room>

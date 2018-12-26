@@ -4571,12 +4571,12 @@
             }
         ]
     }, 
-    "Session:Concert -- TIBSLC# 243194143d54be5feff0ef1a3d96800c": {
+    "Session:Concert -- TIBSLC# 85458037923bd1b07a1f6f422ac00a19": {
         "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
             }
         ], 
         "Has event track": [
@@ -4613,8 +4613,55 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_TIBSLC", 
         "Has end time": [
             {
-                "timestamp": "1546116300", 
-                "raw": "1/2018/12/29/20/45/0/0"
+                "timestamp": "1546123500", 
+                "raw": "1/2018/12/29/22/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Concert -- Wisp Kollektiv# 64e280aafbcac4416f34ac6ff26e6fb5": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "audiovisual concert"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert -- Wisp Kollektiv"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "dec6259f-939e-40ff-a3c4-db7bd092b603"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Wisp_Kollektiv", 
+        "Has end time": [
+            {
+                "timestamp": "1546126200", 
+                "raw": "1/2018/12/29/23/30/0/0"
             }
         ]
     }, 
@@ -4921,6 +4968,53 @@
             {
                 "timestamp": "1545969540", 
                 "raw": "1/2018/12/28/3/59/0/0"
+            }
+        ]
+    }, 
+    "Session:DJ -- the happiest couple on earth lonely# 9bcdffd284c068961fb4d2439e0189c4": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546126200", 
+                "raw": "1/2018/12/29/23/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "DJ set"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJ -- the happiest couple on earth lonely"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "012c401d-fdba-4189-acfe-09c219feeb46"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_the_happiest_couple_on_earth_lonely", 
+        "Has end time": [
+            {
+                "timestamp": "1546133400", 
+                "raw": "1/2018/12/30/1/30/0/0"
             }
         ]
     }, 
@@ -6722,6 +6816,66 @@
             {
                 "timestamp": "1546021800", 
                 "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:GNU Radio Users & Devs Meetup# 43897d03eb4042eabf836d83a88b6396": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546014300", 
+                "raw": "1/2018/12/28/16/25/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://blog.gnuradio.org"
+        ], 
+        "Has description": [
+            "GNU Radio Users & devs meeting. We talk applications, ways to go, and problems and how to solve them."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Funkylab", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Funkylab", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "GNU Radio Users & Devs Meetup"
+        ], 
+        "Has duration": [
+            35
+        ], 
+        "GUID": [
+            "b00743ae-6149-40fc-97c1-f16dcc91fdae"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:GNU_Radio_Users_%26_Devs_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ]
     }, 
