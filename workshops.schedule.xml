@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 00:40</version>
+  <version>2018-12-27 00:50</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -369,6 +369,28 @@
     <room name="CCL Saal 3"/>
     <room name="Chaos West Bühne"/>
     <room name="Seminar room 14-15">
+      <event id="1332" guid="1461c100-3401-4ab5-a286-b134e94b9be2">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:59</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1332-session_12_characters_in_search_of_an_apocalypse_gathering_and_reading</slug>
+        <title>12 Characters in search of an apocalypse - gathering and reading</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>We read how the 12 Character see climate change and discuss what comes up in us.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann">Niccokunzmann</person>
+        </persons>
+        <links>
+          <link>https://12characters.org.uk/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading</link>
+        </links>
+      </event>
       <event id="1019" guid="4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97">
         <logo/>
         <date>2018-12-27T16:00:00+01:00</date>
@@ -1204,6 +1226,25 @@
       </event>
     </room>
     <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1334" guid="a1d6020d-23b4-4251-a4d1-a0e8c4ee1558">
+        <logo/>
+        <date>2018-12-27T20:22:00+01:00</date>
+        <start>20:22</start>
+        <duration>0:02</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1334-session_film_i_can_t_control_myself</slug>
+        <title>Film -- I can´t control myself</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>I can‘t control myself contains both the fantasy and fear of the loss of self control.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_I_can%C2%B4t_control_myself</link>
+        </links>
+      </event>
       <event id="1331" guid="c31c678a-7801-44c6-801e-e2c796685562">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
@@ -1221,6 +1262,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel</link>
+        </links>
+      </event>
+      <event id="1335" guid="ce74f544-61ca-4bbb-ba5e-78def7999828">
+        <logo/>
+        <date>2018-12-27T20:13:00+01:00</date>
+        <start>20:13</start>
+        <duration>0:09</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1335-session_film_fair_grounds</slug>
+        <title>Film -- fair grounds</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>The film documents the deconstruction of the Ferris Wheel at Augustusplatz, Leipzig in December 2017</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_fair_grounds</link>
         </links>
       </event>
       <event id="1323" guid="40b272fc-6892-4e36-8130-c6d1243ee2bd">
@@ -1893,6 +1953,25 @@
         <links>
           <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk</link>
+        </links>
+      </event>
+      <event id="1336" guid="9ea6739b-aabd-4f37-b611-f22322df4f05">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1336-session_from_import_python</slug>
+        <title>From * import python</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Import your python code from everywhere and from everything</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:From_*_import_python</link>
         </links>
       </event>
       <event id="1061" guid="3b8a45bb-a5da-44d3-ae4e-056a964d508f">

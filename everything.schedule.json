@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 2.0.2 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-27 00:40", 
+        "version": "Firefly 3 1.6 2.0.2 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-27 00:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -1947,6 +1947,34 @@
                             }
                         ], 
                         "Seminar room 14-15": [
+                            {
+                                "id": 1332, 
+                                "guid": "1461c100-3401-4ab5-a286-b134e94b9be2", 
+                                "logo": null, 
+                                "date": "2018-12-27T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "1:59", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1332-session_12_characters_in_search_of_an_apocalypse_gathering_and_reading", 
+                                "title": "12 Characters in search of an apocalypse - gathering and reading", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We read how the 12 Character see climate change and discuss what comes up in us.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://12characters.org.uk/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading"
+                                ]
+                            }, 
                             {
                                 "id": 1019, 
                                 "guid": "4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97", 
@@ -5851,6 +5879,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1333, 
+                                "guid": "c35a921a-01d1-47b7-9d62-8d9f5d85d13e", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:25:00+01:00", 
+                                "start": "20:25", 
+                                "duration": "0:03", 
+                                "room": "", 
+                                "slug": "35c3-1333-session_film_aus_den_truemmern_das_paradies", 
+                                "title": "Film -- Aus den Tr\u00fcmmern das Paradies", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Aus_den_Tr%C3%BCmmern_das_Paradies"
+                                ]
+                            }, 
+                            {
                                 "id": 1185, 
                                 "guid": "b9ce1290-9bca-4b52-8465-3a8a4d635522", 
                                 "logo": null, 
@@ -6425,6 +6474,27 @@
                         ], 
                         "ChaosFilmSociety Art-and-Play": [
                             {
+                                "id": 1334, 
+                                "guid": "a1d6020d-23b4-4251-a4d1-a0e8c4ee1558", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:22:00+01:00", 
+                                "start": "20:22", 
+                                "duration": "0:02", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1334-session_film_i_can_t_control_myself", 
+                                "title": "Film -- I can\u00b4t control myself", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "I can\u2018t control myself contains both the fantasy and fear of the loss of self control.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_I_can%C2%B4t_control_myself"
+                                ]
+                            }, 
+                            {
                                 "id": 1331, 
                                 "guid": "c31c678a-7801-44c6-801e-e2c796685562", 
                                 "logo": null, 
@@ -6443,6 +6513,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel"
+                                ]
+                            }, 
+                            {
+                                "id": 1335, 
+                                "guid": "ce74f544-61ca-4bbb-ba5e-78def7999828", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:13:00+01:00", 
+                                "start": "20:13", 
+                                "duration": "0:09", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1335-session_film_fair_grounds", 
+                                "title": "Film -- fair grounds", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The film documents the deconstruction of the Ferris Wheel at Augustusplatz, Leipzig in December 2017", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_fair_grounds"
                                 ]
                             }, 
                             {
@@ -9194,6 +9285,27 @@
                                 "links": [
                                     "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Follow-up_meeting_to_the_Netzpolitik_in_der_Schweiz_talk"
+                                ]
+                            }, 
+                            {
+                                "id": 1336, 
+                                "guid": "9ea6739b-aabd-4f37-b611-f22322df4f05", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:45", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1336-session_from_import_python", 
+                                "title": "From * import python", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Import your python code from everywhere and from everything", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:From_*_import_python"
                                 ]
                             }, 
                             {

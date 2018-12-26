@@ -333,14 +333,14 @@
             }
         ]
     }, 
-    "Session:12 Characters in search of an apocalypse - gathering and reading# 408809216805cdceddcbc220bd745480": {
+    "Session:12 Characters in search of an apocalypse - gathering and reading# 90aab008788f715dc7ea426c35450abd": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
             }
         ], 
         "Has event track": [
@@ -355,7 +355,15 @@
         "Has session type": [
             "Discussion"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
@@ -370,7 +378,7 @@
             "12 Characters in search of an apocalypse - gathering and reading"
         ], 
         "Has duration": [
-            125
+            119
         ], 
         "GUID": [
             "1461c100-3401-4ab5-a286-b134e94b9be2"
@@ -379,7 +387,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1545955140", 
+                "raw": "1/2018/12/27/23/59/0/0"
+            }
+        ]
     }, 
     "Session:42birds: Hacker\u2019s Digest# c4189922d5ff66a9702b434b7b857f55": {
         "Held in language": [
@@ -6739,6 +6752,90 @@
             }
         ]
     }, 
+    "Session:Film -- Aus den Tr\u00fcmmern das Paradies# a5fd5afd3462e693ce8b6ab73978b463": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545942300", 
+                "raw": "1/2018/12/27/20/25/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Aus den Tr\u00fcmmern das Paradies"
+        ], 
+        "Has duration": [
+            3
+        ], 
+        "GUID": [
+            "c35a921a-01d1-47b7-9d62-8d9f5d85d13e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Aus_den_Tr%C3%BCmmern_das_Paradies", 
+        "Has end time": [
+            {
+                "timestamp": "1545942480", 
+                "raw": "1/2018/12/27/20/28/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- I can\u00b4t control myself# abdaca54c32bcf476c393ad48649d42d": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545942120", 
+                "raw": "1/2018/12/27/20/22/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "I can\u2018t control myself contains both the fantasy and fear of the loss of self control."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- I can\u00b4t control myself"
+        ], 
+        "Has duration": [
+            2
+        ], 
+        "GUID": [
+            "a1d6020d-23b4-4251-a4d1-a0e8c4ee1558"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_I_can%C2%B4t_control_myself", 
+        "Has end time": [
+            {
+                "timestamp": "1545942240", 
+                "raw": "1/2018/12/27/20/24/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- Kabel# b39d4c6a9f74ee69eb9756327f6d9aa1": {
         "Held in language": [], 
         "Has start time": [
@@ -6783,6 +6880,53 @@
             {
                 "timestamp": "1545941220", 
                 "raw": "1/2018/12/27/20/7/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- fair grounds# 1d9e6b2f96756ba3fb6b55e881333dcd": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545941580", 
+                "raw": "1/2018/12/27/20/13/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The film documents the deconstruction of the Ferris Wheel at Augustusplatz, Leipzig in December 2017"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- fair grounds"
+        ], 
+        "Has duration": [
+            9
+        ], 
+        "GUID": [
+            "ce74f544-61ca-4bbb-ba5e-78def7999828"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_fair_grounds", 
+        "Has end time": [
+            {
+                "timestamp": "1545942120", 
+                "raw": "1/2018/12/27/20/22/0/0"
             }
         ]
     }, 
@@ -7119,6 +7263,57 @@
             {
                 "timestamp": "1545918900", 
                 "raw": "1/2018/12/27/13/55/0/0"
+            }
+        ]
+    }, 
+    "Session:From * import python# 5cee5ab381c31a660f4df52dfcf3fc2e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Import your python code from everywhere and from everything"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "From * import python"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "9ea6739b-aabd-4f37-b611-f22322df4f05"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:From_*_import_python", 
+        "Has end time": [
+            {
+                "timestamp": "1546001100", 
+                "raw": "1/2018/12/28/12/45/0/0"
             }
         ]
     }, 
