@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 16:50</version>
+  <version>Emergency Room 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 17:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5521,6 +5521,28 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         </links>
       </event>
     </room>
+    <room name="Assembly:ChaosZone">
+      <event id="1015" guid="36acca93-34a4-4e93-9ebe-ec1422058a27">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:ChaosZone</room>
+        <slug>35c3-1015-session_aenigma_the_state_of_the_art_secure_by_default_one_touch_deployed_xmpp_server_for_everyone_</slug>
+        <title>Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</description>
+        <persons/>
+        <links>
+          <link>https://github.com/openspace42/aenigma</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Blind navigation workshop">
       <event id="1175" guid="2ca556b7-b032-4d2a-918d-622739d168fc">
         <logo/>
@@ -5779,7 +5801,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 17.30&lt;br&gt;Dec 28, 16.00 - 17.30&lt;br&gt;Dec 29, 16.00 - 17.30&lt;br&gt;Dec 30, 16.00 - 17.30</description>
+        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
         </persons>
@@ -11671,26 +11693,6 @@ music.</abstract>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
         </links>
       </event>
-      <event id="1015" guid="36acca93-34a4-4e93-9ebe-ec1422058a27">
-        <logo/>
-        <date>2018-12-28T10:30:00+01:00</date>
-        <start>10:30</start>
-        <duration>0:45</duration>
-        <room/>
-        <slug>35c3-1015-session_aenigma_the_state_of_the_art_secure_by_default_one_touch_deployed_xmpp_server_for_everyone_</slug>
-        <title>Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</description>
-        <persons/>
-        <links>
-          <link>https://github.com/openspace42/aenigma</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Aenigma:_The_state-of-the-art,_secure-by-default,_one-touch-deployed_XMPP_server_for_everyone.</link>
-        </links>
-      </event>
       <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
         <logo/>
         <date>2018-12-28T20:00:00+01:00</date>
@@ -11947,7 +11949,7 @@ music.</abstract>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 17.30&lt;br&gt;Dec 28, 16.00 - 17.30&lt;br&gt;Dec 29, 16.00 - 17.30&lt;br&gt;Dec 30, 16.00 - 17.30</description>
+        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
         </persons>
@@ -12592,6 +12594,28 @@ music.</abstract>
         <links>
           <link>https://doku.ccc.de/R5</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:R5</link>
+        </links>
+      </event>
+    </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1307" guid="fc749d21-32be-47a3-a03a-7e678e495a98">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:40</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1307-session_significant_playthings</slug>
+        <title>Significant Playthings</title>
+        <subtitle>Hands-on workshop with your favorite toys/objects</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://plaything.me</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings</link>
         </links>
       </event>
     </room>
@@ -18246,7 +18270,7 @@ Freifunk since 2003</biography>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 17.30&lt;br&gt;Dec 28, 16.00 - 17.30&lt;br&gt;Dec 29, 16.00 - 17.30&lt;br&gt;Dec 30, 16.00 - 17.30</description>
+        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
         </persons>
@@ -20835,7 +20859,7 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 17.30&lt;br&gt;Dec 28, 16.00 - 17.30&lt;br&gt;Dec 29, 16.00 - 17.30&lt;br&gt;Dec 30, 16.00 - 17.30</description>
+        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
         </persons>

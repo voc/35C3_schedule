@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 16:50</version>
+  <version>2018-12-26 17:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1368,6 +1368,28 @@
     </room>
     <room name="OIO Workshop-Domo"/>
     <room name="CCL Saal 3"/>
+    <room name="Vintage Computing Cluster">
+      <event id="1307" guid="fc749d21-32be-47a3-a03a-7e678e495a98">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:40</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1307-session_significant_playthings</slug>
+        <title>Significant Playthings</title>
+        <subtitle>Hands-on workshop with your favorite toys/objects</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://plaything.me</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings</link>
+        </links>
+      </event>
+    </room>
     <room name="CCL Hall 3">
       <event id="1232" guid="1df88946-6ef3-4331-835b-9e207f7acead">
         <logo/>
