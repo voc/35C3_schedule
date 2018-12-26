@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3 2018-12-26 09:50</version>
+  <version>Emergency Room 3 1.6 v1.9 0.8 memoryrefresh 1.0.3 2018-12-26 10:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5345,6 +5345,25 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
         </links>
       </event>
+      <event id="1291" guid="f34ac605-a095-464c-a50d-62a93d04e269">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1291-session_sign_language_user_gathering</slug>
+        <title>Sign Language User Gathering</title>
+        <subtitle>Users of german and other sign languages / Nutzer der Deutschen Gebärdensprache (DGS) und anderer Gebärdensprachen</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>We want to meet and connect with sign language using humans. Wir wollen uns mit anderen Gebärdensprachlern treffen und vernetzen.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sign_Language_User_Gathering</link>
+        </links>
+      </event>
       <event id="1188" guid="24c0f56a-48e9-416c-bfa5-0127fe250dee">
         <logo/>
         <date>2018-12-27T20:00:00+01:00</date>
@@ -7647,7 +7666,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room 11</room>
         <slug>35c3-1092-session_polyamory</slug>
         <title>Polyamory</title>
-        <subtitle/>
+        <subtitle>Rethinking Love, Rethinking Relationships</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>en</language>
@@ -14554,7 +14573,7 @@ However, it's not always easy...</description>
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>In diesem Vortrag wird gezeigt, wie ihr mit der freien Software "Distributed Privacy Guard" (DKGPG) verteilte OpenPGP-Schlüssel erzeugt und welche Anwendungsszenarien es dafür gibt. Auf die komplizierten kryptografischen Grundlagen wird nur am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.</description>
+        <description>In diesem Vortrag wird gezeigt, wie ihr mit der freien Software "Distributed Privacy Guard" (DKGPG) verteilte OpenPGP-Schlüssel erzeugt und welche Anwendungsszenarien es dafür gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:HS">HS</person>
         </persons>

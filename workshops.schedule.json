@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 09:50", 
+        "version": "2018-12-26 10:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1593,7 +1593,7 @@
                                 "room": "Lecture room 11", 
                                 "slug": "35c3-1092-session_polyamory", 
                                 "title": "Polyamory", 
-                                "subtitle": "", 
+                                "subtitle": "Rethinking Love, Rethinking Relationships", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "en", 
@@ -3742,7 +3742,7 @@
                                 "type": "talk", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilte OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird nur am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.", 
+                                "description": "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilte OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.", 
                                 "persons": [
                                     {
                                         "id": 0, 
