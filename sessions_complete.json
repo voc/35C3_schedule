@@ -10228,7 +10228,7 @@
             }
         ]
     }, 
-    "Session:Open Hardware Book Scanner Meetup# 41bd70f38f770d29d61320a22213e8cc": {
+    "Session:Open Hardware Book Scanner Meetup# d07af63aea5862cc43245301787d688b": {
         "Held in language": [
             "en - English"
         ], 
@@ -10252,9 +10252,9 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
-                "namespace": 516, 
+                "fulltext": "Assembly:CCCP", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:CCCP", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
@@ -16093,7 +16093,15 @@
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Contact: c3twinks at pm.me", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Contact:_c3twinks_at_pm.me", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "TwinkMeetup"
         ], 
@@ -17116,7 +17124,9 @@
         "Has website": [
             "http://haecksen.org"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "Wie helfen wir Menschen, die von Cyberstalking betroffen sind? Technische Kompetenz gerne gesehen."
+        ], 
         "Has session type": [], 
         "Has session location": [
             {

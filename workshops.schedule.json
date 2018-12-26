@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 13:30", 
+        "version": "2018-12-26 14:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -700,7 +700,7 @@
                                 "type": "", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Wie helfen wir Menschen, die von Cyberstalking betroffen sind? Technische Kompetenz gerne gesehen.", 
                                 "persons": [], 
                                 "links": [
                                     "http://haecksen.org", 
@@ -3820,28 +3820,6 @@
                                 "links": [
                                     "https://sachsens-demokratie.net", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F"
-                                ]
-                            }, 
-                            {
-                                "id": 1086, 
-                                "guid": "211a32b1-04d8-45f2-831e-0b09f5296559", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1086-session_open_hardware_book_scanner_meetup", 
-                                "title": "Open Hardware Book Scanner Meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We are building different kinds of book scanners. The session is about the current state and open for everyone who want to join.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://hackmd.okfn.de/284pkD9uTVizdMHaRMeBnA?both", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup"
                                 ]
                             }, 
                             {
