@@ -11313,7 +11313,7 @@
             }
         ]
     }, 
-    "Session:R5# f7ad13276ee9ed31c2074d9e267bf793": {
+    "Session:R5# 343d6345c102aa1a5a4bff39e868c1b9": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -11336,9 +11336,25 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Schaffenburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Schaffenburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fraxinas", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fraxinas", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "R5"
         ], 
