@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 12:10", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 12:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -12116,6 +12116,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1304, 
+                                "guid": "3f5603e9-92e2-4a8d-853c-cd18ef952269", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "0:45", 
+                                "room": "", 
+                                "slug": "35c3-1304-session_r5", 
+                                "title": "R5", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup and Kick-Off for the CCC R5 Task force: Reuse, Repair, Recycle, Rethink, Redesign", 
+                                "persons": [], 
+                                "links": [
+                                    "https://doku.ccc.de/R5", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:R5"
+                                ]
+                            }, 
+                            {
                                 "id": 1247, 
                                 "guid": "76ac3888-8f15-5918-81bd-75a347813992", 
                                 "logo": null, 
@@ -12675,6 +12697,30 @@
                                     "https://s.ai/ccc/ws", 
                                     "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Vintage Computing": [
+                            {
+                                "id": 1303, 
+                                "guid": "9c6dcfb5-5f50-4db8-877f-bc5f01a51e57", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Vintage Computing", 
+                                "slug": "35c3-1303-session_couching_textile_speakers", 
+                                "title": "Couching Textile Speakers", 
+                                "subtitle": "hands on e-textile workshop, organized by KOBAKANT", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Hands on workshop to create a flexible textile speaker by embroidering an electromagnetic coil with conductive thread", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.kobakant.at/DIY/?p=2936", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Couching_Textile_Speakers"
                                 ]
                             }
                         ], 
