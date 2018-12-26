@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-26 06:40</version>
+  <version>Emergency Room 3 1.6 v1.8 0.8 memoryrefresh 1.0.3 2018-12-26 07:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -1984,6 +1984,27 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners</link>
+        </links>
+      </event>
+      <event id="1290" guid="ab3de43c-3911-4e6f-b398-b1bba7d2da89">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1290-session_hackers_against_climate_change</slug>
+        <title>Hackers Against Climate Change</title>
+        <subtitle>Meetup, Discussion</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup/Discussion for Hackers concerned with Climate Change</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Seth">Seth</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change</link>
         </links>
       </event>
       <event id="1073" guid="83dc17af-d621-4012-b039-d7904836e3d3">

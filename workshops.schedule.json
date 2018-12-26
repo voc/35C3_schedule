@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 06:40", 
+        "version": "2018-12-26 07:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -532,6 +532,33 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foundation_workshop:_Vim_for_beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1290, 
+                                "guid": "ab3de43c-3911-4e6f-b398-b1bba7d2da89", 
+                                "logo": null, 
+                                "date": "2018-12-27T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1290-session_hackers_against_climate_change", 
+                                "title": "Hackers Against Climate Change", 
+                                "subtitle": "Meetup, Discussion", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup/Discussion for Hackers concerned with Climate Change", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                                        "public_name": "Seth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change"
                                 ]
                             }, 
                             {

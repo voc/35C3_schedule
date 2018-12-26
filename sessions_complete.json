@@ -6407,6 +6407,68 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
         "Has end time": []
     }, 
+    "Session:Hackers Against Climate Change# 23628b1ce916ac4a8437d15e617c282e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545930000", 
+                "raw": "1/2018/12/27/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meetup/Discussion for Hackers concerned with Climate Change"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meetup, Discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Seth", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hackers Against Climate Change"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ab3de43c-3911-4e6f-b398-b1bba7d2da89"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change", 
+        "Has end time": [
+            {
+                "timestamp": "1545933600", 
+                "raw": "1/2018/12/27/18/0/0/0"
+            }
+        ]
+    }, 
     "Session:Hacking through the Body: Systema and Aerodynamics of Cognitive Dance# 280d965eb2afce8e2be8ce0dbda65240": {
         "Held in language": [
             "en - English"
