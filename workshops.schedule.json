@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 11:50", 
+        "version": "2018-12-26 12:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4211,6 +4211,7 @@
                                     }
                                 ], 
                                 "links": [
+                                    "https://c3eo.chaotik.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
                                 ]
                             }, 
