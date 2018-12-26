@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:30", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 10:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5948,6 +5948,34 @@
                                 "links": [
                                     "https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits"
+                                ]
+                            }, 
+                            {
+                                "id": 1293, 
+                                "guid": "c111aca6-e5c0-44cd-ada5-b21f405ab766", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "35c3-1293-session_sumorobot_soldering_workshop", 
+                                "title": "SumoRobot Soldering Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
+                                        "public_name": "Silbo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.robokoding.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop"
                                 ]
                             }, 
                             {
@@ -12216,6 +12244,34 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity"
+                                ]
+                            }, 
+                            {
+                                "id": 1292, 
+                                "guid": "15376f66-e37f-4a41-aa19-16512f329d20", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "35c3-1292-session_sumorobot_soldering_workshop", 
+                                "title": "SumoRobot Soldering Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
+                                        "public_name": "Silbo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.robokoding.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop"
                                 ]
                             }, 
                             {
@@ -18833,6 +18889,34 @@
                                 ]
                             }, 
                             {
+                                "id": 1294, 
+                                "guid": "93263d15-e60f-533a-b4f4-58498fc06558", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "35c3-1294-session_sumorobot_soldering_workshop", 
+                                "title": "SumoRobot Soldering Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
+                                        "public_name": "Silbo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.robokoding.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop"
+                                ]
+                            }, 
+                            {
                                 "id": 1111, 
                                 "guid": "4dd26602-bf1f-454f-bd0b-e3c51ebd4284", 
                                 "logo": null, 
@@ -21505,6 +21589,34 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder"
+                                ]
+                            }, 
+                            {
+                                "id": 1295, 
+                                "guid": "b58a7a7d-cc92-5021-bcd0-1480f0c45120", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "35c3-1295-session_sumorobot_soldering_workshop", 
+                                "title": "SumoRobot Soldering Workshop", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
+                                        "public_name": "Silbo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.robokoding.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop"
                                 ]
                             }, 
                             {
