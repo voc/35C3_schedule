@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 21:40</version>
+  <version>2018-12-26 21:50</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -759,6 +759,25 @@
       </event>
     </room>
     <room name="Popticum Art-and-Play">
+      <event id="1315" guid="ba73a273-e0b0-49e6-a9e2-0acc0c29a75c">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1315-session_concert_full_moon_orchestra</slug>
+        <title>Concert -- Full Moon Orchestra</title>
+        <subtitle>The Full Moon Orchestra is a musician's collective who take their inspiration from free improvisation and provide material with a substantial danceable ingredient.</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Full_Moon_Orchestra</link>
+        </links>
+      </event>
       <event id="1309" guid="e83e6ccf-d34e-4040-8b5e-6fb50a30927b">
         <logo/>
         <date>2018-12-27T21:00:00+01:00</date>
@@ -883,25 +902,6 @@
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-      <event id="1255" guid="6a64b395-e553-4579-b48d-ce8aaec0d4ad">
-        <logo/>
-        <date>2018-12-28T00:30:00+01:00</date>
-        <start>00:30</start>
-        <duration>1:30</duration>
-        <room>Lecture room M3</room>
-        <slug>35c3-1255-session_tor_relay_operators_meetup</slug>
-        <title>Tor relay operators meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup</link>
         </links>
       </event>
     </room>
@@ -1031,25 +1031,6 @@
         <links>
           <link>https://c3subtitles.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
-        </links>
-      </event>
-      <event id="1117" guid="af201fc8-81aa-4959-90ae-81307e17a6e3">
-        <logo/>
-        <date>2018-12-27T16:30:00+01:00</date>
-        <start>16:30</start>
-        <duration>1:30</duration>
-        <room>Lecture room M2</room>
-        <slug>35c3-1117-session_tor_relay_operators_meetup</slug>
-        <title>Tor relay operators meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup</link>
         </links>
       </event>
       <event id="1268" guid="91519f50-9c75-445c-aaf1-63a95f89614a">
@@ -2095,6 +2076,25 @@
           <link>http://kicad-pcb.org</link>
           <link>https://forum.kicad.info/t/35c3-new-year-new-congress/14026</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KiCad_Beginner_Workshop</link>
+        </links>
+      </event>
+      <event id="1255" guid="6a64b395-e553-4579-b48d-ce8aaec0d4ad">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1255-session_tor_relay_operators_meetup</slug>
+        <title>Tor relay operators meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup</link>
         </links>
       </event>
       <event id="1129" guid="7bc214f9-4c4d-448d-bfa0-88c91c39285c">

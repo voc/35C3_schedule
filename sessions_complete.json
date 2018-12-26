@@ -4477,6 +4477,53 @@
             }
         ]
     }, 
+    "Session:Concert -- Full Moon Orchestra# e35929b2319c1892baa11c3ff87f6928": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "The Full Moon Orchestra is a musician's collective who take their inspiration from free improvisation and provide material with a substantial danceable ingredient."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert -- Full Moon Orchestra"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "ba73a273-e0b0-49e6-a9e2-0acc0c29a75c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Full_Moon_Orchestra", 
+        "Has end time": [
+            {
+                "timestamp": "1545955200", 
+                "raw": "1/2018/12/28/0/0/0/0"
+            }
+        ]
+    }, 
     "Session:Concert -- Kosmosklang# 40ec868a9a5b2ef8758ccf3a86120c1e": {
         "Held in language": [], 
         "Has start time": [
@@ -15649,65 +15696,14 @@
             }
         ]
     }, 
-    "Session:Tor relay operators meetup# 5642a14f46f24882ddfa557b3e62e1a4": {
+    "Session:Tor relay operators meetup# 887c5d13daa7a22061ec64be9ecc4ef4": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Connecting people who run Tor relays, people who would like to run Tor relays, and people generally interested in what we are doing."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Tor relay operators meetup"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "af201fc8-81aa-4959-90ae-81307e17a6e3"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup", 
-        "Has end time": [
-            {
-                "timestamp": "1545933600", 
-                "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Tor relay operators meetup# 923f2b5d2341d3a901058e66fd68df26": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545957000", 
-                "raw": "1/2018/12/28/0/30/0/0"
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
             }
         ], 
         "Has event track": [
@@ -15746,8 +15742,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup", 
         "Has end time": [
             {
-                "timestamp": "1545962400", 
-                "raw": "1/2018/12/28/2/0/0/0"
+                "timestamp": "1546003800", 
+                "raw": "1/2018/12/28/13/30/0/0"
             }
         ]
     }, 
