@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2745,7 +2745,7 @@
                                 "logo": null, 
                                 "date": "2018-12-27T17:00:00+01:00", 
                                 "start": "17:00", 
-                                "duration": "00:20", 
+                                "duration": "00:45", 
                                 "room": "OIO Vortrags-Arena", 
                                 "slug": "BRRGEK", 
                                 "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BRRGEK", 
@@ -7400,9 +7400,9 @@
                                 "id": 267, 
                                 "guid": "0519cc1f-4c12-53f0-a83d-5958edcfc148", 
                                 "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "00:20", 
+                                "date": "2018-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "00:50", 
                                 "room": "OIO Vortrags-Arena", 
                                 "slug": "KB9VRZ", 
                                 "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/KB9VRZ", 
@@ -9593,7 +9593,39 @@
                                 "answers": []
                             }
                         ], 
-                        "OIO L\u00f6tarea": [], 
+                        "OIO L\u00f6tarea": [
+                            {
+                                "id": 308, 
+                                "guid": "eda8f6cd-d88a-519d-9d69-4dd5e69a3fb9", 
+                                "logo": null, 
+                                "date": "2018-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "06:00", 
+                                "room": "OIO L\u00f6tarea", 
+                                "slug": "XHGP3G", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/XHGP3G", 
+                                "title": "L\u00f6ten zum Junghackertag", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "L\u00f6tarea 110 min", 
+                                "language": "de", 
+                                "abstract": "Zum Junghackertag gibt es extra L\u00f6tprogramme", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 95, 
+                                        "name": "djim", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "OIO Thementisch 1": [], 
                         "OIO Thementisch 2": [], 
                         "OIO Thementisch 3": [], 

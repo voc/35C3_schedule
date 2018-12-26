@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 22:00</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3725,7 +3725,7 @@ Seit 2000 treibt er sich im Umfeld des Chaos Computer Club und den entsprechende
         <logo/>
         <date>2018-12-27T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>00:20</duration>
+        <duration>00:45</duration>
         <room>OIO Vortrags-Arena</room>
         <slug>BRRGEK</slug>
         <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BRRGEK</url>
@@ -10394,9 +10394,9 @@ Eine kritische Betrachtungsweise.</description>
       </event>
       <event id="267" guid="0519cc1f-4c12-53f0-a83d-5958edcfc148">
         <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:20</duration>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:50</duration>
         <room>OIO Vortrags-Arena</room>
         <slug>KB9VRZ</slug>
         <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/KB9VRZ</url>
@@ -12585,7 +12585,37 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <answers/>
       </event>
     </room>
-    <room name="OIO Lötarea"/>
+    <room name="OIO Lötarea">
+      <event id="308" guid="eda8f6cd-d88a-519d-9d69-4dd5e69a3fb9">
+        <logo/>
+        <date>2018-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+        <room>OIO Lötarea</room>
+        <slug>XHGP3G</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/XHGP3G</url>
+        <title>Löten zum Junghackertag</title>
+        <subtitle/>
+        <track/>
+        <type>Lötarea 110 min</type>
+        <language>de</language>
+        <abstract>Zum Junghackertag gibt es extra Lötprogramme</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">
+            <name>djim</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Thementisch 1"/>
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
@@ -20066,6 +20096,27 @@ Freifunk since 2003</biography>
         <links>
           <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making</link>
+        </links>
+      </event>
+    </room>
+    <room name="Popticum Art-and-Play">
+      <event id="1317" guid="201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1317-session_concert_lunochod_</slug>
+        <title>Concert -- Луноход (Lunochod)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>noisy power free kraut music</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_%D0%9B%D1%83%D0%BD%D0%BE%D1%85%D0%BE%D0%B4_(Lunochod)</link>
         </links>
       </event>
     </room>

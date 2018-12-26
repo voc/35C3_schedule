@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 22:00", 
+        "version": "2018-12-26 22:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3906,6 +3906,29 @@
                                 "links": [
                                     "https://www.nongnu.org/dkgpg/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG"
+                                ]
+                            }
+                        ], 
+                        "Popticum Art-and-Play": [
+                            {
+                                "id": 1317, 
+                                "guid": "201bb62b-1955-4f3a-9cfb-ef5ad6ffa4b3", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "1:00", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1317-session_concert_lunochod_", 
+                                "title": "Concert -- \u041b\u0443\u043d\u043e\u0445\u043e\u0434 (Lunochod)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "noisy power free kraut music", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_%D0%9B%D1%83%D0%BD%D0%BE%D1%85%D0%BE%D0%B4_(Lunochod)"
                                 ]
                             }
                         ], 
