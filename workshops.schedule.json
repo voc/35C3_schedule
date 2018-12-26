@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 02:50", 
+        "version": "2018-12-26 04:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3039,6 +3039,36 @@
                         ], 
                         "OIO Workshop-Domo": [], 
                         "CCL Saal 3": [], 
+                        "Vintage Computing Cluster": [
+                            {
+                                "id": 1289, 
+                                "guid": "980bf311-9866-4869-9184-c93cdacff1d1", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Vintage Computing Cluster", 
+                                "slug": "35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_", 
+                                "title": "Vereinsgr\u00fcndung Vintage Computing Festival Berlin e.V.", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Gr\u00fcndung des Vintage Computing Festival Berlin (VCFB) e.V.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil", 
+                                        "public_name": "Zeltophil"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://vcfb.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V."
+                                ]
+                            }
+                        ], 
                         "CCL Hall 3": [
                             {
                                 "id": 1038, 

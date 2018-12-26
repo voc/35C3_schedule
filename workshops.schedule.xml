@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 02:50</version>
+  <version>2018-12-26 04:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2540,6 +2540,30 @@
     </room>
     <room name="OIO Workshop-Domo"/>
     <room name="CCL Saal 3"/>
+    <room name="Vintage Computing Cluster">
+      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
+        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
+        </persons>
+        <links>
+          <link>https://vcfb.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
+        </links>
+      </event>
+    </room>
     <room name="CCL Hall 3">
       <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
         <logo/>
