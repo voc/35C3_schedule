@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:40</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -12665,25 +12665,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
         </links>
       </event>
-      <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
-        <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room/>
-        <slug>35c3-1039-session_dining_cryptographers_party</slug>
-        <title>Dining Cryptographers' Party</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
-        </links>
-      </event>
       <event id="1190" guid="2708d339-0653-4648-bae1-0f2ec8d42811">
         <logo/>
         <date>2018-12-28T12:30:00+01:00</date>
@@ -13214,16 +13195,16 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
-    <room name="Assembly:Verstehbahnhof">
-      <event id="1306" guid="b04e85b0-adaa-40d1-a601-69a5fecb19b4">
+    <room name="Assembly:C-base">
+      <event id="1305" guid="37a10bdc-0edc-41c5-9443-7551e66fd428">
         <logo/>
-        <date>2018-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Verstehbahnhof</room>
-        <slug>35c3-1306-session_calliope_workshop</slug>
+        <date>2018-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:C-base</room>
+        <slug>35c3-1305-session_calliope_workshop</slug>
         <title>Calliope Workshop</title>
-        <subtitle>Calliope Workshop 02</subtitle>
+        <subtitle>Calliope Workshop 01</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -13235,15 +13216,15 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
         </links>
       </event>
-      <event id="1305" guid="37a10bdc-0edc-41c5-9443-7551e66fd428">
+      <event id="1306" guid="b04e85b0-adaa-40d1-a601-69a5fecb19b4">
         <logo/>
-        <date>2018-12-28T11:30:00+01:00</date>
-        <start>11:30</start>
-        <duration>1:00</duration>
-        <room>Assembly:Verstehbahnhof</room>
-        <slug>35c3-1305-session_calliope_workshop</slug>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C-base</room>
+        <slug>35c3-1306-session_calliope_workshop</slug>
         <title>Calliope Workshop</title>
-        <subtitle>Calliope Workshop 01</subtitle>
+        <subtitle>Calliope Workshop 02</subtitle>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
@@ -20221,6 +20202,27 @@ Freifunk since 2003</biography>
         <links>
           <link>https://ds.ccc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Chaos West">
+      <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>35c3-1039-session_dining_cryptographers_party</slug>
+        <title>Dining Cryptographers' Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
         </links>
       </event>
     </room>
