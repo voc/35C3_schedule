@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 20:00</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 20:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2933,7 +2933,7 @@ Nicolas Wöhrl (Methodisch Inkorrekt), Stefan Schulz (Aufwachen Podcast), Moritz
         <description>Opening der Chaos-West Stage</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
           <person id="85">
@@ -5971,9 +5971,9 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
     <room name="Assembly:Chaos West">
       <event id="1027" guid="0d96532c-08c5-46d0-bffe-d639bde55d41">
         <logo/>
-        <date>2018-12-27T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>6:00</duration>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>5:00</duration>
         <room>Assembly:Chaos West</room>
         <slug>35c3-1027-session_build_your_own_yub_key</slug>
         <title>Build your own Yub!Key</title>
@@ -6141,6 +6141,25 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_Franzi_Klimpel_%26_Julia_Andreas</link>
+        </links>
+      </event>
+      <event id="1314" guid="ad1bd1c1-aa89-4ccd-ac2c-da1df4f7b0e7">
+        <logo/>
+        <date>2018-12-27T23:59:00+01:00</date>
+        <start>23:59</start>
+        <duration>4:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1314-session_dj_popticumcrew</slug>
+        <title>DJ -- popticumcrew</title>
+        <subtitle>small birthday party in the popticum</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>happybirthdaysongs</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_popticumcrew</link>
         </links>
       </event>
     </room>
@@ -13201,6 +13220,46 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://calliope.cc</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
+        </links>
+      </event>
+    </room>
+    <room name="Popticum Art-and-Play">
+      <event id="1312" guid="7714f71a-5a2b-4313-a22a-fac171387a53">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>0:45</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1312-session_concert_domu</slug>
+        <title>Concert -- DOMU</title>
+        <subtitle>audiovisual concert</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_DOMU</link>
+        </links>
+      </event>
+      <event id="1313" guid="7162d5c6-48f8-4e0b-bfb3-724735ac34ae">
+        <logo/>
+        <date>2018-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>0:45</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1313-session_concert_kosmosklang</slug>
+        <title>Concert -- Kosmosklang</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Silicon, raw material for the digital world, creates as an object real sound worlds in the music project kosmosklang.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Kosmosklang</link>
         </links>
       </event>
     </room>

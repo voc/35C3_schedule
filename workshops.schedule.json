@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 20:00", 
+        "version": "2018-12-26 20:30", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -935,6 +935,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_Franzi_Klimpel_%26_Julia_Andreas"
+                                ]
+                            }, 
+                            {
+                                "id": 1314, 
+                                "guid": "ad1bd1c1-aa89-4ccd-ac2c-da1df4f7b0e7", 
+                                "logo": null, 
+                                "date": "2018-12-27T23:59:00+01:00", 
+                                "start": "23:59", 
+                                "duration": "4:00", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1314-session_dj_popticumcrew", 
+                                "title": "DJ -- popticumcrew", 
+                                "subtitle": "small birthday party in the popticum", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "happybirthdaysongs", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_popticumcrew"
                                 ]
                             }
                         ], 
@@ -2326,6 +2347,50 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:PSLab.io_-_Pocket_Science_Lab"
+                                ]
+                            }
+                        ], 
+                        "Popticum Art-and-Play": [
+                            {
+                                "id": 1312, 
+                                "guid": "7714f71a-5a2b-4313-a22a-fac171387a53", 
+                                "logo": null, 
+                                "date": "2018-12-28T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "0:45", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1312-session_concert_domu", 
+                                "title": "Concert -- DOMU", 
+                                "subtitle": "audiovisual concert", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_DOMU"
+                                ]
+                            }, 
+                            {
+                                "id": 1313, 
+                                "guid": "7162d5c6-48f8-4e0b-bfb3-724735ac34ae", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "0:45", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1313-session_concert_kosmosklang", 
+                                "title": "Concert -- Kosmosklang", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Silicon, raw material for the digital world, creates as an object real sound worlds in the music project kosmosklang.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Kosmosklang"
                                 ]
                             }
                         ], 

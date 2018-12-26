@@ -3269,15 +3269,15 @@
             }
         ]
     }, 
-    "Session:Build your own Yub!Key# 9c945734187a94a6e240b8d16d81f80f": {
+    "Session:Build your own Yub!Key# 22e3079bd049fcacc6c0a0c61e57cee6": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545908400", 
-                "raw": "1/2018/12/27/11/0/0/0"
+                "timestamp": "1545912000", 
+                "raw": "1/2018/12/27/12/0/0/0"
             }
         ], 
         "Has event track": [
@@ -3307,7 +3307,7 @@
             "Build your own Yub!Key"
         ], 
         "Has duration": [
-            360
+            300
         ], 
         "GUID": [
             "0d96532c-08c5-46d0-bffe-d639bde55d41"
@@ -4430,6 +4430,100 @@
             }
         ]
     }, 
+    "Session:Concert -- DOMU# d741f91dabc7fa33ae1b8314234382c9": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "audiovisual concert"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert -- DOMU"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "7714f71a-5a2b-4313-a22a-fac171387a53"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_DOMU", 
+        "Has end time": [
+            {
+                "timestamp": "1546037100", 
+                "raw": "1/2018/12/28/22/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Concert -- Kosmosklang# 40ec868a9a5b2ef8758ccf3a86120c1e": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Silicon, raw material for the digital world, creates as an object real sound worlds in the music project kosmosklang."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Concert -- Kosmosklang"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "7162d5c6-48f8-4e0b-bfb3-724735ac34ae"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Kosmosklang", 
+        "Has end time": [
+            {
+                "timestamp": "1546033500", 
+                "raw": "1/2018/12/28/21/45/0/0"
+            }
+        ]
+    }, 
     "Session:Concert Franzi Klimpel & Julia Andreas# 0cb0fcd28f1b791e5ccbecd02172f952": {
         "Held in language": [], 
         "Has start time": [
@@ -4590,6 +4684,55 @@
             {
                 "timestamp": "1546097400", 
                 "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:DJ -- popticumcrew# a983e699d353a1a57d51ab7bd576eb66": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545955140", 
+                "raw": "1/2018/12/27/23/59/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "happybirthdaysongs"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "small birthday party in the popticum"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJ -- popticumcrew"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "ad1bd1c1-aa89-4ccd-ac2c-da1df4f7b0e7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_popticumcrew", 
+        "Has end time": [
+            {
+                "timestamp": "1545969540", 
+                "raw": "1/2018/12/28/3/59/0/0"
             }
         ]
     }, 
