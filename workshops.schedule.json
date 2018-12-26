@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 19:10", 
+        "version": "2018-12-26 19:50", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -149,36 +149,7 @@
                         ], 
                         "ChaosZone": [], 
                         "Kidspace": [], 
-                        "Lecture room M1": [
-                            {
-                                "id": 1101, 
-                                "guid": "ac02f3e2-5c9e-41db-a912-96bda2afb030", 
-                                "logo": null, 
-                                "date": "2018-12-26T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "35c3-1101-session_stage_manager_angel_introduction", 
-                                "title": "Stage Manager Angel Introduction", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                                        "public_name": "Ijon"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
-                                ]
-                            }
-                        ], 
+                        "Lecture room M1": [], 
                         "Lecture room M3": [
                             {
                                 "id": 1057, 
@@ -200,6 +171,34 @@
                                 "links": [
                                     "https://engelsystem.de/35c3/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1101, 
+                                "guid": "ac02f3e2-5c9e-41db-a912-96bda2afb030", 
+                                "logo": null, 
+                                "date": "2018-12-26T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1101-session_stage_manager_angel_introduction", 
+                                "title": "Stage Manager Angel Introduction", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                                        "public_name": "Ijon"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
                                 ]
                             }
                         ], 
@@ -482,29 +481,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups"
-                                ]
-                            }, 
-                            {
-                                "id": 1181, 
-                                "guid": "db2db5a1-d8f5-4f3e-ae85-051dc1e57e76", 
-                                "logo": null, 
-                                "date": "2018-12-27T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1181-session_f_droid_meetup", 
-                                "title": "F-Droid Meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "F-Droid Community Meetup", 
-                                "persons": [], 
-                                "links": [
-                                    "https://f-droid.org", 
-                                    "https://mastodon.technology/@fdroidorg", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup"
                                 ]
                             }, 
                             {
@@ -912,34 +888,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1102, 
-                                "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "35c3-1102-session_stage_manager_angel_introduction", 
-                                "title": "Stage Manager Angel Introduction", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                                        "public_name": "Ijon"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
-                                ]
-                            }, 
-                            {
                                 "id": 1132, 
                                 "guid": "5baa7172-13bb-488c-b9e5-443337e7566b", 
                                 "logo": null, 
@@ -1067,6 +1015,34 @@
                                 "links": [
                                     "https://lists.riseup.net/www/subscribe/queerfeministgeeks", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp"
+                                ]
+                            }, 
+                            {
+                                "id": 1102, 
+                                "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1102-session_stage_manager_angel_introduction", 
+                                "title": "Stage Manager Angel Introduction", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                                        "public_name": "Ijon"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
                                 ]
                             }, 
                             {
@@ -1390,6 +1366,29 @@
                                     "https://www.youtube.com/watch?v=0d-TZfBN4cg", 
                                     "https://www.youtube.com/watch?v=OQwgja-TOwg", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Digital_Health_and_Patient_Data"
+                                ]
+                            }, 
+                            {
+                                "id": 1181, 
+                                "guid": "db2db5a1-d8f5-4f3e-ae85-051dc1e57e76", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1181-session_f_droid_meetup", 
+                                "title": "F-Droid Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "F-Droid Community Meetup", 
+                                "persons": [], 
+                                "links": [
+                                    "https://f-droid.org", 
+                                    "https://mastodon.technology/@fdroidorg", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup"
                                 ]
                             }, 
                             {

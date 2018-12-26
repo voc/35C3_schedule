@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0 0.9 memoryrefresh 20121226KOMONA 1.0.3 2018-12-26 19:10</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.3 2018-12-26 19:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -1958,27 +1958,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
         </links>
       </event>
-      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
-        <logo/>
-        <date>2018-12-27T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1181-session_f_droid_meetup</slug>
-        <title>F-Droid Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>F-Droid Community Meetup</description>
-        <persons/>
-        <links>
-          <link>https://f-droid.org</link>
-          <link>https://mastodon.technology/@fdroidorg</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
-        </links>
-      </event>
       <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
         <logo/>
         <date>2018-12-27T13:10:00+01:00</date>
@@ -2229,6 +2208,27 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Digital_Health_and_Patient_Data</link>
         </links>
       </event>
+      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1181-session_f_droid_meetup</slug>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup</description>
+        <persons/>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
+        </links>
+      </event>
       <event id="1063" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
@@ -2331,28 +2331,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://www.lesswrong.com/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup</link>
-        </links>
-      </event>
-      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
       <event id="1132" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
@@ -2608,6 +2586,28 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
+        </links>
+      </event>
+      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
       <event id="1255" guid="6a64b395-e553-4579-b48d-ce8aaec0d4ad">
@@ -4085,6 +4085,35 @@ Auf Twitter: @derphilipp&#13;
 All seine Podcasts: http://dampfnudel.net</biography>
           </person>
         </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="435" guid="10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>MERWJM</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/MERWJM</url>
+        <title>Countdown Podcast Jahrerückblick</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresrückblick auf dem CCC</abstract>
+        <description>2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA führt China in diesem Jahr die Spitze im nationalen Vergleich an. &#13;
+Es starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verließ zum zweiten Mal überhaupt das Sonnensystem.&#13;
+In Bremen kamen mehr als 6.000 TeilnehmerInnen zum größten Raumfahrtkongress der Welt zusammen.&#13;
+Es gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!&#13;
+&#13;
+Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen über das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
         <answers/>
@@ -10748,35 +10777,6 @@ Mit verschiedenen Gästen werden wir auf unsere Podcasts, Serien und Film-Entdec
             <biography>Just me!</biography>
           </person>
         </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="435" guid="10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8">
-        <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:45</duration>
-        <room>Sendetisch</room>
-        <slug>MERWJM</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/MERWJM</url>
-        <title>Countdown Podcast Jahrerückblick</title>
-        <subtitle/>
-        <track/>
-        <type>Sendetisch</type>
-        <language>de</language>
-        <abstract>Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresrückblick auf dem CCC</abstract>
-        <description>2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA führt China in diesem Jahr die Spitze im nationalen Vergleich an. &#13;
-Es starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verließ zum zweiten Mal überhaupt das Sonnensystem.&#13;
-In Bremen kamen mehr als 6.000 TeilnehmerInnen zum größten Raumfahrtkongress der Welt zusammen.&#13;
-Es gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!&#13;
-&#13;
-Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen über das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
         <links/>
         <attachments/>
         <answers/>

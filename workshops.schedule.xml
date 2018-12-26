@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 19:10</version>
+  <version>2018-12-26 19:50</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -122,30 +122,7 @@
     </room>
     <room name="ChaosZone"/>
     <room name="Kidspace"/>
-    <room name="Lecture room M1">
-      <event id="1101" guid="ac02f3e2-5c9e-41db-a912-96bda2afb030">
-        <logo/>
-        <date>2018-12-26T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1101-session_stage_manager_angel_introduction</slug>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-    </room>
+    <room name="Lecture room M1"/>
     <room name="Lecture room M3">
       <event id="1057" guid="13ed6368-e819-490b-8d71-7e1b291bb55b">
         <logo/>
@@ -165,6 +142,28 @@
         <links>
           <link>https://engelsystem.de/35c3/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1101" guid="ac02f3e2-5c9e-41db-a912-96bda2afb030">
+        <logo/>
+        <date>2018-12-26T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1101-session_stage_manager_angel_introduction</slug>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
     </room>
@@ -389,27 +388,6 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
-        </links>
-      </event>
-      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
-        <logo/>
-        <date>2018-12-27T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1181-session_f_droid_meetup</slug>
-        <title>F-Droid Meetup</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>F-Droid Community Meetup</description>
-        <persons/>
-        <links>
-          <link>https://f-droid.org</link>
-          <link>https://mastodon.technology/@fdroidorg</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
         </links>
       </event>
       <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
@@ -758,28 +736,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup</link>
         </links>
       </event>
-      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
       <event id="1132" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
@@ -886,6 +842,28 @@
         <links>
           <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
+        </links>
+      </event>
+      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
       <event id="1255" guid="6a64b395-e553-4579-b48d-ce8aaec0d4ad">
@@ -1159,6 +1137,27 @@
           <link>https://www.youtube.com/watch?v=0d-TZfBN4cg</link>
           <link>https://www.youtube.com/watch?v=OQwgja-TOwg</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Digital_Health_and_Patient_Data</link>
+        </links>
+      </event>
+      <event id="1181" guid="db2db5a1-d8f5-4f3e-ae85-051dc1e57e76">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1181-session_f_droid_meetup</slug>
+        <title>F-Droid Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>F-Droid Community Meetup</description>
+        <persons/>
+        <links>
+          <link>https://f-droid.org</link>
+          <link>https://mastodon.technology/@fdroidorg</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup</link>
         </links>
       </event>
       <event id="1063" guid="d7757509-abec-403a-811f-2a2cc97c6dcb">

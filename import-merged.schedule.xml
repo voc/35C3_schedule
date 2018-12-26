@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0 0.9 memoryrefresh 20121226KOMONA 1.0.3</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3175,6 +3175,35 @@ Auf Twitter: @derphilipp&#13;
 All seine Podcasts: http://dampfnudel.net</biography>
           </person>
         </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="435" guid="10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>MERWJM</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/MERWJM</url>
+        <title>Countdown Podcast Jahrerückblick</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresrückblick auf dem CCC</abstract>
+        <description>2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA führt China in diesem Jahr die Spitze im nationalen Vergleich an. &#13;
+Es starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verließ zum zweiten Mal überhaupt das Sonnensystem.&#13;
+In Bremen kamen mehr als 6.000 TeilnehmerInnen zum größten Raumfahrtkongress der Welt zusammen.&#13;
+Es gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!&#13;
+&#13;
+Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen über das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
         <links/>
         <attachments/>
         <answers/>
@@ -7939,35 +7968,6 @@ Mit verschiedenen Gästen werden wir auf unsere Podcasts, Serien und Film-Entdec
             <biography>Just me!</biography>
           </person>
         </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="435" guid="10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8">
-        <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>00:45</duration>
-        <room>Sendetisch</room>
-        <slug>MERWJM</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/MERWJM</url>
-        <title>Countdown Podcast Jahrerückblick</title>
-        <subtitle/>
-        <track/>
-        <type>Sendetisch</type>
-        <language>de</language>
-        <abstract>Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresrückblick auf dem CCC</abstract>
-        <description>2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA führt China in diesem Jahr die Spitze im nationalen Vergleich an. &#13;
-Es starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verließ zum zweiten Mal überhaupt das Sonnensystem.&#13;
-In Bremen kamen mehr als 6.000 TeilnehmerInnen zum größten Raumfahrtkongress der Welt zusammen.&#13;
-Es gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!&#13;
-&#13;
-Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen über das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
         <links/>
         <attachments/>
         <answers/>

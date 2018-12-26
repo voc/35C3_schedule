@@ -5632,15 +5632,15 @@
             }
         ]
     }, 
-    "Session:F-Droid Meetup# b1d12a22329cecc1552fab1845c1d018": {
+    "Session:F-Droid Meetup# c206157dd020646a20d7fea4e115b8a3": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545924600", 
-                "raw": "1/2018/12/27/15/30/0/0"
+                "timestamp": "1545919200", 
+                "raw": "1/2018/12/27/14/0/0/0"
             }
         ], 
         "Has event track": [
@@ -5658,8 +5658,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -5682,8 +5682,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:F-Droid_Meetup", 
         "Has end time": [
             {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
+                "timestamp": "1545922800", 
+                "raw": "1/2018/12/27/15/0/0/0"
             }
         ]
     }, 
@@ -13156,67 +13156,7 @@
             }
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 29de68fb40417b1cbbb33e068b49957b": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545854400", 
-                "raw": "1/2018/12/26/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Ijon", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Stage Manager Angel Introduction"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "ac02f3e2-5c9e-41db-a912-96bda2afb030"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction", 
-        "Has end time": [
-            {
-                "timestamp": "1545865200", 
-                "raw": "1/2018/12/26/23/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Stage Manager Angel Introduction# c75ecac1113dc6c56c0df82687fb1a87": {
+    "Session:Stage Manager Angel Introduction# 38ec490a6318fd6155462812c74fefc5": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -13239,8 +13179,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -13273,6 +13213,66 @@
             {
                 "timestamp": "1545951600", 
                 "raw": "1/2018/12/27/23/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Stage Manager Angel Introduction# f38271253b68a302650ae48975feb208": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545854400", 
+                "raw": "1/2018/12/26/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "ac02f3e2-5c9e-41db-a912-96bda2afb030"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            {
+                "timestamp": "1545865200", 
+                "raw": "1/2018/12/26/23/0/0/0"
             }
         ]
     }, 

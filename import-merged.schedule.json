@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0 0.9 memoryrefresh 20121226KOMONA 1.0.3", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3055,6 +3055,30 @@
                                         "answers": []
                                     }
                                 ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 435, 
+                                "guid": "10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8", 
+                                "logo": null, 
+                                "date": "2018-12-27T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "MERWJM", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/MERWJM", 
+                                "title": "Countdown Podcast Jahrer\u00fcckblick", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresr\u00fcckblick auf dem CCC", 
+                                "description": "2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA f\u00fchrt China in diesem Jahr die Spitze im nationalen Vergleich an. \r\nEs starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verlie\u00df zum zweiten Mal \u00fcberhaupt das Sonnensystem.\r\nIn Bremen kamen mehr als 6.000 TeilnehmerInnen zum gr\u00f6\u00dften Raumfahrtkongress der Welt zusammen.\r\nEs gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!\r\n\r\nFrank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen \u00fcber das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
                                 "links": [], 
                                 "attachments": [], 
                                 "answers": []
@@ -7744,30 +7768,6 @@
                                         "answers": []
                                     }
                                 ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 435, 
-                                "guid": "10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8", 
-                                "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "MERWJM", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/MERWJM", 
-                                "title": "Countdown Podcast Jahrer\u00fcckblick", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "de", 
-                                "abstract": "Was hat sich in 2018 im Bereich Raketen und Raumfahrt getan? Die kurze Antwort: viel. Die lange Antwort liefern wir euch in unserem fast schon traditionellen Raumfahrt-Jahresr\u00fcckblick auf dem CCC", 
-                                "description": "2018 wurden erstmal seit 1990 mehr als 100 Raketen erfolgreich gestartet. Statt Russland oder den USA f\u00fchrt China in diesem Jahr die Spitze im nationalen Vergleich an. \r\nEs starteten Sonden zur Sonne und zum Merkur, es wurde auf dem Mars und einem Asteroiden gelandet und eine Sonde verlie\u00df zum zweiten Mal \u00fcberhaupt das Sonnensystem.\r\nIn Bremen kamen mehr als 6.000 TeilnehmerInnen zum gr\u00f6\u00dften Raumfahrtkongress der Welt zusammen.\r\nEs gibt viel zu besprechen und nur 3 Minuten und 45 Sekunden pro Monat Zeit!\r\n\r\nFrank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher van der Meyden (Teilzeitnerd und Podcastspezi) reden seit drei Jahren alle zwei Wochen \u00fcber das neuste aus der Raumfahrt und wollen am Ende des Jahres 12 spannende Monate Revue passieren lassen.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [], 
                                 "links": [], 
                                 "attachments": [], 
                                 "answers": []
