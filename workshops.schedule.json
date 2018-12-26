@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 23:10", 
+        "version": "2018-12-26 23:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1549,7 +1549,7 @@
                                     }
                                 ], 
                                 "links": [
-                                    "https://blog.gnuradio.org", 
+                                    "https://www.gnuradio.org/blog", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:GNU_Radio_Users_%26_Devs_Meetup"
                                 ]
                             }, 

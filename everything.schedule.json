@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 23:10", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 23:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -8418,7 +8418,7 @@
                                     }
                                 ], 
                                 "links": [
-                                    "https://blog.gnuradio.org", 
+                                    "https://www.gnuradio.org/blog", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:GNU_Radio_Users_%26_Devs_Meetup"
                                 ]
                             }, 
@@ -20353,13 +20353,13 @@
                                 "room": "Komona Dome 1 #workshops #talks", 
                                 "slug": "GEEG9P", 
                                 "url": "https://talks.komona.org/35c3/talk/GEEG9P", 
-                                "title": "Club Culture, a Data Perspective", 
+                                "title": "Club Culture and Urban Transformation Processes: A Data Perspective", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Slot", 
                                 "language": "en", 
                                 "abstract": "During the Congress we run a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture (raves, commercial clubs, progressive subculture). In a workshop we can collectively reflect on this.", 
-                                "description": "", 
+                                "description": "Club Culture and Urban Transformation Processes: A Data Perspective \r\n(daily opening hours 14-18pm - archive in progress - workshop on day 3)\r\n\r\nFollowing last years workshop on critical club culture we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture (raves, commercial clubs, progressive subculture). We want to collect data of websites and literature related to the topic to highlight urban transformation processes (eg gentrification, culturalization, eventization).\r\n\r\nWe will provide a digital library for information exchange. Our focus is on the cities where the congress was taking place: Hamburg, Berlin, Leipzig. Participants are invited to \u201erefresh memories\u201c by contributing further information, ideas, data on their cultural infrastructure via surveyforms. This is testing ground for a more indepth interrogation and investigation next year.\r\n\r\nIn the workshop we will present our questions, aims and first results and collectively reflect with you on this project. We want to connect, network, collaborate with you - as we are seeking to continue at 36C3 with this topic and take it further, outline first ideas for 2019.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
