@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:50</version>
+  <version>Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 23:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13210,7 +13210,9 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <language>de</language>
         <abstract/>
         <description>Calliope Workshops für Kinder und Jugendliche</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha">Dermicha</person>
+        </persons>
         <links>
           <link>https://calliope.cc</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
@@ -13230,7 +13232,9 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <language>de</language>
         <abstract/>
         <description>Calliope Workshops für Kinder und Jugendliche</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha">Dermicha</person>
+        </persons>
         <links>
           <link>https://calliope.cc</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
@@ -20220,7 +20224,9 @@ Freifunk since 2003</biography>
         <language>de</language>
         <abstract/>
         <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:BenBE">BenBE</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
         </links>

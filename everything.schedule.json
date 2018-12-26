@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 22:50", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 23:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -13686,7 +13686,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Calliope Workshops f\u00fcr Kinder und Jugendliche", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha", 
+                                        "public_name": "Dermicha"
+                                    }
+                                ], 
                                 "links": [
                                     "https://calliope.cc", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop"
@@ -13708,7 +13714,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Calliope Workshops f\u00fcr Kinder und Jugendliche", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha", 
+                                        "public_name": "Dermicha"
+                                    }
+                                ], 
                                 "links": [
                                     "https://calliope.cc", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop"
@@ -21222,7 +21234,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:BenBE", 
+                                        "public_name": "BenBE"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party"
                                 ]
