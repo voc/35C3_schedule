@@ -4230,7 +4230,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10077-alexeyan</slug>
         <title>Alexeyan</title>
-        <subtitle/>
+        <subtitle>D&amp;B, Neurofunk</subtitle>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
@@ -4255,7 +4255,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10085-tasmo</slug>
         <title>Tasmo</title>
-        <subtitle/>
+        <subtitle>Bass&amp;Drum</subtitle>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
@@ -8518,19 +8518,23 @@ Gründet 2009 die Konzertreihe „Junge Szene Frankfurt“&#13;
       </event>
       <event id="10131" guid="244005eb-b499-4f13-80e1-ab1ee66db666">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10131.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/131/large/sofija.jpg?1545754685</logo>
         <date>2018-12-28T18:00:00+01:00</date>
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
         <slug>35c3-lineup-10131-zso_co</slug>
         <title>Zso &amp; Co.</title>
-        <subtitle/>
+        <subtitle>live! ukulele</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
-        <abstract/>
-        <description/>
+        <abstract>Zso is the stage name of a young artist Sofia (16) from Novi Sad, Serbia. Her voice is regularly described as “hypnotic”, and her performances as “out-of-this-world”. She started to perform just recently and her sets usually consists of cover songs that the most of you will recognise, but they could hardly be labeled as “hits”. She also writes her own songs and one will be premiered at 35C3.&#13;
+&#13;
+Currently, she is touring Germany with her dad, _djura_ who is a musician and a DJ. Together, under the name “Zso &amp; Co.”  they will bring you interesting renditions of some popular songs in their own, unique style: combining analogue and acoustic instruments with dirty synths in minimalistic arrangements, accompanying Sofia’s beautiful voice.</abstract>
+        <description>Zso is the stage name of a young artist Sofia (16) from Novi Sad, Serbia. Her voice is regularly described as “hypnotic”, and her performances as “out-of-this-world”. She started to perform just recently and her sets usually consists of cover songs that the most of you will recognise, but they could hardly be labeled as “hits”. She also writes her own songs and one will be premiered at 35C3.&#13;
+&#13;
+Currently, she is touring Germany with her dad, _djura_ who is a musician and a DJ. Together, under the name “Zso &amp; Co.”  they will bring you interesting renditions of some popular songs in their own, unique style: combining analogue and acoustic instruments with dirty synths in minimalistic arrangements, accompanying Sofia’s beautiful voice.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8860,7 +8864,7 @@ In addition to her music, Alexa is working as comic artist  and web designer.</a
       </event>
       <event id="10084" guid="9d0bb2cc-9d75-4033-9e27-4b372e8a9cee">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10084.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/084/large/unnamed.jpg?1545741830</logo>
         <date>2018-12-28T22:00:00+01:00</date>
         <start>22:00</start>
         <duration>02:00</duration>
@@ -8872,7 +8876,7 @@ In addition to her music, Alexa is working as comic artist  and web designer.</a
         <type>djset</type>
         <language>en</language>
         <abstract>Hamburg in town</abstract>
-        <description/>
+        <description>Sven. sind Nele und Cornelius. Sie haben Irgendwann in der Vergangenheit gemerkt, dass sie ganz gut musikalisch aufeinander reagieren können. Zusammen lassen sie  ein Amalgam aus gebrochenen Beats, krautigen Wellen und wabernden Flächen enstehen. In einen Genre-Setzkasten lässt sich das alles nicht stellen, muss es ja auch nicht, ganz im Gegenteil. Manchmal wissen sie selbst nicht so ganz genau, wohin die Reise geht, um dann aber trotzdem genau da anzukommen wo sie vielleicht hinwollten. Geradezu übernatürlich, einfach wowi.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -12498,6 +12502,7 @@ Shortly before the Tibetan Highlands, a small clearing, dressed with black fern 
         <persons/>
         <links>
           <link href="https://soundcloud.com/viktor-talking-machine">https://soundcloud.com/viktor-talking-machine</link>
+          <link href="https://www.residentadvisor.net/dj/viktortalkingmachine">https://www.residentadvisor.net/dj/viktortalkingmachine</link>
         </links>
         <attachments/>
       </event>
@@ -12744,7 +12749,7 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
-        <abstract>Tape deck ghosts + sonic research</abstract>
+        <abstract>Window Magic is the ambient/tape music project of Andreas Bonkowski. With an arsenal of cassettes, tape loops, analog synths, trusty fx units and escapist tunes he creates lo-fi collages and mystical soundscapes.</abstract>
         <description>Sometimes you hear a sound and may be not quite sure what it is. Or what it was. If you are fascinated by the mystery of noise, tape music is an artichoke, a rough diamond, a welcome phantom with many faces. Window Magic melts found sounds, manipulated source material and field recordings into tape deck ghosts and drones that haunt, flutter and sing. From a very early age growing up in East-Berlin, Andreas Bonkowski was fascinated by tape recorders and shortwave radio stations, filling C60s of his late night finds and experimenting with cutting techniques to make his own versions of songs and broadcasts. This fascination never left, though his other musical adventures with Corwood Manual or Siva. somehow took very different routes to explore other territories. Window Magic opens a portal to someplace else, channeling sounds that move outside the workings of time.</description>
         <recording>
           <license/>
@@ -13101,11 +13106,11 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <room>Uptime Bar</room>
         <slug>35c3-lineup-10140-morellion</slug>
         <title>Morellion</title>
-        <subtitle/>
+        <subtitle>Techno</subtitle>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract/>
+        <abstract>From the family...</abstract>
         <description/>
         <recording>
           <license/>
@@ -14749,11 +14754,11 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <room>Discodrama</room>
         <slug>35c3-lineup-10141-bobopk</slug>
         <title>BoboPK</title>
-        <subtitle/>
+        <subtitle>Game Boy Live!</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
-        <abstract/>
+        <abstract>From the family...</abstract>
         <description/>
         <recording>
           <license/>
