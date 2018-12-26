@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 23:00", 
+        "version": "2018-12-26 23:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1439,6 +1439,30 @@
                                 "links": [
                                     "http://none_yet", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting"
+                                ]
+                            }
+                        ], 
+                        "ChaosFilmSociety Art-and-Play": [
+                            {
+                                "id": 1323, 
+                                "guid": "40b272fc-6892-4e36-8130-c6d1243ee2bd", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1323-session_game_over", 
+                                "title": "Game over", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.kulturersatz.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over"
                                 ]
                             }
                         ]
@@ -3066,6 +3090,52 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python"
                                 ]
                             }
+                        ], 
+                        "ChaosFilmSociety Art-and-Play": [
+                            {
+                                "id": 1322, 
+                                "guid": "5664514a-e1e8-461f-8187-422a73a875e8", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1322-session_game_over", 
+                                "title": "Game over", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.kulturersatz.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over"
+                                ]
+                            }, 
+                            {
+                                "id": 1324, 
+                                "guid": "6483ae1a-1c78-4415-a68a-d472d540d6eb", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1324-session_get_out_of_your_bubble_", 
+                                "title": "Get out of your Bubble!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.manifestations.nl", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Get_out_of_your_Bubble!"
+                                ]
+                            }
                         ]
                     }, 
                     "day_start": "2018-12-28T06:00:00+01:00"
@@ -4562,6 +4632,29 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!"
+                                ]
+                            }
+                        ], 
+                        "ChaosFilmSociety Art-and-Play": [
+                            {
+                                "id": 1325, 
+                                "guid": "38351efc-e172-49c3-9eb9-8932f7faa409", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1325-session_tontechnic_101", 
+                                "title": "Tontechnic 101", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101"
                                 ]
                             }
                         ]

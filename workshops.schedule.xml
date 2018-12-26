@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 23:00</version>
+  <version>2018-12-26 23:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1200,6 +1200,28 @@
         <links>
           <link>http://none_yet</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting</link>
+        </links>
+      </event>
+    </room>
+    <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1323" guid="40b272fc-6892-4e36-8130-c6d1243ee2bd">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1323-session_game_over</slug>
+        <title>Game over</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://www.kulturersatz.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over</link>
         </links>
       </event>
     </room>
@@ -2574,6 +2596,48 @@
         </links>
       </event>
     </room>
+    <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1322" guid="5664514a-e1e8-461f-8187-422a73a875e8">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1322-session_game_over</slug>
+        <title>Game over</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://www.kulturersatz.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over</link>
+        </links>
+      </event>
+      <event id="1324" guid="6483ae1a-1c78-4415-a68a-d472d540d6eb">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1324-session_get_out_of_your_bubble_</slug>
+        <title>Get out of your Bubble!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://www.manifestations.nl</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Get_out_of_your_Bubble!</link>
+        </links>
+      </event>
+    </room>
   </day>
   <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
     <room name="OIO Vortrags-Arena"/>
@@ -3837,6 +3901,27 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
+        </links>
+      </event>
+    </room>
+    <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1325" guid="38351efc-e172-49c3-9eb9-8932f7faa409">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1325-session_tontechnic_101</slug>
+        <title>Tontechnic 101</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101</link>
         </links>
       </event>
     </room>

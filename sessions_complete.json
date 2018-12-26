@@ -6911,6 +6911,104 @@
             }
         ]
     }, 
+    "Session:Game over# 4a044c0f7e875b37951bfa6a014d7a73": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.kulturersatz.de/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Game over"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5664514a-e1e8-461f-8187-422a73a875e8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over", 
+        "Has end time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Game over# 4afdce4bf07001ca36bd31e7b53f4139": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545937200", 
+                "raw": "1/2018/12/27/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.kulturersatz.de/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Game over"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "40b272fc-6892-4e36-8130-c6d1243ee2bd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over", 
+        "Has end time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:Gamma Radiation Monitoring# 49346e6190c9cfcab2f083f5f1679902": {
         "Held in language": [
             "de - German", 
@@ -7245,6 +7343,53 @@
             {
                 "timestamp": "1545854400", 
                 "raw": "1/2018/12/26/20/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Get out of your Bubble!# f9d67bf61286bc258440e7d05576831b": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.manifestations.nl"
+        ], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Get out of your Bubble!"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "6483ae1a-1c78-4415-a68a-d472d540d6eb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Get_out_of_your_Bubble!", 
+        "Has end time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ]
     }, 
@@ -16035,6 +16180,53 @@
             {
                 "timestamp": "1546088400", 
                 "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Tontechnic 101# d1320d5524bd36bd0b0ee29921056d42": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tontechnic 101"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "38351efc-e172-49c3-9eb9-8932f7faa409"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
             }
         ]
     }, 
