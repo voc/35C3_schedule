@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.3 2018-12-26 19:50", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.4 2018-12-26 20:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5342,7 +5342,7 @@
                                 "attachments": []
                             }
                         ], 
-                        "Dome 1 #talks": [
+                        "Dome 3 #talks": [
                             {
                                 "id": 826, 
                                 "guid": "db12250b-7a4e-5673-8c60-eeb4abf20034", 
@@ -5350,7 +5350,7 @@
                                 "date": "2018-12-27T10:30:00+00:00", 
                                 "start": "10:30", 
                                 "duration": "01:00", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "GZVBSM", 
                                 "url": "https://talks.komona.org/35c3/talk/GZVBSM", 
                                 "title": "Back to the Congress with Back Training! Gegen die Verspannung!", 
@@ -5381,7 +5381,7 @@
                                 "date": "2018-12-27T14:00:00+00:00", 
                                 "start": "14:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "3BT8ZB", 
                                 "url": "https://talks.komona.org/35c3/talk/3BT8ZB", 
                                 "title": "Anarchistische Theorie I : Im Spannungsfeld gegen Hegemonie! - anarchistische Perspektive auf Hegemonietheorien", 
@@ -5412,7 +5412,7 @@
                                 "date": "2018-12-27T16:00:00+00:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "NJQUZZ", 
                                 "url": "https://talks.komona.org/35c3/talk/NJQUZZ", 
                                 "title": "voice and presence: how to be loud", 
@@ -5443,7 +5443,7 @@
                                 "date": "2018-12-27T18:00:00+00:00", 
                                 "start": "18:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "FRWFQE", 
                                 "url": "https://talks.komona.org/35c3/talk/FRWFQE", 
                                 "title": "Spontanistan", 
@@ -5474,7 +5474,7 @@
                                 "date": "2018-12-27T20:00:00+00:00", 
                                 "start": "20:00", 
                                 "duration": "00:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "JTZVBN", 
                                 "url": "https://talks.komona.org/35c3/talk/JTZVBN", 
                                 "title": "\u00dcber Musik schreiben ist wie zu Architektur tanzen - Perlen aus Bandbewerbungen und Poesie von Bookingagenturen", 
@@ -5499,7 +5499,7 @@
                                 "answers": []
                             }
                         ], 
-                        "Dome 3 #workshops #talks": [
+                        "Dome 1 #workshops #talks": [
                             {
                                 "id": 847, 
                                 "guid": "45365c5f-94af-59ca-800c-c27d0787ee9b", 
@@ -5507,7 +5507,7 @@
                                 "date": "2018-12-27T11:00:00+00:00", 
                                 "start": "11:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "8A3BU8", 
                                 "url": "https://talks.komona.org/35c3/talk/8A3BU8", 
                                 "title": "Letter writing to prisoners", 
@@ -5538,7 +5538,7 @@
                                 "date": "2018-12-27T12:30:00+00:00", 
                                 "start": "12:30", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "RZYGAU", 
                                 "url": "https://talks.komona.org/35c3/talk/RZYGAU", 
                                 "title": "Activisti Calendar", 
@@ -5569,7 +5569,7 @@
                                 "date": "2018-12-27T15:00:00+00:00", 
                                 "start": "15:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "8BKDXX", 
                                 "url": "https://talks.komona.org/35c3/talk/8BKDXX", 
                                 "title": "Ticketfrei - A sousveillance bot for avoiding ticket controllers on public transport", 
@@ -5600,7 +5600,7 @@
                                 "date": "2018-12-27T18:00:00+00:00", 
                                 "start": "18:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "PHFHSW", 
                                 "url": "https://talks.komona.org/35c3/talk/PHFHSW", 
                                 "title": "Cultural Protocols", 
@@ -10927,6 +10927,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 307, 
+                                "guid": "9ae3ed84-ba3e-5573-87f9-83c5210c1eb8", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "01:20", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "FUL8DG", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FUL8DG", 
+                                "title": "Weimarnetztreffen", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 80min", 
+                                "language": "de", 
+                                "abstract": "Communitytreffen des Weimarnetzes", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 94, 
+                                        "name": "Ren\u00e9 Hoffmann", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 251, 
                                 "guid": "072dc1fe-89cc-5387-8405-c7086b0f2687", 
                                 "logo": null, 
@@ -12421,7 +12452,7 @@
                                 "attachments": []
                             }
                         ], 
-                        "Dome 1 #talks": [
+                        "Dome 3 #talks": [
                             {
                                 "id": 829, 
                                 "guid": "14648c6b-e459-522c-bb22-570b2c01d252", 
@@ -12429,7 +12460,7 @@
                                 "date": "2018-12-28T10:30:00+00:00", 
                                 "start": "10:30", 
                                 "duration": "00:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "FA9KQX", 
                                 "url": "https://talks.komona.org/35c3/talk/FA9KQX", 
                                 "title": "Corrupt Yoga", 
@@ -12460,7 +12491,7 @@
                                 "date": "2018-12-28T12:30:00+00:00", 
                                 "start": "12:30", 
                                 "duration": "02:00", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "9MSDYV", 
                                 "url": "https://talks.komona.org/35c3/talk/9MSDYV", 
                                 "title": "Kreative Formen und Farben des Widerstands / Creative Forms and Colors of Resistance", 
@@ -12503,7 +12534,7 @@
                                 "date": "2018-12-28T14:30:00+00:00", 
                                 "start": "14:30", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "W3PXNH", 
                                 "url": "https://talks.komona.org/35c3/talk/W3PXNH", 
                                 "title": "Anarchistische Theorie II : (Anti-)Politik im Anarchismus", 
@@ -12534,7 +12565,7 @@
                                 "date": "2018-12-28T16:00:00+00:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "UA9LSS", 
                                 "url": "https://talks.komona.org/35c3/talk/UA9LSS", 
                                 "title": "Speaking in front of people", 
@@ -12565,7 +12596,7 @@
                                 "date": "2018-12-28T18:00:00+00:00", 
                                 "start": "18:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "PUY3F9", 
                                 "url": "https://talks.komona.org/35c3/talk/PUY3F9", 
                                 "title": "Framewars - Rahmungstheorien f\u00fcr Aktivistis", 
@@ -12596,7 +12627,7 @@
                                 "date": "2018-12-28T20:00:00+00:00", 
                                 "start": "20:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "7JQZCC", 
                                 "url": "https://talks.komona.org/35c3/talk/7JQZCC", 
                                 "title": "Autonomimimi - zum Autonomiebegriff der ausserparlamentarischen Linken", 
@@ -12621,7 +12652,7 @@
                                 "answers": []
                             }
                         ], 
-                        "Dome 3 #workshops #talks": [
+                        "Dome 1 #workshops #talks": [
                             {
                                 "id": 851, 
                                 "guid": "e36b7465-f7e5-51fc-826a-64d58ce17bf0", 
@@ -12629,7 +12660,7 @@
                                 "date": "2018-12-28T11:00:00+00:00", 
                                 "start": "11:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "JYKYBC", 
                                 "url": "https://talks.komona.org/35c3/talk/JYKYBC", 
                                 "title": "Letter writing to prisoners", 
@@ -12660,7 +12691,7 @@
                                 "date": "2018-12-28T12:30:00+00:00", 
                                 "start": "12:30", 
                                 "duration": "02:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "RBZZBQ", 
                                 "url": "https://talks.komona.org/35c3/talk/RBZZBQ", 
                                 "title": "Delta Chat App Intro and Hands-on Testing and Feedback Session", 
@@ -12691,7 +12722,7 @@
                                 "date": "2018-12-28T14:30:00+00:00", 
                                 "start": "14:30", 
                                 "duration": "00:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "V9C7JL", 
                                 "url": "https://talks.komona.org/35c3/talk/V9C7JL", 
                                 "title": "\"game-over\" Society", 
@@ -12722,7 +12753,7 @@
                                 "date": "2018-12-28T15:00:00+00:00", 
                                 "start": "15:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "K3FGVH", 
                                 "url": "https://talks.komona.org/35c3/talk/K3FGVH", 
                                 "title": "Books on (Community) Health and Collective Decision Making", 
@@ -12753,7 +12784,7 @@
                                 "date": "2018-12-28T17:00:00+00:00", 
                                 "start": "17:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "8K97H3", 
                                 "url": "https://talks.komona.org/35c3/talk/8K97H3", 
                                 "title": "Spontanistan", 
@@ -12784,7 +12815,7 @@
                                 "date": "2018-12-28T18:30:00+00:00", 
                                 "start": "18:30", 
                                 "duration": "03:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "EJPMBX", 
                                 "url": "https://talks.komona.org/35c3/talk/EJPMBX", 
                                 "title": "postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft", 
@@ -19812,7 +19843,7 @@
                                 "attachments": []
                             }
                         ], 
-                        "Dome 1 #talks": [
+                        "Dome 3 #talks": [
                             {
                                 "id": 828, 
                                 "guid": "4673b489-b6df-5aac-bb08-c6e1f61d8f29", 
@@ -19820,7 +19851,7 @@
                                 "date": "2018-12-29T10:30:00+00:00", 
                                 "start": "10:30", 
                                 "duration": "00:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "MEGCHS", 
                                 "url": "https://talks.komona.org/35c3/talk/MEGCHS", 
                                 "title": "Corrupt Yoga", 
@@ -19851,7 +19882,7 @@
                                 "date": "2018-12-29T14:00:00+00:00", 
                                 "start": "14:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "ZPPCME", 
                                 "url": "https://talks.komona.org/35c3/talk/ZPPCME", 
                                 "title": "Anarchistische Theorie III : Anarchistisches Denken in Paradoxien und Spannungsfeldern", 
@@ -19882,7 +19913,7 @@
                                 "date": "2018-12-29T16:00:00+00:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "BC9VKJ", 
                                 "url": "https://talks.komona.org/35c3/talk/BC9VKJ", 
                                 "title": "Rhetorics: how to touch with language", 
@@ -19913,7 +19944,7 @@
                                 "date": "2018-12-29T18:00:00+00:00", 
                                 "start": "18:00", 
                                 "duration": "02:00", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "GRYS3Q", 
                                 "url": "https://talks.komona.org/35c3/talk/GRYS3Q", 
                                 "title": "How to produce a Demo-Rave", 
@@ -19938,7 +19969,7 @@
                                 "answers": []
                             }
                         ], 
-                        "Dome 3 #workshops #talks": [
+                        "Dome 1 #workshops #talks": [
                             {
                                 "id": 850, 
                                 "guid": "047b080e-ec33-528d-9a87-252c08f245ca", 
@@ -19946,7 +19977,7 @@
                                 "date": "2018-12-29T11:00:00+00:00", 
                                 "start": "11:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "XSCLCE", 
                                 "url": "https://talks.komona.org/35c3/talk/XSCLCE", 
                                 "title": "Letter writing to prisoners", 
@@ -19977,7 +20008,7 @@
                                 "date": "2018-12-29T14:30:00+00:00", 
                                 "start": "14:30", 
                                 "duration": "00:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "RNRTSB", 
                                 "url": "https://talks.komona.org/35c3/talk/RNRTSB", 
                                 "title": "\"game-over\" Society", 
@@ -20008,7 +20039,7 @@
                                 "date": "2018-12-29T15:00:00+00:00", 
                                 "start": "15:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "ZYVSU3", 
                                 "url": "https://talks.komona.org/35c3/talk/ZYVSU3", 
                                 "title": "Widerstand gegen den AfD-Bundesparteitag in RIESA 2019", 
@@ -20039,7 +20070,7 @@
                                 "date": "2018-12-29T16:30:00+00:00", 
                                 "start": "16:30", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "KUUPYE", 
                                 "url": "https://talks.komona.org/35c3/talk/KUUPYE", 
                                 "title": "Spontanistan", 
@@ -20070,7 +20101,7 @@
                                 "date": "2018-12-29T18:00:00+00:00", 
                                 "start": "18:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "9GRP88", 
                                 "url": "https://talks.komona.org/35c3/talk/9GRP88", 
                                 "title": "Community Management online und offline", 
@@ -20101,7 +20132,7 @@
                                 "date": "2018-12-29T20:00:00+00:00", 
                                 "start": "20:00", 
                                 "duration": "02:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "GEEG9P", 
                                 "url": "https://talks.komona.org/35c3/talk/GEEG9P", 
                                 "title": "Club Culture, a Data Perspective", 
@@ -21116,6 +21147,36 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
+                                ]
+                            }
+                        ], 
+                        "Assembly:WikiPakaWG": [
+                            {
+                                "id": 1311, 
+                                "guid": "1431d298-338b-4385-9017-0e477621ab9c", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:WikiPakaWG", 
+                                "slug": "35c3-1311-session_squarelet_kooperativ_lernen_mit_open_source_pinboards", 
+                                "title": "Squarelet - Kooperativ lernen mit Open Source-Pinboards", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wir entwickeln squarelet.org, ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:NMarkus", 
+                                        "public_name": "NMarkus"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.squarelet.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Squarelet_-_Kooperativ_lernen_mit_Open_Source-Pinboards"
                                 ]
                             }
                         ], 
@@ -23297,7 +23358,7 @@
                                 "attachments": []
                             }
                         ], 
-                        "Dome 1 #talks": [
+                        "Dome 3 #talks": [
                             {
                                 "id": 842, 
                                 "guid": "434d261f-43c7-5839-8cd2-a7f931960f3f", 
@@ -23305,7 +23366,7 @@
                                 "date": "2018-12-30T14:00:00+00:00", 
                                 "start": "14:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "VTFTFQ", 
                                 "url": "https://talks.komona.org/35c3/talk/VTFTFQ", 
                                 "title": "Anarchistische Theorie IV : Subjekt - Widerstand - Emanzipation \u2013 anarchistische Subjekttheorie", 
@@ -23336,7 +23397,7 @@
                                 "date": "2018-12-30T16:00:00+00:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
-                                "room": "Dome 1 #talks", 
+                                "room": "Dome 3 #talks", 
                                 "slug": "BKZPKD", 
                                 "url": "https://talks.komona.org/35c3/talk/BKZPKD", 
                                 "title": "A*CHOIR", 
@@ -23361,7 +23422,7 @@
                                 "answers": []
                             }
                         ], 
-                        "Dome 3 #workshops #talks": [
+                        "Dome 1 #workshops #talks": [
                             {
                                 "id": 818, 
                                 "guid": "021a8962-889e-5e39-bb0f-da0ec0f302b2", 
@@ -23369,7 +23430,7 @@
                                 "date": "2018-12-30T01:00:00+00:00", 
                                 "start": "01:00", 
                                 "duration": "02:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "Z9LAV7", 
                                 "url": "https://talks.komona.org/35c3/talk/Z9LAV7", 
                                 "title": "#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 2", 
@@ -23400,7 +23461,7 @@
                                 "date": "2018-12-30T11:00:00+00:00", 
                                 "start": "11:00", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "9FRQQG", 
                                 "url": "https://talks.komona.org/35c3/talk/9FRQQG", 
                                 "title": "Letter writing to prisoners", 
@@ -23431,7 +23492,7 @@
                                 "date": "2018-12-30T12:00:00+00:00", 
                                 "start": "12:00", 
                                 "duration": "02:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "UCAQVZ", 
                                 "url": "https://talks.komona.org/35c3/talk/UCAQVZ", 
                                 "title": "#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 3", 
@@ -23462,7 +23523,7 @@
                                 "date": "2018-12-30T14:30:00+00:00", 
                                 "start": "14:30", 
                                 "duration": "01:30", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "EXZERE", 
                                 "url": "https://talks.komona.org/35c3/talk/EXZERE", 
                                 "title": "Transnational Networking for current Forms of Antifascism and Solidarity", 
@@ -23493,7 +23554,7 @@
                                 "date": "2018-12-30T16:30:00+00:00", 
                                 "start": "16:30", 
                                 "duration": "01:00", 
-                                "room": "Dome 3 #workshops #talks", 
+                                "room": "Dome 1 #workshops #talks", 
                                 "slug": "UE9PLG", 
                                 "url": "https://talks.komona.org/35c3/talk/UE9PLG", 
                                 "title": "Spontanistan", 
