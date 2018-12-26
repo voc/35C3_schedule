@@ -3589,6 +3589,61 @@
             }
         ]
     }, 
+    "Session:Calliope Workshop# abaa79a2a41df75eff50accea0ecf3fc": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545996600", 
+                "raw": "1/2018/12/28/11/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://calliope.cc"
+        ], 
+        "Has description": [
+            "Calliope Workshops f\u00fcr Kinder und Jugendliche"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Verstehbahnhof", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Verstehbahnhof", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop 01"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "37a10bdc-0edc-41c5-9443-7551e66fd428"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546000200", 
+                "raw": "1/2018/12/28/12/30/0/0"
+            }
+        ]
+    }, 
     "Session:Cartoon-Workshop: Trickmisch# 2902d5af91b72e7605ec27632b0adfc7": {
         "Held in language": [
             "de - German", 
