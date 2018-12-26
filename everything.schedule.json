@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:00", 
+        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2209,6 +2209,27 @@
                                 "links": [
                                     "https://b76.ch/9728", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest"
+                                ]
+                            }, 
+                            {
+                                "id": 1300, 
+                                "guid": "e6508d9e-9fac-474b-9df7-e1a3dccd591b", 
+                                "logo": null, 
+                                "date": "2018-12-27T09:30:00+01:00", 
+                                "start": "09:30", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1300-session_42birds_hitchhiker_s_towel_yoga", 
+                                "title": "42birds: Hitchhiker's Towel-Yoga", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We'll do some Yoga to calm our minds and move them bodies.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
                                 ]
                             }, 
                             {

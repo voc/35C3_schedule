@@ -487,6 +487,58 @@
             }
         ]
     }, 
+    "Session:42birds: Hitchhiker's Towel-Yoga# 0d7c6e7acd941bac9cae54a34a7f1ef5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545903000", 
+                "raw": "1/2018/12/27/9/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We'll do some Yoga to calm our minds and move them bodies."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "42birds: Hitchhiker's Towel-Yoga"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e6508d9e-9fac-474b-9df7-e1a3dccd591b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga", 
+        "Has end time": [
+            {
+                "timestamp": "1545906600", 
+                "raw": "1/2018/12/27/10/30/0/0"
+            }
+        ]
+    }, 
     "Session:42birds: Hitchhiker's Towel-Yoga# 4f3a4849872961e0831a9c1b3b8587e7": {
         "Held in language": [
             "de - German", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:00</version>
+  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3 2018-12-26 11:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2149,6 +2149,25 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://b76.ch/9728</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest</link>
+        </links>
+      </event>
+      <event id="1300" guid="e6508d9e-9fac-474b-9df7-e1a3dccd591b">
+        <logo/>
+        <date>2018-12-27T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1300-session_42birds_hitchhiker_s_towel_yoga</slug>
+        <title>42birds: Hitchhiker's Towel-Yoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We'll do some Yoga to calm our minds and move them bodies.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga</link>
         </links>
       </event>
       <event id="1167" guid="2775046b-959c-49eb-86f2-a97e0840da0a">
