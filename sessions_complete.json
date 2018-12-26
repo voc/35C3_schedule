@@ -11980,6 +11980,38 @@
             }
         ]
     }, 
+    "Session:Sign Language User Gathering# 1af25f8083b0672001c529a95082cd7d": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We want to meet and connect with sign language using humans."
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Sign Language User Gathering"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "f34ac605-a095-464c-a50d-62a93d04e269"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sign_Language_User_Gathering", 
+        "Has end time": []
+    }, 
     "Session:Sing- und Tanzspiele# 6cf4a4a4d620bdde33d651bb74ffaaa2": {
         "Held in language": [
             "de - German"
