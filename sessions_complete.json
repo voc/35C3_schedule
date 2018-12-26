@@ -4734,6 +4734,53 @@
             }
         ]
     }, 
+    "Session:DJ -- Laika Jona & Ixelonkoordinate# 8e6a456f450434def181690faa391dc9": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546038000", 
+                "raw": "1/2018/12/28/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Laika Jona & Ixelonkoordinate are experimental loving Djs for the interzones of sonic & sensory perception."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DJ -- Laika Jona & Ixelonkoordinate"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "06c425f4-62dd-44d9-9de6-7f066c8033b9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_Laika_Jona_%26_Ixelonkoordinate", 
+        "Has end time": [
+            {
+                "timestamp": "1546048800", 
+                "raw": "1/2018/12/29/2/0/0/0"
+            }
+        ]
+    }, 
     "Session:DJ -- popticumcrew# a983e699d353a1a57d51ab7bd576eb66": {
         "Held in language": [], 
         "Has start time": [
@@ -10156,7 +10203,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:JanHenrik", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:JanHenrik", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Moving Objects Selbsthilfegruppe"
         ], 

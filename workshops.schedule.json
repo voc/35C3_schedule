@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 21:50", 
+        "version": "2018-12-26 22:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2349,6 +2349,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Concert_--_Kosmosklang"
+                                ]
+                            }, 
+                            {
+                                "id": 1316, 
+                                "guid": "06c425f4-62dd-44d9-9de6-7f066c8033b9", 
+                                "logo": null, 
+                                "date": "2018-12-28T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "3:00", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1316-session_dj_laika_jona_ixelonkoordinate", 
+                                "title": "DJ -- Laika Jona & Ixelonkoordinate", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Laika Jona & Ixelonkoordinate are experimental loving Djs for the interzones of sonic & sensory perception.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_Laika_Jona_%26_Ixelonkoordinate"
                                 ]
                             }
                         ], 
