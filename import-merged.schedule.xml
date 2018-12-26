@@ -1,5 +1,5 @@
 <schedule>
-  <version>Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3</version>
+  <version>Emergency Room 3 1.6 v2.0 0.9 memoryrefresh 1.0.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3222,6 +3222,39 @@ All seine Podcasts: http://dampfnudel.net</biography>
           </person>
           <person id="7">
             <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="510" guid="22d77083-ceb3-50bd-b275-678ce3b22760">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>RRCVBW</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW</url>
+        <title>Datenpumpen-Hackathon #01</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract>Explore the Data-Pump and build new Wikidata requests to visualise Free Knowledge and connected data.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="8">
+            <name>John</name>
+            <biography/>
+          </person>
+          <person id="6">
+            <name>Lucas</name>
             <biography/>
           </person>
         </persons>
@@ -12079,7 +12112,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
-        <duration>01:00</duration>
+        <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>XRQNHR</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR</url>
@@ -12097,6 +12130,43 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <persons>
           <person id="6">
             <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="540" guid="da94b720-9118-513f-885e-3312c033dfd0">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>LEFJBC</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC</url>
+        <title>Squarelet - Kooperativ Lernen mit Open Source-Pinboards</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>de</language>
+        <abstract>Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard für kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns über eure Ideen und Anregungen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <name>Markus</name>
+            <biography/>
+          </person>
+          <person id="44">
+            <name>mavo</name>
+            <biography/>
+          </person>
+          <person id="45">
+            <name>Edgar</name>
             <biography/>
           </person>
         </persons>

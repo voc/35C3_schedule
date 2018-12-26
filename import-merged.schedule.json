@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Emergency Room 3 1.6 v2.0 0.8 memoryrefresh 1.0.3", 
+        "version": "Emergency Room 3 1.6 v2.0 0.9 memoryrefresh 1.0.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3111,6 +3111,43 @@
                                     {
                                         "id": 7, 
                                         "name": "Amir", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 510, 
+                                "guid": "22d77083-ceb3-50bd-b275-678ce3b22760", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "RRCVBW", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW", 
+                                "title": "Datenpumpen-Hackathon #01", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Gruppentischen", 
+                                "language": "de", 
+                                "abstract": "Explore the Data-Pump and build new Wikidata requests to visualise Free Knowledge and connected data.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 8, 
+                                        "name": "John", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 6, 
+                                        "name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11982,7 +12019,7 @@
                                 "logo": null, 
                                 "date": "2018-12-29T13:00:00+01:00", 
                                 "start": "13:00", 
-                                "duration": "01:00", 
+                                "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "XRQNHR", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR", 
@@ -11999,6 +12036,49 @@
                                     {
                                         "id": 6, 
                                         "name": "Lucas", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 540, 
+                                "guid": "da94b720-9118-513f-885e-3312c033dfd0", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "LEFJBC", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC", 
+                                "title": "Squarelet - Kooperativ Lernen mit Open Source-Pinboards", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Gruppentischen", 
+                                "language": "de", 
+                                "abstract": "Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 43, 
+                                        "name": "Markus", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 44, 
+                                        "name": "mavo", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 45, 
+                                        "name": "Edgar", 
                                         "biography": null, 
                                         "answers": []
                                     }
