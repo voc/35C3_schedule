@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-26 23:50", 
+        "version": "Firefly 3 1.6 v2.0.1 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-27 00:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -6397,6 +6397,29 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_popticumcrew"
+                                ]
+                            }
+                        ], 
+                        "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes": [
+                            {
+                                "id": 1329, 
+                                "guid": "8891de22-38ff-417c-93fd-9da2b7a7da3d", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes", 
+                                "slug": "35c3-1329-session_data_office_club_culture_and_urban_transformation_processes_opening_hours", 
+                                "title": "Data Office: Club Culture and Urban Transformation Processes - Opening Hours", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Office:_Club_Culture_and_Urban_Transformation_Processes_-_Opening_Hours"
                                 ]
                             }
                         ], 
@@ -13870,6 +13893,29 @@
                                 ]
                             }
                         ], 
+                        "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes": [
+                            {
+                                "id": 1327, 
+                                "guid": "eef92a8e-5e27-4b12-a63c-3e4ed721bcde", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes", 
+                                "slug": "35c3-1327-session_data_office_club_culture_and_urban_transformation_processes_opening_hours", 
+                                "title": "Data Office: Club Culture and Urban Transformation Processes - Opening Hours", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Office:_Club_Culture_and_Urban_Transformation_Processes_-_Opening_Hours"
+                                ]
+                            }
+                        ], 
                         "Assembly:FOSSASIA": [
                             {
                                 "id": 1202, 
@@ -21284,6 +21330,50 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_the_happiest_couple_on_earth_lonely"
+                                ]
+                            }
+                        ], 
+                        "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes": [
+                            {
+                                "id": 1328, 
+                                "guid": "b6bf9b60-91c3-58d3-bd51-d03bcda7fc5c", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "4:00", 
+                                "room": "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes", 
+                                "slug": "35c3-1328-session_data_office_club_culture_and_urban_transformation_processes_opening_hours", 
+                                "title": "Data Office: Club Culture and Urban Transformation Processes - Opening Hours", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Office:_Club_Culture_and_Urban_Transformation_Processes_-_Opening_Hours"
+                                ]
+                            }, 
+                            {
+                                "id": 1330, 
+                                "guid": "7d6fd4a8-2f9c-5c17-b305-060b84ebf7aa", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes", 
+                                "slug": "35c3-1330-session_data_office_club_culture_and_urban_transformation_processes_opening_hours", 
+                                "title": "Data Office: Club Culture and Urban Transformation Processes - Opening Hours", 
+                                "subtitle": "Workshop: Club Culture and Urban Transformation Processes (workshop is in 1Komona Workshop Dome 1 !!)", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Office:_Club_Culture_and_Urban_Transformation_Processes_-_Opening_Hours"
                                 ]
                             }
                         ], 
