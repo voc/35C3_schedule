@@ -3643,70 +3643,7 @@
             }
         ]
     }, 
-    "Session:Calliope Workshop# a5ea6556b72feff8fbb91c53402c3004": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545996600", 
-                "raw": "1/2018/12/28/11/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://calliope.cc"
-        ], 
-        "Has description": [
-            "Calliope Workshops f\u00fcr Kinder und Jugendliche"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Calliope Workshop 01"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Dermicha", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Calliope Workshop"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "37a10bdc-0edc-41c5-9443-7551e66fd428"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop", 
-        "Has end time": [
-            {
-                "timestamp": "1546000200", 
-                "raw": "1/2018/12/28/12/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Calliope Workshop# d61ff2c8c83ae0b63c80c4bcc1dd26df": {
+    "Session:Calliope Workshop# 4c2bce05056614f58a24a55df7e2a2f0": {
         "Held in language": [
             "de - German"
         ], 
@@ -3738,7 +3675,7 @@
             }
         ], 
         "Has subtitle": [
-            "Calliope Workshop 02"
+            "Calliope Workshop \"Heisser Draht\""
         ], 
         "Is organized by": [
             {
@@ -3766,6 +3703,132 @@
             {
                 "timestamp": "1546009200", 
                 "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Calliope Workshop# 537ea4a6960b4b9b8c013fa562e36497": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545915600", 
+                "raw": "1/2018/12/27/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://calliope.cc"
+        ], 
+        "Has description": [
+            "Calliope Workshops f\u00fcr Kinder und Jugendliche"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Verstehbahnhof", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Verstehbahnhof", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop Fischer Technik"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dermicha", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "6c97a8b7-6b7d-4688-b39e-1655d709ba92"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1545921000", 
+                "raw": "1/2018/12/27/14/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Calliope Workshop# 6e779b4cfc9a51612a7c4d5d6525962f": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545996600", 
+                "raw": "1/2018/12/28/11/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://calliope.cc"
+        ], 
+        "Has description": [
+            "Calliope Workshops f\u00fcr Kinder und Jugendliche"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:C-base", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Calliope Workshop Basics"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Dermicha", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Dermicha", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Calliope Workshop"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "37a10bdc-0edc-41c5-9443-7551e66fd428"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop", 
+        "Has end time": [
+            {
+                "timestamp": "1546000200", 
+                "raw": "1/2018/12/28/12/30/0/0"
             }
         ]
     }, 
