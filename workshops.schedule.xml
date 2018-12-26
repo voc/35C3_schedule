@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-26 00:50</version>
+  <version>2018-12-26 02:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -634,6 +634,27 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1286" guid="e88de346-502e-4fdb-895c-eddb084edcd7">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1286-session_sing_und_tanzspiele</slug>
+        <title>Sing- und Tanzspiele</title>
+        <subtitle>Sing- und Tanzspiele</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sing- und Tanzspiele für Kinder von "kann selber laufen" bis 4 Jahre</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tanja">Tanja</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sing-_und_Tanzspiele</link>
         </links>
       </event>
       <event id="1224" guid="b0e9f5ed-6e77-45d6-a620-3990afb1ba16">
@@ -1625,6 +1646,27 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1285" guid="8b600241-3377-459d-a68e-dd93de41b433">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1285-session_sing_und_tanzspiele</slug>
+        <title>Sing- und Tanzspiele</title>
+        <subtitle>Sing- und Tanzspiele</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sing- und Tanzspiele für Kinder von "kann selber laufen" bis 4 Jahre</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tanja">Tanja</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sing-_und_Tanzspiele</link>
         </links>
       </event>
       <event id="1225" guid="8f8681c6-def3-5ffa-b418-7bbb6f513ff4">
@@ -2808,6 +2850,27 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
         </links>
       </event>
+      <event id="1287" guid="7e4ba3f5-f529-55a4-8a31-029172435dde">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1287-session_sing_und_tanzspiele</slug>
+        <title>Sing- und Tanzspiele</title>
+        <subtitle>Sing- und Tanzspiele</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sing- und Tanzspiele für Kinder von "kann selber laufen" bis 4 Jahre</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tanja">Tanja</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sing-_und_Tanzspiele</link>
+        </links>
+      </event>
       <event id="1223" guid="7cb15742-b7c4-498a-a394-0223bddee795">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -3579,7 +3642,29 @@
       </event>
     </room>
     <room name="ChaosZone"/>
-    <room name="Kidspace"/>
+    <room name="Kidspace">
+      <event id="1288" guid="83cabb3e-f302-5a5c-bd2b-40e8dce308f3">
+        <logo/>
+        <date>2018-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1288-session_sing_und_tanzspiele</slug>
+        <title>Sing- und Tanzspiele</title>
+        <subtitle>Sing- und Tanzspiele</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Sing- und Tanzspiele für Kinder von "kann selber laufen" bis 4 Jahre</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tanja">Tanja</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sing-_und_Tanzspiele</link>
+        </links>
+      </event>
+    </room>
     <room name="Lecture room M1">
       <event id="1036" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
         <logo/>
