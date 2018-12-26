@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 18:30", 
+        "version": "Firefly 3 1.6 v2.0 0.9 memoryrefresh 1.0.3 2018-12-26 18:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -12186,6 +12186,28 @@
                                 "links": [
                                     "https://freiheitsfoo.de/2018/12/14/horst-herold-ist-tot/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte"
+                                ]
+                            }, 
+                            {
+                                "id": 1310, 
+                                "guid": "57cfb71e-5c02-4f33-8742-6a9176c6f8f4", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "35c3-1310-session_makey_makey_fuer_kids_bastel_einen_eigenen_controller_und_steuere_programme_damit", 
+                                "title": "Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Makey-Makey_f%C3%BCr_Kids_-_Bastel_einen_eigenen_Controller_und_steuere_Programme_damit"
                                 ]
                             }, 
                             {
