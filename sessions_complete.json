@@ -6739,6 +6739,53 @@
             }
         ]
     }, 
+    "Session:Film -- Kabel# b39d4c6a9f74ee69eb9756327f6d9aa1": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Als Kabel wird ein mit Isolierstoffen umman- telter Verbund von Adern bezeichnet."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Kabel"
+        ], 
+        "Has duration": [
+            7
+        ], 
+        "GUID": [
+            "c31c678a-7801-44c6-801e-e2c796685562"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel", 
+        "Has end time": [
+            {
+                "timestamp": "1545941220", 
+                "raw": "1/2018/12/27/20/7/0/0"
+            }
+        ]
+    }, 
     "Session:Follow-up meeting to the Netzpolitik in der Schweiz talk# 065b4243472c37f03d871c2673050497": {
         "Held in language": [], 
         "Has start time": [

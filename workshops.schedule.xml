@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 00:10</version>
+  <version>2018-12-27 00:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1204,6 +1204,25 @@
       </event>
     </room>
     <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1331" guid="c31c678a-7801-44c6-801e-e2c796685562">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:07</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1331-session_film_kabel</slug>
+        <title>Film -- Kabel</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Als Kabel wird ein mit Isolierstoffen umman- telter Verbund von Adern bezeichnet.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel</link>
+        </links>
+      </event>
       <event id="1323" guid="40b272fc-6892-4e36-8130-c6d1243ee2bd">
         <logo/>
         <date>2018-12-27T19:00:00+01:00</date>
