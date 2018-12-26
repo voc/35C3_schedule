@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-26 04:10", 
+        "version": "2018-12-26 06:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -118,29 +118,6 @@
                         "CCL Saal 3": [], 
                         "Chaos West B\u00fchne": [], 
                         "Seminar room 14-15": [
-                            {
-                                "id": 1012, 
-                                "guid": "dd8c40c5-e24b-4246-bc6a-014b6f392949", 
-                                "logo": null, 
-                                "date": "2018-12-26T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "3:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1012-session_arm_rop_exploitation_intro", 
-                                "title": "ARM ROP Exploitation Intro", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Exploiting stack based buffer overflows using ROP on ARM", 
-                                "persons": [], 
-                                "links": [
-                                    "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
-                                    "https://blog.3or.de//35c3", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro"
-                                ]
-                            }, 
                             {
                                 "id": 1062, 
                                 "guid": "7f0ea54b-63b3-463a-bc68-35780a206f85", 
@@ -841,6 +818,29 @@
                             }
                         ], 
                         "Lecture room M1": [
+                            {
+                                "id": 1012, 
+                                "guid": "dd8c40c5-e24b-4246-bc6a-014b6f392949", 
+                                "logo": null, 
+                                "date": "2018-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1012-session_arm_rop_exploitation_intro", 
+                                "title": "ARM ROP Exploitation Intro", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Exploiting stack based buffer overflows using ROP on ARM", 
+                                "persons": [], 
+                                "links": [
+                                    "https://blog.3or.de/arm-exploitation-return-oriented-programming.html", 
+                                    "https://blog.3or.de//35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro"
+                                ]
+                            }, 
                             {
                                 "id": 1029, 
                                 "guid": "f4828a36-375f-4136-bfe2-2e3cf1cedf00", 

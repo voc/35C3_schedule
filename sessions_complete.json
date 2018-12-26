@@ -957,15 +957,15 @@
             }
         ]
     }, 
-    "Session:ARM ROP Exploitation Intro# da5589d3c99db9e08fa22411df8a32ff": {
+    "Session:ARM ROP Exploitation Intro# a486c000ba4738f8c05887af029b09df": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545832800", 
-                "raw": "1/2018/12/26/14/0/0/0"
+                "timestamp": "1545912000", 
+                "raw": "1/2018/12/27/12/0/0/0"
             }
         ], 
         "Has event track": [
@@ -983,8 +983,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -1007,8 +1007,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ARM_ROP_Exploitation_Intro", 
         "Has end time": [
             {
-                "timestamp": "1545843600", 
-                "raw": "1/2018/12/26/17/0/0/0"
+                "timestamp": "1545922800", 
+                "raw": "1/2018/12/27/15/0/0/0"
             }
         ]
     }, 
