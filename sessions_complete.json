@@ -6506,6 +6506,41 @@
             }
         ]
     }, 
+    "Session:Electric cars, use it, hack it, talk about it# 65fe7a6f80f0e7ae606a1f7a24685be5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Let talk about electric cars - computers on wheels."
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Electric cars, use it, hack it, talk about it"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "a2065223-8e67-4f51-bde5-7f17f36866db"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it", 
+        "Has end time": []
+    }, 
     "Session:Elektrobastelei - electric tinkering# 78ef4574b0553166eede5a114b4f7dfa": {
         "Held in language": [
             "de - German", 
@@ -12695,6 +12730,63 @@
             {
                 "timestamp": "1546000200", 
                 "raw": "1/2018/12/28/12/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Moin-Orga Treffen# a9ff115070e28ee1fd2040d15b75a5ea": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Ein Treffen der Moin Assemblies"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Fpfle", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Moin-Orga Treffen"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "75f11480-2829-41b8-9e50-5b70ddf37497"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moin-Orga_Treffen", 
+        "Has end time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
             }
         ]
     }, 

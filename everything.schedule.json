@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:00", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -15587,6 +15587,35 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                ]
+                            }
+                        ], 
+                        "Assembly:MOiN - Mehrere Orte im Norden": [
+                            {
+                                "id": 1385, 
+                                "guid": "75f11480-2829-41b8-9e50-5b70ddf37497", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
+                                "slug": "35c3-1385-session_moin_orga_treffen", 
+                                "title": "Moin-Orga Treffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Ein Treffen der Moin Assemblies", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle", 
+                                        "public_name": "Fpfle"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moin-Orga_Treffen"
                                 ]
                             }
                         ], 
