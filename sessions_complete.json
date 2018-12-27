@@ -10309,6 +10309,59 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller", 
         "Has end time": []
     }, 
+    "Session:Inter/dependence: the game# 939a81316648363137f1605fa944ef2b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://playtime.pem.org/interde-pen-dence-a-game-round-1/"
+        ], 
+        "Has description": [
+            "Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists\u2019 shared interests in mutualism, agency, and artists\u2019 roles. Let\u2019s play"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Kuppel 3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Komona_Kuppel_3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Inter/dependence: the game"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ]
+    }, 
     "Session:Introduction into anarchism# 36b5ca65fcd2732f13dbcc66745f1b9f": {
         "Held in language": [
             "en - English"
@@ -10357,6 +10410,59 @@
             {
                 "timestamp": "1546030800", 
                 "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Introduction to Qubes OS# d0160fdaeb42add2ddc58bf087932dce": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546118100", 
+                "raw": "1/2018/12/29/21/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.qubes-os.org/"
+        ], 
+        "Has description": [
+            "Introduction of Qubes OS, for beginners to intermediates"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Introduction to Qubes OS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "eb8a682b-106c-4bb1-94ce-9f200b3cae02"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Qubes_OS", 
+        "Has end time": [
+            {
+                "timestamp": "1546121700", 
+                "raw": "1/2018/12/29/22/15/0/0"
             }
         ]
     }, 
@@ -12681,7 +12787,7 @@
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# f783c7f477a74d6a9a1025c44abe6514": {
+    "Session:Memorizing pi for fun (not for profit)# e8fb81ebf36e67b2bc7aa1a1624e43e3": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -12712,7 +12818,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day 2"
+            "Day 2 (NONSTANDARD LOCATION: IN FRONT OF HALL 3. NOT AT THE ASSEMBLY)"
         ], 
         "Is organized by": [
             {
@@ -14256,6 +14362,210 @@
             }
         ]
     }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 0f949d4d937474059c748f6ca333e69b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545937200", 
+                "raw": "1/2018/12/27/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "cc9ac7f2-01e6-41d6-8d83-92afd5989f51"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1545942600", 
+                "raw": "1/2018/12/27/20/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 5a4be810e45afdd753250454691d1d7a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 82df2cfef04829b55aac73921589e5ff": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546183800", 
+                "raw": "1/2018/12/30/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 96fedcc42ac466ba9dd99d9f570a770a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546011000", 
+                "raw": "1/2018/12/28/15/30/0/0"
+            }
+        ]
+    }, 
     "Session:Poetry Slam Workshop# 8876e466110c2bf4206b1811f743d648": {
         "Held in language": [
             "de - German"
@@ -15101,114 +15411,6 @@
             {
                 "timestamp": "1545930000", 
                 "raw": "1/2018/12/27/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen# 536ff3edbbe857efef3a7b5b6c1db10c": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546009200", 
-                "raw": "1/2018/12/28/15/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://35c3.fahrgemeinschaft.de"
-        ], 
-        "Has description": [
-            "We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "d9c04136-498a-4816-a9fb-80473a5139d6"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ride_Sharing,_Mitfahren,_Fahrgemeinschaften,_Trampen", 
-        "Has end time": [
-            {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen# 9a30f049453203417a8b6489ab18d0b2": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546095600", 
-                "raw": "1/2018/12/29/15/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://35c3.fahrgemeinschaft.de"
-        ], 
-        "Has description": [
-            "We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:C-base", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:C-base", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "8eeafa93-3a3b-4096-abc3-e29c24d2c012"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ride_Sharing,_Mitfahren,_Fahrgemeinschaften,_Trampen", 
-        "Has end time": [
-            {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
             }
         ]
     }, 
