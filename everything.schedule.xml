@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:20</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5897,7 +5897,9 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <language>de</language>
         <abstract/>
         <description>Burner Meetup at Discodrama Bar</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Datenpate">Datenpate</person>
+        </persons>
         <links>
           <link>https://www.facebook.com/events/362983914470336</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Burner_Meetup</link>
@@ -13981,6 +13983,26 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Calliope_Workshop</link>
         </links>
       </event>
+      <event id="1362" guid="d9c04136-498a-4816-a9fb-80473a5139d6">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C-base</room>
+        <slug>35c3-1362-session_ride_sharing_mitfahren_fahrgemeinschaften_trampen</slug>
+        <title>Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.</description>
+        <persons/>
+        <links>
+          <link>http://35c3.fahrgemeinschaft.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ride_Sharing,_Mitfahren,_Fahrgemeinschaften,_Trampen</link>
+        </links>
+      </event>
     </room>
     <room name="Popticum Art-and-Play">
       <event id="1312" guid="7714f71a-5a2b-4313-a22a-fac171387a53">
@@ -21802,6 +21824,28 @@ Freifunk since 2003</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:C-base">
+      <event id="1363" guid="8eeafa93-3a3b-4096-abc3-e29c24d2c012">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:C-base</room>
+        <slug>35c3-1363-session_ride_sharing_mitfahren_fahrgemeinschaften_trampen</slug>
+        <title>Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.</description>
+        <persons/>
+        <links>
+          <link>http://35c3.fahrgemeinschaft.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ride_Sharing,_Mitfahren,_Fahrgemeinschaften,_Trampen</link>
         </links>
       </event>
     </room>
