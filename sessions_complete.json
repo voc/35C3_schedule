@@ -5943,7 +5943,7 @@
             }
         ]
     }, 
-    "Session:DeNation - Ein social fiction game# d7f1246e2a416006a300066de7c08722": {
+    "Session:DeNation - Ein social fiction game# 7831b1a907a185523a7c986a1e5e87ed": {
         "Held in language": [
             "de - German"
         ], 
@@ -5960,7 +5960,7 @@
             "http://futurewithplay.de"
         ], 
         "Has description": [
-            "Ein Spiel, in dem neue Micronationen entworfen werden"
+            "play the game - building temporary micronations at 35c3 (english & deutsch)"
         ], 
         "Has session type": [
             "Game"
@@ -5974,7 +5974,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "play the game - building temporary micronations at 35c3"
+        ], 
         "Is organized by": [
             {
                 "fulltext": "User:Frauhue", 
@@ -6560,15 +6562,15 @@
             }
         ]
     }, 
-    "Session:Electric cars, use it, hack it, talk about it# 65fe7a6f80f0e7ae606a1f7a24685be5": {
+    "Session:Electric cars, use it, hack it, talk about it# b95bce835a5f03da13ac1cf2934b112b": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546011000", 
+                "raw": "1/2018/12/28/15/30/0/0"
             }
         ], 
         "Has event track": [
@@ -6585,7 +6587,9 @@
         "Has title": [
             "Electric cars, use it, hack it, talk about it"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
             "a2065223-8e67-4f51-bde5-7f17f36866db"
         ], 
@@ -6593,7 +6597,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546014600", 
+                "raw": "1/2018/12/28/16/30/0/0"
+            }
+        ]
     }, 
     "Session:Elektrobastelei - electric tinkering# 78ef4574b0553166eede5a114b4f7dfa": {
         "Held in language": [
@@ -8380,6 +8389,50 @@
             {
                 "timestamp": "1545942120", 
                 "raw": "1/2018/12/27/20/22/0/0"
+            }
+        ]
+    }, 
+    "Session:Flunkyball Day 1# 56b73bad5115eaab432e1f8d764fe43e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545952500", 
+                "raw": "1/2018/12/27/23/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We're going to play some rounds of the german drinking game \"Flunkyball\""
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Flunkyball Day 1"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "6df19143-7941-4961-bd5c-e305efa3c2db"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_1", 
+        "Has end time": [
+            {
+                "timestamp": "1545955200", 
+                "raw": "1/2018/12/28/0/0/0/0"
             }
         ]
     }, 
@@ -14413,6 +14466,57 @@
             }
         ]
     }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 455e2f932fcc03fe2fe74d6981f19424": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545951600", 
+                "raw": "1/2018/12/27/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "ae31b8cc-c2ea-4a7b-8aed-304a6020375b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1545957000", 
+                "raw": "1/2018/12/28/0/30/0/0"
+            }
+        ]
+    }, 
     "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 5a4be810e45afdd753250454691d1d7a": {
         "Held in language": [
             "en - English"
@@ -14563,6 +14667,57 @@
             {
                 "timestamp": "1546011000", 
                 "raw": "1/2018/12/28/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# a79be9e8db450b18060efce31d44803e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "ae31b8cc-c2ea-4a7b-8aed-304a6020375b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1545949800", 
+                "raw": "1/2018/12/27/22/30/0/0"
             }
         ]
     }, 

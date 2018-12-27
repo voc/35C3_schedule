@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
+        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -7433,37 +7433,6 @@
                         ], 
                         "OIO Vortrags-Arena": [
                             {
-                                "id": 301, 
-                                "guid": "0baf6d5c-aea9-5a68-b02d-fa820c81010c", 
-                                "logo": null, 
-                                "date": "2018-12-28T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "02:00", 
-                                "room": "OIO Vortrags-Arena", 
-                                "slug": "3CZK9Y", 
-                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y", 
-                                "title": "Solidarity at Sea", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Movie with Q&A", 
-                                "language": "en", 
-                                "abstract": "Documentation and Q&A with crew members of Juventa and other SAR ships", 
-                                "description": "Documentation and Q&A with crew members of Juventa and other SAR ships", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 91, 
-                                        "name": "Solidarity at Sea", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 303, 
                                 "guid": "ae80ba34-8a38-566f-bf6e-506a525f7a96", 
                                 "logo": null, 
@@ -12976,6 +12945,37 @@
                                         "id": 89, 
                                         "name": "Erik Albers", 
                                         "biography": "Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 233, 
+                                "guid": "465d4b06-089c-571d-af98-5d3c87cf53a3", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "00:20", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "FS7D9L", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FS7D9L", 
+                                "title": "Vom eingestaubten Teleskop zum High Tech Lieblingsteleskop", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk 20min total (etwa 5min  Q&A)", 
+                                "language": "de", 
+                                "abstract": "3D-gedruckte Open Source GOTO Steuerung f\u00fcr 0815 Billig Teleskope, oder wer es lieber wissenschaftlich mag die bt\u00b3s Open Source und Open Hardware Steuerung zum nachbauen", 
+                                "description": "Open Hardware GOTO Steuerung f\u00fcr Low Budget Teleskope selber bauen. Erfahrungsbericht und Live Demonstration.\r\n\r\nVorstellen der 3D gedruckten Open Hardware GOTO Steuerung f\u00fcr Teleskope (Entwickelt von Roman Hujer).\r\n\r\nTechnische Details zur Hardware sowie Quellen Empfehlungen zum Nachbau. Konfiguration vorstellen f\u00fcr die GOTO Steuerung (Firmware) und Schnittstellen Konfiguration in Stellarium.\r\n\r\nStellarium Konfiguration detailliert f\u00fcr GOTO Steuerung, GPS Daten via GPS/Glonas USB Stick einpflegen und Sternen und Satelliten Datenbank Repositories aktivieren und erweitern.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 28, 
+                                        "name": "h3rb3rn", 
+                                        "biography": "https://hackover.de/fahrplan/speakers/3958.html", 
                                         "answers": []
                                     }
                                 ], 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8</version>
+  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7541,35 +7541,6 @@ ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, der
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
-      <event id="301" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
-        <logo/>
-        <date>2018-12-28T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>02:00</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>3CZK9Y</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y</url>
-        <title>Solidarity at Sea</title>
-        <subtitle/>
-        <track/>
-        <type>Movie with Q&amp;A</type>
-        <language>en</language>
-        <abstract>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</abstract>
-        <description>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="91">
-            <name>Solidarity at Sea</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="303" guid="ae80ba34-8a38-566f-bf6e-506a525f7a96">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
@@ -13031,6 +13002,41 @@ Unfortunately, F-Droid misses any kind of rating system, so the sheer amount of 
           <person id="89">
             <name>Erik Albers</name>
             <biography>Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="233" guid="465d4b06-089c-571d-af98-5d3c87cf53a3">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>FS7D9L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FS7D9L</url>
+        <title>Vom eingestaubten Teleskop zum High Tech Lieblingsteleskop</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>3D-gedruckte Open Source GOTO Steuerung für 0815 Billig Teleskope, oder wer es lieber wissenschaftlich mag die bt³s Open Source und Open Hardware Steuerung zum nachbauen</abstract>
+        <description>Open Hardware GOTO Steuerung für Low Budget Teleskope selber bauen. Erfahrungsbericht und Live Demonstration.&#13;
+&#13;
+Vorstellen der 3D gedruckten Open Hardware GOTO Steuerung für Teleskope (Entwickelt von Roman Hujer).&#13;
+&#13;
+Technische Details zur Hardware sowie Quellen Empfehlungen zum Nachbau. Konfiguration vorstellen für die GOTO Steuerung (Firmware) und Schnittstellen Konfiguration in Stellarium.&#13;
+&#13;
+Stellarium Konfiguration detailliert für GOTO Steuerung, GPS Daten via GPS/Glonas USB Stick einpflegen und Sternen und Satelliten Datenbank Repositories aktivieren und erweitern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>h3rb3rn</name>
+            <biography>https://hackover.de/fahrplan/speakers/3958.html</biography>
           </person>
         </persons>
         <links/>

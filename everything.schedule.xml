@@ -1,5 +1,5 @@
 <schedule>
-  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 18:20</version>
+  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 18:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6071,6 +6071,25 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Aus_den_Tr%C3%BCmmern_das_Paradies</link>
         </links>
       </event>
+      <event id="1398" guid="6df19143-7941-4961-bd5c-e305efa3c2db">
+        <logo/>
+        <date>2018-12-27T23:15:00+01:00</date>
+        <start>23:15</start>
+        <duration>0:45</duration>
+        <room/>
+        <slug>35c3-1398-session_flunkyball_day_1</slug>
+        <title>Flunkyball Day 1</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>We're going to play some rounds of the german drinking game "Flunkyball"</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_1</link>
+        </links>
+      </event>
       <event id="1185" guid="b9ce1290-9bca-4b52-8465-3a8a4d635522">
         <logo/>
         <date>2018-12-28T00:30:00+01:00</date>
@@ -7038,6 +7057,46 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <duration>1:30</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
         <slug>35c3-1393-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1399" guid="ae31b8cc-c2ea-4a7b-8aed-304a6020375b">
+        <logo/>
+        <date>2018-12-27T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1399-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1400" guid="ef5f7ac2-a19e-5610-b736-0e85c3a7e5a7">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1400-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
         <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -11022,35 +11081,6 @@ ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, der
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
-      <event id="301" guid="0baf6d5c-aea9-5a68-b02d-fa820c81010c">
-        <logo/>
-        <date>2018-12-28T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>02:00</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>3CZK9Y</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3CZK9Y</url>
-        <title>Solidarity at Sea</title>
-        <subtitle/>
-        <track/>
-        <type>Movie with Q&amp;A</type>
-        <language>en</language>
-        <abstract>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</abstract>
-        <description>Documentation and Q&amp;A with crew members of Juventa and other SAR ships</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="91">
-            <name>Solidarity at Sea</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="303" guid="ae80ba34-8a38-566f-bf6e-506a525f7a96">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
@@ -13667,6 +13697,25 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
+        </links>
+      </event>
+      <event id="1397" guid="a2065223-8e67-4f51-bde5-7f17f36866db">
+        <logo/>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1397-session_electric_cars_use_it_hack_it_talk_about_it</slug>
+        <title>Electric cars, use it, hack it, talk about it</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Let talk about electric cars - computers on wheels.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it</link>
         </links>
       </event>
       <event id="1190" guid="2708d339-0653-4648-bae1-0f2ec8d42811">
@@ -19249,6 +19298,41 @@ Unfortunately, F-Droid misses any kind of rating system, so the sheer amount of 
           <person id="89">
             <name>Erik Albers</name>
             <biography>Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="233" guid="465d4b06-089c-571d-af98-5d3c87cf53a3">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>FS7D9L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FS7D9L</url>
+        <title>Vom eingestaubten Teleskop zum High Tech Lieblingsteleskop</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>3D-gedruckte Open Source GOTO Steuerung für 0815 Billig Teleskope, oder wer es lieber wissenschaftlich mag die bt³s Open Source und Open Hardware Steuerung zum nachbauen</abstract>
+        <description>Open Hardware GOTO Steuerung für Low Budget Teleskope selber bauen. Erfahrungsbericht und Live Demonstration.&#13;
+&#13;
+Vorstellen der 3D gedruckten Open Hardware GOTO Steuerung für Teleskope (Entwickelt von Roman Hujer).&#13;
+&#13;
+Technische Details zur Hardware sowie Quellen Empfehlungen zum Nachbau. Konfiguration vorstellen für die GOTO Steuerung (Firmware) und Schnittstellen Konfiguration in Stellarium.&#13;
+&#13;
+Stellarium Konfiguration detailliert für GOTO Steuerung, GPS Daten via GPS/Glonas USB Stick einpflegen und Sternen und Satelliten Datenbank Repositories aktivieren und erweitern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>h3rb3rn</name>
+            <biography>https://hackover.de/fahrplan/speakers/3958.html</biography>
           </person>
         </persons>
         <links/>
