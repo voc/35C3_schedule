@@ -1,5 +1,5 @@
 <schedule>
-  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 20:10</version>
+  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 20:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11435,6 +11435,57 @@ This talk is for people not yet familiar with Nextcloud!</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="312" guid="b4fdd0df-1969-5b9e-9bf1-277eb1411d6b">
+        <logo/>
+        <date>2018-12-28T22:45:00+01:00</date>
+        <start>22:45</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>DAN8AX</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/DAN8AX</url>
+        <title>Wifi4EU - broken by technical specification</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>With the Wifi4EU programm the EU is planning to spend 100 million € by 2020 to subsidise a centralized surveillance infrastructure for centers of public life in the EU. The talk will lay out how Wifi4EU is supposed to work both administratively and technically, where there are problems with the later and what is and can be done about it.&#13;
+&#13;
+Slides: https://zenodo.org/record/2527538#.XCUXplxKjIU</abstract>
+        <description>With the Wifi4EU programm [1] the EU is planning to subsidies the installation of free Wi-Fi with 120 million € until 2020. The installations are planned to be "... free of charge, free of advertising and free from commercial re-use of data. ..." [2] and aim "... to equip every European village and every city with free wireless internet access around the main centres of public life. ..." [1]&#13;
+&#13;
+Unfortunately the technical specifications implemented in the first call on the 7th - 9th of November [3] tell a different story. So far 42 Million € are planned to be spend in a flawed design.&#13;
+&#13;
+Amongst other problems they include:&#13;
+&#13;
+* requirements for a centralized authentification infrastructure - like eduroam [4] (FAQ 23),&#13;
+* inherent IT security problems - embedded snippets in the captive portals [4] (FAQ 26) and&#13;
+* proprietary standards - hotspot 2.0. [4] (FAQ 27)&#13;
+&#13;
+Following a talk at the wireless community weekend in May this year [5] the talk will include:&#13;
+&#13;
+* a short introduction to the programm,&#13;
+* how it came to be,&#13;
+* what happend so far&#13;
+* the implications of the programm&#13;
+* what can be done to fix things.&#13;
+&#13;
+Besides contacting the european comission, several members of the european parlament and Klaus Landefeld of the eco [6] we were able to get members of the german Bundestag to get interested in the issue [7]. This led to a "schriftliche Anfrage" towards the Bundesregierung regarding the GDPR compliance of the authentification infrastructure, the situation is currently evolving.&#13;
+&#13;
+The talk aims to inform about the current state of affairs and hoefully foster a discussion during the congress what can and should be done to prohibit the creation of yet another surveillance infrastructure and what a desirable public Wi-Fi infrastructure should look like.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <name>Gregor Bransky</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Workshop-Domo">
       <event id="288" guid="c225c6dc-8f35-50e7-b4b1-f83f2022577d">
@@ -19110,6 +19161,42 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
+      <event id="313" guid="8b2ce950-136c-53a5-89ff-7acde44faca2">
+        <logo/>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>00:40</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>GYT733</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733</url>
+        <title>9DoorsOpen - audiivisueller 35min Trip</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>10 Jahre Schaffensphase, 20.000.000 Fotodateien, &#13;
+9 Doors Open ist ein künstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.</abstract>
+        <description>Für Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung&#13;
+&#13;
+Andreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die Möglichkeit, die uns bekannte Realität in vielfälltigsten Formen neu zu entdecken.&#13;
+&#13;
+Am 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Aufführung statt.&#13;
+&#13;
+Hier auf dem CCC schon vorab.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">
+            <name>Andreas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="306" guid="83cb47b2-23fd-5a97-a82f-053469f31640">
         <logo/>
         <date>2018-12-29T11:00:00+01:00</date>
@@ -22742,6 +22829,26 @@ Freifunk since 2003</biography>
         <links>
           <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
+        </links>
+      </event>
+      <event id="1406" guid="2ed3e99b-99d6-4379-991b-0aab2de638fe">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Komona Kuppel 3</room>
+        <slug>35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt</slug>
+        <title>Update für die Fahrradwege deiner Stadt</title>
+        <subtitle>Wie organisiert man einen Radentscheid?</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</description>
+        <persons/>
+        <links>
+          <link>https://radentscheid-darmstadt.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</link>
         </links>
       </event>
     </room>

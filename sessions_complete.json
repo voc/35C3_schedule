@@ -13614,6 +13614,40 @@
             }
         ]
     }, 
+    "Session:Nibbleklammer - Nibble Peg# 65a7d5c56dbc04008d1ca7b8354aad5b": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.binary-kitchen.de/wiki/doku.php?id=veranstaltungen:nibble_area"
+        ], 
+        "Has description": [
+            "Solder a blinking nibble peg with 4 LEDs"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Nibbleklammer - Nibble Peg"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "ab456173-eb57-46e8-b8c8-8230ad2ac7b9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nibbleklammer_-_Nibble_Peg", 
+        "Has end time": []
+    }, 
     "Session:NixOS: Pratical Introduction into Cross-Compiling# 258a1e1267407ca93a13f2385ba8f977": {
         "Held in language": [], 
         "Has start time": [
@@ -21002,6 +21036,61 @@
             {
                 "timestamp": "1545998400", 
                 "raw": "1/2018/12/28/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Update f\u00fcr die Fahrradwege deiner Stadt# 65d35a22551d7c73a2820485384259c4": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://radentscheid-darmstadt.de/"
+        ], 
+        "Has description": [
+            "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Komona Kuppel 3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Komona_Kuppel_3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Wie organisiert man einen Radentscheid?"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Update f\u00fcr die Fahrradwege deiner Stadt"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "2ed3e99b-99d6-4379-991b-0aab2de638fe"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt", 
+        "Has end time": [
+            {
+                "timestamp": "1546090200", 
+                "raw": "1/2018/12/29/13/30/0/0"
             }
         ]
     }, 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 20:10</version>
+  <version>2018-12-27 20:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4505,6 +4505,26 @@
         <links>
           <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
+        </links>
+      </event>
+      <event id="1406" guid="2ed3e99b-99d6-4379-991b-0aab2de638fe">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Komona Kuppel 3</room>
+        <slug>35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt</slug>
+        <title>Update für die Fahrradwege deiner Stadt</title>
+        <subtitle>Wie organisiert man einen Radentscheid?</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</description>
+        <persons/>
+        <links>
+          <link>https://radentscheid-darmstadt.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</link>
         </links>
       </event>
     </room>
