@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 2.0.2 0.9 memoryrefresh 20121226KOMONA 1.0.5 2018-12-27 00:50</version>
+  <version>Firefly 3 1.6 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5 2018-12-27 01:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4414,9 +4414,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract>it is happy, sometimes it is buzzing and eats pizza.&#13;
-furthermore it is connected to mjut club (leipzig), so&amp;so (leipzig) and the ambientfloor of garbicz-festival (poland).&#13;
-beautiful insane friends were found at this places, with whom it likes to play and create whatever comes up in twisted days and nights.</abstract>
+        <abstract>Sui likes the inconstancy of space affected by a diversity of sounds and people who drop in accidentally or with intent. All the emerging possibilities of such incidents are carefully sketched into a audible experience. This kind of soundvoyages evolving from slowly and fondly selected sounds and range from folklore to hiphop to field recordings to broken sounds. As she is not the best decision maker referring a genre, every sound that catches a curious ear and hits a heart needs to be played. A warm invitation to listen, hanging around lazily or to dance.</abstract>
         <description/>
         <recording>
           <license/>
@@ -5089,6 +5087,31 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <persons/>
         <links>
           <link href="https://www.mixcloud.com/MartinOttoPaul/">https://www.mixcloud.com/MartinOttoPaul/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10161" guid="cae35aaf-b540-4343-a90b-6f0f147d46be">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10161.html</url>
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>02:00</duration>
+        <room>Uptime Bar</room>
+        <slug>35c3-lineup-10161-parole_emil</slug>
+        <title>Parole Emil!</title>
+        <subtitle/>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/emil-torp">https://soundcloud.com/emil-torp</link>
         </links>
         <attachments/>
       </event>
@@ -6267,6 +6290,44 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel</link>
+        </links>
+      </event>
+      <event id="1337" guid="dbf31414-0f4a-4808-8626-da6530d79e26">
+        <logo/>
+        <date>2018-12-27T20:40:00+01:00</date>
+        <start>20:40</start>
+        <duration>0:09</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1337-session_film_memory</slug>
+        <title>Film -- MEMORY</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>How do people translate into language what they have just experienced?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_MEMORY</link>
+        </links>
+      </event>
+      <event id="1338" guid="65ca76ed-9b3f-4c8d-a5bc-382a75550c62">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>0:09</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1338-session_film_welcome_to_the_first_world</slug>
+        <title>Film -- Welcome to the first world</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Welcome to the first world, a promise shining on the horizon.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Welcome_to_the_first_world</link>
         </links>
       </event>
       <event id="1335" guid="ce74f544-61ca-4bbb-ba5e-78def7999828">
@@ -11797,7 +11858,7 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <title>Anna Hauss</title>
         <subtitle>Singer-Songwriterin</subtitle>
         <track>Music</track>
-        <type/>
+        <type>concert</type>
         <language>en</language>
         <abstract>Anna Hauss ist Sängerin, Texterin und Komponistin und lebt derzeit in Leipzig. Aufgewachsen ist sie in Berlin, wo ihre musikalische Laufbahn schon früh begann. 2013 erschien ihr Solo-Debüt "Summerbreak", ein Jahr später begann sie in Leipzig Jazzgesang zu studieren. In ihren Songs geht es um persönliche Erfahrungen sowie aktuelle Beobachtungen unserer Zeit. Dabei ist sie immer wieder auf der Suche nach neuen Herausforderungen und Sounds. Aktuell ist sie mit ihrer Band STILL IN THE WOODS und deren aktuellem Album "Rootless Tree" unterwegs, spielt Konzerte als Solokünstlerin oder startet Projekte mit Musikern aus der Leipziger Jazzszene.</abstract>
         <description/>
@@ -18800,7 +18861,197 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
         <attachments/>
       </event>
     </room>
-    <room name="Shutter Island"/>
+    <room name="Shutter Island">
+      <event id="10150" guid="fd7b283b-67f3-4554-b226-83db5a519a87">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10150.html</url>
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10150-patstyx</slug>
+        <title>Patstyx</title>
+        <subtitle>Looking forward to Schuppi</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract>Patstyx aka Schuppi war schon Sysadmin als man noch beim Internet angerufen hat - er zog weg, nach Halle, in Congressnähe. Legte schon immer auf, macht Podcasts und Drum´n Bass Events und wir freuen uns auf Schuppi.&#13;
+&#13;
+Patstyx was already sysadmin when you called the Internet, by dialing a number on moms phone - he moved away, to Halle, near the congress. Allways deejayed, does podcasts and Drum´n Bass events and we are looking forward to Schuppi.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://hearthis.at/pat-styx/">https://hearthis.at/pat-styx/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10151" guid="8b678cb0-a364-41ce-8fb4-1d067168fde6">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10151.html</url>
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10151-e</slug>
+        <title>ë</title>
+        <subtitle>Legend AV-set</subtitle>
+        <track>Music</track>
+        <type>performance</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://raum-e.com/">http://raum-e.com/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10152" guid="3600a06a-6aae-49c3-95e3-da5bc6dd87f6">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10152.html</url>
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10152-eulberg_spock</slug>
+        <title>Eulberg &amp; Spock</title>
+        <subtitle>Fledermausmusik</subtitle>
+        <track>Music</track>
+        <type>lecture</type>
+        <language>en</language>
+        <abstract/>
+        <description>Vortrag: Fledermaus Streaming Project&#13;
+NABU, CCC und Dominik Eulberg &amp; DJ Spock&#13;
+&#13;
+Die Geräusche der Fledermäuse werden hörbar in Musik umgewandelt und gestreamt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10153" guid="cb62321b-fd39-4b11-8668-1384f661a076">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10153.html</url>
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10153-kfmw</slug>
+        <title>kfmw</title>
+        <subtitle>Irgendwelche Fragen?</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Das Kraftfuttermischwerk. Srlsy? Ihr kennt Ronny nich? Bester Mumpelkollege, Chillflaggenhochhalter, hat auch ein tollen Myspaceaccount.&#13;
+&#13;
+Das Kraftfuttermischwerk. Srlsy? You don't know Ronny? Best mate, chilloutmusic clockstone, also has a great myspaceaccount.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.kraftfuttermischwerk.de/blogg/">https://www.kraftfuttermischwerk.de/blogg/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10154" guid="57953398-ba71-43d4-ab03-a1a1bc7f66df">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10154.html</url>
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10154-saetchmo</slug>
+        <title>Saetchmo.</title>
+        <subtitle>1000 Echochambers</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Sätche ist sowas von Teil der Familie - seine Echochamber läuft regelmässig in der c-base, er fährt ne alte Feuerwehr und wer ihm krummkommt, merkt das schon.&#13;
+&#13;
+Sätchmoe is sooo part of the family - his Echochamber runs regularly in the c-base, he drives an old fire brigade and whoever annoyise him, will notices that.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.saetche.net/blog/ ">https://www.saetche.net/blog/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10156" guid="55ff173d-84b9-4931-94d0-fc01fc408aba">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10156.html</url>
+        <logo/>
+        <date>2018-12-30T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10156-404_tba_aka_marillion</slug>
+        <title>404 tba aka Marillion</title>
+        <subtitle>More to be and let go.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Swiss bliss &amp; HH Adel</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10157" guid="b2b637e0-df81-4999-82d4-5d4468f73a5b">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10157.html</url>
+        <logo/>
+        <date>2018-12-30T04:00:00+01:00</date>
+        <start>04:00</start>
+        <duration>03:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10157-lord_spreadpoint</slug>
+        <title>Lord Spreadpoint</title>
+        <subtitle>Audio Visual Set</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Siegfried Kärcher (1974/Force Inc.) wurde in die Zeit der Heimcomputer hineingeboren. Nach Atari VCS 2600 folgte der C64 und dann der Commodore Amiga und einige Berühmtheit in der Hacker/Cracker- und Demoszene. Er ist Mitglied des Computerkollektivs Spreadpoint. Der nahe gelegene Techno Club in Frankfurt, wo seit Anfang der 80er Techno erfunden wurde, wirkte ebenso stilprägend.&#13;
+In den Anfangstagen gab es noch keine strikte Trennung der elektronischen Musikstile und so erlebte Kärcher von piepsenden Konsolen und chiptunigen Heimcomputern wie dem C64, harter EBM, über Midifizierung der Tonstudios durch den Atari ST, Harddiskrecording, Kommerzialisierung und Ausverkauf des Technos eigentlich alle wichtigen Entwicklungsschritte mit.&#13;
+Seit einem Hochbegabtenstudium der freien bildenden Kunst entwickelt er Werke im Bereich bildender Kunst und Musik. Er lebt und arbeitet in Frankfurt am Main und Berlin. &#13;
+Auf dem 35c3 nimmt uns Siegfried Kärcher mit auf eine Klangreise in technoide Ambientgefilde, die musikalisch mal historische Leuchttürme aufblinken lassen aber auch in die Zukunft schauen lassen oder einfach nur zur Kontemplation einladen.&#13;
+&#13;
+Siegfried Kärcher (1974/Force Inc.) was born into the time of home computers. After Atari VCS 2600 followed the C64 and then the Commodore Amiga and some celebrity in the hacker/cracker and demo scene. He is a member of the computer collective Spreadpoint. The nearby Techno Club in Frankfurt, where Techno was invented since the beginning of the 80's, also had a style shaping effect.&#13;
+In the early days there was no strict separation of the electronic music styles and so Kärcher experienced all important development steps from beeping consoles and chiptuning home computers like the C64, hard EBM, via midification of the recording studios by the Atari ST, hard disk recording, commercialization and sell out of the techno.&#13;
+He has been developing works in the field of fine arts and music since he studied free visual arts as a highly gifted student. He lives and works in Frankfurt am Main and Berlin. &#13;
+On the 35c3 Siegfried Kärcher takes us on a journey of sound into technoid ambient environments, which musically blink historical lighthouses but also let us look into the future or simply invite us to contemplation.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="www.4sk.de">www.4sk.de</link>
+          <link href="https://www.youtube.com/watch?v=MEZcpR4aG9k">https://www.youtube.com/watch?v=MEZcpR4aG9k</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Compeiler">
       <event id="10148" guid="91b4a4c3-98e0-49f6-a3fc-621140621c7f">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10148.html</url>
@@ -22769,7 +23020,60 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <attachments/>
       </event>
     </room>
-    <room name="Shutter Island"/>
+    <room name="Shutter Island">
+      <event id="10160" guid="30f8b579-119f-4869-8648-2b4e65ac5db6">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10160.html</url>
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>03:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10160-lord_spreadpoint</slug>
+        <title>Lord/Spreadpoint</title>
+        <subtitle>Closing</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="www.4sk.de">www.4sk.de</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10155" guid="89e3b2ae-d714-44a5-9e18-6270ce7c3c2b">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10155.html</url>
+        <logo/>
+        <date>2018-12-31T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10155-kons_t_il</slug>
+        <title>kons[t]il</title>
+        <subtitle>Till &amp; Konsti, zwei Seelenverwandte begegnen einander.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Till &amp; Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem großen Ganzen zu vereinen, unabhängig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.&#13;
+&#13;
+Till &amp; Konsti, two soul mates meet each other, these two boys from Berlin find each other to create sound, to wrap their moods and experiences into unmistakable sounds, go through different facets of electronic music... Are humming through the thicket of the deep-house forest, the goal... Back to the roots, to unite to one big whole, independent of time and space we dance weightlessly through Infinity.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/konstil/kons[t]il">https://www.mixcloud.com/konstil/kons[t]il</link>
+        </links>
+        <attachments/>
+      </event>
+    </room>
     <room name="Compeiler"/>
     <room name="Uptime Bar">
       <event id="10145" guid="e5985477-ef56-4e96-8b4a-24dd775570db">

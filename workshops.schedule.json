@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 00:50", 
+        "version": "2018-12-27 01:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1511,6 +1511,48 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Kabel"
+                                ]
+                            }, 
+                            {
+                                "id": 1337, 
+                                "guid": "dbf31414-0f4a-4808-8626-da6530d79e26", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:40:00+01:00", 
+                                "start": "20:40", 
+                                "duration": "0:09", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1337-session_film_memory", 
+                                "title": "Film -- MEMORY", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "How do people translate into language what they have just experienced?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_MEMORY"
+                                ]
+                            }, 
+                            {
+                                "id": 1338, 
+                                "guid": "65ca76ed-9b3f-4c8d-a5bc-382a75550c62", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "0:09", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1338-session_film_welcome_to_the_first_world", 
+                                "title": "Film -- Welcome to the first world", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Welcome to the first world, a promise shining on the horizon.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Welcome_to_the_first_world"
                                 ]
                             }, 
                             {

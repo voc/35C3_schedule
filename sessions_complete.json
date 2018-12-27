@@ -6883,6 +6883,100 @@
             }
         ]
     }, 
+    "Session:Film -- MEMORY# 4b0d77484af37f5893a3611cb8bed88e": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545943200", 
+                "raw": "1/2018/12/27/20/40/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How do people translate into language what they have just experienced?"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- MEMORY"
+        ], 
+        "Has duration": [
+            9
+        ], 
+        "GUID": [
+            "dbf31414-0f4a-4808-8626-da6530d79e26"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_MEMORY", 
+        "Has end time": [
+            {
+                "timestamp": "1545943740", 
+                "raw": "1/2018/12/27/20/49/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Welcome to the first world# 591efb4151288081190f9887d4b2949f": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545942600", 
+                "raw": "1/2018/12/27/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Welcome to the first world, a promise shining on the horizon."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Welcome to the first world"
+        ], 
+        "Has duration": [
+            9
+        ], 
+        "GUID": [
+            "65ca76ed-9b3f-4c8d-a5bc-382a75550c62"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Welcome_to_the_first_world", 
+        "Has end time": [
+            {
+                "timestamp": "1545943140", 
+                "raw": "1/2018/12/27/20/39/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- fair grounds# 1d9e6b2f96756ba3fb6b55e881333dcd": {
         "Held in language": [], 
         "Has start time": [
