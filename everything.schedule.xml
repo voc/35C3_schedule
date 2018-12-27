@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:20</version>
+  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14903,8 +14903,10 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <description>Ein Treffen der Moin Assemblies</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle">Fpfle</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:TVLuke">TVLuke</person>
         </persons>
         <links>
+          <link>https://md.ctfl.space/moin-deko</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Moin-Orga_Treffen</link>
         </links>
       </event>
@@ -17664,6 +17666,28 @@ However, it's not always easy...</description>
         <links>
           <link>https://8os.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
+        </links>
+      </event>
+      <event id="1386" guid="9a0af0b4-6556-4271-b577-8525721c6031">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:30</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1386-session_mathematicians_acting_amorally_how_they_harm_society</slug>
+        <title>Mathematicians acting amorally - how they harm society</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Mathematicians work at the heart of most emerging technologies. Their work is re-shaping the world, and yet they have little knowledge, appreciation or training in ethical awareness. I am working to change this, and bring about a serious discussion in the mathematical community about the social impact mathematicians can have. My name is Maurice Chiodo, and I am a postdoctoral researcher in mathematics at the University of Cambridge. You can contact me at: mcc56 AT cam DOT ac DOT uk , or on twitter: @mauricechiodo</description>
+        <persons/>
+        <links>
+          <link>https://cueims.soc.srcf.net/</link>
+          <link>https://ethics.maths.cam.ac.uk/pub</link>
+          <link>http://www.ethics.maths.cam.ac.uk/EiM1/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mathematicians_acting_amorally_-_how_they_harm_society</link>
         </links>
       </event>
       <event id="1083" guid="b45908f3-31e6-4c01-8d01-e752bcf1f903">

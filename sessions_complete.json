@@ -394,6 +394,38 @@
             }
         ]
     }, 
+    "Session:3D Modeling with Blender for Beginners# 4f6aa685dec5c4a8d3da6056163fce71": {
+        "Held in language": [
+            "bg - Bulgarian", 
+            "en - English"
+        ], 
+        "Has start time": [], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://libtec.org/"
+        ], 
+        "Has description": [
+            "Hey! Come to this workshop for an introduction in 3D modeling. We'll use Blender, a very awesome and versatile free software program used for modeling, texturing, animation, film effects, video compositing, and much more. Some things you can use Blender for is to make games, models for 3D printing, 3D animated movies, visual effects, interior design. Make sure to install Blender before you come, so we can get started right away."
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "3D Modeling with Blender for Beginners"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "3d9007bf-03c5-489a-9aec-22e554300fbe"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:3D_Modeling_with_Blender_for_Beginners", 
+        "Has end time": []
+    }, 
     "Session:42birds: Hacker\u2019s Digest# c4189922d5ff66a9702b434b7b857f55": {
         "Held in language": [
             "de - German", 
@@ -12092,6 +12124,59 @@
             }
         ]
     }, 
+    "Session:Mathematicians acting amorally - how they harm society# 4c5101288c315dcf6a7cf01d6e0cdd77": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://cueims.soc.srcf.net/", 
+            "https://ethics.maths.cam.ac.uk/pub", 
+            "http://www.ethics.maths.cam.ac.uk/EiM1/"
+        ], 
+        "Has description": [
+            "Mathematicians work at the heart of most emerging technologies. Their work is re-shaping the world, and yet they have little knowledge, appreciation or training in ethical awareness. I am working to change this, and bring about a serious discussion in the mathematical community about the social impact mathematicians can have. My name is Maurice Chiodo, and I am a postdoctoral researcher in mathematics at the University of Cambridge. You can contact me at: mcc56 AT cam DOT ac DOT uk , or on twitter: @mauricechiodo"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Mathematicians acting amorally - how they harm society"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "9a0af0b4-6556-4271-b577-8525721c6031"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mathematicians_acting_amorally_-_how_they_harm_society", 
+        "Has end time": [
+            {
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
+            }
+        ]
+    }, 
     "Session:Mead making presentation# 6d071aa665006eb64fe4840d9cdae10a": {
         "Held in language": [
             "de - German", 
@@ -12746,7 +12831,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://md.ctfl.space/moin-deko"
+        ], 
         "Has description": [
             "Ein Treffen der Moin Assemblies"
         ], 
@@ -12765,6 +12852,13 @@
             {
                 "fulltext": "User:Fpfle", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:TVLuke", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:TVLuke", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
