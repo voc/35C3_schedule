@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 13:30", 
+        "version": "2018-12-27 13:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -778,6 +778,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1371, 
+                                "guid": "c0c2399b-7c6e-46b4-a507-ddfb5b5d0243", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "3:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1371-session_factorio_workshop_fuer_einsteiger", 
+                                "title": "Factorio - Workshop f\u00fcr Einsteiger", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger"
+                                ]
+                            }, 
+                            {
                                 "id": 1216, 
                                 "guid": "0beb6543-cc8a-46d8-a59a-12dea4a66ac7", 
                                 "logo": null, 
@@ -796,6 +817,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1373, 
+                                "guid": "47a1e8a5-9434-4aed-9b66-848d03180147", 
+                                "logo": null, 
+                                "date": "2018-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1373-session_siebdruck_", 
+                                "title": "Siebdruck!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!"
                                 ]
                             }, 
                             {
@@ -2389,6 +2431,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1372, 
+                                "guid": "18c59241-1cbe-5942-ab56-3e988302c07c", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "3:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1372-session_factorio_workshop_fuer_einsteiger", 
+                                "title": "Factorio - Workshop f\u00fcr Einsteiger", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger"
+                                ]
+                            }, 
+                            {
                                 "id": 1263, 
                                 "guid": "5438affe-16a5-4310-b00f-7d4d30484b4d", 
                                 "logo": null, 
@@ -2428,6 +2491,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1374, 
+                                "guid": "56844bd5-0cae-468e-ab9c-e3a749a16bbe", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1374-session_siebdruck_", 
+                                "title": "Siebdruck!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!"
                                 ]
                             }, 
                             {
@@ -4251,6 +4335,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1370, 
+                                "guid": "74823042-2e08-4f59-b054-2c5127dd0ad8", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "3:30", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1370-session_factorio_workshop_fuer_einsteiger", 
+                                "title": "Factorio - Workshop f\u00fcr Einsteiger", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger"
+                                ]
+                            }, 
+                            {
                                 "id": 1262, 
                                 "guid": "adcfe051-dd11-4016-93f3-9f75d99acc6f", 
                                 "logo": null, 
@@ -4290,6 +4395,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus"
+                                ]
+                            }, 
+                            {
+                                "id": 1375, 
+                                "guid": "4c0018a8-4eab-5baf-9c5f-672b7ab95abb", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1375-session_siebdruck_", 
+                                "title": "Siebdruck!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!"
                                 ]
                             }, 
                             {

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 13:30</version>
+  <version>2018-12-27 13:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -636,6 +636,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJchen</link>
         </links>
       </event>
+      <event id="1371" guid="c0c2399b-7c6e-46b4-a507-ddfb5b5d0243">
+        <logo/>
+        <date>2018-12-27T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>3:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1371-session_factorio_workshop_fuer_einsteiger</slug>
+        <title>Factorio - Workshop für Einsteiger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger</link>
+        </links>
+      </event>
       <event id="1216" guid="0beb6543-cc8a-46d8-a59a-12dea4a66ac7">
         <logo/>
         <date>2018-12-27T14:00:00+01:00</date>
@@ -653,6 +672,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1373" guid="47a1e8a5-9434-4aed-9b66-848d03180147">
+        <logo/>
+        <date>2018-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1373-session_siebdruck_</slug>
+        <title>Siebdruck!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!</link>
         </links>
       </event>
       <event id="1286" guid="e88de346-502e-4fdb-895c-eddb084edcd7">
@@ -2005,6 +2043,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
         </links>
       </event>
+      <event id="1372" guid="18c59241-1cbe-5942-ab56-3e988302c07c">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>3:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1372-session_factorio_workshop_fuer_einsteiger</slug>
+        <title>Factorio - Workshop für Einsteiger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger</link>
+        </links>
+      </event>
       <event id="1263" guid="5438affe-16a5-4310-b00f-7d4d30484b4d">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
@@ -2041,6 +2098,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1374" guid="56844bd5-0cae-468e-ab9c-e3a749a16bbe">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1374-session_siebdruck_</slug>
+        <title>Siebdruck!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!</link>
         </links>
       </event>
       <event id="1285" guid="8b600241-3377-459d-a68e-dd93de41b433">
@@ -3587,6 +3663,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Elektrobastelei_-_electric_tinkering</link>
         </links>
       </event>
+      <event id="1370" guid="74823042-2e08-4f59-b054-2c5127dd0ad8">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>3:30</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1370-session_factorio_workshop_fuer_einsteiger</slug>
+        <title>Factorio - Workshop für Einsteiger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Factorio_-_Workshop_f%C3%BCr_Einsteiger</link>
+        </links>
+      </event>
       <event id="1262" guid="adcfe051-dd11-4016-93f3-9f75d99acc6f">
         <logo/>
         <date>2018-12-29T20:30:00+01:00</date>
@@ -3623,6 +3718,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scratch_-_Programmieren_mit_der_Maus</link>
+        </links>
+      </event>
+      <event id="1375" guid="4c0018a8-4eab-5baf-9c5f-672b7ab95abb">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Kidspace</room>
+        <slug>35c3-1375-session_siebdruck_</slug>
+        <title>Siebdruck!</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Siebdruck!</link>
         </links>
       </event>
       <event id="1287" guid="7e4ba3f5-f529-55a4-8a31-029172435dde">

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6</version>
+  <version>Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13495,6 +13495,35 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
       </event>
     </room>
     <room name="WikiPakaWG Esszimmer">
+      <event id="522" guid="14016199-6d4b-5f13-8b2f-a057afeb3abd">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>DBVJK7</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7</url>
+        <title>AI in Wikipedia</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>A general overview and report on how Wikipedia uses artificial intelligence to improve its efficiency</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="523" guid="0967f643-013b-57cc-870b-f2d4dfebc442">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>

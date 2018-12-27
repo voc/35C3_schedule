@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6", 
+        "version": "Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -13383,6 +13383,37 @@
                             }
                         ], 
                         "WikiPakaWG Esszimmer": [
+                            {
+                                "id": 522, 
+                                "guid": "14016199-6d4b-5f13-8b2f-a057afeb3abd", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG Esszimmer", 
+                                "slug": "DBVJK7", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7", 
+                                "title": "AI in Wikipedia", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "de", 
+                                "abstract": "A general overview and report on how Wikipedia uses artificial intelligence to improve its efficiency", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 7, 
+                                        "name": "Amir", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 523, 
                                 "guid": "0967f643-013b-57cc-870b-f2d4dfebc442", 
