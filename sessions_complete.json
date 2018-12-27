@@ -5742,6 +5742,66 @@
             }
         ]
     }, 
+    "Session:E-textiles in upcycled fashion# 79c0a43e7441992c2c69d70d170375f4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545942600", 
+                "raw": "1/2018/12/27/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.360fash.com", 
+            "http://ledribbon.360fashion.net"
+        ], 
+        "Has description": [
+            "Sew LEDs into clothing and learn about design thinking."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Anina", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Anina", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "E-textiles in upcycled fashion"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:E-textiles_in_upcycled_fashion", 
+        "Has end time": [
+            {
+                "timestamp": "1545949800", 
+                "raw": "1/2018/12/27/22/30/0/0"
+            }
+        ]
+    }, 
     "Session:EPrivacy: Call to action!# 08cc1d2f23b9b30f555e3a607e1c2c93": {
         "Held in language": [
             "en - English"
@@ -5776,7 +5836,15 @@
         "Has subtitle": [
             "Get active and fight for ePrivacy!"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pab", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "EPrivacy: Call to action!"
         ], 
@@ -5797,14 +5865,14 @@
             }
         ]
     }, 
-    "Session:Easy iot# c27630b3f10d28aea2bc5354e767ab89": {
+    "Session:Easy iot# 3381d352064fd17519ac7b024ff3a017": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546165800", 
+                "raw": "1/2018/12/30/10/30/0/0"
             }
         ], 
         "Has event track": [
@@ -5828,11 +5896,76 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Day4"
+        ], 
         "Is organized by": [
             {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "fulltext": "User:Lukasmaximus", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Easy iot"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ea98c111-62c3-4ee4-a449-d8077313922d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Easy_iot", 
+        "Has end time": [
+            {
+                "timestamp": "1546169400", 
+                "raw": "1/2018/12/30/11/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Easy iot# 54bceb051ef7c1e78c62bf1546363c8b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545993000", 
+                "raw": "1/2018/12/28/10/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://m5stack.com"
+        ], 
+        "Has description": [
+            "M5stack is a modular programmable prototyping device which has the esp32 at its core. M5stack can be programmed with the arduino IDE, esp-idf, micropython  and more. In this workshop however we will be focusing on using block programming to control the light, sound, images on the screen, sensors etc. This workshop is suited for kids or anyone who is taking their first steps in coding, and maybe are put off by thinking they have to learn lots of typed commands to do even the most basic of things. The Uiflow interface for M5stack (flow.m5stack.com) is designed to lower the creative  barrier so that anyone without prior knowledge can get setup making their first IoT application in minutes."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day2"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lukasmaximus", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -5851,7 +5984,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Easy_iot", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1545996600", 
+                "raw": "1/2018/12/28/11/30/0/0"
+            }
+        ]
     }, 
     "Session:Eco Hacker Farm# ae4033534ab142c3d625ee5dcf414841": {
         "Held in language": [
@@ -14132,6 +14270,59 @@
             }
         ]
     }, 
+    "Session:ScaCheapier# 2ae8dca00617f1caf6e292b2627008e9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546032600", 
+                "raw": "1/2018/12/28/21/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Power Side Channel Analysis on the cheapiest"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "extra session"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "ScaCheapier"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "086f8ecd-5f92-484d-93ba-4924f9e255fe"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier", 
+        "Has end time": [
+            {
+                "timestamp": "1546039800", 
+                "raw": "1/2018/12/28/23/30/0/0"
+            }
+        ]
+    }, 
     "Session:ScaCheapier# 7fc354983705f15b456ce3be09d2b81c": {
         "Held in language": [
             "en - English"
@@ -15077,14 +15268,14 @@
             }
         ]
     }, 
-    "Session:Solder a blinky tardigrade# e3453904c1b554b95860288a74bc3b20": {
+    "Session:Solder a blinky tardigrade# 69db80b0c17478bf6cb6003a5ffb685b": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546014600", 
+                "raw": "1/2018/12/28/16/30/0/0"
             }
         ], 
         "Has event track": [
@@ -15111,8 +15302,8 @@
         ], 
         "Is organized by": [
             {
-                "fulltext": "User:Kliment", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment", 
+                "fulltext": "User:Lukasmaximus", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -15131,7 +15322,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
+            }
+        ]
     }, 
     "Session:Soldering for Kids! (ages 4 to 6)# 89fac034992626fa44b620e09206795d": {
         "Held in language": [
@@ -19063,6 +19259,42 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Visual_programming_LED_bag", 
+        "Has end time": []
+    }, 
+    "Session:WTFpga: An Introduction to FPGA Development# 98f0b9803801acd35a2b0d32eda0dcff": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "2 hour crash course in FPGAs and Verilog"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "WTFpga: An Introduction to FPGA Development"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "7c6fd539-ad38-4c4d-ae8a-3c075a333f31"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WTFpga:_An_Introduction_to_FPGA_Development", 
         "Has end time": []
     }, 
     "Session:Wargaming Netzpolitik# 9e12658016076efbb12f02a868f79eea": {

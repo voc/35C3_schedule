@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:00</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6409,6 +6409,158 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         </links>
       </event>
     </room>
+    <room name="Assembly:Hardware Hacking Area">
+      <event id="1357" guid="335f4770-abb5-5001-9afe-1a0c6f92f5be">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1357-session_e_textiles_in_upcycled_fashion</slug>
+        <title>E-textiles in upcycled fashion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Sew LEDs into clothing and learn about design thinking.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Anina">Anina</person>
+        </persons>
+        <links>
+          <link>http://www.360fash.com</link>
+          <link>http://ledribbon.360fashion.net</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:E-textiles_in_upcycled_fashion</link>
+        </links>
+      </event>
+      <event id="1162" guid="78573056-55af-4984-90cd-f2a527970841">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>6:59</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1162-session_learn_to_solder</slug>
+        <title>Learn To Solder</title>
+        <subtitle>Day 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''&lt;/span&gt;</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1203" guid="042a87a0-f095-4102-b428-0375ecec28ae">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1203-session_scrappy_circuits</slug>
+        <title>Scrappy circuits</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!</description>
+        <persons/>
+        <links>
+          <link>https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits</link>
+        </links>
+      </event>
+      <event id="1299" guid="980492fd-1396-414d-af69-0cd42384b108">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1299-session_sumorobot_programming_workshop</slug>
+        <title>SumoRobot Programming Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop</link>
+        </links>
+      </event>
+      <event id="1293" guid="c111aca6-e5c0-44cd-ada5-b21f405ab766">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1293-session_sumorobot_soldering_workshop</slug>
+        <title>SumoRobot Soldering Workshop</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Soldering SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 14.00 - 15.30&lt;br&gt;Dec 28, 14.00 - 15.30&lt;br&gt;Dec 29, 14.00 - 15.30&lt;br&gt;Dec 30, 14.00 - 15.30</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
+        </persons>
+        <links>
+          <link>https://www.robokoding.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop</link>
+        </links>
+      </event>
+      <event id="1108" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
+        <logo/>
+        <date>2018-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1108-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+      <event id="1110" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1110-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
+        <title>Surface mount electronics assembly for terrified beginners</title>
+        <subtitle>Day 1, session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
+        </links>
+      </event>
+    </room>
     <room name="ChaosFilmSociety Art-and-Play">
       <event id="1341" guid="2e766936-0710-4ac7-a4a4-77078c255276">
         <logo/>
@@ -6656,135 +6808,6 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Hardware Hacking Area">
-      <event id="1162" guid="78573056-55af-4984-90cd-f2a527970841">
-        <logo/>
-        <date>2018-12-27T17:00:00+01:00</date>
-        <start>17:00</start>
-        <duration>6:59</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1162-session_learn_to_solder</slug>
-        <title>Learn To Solder</title>
-        <subtitle>Day 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Learn to Solder!  A large variety of way cool kits are available, all designed for total beginners to complete successfully -- and intriguing enough for the total hardware geek.&lt;br&gt; &lt;br&gt; &lt;span style="color:orange"&gt;'''''This ongoing workshop will be happening concurrently with lots of other way cool workshops at the Hardware Hacking Area!  Throughout all of 35C3.'''''&lt;/span&gt;</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Maltman23">Maltman23</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
-        </links>
-      </event>
-      <event id="1203" guid="042a87a0-f095-4102-b428-0375ecec28ae">
-        <logo/>
-        <date>2018-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1203-session_scrappy_circuits</slug>
-        <title>Scrappy circuits</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Inspired by Scrappy Circuits, come design some fun electronics materials, then donate the results to local educators!</description>
-        <persons/>
-        <links>
-          <link>https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits</link>
-        </links>
-      </event>
-      <event id="1299" guid="980492fd-1396-414d-af69-0cd42384b108">
-        <logo/>
-        <date>2018-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1299-session_sumorobot_programming_workshop</slug>
-        <title>SumoRobot Programming Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Programming SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 16.00 - 18.30&lt;br&gt;Dec 28, 16.00 - 18.30&lt;br&gt;Dec 29, 16.00 - 18.30&lt;br&gt;Dec 30, 16.00 - 18.30</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
-        </persons>
-        <links>
-          <link>https://www.robokoding.com</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop</link>
-        </links>
-      </event>
-      <event id="1293" guid="c111aca6-e5c0-44cd-ada5-b21f405ab766">
-        <logo/>
-        <date>2018-12-27T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1293-session_sumorobot_soldering_workshop</slug>
-        <title>SumoRobot Soldering Workshop</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Soldering SumoRobots for every age and skill level. No previous experience required!&lt;br&gt;&lt;br&gt;Dec 27, 14.00 - 15.30&lt;br&gt;Dec 28, 14.00 - 15.30&lt;br&gt;Dec 29, 14.00 - 15.30&lt;br&gt;Dec 30, 14.00 - 15.30</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo">Silbo</person>
-        </persons>
-        <links>
-          <link>https://www.robokoding.com</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Soldering_Workshop</link>
-        </links>
-      </event>
-      <event id="1108" guid="4dd26602-bf1f-454f-bd0b-e3c51ebd4278">
-        <logo/>
-        <date>2018-12-27T19:30:00+01:00</date>
-        <start>19:30</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1108-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 1, session 2</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
-        </links>
-      </event>
-      <event id="1110" guid="2f307352-9447-4b63-bb9a-7ef8f38239d7">
-        <logo/>
-        <date>2018-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1110-session_surface_mount_electronics_assembly_for_terrified_beginners</slug>
-        <title>Surface mount electronics assembly for terrified beginners</title>
-        <subtitle>Day 1, session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Surface mount electronics for terrified beginners. Learn to assemble tiny parts on circuit boards by building a working power supply. Anyone can do it. Yes, even you who never touched anything electronic before. 90-100mins, 20€/kit, avoid caffeine immediately before. Max 21 participants per session, there is a PAPER!!1! signup list in the hardware hacking area.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Kliment">Kliment</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Surface_mount_electronics_assembly_for_terrified_beginners</link>
         </links>
       </event>
     </room>
@@ -9105,7 +9128,9 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <language>en</language>
         <abstract/>
         <description>Call to action to organise a campaign around ePrivacy in 2019</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pab">Pab</person>
+        </persons>
         <links>
           <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!</link>
@@ -9541,6 +9566,25 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <links>
           <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Poetry_Slam_Workshop</link>
+        </links>
+      </event>
+      <event id="1360" guid="086f8ecd-5f92-484d-93ba-4924f9e255fe">
+        <logo/>
+        <date>2018-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1360-session_scacheapier</slug>
+        <title>ScaCheapier</title>
+        <subtitle>extra session</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Power Side Channel Analysis on the cheapiest</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier</link>
         </links>
       </event>
       <event id="1105" guid="05f4a625-0ef3-483a-8afd-954c93e7d2d6">
@@ -13503,6 +13547,28 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Arduino_For_Total_Newbies</link>
         </links>
       </event>
+      <event id="1359" guid="888c6313-9c33-49b0-b3f2-502653083938">
+        <logo/>
+        <date>2018-12-28T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1359-session_easy_iot</slug>
+        <title>Easy iot</title>
+        <subtitle>Day2</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>M5stack is a modular programmable prototyping device which has the esp32 at its core. M5stack can be programmed with the arduino IDE, esp-idf, micropython  and more. In this workshop however we will be focusing on using block programming to control the light, sound, images on the screen, sensors etc. This workshop is suited for kids or anyone who is taking their first steps in coding, and maybe are put off by thinking they have to learn lots of typed commands to do even the most basic of things. The Uiflow interface for M5stack (flow.m5stack.com) is designed to lower the creative  barrier so that anyone without prior knowledge can get setup making their first IoT application in minutes.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus">Lukasmaximus</person>
+        </persons>
+        <links>
+          <link>http://m5stack.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Easy_iot</link>
+        </links>
+      </event>
       <event id="1161" guid="7d87a7a1-015f-50f9-a6e6-783a4320f1ff">
         <logo/>
         <date>2018-12-28T11:00:00+01:00</date>
@@ -13561,6 +13627,27 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity</link>
+        </links>
+      </event>
+      <event id="1361" guid="87b8b944-d1de-4325-a7d8-27f0bec38136">
+        <logo/>
+        <date>2018-12-28T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1361-session_solder_a_blinky_tardigrade</slug>
+        <title>Solder a blinky tardigrade</title>
+        <subtitle>The birth of the maker cult</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>I designed some simple pcbs of a tardigrade with a focus on art rather than technicality. The pcb is a simple circuit which contains both smd and through hole components only 4 in total: cr2032 coin cell battery holder, smd switch, multicolour flashing led (through hole) and an smd resistor.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus">Lukasmaximus</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade</link>
         </links>
       </event>
       <event id="1298" guid="03ffaf95-cab5-57b5-bdc4-be07df3ddcdb">
@@ -24304,6 +24391,28 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bristlebots_for_kids</link>
+        </links>
+      </event>
+      <event id="1358" guid="ea98c111-62c3-4ee4-a449-d8077313922d">
+        <logo/>
+        <date>2018-12-30T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1358-session_easy_iot</slug>
+        <title>Easy iot</title>
+        <subtitle>Day4</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>M5stack is a modular programmable prototyping device which has the esp32 at its core. M5stack can be programmed with the arduino IDE, esp-idf, micropython  and more. In this workshop however we will be focusing on using block programming to control the light, sound, images on the screen, sensors etc. This workshop is suited for kids or anyone who is taking their first steps in coding, and maybe are put off by thinking they have to learn lots of typed commands to do even the most basic of things. The Uiflow interface for M5stack (flow.m5stack.com) is designed to lower the creative  barrier so that anyone without prior knowledge can get setup making their first IoT application in minutes.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus">Lukasmaximus</person>
+        </persons>
+        <links>
+          <link>http://m5stack.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Easy_iot</link>
         </links>
       </event>
       <event id="1159" guid="97139265-b30a-44f0-b79f-da5c1dbcae27">

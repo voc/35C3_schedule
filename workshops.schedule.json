@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 12:00", 
+        "version": "2018-12-27 12:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3111,6 +3111,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1360, 
+                                "guid": "086f8ecd-5f92-484d-93ba-4924f9e255fe", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1360-session_scacheapier", 
+                                "title": "ScaCheapier", 
+                                "subtitle": "extra session", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Power Side Channel Analysis on the cheapiest", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ScaCheapier"
+                                ]
+                            }, 
+                            {
                                 "id": 1105, 
                                 "guid": "05f4a625-0ef3-483a-8afd-954c93e7d2d6", 
                                 "logo": null, 
@@ -3325,7 +3346,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "Call to action to organise a campaign around ePrivacy in 2019", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
+                                        "public_name": "Pab"
+                                    }
+                                ], 
                                 "links": [
                                     "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9372.html", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:EPrivacy:_Call_to_action!"
