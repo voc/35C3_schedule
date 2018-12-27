@@ -1,5 +1,5 @@
 <schedule>
-  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:00</version>
+  <version>Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3307,7 +3307,7 @@ The talk aims to inform about the current state of affairs and hoefully foster a
         <description>Party party!</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="49">
@@ -7768,7 +7768,7 @@ If you don’t have reverse engineering skills, don’t be afraid! We will start
         <subtitle>a utopian documentary about the digital age</subtitle>
         <track>CCC</track>
         <type>film</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>"All Creatures Welcome sketches a utopian image of society in the digital era. Accompanied by the appeal to “use hacking as a mindset,” the viewers immerse themselves, together with the filmmaker, in a documentary adventure game and explore the world of digital communities at the events held by the Chaos Computer Club; a real-world reflection of the virtual spectrum." – after the rough cut screening at the 34c3 we will show now the final version. &#13;
 Join us and be part of the moment when we put the movie online and make it freely available under a creative commons license at the beginning of the screening!</abstract>
         <description>Together with the filmmaker and the slogan"use hacking as a mindset" we immerse in a documentary adventure game and explore the world of Komputerfrieks, as they used to call themselves at the inaugural meeting of the Chaos Computer Club in 1981. We come upon an open, free-spirited society. The events of the CCC are a kind of utopian real-world reflection of the virtual spectrum. We encounter angels, activists, robots, coders and makers. We learn what a hack is, why lockpicking can be important, how a cellular system works. We dive into the game and become part of the community that is as inclusive as it is sophisticated. Still outside of this collective the challenges are immense in an era, in which political certainties and institutions increasingly erode. Models of governance, economics, social order, technology and science are being put into question 24/7. With the internet’s rules of conduct, national laws are being repealed and transformed into global structures. While  the worldwide web would structurally actually allow a radical renewal of democracy, changing it from representation to participation, more and more states are drifting towards authoritarian societies in political reality. In the course of that process, en passant the largest surveillance machinery of human history has been created.&#13;
@@ -8131,7 +8131,9 @@ Members of GTC range from (former) whistle blowers, activist MPs, Oxford profess
           <person id="8613">Nicole Rauch</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/658/original/farewell.pdf?1545930771">Slides</attachment>
+        </attachments>
       </event>
       <event id="9660" guid="9777cea0-ac06-4274-85db-908c1e87e2f4">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9660.html</url>
@@ -10413,7 +10415,7 @@ Das Set soll relativ ausgeglichen werden, nicht zu aufgeregt, nicht zu ruhig. Um
 - "The Jam" - Guz, Simun</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="70">
@@ -10454,7 +10456,7 @@ DJ-set - nicht nur für selbstfahrende Autos.&#13;
 Von melodischem Futurepop, Darkwave, Synthwave über stampfenden Industrial Dance, EBM bis krachendem Rhythm'n'Noise, IDM, gespickt mit etwas Chiptunes.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="53">
@@ -18273,7 +18275,7 @@ Das Projekt endet wie der Steinkohlebergbau zum Ende des Jahres!</biography>
         <description>Wir bringen einen Überraschungsgast mit. Kommt vorbei, es wird gut werden!</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="81">
@@ -18316,7 +18318,7 @@ Zuvor zu hören u.a. bei:&#13;
 * EMF Camp 2018 - Null Sector</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="61">

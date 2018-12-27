@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:00", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -3451,7 +3451,7 @@
                                 "abstract": "Party at the haecksen's (https://www.haecksen.org)! We invite all beings at the congress to enjoy two hours of electronic, rock, jazz, pop and downtempo beats with dj shroombab (https://m.soundcloud.com/shroombab).", 
                                 "description": "Party party!", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 49, 
@@ -8217,7 +8217,7 @@
                                 "subtitle": "a utopian documentary about the digital age", 
                                 "track": "CCC", 
                                 "type": "film", 
-                                "language": "en", 
+                                "language": "de", 
                                 "abstract": "\"All Creatures Welcome sketches a utopian image of society in the digital era. Accompanied by the appeal to \u201cuse hacking as a mindset,\u201d the viewers immerse themselves, together with the filmmaker, in a documentary adventure game and explore the world of digital communities at the events held by the Chaos Computer Club; a real-world reflection of the virtual spectrum.\" \u2013 after the rough cut screening at the 34c3 we will show now the final version. \r\nJoin us and be part of the moment when we put the movie online and make it freely available under a creative commons license at the beginning of the screening!", 
                                 "description": "Together with the filmmaker and the slogan\"use hacking as a mindset\" we immerse in a documentary adventure game and explore the world of Komputerfrieks, as they used to call themselves at the inaugural meeting of the Chaos Computer Club in 1981. We come upon an open, free-spirited society. The events of the CCC are a kind of utopian real-world reflection of the virtual spectrum. We encounter angels, activists, robots, coders and makers. We learn what a hack is, why lockpicking can be important, how a cellular system works. We dive into the game and become part of the community that is as inclusive as it is sophisticated. Still outside of this collective the challenges are immense in an era, in which political certainties and institutions increasingly erode. Models of governance, economics, social order, technology and science are being put into question 24/7. With the internet\u2019s rules of conduct, national laws are being repealed and transformed into global structures. While  the worldwide web would structurally actually allow a radical renewal of democracy, changing it from representation to participation, more and more states are drifting towards authoritarian societies in political reality. In the course of that process, en passant the largest surveillance machinery of human history has been created.\r\nWe see how the hacker culture meets these challenges and what inner contradictions it encounters. We learn that our lives are not determined by general, given truths but actually through the way we work, develop ourselves, suffer or dream. The events of the CCC become a possible blueprint of social upheaval. Self-organization, freedom of expression and critical discussion merge in a colorful, polyphonic chorus apart from social norms and capitalist constraints: \"Be excellent to each other!\u201c", 
                                 "recording_license": "", 
@@ -8592,7 +8592,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/658/original/farewell.pdf?1545930771", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9660.html", 
@@ -11055,7 +11060,7 @@
                                 "abstract": "Ein DJ Set, gemixed von avocadoom, mit viel Tech-House, mit bekannteren und unbekannteren Tracks, relativ ausgewogen und vielseitig. \u201eEs ist Zeit, den Klangteppich mit 4 on the floor mal ein bisschen auszuklopfen.\u201c.\r\n+ VJ Moritz Hilscher", 
                                 "description": "Hey, ich bin Thilo (avocadoom) vom CCC-Darmstadt und neben dem ganzen gehacke lege ich ab und zu hobbym\u00e4\u00dfig House auf. Ich w\u00fcrde dieses Jahr gerne in die Welt des Klangteppichs eintauchen und euch ein bisschen House auf die Ohren geben.\r\n\r\nDas Set soll relativ ausgeglichen werden, nicht zu aufgeregt, nicht zu ruhig. Um das ein bisschen zu konkretisieren, hier ein paar Beispiele:\r\n\r\n- \"La Luna\" - Jude & Frank\r\n- \"Crowd Control\" - FISHER\r\n- \"The Jam\" - Guz, Simun", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 70, 
@@ -11092,7 +11097,7 @@
                                 "abstract": "\u00bbAch, wenn ich alleine rumfahre, h\u00f6re ich meistens Industrial\u00ab, sagt das Auto.\r\n(aus Qualityland, Marc Uwe Kling)\r\n\r\nDJ-set - nicht nur f\u00fcr selbstfahrende Autos.\r\nVon melodischem Futurepop, Darkwave, Synthwave \u00fcber stampfenden Industrial Dance, EBM bis krachendem Rhythm'n'Noise, IDM.", 
                                 "description": "\u00bbAch, wenn ich alleine rumfahre, h\u00f6re ich meistens Industrial\u00ab, sagt das Auto.\r\n(aus Qualityland, Marc Uwe Kling)\r\n\r\nDJ-set - nicht nur f\u00fcr selbstfahrende Autos.\r\nVon melodischem Futurepop, Darkwave, Synthwave \u00fcber stampfenden Industrial Dance, EBM bis krachendem Rhythm'n'Noise, IDM, gespickt mit etwas Chiptunes.", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 53, 
@@ -19484,7 +19489,7 @@
                                 "abstract": "Wir bringen einen \u00dcberraschungsgast mit. Kommt vorbei, es wird gut werden!", 
                                 "description": "Wir bringen einen \u00dcberraschungsgast mit. Kommt vorbei, es wird gut werden!", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 81, 
@@ -19515,7 +19520,7 @@
                                 "abstract": "Technoide Musik live gemixt von Juli Jane.", 
                                 "description": "Technoide Musik im Live-DJ-Mix von Juli Jane\r\n\r\nEine bunte Mischung von Techno, Tech-House, Deep-House und/oder \u00e4hnlichen elektronischen Genres. \r\n\r\n* Set vom 34C3 im Electric Cube: https://soundcloud.com/juli_jane/nerds-can-dance\r\n* Set vom EMF Camp 2018: https://soundcloud.com/juli_jane/roadtrip\r\n* Mehr Sets und eigenproduzierte Tracks: https://soundcloud.com/juli_jane\r\n\r\nZuvor zu h\u00f6ren u.a. bei:\r\n\r\n* CCC Camp 2015 - Chaos West\r\n* 32C3 - Chaos West Klangteppich\r\n* SHA2017 - Chaos West,  GeraFFel und Mainfloor\r\n* 34C3 - Electric Cube\r\n* EMF Camp 2018 - Null Sector", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 61, 
