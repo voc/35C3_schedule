@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.6 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5 2018-12-27 01:00</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5 2018-12-27 01:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3579,6 +3579,37 @@ Ich möchte meine persönlichen Erinnerungen an ihn teilen und Menschen treffen,
         <attachments/>
         <answers/>
       </event>
+      <event id="721" guid="194f1218-3352-5884-8911-a75f1df92810">
+        <logo/>
+        <date>2018-12-27T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>GLMTRM</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/GLMTRM</url>
+        <title>Elektrogruselkabinett</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>ich zeige Bilder meiner Urlaube, wo ich elektrische Installationen fragwürdiger Art fotografiert habe und erzähle ein wenig dazu.</abstract>
+        <description>Im Prinzip dasselbe wie damals schon&#13;
+(https://log.koepferl.de/2017/12/29/34c3-elektrogruselkabinett/)&#13;
+Eine Diashow mit Erzählungen von teilweise abenteuerlichen Elektrokonstuktionen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">
+            <name>robert0k</name>
+            <biography>Softwareentwickler, Informatiker und Mitglied des chch.it Chemnitz</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Vortrags-Arena">
       <event id="293" guid="0bb3bf25-818e-5503-ab16-e4f6625dcd41">
@@ -6367,6 +6398,25 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <links>
           <link>http://www.kulturersatz.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over</link>
+        </links>
+      </event>
+      <event id="1339" guid="420ab9ee-14ec-4afd-bfe4-60aad76e5858">
+        <logo/>
+        <date>2018-12-27T21:05:00+01:00</date>
+        <start>21:05</start>
+        <duration>0:10</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1339-session_work_hard_work_hard</slug>
+        <title>Work Hard, Work Hard</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard</link>
         </links>
       </event>
     </room>
@@ -17568,6 +17618,43 @@ I will also be presenting "Affection", my own, still minimalist, game engine to 
         <persons>
           <person id="14">
             <name>Nek0</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="722" guid="20dfd0fc-67f7-55aa-bf2f-4e629ff038b5">
+        <logo/>
+        <date>2018-12-29T15:15:00+01:00</date>
+        <start>15:15</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>GAP7W8</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/GAP7W8</url>
+        <title>ChaosZone goes Chaos Communication Camp - Hackspaces of the East, let's organize some Outdoor Chaos</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>We need you to make ChaosZone at Chaos Communication Camp 2019 awesome. In this session we would like to start weaving the net between our hackspaces to make it happen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>bigalex</name>
+            <biography/>
+          </person>
+          <person id="1">
+            <name>nilo</name>
+            <biography/>
+          </person>
+          <person id="27">
+            <name>honky</name>
             <biography/>
           </person>
         </persons>

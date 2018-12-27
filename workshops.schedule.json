@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 01:00", 
+        "version": "2018-12-27 01:10", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1596,6 +1596,27 @@
                                 "links": [
                                     "http://www.kulturersatz.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over"
+                                ]
+                            }, 
+                            {
+                                "id": 1339, 
+                                "guid": "420ab9ee-14ec-4afd-bfe4-60aad76e5858", 
+                                "logo": null, 
+                                "date": "2018-12-27T21:05:00+01:00", 
+                                "start": "21:05", 
+                                "duration": "0:10", 
+                                "room": "ChaosFilmSociety Art-and-Play", 
+                                "slug": "35c3-1339-session_work_hard_work_hard", 
+                                "title": "Work Hard, Work Hard", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard"
                                 ]
                             }
                         ]

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 01:00</version>
+  <version>2018-12-27 01:10</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1339,6 +1339,25 @@
         <links>
           <link>http://www.kulturersatz.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over</link>
+        </links>
+      </event>
+      <event id="1339" guid="420ab9ee-14ec-4afd-bfe4-60aad76e5858">
+        <logo/>
+        <date>2018-12-27T21:05:00+01:00</date>
+        <start>21:05</start>
+        <duration>0:10</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1339-session_work_hard_work_hard</slug>
+        <title>Work Hard, Work Hard</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard</link>
         </links>
       </event>
     </room>

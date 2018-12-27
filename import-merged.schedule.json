@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.6 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2563,6 +2563,37 @@
                                         "id": 12, 
                                         "name": "Ursula Kooke", 
                                         "biography": "Na ja, \u00fcber mich gibt es nicht viel zu sagen. Ich habe Wau kennen gelernt, als ich 18 war und wir gemeinsam Mathematik und Politik in Marburg studiert haben. Er war \u00fcber lange Jahre bis zu seinem Tod mein bester Freund. Ich habe zeitweilig bei seinem Vater gelebt, der mich auch beauftragt, hat, Waus Nachlass zu verwalten, als Wau gestorben war. Und so habe ich gemeinsam mit Winfried Motzkus, Bernd Fix, Gerriet Hellwig und Mel Wahl auf der Beisetzungsfeier beschlossen, eine Stiftung zu gr\u00fcnden, habe als Stifterin diese errichtet und war die ersten Jahre auch Vorsitzende. Gab dann erst den Vorsitz und dann den Vorstandssitz 2007 ab. \r\n\r\n Ich bin Asperger Autistin und komme mit medizinischem Begleithund. Die Veranstaltung ist also nix f\u00fcr Hundehaarallergiker oder Paniker.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 721, 
+                                "guid": "194f1218-3352-5884-8911-a75f1df92810", 
+                                "logo": null, 
+                                "date": "2018-12-27T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GLMTRM", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GLMTRM", 
+                                "title": "Elektrogruselkabinett", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "ich zeige Bilder meiner Urlaube, wo ich elektrische Installationen fragw\u00fcrdiger Art fotografiert habe und erz\u00e4hle ein wenig dazu.", 
+                                "description": "Im Prinzip dasselbe wie damals schon\r\n(https://log.koepferl.de/2017/12/29/34c3-elektrogruselkabinett/)\r\nEine Diashow mit Erz\u00e4hlungen von teilweise abenteuerlichen Elektrokonstuktionen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 26, 
+                                        "name": "robert0k", 
+                                        "biography": "Softwareentwickler, Informatiker und Mitglied des chch.it Chemnitz", 
                                         "answers": []
                                     }
                                 ], 
@@ -12197,6 +12228,49 @@
                                         "id": 14, 
                                         "name": "Nek0", 
                                         "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 722, 
+                                "guid": "20dfd0fc-67f7-55aa-bf2f-4e629ff038b5", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GAP7W8", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GAP7W8", 
+                                "title": "ChaosZone goes Chaos Communication Camp - Hackspaces of the East, let's organize some Outdoor Chaos", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "We need you to make ChaosZone at Chaos Communication Camp 2019 awesome. In this session we would like to start weaving the net between our hackspaces to make it happen.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "bigalex", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 1, 
+                                        "name": "nilo", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 27, 
+                                        "name": "honky", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 

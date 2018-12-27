@@ -19230,6 +19230,51 @@
             }
         ]
     }, 
+    "Session:Work Hard, Work Hard# 7789ac2234758e93679f6087002030a6": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545944700", 
+                "raw": "1/2018/12/27/21/5/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Work Hard, Work Hard"
+        ], 
+        "Has duration": [
+            10
+        ], 
+        "GUID": [
+            "420ab9ee-14ec-4afd-bfe4-60aad76e5858"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard", 
+        "Has end time": [
+            {
+                "timestamp": "1545945300", 
+                "raw": "1/2018/12/27/21/15/0/0"
+            }
+        ]
+    }, 
     "Session:Workshop on prison and justice system (de)# ad76d3d0ae648bf9edd9cccc8ad74d7e": {
         "Held in language": [
             "de - German"
