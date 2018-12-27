@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 19:50</version>
+  <version>2018-12-27 20:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -408,27 +408,6 @@
         <links>
           <link>https://12characters.org.uk/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading</link>
-        </links>
-      </event>
-      <event id="1019" guid="4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97">
-        <logo/>
-        <date>2018-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1019-session_audio_recording_setups</slug>
-        <title>Audio Recording Setups</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description>The idea of this workshop is to share experiences with audio recording hardware and software.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth">KarlaByrinth</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups</link>
         </links>
       </event>
       <event id="1050" guid="84945cde-3908-4f12-ac48-0ada208bf17e">
@@ -1822,7 +1801,6 @@
         <description/>
         <persons/>
         <links>
-          <link>http://plaything.me</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings</link>
         </links>
       </event>
@@ -2586,6 +2564,27 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
+        </links>
+      </event>
+      <event id="1401" guid="225d3788-7410-4a45-96b1-cbe631721b3b">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1401-session_hackers_against_climate_change</slug>
+        <title>Hackers Against Climate Change</title>
+        <subtitle>Meetup, Discussion</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup/Discussion for Hackers concerned with Climate Change</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Seth">Seth</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change</link>
         </links>
       </event>
       <event id="1066" guid="a3001e88-3c60-4c44-8d5b-b10d4e887cc3">

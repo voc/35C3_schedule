@@ -2220,14 +2220,9 @@
             }
         ]
     }, 
-    "Session:Audio Recording Setups# 6ded77a91ec0ffda20cd6c858ddcf29f": {
+    "Session:Audio Recording Setups# 32d509845fdc9d5db210c3c2beee9527": {
         "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1545926400", 
-                "raw": "1/2018/12/27/16/0/0/0"
-            }
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
@@ -2270,12 +2265,7 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups", 
-        "Has end time": [
-            {
-                "timestamp": "1545930000", 
-                "raw": "1/2018/12/27/17/0/0/0"
-            }
-        ]
+        "Has end time": []
     }, 
     "Session:Auti Angel Meeting# 6b27f7667d3bfba35eafc28d33c73f4d": {
         "Held in language": [
@@ -9751,6 +9741,68 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
         "Has end time": []
     }, 
+    "Session:Hackers Against Climate Change# 1b2332816ab4679c2130afbc7accb371": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meetup/Discussion for Hackers concerned with Climate Change"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meetup, Discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Seth", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hackers Against Climate Change"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "225d3788-7410-4a45-96b1-cbe631721b3b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change", 
+        "Has end time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
     "Session:Hackers Against Climate Change# 23628b1ce916ac4a8437d15e617c282e": {
         "Held in language": [
             "de - German", 
@@ -16917,9 +16969,7 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [
-            "http://plaything.me"
-        ], 
+        "Has website": [], 
         "Has description": [], 
         "Has session type": [
             "Workshop"

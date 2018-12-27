@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 19:50", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 20:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2037,33 +2037,6 @@
                                 "links": [
                                     "https://12characters.org.uk/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading"
-                                ]
-                            }, 
-                            {
-                                "id": 1019, 
-                                "guid": "4c0ab811-5ea5-4d86-a6c4-cee1bc6bed97", 
-                                "logo": null, 
-                                "date": "2018-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1019-session_audio_recording_setups", 
-                                "title": "Audio Recording Setups", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The idea of this workshop is to share experiences with audio recording hardware and software.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:KarlaByrinth", 
-                                        "public_name": "KarlaByrinth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups"
                                 ]
                             }, 
                             {
@@ -10549,6 +10522,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1401, 
+                                "guid": "225d3788-7410-4a45-96b1-cbe631721b3b", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1401-session_hackers_against_climate_change", 
+                                "title": "Hackers Against Climate Change", 
+                                "subtitle": "Meetup, Discussion", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup/Discussion for Hackers concerned with Climate Change", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                                        "public_name": "Seth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change"
+                                ]
+                            }, 
+                            {
                                 "id": 1066, 
                                 "guid": "a3001e88-3c60-4c44-8d5b-b10d4e887cc3", 
                                 "logo": null, 
@@ -15429,7 +15429,6 @@
                                 "description": "", 
                                 "persons": [], 
                                 "links": [
-                                    "http://plaything.me", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings"
                                 ]
                             }
