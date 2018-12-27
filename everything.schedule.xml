@@ -1,5 +1,5 @@
 <schedule>
-  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 20:40</version>
+  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 21:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14437,6 +14437,48 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
+    <room name="Assembly:Critical Decentralisation Cluster">
+      <event id="1408" guid="b85079d4-9170-4d11-a107-17dbfe0ee2a7">
+        <logo/>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1408-session_dappnode</slug>
+        <title>DAppNode</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>A quick overview on dappnode, a project which helps to run home nodes of various decentralized technologies in a easy way</description>
+        <persons/>
+        <links>
+          <link>http://dappnode.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DAppNode</link>
+        </links>
+      </event>
+      <event id="1396" guid="77accffd-4a6c-5227-be4d-0355c9d1c2bb">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:!decentral">
       <event id="1368" guid="048e1dde-2283-4158-a1ff-627fab35210f">
         <logo/>
@@ -15044,28 +15086,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Critical Decentralisation Cluster">
-      <event id="1396" guid="77accffd-4a6c-5227-be4d-0355c9d1c2bb">
-        <logo/>
-        <date>2018-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
-        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
-        <persons/>
-        <links>
-          <link>https://pslab.io</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
         </links>
       </event>
     </room>
