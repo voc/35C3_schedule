@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 17:20</version>
+  <version>2018-12-27 17:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1264,6 +1264,25 @@
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Heralds</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herald_Angel_Introduction</link>
+        </links>
+      </event>
+      <event id="1389" guid="761b211d-45ae-466a-8c63-75da4b1e0e5f">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1389-session_random_hacking</slug>
+        <title>Random hacking</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>outside</type>
+        <language/>
+        <abstract/>
+        <description>just random hacking</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Random_hacking</link>
         </links>
       </event>
       <event id="1098" guid="b82e08d9-8d4f-4ecc-bbb0-8eb500ce8cdb">
