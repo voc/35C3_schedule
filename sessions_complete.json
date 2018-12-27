@@ -1462,6 +1462,147 @@
             }
         ]
     }, 
+    "Session:Alltags-Experimente mit Kindern# 4cab120824ff13be19208a1af9e31710": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Alltags-Experimente mit Kindern"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "0b95a363-8767-4766-8a79-84eef7a2b797"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern", 
+        "Has end time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Alltags-Experimente mit Kindern# 93e399bd363a1f03e71f8cc839e8c96e": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Alltags-Experimente mit Kindern"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "0b95a363-8767-4766-8a79-84eef7a2b797"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern", 
+        "Has end time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Alltags-Experimente mit Kindern# f7934c624836446c02ea0685ad769535": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545908400", 
+                "raw": "1/2018/12/27/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Alltags-Experimente mit Kindern"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "4b396375-5c38-4932-9b57-c06f7c55039e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern", 
+        "Has end time": [
+            {
+                "timestamp": "1545915600", 
+                "raw": "1/2018/12/27/13/0/0/0"
+            }
+        ]
+    }, 
     "Session:Amiga! Amigaaa! Disksalvation & Scene Gathering# 28c20428a3905f364d6954087f570ee5": {
         "Held in language": [
             "en - English"
@@ -5250,6 +5391,61 @@
             }
         ]
     }, 
+    "Session:Dat project and community meetup# 3ba95e44c10d5852a5c96ef652e5ce76": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://datproject.org"
+        ], 
+        "Has description": [
+            "A informal meetup for Dat developers & community"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:!decentral", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:!decentral", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meeting and chat for developers"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Dat project and community meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "048e1dde-2283-4158-a1ff-627fab35210f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dat_project_and_community_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Data Office: Club Culture and Urban Transformation Processes - Opening Hours# 29813516b08e1a0a0fb513dec5ac9ef1": {
         "Held in language": [
             "en - English"
@@ -5848,6 +6044,13 @@
             {
                 "fulltext": "User:Pab", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Diego-edri", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
                 "namespace": 2, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -19883,12 +20086,12 @@
             }
         ]
     }, 
-    "Session:Whiskyleaks# 3c5ef01020a2c76afcea18c902af3173": {
+    "Session:Whiskyleaks# e10d9331771fa89a5027a5217e7b8da7": {
         "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
             }
         ], 
         "Has event track": [
@@ -19927,7 +20130,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whiskyleaks", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546045200", 
+                "raw": "1/2018/12/29/1/0/0/0"
+            }
+        ]
     }, 
     "Session:Why Does War Happen?# e856a41888c9542e05e24db830bf43c3": {
         "Held in language": [
@@ -20487,7 +20695,9 @@
         "Has description": [
             "XMPP developer and user meetup. We'll discuss recent improvements and challenges."
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Room:Seminar room 14-15", 
@@ -20498,7 +20708,22 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Link Mauve", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Link_Mauve", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Pep", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pep", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "XMPP Meetup"
         ], 

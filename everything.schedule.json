@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 271218-1253-Komona 1.0.6 2018-12-27 13:10", 
+        "version": "Golden Girls 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 271218-1253-Komona 1.0.6 2018-12-27 13:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2781,6 +2781,27 @@
                             }
                         ], 
                         "Kidspace": [
+                            {
+                                "id": 1367, 
+                                "guid": "4b396375-5c38-4932-9b57-c06f7c55039e", 
+                                "logo": null, 
+                                "date": "2018-12-27T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1367-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1213, 
                                 "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
@@ -9436,11 +9457,22 @@
                                 "title": "XMPP Meetup", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
+                                "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "XMPP developer and user meetup. We'll discuss recent improvements and challenges.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Link_Mauve", 
+                                        "public_name": "Link Mauve"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pep", 
+                                        "public_name": "Pep"
+                                    }
+                                ], 
                                 "links": [
                                     "https://xmpp.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup"
@@ -9610,6 +9642,11 @@
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
                                         "public_name": "Pab"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
+                                        "public_name": "Diego-edri"
                                     }
                                 ], 
                                 "links": [
@@ -10377,6 +10414,27 @@
                             }
                         ], 
                         "Kidspace": [
+                            {
+                                "id": 1366, 
+                                "guid": "8a337559-c2cf-5dd7-a955-333d028fad4a", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1366-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1236, 
                                 "guid": "44282ab5-0932-54b6-aad2-e240a28575b8", 
@@ -14044,6 +14102,33 @@
                                     "https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik"
                                 ]
+                            }, 
+                            {
+                                "id": 1369, 
+                                "guid": "d8461af1-2a4e-4371-bf6b-cb08fb8a5ee9", 
+                                "logo": null, 
+                                "date": "2018-12-28T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "4:00", 
+                                "room": "", 
+                                "slug": "35c3-1369-session_whiskyleaks", 
+                                "title": "Whiskyleaks", 
+                                "subtitle": "Hooray Whisky", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "We leak whisky", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:MikeTango", 
+                                        "public_name": "MikeTango"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whiskyleaks"
+                                ]
                             }
                         ], 
                         "Assembly:Hardware Hacking Area": [
@@ -14722,6 +14807,30 @@
                                 "links": [
                                     "http://www.kobakant.at/DIY/?p=2936", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Couching_Textile_Speakers"
+                                ]
+                            }
+                        ], 
+                        "Assembly:!decentral": [
+                            {
+                                "id": 1368, 
+                                "guid": "048e1dde-2283-4158-a1ff-627fab35210f", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:!decentral", 
+                                "slug": "35c3-1368-session_dat_project_and_community_meetup", 
+                                "title": "Dat project and community meetup", 
+                                "subtitle": "Meeting and chat for developers", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A informal meetup for Dat developers & community", 
+                                "persons": [], 
+                                "links": [
+                                    "https://datproject.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dat_project_and_community_meetup"
                                 ]
                             }
                         ], 
@@ -18424,6 +18533,27 @@
                             }
                         ], 
                         "Kidspace": [
+                            {
+                                "id": 1365, 
+                                "guid": "0b95a363-8767-4766-8a79-84eef7a2b797", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1365-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1214, 
                                 "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 

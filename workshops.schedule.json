@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 13:10", 
+        "version": "2018-12-27 13:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -714,6 +714,27 @@
                         ], 
                         "ChaosZone": [], 
                         "Kidspace": [
+                            {
+                                "id": 1367, 
+                                "guid": "4b396375-5c38-4932-9b57-c06f7c55039e", 
+                                "logo": null, 
+                                "date": "2018-12-27T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1367-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1213, 
                                 "guid": "27224164-a862-4d0c-8c32-2f5efd3d93cc", 
@@ -2280,11 +2301,22 @@
                                 "title": "XMPP Meetup", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
+                                "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "XMPP developer and user meetup. We'll discuss recent improvements and challenges.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Link_Mauve", 
+                                        "public_name": "Link Mauve"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pep", 
+                                        "public_name": "Pep"
+                                    }
+                                ], 
                                 "links": [
                                     "https://xmpp.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup"
@@ -2293,6 +2325,27 @@
                         ], 
                         "ChaosZone": [], 
                         "Kidspace": [
+                            {
+                                "id": 1366, 
+                                "guid": "8a337559-c2cf-5dd7-a955-333d028fad4a", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1366-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1236, 
                                 "guid": "44282ab5-0932-54b6-aad2-e240a28575b8", 
@@ -3351,6 +3404,11 @@
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
                                         "public_name": "Pab"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
+                                        "public_name": "Diego-edri"
                                     }
                                 ], 
                                 "links": [
@@ -4108,6 +4166,27 @@
                         ], 
                         "ChaosZone": [], 
                         "Kidspace": [
+                            {
+                                "id": 1365, 
+                                "guid": "0b95a363-8767-4766-8a79-84eef7a2b797", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Kidspace", 
+                                "slug": "35c3-1365-session_alltags_experimente_mit_kindern", 
+                                "title": "Alltags-Experimente mit Kindern", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
+                                ]
+                            }, 
                             {
                                 "id": 1214, 
                                 "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
