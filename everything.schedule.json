@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:20", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -6368,33 +6368,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
-                            }, 
-                            {
-                                "id": 1273, 
-                                "guid": "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:30", 
-                                "room": "", 
-                                "slug": "35c3-1273-session_whisky", 
-                                "title": "Whisky", 
-                                "subtitle": "Main Event", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
-                                        "public_name": "Blackspear"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky"
-                                ]
                             }
                         ], 
                         "Assembly:ChaosZone": [
@@ -7415,6 +7388,35 @@
                                 "links": [
                                     "https://rpgzweinull.de/profile/tomorrowland", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Geheimorganisation": [
+                            {
+                                "id": 1273, 
+                                "guid": "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Geheimorganisation", 
+                                "slug": "35c3-1273-session_whisky", 
+                                "title": "Whisky", 
+                                "subtitle": "Main Event", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
+                                        "public_name": "Blackspear"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky"
                                 ]
                             }
                         ]
@@ -17667,18 +17669,18 @@
                                 "id": 1250, 
                                 "guid": "31bf9c3b-a12b-4ef5-84d0-a8b162609462", 
                                 "logo": null, 
-                                "date": "2018-12-29T21:30:00+01:00", 
-                                "start": "21:30", 
+                                "date": "2018-12-29T22:45:00+01:00", 
+                                "start": "22:45", 
                                 "duration": "2:00", 
                                 "room": "Lecture room 11", 
-                                "slug": "35c3-1250-session_kinkygeeks_bondage_workshop_fuer_anfaenger", 
-                                "title": "KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger", 
+                                "slug": "35c3-1250-session_kinkygeeks_workshop_ueberwaeltigung_mit_seil_und_schmerzbondage", 
+                                "title": "KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
                                 "type": "workshop", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Bondage f\u00fcr Anf\u00e4nger, keine Vorkenntnisse erforderlich.", 
+                                "description": "Einf\u00fchrung in \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -17687,7 +17689,7 @@
                                     }
                                 ], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger"
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage"
                                 ]
                             }, 
                             {
@@ -22669,6 +22671,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1381, 
+                                "guid": "905131f3-3aaf-419a-be04-6632ca8a8234", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:20", 
+                                "room": "", 
+                                "slug": "35c3-1381-session_showcomposer_next_generation_foss_lightning_control_brainstorming_kick_off", 
+                                "title": "ShowComposer - Next Generation FOSS Lightning Control - Brainstorming & Kick-Off", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Die bisherigen L\u00f6sungen f\u00fcr Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug f\u00fcr kreative wird.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:ShowComposer_-_Next_Generation_FOSS_Lightning_Control_-_Brainstorming_%26_Kick-Off"
+                                ]
+                            }, 
+                            {
                                 "id": 1275, 
                                 "guid": "279dc130-1d1f-42d6-9272-54abae62edda", 
                                 "logo": null, 
@@ -26564,7 +26587,7 @@
                                 "room": "Assembly:Social Fiction Society", 
                                 "slug": "35c3-1376-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day4 Session in English", 
+                                "subtitle": "Day4 Session in English - No more player slots available!", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 

@@ -10952,15 +10952,15 @@
             }
         ]
     }, 
-    "Session:KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger# 8fa1fd2c3b5beb2703a79a56f58e36b5": {
+    "Session:KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage# 83e4bd98a0ffac23ecbd064d8d438ba2": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546119000", 
-                "raw": "1/2018/12/29/21/30/0/0"
+                "timestamp": "1546123500", 
+                "raw": "1/2018/12/29/22/45/0/0"
             }
         ], 
         "Has event track": [
@@ -10968,7 +10968,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Bondage f\u00fcr Anf\u00e4nger, keine Vorkenntnisse erforderlich."
+            "Einf\u00fchrung in \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage"
         ], 
         "Has session type": [
             "Workshop"
@@ -10993,7 +10993,7 @@
             }
         ], 
         "Has title": [
-            "KinkyGeeks Bondage Workshop f\u00fcr Anf\u00e4nger"
+            "KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage"
         ], 
         "Has duration": [
             120
@@ -11004,11 +11004,11 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage", 
         "Has end time": [
             {
-                "timestamp": "1546126200", 
-                "raw": "1/2018/12/29/23/30/0/0"
+                "timestamp": "1546130700", 
+                "raw": "1/2018/12/30/0/45/0/0"
             }
         ]
     }, 
@@ -15488,7 +15488,7 @@
             }
         ]
     }, 
-    "Session:Shadowrun# 441f037151312a272a65164c91740b19": {
+    "Session:Shadowrun# 343279b4f911a976b76b245354d95874": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -15521,7 +15521,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day4 Session in English"
+            "Day4 Session in English - No more player slots available!"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -15653,6 +15653,49 @@
             {
                 "timestamp": "1546099200", 
                 "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:ShowComposer - Next Generation FOSS Lightning Control - Brainstorming & Kick-Off# 87acb51c93d5fc220c683348168842a0": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Die bisherigen L\u00f6sungen f\u00fcr Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug f\u00fcr kreative wird."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "ShowComposer - Next Generation FOSS Lightning Control - Brainstorming & Kick-Off"
+        ], 
+        "Has duration": [
+            80
+        ], 
+        "GUID": [
+            "905131f3-3aaf-419a-be04-6632ca8a8234"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ShowComposer_-_Next_Generation_FOSS_Lightning_Control_-_Brainstorming_%26_Kick-Off", 
+        "Has end time": [
+            {
+                "timestamp": "1546114800", 
+                "raw": "1/2018/12/29/20/20/0/0"
             }
         ]
     }, 
@@ -16263,6 +16306,47 @@
                 "raw": "1/2018/12/29/20/0/0/0"
             }
         ]
+    }, 
+    "Session:SpaceAPI - Status Update# 38f675c6e26b642e226e9c1aa1b5efa5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://spaceapi.io"
+        ], 
+        "Has description": [
+            "Status update of the SpaceAPI project and dicussions about its future"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Status Update, Discussion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "SpaceAPI - Status Update"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "1d06fa37-f896-4aa0-b838-d17324751bd0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SpaceAPI_-_Status_Update", 
+        "Has end time": []
     }, 
     "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 2b205e6e11659c3cc18cf3577fc75506": {
         "Held in language": [
@@ -20497,7 +20581,7 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
         "Has end time": []
     }, 
-    "Session:Whisky# 23c5dd338dc25164996e9395434775d3": {
+    "Session:Whisky# d73bc610b81e3fcf21b57a2a36b641b5": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -20518,7 +20602,15 @@
         "Has session type": [
             "Hands-On"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Geheimorganisation", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Geheimorganisation", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [
             "Main Event"
         ], 

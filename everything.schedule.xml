@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:20</version>
+  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6169,27 +6169,6 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel</link>
         </links>
       </event>
-      <event id="1273" guid="ed141b6b-a6bf-4ecc-98ab-29013cf7c20f">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room/>
-        <slug>35c3-1273-session_whisky</slug>
-        <title>Whisky</title>
-        <subtitle>Main Event</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear">Blackspear</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky</link>
-        </links>
-      </event>
     </room>
     <room name="Assembly:ChaosZone">
       <event id="1015" guid="36acca93-34a4-4e93-9ebe-ec1422058a27">
@@ -7055,6 +7034,29 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <links>
           <link>https://rpgzweinull.de/profile/tomorrowland</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Geheimorganisation">
+      <event id="1273" guid="ed141b6b-a6bf-4ecc-98ab-29013cf7c20f">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Geheimorganisation</room>
+        <slug>35c3-1273-session_whisky</slug>
+        <title>Whisky</title>
+        <subtitle>Main Event</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear">Blackspear</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky</link>
         </links>
       </event>
     </room>
@@ -16747,23 +16749,23 @@ However, it's not always easy...</description>
       </event>
       <event id="1250" guid="31bf9c3b-a12b-4ef5-84d0-a8b162609462">
         <logo/>
-        <date>2018-12-29T21:30:00+01:00</date>
-        <start>21:30</start>
+        <date>2018-12-29T22:45:00+01:00</date>
+        <start>22:45</start>
         <duration>2:00</duration>
         <room>Lecture room 11</room>
-        <slug>35c3-1250-session_kinkygeeks_bondage_workshop_fuer_anfaenger</slug>
-        <title>KinkyGeeks Bondage Workshop für Anfänger</title>
+        <slug>35c3-1250-session_kinkygeeks_workshop_ueberwaeltigung_mit_seil_und_schmerzbondage</slug>
+        <title>KinkyGeeks-Workshop: Überwältigung mit Seil und Schmerzbondage</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Bondage für Anfänger, keine Vorkenntnisse erforderlich.</description>
+        <description>Einführung in Überwältigung mit Seil und Schmerzbondage</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
         </persons>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks_Bondage_Workshop_f%C3%BCr_Anf%C3%A4nger</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage</link>
         </links>
       </event>
       <event id="1122" guid="cd2e4d22-e3e5-4284-be49-68f5d1a64fa6">
@@ -21606,6 +21608,25 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup</link>
         </links>
       </event>
+      <event id="1381" guid="905131f3-3aaf-419a-be04-6632ca8a8234">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:20</duration>
+        <room/>
+        <slug>35c3-1381-session_showcomposer_next_generation_foss_lightning_control_brainstorming_kick_off</slug>
+        <title>ShowComposer - Next Generation FOSS Lightning Control - Brainstorming &amp; Kick-Off</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die bisherigen Lösungen für Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug für kreative wird.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ShowComposer_-_Next_Generation_FOSS_Lightning_Control_-_Brainstorming_%26_Kick-Off</link>
+        </links>
+      </event>
       <event id="1275" guid="279dc130-1d1f-42d6-9272-54abae62edda">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
@@ -25215,7 +25236,7 @@ Wir freuen uns auf Dich und Dein Input!</description>
         <room>Assembly:Social Fiction Society</room>
         <slug>35c3-1376-session_shadowrun</slug>
         <title>Shadowrun</title>
-        <subtitle>Day4 Session in English</subtitle>
+        <subtitle>Day4 Session in English - No more player slots available!</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
