@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 13:40", 
+        "version": "Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 14:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -6278,28 +6278,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1248, 
-                                "guid": "d056aed3-4ca0-427a-a565-24b2595ffcac", 
-                                "logo": null, 
-                                "date": "2018-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1248-session_shadowrun", 
-                                "title": "Shadowrun", 
-                                "subtitle": "Day1 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
-                                "persons": [], 
-                                "links": [
-                                    "https://rpgzweinull.de/profile/tomorrowland", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
-                                ]
-                            }, 
-                            {
                                 "id": 1291, 
                                 "guid": "f34ac605-a095-464c-a50d-62a93d04e269", 
                                 "logo": null, 
@@ -7405,6 +7383,30 @@
                                 "links": [
                                     "https://wiki.ecohackerfarm.org/powerplant:start", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_intro_session"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1248, 
+                                "guid": "d056aed3-4ca0-427a-a565-24b2595ffcac", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1248-session_shadowrun", 
+                                "title": "Shadowrun", 
+                                "subtitle": "Day1 Session", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
+                                "persons": [], 
+                                "links": [
+                                    "https://rpgzweinull.de/profile/tomorrowland", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
                                 ]
                             }
                         ]
@@ -14075,28 +14077,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1247, 
-                                "guid": "76ac3888-8f15-5918-81bd-75a347813992", 
-                                "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1247-session_shadowrun", 
-                                "title": "Shadowrun", 
-                                "subtitle": "Day2 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
-                                "persons": [], 
-                                "links": [
-                                    "https://rpgzweinull.de/profile/tomorrowland", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
-                                ]
-                            }, 
-                            {
                                 "id": 1144, 
                                 "guid": "5b7e4df9-2b03-5e2d-bd72-9642e5ff8998", 
                                 "logo": null, 
@@ -15619,6 +15599,30 @@
                                 "links": [
                                     "https://doku.ccc.de/R5", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:R5"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1246, 
+                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1246-session_shadowrun", 
+                                "title": "Shadowrun", 
+                                "subtitle": "Day2 Session", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
+                                "persons": [], 
+                                "links": [
+                                    "https://rpgzweinull.de/profile/tomorrowland", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
                                 ]
                             }
                         ], 
@@ -22490,28 +22494,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1249, 
-                                "guid": "091337ed-76b4-55ef-9b61-1a8126c7dabb", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1249-session_shadowrun", 
-                                "title": "Shadowrun", 
-                                "subtitle": "Day3 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
-                                "persons": [], 
-                                "links": [
-                                    "https://rpgzweinull.de/profile/tomorrowland", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
-                                ]
-                            }, 
-                            {
                                 "id": 1275, 
                                 "guid": "279dc130-1d1f-42d6-9272-54abae62edda", 
                                 "logo": null, 
@@ -23446,6 +23428,30 @@
                                 "links": [
                                     "http://35c3.fahrgemeinschaft.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ride_Sharing,_Mitfahren,_Fahrgemeinschaften,_Trampen"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1249, 
+                                "guid": "091337ed-76b4-55ef-9b61-1a8126c7dabb", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1249-session_shadowrun", 
+                                "title": "Shadowrun", 
+                                "subtitle": "Day3 Session", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
+                                "persons": [], 
+                                "links": [
+                                    "https://rpgzweinull.de/profile/tomorrowland", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
                                 ]
                             }
                         ], 
@@ -26301,28 +26307,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1246, 
-                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1246-session_shadowrun", 
-                                "title": "Shadowrun", 
-                                "subtitle": "Day4 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
-                                "persons": [], 
-                                "links": [
-                                    "https://rpgzweinull.de/profile/tomorrowland", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
-                                ]
-                            }, 
-                            {
                                 "id": 1189, 
                                 "guid": "613ca87a-a52c-442f-b267-901950b2f3ac", 
                                 "logo": null, 
@@ -26391,6 +26375,30 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1376, 
+                                "guid": "6dcf9220-7b50-5675-a3b8-b8071ac6aea2", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1376-session_shadowrun", 
+                                "title": "Shadowrun", 
+                                "subtitle": "Day4 Session", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
+                                "persons": [], 
+                                "links": [
+                                    "https://rpgzweinull.de/profile/tomorrowland", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
                                 ]
                             }
                         ]
