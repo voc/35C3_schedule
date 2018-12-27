@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5 2018-12-27 09:30</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5 2018-12-27 11:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14155,6 +14155,27 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>http://www.manifestations.nl</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Get_out_of_your_Bubble!</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:WikiPakaWG">
+      <event id="1353" guid="c109dfc7-b709-4a95-aaff-d021aa43c47c">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:WikiPakaWG</room>
+        <slug>35c3-1353-session_fragdenstaat_user_treffen</slug>
+        <title>FragDenStaat-User-Treffen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Alle Leute, die FragDenStaat und Informationsfreiheitsgesetze bereits nutzen oder nutzen wollen, sind herzlich eingeladen. Wir sprechen über Neuerungen und Pläner für FragDenStaat.de und nehmen Kritik und Anregungen auf.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FragDenStaat-User-Treffen</link>
         </links>
       </event>
     </room>

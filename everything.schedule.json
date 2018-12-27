@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5 2018-12-27 09:30", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5 2018-12-27 11:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14715,6 +14715,29 @@
                                 "links": [
                                     "http://www.manifestations.nl", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Get_out_of_your_Bubble!"
+                                ]
+                            }
+                        ], 
+                        "Assembly:WikiPakaWG": [
+                            {
+                                "id": 1353, 
+                                "guid": "c109dfc7-b709-4a95-aaff-d021aa43c47c", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:WikiPakaWG", 
+                                "slug": "35c3-1353-session_fragdenstaat_user_treffen", 
+                                "title": "FragDenStaat-User-Treffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Alle Leute, die FragDenStaat und Informationsfreiheitsgesetze bereits nutzen oder nutzen wollen, sind herzlich eingeladen. Wir sprechen \u00fcber Neuerungen und Pl\u00e4ner f\u00fcr FragDenStaat.de und nehmen Kritik und Anregungen auf.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:FragDenStaat-User-Treffen"
                                 ]
                             }
                         ], 

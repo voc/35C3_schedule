@@ -7957,6 +7957,55 @@
             }
         ]
     }, 
+    "Session:FragDenStaat-User-Treffen# acf7e7bab9634514c38da4f7ebaf7376": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546002000", 
+                "raw": "1/2018/12/28/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Alle Leute, die FragDenStaat und Informationsfreiheitsgesetze bereits nutzen oder nutzen wollen, sind herzlich eingeladen. Wir sprechen \u00fcber Neuerungen und Pl\u00e4ner f\u00fcr FragDenStaat.de und nehmen Kritik und Anregungen auf."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:WikiPakaWG", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:WikiPakaWG", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "FragDenStaat-User-Treffen"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c109dfc7-b709-4a95-aaff-d021aa43c47c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:FragDenStaat-User-Treffen", 
+        "Has end time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ]
+    }, 
     "Session:From * import python# 5cee5ab381c31a660f4df52dfcf3fc2e": {
         "Held in language": [
             "en - English"
