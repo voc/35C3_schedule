@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 18:00</version>
+  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 18:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -90,7 +90,9 @@ Finally, I’ll explain how defenses developed by researchers over the past deca
           <person id="4228">J. Alex Halderman</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/653/original/Election_Cybersecurity_Progress_Report_%2835c5__December_2018%29.pdf?1545925095">Slides</attachment>
+        </attachments>
       </event>
       <event id="9647" guid="9629fcf4-6810-48d7-bd17-d81f924e6b47">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9647.html</url>
@@ -196,7 +198,9 @@ One of the most common applications of deep learning is the interpretation of im
         <links>
           <link href="https://www.nussschale-podcast.de">Nussschale Podcast</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/647/original/i2DL_Slides.pdf?1545916065">Slides</attachment>
+        </attachments>
       </event>
       <event id="10011" guid="686c1387-e761-4df6-b395-f9ddf92d46e7">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10011.html</url>
@@ -453,7 +457,10 @@ The research we conduct at Censored Planet provides unique insights and data poi
         <links>
           <link href="https://censoredplanet.org">Censored Planet: a Global Censorship Observatory </link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/654/original/35C3-CensoredPlanet-Ensafi.pdf?1545925229">Presentation Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="10005" guid="f0d70663-0769-4462-ad27-bc516d9cb141">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10005.html</url>
@@ -761,8 +768,12 @@ Things are currently progressing very fast and a lot can happen in the weeks bet
         <persons>
           <person id="8418">Claudia Frick - @FuzzyLeapfrog</person>
         </persons>
-        <links/>
-        <attachments/>
+        <links>
+          <link href="https://doi.org/10.5281/zenodo.1495601">Slides (DOI)</link>
+        </links>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/639/original/35c3-FuzzyLeapfrog.pdf?1545913798">Slides</attachment>
+        </attachments>
       </event>
       <event id="9513" guid="7177142b-6f15-4fac-af62-c45df7a377a9">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9513.html</url>
@@ -987,7 +998,10 @@ Nach etwas mehr als der Hälfte meiner vierjährigen Periode möchte ich im Rahm
         <links>
           <link href="https://netzpolitik.org/neues-aus-dem-fernsehrat/">Reihe "Neues aus dem Fernsehrat" bei netzpolitik.org</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/651/original/Dobusch-35C3-Chaos_im_Fernsehrat_FINAL.pdf?1545924504">Slides "Chaos im Fernsehrat"</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9792" guid="bf5019dc-499d-4c06-9ad0-35adbe01e7f3">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9792.html</url>
@@ -1147,6 +1161,8 @@ Nun werden auch die technischen Fähigkeiten von „Copernicus“ ausgebaut. Das
         <links/>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021"> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/650/original/35C3_Frontex.pdf?1545923568">Präsentation</attachment>
         </attachments>
       </event>
       <event id="9909" guid="65563dfd-db48-41ea-85a9-e889dd673d09">
@@ -1320,45 +1336,6 @@ Over the last years at University of Cambridge I contributed to a formal model o
         </links>
         <attachments/>
       </event>
-      <event id="9903" guid="647d2bdf-8161-4136-b041-27dd6b0fe989">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9903.html</url>
-        <logo/>
-        <date>2018-12-27T20:50:00+01:00</date>
-        <start>20:50</start>
-        <duration>01:00</duration>
-        <room>Dijkstra</room>
-        <slug>35c3-9903-exploiting_kernel_memory_corruptions_on_microsoft_windows_10_redstone_5</slug>
-        <title>Exploiting Kernel Memory Corruptions on Microsoft Windows 10 RedStone 5</title>
-        <subtitle/>
-        <track>Security</track>
-        <type>lecture</type>
-        <language>en</language>
-        <abstract>This talk is about new challenges in exploiting kernel memory corruptions on brand new Microsoft Windows RedStone 5.</abstract>
-        <description>Each new version of Windows OS Microsoft enhances security by adding security mitigation mechanisms - Kernel land vulnerabilities are getting more and more valuable these days. For example, the easy way to escape from a sandbox is by using a kernel vulnerability. That's why Microsoft struggles to enhance security of Windows kernel.&#13;
-&#13;
-Kernel pool allocator plays a significant role in security of whole kernel. Since Windows 7, Microsoft started to enhance the security of the Windows kernel pool allocator. In Windows 8, Microsoft has eliminated almost all reliable (previously published) techniques of exploiting kernel pool corruptions.&#13;
-&#13;
-Then Microsoft eliminated "0xBAD0B0B0" technique in Windows 8.1, and there was no easy technique to exploit Pool Overflows on Windows 8.1&#13;
-&#13;
-Then DKOM/DKOHM technique was present that gave really nice primitives(arbitrary read/write/execute) for kernel exploitation.&#13;
-&#13;
-Following up Microsoft obfuscated TypeIndex in an object header leaving DKOM/DKOHM technique useless.&#13;
-&#13;
-But Microsoft left unprotected optional headers that gave born to DKOOHM technique.&#13;
-&#13;
-Sadly enough, Microsoft introduced brand new Kernel Memory Allocator on Windows 10 RS5 leaving current pool memory manipulation techniques useless.&#13;
-&#13;
-This talk presents new techniques of exploiting kernel memory corruptions on Windows 10 RS5.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="8642">Nikita Tarakanov</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
       <event id="9778" guid="dbd61e6a-dbde-4dcd-9b2e-73ba7ad62861">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9778.html</url>
         <logo>/system/events/logos/000/009/778/large/oscar_eckig.png?1545254350</logo>
@@ -1432,7 +1409,9 @@ In this talk, I will provide an overview of the declining quality of ecosystems 
           <person id="8239">Theodor Sperlea</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/656/original/Talk_35c3_169.pdf?1545927988">Presentation slides</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Eliza">
@@ -8285,7 +8264,7 @@ Never Forgetti is a didactic live gaming lecture about the deaths of female vide
 &#13;
 Le RESET is a French feminist hackerspace created in 2016 by a small group of queer &amp; feminist hackers and hacktivists. The goal was to create a space at the intersection of communities that often remain apart.&#13;
 &#13;
-Em O'Sullivan is a former hackerspace and Maker Faire organiser. Currently, she is a PhD student researching ways to improve women and non-binary people's engagement with technology via makerspaces.&#13;
+Em O'Sullivan is a former hackerspace and Maker Faire organiser. Currently, they are a PhD student researching ways to improve women and non-binary people's engagement with technology via makerspaces.&#13;
 &#13;
 Ready to Code is a young project from Stuttgart that teaches girls and women how to code and stand up for themselves.&#13;
 &#13;
@@ -8783,7 +8762,7 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
       </event>
       <event id="10036" guid="1cff41a8-455e-42a6-ab08-d6cb166e7d3b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10036.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/010/036/large/photo_2017-12-25_16-24-33.jpg?1545927390</logo>
         <date>2018-12-28T23:50:00+01:00</date>
         <start>23:50</start>
         <duration>01:00</duration>
@@ -8802,7 +8781,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="8771">jule</person>
+          <person id="8771">Jule Torhorst</person>
           <person id="8784">Tammo Messow</person>
           <person id="8786">Ted Siegert</person>
         </persons>
@@ -12018,12 +11997,18 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <room>WikiPakaWG Küche</room>
         <slug>LSDUED</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED</url>
-        <title>Mitfahr-Börsen: Schnittstellen, OpenData und mehr</title>
+        <title>Ride Sharing, OpenData, Schnittstellen, Mitfahr-Börsen, Fahrgemeinschaften, Trampen und mehr</title>
         <subtitle/>
         <track/>
         <type>Meetup</type>
         <language>de</language>
-        <abstract>Ein kleines Treffen von Menschen, die etwas mit Mitfahr-Börsen zu tun haben.</abstract>
+        <abstract>We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.&#13;
+&#13;
+Inhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen&#13;
+&#13;
+Note there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.&#13;
+&#13;
+The meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.</abstract>
         <description/>
         <recording>
           <license/>
@@ -15957,7 +15942,12 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <person id="8168">Manuel Aiple</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/643/original/interactiverobot.zip?1545914780">Self-balancing robot simulator example</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/644/original/drop-with-drag.gnumeric?1545914880">Drop with drag example</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/645/original/mass-spring-damper.gnumeric?1545914880">Mass spring damper example</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/646/original/electric-motor.gnumeric?1545914880">Electric motor example</attachment>
+        </attachments>
       </event>
       <event id="9765" guid="35e80689-6330-49fe-b5c5-46972418f5b6">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9765.html</url>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
+        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -103,7 +103,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/653/original/Election_Cybersecurity_Progress_Report_%2835c5__December_2018%29.pdf?1545925095", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9647.html", 
@@ -209,7 +214,12 @@
                                         "title": "Nussschale Podcast"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/647/original/i2DL_Slides.pdf?1545916065", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10011.html", 
@@ -499,7 +509,16 @@
                                         "title": "Censored Planet: a Global Censorship Observatory "
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/654/original/35C3-CensoredPlanet-Ensafi.pdf?1545925229", 
+                                        "title": "Presentation Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10005.html", 
@@ -792,8 +811,18 @@
                                         "public_name": "Claudia Frick - @FuzzyLeapfrog"
                                     }
                                 ], 
-                                "links": [], 
-                                "attachments": []
+                                "links": [
+                                    {
+                                        "url": "https://doi.org/10.5281/zenodo.1495601", 
+                                        "title": "Slides (DOI)"
+                                    }
+                                ], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/639/original/35c3-FuzzyLeapfrog.pdf?1545913798", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9513.html", 
@@ -1022,7 +1051,16 @@
                                         "title": "Reihe \"Neues aus dem Fernsehrat\" bei netzpolitik.org"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/651/original/Dobusch-35C3-Chaos_im_Fernsehrat_FINAL.pdf?1545924504", 
+                                        "title": "Slides \"Chaos im Fernsehrat\""
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9792.html", 
@@ -1158,6 +1196,14 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021", 
                                         "title": " EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr f\u00fcr Frontex noch aus dem Osten."
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/650/original/35C3_Frontex.pdf?1545923568", 
+                                        "title": "Pr\u00e4sentation"
                                     }
                                 ]
                             }, 
@@ -1351,34 +1397,6 @@
                                 "attachments": []
                             }, 
                             {
-                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9903.html", 
-                                "id": 9903, 
-                                "guid": "647d2bdf-8161-4136-b041-27dd6b0fe989", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:50:00+01:00", 
-                                "start": "20:50", 
-                                "duration": "01:00", 
-                                "room": "Dijkstra", 
-                                "slug": "35c3-9903-exploiting_kernel_memory_corruptions_on_microsoft_windows_10_redstone_5", 
-                                "title": "Exploiting Kernel Memory Corruptions on Microsoft Windows 10 RedStone 5", 
-                                "subtitle": "", 
-                                "track": "Security", 
-                                "type": "lecture", 
-                                "language": "en", 
-                                "abstract": "This talk is about new challenges in exploiting kernel memory corruptions on brand new Microsoft Windows RedStone 5.", 
-                                "description": "Each new version of Windows OS Microsoft enhances security by adding security mitigation mechanisms - Kernel land vulnerabilities are getting more and more valuable these days. For example, the easy way to escape from a sandbox is by using a kernel vulnerability. That's why Microsoft struggles to enhance security of Windows kernel.\r\n\r\nKernel pool allocator plays a significant role in security of whole kernel. Since Windows 7, Microsoft started to enhance the security of the Windows kernel pool allocator. In Windows 8, Microsoft has eliminated almost all reliable (previously published) techniques of exploiting kernel pool corruptions.\r\n\r\nThen Microsoft eliminated \"0xBAD0B0B0\" technique in Windows 8.1, and there was no easy technique to exploit Pool Overflows on Windows 8.1\r\n\r\nThen DKOM/DKOHM technique was present that gave really nice primitives(arbitrary read/write/execute) for kernel exploitation.\r\n\r\nFollowing up Microsoft obfuscated TypeIndex in an object header leaving DKOM/DKOHM technique useless.\r\n\r\nBut Microsoft left unprotected optional headers that gave born to DKOOHM technique.\r\n\r\nSadly enough, Microsoft introduced brand new Kernel Memory Allocator on Windows 10 RS5 leaving current pool memory manipulation techniques useless.\r\n\r\nThis talk presents new techniques of exploiting kernel memory corruptions on Windows 10 RS5.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 8642, 
-                                        "public_name": "Nikita Tarakanov"
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": []
-                            }, 
-                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9778.html", 
                                 "id": 9778, 
                                 "guid": "dbd61e6a-dbde-4dcd-9b2e-73ba7ad62861", 
@@ -1457,7 +1475,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/656/original/Talk_35c3_169.pdf?1545927988", 
+                                        "title": "Presentation slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Eliza": [
@@ -6185,7 +6208,7 @@
                                 "type": "podium", 
                                 "language": "en", 
                                 "abstract": "A variety of initiatives aims at encouraging female engagement in the hacker and maker scene. We present there some promising approaches and key learnings in a joint panel discussion.", 
-                                "description": "Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl.\r\n\r\nLe RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal was to create a space at the intersection of communities that often remain apart.\r\n\r\nEm O'Sullivan is a former hackerspace and Maker Faire organiser. Currently, she is a PhD student researching ways to improve women and non-binary people's engagement with technology via makerspaces.\r\n\r\nReady to Code is a young project from Stuttgart that teaches girls and women how to code and stand up for themselves.\r\n\r\n\r\n\r\n", 
+                                "description": "Hong Phuc grew up in a small town in the Mekong Delta, south of Vietnam, She could never imagine how her life went a completely different path than what she was told as a young girl.\r\n\r\nLe RESET is a French feminist hackerspace created in 2016 by a small group of queer & feminist hackers and hacktivists. The goal was to create a space at the intersection of communities that often remain apart.\r\n\r\nEm O'Sullivan is a former hackerspace and Maker Faire organiser. Currently, they are a PhD student researching ways to improve women and non-binary people's engagement with technology via makerspaces.\r\n\r\nReady to Code is a young project from Stuttgart that teaches girls and women how to code and stand up for themselves.\r\n\r\n\r\n\r\n", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -6638,7 +6661,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10036.html", 
                                 "id": 10036, 
                                 "guid": "1cff41a8-455e-42a6-ab08-d6cb166e7d3b", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/010/036/large/photo_2017-12-25_16-24-33.jpg?1545927390", 
                                 "date": "2018-12-28T23:50:00+01:00", 
                                 "start": "23:50", 
                                 "duration": "01:00", 
@@ -6656,7 +6679,7 @@
                                 "persons": [
                                     {
                                         "id": 8771, 
-                                        "public_name": "jule"
+                                        "public_name": "Jule Torhorst"
                                     }, 
                                     {
                                         "id": 8784, 
@@ -8399,12 +8422,12 @@
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "LSDUED", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED", 
-                                "title": "Mitfahr-B\u00f6rsen: Schnittstellen, OpenData und mehr", 
+                                "title": "Ride Sharing, OpenData, Schnittstellen, Mitfahr-B\u00f6rsen, Fahrgemeinschaften, Trampen und mehr", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Meetup", 
                                 "language": "de", 
-                                "abstract": "Ein kleines Treffen von Menschen, die etwas mit Mitfahr-B\u00f6rsen zu tun haben.", 
+                                "abstract": "We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.\r\n\r\nInhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen\r\n\r\nNote there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.\r\n\r\nThe meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.", 
                                 "description": null, 
                                 "recording_license": "", 
                                 "do_not_record": true, 
@@ -10953,7 +10976,24 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/643/original/interactiverobot.zip?1545914780", 
+                                        "title": "Self-balancing robot simulator example"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/644/original/drop-with-drag.gnumeric?1545914880", 
+                                        "title": "Drop with drag example"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/645/original/mass-spring-damper.gnumeric?1545914880", 
+                                        "title": "Mass spring damper example"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/646/original/electric-motor.gnumeric?1545914880", 
+                                        "title": "Electric motor example"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9765.html", 
