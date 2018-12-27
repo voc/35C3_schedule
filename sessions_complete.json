@@ -19511,6 +19511,59 @@
             }
         ]
     }, 
+    "Session:Tech-Coops Meetup# 274146503f31684fd569880e549cc79e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://it-kollektiv.com"
+        ], 
+        "Has description": [
+            "A space for tech-coops and people that are interested in tech-coops to get to know each other and socialize. Plan next steps and make plans to stay in touch after congress."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:IT-Kollektiv", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:IT-Kollektiv", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tech-Coops Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5132e282-fa06-4a31-a577-feecfbbbfe0a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tech-Coops_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:Teckids Teamlead Orga Meeting# 0c57bf105e6f22498270a7a7db1e9b66": {
         "Held in language": [], 
         "Has start time": [

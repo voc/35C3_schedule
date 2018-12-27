@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 22:00", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 22:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -24508,6 +24508,30 @@
                                 "links": [
                                     "http://www.squarelet.org", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Squarelet_-_Kooperativ_lernen_mit_Open_Source-Pinboards"
+                                ]
+                            }
+                        ], 
+                        "Assembly:IT-Kollektiv": [
+                            {
+                                "id": 1415, 
+                                "guid": "5132e282-fa06-4a31-a577-feecfbbbfe0a", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:30", 
+                                "room": "Assembly:IT-Kollektiv", 
+                                "slug": "35c3-1415-session_tech_coops_meetup", 
+                                "title": "Tech-Coops Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A space for tech-coops and people that are interested in tech-coops to get to know each other and socialize. Plan next steps and make plans to stay in touch after congress.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://it-kollektiv.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tech-Coops_Meetup"
                                 ]
                             }
                         ], 
