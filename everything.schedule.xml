@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 14:00</version>
+  <version>Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 14:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7041,7 +7041,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <room>Assembly:Social Fiction Society</room>
         <slug>35c3-1248-session_shadowrun</slug>
         <title>Shadowrun</title>
-        <subtitle>Day1 Session</subtitle>
+        <subtitle>Day1 Session - No more player slots available!</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
@@ -14576,6 +14576,49 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1377" guid="6f8db07b-8763-5b6d-a421-0d8a300b66d2">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1377-session_im_dialog_mit_dem_terminal_das_robotron_k8912</slug>
+        <title>Im Dialog mit dem Terminal - das robotron K8912</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Im Dialog mit dem Terminal - das robotron K8912</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Dkt">Dkt</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Im_Dialog_mit_dem_Terminal_-_das_robotron_K8912</link>
+        </links>
+      </event>
+      <event id="1307" guid="fc749d21-32be-47a3-a03a-7e678e495a98">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:40</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1307-session_significant_playthings</slug>
+        <title>Significant Playthings</title>
+        <subtitle>Hands-on workshop with your favorite toys/objects</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>http://plaything.me</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Pseudoroom">
       <event id="1239" guid="a0ff2399-7c1e-4b7c-9ced-182708dfb77c">
         <logo/>
@@ -14907,28 +14950,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://rpgzweinull.de/profile/tomorrowland</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
-        </links>
-      </event>
-    </room>
-    <room name="Vintage Computing Cluster">
-      <event id="1307" guid="fc749d21-32be-47a3-a03a-7e678e495a98">
-        <logo/>
-        <date>2018-12-28T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>0:40</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1307-session_significant_playthings</slug>
-        <title>Significant Playthings</title>
-        <subtitle>Hands-on workshop with your favorite toys/objects</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>http://plaything.me</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Significant_Playthings</link>
         </links>
       </event>
     </room>
@@ -16920,6 +16941,28 @@ However, it's not always easy...</description>
         <links>
           <link>https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
+        </links>
+      </event>
+      <event id="1378" guid="fcbd9004-9f31-412c-80b8-0c770a8c2482">
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1378-session_verteilte_schluesselerzeugung_fuer_openpgp_mit_dkgpg_2_</slug>
+        <title>Verteilte Schlüsselerzeugung für OpenPGP mit DKGPG (2)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>In diesem Vortrag wird gezeigt, wie ihr mit der freien Software "Distributed Privacy Guard" (DKGPG) verteilte OpenPGP-Schlüssel erzeugt und welche Anwendungsszenarien es dafür gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:HS">HS</person>
+        </persons>
+        <links>
+          <link>https://www.nongnu.org/dkgpg/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG_(2)</link>
         </links>
       </event>
       <event id="1135" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
