@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 21:00", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 21:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -24014,6 +24014,36 @@
                                 "links": [
                                     "https://foodsharing.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Foodsharing.de_call_for_web_developers"
+                                ]
+                            }
+                        ], 
+                        "Assembly:C-base": [
+                            {
+                                "id": 1409, 
+                                "guid": "92f3fbb3-45c7-4178-9b49-d87bd9223b5d", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:C-base", 
+                                "slug": "35c3-1409-session_hackerfleet_s_maritime_hacker_meetup", 
+                                "title": "Hackerfleet's Maritime Hacker Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Join us for a nice hour (or two) of open discussion around the topics of maritime hacking. Meet&Greet included.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Riot", 
+                                        "public_name": "Riot"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://hackerfleet.de/35c3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup"
                                 ]
                             }
                         ], 

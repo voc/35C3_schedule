@@ -9735,15 +9735,15 @@
             }
         ]
     }, 
-    "Session:Hackerfleet's Maritime Hacker Meetup# 85a77f53d9c18d086811ea570782c6eb": {
+    "Session:Hackerfleet's Maritime Hacker Meetup# f563b6a76e6e2a3d9785f8b9b0f4dc3e": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
             }
         ], 
         "Has event track": [
@@ -9790,7 +9790,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ]
     }, 
     "Session:Hackers Against Climate Change# 1b2332816ab4679c2130afbc7accb371": {
         "Held in language": [
