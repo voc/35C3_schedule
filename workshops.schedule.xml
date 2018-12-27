@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 14:40</version>
+  <version>2018-12-27 15:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1153,6 +1153,8 @@
         </persons>
         <links>
           <link>https://b76.ch/9728</link>
+          <link>https://b76.ch/9607</link>
+          <link>https://b76.ch/9339</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest</link>
         </links>
       </event>
@@ -1579,6 +1581,27 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Analoge_Selbstverteidigung</link>
         </links>
       </event>
+      <event id="1087" guid="01221fb8-3494-4767-a554-b6add0b5cb29">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:59</duration>
+        <room>Lecture room 11</room>
+        <slug>35c3-1087-session_bondage_workshop_fuer_anfaenger</slug>
+        <title>Bondage-Workshop für Anfänger</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Beginner's Bondage Workshop</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:MrCode">MrCode</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage-Workshop_f%C3%BCr_Anf%C3%A4nger</link>
+        </links>
+      </event>
       <event id="1321" guid="b00743ae-6149-40fc-97c1-f16dcc91fdae">
         <logo/>
         <date>2018-12-28T16:25:00+01:00</date>
@@ -1640,14 +1663,14 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
         </links>
       </event>
-      <event id="1087" guid="01221fb8-3494-4767-a554-b6add0b5cb29">
+      <event id="1379" guid="57096c2b-d9ab-42b0-9b7c-ad262911b110">
         <logo/>
-        <date>2018-12-28T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
         <duration>1:59</duration>
         <room>Lecture room 11</room>
-        <slug>35c3-1087-session_open_rope_jam</slug>
-        <title>Open Rope Jam</title>
+        <slug>35c3-1379-session_open_rope_jam2</slug>
+        <title>Open Rope Jam2</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
@@ -1658,7 +1681,7 @@
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Raven">Raven</person>
         </persons>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam2</link>
         </links>
       </event>
       <event id="1092" guid="2644582a-5131-46e2-b9c0-ecd65b856ef4">

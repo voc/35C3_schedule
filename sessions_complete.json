@@ -409,7 +409,9 @@
             "Session"
         ], 
         "Has website": [
-            "https://b76.ch/9728"
+            "https://b76.ch/9728", 
+            "https://b76.ch/9607", 
+            "https://b76.ch/9339"
         ], 
         "Has description": [
             "We'll talk about fiction and non-fiction books."
@@ -3265,6 +3267,66 @@
             {
                 "timestamp": "1546084800", 
                 "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Bondage-Workshop f\u00fcr Anf\u00e4nger# 52b000469a4fb868a863e3c5f5fbe1a0": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Beginner's Bondage Workshop"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:MrCode", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:MrCode", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Bondage-Workshop f\u00fcr Anf\u00e4nger"
+        ], 
+        "Has duration": [
+            119
+        ], 
+        "GUID": [
+            "01221fb8-3494-4767-a554-b6add0b5cb29"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage-Workshop_f%C3%BCr_Anf%C3%A4nger", 
+        "Has end time": [
+            {
+                "timestamp": "1546041540", 
+                "raw": "1/2018/12/28/23/59/0/0"
             }
         ]
     }, 
@@ -7094,54 +7156,6 @@
                 "raw": "1/2018/12/28/18/0/0/0"
             }
         ]
-    }, 
-    "Session:Fastai python notebooks# b65baf905751f0588603bda7302910e9": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546174800", 
-                "raw": "1/2018/12/30/13/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://course-v3.fast.ai/"
-        ], 
-        "Has description": [
-            "We will go through the 1st 1-2 lessons of the new fast.ai Deep Learning MOOC"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "understand the best Deep Learning MOOC out there, Deep Learning for coders"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Fastai python notebooks"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "988f1df7-1103-40b3-b128-cb7145fb3cec"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fastai_python_notebooks", 
-        "Has end time": []
     }, 
     "Session:FediverseMeetup# 4d39c4d0b7cf1c1614fce6f5db332b58": {
         "Held in language": [], 
@@ -13199,15 +13213,15 @@
             }
         ]
     }, 
-    "Session:Open Rope Jam# 55e7935fbd1c2006d7c1efbce55ee0b6": {
+    "Session:Open Rope Jam2# 09c1b210a9c25e5e033e9aec2dac6a60": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546034400", 
-                "raw": "1/2018/12/28/22/0/0/0"
+                "timestamp": "1546041600", 
+                "raw": "1/2018/12/29/0/0/0/0"
             }
         ], 
         "Has event track": [
@@ -13240,22 +13254,22 @@
             }
         ], 
         "Has title": [
-            "Open Rope Jam"
+            "Open Rope Jam2"
         ], 
         "Has duration": [
             119
         ], 
         "GUID": [
-            "01221fb8-3494-4767-a554-b6add0b5cb29"
+            "57096c2b-d9ab-42b0-9b7c-ad262911b110"
         ], 
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Rope_Jam2", 
         "Has end time": [
             {
-                "timestamp": "1546041540", 
-                "raw": "1/2018/12/28/23/59/0/0"
+                "timestamp": "1546048740", 
+                "raw": "1/2018/12/29/1/59/0/0"
             }
         ]
     }, 
@@ -14400,6 +14414,53 @@
             {
                 "timestamp": "1546033500", 
                 "raw": "1/2018/12/28/21/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Random# c49a03e26740a878d31f2a0051ad5b78": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:SSH (Spanish Speaking Hackers)", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:SSH_(Spanish_Speaking_Hackers)", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Como medir la aleatoriedad"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Random"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "c8106d18-c81e-4eb0-949c-953e26aff89b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Random", 
+        "Has end time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
             }
         ]
     }, 
