@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 21:20", 
+        "version": "2018-12-27 21:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5342,7 +5342,8 @@
                                 "description": "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid.", 
                                 "persons": [], 
                                 "links": [
-                                    "https://radentscheid-darmstadt.de/", 
+                                    "https://radentscheid-darmstadt.de", 
+                                    "http://radentscheid-stuttgart.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt"
                                 ]
                             }
