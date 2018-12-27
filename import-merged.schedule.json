@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.9 20121226KOMONA 1.0.5", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3681,6 +3681,98 @@
                             }
                         ], 
                         "Shutter Island": [
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10164.html", 
+                                "id": 10164, 
+                                "guid": "a7735c0a-3bcb-46e3-b063-b2bb3b6a26cd", 
+                                "logo": null, 
+                                "date": "2018-12-27T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "01:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10164-start", 
+                                "title": "Start", 
+                                "subtitle": "Expected", 
+                                "track": "Music", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "All creatures welcomes each.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10165.html", 
+                                "id": 10165, 
+                                "guid": "de0828fd-8129-476e-8ff7-d94ff88bba2c", 
+                                "logo": null, 
+                                "date": "2018-12-27T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "01:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10165-moe", 
+                                "title": "Moe", 
+                                "subtitle": "Mogreens", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "User:Mogreens", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10166.html", 
+                                "id": 10166, 
+                                "guid": "af719b79-4271-4313-8d0d-171b1883e7d9", 
+                                "logo": null, 
+                                "date": "2018-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "01:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10166-fussil_moe", 
+                                "title": "Fussil & Moe", 
+                                "subtitle": "Kick it. Get Punk*", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10167.html", 
+                                "id": 10167, 
+                                "guid": "04bf5d96-f119-42c8-a867-86094936b0df", 
+                                "logo": null, 
+                                "date": "2018-12-27T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "01:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10167-fussil", 
+                                "title": "Fussil", 
+                                "subtitle": "Fussel on the decks.", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "It is, what is it?", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10093.html", 
                                 "id": 10093, 
@@ -8433,6 +8525,57 @@
                             }
                         ], 
                         "Shutter Island": [
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10100.html", 
+                                "id": 10100, 
+                                "guid": "f4c038b2-fd9c-438b-bf74-2de42bf7a42c", 
+                                "logo": null, 
+                                "date": "2018-12-28T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10100-mr_galonga_-_minmon", 
+                                "title": "Mr. Galonga - Minmon", 
+                                "subtitle": "Minmon Kollektiv", 
+                                "track": "Music", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Mr. Galonga ist Mutti und Vati vom Minmon Kollektiv. Vor allem im Raum Potsdam sind einige Partys und Podcasts auf seinem Mist gewachsen. Ihm geht es nicht um Kohle, sondern um Liebe und deshalb ist er in diesem jahr erstmalig als Dj aufm 35C3.\r\n---\r\nMr. Galonga is mum and dad from the Minmon collective. Especially in the Potsdam area some parties and podcasts he did on his own bat. He is not interested in wonga, but in love and that's why this year for the first time he's a DJ on 35C3.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [
+                                    {
+                                        "url": "https://www.minmon.de/", 
+                                        "title": "https://www.minmon.de/"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10162.html", 
+                                "id": 10162, 
+                                "guid": "18e43220-4ede-479a-9fc5-9d43fb2c22f8", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10162-welle", 
+                                "title": "welle", 
+                                "subtitle": "n(e)w", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10102.html", 
                                 "id": 10102, 
@@ -13596,13 +13739,41 @@
                         ], 
                         "Shutter Island": [
                             {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10149.html", 
+                                "id": 10149, 
+                                "guid": "fa17b7ce-6dcb-49e9-bfae-9d5d517b9ad7", 
+                                "logo": null, 
+                                "date": "2018-12-29T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10149-rudi_stoher", 
+                                "title": "Rudi St\u00f6her", 
+                                "subtitle": "Ask Ronny Kraftfuttermischwerk.", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [
+                                    {
+                                        "url": "https://soundcloud.com/rudi-stoher/tracks", 
+                                        "title": "https://soundcloud.com/rudi-stoher/tracks"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10150.html", 
                                 "id": 10150, 
                                 "guid": "fd7b283b-67f3-4554-b226-83db5a519a87", 
                                 "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "01:00", 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "03:00", 
                                 "room": "Shutter Island", 
                                 "slug": "35c3-lineup-10150-patstyx", 
                                 "title": "Patstyx", 
@@ -13649,6 +13820,29 @@
                                         "title": "http://raum-e.com/"
                                     }
                                 ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10163.html", 
+                                "id": 10163, 
+                                "guid": "141a49b4-76a4-48e0-a86d-7c19e6a7821f", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "01:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10163-umbaumusik", 
+                                "title": "Umbaumusik", 
+                                "subtitle": "Mr. G & Mr. Mo", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
                                 "attachments": []
                             }, 
                             {
@@ -13726,6 +13920,34 @@
                                     {
                                         "url": "https://www.saetche.net/blog/ ", 
                                         "title": "https://www.saetche.net/blog/"
+                                    }
+                                ], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10155.html", 
+                                "id": 10155, 
+                                "guid": "89e3b2ae-d714-44a5-9e18-6270ce7c3c2b", 
+                                "logo": null, 
+                                "date": "2018-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10155-kons_t_il", 
+                                "title": "kons[t]il", 
+                                "subtitle": "Till & Konsti, zwei Seelenverwandte begegnen einander.", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Till & Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem gro\u00dfen Ganzen zu vereinen, unabh\u00e4ngig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.\r\n\r\nTill & Konsti, two soul mates meet each other, these two boys from Berlin find each other to create sound, to wrap their moods and experiences into unmistakable sounds, go through different facets of electronic music... Are humming through the thicket of the deep-house forest, the goal... Back to the roots, to unite to one big whole, independent of time and space we dance weightlessly through Infinity.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [
+                                    {
+                                        "url": "https://www.mixcloud.com/konstil/kons[t]il", 
+                                        "title": "https://www.mixcloud.com/konstil/kons[t]il"
                                     }
                                 ], 
                                 "attachments": []
@@ -16612,6 +16834,52 @@
                         ], 
                         "Shutter Island": [
                             {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10158.html", 
+                                "id": 10158, 
+                                "guid": "22915806-0177-4f94-9213-5a0890f6f17d", 
+                                "logo": null, 
+                                "date": "2018-12-30T10:00:00+01:00", 
+                                "start": "10:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10158-nuts", 
+                                "title": "Nuts.", 
+                                "subtitle": "Let*s go ahead.", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10159.html", 
+                                "id": 10159, 
+                                "guid": "3c01716d-191d-4094-8d24-a990033b612e", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "02:00", 
+                                "room": "Shutter Island", 
+                                "slug": "35c3-lineup-10159-franz", 
+                                "title": "Franz", 
+                                "subtitle": "Not knowing (ich wei\u00df es doch auch nicht)", 
+                                "track": "Music", 
+                                "type": "djset", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10160.html", 
                                 "id": 10160, 
                                 "guid": "30f8b579-119f-4869-8648-2b4e65ac5db6", 
@@ -16635,34 +16903,6 @@
                                     {
                                         "url": "www.4sk.de", 
                                         "title": "www.4sk.de"
-                                    }
-                                ], 
-                                "attachments": []
-                            }, 
-                            {
-                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10155.html", 
-                                "id": 10155, 
-                                "guid": "89e3b2ae-d714-44a5-9e18-6270ce7c3c2b", 
-                                "logo": null, 
-                                "date": "2018-12-31T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "02:00", 
-                                "room": "Shutter Island", 
-                                "slug": "35c3-lineup-10155-kons_t_il", 
-                                "title": "kons[t]il", 
-                                "subtitle": "Till & Konsti, zwei Seelenverwandte begegnen einander.", 
-                                "track": "Music", 
-                                "type": "djset", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Till & Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem gro\u00dfen Ganzen zu vereinen, unabh\u00e4ngig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.\r\n\r\nTill & Konsti, two soul mates meet each other, these two boys from Berlin find each other to create sound, to wrap their moods and experiences into unmistakable sounds, go through different facets of electronic music... Are humming through the thicket of the deep-house forest, the goal... Back to the roots, to unite to one big whole, independent of time and space we dance weightlessly through Infinity.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [], 
-                                "links": [
-                                    {
-                                        "url": "https://www.mixcloud.com/konstil/kons[t]il", 
-                                        "title": "https://www.mixcloud.com/konstil/kons[t]il"
                                     }
                                 ], 
                                 "attachments": []

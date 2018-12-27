@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.8 20121226KOMONA 1.0.5 2018-12-27 01:40</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.9 20121226KOMONA 1.0.5 2018-12-27 02:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4659,6 +4659,98 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
       </event>
     </room>
     <room name="Shutter Island">
+      <event id="10164" guid="a7735c0a-3bcb-46e3-b063-b2bb3b6a26cd">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10164.html</url>
+        <logo/>
+        <date>2018-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10164-start</slug>
+        <title>Start</title>
+        <subtitle>Expected</subtitle>
+        <track>Music</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>All creatures welcomes each.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10165" guid="de0828fd-8129-476e-8ff7-d94ff88bba2c">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10165.html</url>
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10165-moe</slug>
+        <title>Moe</title>
+        <subtitle>Mogreens</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>User:Mogreens</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10166" guid="af719b79-4271-4313-8d0d-171b1883e7d9">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10166.html</url>
+        <logo/>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10166-fussil_moe</slug>
+        <title>Fussil &amp; Moe</title>
+        <subtitle>Kick it. Get Punk*</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10167" guid="04bf5d96-f119-42c8-a867-86094936b0df">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10167.html</url>
+        <logo/>
+        <date>2018-12-27T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10167-fussil</slug>
+        <title>Fussil</title>
+        <subtitle>Fussel on the decks.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>It is, what is it?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10093" guid="d6e5e3f9-8c16-4c07-a92d-11a1ceacd9df">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10093.html</url>
         <logo/>
@@ -11757,6 +11849,56 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
       </event>
     </room>
     <room name="Shutter Island">
+      <event id="10100" guid="f4c038b2-fd9c-438b-bf74-2de42bf7a42c">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10100.html</url>
+        <logo/>
+        <date>2018-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10100-mr_galonga_-_minmon</slug>
+        <title>Mr. Galonga - Minmon</title>
+        <subtitle>Minmon Kollektiv</subtitle>
+        <track>Music</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Mr. Galonga ist Mutti und Vati vom Minmon Kollektiv. Vor allem im Raum Potsdam sind einige Partys und Podcasts auf seinem Mist gewachsen. Ihm geht es nicht um Kohle, sondern um Liebe und deshalb ist er in diesem jahr erstmalig als Dj aufm 35C3.&#13;
+---&#13;
+Mr. Galonga is mum and dad from the Minmon collective. Especially in the Potsdam area some parties and podcasts he did on his own bat. He is not interested in wonga, but in love and that's why this year for the first time he's a DJ on 35C3.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.minmon.de/">https://www.minmon.de/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10162" guid="18e43220-4ede-479a-9fc5-9d43fb2c22f8">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10162.html</url>
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10162-welle</slug>
+        <title>welle</title>
+        <subtitle>n(e)w</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10102" guid="f28ad5fc-d5cf-411f-a7c2-bb0737d183ea">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10102.html</url>
         <logo/>
@@ -19196,12 +19338,37 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
       </event>
     </room>
     <room name="Shutter Island">
+      <event id="10149" guid="fa17b7ce-6dcb-49e9-bfae-9d5d517b9ad7">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10149.html</url>
+        <logo/>
+        <date>2018-12-29T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10149-rudi_stoher</slug>
+        <title>Rudi Stöher</title>
+        <subtitle>Ask Ronny Kraftfuttermischwerk.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://soundcloud.com/rudi-stoher/tracks">https://soundcloud.com/rudi-stoher/tracks</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10150" guid="fd7b283b-67f3-4554-b226-83db5a519a87">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10150.html</url>
         <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>03:00</duration>
         <room>Shutter Island</room>
         <slug>35c3-lineup-10150-patstyx</slug>
         <title>Patstyx</title>
@@ -19246,6 +19413,29 @@ Patstyx was already sysadmin when you called the Internet, by dialing a number o
         <links>
           <link href="http://raum-e.com/">http://raum-e.com/</link>
         </links>
+        <attachments/>
+      </event>
+      <event id="10163" guid="141a49b4-76a4-48e0-a86d-7c19e6a7821f">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10163.html</url>
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10163-umbaumusik</slug>
+        <title>Umbaumusik</title>
+        <subtitle>Mr. G &amp; Mr. Mo</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
         <attachments/>
       </event>
       <event id="10152" guid="3600a06a-6aae-49c3-95e3-da5bc6dd87f6">
@@ -19325,6 +19515,33 @@ Sätchmoe is sooo part of the family - his Echochamber runs regularly in the c-b
         <persons/>
         <links>
           <link href="https://www.saetche.net/blog/ ">https://www.saetche.net/blog/</link>
+        </links>
+        <attachments/>
+      </event>
+      <event id="10155" guid="89e3b2ae-d714-44a5-9e18-6270ce7c3c2b">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10155.html</url>
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10155-kons_t_il</slug>
+        <title>kons[t]il</title>
+        <subtitle>Till &amp; Konsti, zwei Seelenverwandte begegnen einander.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description>Till &amp; Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem großen Ganzen zu vereinen, unabhängig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.&#13;
+&#13;
+Till &amp; Konsti, two soul mates meet each other, these two boys from Berlin find each other to create sound, to wrap their moods and experiences into unmistakable sounds, go through different facets of electronic music... Are humming through the thicket of the deep-house forest, the goal... Back to the roots, to unite to one big whole, independent of time and space we dance weightlessly through Infinity.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="https://www.mixcloud.com/konstil/kons[t]il">https://www.mixcloud.com/konstil/kons[t]il</link>
         </links>
         <attachments/>
       </event>
@@ -23355,6 +23572,52 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
       </event>
     </room>
     <room name="Shutter Island">
+      <event id="10158" guid="22915806-0177-4f94-9213-5a0890f6f17d">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10158.html</url>
+        <logo/>
+        <date>2018-12-30T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10158-nuts</slug>
+        <title>Nuts.</title>
+        <subtitle>Let*s go ahead.</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10159" guid="3c01716d-191d-4094-8d24-a990033b612e">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10159.html</url>
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Shutter Island</room>
+        <slug>35c3-lineup-10159-franz</slug>
+        <title>Franz</title>
+        <subtitle>Not knowing (ich weiß es doch auch nicht)</subtitle>
+        <track>Music</track>
+        <type>djset</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
       <event id="10160" guid="30f8b579-119f-4869-8648-2b4e65ac5db6">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10160.html</url>
         <logo/>
@@ -23377,33 +23640,6 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <persons/>
         <links>
           <link href="www.4sk.de">www.4sk.de</link>
-        </links>
-        <attachments/>
-      </event>
-      <event id="10155" guid="89e3b2ae-d714-44a5-9e18-6270ce7c3c2b">
-        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10155.html</url>
-        <logo/>
-        <date>2018-12-31T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>02:00</duration>
-        <room>Shutter Island</room>
-        <slug>35c3-lineup-10155-kons_t_il</slug>
-        <title>kons[t]il</title>
-        <subtitle>Till &amp; Konsti, zwei Seelenverwandte begegnen einander.</subtitle>
-        <track>Music</track>
-        <type>djset</type>
-        <language/>
-        <abstract/>
-        <description>Till &amp; Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem großen Ganzen zu vereinen, unabhängig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.&#13;
-&#13;
-Till &amp; Konsti, two soul mates meet each other, these two boys from Berlin find each other to create sound, to wrap their moods and experiences into unmistakable sounds, go through different facets of electronic music... Are humming through the thicket of the deep-house forest, the goal... Back to the roots, to unite to one big whole, independent of time and space we dance weightlessly through Infinity.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons/>
-        <links>
-          <link href="https://www.mixcloud.com/konstil/kons[t]il">https://www.mixcloud.com/konstil/kons[t]il</link>
         </links>
         <attachments/>
       </event>
