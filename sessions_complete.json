@@ -19347,27 +19347,55 @@
             }
         ]
     }, 
-    "Session:Visual programming LED bag# 22fafea8569d922c34d08cfd4fe359cf": {
-        "Held in language": [], 
+    "Session:Visual programming LED bag# dd396054ec23159f4921752897d86edb": {
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
+        "Has website": [
+            "http://www.360fash.com"
+        ], 
+        "Has description": [
+            "Program a flexible LED board to put into a bag"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Hardware Hacking Area", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Hardware_Hacking_Area", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Program a 8 x 32 LED flexible board to make a LED Bag."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Anina", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Anina", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Visual programming LED bag"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
             "9c72e78a-867c-4989-be59-653e9f937195"
         ], 
@@ -19375,7 +19403,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Visual_programming_LED_bag", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546104600", 
+                "raw": "1/2018/12/29/17/30/0/0"
+            }
+        ]
     }, 
     "Session:WTFpga: An Introduction to FPGA Development# 98f0b9803801acd35a2b0d32eda0dcff": {
         "Held in language": [

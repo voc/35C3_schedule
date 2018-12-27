@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:40</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 271218-1253-Komona 1.0.6 2018-12-27 13:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5659,6 +5659,35 @@ speakers: b3yond &amp; ph4nt</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="859" guid="6ddde82d-cac9-5860-be45-4771a9310faa">
+        <logo/>
+        <date>2018-12-27T19:30:00+00:00</date>
+        <start>19:30</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>GD7NQU</slug>
+        <url>https://talks.komona.org/35c3/talk/GD7NQU</url>
+        <title>Climbing on another level</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Learning basic action climbing skills, connect with other climbies and see what happens</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Komona Zelt #workshops #handson">
       <event id="827" guid="9f5fbb1a-af88-52b5-a660-aac60a6c3199">
@@ -5684,6 +5713,35 @@ speakers: b3yond &amp; ph4nt</description>
           <person id="31">
             <name>Wouter Moraal</name>
             <biography>[Wouter Moraal](https://woutermoraal.nl/ "woutermoraal.nl") does research, education and interactive art about the role of new technologies in society. He is particularly interested in the future of people's privacy, security and freedom.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="857" guid="28af1aaa-cdb9-56b8-b208-1d9f0eebd64f">
+        <logo/>
+        <date>2018-12-27T17:00:00+00:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>88RZXN</slug>
+        <url>https://talks.komona.org/35c3/talk/88RZXN</url>
+        <title>Secure Scuttlebutt 101 // Meetup!</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Here we gather to introduce Scuttlebutt and how to use it while also introducing each other. Get to know the community (IRL) and join the Scuttleverse.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="49">
+            <name>Jacob</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -20609,6 +20667,35 @@ Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn e
         <attachments/>
         <answers/>
       </event>
+      <event id="856" guid="41a5a788-2c5a-5e1e-a5b6-92344ab43e14">
+        <logo/>
+        <date>2018-12-29T20:00:00+00:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>FX7GWH</slug>
+        <url>https://talks.komona.org/35c3/talk/FX7GWH</url>
+        <title>EVULVISSIMA FESTIVAL VIDEO PREMIERE</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>First time show of a video produced at a feminist protest in italy</abstract>
+        <description>https://evulvissima2018.wordpress.com/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="Komona Thunderdome #workshops #talks">
       <event id="850" guid="047b080e-ec33-528d-9a87-252c08f245ca">
@@ -20634,6 +20721,37 @@ Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn e
           <person id="36">
             <name>Komonista</name>
             <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="858" guid="159a5250-ff0b-512a-bbee-1ef84ab1b200">
+        <logo/>
+        <date>2018-12-29T12:00:00+00:00</date>
+        <start>12:00</start>
+        <duration>02:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>87CHD9</slug>
+        <url>https://talks.komona.org/35c3/talk/87CHD9</url>
+        <title>DIY Zine Workshop</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Would you like to put your thoughts and ideas on paper and share it with others? Do you have no money, but have something to contribute with that you find missing in newspapers, magazines and the current media world? Then do it yourself!</abstract>
+        <description>Zines offer a simple and accessible format for this and the Zinecamp offers an introduction to the topic. In addition to the insight into the history of the format and the (political) background (fan-zines, punk, diy, rrriot girl, …) we will present the techniques and methods of production and design as well as distribution. Likewise, it’s about independently producing zines. Various materials for working will be available on site.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">
+            <name>biblio&gt;media:take!</name>
+            <biography>The mobile Infoshop is a loose Vienna based group distributing info-material and media. We are distributing zines, stickers, books, badges, shirts and therefore collect local stuff the same as from all over the world. The main topics are: anarcha-feminism, queer, self-empowerment, creative action forms, political and social struggles and movements, DIY/commons, ecology/sustainability.&#13;
+Everything will be passed on for voluntary donation with or without a price proposal – depending on our costs.&#13;
+https://infoladen.kukuma.org/infoladen-chronik/</biography>
           </person>
         </persons>
         <links/>
@@ -21385,6 +21503,28 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop</link>
+        </links>
+      </event>
+      <event id="1364" guid="9c72e78a-867c-4989-be59-653e9f937195">
+        <logo/>
+        <date>2018-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1364-session_visual_programming_led_bag</slug>
+        <title>Visual programming LED bag</title>
+        <subtitle>Program a 8 x 32 LED flexible board to make a LED Bag.</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Program a flexible LED board to put into a bag</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Anina">Anina</person>
+        </persons>
+        <links>
+          <link>http://www.360fash.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Visual_programming_LED_bag</link>
         </links>
       </event>
     </room>
