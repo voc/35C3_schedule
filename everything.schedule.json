@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 22:20", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 22:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -18824,6 +18824,39 @@
                                 "links": [
                                     "http://haecksen.org", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:HowToConflict"
+                                ]
+                            }, 
+                            {
+                                "id": 1416, 
+                                "guid": "b6dd9ff1-9f7b-4ff9-8da4-f4e5a8a6cbe2", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1416-session_lesswrong_meetup", 
+                                "title": "LessWrong Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "LessWrong Open Space: Bring your own topic or join others for open ended discussions on rationality related topics", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kvas", 
+                                        "public_name": "Kvas"
+                                    }, 
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:DreamFlasher", 
+                                        "public_name": "DreamFlasher"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.lesswrong.com/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_Meetup"
                                 ]
                             }, 
                             {

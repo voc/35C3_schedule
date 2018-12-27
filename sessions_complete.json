@@ -12167,6 +12167,74 @@
             }
         ]
     }, 
+    "Session:LessWrong Meetup# a11fe843afa95d26e7c31f25d73ab4de": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.lesswrong.com/"
+        ], 
+        "Has description": [
+            "LessWrong Open Space: Bring your own topic or join others for open ended discussions on rationality related topics"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kvas", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kvas", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:DreamFlasher", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:DreamFlasher", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "LessWrong Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "b6dd9ff1-9f7b-4ff9-8da4-f4e5a8a6cbe2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546126200", 
+                "raw": "1/2018/12/29/23/30/0/0"
+            }
+        ]
+    }, 
     "Session:LessWrong meetup# 5215772fbdae8057e47bca531f5f1483": {
         "Held in language": [
             "en - English"
