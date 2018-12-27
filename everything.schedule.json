@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:10", 
+        "version": "Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14298,6 +14298,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1419, 
+                                "guid": "6a04ac4f-b166-40de-b4bb-e0e0b0be2da9", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "35c3-1419-session_juggling_and_poi_meetup", 
+                                "title": "Juggling and poi meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "lets meetup for joggling, poi and other artistic things. Ever wanted to learn how to juggle? now is the chance.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Juggling_and_poi_meetup"
+                                ]
+                            }, 
+                            {
                                 "id": 1201, 
                                 "guid": "f45b9f26-45ad-4c8b-8350-1abfc1420514", 
                                 "logo": null, 
@@ -14833,6 +14854,63 @@
                                 "links": [
                                     "https://foodhackingbase.org/wiki/Caffeinated_Sherbet", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Kidspace": [
+                            {
+                                "id": 1418, 
+                                "guid": "c952223d-6d7f-4c71-89c8-11d814264cde", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "35c3-1418-session_bigtrak", 
+                                "title": "BigTrak", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "BigTrak is a vintage programmable electric vehicle toy. Let's play!", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:B3b0_69", 
+                                        "public_name": "B3b0 69"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://en.wikipedia.org/wiki/Big_Trak", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:BigTrak"
+                                ]
+                            }, 
+                            {
+                                "id": 1283, 
+                                "guid": "67526e98-c495-53e2-b9ec-9baee92aa89f", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "35c3-1283-session_pen_paper_mini_game_jam_", 
+                                "title": "Pen&paper mini \"Game Jam\u201c", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "pen&paper mini \"Game Jam\u201c", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia", 
+                                        "public_name": "Lydia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
                                 ]
                             }
                         ], 
@@ -15900,35 +15978,6 @@
                                 "links": [
                                     "https://github.com/NiklasFauth/hoverboard-firmware-hack", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Kidspace": [
-                            {
-                                "id": 1283, 
-                                "guid": "67526e98-c495-53e2-b9ec-9baee92aa89f", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1283-session_pen_paper_mini_game_jam_", 
-                                "title": "Pen&paper mini \"Game Jam\u201c", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "pen&paper mini \"Game Jam\u201c", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia", 
-                                        "public_name": "Lydia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
                                 ]
                             }
                         ], 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:10</version>
+  <version>Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13794,6 +13794,25 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Horst_Herold_Hacks_-_der_Mann,_der_die_Gesellschaft_mit_dem_Polizeicomputer_revolutionieren_wollte</link>
         </links>
       </event>
+      <event id="1419" guid="6a04ac4f-b166-40de-b4bb-e0e0b0be2da9">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>2:00</duration>
+        <room/>
+        <slug>35c3-1419-session_juggling_and_poi_meetup</slug>
+        <title>Juggling and poi meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>lets meetup for joggling, poi and other artistic things. Ever wanted to learn how to juggle? now is the chance.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Juggling_and_poi_meetup</link>
+        </links>
+      </event>
       <event id="1201" guid="f45b9f26-45ad-4c8b-8350-1abfc1420514">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
@@ -14232,6 +14251,51 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://foodhackingbase.org/wiki/Caffeinated_Sherbet</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Obai_Brause:_Mix_your_own_caffeinated_sherbet_powder</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Kidspace">
+      <event id="1418" guid="c952223d-6d7f-4c71-89c8-11d814264cde">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1418-session_bigtrak</slug>
+        <title>BigTrak</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>BigTrak is a vintage programmable electric vehicle toy. Let's play!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:B3b0_69">B3b0 69</person>
+        </persons>
+        <links>
+          <link>https://en.wikipedia.org/wiki/Big_Trak</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:BigTrak</link>
+        </links>
+      </event>
+      <event id="1283" guid="67526e98-c495-53e2-b9ec-9baee92aa89f">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Kidspace</room>
+        <slug>35c3-1283-session_pen_paper_mini_game_jam_</slug>
+        <title>Pen&amp;paper mini "Game Jam“</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>pen&amp;paper mini "Game Jam“</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
         </links>
       </event>
     </room>
@@ -15127,29 +15191,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://github.com/NiklasFauth/hoverboard-firmware-hack</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Kidspace">
-      <event id="1283" guid="67526e98-c495-53e2-b9ec-9baee92aa89f">
-        <logo/>
-        <date>2018-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
-        <slug>35c3-1283-session_pen_paper_mini_game_jam_</slug>
-        <title>Pen&amp;paper mini "Game Jam“</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>pen&amp;paper mini "Game Jam“</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia">Lydia</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
         </links>
       </event>
     </room>
