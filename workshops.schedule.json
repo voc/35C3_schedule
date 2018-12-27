@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 19:30", 
+        "version": "2018-12-27 19:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1001,6 +1001,34 @@
                                 ]
                             }, 
                             {
+                                "id": 1102, 
+                                "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
+                                "logo": null, 
+                                "date": "2018-12-27T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "3:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1102-session_stage_manager_angel_introduction", 
+                                "title": "Stage Manager Angel Introduction", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                                        "public_name": "Ijon"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
+                                ]
+                            }, 
+                            {
                                 "id": 1132, 
                                 "guid": "5baa7172-13bb-488c-b9e5-443337e7566b", 
                                 "logo": null, 
@@ -1170,34 +1198,6 @@
                                 "links": [
                                     "https://lists.riseup.net/www/subscribe/queerfeministgeeks", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp"
-                                ]
-                            }, 
-                            {
-                                "id": 1102, 
-                                "guid": "b0853196-c34c-416f-8e7d-aaad43a8c7db", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "3:00", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1102-session_stage_manager_angel_introduction", 
-                                "title": "Stage Manager Angel Introduction", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
-                                        "public_name": "Ijon"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction"
                                 ]
                             }
                         ], 
@@ -5390,6 +5390,33 @@
                                 "links": [
                                     "http://telekommunisten.net", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious"
+                                ]
+                            }, 
+                            {
+                                "id": 1405, 
+                                "guid": "fa0d6d5c-f7c5-42d3-87d6-8f008d07c4b4", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:15:00+01:00", 
+                                "start": "19:15", 
+                                "duration": "0:30", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1405-session_demarchy_meetup", 
+                                "title": "Demarchy meetup", 
+                                "subtitle": "Demarchy / Sortition / Elections by random selection - interested?", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Demarchy / Sortition / Elections by random selection - interested?", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Equinox", 
+                                        "public_name": "Equinox"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Demarchy_meetup"
                                 ]
                             }, 
                             {

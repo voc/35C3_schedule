@@ -3495,14 +3495,14 @@
             }
         ]
     }, 
-    "Session:Briar party (the messenger which ticks most of the boxes)# ed167a6e9ea5d77347230bd03f775d04": {
+    "Session:Briar party (the messenger which ticks most of the boxes)# 01aec2249c8e3871933c40e82c2cd540": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
             }
         ], 
         "Has event track": [
@@ -3517,7 +3517,15 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [
             {
@@ -3531,7 +3539,9 @@
         "Has title": [
             "Briar party (the messenger which ticks most of the boxes)"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "GUID": [
             "d6de1975-f9b7-4e58-b8c0-c11f0f1e4c0e"
         ], 
@@ -3539,7 +3549,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Briar_party_(the_messenger_which_ticks_most_of_the_boxes)", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
+            }
+        ]
     }, 
     "Session:Bristlebots for kids# b4a9a0456a9ce21e6e30736d27918b53": {
         "Held in language": [
@@ -5998,6 +6013,67 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DeNation_-_Ein_social_fiction_game", 
         "Has end time": []
+    }, 
+    "Session:Demarchy meetup# a7645993a4b0d3b53f71ef9450153312": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546110900", 
+                "raw": "1/2018/12/29/19/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Demarchy / Sortition / Elections by random selection - interested?"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Demarchy / Sortition / Elections by random selection - interested?"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Equinox", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Equinox", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Demarchy meetup"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "fa0d6d5c-f7c5-42d3-87d6-8f008d07c4b4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Demarchy_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546112700", 
+                "raw": "1/2018/12/29/19/45/0/0"
+            }
+        ]
     }, 
     "Session:Digital Health and Patient Data# e78dab04f26832ecc390db718112a161": {
         "Held in language": [
@@ -17421,7 +17497,7 @@
             }
         ]
     }, 
-    "Session:Stage Manager Angel Introduction# 38ec490a6318fd6155462812c74fefc5": {
+    "Session:Stage Manager Angel Introduction# c75ecac1113dc6c56c0df82687fb1a87": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -17444,8 +17520,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room M3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""

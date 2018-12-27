@@ -1,5 +1,5 @@
 <schedule>
-  <version>Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 19:30</version>
+  <version>Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 19:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2385,6 +2385,28 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup</link>
         </links>
       </event>
+      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
+        </links>
+      </event>
       <event id="1132" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
@@ -2619,28 +2641,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
-        </links>
-      </event>
-      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M3</room>
-        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
     </room>
@@ -14214,6 +14214,51 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1404" guid="d6de1975-f9b7-4e58-b8c0-c11f0f1e4c0e">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>0:30</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug>35c3-1404-session_briar_party_the_messenger_which_ticks_most_of_the_boxes_</slug>
+        <title>Briar party (the messenger which ticks most of the boxes)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Briar is a free (GPLv3), decentralized (using Tor or bluetooth meshing), end-to-end encrypted messenger which is not tied to phone numbers. We are fans who want to present it and create a congress-wide group.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://briarproject.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Briar_party_(the_messenger_which_ticks_most_of_the_boxes)</link>
+        </links>
+      </event>
+      <event id="1082" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
+        <logo/>
+        <date>2018-12-28T14:45:00+01:00</date>
+        <start>14:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug>35c3-1082-session_memorizing_pi_for_fun_not_for_profit_</slug>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 2 (NONSTANDARD LOCATION: IN FRONT OF HALL 3. NOT AT THE ASSEMBLY)</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:C-base">
       <event id="1306" guid="b04e85b0-adaa-40d1-a601-69a5fecb19b4">
         <logo/>
@@ -14876,29 +14921,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://www.youtube.com/watch?v=rfQqh7iCcOU&amp;feature=youtu.be</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Makey-Makey_f%C3%BCr_Kids_-_Bastel_einen_eigenen_Controller_und_steuere_Programme_damit</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Curry Club Augsburg">
-      <event id="1082" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98a">
-        <logo/>
-        <date>2018-12-28T14:45:00+01:00</date>
-        <start>14:45</start>
-        <duration>0:15</duration>
-        <room>Assembly:Curry Club Augsburg</room>
-        <slug>35c3-1082-session_memorizing_pi_for_fun_not_for_profit_</slug>
-        <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 2 (NONSTANDARD LOCATION: IN FRONT OF HALL 3. NOT AT THE ASSEMBLY)</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
         </links>
       </event>
     </room>
@@ -17248,6 +17270,27 @@ However, it's not always easy...</description>
         <links>
           <link>http://telekommunisten.net</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious</link>
+        </links>
+      </event>
+      <event id="1405" guid="fa0d6d5c-f7c5-42d3-87d6-8f008d07c4b4">
+        <logo/>
+        <date>2018-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1405-session_demarchy_meetup</slug>
+        <title>Demarchy meetup</title>
+        <subtitle>Demarchy / Sortition / Elections by random selection - interested?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Demarchy / Sortition / Elections by random selection - interested?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Equinox">Equinox</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Demarchy_meetup</link>
         </links>
       </event>
       <event id="1388" guid="b407bdcc-a448-4185-b975-8621c20cef61">

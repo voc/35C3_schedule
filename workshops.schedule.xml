@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 19:30</version>
+  <version>2018-12-27 19:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -835,6 +835,28 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_meetup</link>
         </links>
       </event>
+      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>3:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
+        <title>Stage Manager Angel Introduction</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
+        </links>
+      </event>
       <event id="1132" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
@@ -979,28 +1001,6 @@
         <links>
           <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:QueerFeministGeeks_-_MeetUp</link>
-        </links>
-      </event>
-      <event id="1102" guid="b0853196-c34c-416f-8e7d-aaad43a8c7db">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room M3</room>
-        <slug>35c3-1102-session_stage_manager_angel_introduction</slug>
-        <title>Stage Manager Angel Introduction</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon">Ijon</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
         </links>
       </event>
     </room>
@@ -4567,6 +4567,27 @@
         <links>
           <link>http://telekommunisten.net</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious</link>
+        </links>
+      </event>
+      <event id="1405" guid="fa0d6d5c-f7c5-42d3-87d6-8f008d07c4b4">
+        <logo/>
+        <date>2018-12-29T19:15:00+01:00</date>
+        <start>19:15</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1405-session_demarchy_meetup</slug>
+        <title>Demarchy meetup</title>
+        <subtitle>Demarchy / Sortition / Elections by random selection - interested?</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Demarchy / Sortition / Elections by random selection - interested?</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Equinox">Equinox</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Demarchy_meetup</link>
         </links>
       </event>
       <event id="1388" guid="b407bdcc-a448-4185-b975-8621c20cef61">
