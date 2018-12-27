@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 20:20", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 20:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -15823,6 +15823,29 @@
                                 "links": [
                                     "https://pslab.io", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Free Software Foundation Europe": [
+                            {
+                                "id": 1407, 
+                                "guid": "3b10181a-1093-43ab-bb32-4418ef8b9f03", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:30", 
+                                "room": "Assembly:Free Software Foundation Europe", 
+                                "slug": "35c3-1407-session_politik_index_eine_opensource_plattform_fuer_mehr_belastbare_fakten_und_transparenz_in_der_politik", 
+                                "title": "Politik Index - Eine OpenSource Plattform f\u00fcr mehr belastbare Fakten und Transparenz in der Politik", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Vorstellung des Projektes und Diskussion \u00fcber das Thema Allgemein", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Politik_Index_-_Eine_OpenSource_Plattform_f%C3%BCr_mehr_belastbare_Fakten_und_Transparenz_in_der_Politik"
                                 ]
                             }
                         ], 
