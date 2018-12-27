@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -2669,8 +2669,8 @@
                                 "id": 283, 
                                 "guid": "98550357-b645-5683-9e6b-af20295d8fb1", 
                                 "logo": null, 
-                                "date": "2018-12-27T11:30:00+01:00", 
-                                "start": "11:30", 
+                                "date": "2018-12-27T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "01:30", 
                                 "room": "OIO Vortrags-Arena", 
                                 "slug": "WNDAXJ", 
@@ -7475,6 +7475,37 @@
                                         "id": 76, 
                                         "name": "Paul Henckel", 
                                         "biography": "Let me cut it short: *I'm basically a care-taker.* \r\nI care for you, and I care for myself, and I care for our mutual existence on this planet.\r\nIf I should recap my life then this aspect is pretty much the essence of me actually. I grew up with my mum and big sister and times werent always easy, so I learned to care because there was no other option than that to make our life work.\r\n'Caring for others' became a big part of me, so as I went into adolescence and adulthood I see patterns that I was stressing my self out too much in trying to find new people to 'care for', new relations. We all know where that kind of behavior goes, when 'caring runs rampant' and you try care for people who dont care similarly for you -> stress, depression, anxiety, fear of rejection, etc.\r\nThat was OK too, because that in turn taught me a lot about caring for myself...\r\nGo read some more on the anthropological and socio-economic aspects of caretaking, it's a very interesting topic if not a form of art/craft in itself.\r\n\r\nGiving back to the world\r\nI'm also a philosopher, software developer, mathematician, statistician, data visualiser, test engineer, consultant, entrepreneur, photographer, inventor, permaculture designer, volunteer, counsellor, , interaction designer, ethnographer, business developer, market analyst, etc. and am truly blessed with many close friends that I can team up with to co-create 'truly good stuff with a focus and a purpose'.\r\nI'm currently working on WorkHive - the tagline of which is 'Making space for people and plants to be productive'. It's a co-working space for the self-employed, students and 'struggling' (unemployed, seniors, etc) to sit together and work on their own projects, or team up at different workshops and attend seminars. It's a networking platform, enabling people to be more productive on their own things, and to get inspiration from others in the same or different situations and with different perspectives - being able to do short, informal reviews of your own work in a safe space together with an 'unwilling third person' has a huge implication for the success of your work before sending it out to your real audience in the big world.\r\n(What about the plants? Yeah, I will tell you about it when you have signed up, but as you know I'm into permaculture, sustainable livelihoods, aquaponics and I have quite a few good horticulturist friends and biologists who are helping me do some amazing stuff)\r\n\r\nThank you for your time, create the world you want to live in, today!\r\nPaul Olutokunbo Kristian Henckel-Ojo", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 310, 
+                                "guid": "6d0ea2d9-aa91-5bba-84af-21dd73038d81", 
+                                "logo": null, 
+                                "date": "2018-12-28T13:30:00+01:00", 
+                                "start": "13:30", 
+                                "duration": "00:20", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "SWS3WR", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/SWS3WR", 
+                                "title": "Careables: Open Source Hardware in Health+Care [Introduction]", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk 20min total (etwa 5min  Q&A)", 
+                                "language": "en", 
+                                "abstract": "Careables", 
+                                "description": "Calling all hackers, designers, makers, carers, and healthcare professionals!\r\n\r\nWhat are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?\r\n\r\nThrough Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.\r\n\r\nAccessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.\r\n\r\nIt's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 96, 
+                                        "name": "Unbenannter Nutzer", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
@@ -12952,6 +12983,37 @@
                             }
                         ], 
                         "OIO Workshop-Domo": [
+                            {
+                                "id": 309, 
+                                "guid": "b2ec2d49-e698-5858-be0a-2513b4849a01", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:45", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "T8NVCS", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/T8NVCS", 
+                                "title": "Careables Open Source Hardware in Health+Care [Meetup]", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 45min", 
+                                "language": "en", 
+                                "abstract": "Meetup", 
+                                "description": "Calling all hackers, designers, makers, carers, and healthcare professionals!\r\n\r\nWe want to discuss: What are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?\r\n\r\nThrough Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.\r\n\r\nAccessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.\r\n\r\nIt's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 96, 
+                                        "name": "Unbenannter Nutzer", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 286, 
                                 "guid": "e2492352-efbd-5b2c-88e6-29f890fc148c", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5</version>
+  <version>Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2780,8 +2780,8 @@ how to control lights</description>
       </event>
       <event id="283" guid="98550357-b645-5683-9e6b-af20295d8fb1">
         <logo/>
-        <date>2018-12-27T11:30:00+01:00</date>
-        <start>11:30</start>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
         <duration>01:30</duration>
         <room>OIO Vortrags-Arena</room>
         <slug>WNDAXJ</slug>
@@ -7661,6 +7661,43 @@ I'm currently working on WorkHive - the tagline of which is 'Making space for pe
 &#13;
 Thank you for your time, create the world you want to live in, today!&#13;
 Paul Olutokunbo Kristian Henckel-Ojo</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="310" guid="6d0ea2d9-aa91-5bba-84af-21dd73038d81">
+        <logo/>
+        <date>2018-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>SWS3WR</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/SWS3WR</url>
+        <title>Careables: Open Source Hardware in Health+Care [Introduction]</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Careables</abstract>
+        <description>Calling all hackers, designers, makers, carers, and healthcare professionals!&#13;
+&#13;
+What are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?&#13;
+&#13;
+Through Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.&#13;
+&#13;
+Accessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.&#13;
+&#13;
+It's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">
+            <name>Unbenannter Nutzer</name>
+            <biography/>
           </person>
         </persons>
         <links/>
@@ -13071,6 +13108,43 @@ Fragen....</description>
       </event>
     </room>
     <room name="OIO Workshop-Domo">
+      <event id="309" guid="b2ec2d49-e698-5858-be0a-2513b4849a01">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>T8NVCS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/T8NVCS</url>
+        <title>Careables Open Source Hardware in Health+Care [Meetup]</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>Meetup</abstract>
+        <description>Calling all hackers, designers, makers, carers, and healthcare professionals!&#13;
+&#13;
+We want to discuss: What are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?&#13;
+&#13;
+Through Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.&#13;
+&#13;
+Accessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.&#13;
+&#13;
+It's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">
+            <name>Unbenannter Nutzer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="286" guid="e2492352-efbd-5b2c-88e6-29f890fc148c">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>

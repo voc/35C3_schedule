@@ -10754,6 +10754,53 @@
             }
         ]
     }, 
+    "Session:Legal Documents Hack# 7e18552ea892313297f26288fe7893cd": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Mit OffeneGesetze.de haben wir s\u00e4mtliche Bundesgesetzbl\u00e4tter seit 1949 frei ver\u00f6ffentlicht. Jetzt sollten wir die Dokumente auch angemessen nutzen. Hier besprechen wir, was man mit den Daten machen kann und was wir als n\u00e4chstes befreien sollten."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:WikiPakaWG", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:WikiPakaWG", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Legal Documents Hack"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "e5b765c7-7ac5-4cac-9cd2-f67110f32018"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Legal_Documents_Hack", 
+        "Has end time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:LehrerInnenstammtisch# d6267ed88191bbf4d99f44696b95cb7b": {
         "Held in language": [], 
         "Has start time": [
@@ -10970,11 +11017,16 @@
             }
         ]
     }, 
-    "Session:Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit# 512951ef0a940923ddf898700e39b8c7": {
+    "Session:Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit# 8b76646cacabf0102be13a09248ed64a": {
         "Held in language": [
             "de - German"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
         "Has event track": [
             "Session"
         ], 
@@ -11011,8 +11063,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Makey-Makey_f%C3%BCr_Kids_-_Bastel_einen_eigenen_Controller_und_steuere_Programme_damit", 
         "Has end time": [
             {
-                "timestamp": "1546070400", 
-                "raw": "1/2018/12/29/8/0/0/0"
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ]
     }, 
@@ -13845,7 +13897,7 @@
             }
         ]
     }, 
-    "Session:Rubik's Cube L\u00f6sen Lernen# 903720440b7eff4ab6c27634fd2e1011": {
+    "Session:Rubik's Cube L\u00f6sen Lernen# 36fdc50a7268412807db177515fbf2f5": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -13867,7 +13919,9 @@
             "Hands-On"
         ], 
         "Has session location": [], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "How to solve the Cube on your own with Commutators."
+        ], 
         "Is organized by": [
             {
                 "fulltext": "User:Kmkkmk", 
