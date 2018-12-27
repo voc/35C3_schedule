@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV0.9 20121226KOMONA 1.0.5 2018-12-27 02:00", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.5 2018-12-27 04:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -4514,6 +4514,34 @@
                             }
                         ], 
                         "Discodrama": [
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10168.html", 
+                                "id": 10168, 
+                                "guid": "05e70735-b961-44d2-aaa1-2ee9a112ca83", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "03:00", 
+                                "room": "Discodrama", 
+                                "slug": "35c3-lineup-10168-fairy_dust", 
+                                "title": "Fairy Dust", 
+                                "subtitle": "", 
+                                "track": "Music", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "Modify the Fairy Dust!", 
+                                "description": "After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.\r\n\r\nThe file attached to this event contains all information about the object, as well the position and lenses of the 4 projectors. Fell free to develop whatever you like. Keep in mind that the surface is very glossy and actually eats the light away. Rendered video best with HAP or MP4.\r\n\r\nIn the hours between 2 pm and 5 pm on the days of the congress, there will be access to the video system, if you come around and have a device with HDMI out.  \r\n\r\nEnjoy!\r\n\r\n", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/632/original/35C3-template-ROCKET.c4d?1545876425", 
+                                        "title": "35C3-template-ROCKET.c4d"
+                                    }
+                                ]
+                            }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10049.html", 
                                 "id": 10049, 
@@ -12112,6 +12140,34 @@
                             }
                         ], 
                         "Discodrama": [
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10169.html", 
+                                "id": 10169, 
+                                "guid": "7c665abc-1d20-4c2b-a800-99793b114637", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "03:00", 
+                                "room": "Discodrama", 
+                                "slug": "35c3-lineup-10169-fairy_dust", 
+                                "title": "Fairy Dust", 
+                                "subtitle": "", 
+                                "track": "Music", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "Modify the Fairy Dust", 
+                                "description": "After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.\r\n\r\nThe file attached to this event contains all information about the object, as well the position and lenses of the 4 projectors. Fell free to develop whatever you like. Keep in mind that the surface is very glossy and actually eats the light away. Rendered video best with HAP or MP4.\r\n\r\nIn the hours between 2 pm and 5 pm on the days of the congress, there will be access to the video system, if you come around and have a device with HDMI out.  \r\n\r\nEnjoy!\r\n\r\n", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/633/original/35C3-template-ROCKET.c4d?1545876636", 
+                                        "title": "35C3-template-ROCKET.c4d"
+                                    }
+                                ]
+                            }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10062.html", 
                                 "id": 10062, 
@@ -20047,6 +20103,34 @@
                         ], 
                         "Discodrama": [
                             {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10170.html", 
+                                "id": 10170, 
+                                "guid": "32c6829d-8f43-4c9a-8798-824f914f7934", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "03:00", 
+                                "room": "Discodrama", 
+                                "slug": "35c3-lineup-10170-fairy_dust", 
+                                "title": "Fairy Dust", 
+                                "subtitle": "", 
+                                "track": "Music", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "Modify the Fairy Dust", 
+                                "description": "After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.\r\n\r\nThe file attached to this event contains all information about the object, as well the position and lenses of the 4 projectors. Fell free to develop whatever you like. Keep in mind that the surface is very glossy and actually eats the light away. Rendered video best with HAP or MP4.\r\n\r\nIn the hours between 2 pm and 5 pm on the days of the congress, there will be access to the video system, if you come around and have a device with HDMI out.  \r\n\r\nEnjoy!\r\n\r\n", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/634/original/35C3-template-ROCKET.c4d?1545876712", 
+                                        "title": "35C3-template-ROCKET.c4d"
+                                    }
+                                ]
+                            }, 
+                            {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10048.html", 
                                 "id": 10048, 
                                 "guid": "217f7d18-c837-4e12-aac4-2cf826730252", 
@@ -24490,6 +24574,34 @@
                             }
                         ], 
                         "Discodrama": [
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10171.html", 
+                                "id": 10171, 
+                                "guid": "020fed02-b4b2-472a-a4fc-bf4d4ede4e51", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "03:00", 
+                                "room": "Discodrama", 
+                                "slug": "35c3-lineup-10171-fairy_dust", 
+                                "title": "Fairy Dust", 
+                                "subtitle": "", 
+                                "track": "Music", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "Modify the Fairy Dust", 
+                                "description": "After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.\r\n\r\nThe file attached to this event contains all information about the object, as well the position and lenses of the 4 projectors. Fell free to develop whatever you like. Keep in mind that the surface is very glossy and actually eats the light away. Rendered video best with HAP or MP4.\r\n\r\nIn the hours between 2 pm and 5 pm on the days of the congress, there will be access to the video system, if you come around and have a device with HDMI out.  \r\n\r\nEnjoy!\r\n\r\n", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [], 
+                                "links": [], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/635/original/35C3-template-ROCKET.c4d?1545876786", 
+                                        "title": "35C3-template-ROCKET.c4d"
+                                    }
+                                ]
+                            }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10141.html", 
                                 "id": 10141, 
