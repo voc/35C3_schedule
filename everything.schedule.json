@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:10", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 20181227 1.0.9 2018-12-27 19:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7568,35 +7568,6 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
                                 ]
                             }
-                        ], 
-                        "Assembly:Geheimorganisation": [
-                            {
-                                "id": 1273, 
-                                "guid": "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Geheimorganisation", 
-                                "slug": "35c3-1273-session_whisky", 
-                                "title": "Whisky", 
-                                "subtitle": "Main Event", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
-                                        "public_name": "Blackspear"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky"
-                                ]
-                            }
                         ]
                     }
                 }, 
@@ -10575,33 +10546,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup"
-                                ]
-                            }, 
-                            {
-                                "id": 1401, 
-                                "guid": "225d3788-7410-4a45-96b1-cbe631721b3b", 
-                                "logo": null, 
-                                "date": "2018-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1401-session_hackers_against_climate_change", 
-                                "title": "Hackers Against Climate Change", 
-                                "subtitle": "Meetup, Discussion", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Meetup/Discussion for Hackers concerned with Climate Change", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
-                                        "public_name": "Seth"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change"
                                 ]
                             }, 
                             {
@@ -13727,41 +13671,29 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 831, 
-                                "guid": "0eef02a3-048a-59e9-bcee-e16e6a4d486e", 
+                                "id": 846, 
+                                "guid": "b568c0ab-b5db-5772-b43d-99ba2b830a3a", 
                                 "logo": null, 
                                 "date": "2018-12-28T12:30:00+01:00", 
                                 "start": "12:30", 
                                 "duration": "02:00", 
                                 "room": "Komona Kuppel 3 #talks", 
-                                "slug": "9MSDYV", 
-                                "url": "https://talks.komona.org/35c3/talk/9MSDYV", 
-                                "title": "Kreative Formen und Farben des Widerstands / Creative Forms and Colors of Resistance", 
+                                "slug": "7MNZCX", 
+                                "url": "https://talks.komona.org/35c3/talk/7MNZCX", 
+                                "title": "\"Reinventing infinity - a pink proposal for post capitalist network communication\"", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Slot", 
                                 "language": "en", 
-                                "abstract": "Welche (Ausdrucks)Form k\u00f6nnen Protest und Widerstand annehmen? Wie riecht Anarchie? Welche Farbe hat Revolution? Welche Symbole affizieren Menschen zu zivilem Ungehorsam? Wie f\u00fchlt sich heutzutage eine antifaschistische Praxis an? Wie h\u00f6rt sich Revolte an? Welche Methode passt am besten zu welchem Charakter? Und spielt das eigentlich eine Rolle? Lasst es uns zusammen herausfinden. Wir bringen ein paar Beispiele aus unserer aktuellen Praxis mit. \r\n\r\nWhich form of expressions does protest and resistance have? How does anarchy smell like? What color does revolution have? Which symbols can affect people to civil disobedience? How does antifascism feels like these days? How does a revolt sound? Which method suits what character? And does it matter? Let's find out together. We will bring also bring a few recent examples of protests to examine.", 
-                                "description": "Wir leben in unruhigen Zeiten. Die Fratze des Faschismus zeigt sich immer h\u00e4ufiger. Ist wieder allgegenw\u00e4rtiger Ausdruck reaktion\u00e4rer und rassistischer Politik, von hasserf\u00fcllter Grenzenbildung, von Repressions-, Diskriminierungs und Ausgrenzungsstrategien. Gleichzeitig findet in Gesellschaft, Kultur und Subkultur wieder eine zunehmende Politisierung statt. Aus der heraus sich nachaltig widerst\u00e4ndige Strukturen bilden k\u00f6nnen, und die sich aktuell schon in Demonstrationen, Protesten, Revolten und Direkter Aktion immer \u00f6fter (punktuell) Bahn brechen. \r\n\r\nIn den Medien lesen, sehen und h\u00f6ren wir dies meist in klassischer Weise dargebracht. Wer nicht dabei war, bekommt nur eine von vielen Wahrheiten zu sehen. Nicht immer die von den Widerst\u00e4ndigen intendierte, wenn es denn eine gibt. Bekannte Bilder erm\u00f6glichen schnelle und oft verf\u00e4lschende Einordnungen, konventionelle Berichterstattungen und klassische Kommentare. Ungewohnte Bilder und Formen sorgen f\u00fcr Irritation, St\u00f6rung und rufen gleicherma\u00dfen Neugier und Unverst\u00e4ndnis hervor. Und steigern dabei wom\u00f6glich auch die Mobilisierungskraft der oft unter gro\u00dfen Kraftanstrengungen durchgef\u00fchrten Kampagnen und Aktionen.  \r\n\r\nZiel des Workshops ist es den Kanon der Antworten auf die Frage \"Wie sollte Widerstand organisiert sein und aussehen?\" aufzubrechen. Vom Schwarzen Block zu den Regenbogen Masken. \u00dcber Besetzung, Blockade und  Blockupy; Hin zu wegbassen, wegbeamen und weghacken. Hambi bleibt. Lieber tanz ich als G20. Und was kennt ihr so? Wie sehr ihr das? Was spricht euch an und was nicht? \r\n\r\nLasst uns zusammen auf die Suche nach neuen Narrativen, Symbolen, Sprachen und Darstellungen des Widerstands gehen. Und einen Blick in die Zukunft unserer Gesellschaft werfen, die wir entwerfen. Im Widerstand. Lasst uns unsere Erfahrungen und Ideen vergangener Handlungen besprechen und auf zuk\u00fcnftige unvoreingenommen blicken. (Unsere) Wirkweisen in die (Mitte der) Gesellschaft diskutieren und auf deren Effektivit\u00e4t pr\u00fcfen. Sowie M\u00f6glichkeiten der kollektiven Arbeits- und Organisationsform und deren Protenziale teilen. Widerstand. Jetzt. \r\n\r\n#vernetzt #widerst\u00e4ndig #bunt #vereint #massenhaft #militant #friedlich #kollektiv #solidarisch #frei #offen #alles #allen  #reclaimthestreets #reclaimthecity #reclaimyourlife", 
+                                "abstract": "Pink Totaliterianism Now! \r\nFrom #metoo through #all-lives-matter and #freedom-of-speech up to kavanaugh and bolsonaro, a zombie is being summoned: 'pink totaliterianism' (where 'aliter' is latin for 'other') - the imposition of rights-based oppression from 'the left' that keeps people from \u2018things they want to do.\u2019 This exhibition turns the phatasmatic picture of a left queer anti-racist anti-imperial anti-everything conspiracy into a real thing.", 
+                                "description": "[will be held in german if that's what participants prefer] \r\n\r\n'the left' keeps people from \u2018things they want to do' and they must be resisted. For \u2018wanting\u2019 being the core of consumption, it must be sacrosanct - or so the story goes. Some otherwise healthy and self-mobilizing political corpus ('the people,' 'the nation,' 'men and women,' 'the white race,' what have you) is allegedly under attack if not under the control of a small group of wicked, hysterical non-humans (\u2018Social Justice Warriors,\u2019 \u2018feminists,\u2019 \u2018leftists,\u2019 \u2018socialists,\u2019 \u2018communists,\u2019 \u2018gender terrorists,' 'the Jews'). 'Pink Totaliterians' manifest Jordan Peterson' deepest fears: they want whiteness dead, the couple form chased down and shamed publicly, mandatory sex toys and anal intercourse for all, collectivization of all property and white property first (#reparations), corruption of the youth, the mad running free, all prisons abolished, responsibility for hundreds of years of colonizations, imperialism and slave trade, demolition of colonial memorials, prohibition of dread locks for white people, testosterone blockers in the tab water, elevators and orientation systems for blind people everywhere, no lights, no cars, all national sports teams strung up at memorial hall, together with nationalism itself. \r\n\r\nBut: pink totaliterians do not exist. The #altright fantasy does not face a real enemy. Hence, it is easy to blend the totaliterian with actual activists and generate a 'pink scare' while allegedly moving on emancipative soil. Debating this effectively means having our energies blocked, endlessly chipping away on dysfunctional \u2018(non-)foundations\u2019 of \u2018Western society.\u2019 But debate is over. 'Pink Totaliterianism' will build that enemy. \r\n\r\nFor 35c3, we will focus on the history of infinity and the destruction of the internet. We will recount the history of infinity from its medieval inflections of the relation between 'creator' and 'creatures,' its kantian reduction to 'transcendental illusions,' its Cantorian mathematization up into its capitalistic dispersion into a composition of allegedly individual things and the internet as a manifestation of that idea. We will suggest, then, a 'pink infinity,' deflection of everything with everything and work and think together about post-capitalistic network communication for the pink revolution.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 7, 
-                                        "name": "Radikale Liebe", 
-                                        "biography": "", 
-                                        "answers": []
-                                    }, 
-                                    {
-                                        "id": 11, 
-                                        "name": "lxexnxa", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }, 
-                                    {
-                                        "id": 34, 
-                                        "name": "Ronin", 
-                                        "biography": null, 
+                                        "id": 45, 
+                                        "name": "Comrade Josephine a.k.a. Luce deLire", 
+                                        "biography": "Luce deLire is a ship with eight sails and she lays off the quay. A time traveller and collector of mediocre jokes by day, when night falls, she turns into a philosopher, performer and media theorist. She loves visual art, installations, video art etc. She could be seen curating, performing, directing, planning and publishing (on) various events. She is working on and with treason, post secularism, self destruction, fascism and seduction \u2013 all in mixed media. \r\n\r\nfor more, see: www.getaphilosopher.com", 
                                         "answers": []
                                     }
                                 ], 
@@ -14051,29 +13983,41 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 817, 
-                                "guid": "780bf886-4ebf-520b-8830-2b6241887d95", 
+                                "id": 831, 
+                                "guid": "0eef02a3-048a-59e9-bcee-e16e6a4d486e", 
                                 "logo": null, 
-                                "date": "2018-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "03:00", 
+                                "date": "2018-12-28T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "02:00", 
                                 "room": "Komona Thunderdome #workshops #talks", 
-                                "slug": "EJPMBX", 
-                                "url": "https://talks.komona.org/35c3/talk/EJPMBX", 
-                                "title": "postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft", 
+                                "slug": "9MSDYV", 
+                                "url": "https://talks.komona.org/35c3/talk/9MSDYV", 
+                                "title": "Kreative Formen und Farben des Widerstands / Creative Forms and Colors of Resistance", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Slot", 
-                                "language": "de", 
-                                "abstract": "kunstzeug aus schrott basteln \u2013 art scrap stuff tinker workshop", 
-                                "description": "", 
+                                "language": "en", 
+                                "abstract": "Welche (Ausdrucks)Form k\u00f6nnen Protest und Widerstand annehmen? Wie riecht Anarchie? Welche Farbe hat Revolution? Welche Symbole affizieren Menschen zu zivilem Ungehorsam? Wie f\u00fchlt sich heutzutage eine antifaschistische Praxis an? Wie h\u00f6rt sich Revolte an? Welche Methode passt am besten zu welchem Charakter? Und spielt das eigentlich eine Rolle? Lasst es uns zusammen herausfinden. Wir bringen ein paar Beispiele aus unserer aktuellen Praxis mit. \r\n\r\nWhich form of expressions does protest and resistance have? How does anarchy smell like? What color does revolution have? Which symbols can affect people to civil disobedience? How does antifascism feels like these days? How does a revolt sound? Which method suits what character? And does it matter? Let's find out together. We will bring also bring a few recent examples of protests to examine.", 
+                                "description": "Wir leben in unruhigen Zeiten. Die Fratze des Faschismus zeigt sich immer h\u00e4ufiger. Ist wieder allgegenw\u00e4rtiger Ausdruck reaktion\u00e4rer und rassistischer Politik, von hasserf\u00fcllter Grenzenbildung, von Repressions-, Diskriminierungs und Ausgrenzungsstrategien. Gleichzeitig findet in Gesellschaft, Kultur und Subkultur wieder eine zunehmende Politisierung statt. Aus der heraus sich nachaltig widerst\u00e4ndige Strukturen bilden k\u00f6nnen, und die sich aktuell schon in Demonstrationen, Protesten, Revolten und Direkter Aktion immer \u00f6fter (punktuell) Bahn brechen. \r\n\r\nIn den Medien lesen, sehen und h\u00f6ren wir dies meist in klassischer Weise dargebracht. Wer nicht dabei war, bekommt nur eine von vielen Wahrheiten zu sehen. Nicht immer die von den Widerst\u00e4ndigen intendierte, wenn es denn eine gibt. Bekannte Bilder erm\u00f6glichen schnelle und oft verf\u00e4lschende Einordnungen, konventionelle Berichterstattungen und klassische Kommentare. Ungewohnte Bilder und Formen sorgen f\u00fcr Irritation, St\u00f6rung und rufen gleicherma\u00dfen Neugier und Unverst\u00e4ndnis hervor. Und steigern dabei wom\u00f6glich auch die Mobilisierungskraft der oft unter gro\u00dfen Kraftanstrengungen durchgef\u00fchrten Kampagnen und Aktionen.  \r\n\r\nZiel des Workshops ist es den Kanon der Antworten auf die Frage \"Wie sollte Widerstand organisiert sein und aussehen?\" aufzubrechen. Vom Schwarzen Block zu den Regenbogen Masken. \u00dcber Besetzung, Blockade und  Blockupy; Hin zu wegbassen, wegbeamen und weghacken. Hambi bleibt. Lieber tanz ich als G20. Und was kennt ihr so? Wie sehr ihr das? Was spricht euch an und was nicht? \r\n\r\nLasst uns zusammen auf die Suche nach neuen Narrativen, Symbolen, Sprachen und Darstellungen des Widerstands gehen. Und einen Blick in die Zukunft unserer Gesellschaft werfen, die wir entwerfen. Im Widerstand. Lasst uns unsere Erfahrungen und Ideen vergangener Handlungen besprechen und auf zuk\u00fcnftige unvoreingenommen blicken. (Unsere) Wirkweisen in die (Mitte der) Gesellschaft diskutieren und auf deren Effektivit\u00e4t pr\u00fcfen. Sowie M\u00f6glichkeiten der kollektiven Arbeits- und Organisationsform und deren Protenziale teilen. Widerstand. Jetzt. \r\n\r\n#vernetzt #widerst\u00e4ndig #bunt #vereint #massenhaft #militant #friedlich #kollektiv #solidarisch #frei #offen #alles #allen  #reclaimthestreets #reclaimthecity #reclaimyourlife", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 22, 
-                                        "name": "paulaner", 
+                                        "id": 7, 
+                                        "name": "Radikale Liebe", 
                                         "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 11, 
+                                        "name": "lxexnxa", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 34, 
+                                        "name": "Ronin", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
@@ -14083,37 +14027,6 @@
                             }
                         ], 
                         "Komona Zelt #workshops #handson": [
-                            {
-                                "id": 846, 
-                                "guid": "b568c0ab-b5db-5772-b43d-99ba2b830a3a", 
-                                "logo": null, 
-                                "date": "2018-12-28T12:30:00+01:00", 
-                                "start": "12:30", 
-                                "duration": "02:00", 
-                                "room": "Komona Zelt #workshops #handson", 
-                                "slug": "7MNZCX", 
-                                "url": "https://talks.komona.org/35c3/talk/7MNZCX", 
-                                "title": "\"Reinventing infinity - a pink proposal for post capitalist network communication\"", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Slot", 
-                                "language": "en", 
-                                "abstract": "Pink Totaliterianism Now! \r\nFrom #metoo through #all-lives-matter and #freedom-of-speech up to kavanaugh and bolsonaro, a zombie is being summoned: 'pink totaliterianism' (where 'aliter' is latin for 'other') - the imposition of rights-based oppression from 'the left' that keeps people from \u2018things they want to do.\u2019 This exhibition turns the phatasmatic picture of a left queer anti-racist anti-imperial anti-everything conspiracy into a real thing.", 
-                                "description": "[will be held in german if that's what participants prefer] \r\n\r\n'the left' keeps people from \u2018things they want to do' and they must be resisted. For \u2018wanting\u2019 being the core of consumption, it must be sacrosanct - or so the story goes. Some otherwise healthy and self-mobilizing political corpus ('the people,' 'the nation,' 'men and women,' 'the white race,' what have you) is allegedly under attack if not under the control of a small group of wicked, hysterical non-humans (\u2018Social Justice Warriors,\u2019 \u2018feminists,\u2019 \u2018leftists,\u2019 \u2018socialists,\u2019 \u2018communists,\u2019 \u2018gender terrorists,' 'the Jews'). 'Pink Totaliterians' manifest Jordan Peterson' deepest fears: they want whiteness dead, the couple form chased down and shamed publicly, mandatory sex toys and anal intercourse for all, collectivization of all property and white property first (#reparations), corruption of the youth, the mad running free, all prisons abolished, responsibility for hundreds of years of colonizations, imperialism and slave trade, demolition of colonial memorials, prohibition of dread locks for white people, testosterone blockers in the tab water, elevators and orientation systems for blind people everywhere, no lights, no cars, all national sports teams strung up at memorial hall, together with nationalism itself. \r\n\r\nBut: pink totaliterians do not exist. The #altright fantasy does not face a real enemy. Hence, it is easy to blend the totaliterian with actual activists and generate a 'pink scare' while allegedly moving on emancipative soil. Debating this effectively means having our energies blocked, endlessly chipping away on dysfunctional \u2018(non-)foundations\u2019 of \u2018Western society.\u2019 But debate is over. 'Pink Totaliterianism' will build that enemy. \r\n\r\nFor 35c3, we will focus on the history of infinity and the destruction of the internet. We will recount the history of infinity from its medieval inflections of the relation between 'creator' and 'creatures,' its kantian reduction to 'transcendental illusions,' its Cantorian mathematization up into its capitalistic dispersion into a composition of allegedly individual things and the internet as a manifestation of that idea. We will suggest, then, a 'pink infinity,' deflection of everything with everything and work and think together about post-capitalistic network communication for the pink revolution.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 45, 
-                                        "name": "Comrade Josephine a.k.a. Luce deLire", 
-                                        "biography": "Luce deLire is a ship with eight sails and she lays off the quay. A time traveller and collector of mediocre jokes by day, when night falls, she turns into a philosopher, performer and media theorist. She loves visual art, installations, video art etc. She could be seen curating, performing, directing, planning and publishing (on) various events. She is working on and with treason, post secularism, self destruction, fascism and seduction \u2013 all in mixed media. \r\n\r\nfor more, see: www.getaphilosopher.com", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
                             {
                                 "id": 804, 
                                 "guid": "49b87a01-180e-5c21-836c-7d37a7dd267c", 
@@ -14168,6 +14081,37 @@
                                     {
                                         "id": 42, 
                                         "name": "Housetier84", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 817, 
+                                "guid": "780bf886-4ebf-520b-8830-2b6241887d95", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "03:00", 
+                                "room": "Komona Zelt #workshops #handson", 
+                                "slug": "EJPMBX", 
+                                "url": "https://talks.komona.org/35c3/talk/EJPMBX", 
+                                "title": "postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "de", 
+                                "abstract": "kunstzeug aus schrott basteln \u2013 art scrap stuff tinker workshop", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 22, 
+                                        "name": "paulaner", 
                                         "biography": "", 
                                         "answers": []
                                     }
@@ -15950,6 +15894,35 @@
                                 "links": [
                                     "https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Geheimorganisation": [
+                            {
+                                "id": 1273, 
+                                "guid": "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Geheimorganisation", 
+                                "slug": "35c3-1273-session_whisky", 
+                                "title": "Whisky", 
+                                "subtitle": "Main Event", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
+                                        "public_name": "Blackspear"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky"
                                 ]
                             }
                         ]
@@ -19848,7 +19821,7 @@
                                 "abstract": "Party with the haecksen! Dance and celebrate with an uplifiting drum and base mix by dj shroombab (https://m.soundcloud.com/shroombab).", 
                                 "description": "Party party!", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 49, 
@@ -22441,6 +22414,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 860, 
+                                "guid": "36c11798-31fd-540c-aa62-50a8358e82bc", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "01:30", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "FSWAJW", 
+                                "url": "https://talks.komona.org/35c3/talk/FSWAJW", 
+                                "title": "Update f\u00fcr die Fahrradwege deiner Stadt: Wie organisiert man einen Radentscheid?", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "de", 
+                                "abstract": "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid.", 
+                                "description": "Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere St\u00e4dte in Deutschland beim Thema Fahrrad voran. Wir organisieren B\u00fcrgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erkl\u00e4ren wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und sp\u00e4ter m\u00f6glich. F\u00fcr Fragen: david [at] radentscheid-darmstadt.de", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 54, 
+                                        "name": "David Gr\u00fcnewald", 
+                                        "biography": "David ist der Initiator des Radentscheid Darmstadt.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 841, 
                                 "guid": "4ca31580-0a72-5e16-ac33-010296d7e0ed", 
                                 "logo": null, 
@@ -22557,6 +22561,37 @@
                                         "id": 36, 
                                         "name": "Komonista", 
                                         "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 861, 
+                                "guid": "925e98bd-1805-5fd5-b468-d7efee0c45d2", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:30", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "KFQYGV", 
+                                "url": "https://talks.komona.org/35c3/talk/KFQYGV", 
+                                "title": "'fuck off google - decentralized politics from the hood to the world (and beyond)", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "fuckoffgoole! After the neighboorhood of Kreuzberg made resistance for two years, Google's plan to move their campus in Berlin have been abandoned. Did we really win? What's happen now? Join us to hear about the second phase of the resistance, and how your town might join!", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 55, 
+                                        "name": "FuckOffGoogle", 
+                                        "biography": "we are many", 
                                         "answers": []
                                     }
                                 ], 
@@ -23821,6 +23856,130 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1403, 
+                                "guid": "c0b9f048-44b4-47e8-9ec2-e11ecf086c1d", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1403-session_imperfect_vr", 
+                                "title": "Imperfect VR", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Imperfect VR is based on the idea that everyone can create their own Virtual Reality experiences.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Crcdng", 
+                                        "public_name": "Crcdng"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.i3games.com/i3Games/imperfectvr.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR"
+                                ]
+                            }, 
+                            {
+                                "id": 1402, 
+                                "guid": "6b960679-adfb-40bf-a9dc-cb25be330e75", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1402-session_pussy_write", 
+                                "title": "Pussy Write", 
+                                "subtitle": "Site specific writing - Instant poetry", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue", 
+                                        "public_name": "Frauhue"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://pussywrite.de", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write"
+                                ]
+                            }, 
+                            {
+                                "id": 1246, 
+                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1246-session_shadowrun", 
+                                "title": "Shadowrun", 
+                                "subtitle": "Day3 Session in German - No more player slots available!", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
+                                "persons": [], 
+                                "links": [
+                                    "https://rpgzweinull.de/profile/tomorrowland", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
+                                ]
+                            }, 
+                            {
+                                "id": 1275, 
+                                "guid": "279dc130-1d1f-42d6-9272-54abae62edda", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1275-session_the_klingon_civil_war", 
+                                "title": "The Klingon Civil War", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.randorianalysis.de/?p=260", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War"
+                                ]
+                            }, 
+                            {
+                                "id": 1272, 
+                                "guid": "0f5de31b-dab0-41b2-b822-07a39747182c", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1272-session_wargaming_netzpolitik", 
+                                "title": "Wargaming Netzpolitik", 
+                                "subtitle": "Day 3 Session", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies", 
+                                "persons": [], 
+                                "links": [
+                                    "https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik"
+                                ]
+                            }
+                        ], 
                         "Komona Kuppel 3": [
                             {
                                 "id": 1391, 
@@ -23986,102 +24145,6 @@
                                 "links": [
                                     "https://pslab.io", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Social Fiction Society": [
-                            {
-                                "id": 1402, 
-                                "guid": "6b960679-adfb-40bf-a9dc-cb25be330e75", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1402-session_pussy_write", 
-                                "title": "Pussy Write", 
-                                "subtitle": "Site specific writing - Instant poetry", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue", 
-                                        "public_name": "Frauhue"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://pussywrite.de", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write"
-                                ]
-                            }, 
-                            {
-                                "id": 1246, 
-                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1246-session_shadowrun", 
-                                "title": "Shadowrun", 
-                                "subtitle": "Day3 Session in German - No more player slots available!", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun", 
-                                "persons": [], 
-                                "links": [
-                                    "https://rpgzweinull.de/profile/tomorrowland", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun"
-                                ]
-                            }, 
-                            {
-                                "id": 1275, 
-                                "guid": "279dc130-1d1f-42d6-9272-54abae62edda", 
-                                "logo": null, 
-                                "date": "2018-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1275-session_the_klingon_civil_war", 
-                                "title": "The Klingon Civil War", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War", 
-                                "persons": [], 
-                                "links": [
-                                    "http://www.randorianalysis.de/?p=260", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War"
-                                ]
-                            }, 
-                            {
-                                "id": 1272, 
-                                "guid": "0f5de31b-dab0-41b2-b822-07a39747182c", 
-                                "logo": null, 
-                                "date": "2018-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1272-session_wargaming_netzpolitik", 
-                                "title": "Wargaming Netzpolitik", 
-                                "subtitle": "Day 3 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies", 
-                                "persons": [], 
-                                "links": [
-                                    "https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik"
                                 ]
                             }
                         ], 
@@ -25145,7 +25208,7 @@
                                 "abstract": "Wie letztes Jahr wird es wieder ein spezielles Set auf der Chaos West B\u00fchne zur CTF Afterparty geben. \r\nEs wird intensiv elektronisch und tanzbar mit Techno, Hard Electro, Psytrance, Drum and Bass und \u00e4hnlichem.\r\n&\r\nReal-time generated visuals combined with live (shader) coding. I use a self-written OpenGL engine written in Python that can hotload both python and shader code to create an ever evolving visual landscape.", 
                                 "description": "Herzlich Willkommen zur dieses Jahr erstmals offiziellen CTF-Aftershowparty. \r\nNachdem letztes Jahr so ein Erfolg war, ist die Wiederholung dieses Jahr selbstverst\u00e4ndlich.\r\nStatt dem Hirn und Augen sind jetzt Ohren und F\u00fc\u00dfe gefragt: Mit einem Mix aus Techno, Psytrance, Hard Dance und Artverwandtem.\r\nLasst euch ein bisschen \u00fcberraschen, es wird auf jeden Fall elektronisch und auf jeden Fall extrem tanzbar. \r\nAls coolen Zusatz gibt es Live Shaderprogrammierung von VJ Pyree obendrauf. \r\nKommt also zur Chaos-West B\u00fchne und lasst die Nacht voller Energie ausklingen zu lassen!", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 28, 
@@ -25182,7 +25245,7 @@
                                 "abstract": "Techno/Techhouse Set by dray", 
                                 "description": "Techno/Techhouse Set, vermutlich vom Stil zwischen Johnny Aemkel und Tiari, k\u00f6nnte sich aber auch noch ein wenig \u00e4ndern.", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 27, 

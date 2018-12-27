@@ -9675,68 +9675,6 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
         "Has end time": []
     }, 
-    "Session:Hackers Against Climate Change# 1b2332816ab4679c2130afbc7accb371": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546021800", 
-                "raw": "1/2018/12/28/18/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Meetup/Discussion for Hackers concerned with Climate Change"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Meetup, Discussion"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Seth", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Hackers Against Climate Change"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "225d3788-7410-4a45-96b1-cbe631721b3b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change", 
-        "Has end time": [
-            {
-                "timestamp": "1546025400", 
-                "raw": "1/2018/12/28/19/30/0/0"
-            }
-        ]
-    }, 
     "Session:Hackers Against Climate Change# 23628b1ce916ac4a8437d15e617c282e": {
         "Held in language": [
             "de - German", 
@@ -10377,6 +10315,67 @@
             {
                 "timestamp": "1546016400", 
                 "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Imperfect VR# 31e43949b1a103ca389005c9d3cc18a3": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.i3games.com/i3Games/imperfectvr.html"
+        ], 
+        "Has description": [
+            "Imperfect VR is based on the idea that everyone can create their own Virtual Reality experiences."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Social Fiction Society", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Crcdng", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Crcdng", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Imperfect VR"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "c0b9f048-44b4-47e8-9ec2-e11ecf086c1d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR", 
+        "Has end time": [
+            {
+                "timestamp": "1546093800", 
+                "raw": "1/2018/12/29/14/30/0/0"
             }
         ]
     }, 
@@ -20677,7 +20676,7 @@
                 "fulltext": "User:Contact: c3twinks at pm.me", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Contact:_c3twinks_at_pm.me", 
                 "namespace": 2, 
-                "exists": "", 
+                "exists": "1", 
                 "displaytitle": ""
             }
         ], 
@@ -21558,15 +21557,15 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
         "Has end time": []
     }, 
-    "Session:Whisky# d73bc610b81e3fcf21b57a2a36b641b5": {
+    "Session:Whisky# f4c18443baa56535626f7fc29d3925a5": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
             }
         ], 
         "Has event track": [
@@ -21615,8 +21614,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky", 
         "Has end time": [
             {
-                "timestamp": "1545946200", 
-                "raw": "1/2018/12/27/21/30/0/0"
+                "timestamp": "1546032600", 
+                "raw": "1/2018/12/28/21/30/0/0"
             }
         ]
     }, 
