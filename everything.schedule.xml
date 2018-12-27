@@ -1,5 +1,5 @@
 <schedule>
-  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 21:40</version>
+  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 22:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2300,6 +2300,27 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>http://none_yet</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting</link>
+        </links>
+      </event>
+      <event id="1413" guid="68a6adc7-2f7f-4b48-8f53-68999d6828bd">
+        <logo/>
+        <date>2018-12-27T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1413-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle>Werwolf Meetup</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Playing Werwolf together</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>
@@ -7045,7 +7066,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
@@ -7065,7 +7086,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
@@ -7085,7 +7106,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
@@ -9206,6 +9227,27 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <links>
           <link>http://ultraschall.fm</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
+        </links>
+      </event>
+      <event id="1412" guid="1cf90957-8db9-480c-8146-ccb058b27634">
+        <logo/>
+        <date>2018-12-28T23:30:00+01:00</date>
+        <start>23:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1412-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle>Come and play Werwolf</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Playing Werwolf together</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
       <event id="1356" guid="2f5f1a10-09ce-438a-8979-70fee706e089">
@@ -14472,7 +14514,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
@@ -17569,6 +17611,27 @@ However, it's not always easy...</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
+        </links>
+      </event>
+      <event id="1414" guid="5a61c30e-e805-4303-b1bb-b5b17ea636cb">
+        <logo/>
+        <date>2018-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1414-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle>Come and play Werwolf</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Playing Werwolf together</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>
@@ -22131,8 +22194,8 @@ Freifunk since 2003</biography>
       </event>
       <event id="1384" guid="1d06fa37-f896-4aa0-b838-d17324751bd0">
         <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>1:00</duration>
         <room/>
         <slug>35c3-1384-session_spaceapi_status_update</slug>
@@ -23048,7 +23111,7 @@ Freifunk since 2003</biography>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
@@ -23895,6 +23958,27 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
+        </links>
+      </event>
+      <event id="1411" guid="98de360b-4b87-4cf4-af77-f5cff299aa5c">
+        <logo/>
+        <date>2018-12-30T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1411-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle>Come and play Werwolf</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Playing Werwolf together</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>
@@ -25897,7 +25981,7 @@ Wir freuen uns auf Dich und Dein Input!</description>
         <type/>
         <language>en</language>
         <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc.</description>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
         <persons/>
         <links>
           <link>https://pslab.io</link>
