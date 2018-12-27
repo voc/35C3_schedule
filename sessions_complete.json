@@ -11034,7 +11034,7 @@
             "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be"
         ], 
         "Has description": [
-            "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern."
+            "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern. Max. 8 Kids"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -11068,7 +11068,7 @@
             }
         ]
     }, 
-    "Session:Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit# d67738a40dceaa6388c1466f600d0bb7": {
+    "Session:Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit# b7017458274a868a816c56c48025e48c": {
         "Held in language": [
             "de - German"
         ], 
@@ -11085,10 +11085,18 @@
             "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be"
         ], 
         "Has description": [
-            "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern."
+            "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern. Max. 8 Kids"
         ], 
         "Has session type": [], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Verstehbahnhof", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Verstehbahnhof", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
@@ -20076,6 +20084,57 @@
             {
                 "timestamp": "1546178400", 
                 "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:XMPP Meetup# 3b7d232400328fac1964aaaa7944ef2b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://xmpp.org/"
+        ], 
+        "Has description": [
+            "XMPP developer and user meetup. We'll discuss recent improvements and challenges."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "XMPP Meetup"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "2f5f1a10-09ce-438a-8979-70fee706e089"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
             }
         ]
     }

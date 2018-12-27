@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 11:40</version>
+  <version>2018-12-27 12:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1901,6 +1901,26 @@
         <links>
           <link>http://ultraschall.fm</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
+        </links>
+      </event>
+      <event id="1356" guid="2f5f1a10-09ce-438a-8979-70fee706e089">
+        <logo/>
+        <date>2018-12-28T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1356-session_xmpp_meetup</slug>
+        <title>XMPP Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>XMPP developer and user meetup. We'll discuss recent improvements and challenges.</description>
+        <persons/>
+        <links>
+          <link>https://xmpp.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup</link>
         </links>
       </event>
     </room>

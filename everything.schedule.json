@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 11:40", 
+        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 20121226KOMONA 1.0.6 2018-12-27 12:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -9306,6 +9306,28 @@
                                     "http://ultraschall.fm", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
                                 ]
+                            }, 
+                            {
+                                "id": 1356, 
+                                "guid": "2f5f1a10-09ce-438a-8979-70fee706e089", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1356-session_xmpp_meetup", 
+                                "title": "XMPP Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "XMPP developer and user meetup. We'll discuss recent improvements and challenges.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://xmpp.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup"
+                                ]
                             }
                         ], 
                         "Seminar room 13": [
@@ -13746,28 +13768,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1310, 
-                                "guid": "57cfb71e-5c02-4f33-8742-6a9176c6f8f4", 
-                                "logo": null, 
-                                "date": "2018-12-28T11:30:00+01:00", 
-                                "start": "11:30", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1310-session_makey_makey_fuer_kids_bastel_einen_eigenen_controller_und_steuere_programme_damit", 
-                                "title": "Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Makey-Makey_f%C3%BCr_Kids_-_Bastel_einen_eigenen_Controller_und_steuere_Programme_damit"
-                                ]
-                            }, 
-                            {
                                 "id": 1201, 
                                 "guid": "f45b9f26-45ad-4c8b-8350-1abfc1420514", 
                                 "logo": null, 
@@ -15025,7 +15025,29 @@
                                 "type": "", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern.", 
+                                "description": "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern. Max. 8 Kids", 
+                                "persons": [], 
+                                "links": [
+                                    "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Makey-Makey_f%C3%BCr_Kids_-_Bastel_einen_eigenen_Controller_und_steuere_Programme_damit"
+                                ]
+                            }, 
+                            {
+                                "id": 1310, 
+                                "guid": "57cfb71e-5c02-4f33-8742-6a9176c6f8f4", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Verstehbahnhof", 
+                                "slug": "35c3-1310-session_makey_makey_fuer_kids_bastel_einen_eigenen_controller_und_steuere_programme_damit", 
+                                "title": "Makey-Makey f\u00fcr Kids - Bastel einen eigenen Controller und steuere Programme damit", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Beim Makey-Makey handelt es sich um einen Minicontroller, an dem leitf\u00e4hige Materialien angeschlossen werden k\u00f6nnen, um Programme, Spiele usw. zu steuern. Max. 8 Kids", 
                                 "persons": [], 
                                 "links": [
                                     "https://www.youtube.com/watch?v=rfQqh7iCcOU&feature=youtu.be", 
