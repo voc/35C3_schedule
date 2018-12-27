@@ -1,5 +1,5 @@
 <schedule>
-  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 18:40</version>
+  <version>Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9973,6 +9973,27 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FediverseMeetup</link>
         </links>
       </event>
+      <event id="1401" guid="225d3788-7410-4a45-96b1-cbe631721b3b">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1401-session_hackers_against_climate_change</slug>
+        <title>Hackers Against Climate Change</title>
+        <subtitle>Meetup, Discussion</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup/Discussion for Hackers concerned with Climate Change</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Seth">Seth</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change</link>
+        </links>
+      </event>
       <event id="1066" guid="a3001e88-3c60-4c44-8d5b-b10d4e887cc3">
         <logo/>
         <date>2018-12-28T19:30:00+01:00</date>
@@ -13697,25 +13718,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
-        </links>
-      </event>
-      <event id="1397" guid="a2065223-8e67-4f51-bde5-7f17f36866db">
-        <logo/>
-        <date>2018-12-28T15:30:00+01:00</date>
-        <start>15:30</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>35c3-1397-session_electric_cars_use_it_hack_it_talk_about_it</slug>
-        <title>Electric cars, use it, hack it, talk about it</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Let talk about electric cars - computers on wheels.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it</link>
         </links>
       </event>
       <event id="1190" guid="2708d339-0653-4648-bae1-0f2ec8d42811">
@@ -22669,6 +22671,28 @@ Freifunk since 2003</biography>
       </event>
     </room>
     <room name="Assembly:Social Fiction Society">
+      <event id="1402" guid="6b960679-adfb-40bf-a9dc-cb25be330e75">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1402-session_pussy_write</slug>
+        <title>Pussy Write</title>
+        <subtitle>Site specific writing - Instant poetry</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
+        </persons>
+        <links>
+          <link>http://pussywrite.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write</link>
+        </links>
+      </event>
       <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 18:40", 
+        "version": "Happy days 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.9 2018-12-27 19:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10573,6 +10573,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1401, 
+                                "guid": "225d3788-7410-4a45-96b1-cbe631721b3b", 
+                                "logo": null, 
+                                "date": "2018-12-28T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1401-session_hackers_against_climate_change", 
+                                "title": "Hackers Against Climate Change", 
+                                "subtitle": "Meetup, Discussion", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup/Discussion for Hackers concerned with Climate Change", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                                        "public_name": "Seth"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change"
+                                ]
+                            }, 
+                            {
                                 "id": 1066, 
                                 "guid": "a3001e88-3c60-4c44-8d5b-b10d4e887cc3", 
                                 "logo": null, 
@@ -14209,27 +14236,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song"
-                                ]
-                            }, 
-                            {
-                                "id": 1397, 
-                                "guid": "a2065223-8e67-4f51-bde5-7f17f36866db", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:30:00+01:00", 
-                                "start": "15:30", 
-                                "duration": "1:00", 
-                                "room": "", 
-                                "slug": "35c3-1397-session_electric_cars_use_it_hack_it_talk_about_it", 
-                                "title": "Electric cars, use it, hack it, talk about it", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Let talk about electric cars - computers on wheels.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it"
                                 ]
                             }, 
                             {
@@ -23979,6 +23985,34 @@
                             }
                         ], 
                         "Assembly:Social Fiction Society": [
+                            {
+                                "id": 1402, 
+                                "guid": "6b960679-adfb-40bf-a9dc-cb25be330e75", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Social Fiction Society", 
+                                "slug": "35c3-1402-session_pussy_write", 
+                                "title": "Pussy Write", 
+                                "subtitle": "Site specific writing - Instant poetry", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue", 
+                                        "public_name": "Frauhue"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://pussywrite.de", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write"
+                                ]
+                            }, 
                             {
                                 "id": 1246, 
                                 "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 

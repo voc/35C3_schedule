@@ -6562,15 +6562,15 @@
             }
         ]
     }, 
-    "Session:Electric cars, use it, hack it, talk about it# b95bce835a5f03da13ac1cf2934b112b": {
+    "Session:Electric cars, use it, hack it, talk about it# 140708e61564432906300cc428fe1d44": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546011000", 
-                "raw": "1/2018/12/28/15/30/0/0"
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
             }
         ], 
         "Has event track": [
@@ -6587,22 +6587,15 @@
         "Has title": [
             "Electric cars, use it, hack it, talk about it"
         ], 
-        "Has duration": [
-            60
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "a2065223-8e67-4f51-bde5-7f17f36866db"
+            "c1f3d7a6-241b-4ac7-953e-380dbd09a3ce"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it", 
-        "Has end time": [
-            {
-                "timestamp": "1546014600", 
-                "raw": "1/2018/12/28/16/30/0/0"
-            }
-        ]
+        "Has end time": []
     }, 
     "Session:Elektrobastelei - electric tinkering# 78ef4574b0553166eede5a114b4f7dfa": {
         "Held in language": [
@@ -9681,6 +9674,68 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup", 
         "Has end time": []
+    }, 
+    "Session:Hackers Against Climate Change# 1b2332816ab4679c2130afbc7accb371": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meetup/Discussion for Hackers concerned with Climate Change"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Meetup, Discussion"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Seth", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hackers Against Climate Change"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "225d3788-7410-4a45-96b1-cbe631721b3b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change", 
+        "Has end time": [
+            {
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
     }, 
     "Session:Hackers Against Climate Change# 23628b1ce916ac4a8437d15e617c282e": {
         "Held in language": [
@@ -15175,6 +15230,67 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Procrastination_horror_stories", 
         "Has end time": []
+    }, 
+    "Session:Pussy Write# dcfa810d2a96d061ee25b94ea28c9b0d": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://pussywrite.de"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Social Fiction Society", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Site specific writing - Instant poetry"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Frauhue", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Pussy Write"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "6b960679-adfb-40bf-a9dc-cb25be330e75"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write", 
+        "Has end time": [
+            {
+                "timestamp": "1546104600", 
+                "raw": "1/2018/12/29/17/30/0/0"
+            }
+        ]
     }, 
     "Session:QueerFeministGeeks - MeetUp# 9e543dc4514e1c764a73f5744e88f43d": {
         "Held in language": [
