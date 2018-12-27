@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:40", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 16:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -11223,9 +11223,9 @@
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Einfacher Slot mit optionalen Q+A", 
-                                "language": "en", 
-                                "abstract": "Was passiert mit einer Faser die 10x um einen Bleistift gewickelt wird?\r\nWas hat es mit dieser D\u00e4mpfung auf sich, und warum macht sie mein\r\nInternet langsam?\r\nWas ist der unterschied zwischen 1330nm & 1550nm und warum gibt es beides?\r\nDiese und andere Fragen beantworten wir auf der B\u00fchne.", 
-                                "description": "Was passiert mit einer Faser die 10x um einen Bleistift gewickelt wird?\r\nWas hat es mit dieser D\u00e4mpfung auf sich, und warum macht sie mein\r\nInternet langsam?\r\nWas ist der unterschied zwischen 1330nm & 1550nm und warum gibt es beides?\r\nDiese und andere Fragen beantworten wir auf der B\u00fchne.", 
+                                "language": "de", 
+                                "abstract": "Was passiert mit einer Faser die 10x um einen Bleistift gewickelt wird?\r\nWas hat es mit dieser D\u00e4mpfung auf sich, und warum macht sie mein\r\nInternet langsam?\r\nWas ist der unterschied zwischen 1310nm & 1550nm und warum gibt es beides?\r\nDiese und andere Fragen beantworten wir auf der B\u00fchne.", 
+                                "description": "Was passiert mit einer Faser die 10x um einen Bleistift gewickelt wird?\r\nWas hat es mit dieser D\u00e4mpfung auf sich, und warum macht sie mein\r\nInternet langsam?\r\nWas ist der unterschied zwischen 1310nm & 1550nm und warum gibt es beides?\r\nDiese und andere Fragen beantworten wir auf der B\u00fchne.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
