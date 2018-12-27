@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Inspector Gadget 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 20181227 1.0.9", 
+        "version": "Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.9", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3137,8 +3137,8 @@
                                 "id": 435, 
                                 "guid": "10fb2aa4-67b1-5b24-bc6d-71bb0105e2d8", 
                                 "logo": null, 
-                                "date": "2018-12-27T22:00:00+01:00", 
-                                "start": "22:00", 
+                                "date": "2018-12-27T21:45:00+01:00", 
+                                "start": "21:45", 
                                 "duration": "00:45", 
                                 "room": "Sendetisch", 
                                 "slug": "MERWJM", 
