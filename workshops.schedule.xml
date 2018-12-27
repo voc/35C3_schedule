@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 01:10</version>
+  <version>2018-12-27 01:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1226,6 +1226,63 @@
       </event>
     </room>
     <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1341" guid="2e766936-0710-4ac7-a4a4-77078c255276">
+        <logo/>
+        <date>2018-12-27T22:09:00+01:00</date>
+        <start>22:09</start>
+        <duration>0:04</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1341-session_film_base_at_bowl</slug>
+        <title>Film -- Base at Bowl</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Base_at_Bowl</link>
+        </links>
+      </event>
+      <event id="1342" guid="6b1c7124-fbb2-4f7e-9bec-c4ab37cc711e">
+        <logo/>
+        <date>2018-12-27T21:15:00+01:00</date>
+        <start>21:15</start>
+        <duration>0:11</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1342-session_film_e97</slug>
+        <title>Film -- E97</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Sometimes I like to stand back and have a look. Eisenbahnstraße, Leipzig East.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_E97</link>
+        </links>
+      </event>
+      <event id="1344" guid="876a43a7-5f47-4450-9045-a7ac51112e52">
+        <logo/>
+        <date>2018-12-27T21:27:00+01:00</date>
+        <start>21:27</start>
+        <duration>0:08</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1344-session_film_herdtz_part_1_</slug>
+        <title>Film -- Herdtz (Part 1)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Herdtz_(Part_1)</link>
+        </links>
+      </event>
       <event id="1334" guid="a1d6020d-23b4-4251-a4d1-a0e8c4ee1558">
         <logo/>
         <date>2018-12-27T20:22:00+01:00</date>
@@ -1243,6 +1300,25 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_I_can%C2%B4t_control_myself</link>
+        </links>
+      </event>
+      <event id="1345" guid="e0caa641-5385-4058-8b6f-cf802e1b2b3f">
+        <logo/>
+        <date>2018-12-27T21:48:00+01:00</date>
+        <start>21:48</start>
+        <duration>0:12</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1345-session_film_ikonen</slug>
+        <title>Film -- Ikonen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Ikonen</link>
         </links>
       </event>
       <event id="1331" guid="c31c678a-7801-44c6-801e-e2c796685562">
@@ -1281,6 +1357,44 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_MEMORY</link>
+        </links>
+      </event>
+      <event id="1347" guid="5baa75bc-c0f8-4dea-a1e3-b131ff39d278">
+        <logo/>
+        <date>2018-12-27T21:35:00+01:00</date>
+        <start>21:35</start>
+        <duration>0:13</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1347-session_film_testgelaende</slug>
+        <title>Film -- Testgelände</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Testgel%C3%A4nde</link>
+        </links>
+      </event>
+      <event id="1348" guid="25231e5a-8253-4be2-a50b-87e7b9982a9f">
+        <logo/>
+        <date>2018-12-27T22:13:00+01:00</date>
+        <start>22:13</start>
+        <duration>0:07</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1348-session_film_warm_water_out_of_the_wall</slug>
+        <title>Film -- Warm water out of the wall</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Warm_water_out_of_the_wall</link>
         </links>
       </event>
       <event id="1338" guid="65ca76ed-9b3f-4c8d-a5bc-382a75550c62">
@@ -2300,7 +2414,7 @@
         <logo/>
         <date>2018-12-28T12:00:00+01:00</date>
         <start>12:00</start>
-        <duration>1:30</duration>
+        <duration>2:00</duration>
         <room>Lecture room M3</room>
         <slug>35c3-1255-session_tor_relay_operators_meetup</slug>
         <title>Tor relay operators meetup</title>
@@ -2752,6 +2866,63 @@
       </event>
     </room>
     <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1340" guid="18f0dfaa-6622-49e4-aca7-e76a549d5b50">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:13</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1340-session_film_algo_rhythm</slug>
+        <title>Film -- Algo-Rhythm</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Rap Musical against Automated Propaganda Convenience, not choice.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Algo-Rhythm</link>
+        </links>
+      </event>
+      <event id="1343" guid="62abca03-5040-4b24-bc1d-a23208f5b782">
+        <logo/>
+        <date>2018-12-28T20:13:00+01:00</date>
+        <start>20:13</start>
+        <duration>1:32</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1343-session_film_global_home</slug>
+        <title>Film -- Global Home</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>The film explores a thrilling new way of travelling and reveals a longing for more authentic forms of human interaction.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Global_Home</link>
+        </links>
+      </event>
+      <event id="1346" guid="49cd6184-57ff-4675-ad62-68152fb9efa2">
+        <logo/>
+        <date>2018-12-28T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:20</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1346-session_film_illegale_film</slug>
+        <title>Film -- Illegale Film</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>If everything really does become a product – art, ideas, colours, the pictures of our surroundings and even our ‘selfies’ – then who do the pictures we take of ourselves, and our world belong to?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Illegale_Film</link>
+        </links>
+      </event>
       <event id="1322" guid="5664514a-e1e8-461f-8187-422a73a875e8">
         <logo/>
         <date>2018-12-28T12:00:00+01:00</date>

@@ -6752,6 +6752,53 @@
             }
         ]
     }, 
+    "Session:Film -- Algo-Rhythm# bba80be3ad442fbda1327d7512457671": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rap Musical against Automated Propaganda Convenience, not choice."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Algo-Rhythm"
+        ], 
+        "Has duration": [
+            13
+        ], 
+        "GUID": [
+            "18f0dfaa-6622-49e4-aca7-e76a549d5b50"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Algo-Rhythm", 
+        "Has end time": [
+            {
+                "timestamp": "1546027980", 
+                "raw": "1/2018/12/28/20/13/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- Aus den Tr\u00fcmmern das Paradies# a5fd5afd3462e693ce8b6ab73978b463": {
         "Held in language": [], 
         "Has start time": [
@@ -6786,6 +6833,190 @@
             {
                 "timestamp": "1545942480", 
                 "raw": "1/2018/12/27/20/28/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Base at Bowl# d7cc3f5b79b57c89823e5a89453f6a94": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545948540", 
+                "raw": "1/2018/12/27/22/9/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Base at Bowl"
+        ], 
+        "Has duration": [
+            4
+        ], 
+        "GUID": [
+            "2e766936-0710-4ac7-a4a4-77078c255276"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Base_at_Bowl", 
+        "Has end time": [
+            {
+                "timestamp": "1545948780", 
+                "raw": "1/2018/12/27/22/13/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- E97# 7d1cfc8d3b985421e07dfbf7f0a3f560": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545945300", 
+                "raw": "1/2018/12/27/21/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Sometimes I like to stand back and have a look. Eisenbahnstra\u00dfe, Leipzig East."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- E97"
+        ], 
+        "Has duration": [
+            11
+        ], 
+        "GUID": [
+            "6b1c7124-fbb2-4f7e-9bec-c4ab37cc711e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_E97", 
+        "Has end time": [
+            {
+                "timestamp": "1545945960", 
+                "raw": "1/2018/12/27/21/26/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Global Home# ceba158c2b154a5f434732afdc21c8de": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546027980", 
+                "raw": "1/2018/12/28/20/13/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The film explores a thrilling new way of travelling and reveals a longing for more authentic forms of human interaction."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Global Home"
+        ], 
+        "Has duration": [
+            92
+        ], 
+        "GUID": [
+            "62abca03-5040-4b24-bc1d-a23208f5b782"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Global_Home", 
+        "Has end time": [
+            {
+                "timestamp": "1546033500", 
+                "raw": "1/2018/12/28/21/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Herdtz (Part 1)# 6f25dffec2c856f22d99d15c557ee65d": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545946020", 
+                "raw": "1/2018/12/27/21/27/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Herdtz (Part 1)"
+        ], 
+        "Has duration": [
+            8
+        ], 
+        "GUID": [
+            "876a43a7-5f47-4450-9045-a7ac51112e52"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Herdtz_(Part_1)", 
+        "Has end time": [
+            {
+                "timestamp": "1545946500", 
+                "raw": "1/2018/12/27/21/35/0/0"
             }
         ]
     }, 
@@ -6833,6 +7064,98 @@
             {
                 "timestamp": "1545942240", 
                 "raw": "1/2018/12/27/20/24/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Ikonen# f9cc62e1ea9db96060fc4f2e7749fcfd": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545947280", 
+                "raw": "1/2018/12/27/21/48/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Ikonen"
+        ], 
+        "Has duration": [
+            12
+        ], 
+        "GUID": [
+            "e0caa641-5385-4058-8b6f-cf802e1b2b3f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Ikonen", 
+        "Has end time": [
+            {
+                "timestamp": "1545948000", 
+                "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Illegale Film# ea391fd74dd2841d5b04e719e1332998": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546034400", 
+                "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "If everything really does become a product \u2013 art, ideas, colours, the pictures of our surroundings and even our \u2018selfies\u2019 \u2013 then who do the pictures we take of ourselves, and our world belong to?"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Illegale Film"
+        ], 
+        "Has duration": [
+            80
+        ], 
+        "GUID": [
+            "49cd6184-57ff-4675-ad62-68152fb9efa2"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Illegale_Film", 
+        "Has end time": [
+            {
+                "timestamp": "1546039200", 
+                "raw": "1/2018/12/28/23/20/0/0"
             }
         ]
     }, 
@@ -6927,6 +7250,96 @@
             {
                 "timestamp": "1545943740", 
                 "raw": "1/2018/12/27/20/49/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Testgel\u00e4nde# 611fc75bdd93a3d520620e6061e4863b": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545946500", 
+                "raw": "1/2018/12/27/21/35/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Testgel\u00e4nde"
+        ], 
+        "Has duration": [
+            13
+        ], 
+        "GUID": [
+            "5baa75bc-c0f8-4dea-a1e3-b131ff39d278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Testgel%C3%A4nde", 
+        "Has end time": [
+            {
+                "timestamp": "1545947280", 
+                "raw": "1/2018/12/27/21/48/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Warm water out of the wall# 662f56aa36a4af50e413df2ff356926b": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545948780", 
+                "raw": "1/2018/12/27/22/13/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Warm water out of the wall"
+        ], 
+        "Has duration": [
+            7
+        ], 
+        "GUID": [
+            "25231e5a-8253-4be2-a50b-87e7b9982a9f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Warm_water_out_of_the_wall", 
+        "Has end time": [
+            {
+                "timestamp": "1545949200", 
+                "raw": "1/2018/12/27/22/20/0/0"
             }
         ]
     }, 
@@ -16947,7 +17360,7 @@
             }
         ]
     }, 
-    "Session:Tor relay operators meetup# 887c5d13daa7a22061ec64be9ecc4ef4": {
+    "Session:Tor relay operators meetup# ded856e586fe3840da62a242ca5a365a": {
         "Held in language": [
             "en - English"
         ], 
@@ -16982,7 +17395,7 @@
             "Tor relay operators meetup"
         ], 
         "Has duration": [
-            90
+            120
         ], 
         "GUID": [
             "6a64b395-e553-4579-b48d-ce8aaec0d4ad"
@@ -16993,8 +17406,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup", 
         "Has end time": [
             {
-                "timestamp": "1546003800", 
-                "raw": "1/2018/12/28/13/30/0/0"
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
             }
         ]
     }, 
