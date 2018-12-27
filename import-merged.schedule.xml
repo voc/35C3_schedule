@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 2.0.2 1.0 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6</version>
+  <version>Golden Girls 3 1.7 2.0.2 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3397,7 +3397,7 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <logo/>
         <date>2018-12-27T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>01:00</duration>
+        <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>YWXE7F</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F</url>
@@ -3484,8 +3484,8 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
     <room name="WikiPakaWG Küche">
       <event id="511" guid="e62603e3-dcd9-53c9-b649-34ba70bc4ca7">
         <logo/>
-        <date>2018-12-27T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>01:00</duration>
         <room>WikiPakaWG Küche</room>
         <slug>7FRCLS</slug>
