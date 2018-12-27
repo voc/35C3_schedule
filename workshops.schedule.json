@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 23:30", 
+        "version": "2018-12-27 23:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2868,7 +2868,7 @@
                                 "room": "Lecture room M1", 
                                 "slug": "35c3-1184-session_is_that_password_long_enough_", 
                                 "title": "Is That Password Long Enough?", 
-                                "subtitle": "Entry to medium level talk", 
+                                "subtitle": "Entry to medium level talk on whether long passwords really are that important.", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "en", 
@@ -4160,6 +4160,33 @@
                         "OIO Workshop-Domo": [], 
                         "CCL Saal 3": [], 
                         "Vintage Computing Cluster": [
+                            {
+                                "id": 1420, 
+                                "guid": "367a7673-8afa-4915-b7cf-e8f8e107c30c", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Vintage Computing Cluster", 
+                                "slug": "35c3-1420-session_hege_und_aufzucht_kleiner_technischer_vereine", 
+                                "title": "Hege und Aufzucht kleiner technischer Vereine", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ch", 
+                                        "public_name": "Ch"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine"
+                                ]
+                            }, 
                             {
                                 "id": 1289, 
                                 "guid": "980bf311-9866-4869-9184-c93cdacff1d1", 

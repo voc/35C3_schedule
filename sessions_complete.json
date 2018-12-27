@@ -10201,6 +10201,63 @@
             }
         ]
     }, 
+    "Session:Hege und Aufzucht kleiner technischer Vereine# d605f881b445e2c2c56db9320c827d74": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Vintage Computing Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Vintage_Computing_Cluster", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ch", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ch", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hege und Aufzucht kleiner technischer Vereine"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "367a7673-8afa-4915-b7cf-e8f8e107c30c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Herald Angel Introduction# 451a34d5f3a294954670f38018c822dd": {
         "Held in language": [], 
         "Has start time": [
@@ -11055,7 +11112,7 @@
             }
         ]
     }, 
-    "Session:Is That Password Long Enough?# aa91b72921a386a5c1fa975c0d765b1a": {
+    "Session:Is That Password Long Enough?# 2c43363a5984b43db44f8f01fe99eea8": {
         "Held in language": [
             "en - English"
         ], 
@@ -11083,7 +11140,7 @@
             }
         ], 
         "Has subtitle": [
-            "Entry to medium level talk"
+            "Entry to medium level talk on whether long passwords really are that important."
         ], 
         "Is organized by": [
             {

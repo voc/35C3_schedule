@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:30</version>
+  <version>Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-27 23:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9613,7 +9613,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room M1</room>
         <slug>35c3-1184-session_is_that_password_long_enough_</slug>
         <title>Is That Password Long Enough?</title>
-        <subtitle>Entry to medium level talk</subtitle>
+        <subtitle>Entry to medium level talk on whether long passwords really are that important.</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -22944,6 +22944,51 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1420" guid="367a7673-8afa-4915-b7cf-e8f8e107c30c">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1420-session_hege_und_aufzucht_kleiner_technischer_vereine</slug>
+        <title>Hege und Aufzucht kleiner technischer Vereine</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ch">Ch</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine</link>
+        </links>
+      </event>
+      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
+        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
+        </persons>
+        <links>
+          <link>https://vcfb.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Social Fiction Society">
       <event id="1403" guid="c0b9f048-44b4-47e8-9ec2-e11ecf086c1d">
         <logo/>
@@ -23271,30 +23316,6 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101</link>
-        </links>
-      </event>
-    </room>
-    <room name="Vintage Computing Cluster">
-      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
-        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
-        </persons>
-        <links>
-          <link>https://vcfb.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
         </links>
       </event>
     </room>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 23:30</version>
+  <version>2018-12-27 23:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2415,7 +2415,7 @@
         <room>Lecture room M1</room>
         <slug>35c3-1184-session_is_that_password_long_enough_</slug>
         <title>Is That Password Long Enough?</title>
-        <subtitle>Entry to medium level talk</subtitle>
+        <subtitle>Entry to medium level talk on whether long passwords really are that important.</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language>en</language>
@@ -3515,6 +3515,27 @@
     <room name="OIO Workshop-Domo"/>
     <room name="CCL Saal 3"/>
     <room name="Vintage Computing Cluster">
+      <event id="1420" guid="367a7673-8afa-4915-b7cf-e8f8e107c30c">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1420-session_hege_und_aufzucht_kleiner_technischer_vereine</slug>
+        <title>Hege und Aufzucht kleiner technischer Vereine</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ch">Ch</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine</link>
+        </links>
+      </event>
       <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
         <logo/>
         <date>2018-12-29T14:00:00+01:00</date>
