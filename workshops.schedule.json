@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-27 22:40", 
+        "version": "2018-12-27 23:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -724,7 +724,7 @@
                                 "type": "workshop", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
@@ -2513,7 +2513,7 @@
                                 "type": "workshop", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"
@@ -4022,6 +4022,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1417, 
+                                "guid": "1184c516-610b-4244-9f62-90cfac5e7e47", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "1:00", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1417-session_hackerspaces_org", 
+                                "title": "Hackerspaces.org", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We will discuss about how to make hackerspaces.org better!", 
+                                "persons": [], 
+                                "links": [
+                                    "https://hackerspaces.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerspaces.org"
+                                ]
+                            }, 
+                            {
                                 "id": 1392, 
                                 "guid": "eb8a682b-106c-4bb1-94ce-9f200b3cae02", 
                                 "logo": null, 
@@ -4473,7 +4495,7 @@
                                 "type": "workshop", 
                                 "language": "", 
                                 "abstract": "", 
-                                "description": "", 
+                                "description": "Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern"

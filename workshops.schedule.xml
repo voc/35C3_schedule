@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 22:40</version>
+  <version>2018-12-27 23:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -591,7 +591,7 @@
         <type>workshop</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern</link>
@@ -2104,7 +2104,7 @@
         <type>workshop</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern</link>
@@ -3392,6 +3392,26 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
       </event>
+      <event id="1417" guid="1184c516-610b-4244-9f62-90cfac5e7e47">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room 11</room>
+        <slug>35c3-1417-session_hackerspaces_org</slug>
+        <title>Hackerspaces.org</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will discuss about how to make hackerspaces.org better!</description>
+        <persons/>
+        <links>
+          <link>https://hackerspaces.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerspaces.org</link>
+        </links>
+      </event>
       <event id="1392" guid="eb8a682b-106c-4bb1-94ce-9f200b3cae02">
         <logo/>
         <date>2018-12-29T21:15:00+01:00</date>
@@ -3768,7 +3788,7 @@
         <type>workshop</type>
         <language/>
         <abstract/>
-        <description/>
+        <description>Luft, Wasser und Lebensmittel - entdecke einige interessante Eigenschaften der Stoffe aus deiner Umgebung.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Alltags-Experimente_mit_Kindern</link>
