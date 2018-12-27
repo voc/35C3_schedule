@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 2.0.2 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 14:30", 
+        "version": "Golden Girls 3 1.7 2.0.2 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 14:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2240,7 +2240,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "We'll talk about fiction and non-fiction books.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://b76.ch/9728", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hacker%E2%80%99s_Digest"
@@ -6480,7 +6486,7 @@
                                 "logo": null, 
                                 "date": "2018-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
-                                "duration": "5:00", 
+                                "duration": "2:30", 
                                 "room": "Assembly:Chaos West", 
                                 "slug": "35c3-1027-session_build_your_own_yub_key", 
                                 "title": "Build your own Yub!Key", 
@@ -15655,16 +15661,16 @@
                         ], 
                         "Assembly:Social Fiction Society": [
                             {
-                                "id": 1246, 
-                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
+                                "id": 1247, 
+                                "guid": "76ac3888-8f15-5918-81bd-75a347813992", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1246-session_shadowrun", 
+                                "slug": "35c3-1247-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day2 Session", 
+                                "subtitle": "Day2 Session in German", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 
@@ -23497,7 +23503,7 @@
                                 "room": "Assembly:Social Fiction Society", 
                                 "slug": "35c3-1249-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day3 Session", 
+                                "subtitle": "Day3 Session in German", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 
@@ -26435,16 +26441,16 @@
                         ], 
                         "Assembly:Social Fiction Society": [
                             {
-                                "id": 1376, 
-                                "guid": "6dcf9220-7b50-5675-a3b8-b8071ac6aea2", 
+                                "id": 1246, 
+                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
                                 "logo": null, 
                                 "date": "2018-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1376-session_shadowrun", 
+                                "slug": "35c3-1246-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day4 Session", 
+                                "subtitle": "Day4 Session in English", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 
