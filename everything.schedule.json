@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 17:40", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 18:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -1921,6 +1921,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Document_forensics:_How_to_still_dox_spyware_suppliers."
+                                ]
+                            }, 
+                            {
+                                "id": 1390, 
+                                "guid": "7f49ef36-4e97-4366-9dbc-62070953fa89", 
+                                "logo": null, 
+                                "date": "2018-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1390-session_hacker_workflows_tools_for_x_v2_0_", 
+                                "title": "Hacker Workflows: Tools for X (v2.0)", 
+                                "subtitle": "list & bash", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Collecting all the tools for all the things you can do with computers", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacker_Workflows:_Tools_for_X_(v2.0)"
                                 ]
                             }, 
                             {
