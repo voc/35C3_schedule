@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 01:20</version>
+  <version>2018-12-27 01:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2885,6 +2885,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Algo-Rhythm</link>
         </links>
       </event>
+      <event id="1349" guid="2bac00b7-3d88-424e-b382-452286cce9ec">
+        <logo/>
+        <date>2018-12-29T00:21:00+01:00</date>
+        <start>00:21</start>
+        <duration>1:50</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1349-session_film_c2x_the_television_will_not_be_revolutionized_</slug>
+        <title>Film -- C2X: The television will not be revolutionized.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_C2X:_The_television_will_not_be_revolutionized.</link>
+        </links>
+      </event>
       <event id="1343" guid="62abca03-5040-4b24-bc1d-a23208f5b782">
         <logo/>
         <date>2018-12-28T20:13:00+01:00</date>
@@ -2921,6 +2940,63 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Illegale_Film</link>
+        </links>
+      </event>
+      <event id="1350" guid="f4745f8e-bc7f-4fdc-b570-20f294edef58">
+        <logo/>
+        <date>2018-12-29T02:11:00+01:00</date>
+        <start>02:11</start>
+        <duration>0:21</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1350-session_film_one_million_steps</slug>
+        <title>Film -- One Million Steps</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>A tap dancer performs, while elsewhere people run from the tear gas of the police</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_One_Million_Steps</link>
+        </links>
+      </event>
+      <event id="1351" guid="cdf34f34-3118-4515-8ba0-189423744ab1">
+        <logo/>
+        <date>2018-12-28T23:20:00+01:00</date>
+        <start>23:20</start>
+        <duration>1:01</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1351-session_film_sollbruchstelle_devil_hides_in_doubt</slug>
+        <title>Film -- Sollbruchstelle / Devil hides in Doubt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>A film about the emotional push and pull of work, its demands and absurdities, and the struggle for fulfilment.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Sollbruchstelle_/_Devil_hides_in_Doubt</link>
+        </links>
+      </event>
+      <event id="1352" guid="efb72ebf-d180-47f6-bc49-ffa546c6c910">
+        <logo/>
+        <date>2018-12-29T02:32:00+01:00</date>
+        <start>02:32</start>
+        <duration>2:10</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1352-session_film_stare_into_the_lights_my_pretties</slug>
+        <title>Film -- Stare into the lights my pretties</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Stare_into_the_lights_my_pretties</link>
         </links>
       </event>
       <event id="1322" guid="5664514a-e1e8-461f-8187-422a73a875e8">

@@ -6881,6 +6881,51 @@
             }
         ]
     }, 
+    "Session:Film -- C2X: The television will not be revolutionized.# b17d94b03811245e08e5d12cdb102b44": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546042860", 
+                "raw": "1/2018/12/29/0/21/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- C2X: The television will not be revolutionized."
+        ], 
+        "Has duration": [
+            110
+        ], 
+        "GUID": [
+            "2bac00b7-3d88-424e-b382-452286cce9ec"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_C2X:_The_television_will_not_be_revolutionized.", 
+        "Has end time": [
+            {
+                "timestamp": "1546049460", 
+                "raw": "1/2018/12/29/2/11/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- E97# 7d1cfc8d3b985421e07dfbf7f0a3f560": {
         "Held in language": [], 
         "Has start time": [
@@ -7250,6 +7295,145 @@
             {
                 "timestamp": "1545943740", 
                 "raw": "1/2018/12/27/20/49/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- One Million Steps# df19a990efd5f5b29df351c2cee5968a": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546049460", 
+                "raw": "1/2018/12/29/2/11/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A tap dancer performs, while elsewhere people run from the tear gas of the police"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- One Million Steps"
+        ], 
+        "Has duration": [
+            21
+        ], 
+        "GUID": [
+            "f4745f8e-bc7f-4fdc-b570-20f294edef58"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_One_Million_Steps", 
+        "Has end time": [
+            {
+                "timestamp": "1546050720", 
+                "raw": "1/2018/12/29/2/32/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Sollbruchstelle / Devil hides in Doubt# c15ddf08761ae79378d638728f8f30fb": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546039200", 
+                "raw": "1/2018/12/28/23/20/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A film about the emotional push and pull of work, its demands and absurdities, and the struggle for fulfilment."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Sollbruchstelle / Devil hides in Doubt"
+        ], 
+        "Has duration": [
+            61
+        ], 
+        "GUID": [
+            "cdf34f34-3118-4515-8ba0-189423744ab1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Sollbruchstelle_/_Devil_hides_in_Doubt", 
+        "Has end time": [
+            {
+                "timestamp": "1546042860", 
+                "raw": "1/2018/12/29/0/21/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Stare into the lights my pretties# 013c05a1568c6df1863cb1fc44fe1ee2": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546050720", 
+                "raw": "1/2018/12/29/2/32/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Stare into the lights my pretties"
+        ], 
+        "Has duration": [
+            130
+        ], 
+        "GUID": [
+            "efb72ebf-d180-47f6-bc49-ffa546c6c910"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Stare_into_the_lights_my_pretties", 
+        "Has end time": [
+            {
+                "timestamp": "1546058520", 
+                "raw": "1/2018/12/29/4/42/0/0"
             }
         ]
     }, 
