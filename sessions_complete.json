@@ -2517,6 +2517,53 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy", 
         "Has end time": []
     }, 
+    "Session:Bare-Metal-Camp# 83348e2eb7cf598eae50630e645d121d": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://bare-metal-camp.at"
+        ], 
+        "Has description": [
+            "Metaldays Group Camping meetup"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rabenkind", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rabenkind", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Bare-Metal-Camp"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "47b1ac9f-10a0-464a-818d-734e7b916c6f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bare-Metal-Camp", 
+        "Has end time": []
+    }, 
     "Session:BeerTasting# f9f297e42ec7d1d1bff0096d81156ef3": {
         "Held in language": [
             "de - German", 
@@ -15385,6 +15432,62 @@
             }
         ]
     }, 
+    "Session:Shadowrun# 2e583abb159779b72911ff596873730a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://rpgzweinull.de/profile/tomorrowland"
+        ], 
+        "Has description": [
+            "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Social Fiction Society", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day2 Session in German - No more player slots available!"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Shadowrun"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "e6461856-89d1-43bd-96b6-c1cb8be450b7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun", 
+        "Has end time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Shadowrun# 441f037151312a272a65164c91740b19": {
         "Held in language": [
             "de - German", 
@@ -15441,63 +15544,7 @@
             }
         ]
     }, 
-    "Session:Shadowrun# 87e6549d91279a4cf99a0fa97eeb3f8a": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://rpgzweinull.de/profile/tomorrowland"
-        ], 
-        "Has description": [
-            "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun"
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Social Fiction Society", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Day2 Session in German"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Shadowrun"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "e6461856-89d1-43bd-96b6-c1cb8be450b7"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun", 
-        "Has end time": [
-            {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Shadowrun# a1a3a07dbff248e54c7c18d44b1794ea": {
+    "Session:Shadowrun# 9dbd5c6c8bf1c1c21eaa5cf38e9664c2": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -15530,7 +15577,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day1 Session - No more player slots available!"
+            "Day1 Session in English - No more player slots available!"
         ], 
         "Is organized by": [], 
         "Has title": [

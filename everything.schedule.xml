@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 v2.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:10</version>
+  <version>Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7045,7 +7045,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <room>Assembly:Social Fiction Society</room>
         <slug>35c3-1248-session_shadowrun</slug>
         <title>Shadowrun</title>
-        <subtitle>Day1 Session - No more player slots available!</subtitle>
+        <subtitle>Day1 Session in English - No more player slots available!</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
@@ -11627,7 +11627,7 @@ There might be free tacos.</description>
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
         <start>17:00</start>
-        <duration>01:15</duration>
+        <duration>00:45</duration>
         <room>Sendetisch</room>
         <slug>UE8LHX</slug>
         <url>https://35c3.studio-link.de/35c3/talk/UE8LHX</url>
@@ -11638,7 +11638,9 @@ There might be free tacos.</description>
         <language>de</language>
         <abstract>Kleiner Jahresrückblick mit verschiedenen Gästen</abstract>
         <description>Der Congress ist doch die beste Zeit um auf das vergangene Jahr zurück zu blicken.&#13;
-Mit verschiedenen Gästen werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zurückblicken.</description>
+Mit verschiedenen Gästen*innen werde ich auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zurückblicken.&#13;
+&#13;
+Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -14978,15 +14980,15 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
       </event>
     </room>
     <room name="Assembly:Social Fiction Society">
-      <event id="1247" guid="76ac3888-8f15-5918-81bd-75a347813992">
+      <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>2:00</duration>
         <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1247-session_shadowrun</slug>
+        <slug>35c3-1246-session_shadowrun</slug>
         <title>Shadowrun</title>
-        <subtitle>Day2 Session in German</subtitle>
+        <subtitle>Day2 Session in German - No more player slots available!</subtitle>
         <track>self organized sessions</track>
         <type>game</type>
         <language>de</language>
@@ -25205,13 +25207,13 @@ Wir freuen uns auf Dich und Dein Input!</description>
       </event>
     </room>
     <room name="Assembly:Social Fiction Society">
-      <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
+      <event id="1376" guid="6dcf9220-7b50-5675-a3b8-b8071ac6aea2">
         <logo/>
         <date>2018-12-30T12:00:00+01:00</date>
         <start>12:00</start>
         <duration>2:00</duration>
         <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1246-session_shadowrun</slug>
+        <slug>35c3-1376-session_shadowrun</slug>
         <title>Shadowrun</title>
         <subtitle>Day4 Session in English</subtitle>
         <track>self organized sessions</track>

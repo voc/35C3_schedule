@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v2.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8039,7 +8039,7 @@
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
                                 "start": "17:00", 
-                                "duration": "01:15", 
+                                "duration": "00:45", 
                                 "room": "Sendetisch", 
                                 "slug": "UE8LHX", 
                                 "url": "https://35c3.studio-link.de/35c3/talk/UE8LHX", 
@@ -8049,7 +8049,7 @@
                                 "type": "Sendetisch", 
                                 "language": "de", 
                                 "abstract": "Kleiner Jahresr\u00fcckblick mit verschiedenen G\u00e4sten", 
-                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.", 
+                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten*innen werde ich auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.\r\n\r\nAls G\u00e4stinnen dabei habe ich @_noujoum und @bkastl.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [

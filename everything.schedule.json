@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 v2.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:10", 
+        "version": "Golden Girls 3 1.7 v.2.1.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7405,7 +7405,7 @@
                                 "room": "Assembly:Social Fiction Society", 
                                 "slug": "35c3-1248-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day1 Session - No more player slots available!", 
+                                "subtitle": "Day1 Session in English - No more player slots available!", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 
@@ -12071,7 +12071,7 @@
                                 "logo": null, 
                                 "date": "2018-12-28T17:00:00+01:00", 
                                 "start": "17:00", 
-                                "duration": "01:15", 
+                                "duration": "00:45", 
                                 "room": "Sendetisch", 
                                 "slug": "UE8LHX", 
                                 "url": "https://35c3.studio-link.de/35c3/talk/UE8LHX", 
@@ -12081,7 +12081,7 @@
                                 "type": "Sendetisch", 
                                 "language": "de", 
                                 "abstract": "Kleiner Jahresr\u00fcckblick mit verschiedenen G\u00e4sten", 
-                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten werden wir auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.", 
+                                "description": "Der Congress ist doch die beste Zeit um auf das vergangene Jahr zur\u00fcck zu blicken.\r\nMit verschiedenen G\u00e4sten*innen werde ich auf unsere Podcasts, Serien und Film-Entdeckungen und -Neuerscheinungen des Jahres zur\u00fcckblicken.\r\n\r\nAls G\u00e4stinnen dabei habe ich @_noujoum und @bkastl.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -15713,16 +15713,16 @@
                         ], 
                         "Assembly:Social Fiction Society": [
                             {
-                                "id": 1247, 
-                                "guid": "76ac3888-8f15-5918-81bd-75a347813992", 
+                                "id": 1246, 
+                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
                                 "logo": null, 
                                 "date": "2018-12-28T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1247-session_shadowrun", 
+                                "slug": "35c3-1246-session_shadowrun", 
                                 "title": "Shadowrun", 
-                                "subtitle": "Day2 Session in German", 
+                                "subtitle": "Day2 Session in German - No more player slots available!", 
                                 "track": "self organized sessions", 
                                 "type": "game", 
                                 "language": "de", 
@@ -26555,14 +26555,14 @@
                         ], 
                         "Assembly:Social Fiction Society": [
                             {
-                                "id": 1246, 
-                                "guid": "e6461856-89d1-43bd-96b6-c1cb8be450b7", 
+                                "id": 1376, 
+                                "guid": "6dcf9220-7b50-5675-a3b8-b8071ac6aea2", 
                                 "logo": null, 
                                 "date": "2018-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1246-session_shadowrun", 
+                                "slug": "35c3-1376-session_shadowrun", 
                                 "title": "Shadowrun", 
                                 "subtitle": "Day4 Session in English", 
                                 "track": "self organized sessions", 
