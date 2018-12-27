@@ -1,5 +1,5 @@
 <schedule>
-  <version>Inspector Gadget 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
+  <version>Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -647,7 +647,7 @@ Unser Vortrag gibt einen Überblick darüber, was mit dem CRISPR/Cas-System mög
 Katrin studierte Biochemie, verpodcastete Wissenschaftsnachrichten und berät wissenschaftliche Softwareprojekte.&#13;
 Anna ist Biologin und hat während ihrer Doktorarbeit teilweise mit CRISPR gearbeitet.&#13;
 Obwohl wir aus verschiedenen Bereichen der Wissenschaft kommen, haben wir eine gemeinsame Leidenschaft: Themen aus der Wissenschaft verständlich darzustellen. Eine der vielversprechendsten neuen Technologien ist CRISPR/Cas. Dabei handelt es sich um eine Gentechnikmethode, die ein großes Potenzial für Mensch und Umwelt hat. Aber wie jedes Werkzeug kann CRISPR sowohl für Gutes als auch für Böses eingesetzt werden - und es ist nicht immer einfach zu sagen, was was ist, besonders in biologischen und ökologischen Systemen. CRISPR hilft uns, Genfunktionen und Krankheiten besser erforschen zu können. Es könnte uns auch helfen, die Folgen des Klimawandels in vielerlei Hinsicht zu bekämpfen - doch haben wir uns nicht genug in die Umwelt eingemischt? CRISPR könnte uns helfen, Krankheiten zu behandeln, vielleicht sogar bei Embryonen mit genetischen Krankheiten. Aber ist es ethisch vertretbar, die menschliche Keimbahn zu verändern? Oder sollten wir sie bei Tieren verändern, um höhere  Fleisch-, Milch- oder Eiererträge zu erzielen? Was könnten wir ändern und was sollten wir besser in Ruhe lassen?&#13;
-Was mit CRISPR getan wird - darüber sollte es einen breiten Dialog in der Gesellschaft geben. Wir wollen versuchen die wissenschaftliche Faktenlage darzustellen, und die Möglichkeiten und Grenzen von CRISPR zu beleuchten. Am Schluss schauen wir uns an, was bereits über CRISPR berichtet wurde und versuchen einzuordnen was davon auf wissenschaftlich belegbaren Füßen steht oder ob es sich um Bullshit handelt.&#13;
+Was mit CRISPR getan wird - darüber sollte es einen breiten Dialog in der Gesellschaft geben. Wir wollen versuchen die wissenschaftliche Faktenlage darzustellen, und die Möglichkeiten und Grenzen von CRISPR zu beleuchten. &#13;
 </description>
         <recording>
           <license/>
@@ -1000,7 +1000,6 @@ Nach etwas mehr als der Hälfte meiner vierjährigen Periode möchte ich im Rahm
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/651/original/Dobusch-35C3-Chaos_im_Fernsehrat_FINAL.pdf?1545924504">Slides "Chaos im Fernsehrat"</attachment>
-          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9792" guid="bf5019dc-499d-4c06-9ad0-35adbe01e7f3">
@@ -5031,7 +5030,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <subtitle/>
         <track>Science</track>
         <type>lecture</type>
-        <language>en</language>
+        <language>de</language>
         <abstract>This talk investigates fake science factories; international twilight companies whose sole purpose is to give studies an air of scientific credibility while cashing in on millions of dollars in the process. We present the findings, outcomes and methodology from a team of investigative journalists, hackers and data scientists who delved into the parallel universe of fraudulent pseudo-academic conferences and journals. The story was published in Germany (ARD and Süddeutsche Zeitung Magazin) in mid of July and then went around the world. How did it begin? What did we learn in the process? And: What happened since the story got published?</abstract>
         <description>Until recently, fake science factories have remained relatively under the radar, with few outside of academia aware of their presence; but the highly profitable industry has been growing significantly in the last five years and with it, so are the implications. To the public, fake science is often indistinguishable from legitimate science, which is facing similar accusations itself.&#13;
 We expose the scale and value of two fake science operations: Well-known institutions and professors who abuse this route of publication for personal gain and the deadly consequences when the public believe in fake cures or weird discoveries that seem scientific at a very first glance. Beyond the pressure to publish, we find varying motivations from paid vacations and promotions to obtaining stipends and research grants.&#13;
@@ -5045,7 +5044,6 @@ For 35C3 we did some extra analytics and will publish new numbers, how pseudo-ac
           <person id="7209">@sveckert</person>
           <person id="8756">@tillkrause</person>
           <person id="8760">Peter Hornung</person>
-          <person id="8776">Dr Dade Murphy</person>
         </persons>
         <links/>
         <attachments/>
@@ -6649,7 +6647,7 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
       </event>
       <event id="9939" guid="2536bba3-b95f-4cec-9a95-7aa756db7edb">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9939.html</url>
-        <logo>/system/events/logos/000/009/939/large/disnovation_profile2.jpg?1539688041</logo>
+        <logo>/system/events/logos/000/009/939/large/ccc_talk4.jpg?1545941976</logo>
         <date>2018-12-28T22:50:00+01:00</date>
         <start>22:50</start>
         <duration>00:40</duration>
@@ -11066,6 +11064,8 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
           <attachment href="/system/event_attachments/attachments/000/003/644/original/drop-with-drag.gnumeric?1545914880">Drop with drag example</attachment>
           <attachment href="/system/event_attachments/attachments/000/003/645/original/mass-spring-damper.gnumeric?1545914880">Mass spring damper example</attachment>
           <attachment href="/system/event_attachments/attachments/000/003/646/original/electric-motor.gnumeric?1545914880">Electric motor example</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/659/original/script.pdf?1545942710">Script to the talk</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/660/original/slides.pdf?1545942957">Slides to the talk</attachment>
         </attachments>
       </event>
       <event id="9765" guid="35e80689-6330-49fe-b5c5-46972418f5b6">
