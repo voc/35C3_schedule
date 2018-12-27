@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-27 15:50</version>
+  <version>2018-12-27 16:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -532,6 +532,7 @@
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Wieueberall">Wieueberall</person>
         </persons>
         <links>
+          <link>https://t.me/ra35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Relationship_Anarchy</link>
         </links>
       </event>
@@ -4335,7 +4336,9 @@
         <language>de</language>
         <abstract/>
         <description>Vernetzung zur dezentralen Öffentlichkeitsarbeit</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Atdotde">Atdotde</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Locale_Presse-/%C3%96ffentlichkeitsarbeit</link>
         </links>
@@ -4504,6 +4507,25 @@
         <links>
           <link>http://haecksen.org</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introtoprogramminglanguagesforbeginners</link>
+        </links>
+      </event>
+      <event id="1383" guid="14f99a12-e996-4416-bd9e-b2be81f19d43">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1383-session_quit_google_avoid_using_google_services</slug>
+        <title>Quit Google - avoid using google services</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Alternative for Google Services, Android Phone without GApps</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Quit_Google_-_avoid_using_google_services</link>
         </links>
       </event>
       <event id="1198" guid="e21c281d-cc1d-4bf9-97b9-9388dae8c877">

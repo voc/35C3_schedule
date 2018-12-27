@@ -10700,6 +10700,55 @@
             }
         ]
     }, 
+    "Session:Jam Session# 15862940306e487bdd5b30facc64e78c": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1545940800", 
+                "raw": "1/2018/12/27/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Jam session with the weird self-built instruments at the T.R.A.S.H. space"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:T.R.A.S.H.: The Real Anarchic Sound Hub", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:T.R.A.S.H.:_The_Real_Anarchic_Sound_Hub", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Jam Session"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "717f3d30-57e2-4c9a-a6db-01cfdb0677c7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Jam_Session", 
+        "Has end time": [
+            {
+                "timestamp": "1545944400", 
+                "raw": "1/2018/12/27/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Junghackertag Er\u00f6ffnung# 40ba389a10149178cb107142b1e60e5b": {
         "Held in language": [
             "de - German"
@@ -11675,7 +11724,15 @@
         "Has subtitle": [
             "Vernetzungstreffen und Erfahrungsaustausch"
         ], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Atdotde", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Atdotde", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Locale Presse-/\u00d6ffentlichkeitsarbeit"
         ], 
@@ -14402,6 +14459,58 @@
             }
         ]
     }, 
+    "Session:Quit Google - avoid using google services# 34bdd16e316a4cba3a80ec49e1d5a8c5": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Alternative for Google Services, Android Phone without GApps"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Quit Google - avoid using google services"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "14f99a12-e996-4416-bd9e-b2be81f19d43"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Quit_Google_-_avoid_using_google_services", 
+        "Has end time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ]
+    }, 
     "Session:R5# 343d6345c102aa1a5a4bff39e868c1b9": {
         "Held in language": [
             "de - German", 
@@ -14585,7 +14694,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://t.me/ra35c3"
+        ], 
         "Has description": [
             "A nice & cozy relationship anarchy (https://en.wikipedia.org/wiki/Relationship_anarchy) gathering."
         ], 
@@ -15432,6 +15543,62 @@
             }
         ]
     }, 
+    "Session:Shadowrun# 2b04d1a605d1260b4903d18c8c68c165": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://rpgzweinull.de/profile/tomorrowland"
+        ], 
+        "Has description": [
+            "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Social Fiction Society", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day3 Session in German - No more player slots available!"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Shadowrun"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "e6461856-89d1-43bd-96b6-c1cb8be450b7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Shadowrun# 2e583abb159779b72911ff596873730a": {
         "Held in language": [
             "de - German", 
@@ -15597,62 +15764,6 @@
             {
                 "timestamp": "1545944400", 
                 "raw": "1/2018/12/27/21/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Shadowrun# c68f051d2c486a5f636fa372c4c7dfbf": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://rpgzweinull.de/profile/tomorrowland"
-        ], 
-        "Has description": [
-            "An introductory session to the cyberpunk pen&paper role-playing game Shadowrun"
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Social Fiction Society", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Social_Fiction_Society", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Day3 Session in German"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Shadowrun"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "e6461856-89d1-43bd-96b6-c1cb8be450b7"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun", 
-        "Has end time": [
-            {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
             }
         ]
     }, 
@@ -16307,15 +16418,15 @@
             }
         ]
     }, 
-    "Session:SpaceAPI - Status Update# 38f675c6e26b642e226e9c1aa1b5efa5": {
+    "Session:SpaceAPI - Status Update# b15455f0ceb935c5891dc2cb9e706609": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
             }
         ], 
         "Has event track": [
@@ -16338,7 +16449,9 @@
         "Has title": [
             "SpaceAPI - Status Update"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            60
+        ], 
         "GUID": [
             "1d06fa37-f896-4aa0-b838-d17324751bd0"
         ], 
@@ -16346,7 +16459,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SpaceAPI_-_Status_Update", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
     }, 
     "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# 2b205e6e11659c3cc18cf3577fc75506": {
         "Held in language": [
