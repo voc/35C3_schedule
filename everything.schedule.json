@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Firefly 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 271218-1253-Komona 1.0.6 2018-12-27 13:00", 
+        "version": "Golden Girls 3 1.7 2.0.2 0.9 MemoryRefreshV1.0 271218-1253-Komona 1.0.6 2018-12-27 13:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -279,8 +279,8 @@
                                 "start": "20:50", 
                                 "duration": "01:00", 
                                 "room": "Adams", 
-                                "slug": "35c3-10016-g10_bnd-gesetz_und_der_effektive_schutz_von_grundrechten", 
-                                "title": "G10, BND-Gesetz und der effektive Schutz von Grundrechten", 
+                                "slug": "35c3-10016-g10_bnd-gesetz_und_der_effektive_schutz_vor_grundrechten", 
+                                "title": "G10, BND-Gesetz und der effektive Schutz vor Grundrechten", 
                                 "subtitle": "Die strategische Fernmelde\u00fcberwachung des BND vor dem Bundesverfassungsgericht", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
@@ -432,7 +432,12 @@
                                         "title": "TLS 1.3: Die Zukunft der Netzverschl\u00fcsselung"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/637/original/tls13.pdf?1545904122", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9904.html", 
@@ -853,7 +858,12 @@
                                         "title": "LOJAX: First UEFI rootkit found in the wild, courtesy of the Sednit group (white paper)"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/638/original/35C3-First-Sednit-UEFI-Rootkit-Unveiled.pdf?1545904527", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9809.html", 
@@ -1481,7 +1491,12 @@
                                         "title": "Hyper-Kamiokande website"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/630/original/35C3_JostMigenda.pdf?1545850403", 
+                                        "title": "Slides (pdf, 30MB)"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9410.html", 
@@ -1534,7 +1549,12 @@
                                         "title": "PearlRiver test wafer"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/636/original/talk-20181227-35c3.pdf?1545900171", 
+                                        "title": "talk-20181227-35c3.pdf"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9375.html", 
@@ -5773,7 +5793,7 @@
                                 "track": null, 
                                 "type": "Slot", 
                                 "language": "en", 
-                                "abstract": "This workshop aims to give an introduction to cultural protocols: underlying rules that govern our everyday life. After a brief introduction to the concept we try to collectively alter those rules and dig into the possibilities of social interactions.", 
+                                "abstract": "This workshop aims to give an introduction to cultural protocols: underlying rules that govern our everyday life. After a brief introduction to the concept we try to collectively alter those rules and dig into the possibilities of social interactions.\r\n\r\nculturalprotocols.cc", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -7441,10 +7461,6 @@
                                     {
                                         "id": 8588, 
                                         "public_name": "Robert Tibbo"
-                                    }, 
-                                    {
-                                        "id": 8801, 
-                                        "public_name": "Steffen Arora"
                                     }
                                 ], 
                                 "links": [], 
@@ -7673,6 +7689,10 @@
                                     {
                                         "url": "https://c3lt.de/35c3", 
                                         "title": "Registration and schedule"
+                                    }, 
+                                    {
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/Static:Lightning_Talks", 
+                                        "title": "Congress Wiki Page"
                                     }
                                 ], 
                                 "attachments": []
@@ -8127,12 +8147,12 @@
                                 "room": "Clarke", 
                                 "slug": "35c3-9998-the_good_the_strange_and_the_ugly_in_2018_art_tech", 
                                 "title": "The good, the strange and the ugly in 2018 art &tech ", 
-                                "subtitle": "", 
+                                "subtitle": "On art, AI, hormones hacking and other prospects of a post-human world", 
                                 "track": "Art & Culture", 
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "What's been good, exciting, spooky and challenging in art and science/technology over this past year. With a short incursion into the ugly because even artists have the right to be awful.\r\n", 
-                                "description": "Global warming, the threat of another economic crisis, the rise of far right discourses across Europe or the mass extinction of natural species, it might seem futile to invest time and attention to contemporary art. And yet, with their inquisitive mind, their skills in (ab)using new media and their provocative attitude, artists and critical designers can play a valuable role in creating richer narratives around issues that tend to polarize and/or dismay.  \r\n\r\nThe talk will look at the good, the strange and the exciting in art and science/technology over this past year. With a short incursion into the ugly because even artists have the right to be awful.\r\n\r\nSome of the topics explored might include the environmental and human cost of AI; hormones hacking, 'racism' behind innocent looking devices and other prospects of a post-human world.", 
+                                "description": "Global warming, the threat of another economic crisis, the rise of far right discourses across Europe or the mass extinction of natural species, it might seem futile to invest time and attention to contemporary art. And yet, with their inquisitive mind, their skills in (ab)using new media and their provocative attitude, artists and critical designers can play a valuable role in creating richer narratives around issues that tend to polarize and/or dismay.  \r\n\r\nThe talk will look at the good, the strange and the exciting in art and science/technology over this past year. With a short incursion into the ugly because even artists have the right to be awful.\r\n\r\nSome of the topics explored might include the environmental and human cost of AI, hormones hacking, 'racism' behind innocent looking devices and other prospects of a post-human world.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -8766,7 +8786,7 @@
                                 ], 
                                 "links": [
                                     {
-                                        "url": "www.suprememachines.de", 
+                                        "url": "https://suprememachines.de/", 
                                         "title": "Supreme Machines Website"
                                     }
                                 ], 
@@ -15828,6 +15848,10 @@
                                     {
                                         "url": "https://c3lt.de/35c3", 
                                         "title": "Registration and schedule"
+                                    }, 
+                                    {
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/Static:Lightning_Talks", 
+                                        "title": "Congress Wiki Page"
                                     }
                                 ], 
                                 "attachments": []
@@ -16676,7 +16700,7 @@
                                     }, 
                                     {
                                         "id": 8750, 
-                                        "public_name": "Lina"
+                                        "public_name": "Lina Hurlin"
                                     }
                                 ], 
                                 "links": [
@@ -23305,7 +23329,7 @@
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
                                 "language": "de", 
-                                "abstract": "Das Jahr 2018 bietete weider zahlreiche Beispiele f\u00fcr einen netzpolitischen Wetterbericht. Die Gro\u00dfe Koalition lief sich mit der Bundesregierung warm und am Ende des Jahres droht man den \u00dcberblick \u00fcber zahlreiche Kommissionen und Arbeitsgruppen zur Digitalisierung zu verlieren.\r\n\r\nDie gute Nachricht ist: Netzpolitik ist angekommen und geht nicht mehr so schnell weg. Die schlechte Nachricht ist: Beispiele f\u00fcr eine bessere Netzpolitik, Wert auf den Schutz und Ausbau von Grund- und Verbraucherrechte legt, gibt es leider eher weniger.\r\n\r\n", 
+                                "abstract": "Das Jahr 2018 bietete wieder zahlreiche Beispiele f\u00fcr einen netzpolitischen Wetterbericht. Die Gro\u00dfe Koalition lief sich mit der Bundesregierung warm und am Ende des Jahres droht man den \u00dcberblick \u00fcber zahlreiche Kommissionen und Arbeitsgruppen zur Digitalisierung zu verlieren.\r\n\r\nDie gute Nachricht ist: Netzpolitik ist angekommen und geht nicht mehr so schnell weg. Die schlechte Nachricht ist: Beispiele f\u00fcr eine bessere Netzpolitik, Wert auf den Schutz und Ausbau von Grund- und Verbraucherrechte legt, gibt es leider eher weniger.\r\n\r\n", 
                                 "description": "W\u00e4hrend die Urheberrechtsrichtlinie wahrscheinlich Uploadfilter und Leistungsschutzrecht auf EU-Ebene verankert, bringen die Innenminister Uploadfilter gegen Terrorpropaganda voran.\r\n\r\nDie ePrivacy-Verordnung hatte im Parlament zuviele Fans von Verbraucherrechten, deshalb wird sich jetzt im EU-Rat gestoppt. Der Skandal um Cambridge Analytica f\u00fchrte dazu, dass Gesch\u00e4ftsmodelle und Datenschutz bei Facebook und Co in der \u00d6ffentlichkeit st\u00e4rker diskutiert wurden und nebenbei erblickte die Datenschutzgrundverordnung das Licht der \u00d6ffentlichkeit. Fast alles in der Netzpolitik dreht sich derzeit um K\u00fcnstliche Intelligenz, wobei immer noch unklar ist, was sich Politikerinnen und Politiker darunter vorstellen, wenn sie davon sprechen. Irgendwas mit Arbeitspl\u00e4tzen auf jeden Fall, vielleicht auch noch was mit Ethik und Regulierung. Je nach Perspektive.\r\n\r\nDaf\u00fcr gibt es nat\u00fcrlich mehr \u00dcberwachung. Es gibt neue Beh\u00f6rden und Agenturen f\u00fcr den Bau von Staatstrojanern und am Bahnhof S\u00fcdkreuz wurden erfolgreich/erfolgslos biometrische Video\u00fcberwachungssysteme getestet, die demn\u00e4chst \u00fcberall ausgerollt werden k\u00f6nnten. Neue Polizeigesetze bringen mehr \u00dcberwachungsbefugnisse auf L\u00e4nderebene.\r\n\r\nEs gibt aber auch gute Nachrichten aus diesem Jahr. Mehr dazu dann gerne live vor Ort.\r\n\r\nEs ist viel passiert in 2018 und die l\u00e4ngeren Linien helfen dabei, einen Blick in die Debatten des kommenden Jahres zu werfen.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -23458,6 +23482,10 @@
                                     {
                                         "url": "https://c3lt.de/35c3", 
                                         "title": "Registration and schedule"
+                                    }, 
+                                    {
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/Static:Lightning_Talks", 
+                                        "title": "Congress Wiki Page"
                                     }
                                 ], 
                                 "attachments": []
@@ -23596,7 +23624,7 @@
                                 "logo": "/system/events/logos/000/009/964/large/Untitled-11.png?1539703024", 
                                 "date": "2018-12-30T14:10:00+01:00", 
                                 "start": "14:10", 
-                                "duration": "01:00", 
+                                "duration": "00:50", 
                                 "room": "Clarke", 
                                 "slug": "35c3-9964-cat_mouse_evading_the_censors_in_2018", 
                                 "title": "Cat & Mouse: Evading the Censors in 2018", 
@@ -23605,7 +23633,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "The deepening of global Internet infrastructure comes accompanied with an invigorated capacity and intent by adversaries to control the information that flows across it. Inextricably, political motivations and embedded power structures underlie the networks through which we interpret and understand our societies and our world - censorship threatens the integrity of the public sphere itself. The increasing technical sophistication of information controls deployed by censors in adversarial network environments around the world can be uniquely viewed and researched by circumvention tool providers, whose work continues to preserve access to the open Internet for all communities. Through this presentation, we endeavour to share insights gained from the front lines of this technical contest.", 
-                                "description": "The deepening of global Internet infrastructure comes accompanied with an invigorated capacity and intent by adversaries to control the information that flows across it. Inextricably, political motivations and embedded power structures underlie the networks through which we interpret and understand our societies and our world - censorship threatens the integrity of the public sphere itself. The increasing technical sophistication of information controls deployed by censors in adversarial network environments around the world can be uniquely viewed and researched by circumvention tool providers, whose work continues to preserve access to the open Internet for all communities. Through this presentation, we endeavour to share insights gained from the front lines of this technical contest.\r\n\r\nThe following key questions will be answered in this session:\r\n- What are circumvention tools conceptually and how do they work?\r\n- How have the techniques of adversaries evolved?\r\n- What are the latest innovations in circumvention technology?\r\n- How have emerging economies been affected, where censorship and and surveillance hardware and software are built-in to newly established ICT infrastructure?\r\n- How do circumvention trends follow censorship events and social/political movements?\r\n- Where do we see these technical advances leading the next generation of censorship and circumvention technology?\r\n\r\nThis is a Foundations talk. Though no prior understanding of circumvention technology is required to enjoy this, the presentation will delve into technical details that will prove fruitful for the expert audience as well.", 
+                                "description": "The deepening of global Internet infrastructure comes accompanied with an invigorated capacity and intent by adversaries to control the information that flows across it. Inextricably, political motivations and embedded power structures underlie the networks through which we interpret and understand our societies and our world - censorship threatens the integrity of the public sphere itself. The increasing technical sophistication of information controls deployed by censors in adversarial network environments around the world can be uniquely viewed and researched by circumvention tool providers, whose work continues to preserve access to the open Internet for all communities. Through this presentation, we endeavour to share insights gained from the front lines of this technical contest.\r\n\r\nThe following key questions will be answered in this session:\r\n- What are circumvention tools conceptually and how do they work?\r\n- How have the techniques of adversaries evolved?\r\n- What are the latest innovations in circumvention technology?\r\n- How have emerging economies been affected, where censorship and and surveillance hardware and software are built-in to newly established ICT infrastructure?\r\n- How do circumvention trends follow censorship events and social/political movements?\r\n- Where do we see these technical advances leading the next generation of censorship and circumvention technology?\r\n\r\nThis is a Foundations talk. No prior understanding of circumvention technology is required to enjoy this, but the presentation will hopefully be enjoyable to all experience levels.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -23628,7 +23656,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9905.html", 
                                 "id": 9905, 
                                 "guid": "093eca9c-c084-462a-8ed2-b95954782b06", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/905/large/talk_logo.png?1545853700", 
                                 "date": "2018-12-30T11:30:00+01:00", 
                                 "start": "11:30", 
                                 "duration": "01:00", 
@@ -23640,7 +23668,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Why do navigation systems have feminine voices? We know Tay, Eliza, Siri not only as female names, but also as chatbots and software, which directly interact with humans. Although computer programs are per se genderless, gender seems not to be cancelled out in human-machine interaction, but why? ", 
-                                "description": "This talk aims to examine how we map gender on computers and machines. This includes looking at software in machine-human interaction, as well as digging deeper into a cultural history of imagining and building human-like machines. \r\nTo look at this, two view points are taken; \r\nIn the examples of the virtual assistants; what are the technical requirements for speech synthesis and how do these shape which gender we associate with a human sounding voice? What are the expectations and projections users map onto a machine when they interact with it? \r\nThis connects to the cultural imagining of machines as subjects, which has been pondered in literature and film before and parallel to technical research. From 18th century clockwork powered figures, that wrote and played music, to 19th century literature, in which young men fall in love with piano playing automata to A.I. characters in movie series and cinema.\r\nThis talk tries to explore the relations between design and perception of machines and the dynamics in between.", 
+                                "description": "This talk aims to examine how we map gender on computers and machines. This includes looking at software in machine-human interaction, as well as digging deeper into a cultural history of imagining and building human-like machines. \r\nTo look at this, two view points are taken; \r\nIn the examples of the virtual assistants; What do the responses these devices give in conversation reveal about their design? What are the expectations and projections users map onto a machine when they interact with it? \r\nThis connects to the cultural imagining of machines as subjects, which has been pondered in literature and film before and parallel to technical research. From 18th century clockwork powered figures, that wrote and played music, to 19th century literature, in which young men fall in love with piano playing automata to A.I. characters in movie series and cinema.\r\nThis talk tries to explore the relations between design and perception of machines and the dynamics in between.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
