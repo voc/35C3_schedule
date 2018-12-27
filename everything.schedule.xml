@@ -1,5 +1,5 @@
 <schedule>
-  <version>Golden Girls 3 1.7 2.0.2 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6 2018-12-27 15:00</version>
+  <version>Golden Girls 3 1.7 v2.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8 2018-12-27 15:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -19270,6 +19270,35 @@ Wir sehen deutlich mehr größere "Festivals", das WCW wird größer obwohl das 
         <attachments/>
         <answers/>
       </event>
+      <event id="311" guid="1e3b8de7-2051-546b-8a89-b5473ec6ac99">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>N7NADC</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/N7NADC</url>
+        <title>Next Generation FOSS Lightning Control - Brainstorming &amp; Kick-Off</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>en</language>
+        <abstract>Die bisherigen Lösungen für Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug für kreative wird.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>margau</name>
+            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="254" guid="be48f5dc-8df6-5917-ba56-3e2162202057">
         <logo/>
         <date>2018-12-29T21:00:00+01:00</date>
@@ -19398,8 +19427,8 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
       </event>
       <event id="406" guid="43322f21-4eab-5e14-bf47-794c0dcd8de4">
         <logo/>
-        <date>2018-12-29T14:50:00+01:00</date>
-        <start>14:50</start>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
         <duration>00:45</duration>
         <room>Sendetisch</room>
         <slug>ALRHDW</slug>
@@ -19421,6 +19450,35 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
             <biography>Irgendwo zwischen Nerd &amp; Geek™ | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-Jäger | Dosenöffner für Katzen | König vom Stimmenreich&#13;
 &#13;
 35c3 DECT: 7331 GSM: 7332</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="444" guid="bc268160-7190-503f-8c03-760a350339df">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>J8SPT8</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/J8SPT8</url>
+        <title>Request for Comments</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Thema: http</abstract>
+        <description>Im Podcast "Request for Comments" spricht Anna-Lena mit wechselnden Gästen über die Standardprotokolle die im Internet die Kommunikation zwischen Geräten sicherstellen. Diesmal wird @monkeydom zum zweiten mal zu Gast in der Sendung sein.  Nachdem er in Episode 2 UDP und NAT-PMP erklärt hat, werden wir uns diesmal der Herausforderung stellen und versuchen in einer Stunde 'http' zu erklären. Für einen Podcast, der sonst in der Regel eher 3-5 Stunden dauert, eine echte Herausforderung!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">
+            <name>Annle, Monkeydom</name>
+            <biography/>
           </person>
         </persons>
         <links/>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Golden Girls 3 1.7 2.0.2 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.6", 
+        "version": "Golden Girls 3 1.7 v2.1 1.1 MemoryRefreshV1.0 day1 morning fixing timezone issue 1.0.8", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -13132,6 +13132,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 311, 
+                                "guid": "1e3b8de7-2051-546b-8a89-b5473ec6ac99", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:20", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "N7NADC", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/N7NADC", 
+                                "title": "Next Generation FOSS Lightning Control - Brainstorming & Kick-Off", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 80min", 
+                                "language": "en", 
+                                "abstract": "Die bisherigen L\u00f6sungen f\u00fcr Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug f\u00fcr kreative wird.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 12, 
+                                        "name": "margau", 
+                                        "biography": "Student der Informationstechnik, Freifunk Stuttgart & begeisterter IoT-Bastler.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 254, 
                                 "guid": "be48f5dc-8df6-5917-ba56-3e2162202057", 
                                 "logo": null, 
@@ -13261,8 +13292,8 @@
                                 "id": 406, 
                                 "guid": "43322f21-4eab-5e14-bf47-794c0dcd8de4", 
                                 "logo": null, 
-                                "date": "2018-12-29T14:50:00+01:00", 
-                                "start": "14:50", 
+                                "date": "2018-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
                                 "duration": "00:45", 
                                 "room": "Sendetisch", 
                                 "slug": "ALRHDW", 
@@ -13281,6 +13312,37 @@
                                         "id": 7, 
                                         "name": "MacSnider", 
                                         "biography": "Irgendwo zwischen Nerd & Geek\u2122 | c-base Alien | Podcastpate | Ultraschall Ultra | Nora Maschinen-J\u00e4ger | Dosen\u00f6ffner f\u00fcr Katzen | K\u00f6nig vom Stimmenreich\r\n\r\n35c3 DECT: 7331 GSM: 7332", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 444, 
+                                "guid": "bc268160-7190-503f-8c03-760a350339df", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "J8SPT8", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/J8SPT8", 
+                                "title": "Request for Comments", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Thema: http", 
+                                "description": "Im Podcast \"Request for Comments\" spricht Anna-Lena mit wechselnden G\u00e4sten \u00fcber die Standardprotokolle die im Internet die Kommunikation zwischen Ger\u00e4ten sicherstellen. Diesmal wird @monkeydom zum zweiten mal zu Gast in der Sendung sein.  Nachdem er in Episode 2 UDP und NAT-PMP erkl\u00e4rt hat, werden wir uns diesmal der Herausforderung stellen und versuchen in einer Stunde 'http' zu erkl\u00e4ren. F\u00fcr einen Podcast, der sonst in der Regel eher 3-5 Stunden dauert, eine echte Herausforderung!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 42, 
+                                        "name": "Annle, Monkeydom", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
