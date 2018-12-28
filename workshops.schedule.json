@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 15:40", 
+        "version": "2018-12-28 16:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5977,6 +5977,27 @@
                                 "links": [
                                     "https://libtec.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:3D_Modeling_with_Blender_for_Beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1452, 
+                                "guid": "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1452-session_collective_dementia_on_the_web_distorted_facts_are_changing_our_perception_of_history_solutions_", 
+                                "title": "Collective Dementia on the Web: Distorted facts are changing our perception of History. Solutions?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "A meet-up session bringing together journalists, scientists & developers passionate about community-driven approaches to battle misinformation.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F"
                                 ]
                             }, 
                             {

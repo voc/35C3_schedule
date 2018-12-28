@@ -5249,6 +5249,55 @@
             }
         ]
     }, 
+    "Session:Collective Dementia on the Web: Distorted facts are changing our perception of History. Solutions?# 8ba50ba53b5062a2fff9d571296889b0": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A meet-up session bringing together journalists, scientists & developers passionate about community-driven approaches to battle misinformation."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Collective Dementia on the Web: Distorted facts are changing our perception of History. Solutions?"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F", 
+        "Has end time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Commie curious# 45261a269cfc6352d37ba821feef0c71": {
         "Held in language": [], 
         "Has start time": [
@@ -5841,6 +5890,59 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Crypto_Renaissance:_Back_to_the_cryptoanarchist_roots", 
         "Has end time": []
+    }, 
+    "Session:DAM: Debian Assembly Meet-up# a2243572f67ef6ba03336fe07c54bd45": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://wiki.debian.org/DebianEvents/de/2018/35C3"
+        ], 
+        "Has description": [
+            "A meet-up at assembly place."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:DFSG: Debian Friends Social Group", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:DFSG:_Debian_Friends_Social_Group", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "DAM: Debian Assembly Meet-up"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "cf087d3e-111c-4612-94ee-f4fae5508651"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DAM:_Debian_Assembly_Meet-up", 
+        "Has end time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
     }, 
     "Session:DAppNode# d24eac4f994606487efc00e9191e91c4": {
         "Held in language": [], 
@@ -8271,6 +8373,48 @@
                 "raw": "1/2018/12/27/16/0/0/0"
             }
         ]
+    }, 
+    "Session:Feminist Perspectives on Inclusive and Diverse Spaces and Communities# aad6044717784c246710c95b00563d3b": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546028100", 
+                "raw": "1/2018/12/28/20/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Workshop Area1: This is a follow-up of discussion of this talk https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10028.html"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Feminist Perspectives on Inclusive and Diverse Spaces and Communities"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "84f6c22d-17ac-40bb-b3b5-12f05643f995"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Feminist_Perspectives_on_Inclusive_and_Diverse_Spaces_and_Communities", 
+        "Has end time": []
     }, 
     "Session:Feminist hackers & makers meetup# 4a7f4a88e45d7c317d172a0a8a9db4ad": {
         "Held in language": [
@@ -11429,69 +11573,15 @@
             }
         ]
     }, 
-    "Session:Indoor Localization Game Controller# 2a3dfbc856bcc8f104018961ceb9043f": {
+    "Session:Indoor Localization Game Controller# 21fe59a7adea0e4bef4c6d5d59ad90a8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Play video games using an indoor localization as a controller, so that you (physically) are the player! The installation is quite retro-ish and the open source game engine Godot was used, among other things."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "UFO game"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Indoor Localization Game Controller"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "b5b9b5d8-7572-46e5-bf09-b34bc391540f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller", 
-        "Has end time": [
-            {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Indoor Localization Game Controller# 32652774bc49fb321fc86ca6ec2df255": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
             }
         ], 
         "Has event track": [
@@ -11532,8 +11622,62 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller", 
         "Has end time": [
             {
-                "timestamp": "1546030800", 
-                "raw": "1/2018/12/28/21/0/0/0"
+                "timestamp": "1546025400", 
+                "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Indoor Localization Game Controller# e8efebb072ae79a442dec4c2d9ba8a2e": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Play video games using an indoor localization as a controller, so that you (physically) are the player! The installation is quite retro-ish and the open source game engine Godot was used, among other things."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "UFO game"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Indoor Localization Game Controller"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "b5b9b5d8-7572-46e5-bf09-b34bc391540f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller", 
+        "Has end time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
             }
         ]
     }, 
@@ -12507,6 +12651,48 @@
                 "raw": "1/2018/12/28/10/30/0/0"
             }
         ]
+    }, 
+    "Session:KYC & Crypto AML tools# 5adb0f76e03feb5b7d6b418d80eedaca": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Workshop area 1: We will have on stage different people from the crypto-currency community to discuss the current state of KYC & AML obligation and tools.  We will discuss what does not satisfy us in the current state of such toolset and how would we like to see this space.  We will discuss how ZKP technology and other cryptographic protocols can provide a better toolset providing more economic freedom in a privacy preserving way."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "KYC & Crypto AML tools"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "fb3fda7c-aca9-412a-af30-6a0e9cfd8e91"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:KYC_%26_Crypto_AML_tools", 
+        "Has end time": []
     }, 
     "Session:Kefir Making# 9b58c9320f991ff63e3dd35a89ae3e65": {
         "Held in language": [

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 15:40</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 16:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15315,8 +15315,8 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
     <room name="Assembly:MOiN - Mehrere Orte im Norden">
       <event id="1443" guid="25ea8ac0-52aa-4659-9846-c37a0f1a726a">
         <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
+        <date>2018-12-28T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>2:00</duration>
         <room>Assembly:MOiN - Mehrere Orte im Norden</room>
         <slug>35c3-1443-session_indoor_localization_game_controller</slug>
@@ -23314,8 +23314,8 @@ Freifunk since 2003</biography>
       </event>
       <event id="1442" guid="b5b9b5d8-7572-46e5-bf09-b34bc391540f">
         <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
+        <date>2018-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
         <duration>2:00</duration>
         <room>Assembly:MOiN - Mehrere Orte im Norden</room>
         <slug>35c3-1442-session_indoor_localization_game_controller</slug>
@@ -23497,6 +23497,28 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_the_happiest_couple_on_earth_lonely</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:DFSG: Debian Friends Social Group">
+      <event id="1453" guid="cf087d3e-111c-4612-94ee-f4fae5508651">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:DFSG: Debian Friends Social Group</room>
+        <slug>35c3-1453-session_dam_debian_assembly_meet_up</slug>
+        <title>DAM: Debian Assembly Meet-up</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>A meet-up at assembly place.</description>
+        <persons/>
+        <links>
+          <link>https://wiki.debian.org/DebianEvents/de/2018/35C3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DAM:_Debian_Assembly_Meet-up</link>
         </links>
       </event>
     </room>
@@ -24720,6 +24742,25 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <links>
           <link>https://libtec.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:3D_Modeling_with_Blender_for_Beginners</link>
+        </links>
+      </event>
+      <event id="1452" guid="80cdb346-45e6-48ee-bd8b-2da0d9ee68b9">
+        <logo/>
+        <date>2018-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1452-session_collective_dementia_on_the_web_distorted_facts_are_changing_our_perception_of_history_solutions_</slug>
+        <title>Collective Dementia on the Web: Distorted facts are changing our perception of History. Solutions?</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>A meet-up session bringing together journalists, scientists &amp; developers passionate about community-driven approaches to battle misinformation.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F</link>
         </links>
       </event>
       <event id="1205" guid="ee94e378-5c00-4b31-98ca-f0324f665a86">

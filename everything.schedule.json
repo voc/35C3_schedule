@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 15:40", 
+        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 16:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -16121,8 +16121,8 @@
                                 "id": 1443, 
                                 "guid": "25ea8ac0-52aa-4659-9846-c37a0f1a726a", 
                                 "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
+                                "date": "2018-12-28T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "2:00", 
                                 "room": "Assembly:MOiN - Mehrere Orte im Norden", 
                                 "slug": "35c3-1443-session_indoor_localization_game_controller", 
@@ -24722,8 +24722,8 @@
                                 "id": 1442, 
                                 "guid": "b5b9b5d8-7572-46e5-bf09-b34bc391540f", 
                                 "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
+                                "date": "2018-12-29T16:30:00+01:00", 
+                                "start": "16:30", 
                                 "duration": "2:00", 
                                 "room": "Assembly:MOiN - Mehrere Orte im Norden", 
                                 "slug": "35c3-1442-session_indoor_localization_game_controller", 
@@ -24937,6 +24937,30 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:DJ_--_the_happiest_couple_on_earth_lonely"
+                                ]
+                            }
+                        ], 
+                        "Assembly:DFSG: Debian Friends Social Group": [
+                            {
+                                "id": 1453, 
+                                "guid": "cf087d3e-111c-4612-94ee-f4fae5508651", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:DFSG: Debian Friends Social Group", 
+                                "slug": "35c3-1453-session_dam_debian_assembly_meet_up", 
+                                "title": "DAM: Debian Assembly Meet-up", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A meet-up at assembly place.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://wiki.debian.org/DebianEvents/de/2018/35C3", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DAM:_Debian_Assembly_Meet-up"
                                 ]
                             }
                         ], 
@@ -26277,6 +26301,27 @@
                                 "links": [
                                     "https://libtec.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:3D_Modeling_with_Blender_for_Beginners"
+                                ]
+                            }, 
+                            {
+                                "id": 1452, 
+                                "guid": "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1452-session_collective_dementia_on_the_web_distorted_facts_are_changing_our_perception_of_history_solutions_", 
+                                "title": "Collective Dementia on the Web: Distorted facts are changing our perception of History. Solutions?", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "A meet-up session bringing together journalists, scientists & developers passionate about community-driven approaches to battle misinformation.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F"
                                 ]
                             }, 
                             {
