@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:00</version>
+  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -501,7 +501,9 @@ The goal is that you will gain an understanding of the structure of the Internet
           <person id="2142">Peter Stuge</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/677/original/35c3-internet.zip?1546003081">Presentation slides</attachment>
+        </attachments>
       </event>
       <event id="9563" guid="a42e5a4f-fd9b-4571-bf17-483978afecb3">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9563.html</url>
@@ -1586,7 +1588,7 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
         <track>Science</track>
         <type>lecture</type>
         <language>en</language>
-        <abstract>&lt;p&gt;How to apply Shannon's information theory to biology.&lt;/p&gt;</abstract>
+        <abstract>How to apply Shannon's information theory to biology.</abstract>
         <description>&lt;p&gt;Cells, from bacteria to human cells, constantly take up, store, retrieve, communicate and make decisions based on information. How they realise all this computation using very unreliable components is still largely an open question. Instead of transistors they have to employ proteins, but proteins constantly degenerate and are re-built making their numbers fluctuate. If cellular signalling is impaired severe diseases can be the result, for instance cancer or epilepsy.&lt;/p&gt;&#13;
 &#13;
 &lt;p&gt;As cellular communication is so pervasive and essential, researchers start to look into this information flow in biological systems in more detail. My research group at the BioQuant centre, Heidelberg University, is also active in this area, an area which I would call Information Biology &amp;mdash; the study of how biological systems deal with information.&lt;/p&gt;&#13;
@@ -1614,7 +1616,9 @@ We will explore the Scuttleverse and beyond. What is Scuttlebutt now, and and im
         <links>
           <link href="https://lab.pahle.org">Research group homepage</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/676/original/2018-12-27_35C3JuergenPahle.pdf?1546000267">Slides</attachment>
+        </attachments>
       </event>
       <event id="10009" guid="4dcbb9c4-8f93-40ed-85c0-90474f4ea623">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10009.html</url>
@@ -7656,7 +7660,9 @@ Im Vortrag erzählen euch Jens und Kristin, welche Maßnahmen weit vor einer Dur
           <person id="7686">Mike Sperber</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/679/original/teach-programming.pdf?1546010097">teach-programming.pdf</attachment>
+        </attachments>
       </event>
       <event id="9658" guid="6e25dd44-763f-494b-bae5-75b409dcf1d0">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9658.html</url>
@@ -7997,7 +8003,9 @@ This is a brief introduction into the paradigm shifting realm of sex- and gender
           <person id="4092">Sarah Hiltner</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/675/original/35c3-4-komprimiert.pdf?1545999934">35c3-4-komprimiert.pdf</attachment>
+        </attachments>
       </event>
       <event id="9998" guid="622c9585-e332-4915-a9ac-987a34da4d14">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9998.html</url>
@@ -8129,7 +8137,7 @@ Finally, we show new variants of the Meltdown attack, exploiting different parts
       </event>
       <event id="9965" guid="3e75c48f-3a58-4afe-bafb-0670dd2b15cc">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9965.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/965/large/g62.png?1546009994</logo>
         <date>2018-12-28T23:30:00+01:00</date>
         <start>23:30</start>
         <duration>01:00</duration>
@@ -8758,6 +8766,7 @@ Wir entwickeln ein völlig freies quelloffenes Hardware- und Software-Design fü
           <attachment href="/system/event_attachments/attachments/000/003/586/original/hannah_push_recovery.mp4?1539639211">Kurzes Video vom Roboter</attachment>
           <attachment href="/system/event_attachments/attachments/000/003/587/original/IMG_20180525_155412.jpg?1539639211">Foto vom Roboter</attachment>
           <attachment href="/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211">Noch ein Foto vom Roboter</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/678/original/slides_1.pdf?1546008239">Slides</attachment>
         </attachments>
       </event>
       <event id="9733" guid="2d71612c-7f40-484b-a939-10b809aedd80">
@@ -16003,13 +16012,15 @@ Hier lohnt es sich für den hackenden Nachwuchs, aus den Fehlern anderer zu lern
         <start>22:10</start>
         <duration>00:40</duration>
         <room>Adams</room>
-        <slug>35c3-10017-e-evidenz</slug>
-        <title>E-Evidenz</title>
-        <subtitle/>
+        <slug>35c3-10017-electronic_evicence_in_criminal_matters</slug>
+        <title>Electronic Evicence in Criminal Matters</title>
+        <subtitle>An introduction and critique of the EC proposal for a regulation</subtitle>
         <track>Ethics, Society &amp; Politics</track>
         <type>lecture</type>
-        <language>de</language>
-        <abstract>Was steht in der e-Evidence-Verordnung der Europäischen Union?</abstract>
+        <language>en</language>
+        <abstract>The lecture will give an introduction into the "EC Proposal for a Regulation on European Production and Preservation Orders for Electronic Evidence in Criminal Matters (COM (2018) 225 final)" and .&#13;
+the impact to civil liberties of the users as well as the challenges for service providers of the diverse range of services covered by the proposal.&lt;br&gt;&#13;
+Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the existing proposal and prevent it from becoming binding law throughout the EU..    </abstract>
         <description/>
         <recording>
           <license/>
@@ -16820,20 +16831,13 @@ There are three steps to building better drivers:&#13;
 &#13;
 We show that it is possible to achieve all of these goals for PCIe drivers on Linux by implementing user space network drivers in all of the aforementioned programming languages. Our techniques are transferable to other drivers that would benefit from more modern implementations. &#13;
 &#13;
-Our drivers in &lt;a href="https://github.com/ixy-languages/ixy.rs"&gt;Rust&lt;/a&gt;, &lt;a href="https://github.com/ixy-languages/ixy.cs"&gt;C#&lt;/a&gt;, &lt;a href="https://github.com/ixy-languages/ixy.go"&gt;go&lt;/a&gt;, and &lt;a href="https://github.com/ixy-languages/ixy.swift"&gt;Swift&lt;/a&gt; are completely finished, tuned for performance, evaluated, and benchmarked. And all of them except for Swift are about 80-90% as fast as &lt;a href="https://github.com/emmericp/ixy"&gt;our user space C driver&lt;/a&gt; and 6-10 times faster than the kernel C driver.&#13;
+Our drivers in &lt;a href="https://github.com/ixy-languages/ixy.rs"&gt;Rust&lt;/a&gt;, &lt;a href="https://github.com/ixy-languages/ixy.cs"&gt;C#&lt;/a&gt;, &lt;a href="https://github.com/ixy-languages/ixy.go"&gt;go&lt;/a&gt;, and &lt;a href="https://github.com/ixy-languages/ixy.swift"&gt;Swift&lt;/a&gt; are completely finished, tuned for performance, evaluated, and benchmarked. And all of them except for Swift are about 80-90% as fast as &lt;a href="https://github.com/emmericp/ixy"&gt;our user space C driver&lt;/a&gt; and 6-10 times faster than the kernel C driver. We also investigate how garbage collectod languages affects the latency of a packet forwarder built on top of our drivers.&#13;
 &#13;
 We also got something for fans of functional languages: our implementations in &lt;a href="https://github.com/ixy-languages/ixy.ml"&gt;OCaml&lt;/a&gt; and &lt;a href="https://github.com/ixy-languages/ixy.hs"&gt;Haskell&lt;/a&gt; are working but not yet tuned for performance. We are also working on Python, Java, and Javascript.&#13;
-&#13;
+We take a brief look at Haskell, Swift, OCaml, and C# in the talk and a deeper dive into Rust and Go.&#13;
 &#13;
 The talk also features a quick summary from &lt;a href="https://media.ccc.de/v/34c3-9159-demystifying_network_cards"&gt;last year's talk about user space driver basics&lt;/a&gt;, so no previous knowledge is required.&#13;
-We show how to achieve all of the three points above in selected languages, answering the following key questions:&#13;
 &#13;
-&lt;ul&gt;&#13;
-&lt;li&gt;Which language features make drivers better? Do they cost performance?&lt;/li&gt;&#13;
-&lt;li&gt;Does the language need some stubs in C? Does it need code tagged as unsafe (Rust, C#)? How many lines of C or unsafe code are required?&#13;
-&lt;li&gt;What does it mean to have a garbage collector in driver code? (latency spikes?!)&lt;/li&gt;&#13;
-&lt;li&gt;How well can we isolate the driver? (IOMMU, running without root)&lt;/li&gt;&#13;
-&lt;/ul&gt;&#13;
 &#13;
 Another thing to take away from this talk is: writing drivers is neither scary nor hard. You can write one in your favorite programming language, so go ahead and try that :)&#13;
 </description>

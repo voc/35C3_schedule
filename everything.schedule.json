@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:00", 
+        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -545,7 +545,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/677/original/35c3-internet.zip?1546003081", 
+                                        "title": "Presentation slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9563.html", 
@@ -1701,7 +1706,7 @@
                                 "track": "Science", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "<p>How to apply Shannon's information theory to biology.</p>", 
+                                "abstract": "How to apply Shannon's information theory to biology.", 
                                 "description": "<p>Cells, from bacteria to human cells, constantly take up, store, retrieve, communicate and make decisions based on information. How they realise all this computation using very unreliable components is still largely an open question. Instead of transistors they have to employ proteins, but proteins constantly degenerate and are re-built making their numbers fluctuate. If cellular signalling is impaired severe diseases can be the result, for instance cancer or epilepsy.</p>\r\n\r\n<p>As cellular communication is so pervasive and essential, researchers start to look into this information flow in biological systems in more detail. My research group at the BioQuant centre, Heidelberg University, is also active in this area, an area which I would call Information Biology &mdash; the study of how biological systems deal with information.</p>\r\n\r\n<p>I will show you how you can apply Shannon's information theory to biological systems. For this we need three ingredients, namely dynamic models of biological pathways, stochastic simulation algorithms (that take into account intrinsic fluctuations in molecular numbers), and, of course, Shannon's theory of information.</p>\r\n\r\n<p>I will give brief and user-friendly introductions to these three ingredients. After that I am going to talk about a number of use cases, such as:</p>\r\n<ul>\r\n<li>How much memory does a bacterium have? And how long can it remember things?</li>\r\n<li>How many bits per second can a liver cell process via its calcium signalling pathway?</li>\r\n<li>How must signalling pathways be constructed, structurally and dynamically, for certain stimuli to be decoded?</li>\r\n<li>and others&hellip;</li>\r\n</ul>\r\n\r\n<p>I will also give links to (open source) software that is being developed in my group, which you can use to simulate and play around with biochemical pathways, and also to estimate information flows and do information biology.</p>\r\n\r\n<p>FYI: The research I am talking about here is part of a research area which is called Computational Systems Biology. Systems Biology is a field which studies biological systems not by reducing them to their constituent parts, such as single receptors, genes, molecular complexes etc., but by viewing them in the cellular or organismal context and, importantly, as (dynamic) systems. And Computational Systems Biology is Systems Biology done with the help of mathematical models and simulation/analysis algorithms.</p>", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -1717,7 +1722,12 @@
                                         "title": "Research group homepage"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/676/original/2018-12-27_35C3JuergenPahle.pdf?1546000267", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10009.html", 
@@ -8109,7 +8119,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/679/original/teach-programming.pdf?1546010097", 
+                                        "title": "teach-programming.pdf"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9658.html", 
@@ -8450,7 +8465,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/675/original/35c3-4-komprimiert.pdf?1545999934", 
+                                        "title": "35c3-4-komprimiert.pdf"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9998.html", 
@@ -8599,7 +8619,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9965.html", 
                                 "id": 9965, 
                                 "guid": "3e75c48f-3a58-4afe-bafb-0670dd2b15cc", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/965/large/g62.png?1546009994", 
                                 "date": "2018-12-28T23:30:00+01:00", 
                                 "start": "23:30", 
                                 "duration": "01:00", 
@@ -9137,6 +9157,10 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/588/original/IMG_20180609_183131.jpg?1539639211", 
                                         "title": "Noch ein Foto vom Roboter"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/678/original/slides_1.pdf?1546008239", 
+                                        "title": "Slides"
                                     }
                                 ]
                             }, 
@@ -16937,13 +16961,13 @@
                                 "start": "22:10", 
                                 "duration": "00:40", 
                                 "room": "Adams", 
-                                "slug": "35c3-10017-e-evidenz", 
-                                "title": "E-Evidenz", 
-                                "subtitle": "", 
+                                "slug": "35c3-10017-electronic_evicence_in_criminal_matters", 
+                                "title": "Electronic Evicence in Criminal Matters", 
+                                "subtitle": "An introduction and critique of the EC proposal for a regulation", 
                                 "track": "Ethics, Society & Politics", 
                                 "type": "lecture", 
-                                "language": "de", 
-                                "abstract": "Was steht in der e-Evidence-Verordnung der Europ\u00e4ischen Union?", 
+                                "language": "en", 
+                                "abstract": "The lecture will give an introduction into the \"EC Proposal for a Regulation on European Production and Preservation Orders for Electronic Evidence in Criminal Matters (COM (2018) 225 final)\" and .\r\nthe impact to civil liberties of the users as well as the challenges for service providers of the diverse range of services covered by the proposal.<br>\r\nUrgent action is required <b>now</b> by diverse groups to fight the existing proposal and prevent it from becoming binding law throughout the EU..    ", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -17828,7 +17852,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Drivers are usually written in C for historical reasons, this can be bad if you want your driver to be safe and secure. We show that it is possible to write low-level drivers for PCIe devices in modern high-level languages.\r\nWe are working on super-fast user space network drivers for the Intel 82599ES (ixgbe) 10 Gbit/s NICs in different high-level languages. We've got fully working implementations in Rust, C#, go, OCaml, Haskell, and Swift. All of them are written from scratch and require no kernel code.\r\n\r\nCheck out <a href=\"https://github.com/ixy-languages/ixy-languages\">our GitHub page</a> with links to all implementations, performance measurements, and publications for further reading.", 
-                                "description": "Supposedly modern user space drivers (e.g., DPDK or SPDK) are still being written in C in 2018 :(\r\n\r\nThis comes with all the well-known drawbacks of writing things in C that might be prevented by using safer programming languages.\r\nAlso, did you ever see a kernel panic because a driver did something stupid? It doesn't have to be that way, drivers should not be able to take down the whole system.\r\n\r\nThere are three steps to building better drivers:\r\n\r\n1. Write them in a safer programming language eliminating whole classes of bugs and security problems like bad memory accesses\r\n\r\n2. Isolating them from the rest of the operating system: user space drivers that drop privileges\r\n\r\n3. Isolating the hardware using the IOMMU\r\n\r\n\r\nWe show that it is possible to achieve all of these goals for PCIe drivers on Linux by implementing user space network drivers in all of the aforementioned programming languages. Our techniques are transferable to other drivers that would benefit from more modern implementations. \r\n\r\nOur drivers in <a href=\"https://github.com/ixy-languages/ixy.rs\">Rust</a>, <a href=\"https://github.com/ixy-languages/ixy.cs\">C#</a>, <a href=\"https://github.com/ixy-languages/ixy.go\">go</a>, and <a href=\"https://github.com/ixy-languages/ixy.swift\">Swift</a> are completely finished, tuned for performance, evaluated, and benchmarked. And all of them except for Swift are about 80-90% as fast as <a href=\"https://github.com/emmericp/ixy\">our user space C driver</a> and 6-10 times faster than the kernel C driver.\r\n\r\nWe also got something for fans of functional languages: our implementations in <a href=\"https://github.com/ixy-languages/ixy.ml\">OCaml</a> and <a href=\"https://github.com/ixy-languages/ixy.hs\">Haskell</a> are working but not yet tuned for performance. We are also working on Python, Java, and Javascript.\r\n\r\n\r\nThe talk also features a quick summary from <a href=\"https://media.ccc.de/v/34c3-9159-demystifying_network_cards\">last year's talk about user space driver basics</a>, so no previous knowledge is required.\r\nWe show how to achieve all of the three points above in selected languages, answering the following key questions:\r\n\r\n<ul>\r\n<li>Which language features make drivers better? Do they cost performance?</li>\r\n<li>Does the language need some stubs in C? Does it need code tagged as unsafe (Rust, C#)? How many lines of C or unsafe code are required?\r\n<li>What does it mean to have a garbage collector in driver code? (latency spikes?!)</li>\r\n<li>How well can we isolate the driver? (IOMMU, running without root)</li>\r\n</ul>\r\n\r\nAnother thing to take away from this talk is: writing drivers is neither scary nor hard. You can write one in your favorite programming language, so go ahead and try that :)\r\n", 
+                                "description": "Supposedly modern user space drivers (e.g., DPDK or SPDK) are still being written in C in 2018 :(\r\n\r\nThis comes with all the well-known drawbacks of writing things in C that might be prevented by using safer programming languages.\r\nAlso, did you ever see a kernel panic because a driver did something stupid? It doesn't have to be that way, drivers should not be able to take down the whole system.\r\n\r\nThere are three steps to building better drivers:\r\n\r\n1. Write them in a safer programming language eliminating whole classes of bugs and security problems like bad memory accesses\r\n\r\n2. Isolating them from the rest of the operating system: user space drivers that drop privileges\r\n\r\n3. Isolating the hardware using the IOMMU\r\n\r\n\r\nWe show that it is possible to achieve all of these goals for PCIe drivers on Linux by implementing user space network drivers in all of the aforementioned programming languages. Our techniques are transferable to other drivers that would benefit from more modern implementations. \r\n\r\nOur drivers in <a href=\"https://github.com/ixy-languages/ixy.rs\">Rust</a>, <a href=\"https://github.com/ixy-languages/ixy.cs\">C#</a>, <a href=\"https://github.com/ixy-languages/ixy.go\">go</a>, and <a href=\"https://github.com/ixy-languages/ixy.swift\">Swift</a> are completely finished, tuned for performance, evaluated, and benchmarked. And all of them except for Swift are about 80-90% as fast as <a href=\"https://github.com/emmericp/ixy\">our user space C driver</a> and 6-10 times faster than the kernel C driver. We also investigate how garbage collectod languages affects the latency of a packet forwarder built on top of our drivers.\r\n\r\nWe also got something for fans of functional languages: our implementations in <a href=\"https://github.com/ixy-languages/ixy.ml\">OCaml</a> and <a href=\"https://github.com/ixy-languages/ixy.hs\">Haskell</a> are working but not yet tuned for performance. We are also working on Python, Java, and Javascript.\r\nWe take a brief look at Haskell, Swift, OCaml, and C# in the talk and a deeper dive into Rust and Go.\r\n\r\nThe talk also features a quick summary from <a href=\"https://media.ccc.de/v/34c3-9159-demystifying_network_cards\">last year's talk about user space driver basics</a>, so no previous knowledge is required.\r\n\r\n\r\nAnother thing to take away from this talk is: writing drivers is neither scary nor hard. You can write one in your favorite programming language, so go ahead and try that :)\r\n", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
