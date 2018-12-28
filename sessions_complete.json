@@ -4880,60 +4880,7 @@
             }
         ]
     }, 
-    "Session:Commie curious# b3cdf5c1ed95f1e411bced6db696bc4a": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://telekommunisten.net"
-        ], 
-        "Has description": [
-            "A warm and welcoming place for people who think they might be a little communist."
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "the follow-up session"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Commie curious"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "ee32a212-a49d-4bb3-b18f-8501e0a77597"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious", 
-        "Has end time": [
-            {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Commie curious# ced99be4efd725138d50350bfe4fb180": {
+    "Session:Commie curious# 45261a269cfc6352d37ba821feef0c71": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -4963,7 +4910,7 @@
             }
         ], 
         "Has subtitle": [
-            "the introductory session"
+            "Session #1 - Join Us!"
         ], 
         "Is organized by": [], 
         "Has title": [
@@ -4983,6 +4930,59 @@
             {
                 "timestamp": "1546096500", 
                 "raw": "1/2018/12/29/15/15/0/0"
+            }
+        ]
+    }, 
+    "Session:Commie curious# ba32e3568aae7bdaba819c2334eca4cb": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://telekommunisten.net"
+        ], 
+        "Has description": [
+            "A warm and welcoming place for people who think they might be a little communist."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Session #2 follow-up discusssion"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Commie curious"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ee32a212-a49d-4bb3-b18f-8501e0a77597"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
             }
         ]
     }, 
@@ -6242,6 +6242,50 @@
                 "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
+    }, 
+    "Session:Decentralized Digital Identity# d052bd6dd103c21a9dc1855449c8323f": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546018200", 
+                "raw": "1/2018/12/28/17/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://frab.riat.at"
+        ], 
+        "Has description": [
+            "Iden3 is an open source protocol and reference software to define digital idantities, claims and proofs. The system is designed taking in account privacy by design and by default."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Decentralized Digital Identity"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "fcc93852-ebb6-459f-8a95-0a5d5e5edceb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Decentralized_Digital_Identity", 
+        "Has end time": []
     }, 
     "Session:Demarchy meetup# a7645993a4b0d3b53f71ef9450153312": {
         "Held in language": [
@@ -15234,6 +15278,52 @@
             }
         ]
     }, 
+    "Session:Peer-Inventing Assistive Technologies# bb2538e622e44d6eaa84b3db7d1392ab": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://frab.riat.at"
+        ], 
+        "Has description": [
+            "Currently different projects worldwide aim to support collaborative development, fabrication, and distribution, of assistive technologies (AT). Putting the potentials of maker culture to use in the process of peer-inventing individualized health care solutions looks promising, but distributed invention and development needs skills, roles, and organization. How do we actually make it work?"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Peer-Inventing Assistive Technologies"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "074e9438-b30a-4734-a09a-5e86143aa9e7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Peer-Inventing_Assistive_Technologies", 
+        "Has end time": []
+    }, 
     "Session:Pen&paper mini \"Game Jam\u201c# 0e051231a34f2195fa7f89b203909db1": {
         "Held in language": [
             "de - German", 
@@ -23488,6 +23578,48 @@
                 "raw": "1/2018/12/30/0/0/0/0"
             }
         ]
+    }, 
+    "Session:What happens with your cryptos if you die?# 1655f83a3206fe73b46d8843b93f4690": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://frab.riat.at"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "What happens with your cryptos if you die?"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "e940778b-7bcf-459c-8bcb-731cfd06825a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:What_happens_with_your_cryptos_if_you_die%3F", 
+        "Has end time": []
     }, 
     "Session:Whisky# f4c18443baa56535626f7fc29d3925a5": {
         "Held in language": [

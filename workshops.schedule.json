@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 15:00", 
+        "version": "2018-12-28 15:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5291,7 +5291,7 @@
                                 "room": "Lecture room M2", 
                                 "slug": "35c3-1279-session_commie_curious", 
                                 "title": "Commie curious", 
-                                "subtitle": "the introductory session", 
+                                "subtitle": "Session #1 - Join Us!", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "", 
@@ -5607,7 +5607,7 @@
                                 "room": "Seminar room 13", 
                                 "slug": "35c3-1207-session_commie_curious", 
                                 "title": "Commie curious", 
-                                "subtitle": "the follow-up session", 
+                                "subtitle": "Session #2 follow-up discusssion", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "", 
