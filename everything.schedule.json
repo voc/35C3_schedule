@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.7 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 00:20", 
+        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 01:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -18906,6 +18906,27 @@
                                 "links": [
                                     "https://www.lesswrong.com/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1421, 
+                                "guid": "491d0ea8-e872-4833-b578-476bcdbb73e3", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1421-session_linux_improved_kickoff_discussion", 
+                                "title": "Linux Improved Kickoff Discussion", 
+                                "subtitle": "Linux Improved Kickoff", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Securing Linux by defining a new Userland, How hard can it be, lets have a discussion and propably kick off a project.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Linux_Improved_Kickoff_Discussion"
                                 ]
                             }, 
                             {

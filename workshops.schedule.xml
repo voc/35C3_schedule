@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 00:20</version>
+  <version>2018-12-28 01:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4130,6 +4130,25 @@
         <links>
           <link>https://www.lesswrong.com/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:LessWrong_Meetup</link>
+        </links>
+      </event>
+      <event id="1421" guid="491d0ea8-e872-4833-b578-476bcdbb73e3">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1421-session_linux_improved_kickoff_discussion</slug>
+        <title>Linux Improved Kickoff Discussion</title>
+        <subtitle>Linux Improved Kickoff</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Securing Linux by defining a new Userland, How hard can it be, lets have a discussion and propably kick off a project.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Linux_Improved_Kickoff_Discussion</link>
         </links>
       </event>
       <event id="1077" guid="0d9e8a07-c7b3-4212-9055-2abf1e343431">

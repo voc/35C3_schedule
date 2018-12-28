@@ -12523,6 +12523,59 @@
             }
         ]
     }, 
+    "Session:Linux Improved Kickoff Discussion# 3524110b259b694bff5ca5647d799081": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Securing Linux by defining a new Userland, How hard can it be, lets have a discussion and propably kick off a project."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Linux Improved Kickoff"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Linux Improved Kickoff Discussion"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "491d0ea8-e872-4833-b578-476bcdbb73e3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Linux_Improved_Kickoff_Discussion", 
+        "Has end time": [
+            {
+                "timestamp": "1546126200", 
+                "raw": "1/2018/12/29/23/30/0/0"
+            }
+        ]
+    }, 
     "Session:Locale Presse-/\u00d6ffentlichkeitsarbeit# 68c3c88d2e2ee5c5d6aecadea76aff60": {
         "Held in language": [
             "de - German", 
