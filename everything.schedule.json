@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:10", 
+        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -9495,7 +9495,7 @@
                                 "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact.", 
+                                "description": "Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact. Talk is held by Hanno B\u00f6ck.", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source"
@@ -16581,36 +16581,6 @@
                                 "links": [
                                     "https://wiki.ecohackerfarm.org/powerplant:start", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_coding_session"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Schaffenburg": [
-                            {
-                                "id": 1304, 
-                                "guid": "3f5603e9-92e2-4a8d-853c-cd18ef952269", 
-                                "logo": null, 
-                                "date": "2018-12-28T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "0:45", 
-                                "room": "Assembly:Schaffenburg", 
-                                "slug": "35c3-1304-session_r5", 
-                                "title": "R5", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Meetup and Kick-Off for the CCC R5 Task force: Reuse, Repair, Recycle, Rethink, Redesign", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fraxinas", 
-                                        "public_name": "Fraxinas"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://doku.ccc.de/R5", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:R5"
                                 ]
                             }
                         ], 
@@ -25769,6 +25739,36 @@
                                 "links": [
                                     "https://pslab.io", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Schaffenburg": [
+                            {
+                                "id": 1304, 
+                                "guid": "3f5603e9-92e2-4a8d-853c-cd18ef952269", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "0:30", 
+                                "room": "Assembly:Schaffenburg", 
+                                "slug": "35c3-1304-session_r5", 
+                                "title": "R5", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Meetup and Kick-Off for the CCC R5 Task force: Reuse, Repair, Recycle, Rethink, Redesign", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Fraxinas", 
+                                        "public_name": "Fraxinas"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://doku.ccc.de/R5", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:R5"
                                 ]
                             }
                         ], 

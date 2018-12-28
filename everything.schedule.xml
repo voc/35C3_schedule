@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:10</version>
+  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9056,7 +9056,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact.</description>
+        <description>Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact. Talk is held by Hanno Böck.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
@@ -15676,30 +15676,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://wiki.ecohackerfarm.org/powerplant:start</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Powerplant_hackathon_coding_session</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Schaffenburg">
-      <event id="1304" guid="3f5603e9-92e2-4a8d-853c-cd18ef952269">
-        <logo/>
-        <date>2018-12-28T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Schaffenburg</room>
-        <slug>35c3-1304-session_r5</slug>
-        <title>R5</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Meetup and Kick-Off for the CCC R5 Task force: Reuse, Repair, Recycle, Rethink, Redesign</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fraxinas">Fraxinas</person>
-        </persons>
-        <links>
-          <link>https://doku.ccc.de/R5</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:R5</link>
         </links>
       </event>
     </room>
@@ -24204,6 +24180,30 @@ Freifunk since 2003</biography>
         <links>
           <link>https://pslab.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Schaffenburg">
+      <event id="1304" guid="3f5603e9-92e2-4a8d-853c-cd18ef952269">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Assembly:Schaffenburg</room>
+        <slug>35c3-1304-session_r5</slug>
+        <title>R5</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup and Kick-Off for the CCC R5 Task force: Reuse, Repair, Recycle, Rethink, Redesign</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fraxinas">Fraxinas</person>
+        </persons>
+        <links>
+          <link>https://doku.ccc.de/R5</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:R5</link>
         </links>
       </event>
     </room>
