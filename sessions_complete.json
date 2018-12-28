@@ -13786,6 +13786,55 @@
             }
         ]
     }, 
+    "Session:JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)# 31712d22174199b3adea0946853bad85": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ee43044f-4382-4b88-ae84-85eae592690d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ]
+    }, 
     "Session:Junghackertag Er\u00f6ffnung# 40ba389a10149178cb107142b1e60e5b": {
         "Held in language": [
             "de - German"
@@ -16824,6 +16873,69 @@
             {
                 "timestamp": "1546113600", 
                 "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
+    }, 
+    "Session:OWASP meetup# a80feacd80a26810dc90dcf839114af1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://owasp.org/"
+        ], 
+        "Has description": [
+            "owasp meetup at 35c3"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "0xJOIN 0XUS00"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Spyros", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Spyros", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "OWASP meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "94bb5227-5e61-4b5a-bf52-a2746b109c06"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:OWASP_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }, 
@@ -26008,6 +26120,59 @@
             }
         ]
     }, 
+    "Session:Wetten, dass nicht ?# da9bdefa22b3081e144c546855920004": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546221600", 
+                "raw": "1/2018/12/31/2/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "open sound-collective"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Wetten, dass nicht ?"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "aea71b44-e972-45b0-8156-5e2a4d81ec19"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wetten,_dass_nicht_%3F", 
+        "Has end time": [
+            {
+                "timestamp": "1546232400", 
+                "raw": "1/2018/12/31/5/0/0/0"
+            }
+        ]
+    }, 
     "Session:What happens with your cryptos if you die?# 1655f83a3206fe73b46d8843b93f4690": {
         "Held in language": [], 
         "Has start time": [
@@ -27041,6 +27206,59 @@
             {
                 "timestamp": "1546034400", 
                 "raw": "1/2018/12/28/22/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Zwischen Hysterie und Topfpflanzen# 6a1ab08f034f8e07cfbe58ddd8a1ac5c": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546196400", 
+                "raw": "1/2018/12/30/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "open sound-colelctive"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Zwischen Hysterie und Topfpflanzen"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "07620553-2702-4d48-acae-53def7b70d19"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Zwischen_Hysterie_und_Topfpflanzen", 
+        "Has end time": [
+            {
+                "timestamp": "1546203600", 
+                "raw": "1/2018/12/30/21/0/0/0"
             }
         ]
     }

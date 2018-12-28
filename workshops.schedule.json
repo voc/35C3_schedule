@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 00:30", 
+        "version": "2018-12-29 00:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5435,6 +5435,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1487, 
+                                "guid": "ee43044f-4382-4b88-ae84-85eae592690d", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1487-session_julialang_a_first_introduction_and_why_i_am_excited_about_let_s_talk_compiler_s_and_gpus_", 
+                                "title": "JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)"
+                                ]
+                            }, 
+                            {
                                 "id": 1386, 
                                 "guid": "9a0af0b4-6556-4271-b577-8525721c6031", 
                                 "logo": null, 
@@ -5478,6 +5499,34 @@
                                 "links": [
                                     "https://sachsens-demokratie.net", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F"
+                                ]
+                            }, 
+                            {
+                                "id": 1488, 
+                                "guid": "94bb5227-5e61-4b5a-bf52-a2746b109c06", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1488-session_owasp_meetup", 
+                                "title": "OWASP meetup", 
+                                "subtitle": "0xJOIN 0XUS00", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "owasp meetup at 35c3", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Spyros", 
+                                        "public_name": "Spyros"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://owasp.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:OWASP_meetup"
                                 ]
                             }, 
                             {
@@ -6189,6 +6238,28 @@
                                 "links": [
                                     "http://dome-one.com", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin"
+                                ]
+                            }, 
+                            {
+                                "id": 1489, 
+                                "guid": "07620553-2702-4d48-acae-53def7b70d19", 
+                                "logo": null, 
+                                "date": "2018-12-30T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1489-session_zwischen_hysterie_und_topfpflanzen", 
+                                "title": "Zwischen Hysterie und Topfpflanzen", 
+                                "subtitle": "open sound-colelctive", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Frickelzwang f\u00fcr Sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Zwischen_Hysterie_und_Topfpflanzen"
                                 ]
                             }
                         ], 
