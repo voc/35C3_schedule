@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.0 1312 1.1.2</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 1312 1.1.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3556,12 +3556,12 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10168-fairy_dust</slug>
-        <title>Fairy Dust</title>
-        <subtitle/>
+        <slug>35C3-ABFahrplan-10168-fairy_dust_-_day1</slug>
+        <title>Fairy Dust - Day1</title>
+        <subtitle>Rocket Away</subtitle>
         <track>Music</track>
         <type>other</type>
-        <language/>
+        <language>en</language>
         <abstract>Modify the Fairy Dust!</abstract>
         <description>After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.&#13;
 &#13;
@@ -3571,7 +3571,9 @@ In the hours between 2 pm and 5 pm on the days of the congress, there will be ac
 &#13;
 Enjoy!&#13;
 &#13;
-</description>
+Powered by PENTAKLON und Rico Rose&#13;
+&#13;
+Contact: privatlehrer[at]gmail[:]com</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -3589,7 +3591,7 @@ Enjoy!&#13;
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10049-sui</slug>
+        <slug>35C3-ABFahrplan-10049-sui</slug>
         <title>SUI</title>
         <subtitle>Diverse Music</subtitle>
         <track>Music</track>
@@ -3614,7 +3616,7 @@ Enjoy!&#13;
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10112-das_weltweite_netzwerk_fur_ein_bedingungsloses_grundeinkommen</slug>
+        <slug>35C3-ABFahrplan-10112-das_weltweite_netzwerk_fur_ein_bedingungsloses_grundeinkommen</slug>
         <title>Das weltweite Netzwerk für ein bedingungsloses Grundeinkommen</title>
         <subtitle>Experimental Pop</subtitle>
         <track>Music</track>
@@ -3641,7 +3643,7 @@ Neuwirth gönnt seinen Songs - oder soll man sagen: Musikkabarettnummern? - Nach
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10045-melted_moon</slug>
+        <slug>35C3-ABFahrplan-10045-melted_moon</slug>
         <title>Melted Moon</title>
         <subtitle>8 Bit Electro</subtitle>
         <track>Music</track>
@@ -3674,7 +3676,7 @@ Melted Moon uses only original Gameboy hardware to make music. The Gameboys are,
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10091-konflikt</slug>
+        <slug>35C3-ABFahrplan-10091-konflikt</slug>
         <title>Konflikt</title>
         <subtitle>Techno/House</subtitle>
         <track>Music</track>
@@ -3699,7 +3701,7 @@ Melted Moon uses only original Gameboy hardware to make music. The Gameboys are,
         <start>00:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10086-vril</slug>
+        <slug>35C3-ABFahrplan-10086-vril</slug>
         <title>Vril</title>
         <subtitle>Techno Live Set</subtitle>
         <track>Music</track>
@@ -3735,7 +3737,7 @@ VRIL -Omniverse- (12 inch on Dystopian) VRIL -anima mundi- (LP on Delsin Records
         <start>01:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10114-steffen_bennemann</slug>
+        <slug>35C3-ABFahrplan-10114-steffen_bennemann</slug>
         <title>Steffen Bennemann</title>
         <subtitle>Techno/House</subtitle>
         <track>Music</track>
@@ -3760,7 +3762,7 @@ VRIL -Omniverse- (12 inch on Dystopian) VRIL -anima mundi- (LP on Delsin Records
         <start>03:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10113-map_ache</slug>
+        <slug>35C3-ABFahrplan-10113-map_ache</slug>
         <title>Map.ache</title>
         <subtitle>House Live Set</subtitle>
         <track>Music</track>
@@ -3788,7 +3790,7 @@ Soon, however, he began attending illegal techno parties around the city, held i
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10111-rss_disco</slug>
+        <slug>35C3-ABFahrplan-10111-rss_disco</slug>
         <title>RSS Disco</title>
         <subtitle>Disco/House</subtitle>
         <track>Music</track>
@@ -3816,12 +3818,12 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
         <start>10:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10164-start</slug>
+        <slug>35C3-ABFahrplan-10164-start</slug>
         <title>Start</title>
         <subtitle>Expected</subtitle>
         <track>Music</track>
         <type>meeting</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>All creatures welcomes each.</description>
         <recording>
@@ -3839,12 +3841,12 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
         <start>11:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10165-moe</slug>
+        <slug>35C3-ABFahrplan-10165-moe</slug>
         <title>Moe</title>
         <subtitle>Mogreens</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>User:Mogreens</description>
         <recording>
@@ -3862,12 +3864,12 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
         <start>12:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10166-fussil_moe</slug>
+        <slug>35C3-ABFahrplan-10166-fussil_moe</slug>
         <title>Fussil &amp; Moe</title>
         <subtitle>Kick it. Get Punk*</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -3885,12 +3887,12 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
         <start>13:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10167-fussil</slug>
+        <slug>35C3-ABFahrplan-10167-fussil</slug>
         <title>Fussil</title>
         <subtitle>Fussel on the decks.</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>It is, what is it?</description>
         <recording>
@@ -3908,7 +3910,7 @@ An RSS experience (called “set”, “mix”, or "performance") includes full 
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10093-mike_lait</slug>
+        <slug>35C3-ABFahrplan-10093-mike_lait</slug>
         <title>Mike Lait</title>
         <subtitle>Music that feels like a warm blanket.</subtitle>
         <track>Music</track>
@@ -3937,7 +3939,7 @@ He's good at that. He is also good at put on music that feels like a warm blanke
         <start>17:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10094-zuurb</slug>
+        <slug>35C3-ABFahrplan-10094-zuurb</slug>
         <title>zuurb</title>
         <subtitle>Chillgoldmine</subtitle>
         <track>Music</track>
@@ -3964,7 +3966,7 @@ zuurb is a walking chillgoldmine, whether to deliver drum´n bass sets in front 
         <start>19:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10095-timo_minmon</slug>
+        <slug>35C3-ABFahrplan-10095-timo_minmon</slug>
         <title>Timo Minmon</title>
         <subtitle>Minmon Kollektiv</subtitle>
         <track>Music</track>
@@ -3989,7 +3991,7 @@ zuurb is a walking chillgoldmine, whether to deliver drum´n bass sets in front 
         <start>21:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10096-barbnerdy</slug>
+        <slug>35C3-ABFahrplan-10096-barbnerdy</slug>
         <title>barbnerdy</title>
         <subtitle>Basic chillout</subtitle>
         <track>Music</track>
@@ -4016,7 +4018,7 @@ barbnerdy is part of the congresschill department - yes argue happened sometimes
         <start>23:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10097-mohammed_atari</slug>
+        <slug>35C3-ABFahrplan-10097-mohammed_atari</slug>
         <title>Mohammed Atari</title>
         <subtitle>Vinyl Spezialist</subtitle>
         <track>Music</track>
@@ -4043,7 +4045,7 @@ Mohammed Atari was playing his beloved vinyls once in Hamburg when a young girl 
         <start>01:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10098-gregoa</slug>
+        <slug>35C3-ABFahrplan-10098-gregoa</slug>
         <title>Gregoa</title>
         <subtitle>Mr. G. Music</subtitle>
         <track>Music</track>
@@ -4072,7 +4074,7 @@ So far undiscovered, but appreciated by the chaos because of the very special mu
         <start>03:00</start>
         <duration>04:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10099-bidi_morelle</slug>
+        <slug>35C3-ABFahrplan-10099-bidi_morelle</slug>
         <title>Bidi &amp; Morelle</title>
         <subtitle>Swiss Fondue und Hamburger Jung'</subtitle>
         <track>Music</track>
@@ -4103,7 +4105,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10146-rote_schule_music_workshop</slug>
+        <slug>35C3-ABFahrplan-10146-rote_schule_music_workshop</slug>
         <title>Rote Schule Music Workshop</title>
         <subtitle>Workshop/Performance</subtitle>
         <track>Music</track>
@@ -4126,7 +4128,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10120-esels_alptraum</slug>
+        <slug>35C3-ABFahrplan-10120-esels_alptraum</slug>
         <title>Esels Alptraum</title>
         <subtitle>Antifaschistisches Jodel Duo</subtitle>
         <track>Music</track>
@@ -4151,7 +4153,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10121-form</slug>
+        <slug>35C3-ABFahrplan-10121-form</slug>
         <title>Form</title>
         <subtitle>HipHop</subtitle>
         <track>Music</track>
@@ -4176,7 +4178,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10122-lena_stoehrfaktor</slug>
+        <slug>35C3-ABFahrplan-10122-lena_stoehrfaktor</slug>
         <title>Lena Stoehrfaktor</title>
         <subtitle>HipHop</subtitle>
         <track>Music</track>
@@ -4201,7 +4203,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10123-koffer</slug>
+        <slug>35C3-ABFahrplan-10123-koffer</slug>
         <title>Koffer</title>
         <subtitle>Punk (19:30-20:30)</subtitle>
         <track>Music</track>
@@ -4224,7 +4226,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10124-warm_swords</slug>
+        <slug>35C3-ABFahrplan-10124-warm_swords</slug>
         <title>Warm Swords</title>
         <subtitle>Garage Psy Rock (20:30-21:30)</subtitle>
         <track>Music</track>
@@ -4249,9 +4251,9 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10125-guts_pie_earshot</slug>
+        <slug>35C3-ABFahrplan-10125-guts_pie_earshot</slug>
         <title>Guts Pie Earshot</title>
-        <subtitle>DancePunk vs. DubTech - Hardcore vs. Punk'n'Bass (22:15-23:15)</subtitle>
+        <subtitle>DancePunk vs. DubTech / Hardcore vs. Punk'n'Bass</subtitle>
         <track>Music</track>
         <type>concert</type>
         <language>en</language>
@@ -4274,7 +4276,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10126-hits_hits_hits</slug>
+        <slug>35C3-ABFahrplan-10126-hits_hits_hits</slug>
         <title>Hits Hits Hits</title>
         <subtitle>HitsPunkTrash</subtitle>
         <track>Music</track>
@@ -4297,7 +4299,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10127-miss_the_point</slug>
+        <slug>35C3-ABFahrplan-10127-miss_the_point</slug>
         <title>Miss the Point</title>
         <subtitle/>
         <track>Music</track>
@@ -4320,7 +4322,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10128-monis_crew</slug>
+        <slug>35C3-ABFahrplan-10128-monis_crew</slug>
         <title>Monis Crew</title>
         <subtitle/>
         <track>Music</track>
@@ -4345,7 +4347,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10074-otto_paul</slug>
+        <slug>35C3-ABFahrplan-10074-otto_paul</slug>
         <title>otto/paul</title>
         <subtitle>Breakbeats, Pop, Electronic, Ambient</subtitle>
         <track>Music</track>
@@ -4370,12 +4372,12 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10161-parole_emil</slug>
+        <slug>35C3-ABFahrplan-10161-parole_emil</slug>
         <title>Parole Emil!</title>
         <subtitle/>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -4395,7 +4397,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10058-psychedelic_duct_tape</slug>
+        <slug>35C3-ABFahrplan-10058-psychedelic_duct_tape</slug>
         <title>Psychedelic Duct Tape</title>
         <subtitle>Ambient &amp; more</subtitle>
         <track>Music</track>
@@ -4420,7 +4422,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10116-adel_akram</slug>
+        <slug>35C3-ABFahrplan-10116-adel_akram</slug>
         <title>Adel Akram</title>
         <subtitle>Diverse Electronic Music</subtitle>
         <track>Music</track>
@@ -4447,7 +4449,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10077-alexeyan</slug>
+        <slug>35C3-ABFahrplan-10077-alexeyan</slug>
         <title>Alexeyan</title>
         <subtitle>D&amp;B, Neurofunk</subtitle>
         <track>Music</track>
@@ -4472,7 +4474,7 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10085-tasmo</slug>
+        <slug>35C3-ABFahrplan-10085-tasmo</slug>
         <title>Tasmo</title>
         <subtitle>Bass&amp;Drum</subtitle>
         <track>Music</track>
@@ -8755,12 +8757,12 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10169-fairy_dust</slug>
-        <title>Fairy Dust</title>
-        <subtitle/>
+        <slug>35C3-ABFahrplan-10169-fairy_dust_-_day2</slug>
+        <title>Fairy Dust - Day2</title>
+        <subtitle>Rocket Away</subtitle>
         <track>Music</track>
         <type>other</type>
-        <language/>
+        <language>en</language>
         <abstract>Modify the Fairy Dust</abstract>
         <description>After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.&#13;
 &#13;
@@ -8770,7 +8772,9 @@ In the hours between 2 pm and 5 pm on the days of the congress, there will be ac
 &#13;
 Enjoy!&#13;
 &#13;
-</description>
+Powered by PENTAKLON und Rico Rose &#13;
+&#13;
+Contact: privatlehrer[at]gmail[:]com</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -8788,7 +8792,7 @@ Enjoy!&#13;
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10062-lxc</slug>
+        <slug>35C3-ABFahrplan-10062-lxc</slug>
         <title>LXC</title>
         <subtitle>Dub, Broken Beats, Drum&amp;Bass</subtitle>
         <track>Music</track>
@@ -8820,9 +8824,9 @@ LXC releases on:&#13;
         <logo>/system/events/logos/000/010/069/large/avatars-000361741337-lfts8t-t500x500.jpg?1545407693</logo>
         <date>2018-12-28T20:00:00+01:00</date>
         <start>20:00</start>
-        <duration>02:00</duration>
+        <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10069-voxel_blue</slug>
+        <slug>35C3-ABFahrplan-10069-voxel_blue</slug>
         <title>voxel.blue</title>
         <subtitle>Various Styles of Psy</subtitle>
         <track>Music</track>
@@ -8841,6 +8845,31 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         </links>
         <attachments/>
       </event>
+      <event id="10172" guid="d2c0e6fe-3c67-43ab-b330-ea524db86f23">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10172.html</url>
+        <logo>/system/events/logos/000/010/172/large/a2020515426_10.jpg?1546021817</logo>
+        <date>2018-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:00</duration>
+        <room>Discodrama</room>
+        <slug>35C3-ABFahrplan-10172-dual_core</slug>
+        <title>Dual Core</title>
+        <subtitle>nerdcore</subtitle>
+        <track>Music</track>
+        <type>concert</type>
+        <language>en</language>
+        <abstract>Brought together by the power of the internet (and perhaps a touch of musical providence), California based computer programmer / rapper int eighty and English web designer / music producer c64 have been rocking the more studious side of the hip hop underground since 2007.</abstract>
+        <description>Brought together by the power of the internet (and perhaps a touch of musical providence), California based computer programmer / rapper int eighty and English web designer / music producer c64 have been rocking the more studious side of the hip hop underground since 2007.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons/>
+        <links>
+          <link href="http://dualcoremusic.com/nerdcore/">http://dualcoremusic.com/nerdcore/</link>
+        </links>
+        <attachments/>
+      </event>
       <event id="10041" guid="c6260cf6-e3cc-4f6c-977c-85d22be3b58b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10041.html</url>
         <logo>/system/events/logos/000/010/041/large/avatars-000119756252-ydapyg-t500x500.jpg?1545407986</logo>
@@ -8848,7 +8877,7 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10041-kollektiv_turmstrasse</slug>
+        <slug>35C3-ABFahrplan-10041-kollektiv_turmstrasse</slug>
         <title>Kollektiv Turmstrasse</title>
         <subtitle>Techno/House/Trance</subtitle>
         <track>Music</track>
@@ -8873,7 +8902,7 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10068-dave_dinger</slug>
+        <slug>35C3-ABFahrplan-10068-dave_dinger</slug>
         <title> Dave Dinger</title>
         <subtitle>Techno/House</subtitle>
         <track>Music</track>
@@ -8898,7 +8927,7 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10083-akaak</slug>
+        <slug>35C3-ABFahrplan-10083-akaak</slug>
         <title>akaak</title>
         <subtitle>House</subtitle>
         <track>Music</track>
@@ -8923,7 +8952,7 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10071-404</slug>
+        <slug>35C3-ABFahrplan-10071-404</slug>
         <title>404</title>
         <subtitle>Electronica, Downbeat</subtitle>
         <track>Music</track>
@@ -8951,12 +8980,12 @@ Styles: zenonesque, uk night psy, darkprog, psybass, psybreaks, psychill, psybie
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10100-mr_galonga_-_minmon</slug>
+        <slug>35C3-ABFahrplan-10100-mr_galonga_-_minmon</slug>
         <title>Mr. Galonga - Minmon</title>
         <subtitle>Minmon Kollektiv</subtitle>
         <track>Music</track>
         <type>other</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Mr. Galonga ist Mutti und Vati vom Minmon Kollektiv. Vor allem im Raum Potsdam sind einige Partys und Podcasts auf seinem Mist gewachsen. Ihm geht es nicht um Kohle, sondern um Liebe und deshalb ist er in diesem jahr erstmalig als Dj aufm 35C3.&#13;
 ---&#13;
@@ -8978,12 +9007,12 @@ Mr. Galonga is mum and dad from the Minmon collective. Especially in the Potsdam
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10162-welle</slug>
+        <slug>35C3-ABFahrplan-10162-welle</slug>
         <title>welle</title>
         <subtitle>n(e)w</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -9001,7 +9030,7 @@ Mr. Galonga is mum and dad from the Minmon collective. Especially in the Potsdam
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10102-mogreens</slug>
+        <slug>35C3-ABFahrplan-10102-mogreens</slug>
         <title>Mogreens</title>
         <subtitle>Vinyls of Funk, Soul and Jazz</subtitle>
         <track>Music</track>
@@ -9026,7 +9055,7 @@ One of the first. A real prototype.</description>
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10103-fussel</slug>
+        <slug>35C3-ABFahrplan-10103-fussel</slug>
         <title>Fussel</title>
         <subtitle>Electronic Music</subtitle>
         <track>Music</track>
@@ -9051,7 +9080,7 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10104-karlakakarl</slug>
+        <slug>35C3-ABFahrplan-10104-karlakakarl</slug>
         <title>Karlakakarl</title>
         <subtitle>Gute Music von Schallplatte</subtitle>
         <track>Music</track>
@@ -9076,7 +9105,7 @@ Karlakakarl would have liked to come by bike, but has to go straight on to Tel A
         <start>18:00</start>
         <duration>06:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10105-mr_jb</slug>
+        <slug>35C3-ABFahrplan-10105-mr_jb</slug>
         <title>Mr. JB</title>
         <subtitle>The master of mission</subtitle>
         <track>Music</track>
@@ -9103,7 +9132,7 @@ Mr. JB is the secret weapon and probably the best prepared dj in shutterisland, 
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10106-senor_sib</slug>
+        <slug>35C3-ABFahrplan-10106-senor_sib</slug>
         <title>Señor SIB</title>
         <subtitle>More Vinyl</subtitle>
         <track>Music</track>
@@ -9119,7 +9148,7 @@ Señor SIB is active in (good) political education and he collects (good) record
         </recording>
         <persons/>
         <links>
-          <link href="https://soundcloud.com/monkeyking/tracks">https://soundcloud.com/sibster</link>
+          <link href="https://www.mixcloud.com/senorsib/">https://www.mixcloud.com/senorsib/</link>
         </links>
         <attachments/>
       </event>
@@ -9130,7 +9159,7 @@ Señor SIB is active in (good) political education and he collects (good) record
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10107-zeerone</slug>
+        <slug>35C3-ABFahrplan-10107-zeerone</slug>
         <title>ZeerOne</title>
         <subtitle>TwittyTwister</subtitle>
         <track>Music</track>
@@ -9157,7 +9186,7 @@ ZeerOne the philosopher and with this humor must not be absent. He is the epitom
         <start>04:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10108-malte_rathmann</slug>
+        <slug>35C3-ABFahrplan-10108-malte_rathmann</slug>
         <title>Malte Rathmann</title>
         <subtitle>Audio / Video Set</subtitle>
         <track>Music</track>
@@ -9180,7 +9209,7 @@ ZeerOne the philosopher and with this humor must not be absent. He is the epitom
         <start>05:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10109-die_snuff_lagune</slug>
+        <slug>35C3-ABFahrplan-10109-die_snuff_lagune</slug>
         <title>Die Snuff Lagune</title>
         <subtitle>Audio / Video Set</subtitle>
         <track>Music</track>
@@ -9205,9 +9234,9 @@ Devon, Franziska, Jan, Malte. electro-instrumental ambient chillcore, Glitchypla
         <start>06:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10110-fussel</slug>
+        <slug>35C3-ABFahrplan-10110-fussel</slug>
         <title>Fussel</title>
-        <subtitle/>
+        <subtitle>djset</subtitle>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
@@ -9232,7 +9261,7 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10147-rote_schule_music_workshop</slug>
+        <slug>35C3-ABFahrplan-10147-rote_schule_music_workshop</slug>
         <title>Rote Schule Music Workshop</title>
         <subtitle>Workshop/Performance</subtitle>
         <track>Music</track>
@@ -9255,7 +9284,7 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10129-anna_hauss</slug>
+        <slug>35C3-ABFahrplan-10129-anna_hauss</slug>
         <title>Anna Hauss</title>
         <subtitle>Singer-Songwriterin</subtitle>
         <track>Music</track>
@@ -9280,7 +9309,7 @@ Fussel - followed by bad luck, he is not only our all-rounder for the realizatio
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10130-peter_klohmann</slug>
+        <slug>35C3-ABFahrplan-10130-peter_klohmann</slug>
         <title>Peter Klohmann</title>
         <subtitle>Jazz</subtitle>
         <track>Music</track>
@@ -9318,7 +9347,7 @@ Gründet 2009 die Konzertreihe „Junge Szene Frankfurt“&#13;
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10088-jeanette_tresbien</slug>
+        <slug>35C3-ABFahrplan-10088-jeanette_tresbien</slug>
         <title>Jeanette Trèsbien</title>
         <subtitle>Part 1</subtitle>
         <track>Music</track>
@@ -9343,7 +9372,7 @@ Gründet 2009 die Konzertreihe „Junge Szene Frankfurt“&#13;
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10131-zso_co</slug>
+        <slug>35C3-ABFahrplan-10131-zso_co</slug>
         <title>Zso &amp; Co.</title>
         <subtitle>live! ukulele</subtitle>
         <track>Music</track>
@@ -9370,7 +9399,7 @@ Currently, she is touring Germany with her dad, _djura_ who is a musician and a 
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10132-jeanette_tresbien</slug>
+        <slug>35C3-ABFahrplan-10132-jeanette_tresbien</slug>
         <title>Jeanette Trèsbien</title>
         <subtitle>Part 2</subtitle>
         <track>Music</track>
@@ -9395,7 +9424,7 @@ Currently, she is touring Germany with her dad, _djura_ who is a musician and a 
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10053-air_cushion_finish</slug>
+        <slug>35C3-ABFahrplan-10053-air_cushion_finish</slug>
         <title>Air Cushion Finish</title>
         <subtitle>Impromptu, Acousmatic, Ambient, Krautrock,</subtitle>
         <track>Music</track>
@@ -9427,7 +9456,7 @@ This rather poetic note about their separation from cemented structures &amp; st
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10079-michelson</slug>
+        <slug>35C3-ABFahrplan-10079-michelson</slug>
         <title>Michelson</title>
         <subtitle>Part 1</subtitle>
         <track>Music</track>
@@ -9458,7 +9487,7 @@ magical! &#13;
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10060-vai</slug>
+        <slug>35C3-ABFahrplan-10060-vai</slug>
         <title>Vai</title>
         <subtitle>Experimental Electronics Live Set</subtitle>
         <track>Music</track>
@@ -9483,7 +9512,7 @@ magical! &#13;
         <start>23:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10133-michelson</slug>
+        <slug>35C3-ABFahrplan-10133-michelson</slug>
         <title>Michelson</title>
         <subtitle>Part 2</subtitle>
         <track>Music</track>
@@ -9514,7 +9543,7 @@ magical! &#13;
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10081-leafar_legov</slug>
+        <slug>35C3-ABFahrplan-10081-leafar_legov</slug>
         <title> Leafar Legov </title>
         <subtitle>Ambient</subtitle>
         <track>Music</track>
@@ -9539,7 +9568,7 @@ magical! &#13;
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10134-pacheko_b2b_oliotronix</slug>
+        <slug>35C3-ABFahrplan-10134-pacheko_b2b_oliotronix</slug>
         <title>Pacheko b2b Oliotronix</title>
         <subtitle>Techno/Rave</subtitle>
         <track>Music</track>
@@ -9576,7 +9605,7 @@ Crux, London</description>
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10061-sudseemelodien</slug>
+        <slug>35C3-ABFahrplan-10061-sudseemelodien</slug>
         <title>Südseemelodien</title>
         <subtitle>Finest Hawaii Bar Sounds</subtitle>
         <track>Music</track>
@@ -9601,14 +9630,16 @@ Crux, London</description>
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10063-shikoba</slug>
-        <title> Shikoba</title>
-        <subtitle>Diverse Music</subtitle>
+        <slug>35C3-ABFahrplan-10063-shikoba</slug>
+        <title> SHIKOBA</title>
+        <subtitle>Krautrock, Experimental, Techno</subtitle>
         <track>Music</track>
         <type>djset</type>
         <language>en</language>
-        <abstract>Shikoba runs the Planet Almanac label from Leipzig and is involved with local club startup mjut.</abstract>
-        <description/>
+        <abstract>SHIKOBA, real name Adem Zor, creative mind behind the interstellar label Planet Almanac, collaborates with Don't DJ and Iku Sakan, varies in his DJ sets in the hypnotic tension field between Krautrock, Experimental and Techno. Juggling with the sound aesthetics appeals to him the most. Dance Music, which transfers the club night's escapism to a more artistic than functional level.</abstract>
+        <description>Loops, rhythms and sound aesthetics are the three key words with which his sets can be described. Natural sounds combined with digital synthesis, using the listener as a medium to close the gap between these two.&#13;
+&#13;
+He himself understands his sets as experienceable ideas, which are presented and carried forward by the experiencer and be thougt even further.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -9626,7 +9657,7 @@ Crux, London</description>
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10073-alexa_d_saster</slug>
+        <slug>35C3-ABFahrplan-10073-alexa_d_saster</slug>
         <title> Alexa D!saster </title>
         <subtitle>Musical oxymorons</subtitle>
         <track>Music</track>
@@ -9664,12 +9695,12 @@ In addition to her music, Alexa is working as comic artist  and web designer.</a
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10087-please_talk_softly</slug>
+        <slug>35C3-ABFahrplan-10087-please_talk_softly</slug>
         <title>Please Talk Softly</title>
         <subtitle>Diverse Music</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract>Con Han Hop, mjut / Leipzig</abstract>
         <description/>
         <recording>
@@ -9689,7 +9720,7 @@ In addition to her music, Alexa is working as comic artist  and web designer.</a
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10084-cornelius_niki_nebel</slug>
+        <slug>35C3-ABFahrplan-10084-cornelius_niki_nebel</slug>
         <title> Cornelius &amp; Niki Nebel</title>
         <subtitle>Diverse Music</subtitle>
         <track>Music</track>
@@ -9715,7 +9746,7 @@ In addition to her music, Alexa is working as comic artist  and web designer.</a
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10117-dj_samantha</slug>
+        <slug>35C3-ABFahrplan-10117-dj_samantha</slug>
         <title>DJ Samantha</title>
         <subtitle>Music for non places</subtitle>
         <track>Music</track>
@@ -14344,12 +14375,12 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10170-fairy_dust</slug>
-        <title>Fairy Dust</title>
-        <subtitle/>
+        <slug>35C3-ABFahrplan-10170-fairy_dust_-_day3</slug>
+        <title>Fairy Dust - Day3</title>
+        <subtitle>Rocket Away</subtitle>
         <track>Music</track>
         <type>other</type>
-        <language/>
+        <language>en</language>
         <abstract>Modify the Fairy Dust</abstract>
         <description>After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.&#13;
 &#13;
@@ -14359,7 +14390,9 @@ In the hours between 2 pm and 5 pm on the days of the congress, there will be ac
 &#13;
 Enjoy!&#13;
 &#13;
-</description>
+Powered by PENTAKLON und Rico Rose &#13;
+&#13;
+Contact: privatlehrer[at]gmail[:]com</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -14377,7 +14410,7 @@ Enjoy!&#13;
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10048-demoscene_time_machine</slug>
+        <slug>35C3-ABFahrplan-10048-demoscene_time_machine</slug>
         <title>Demoscene Time Machine</title>
         <subtitle>Melodic bleepy &amp; fakebit music</subtitle>
         <track>Music</track>
@@ -14407,7 +14440,7 @@ Enjoy!&#13;
         <start>19:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10042-viktor_talking_machine</slug>
+        <slug>35C3-ABFahrplan-10042-viktor_talking_machine</slug>
         <title>Viktor Talking Machine</title>
         <subtitle>House</subtitle>
         <track>Music</track>
@@ -14435,7 +14468,7 @@ Shortly before the Tibetan Highlands, a small clearing, dressed with black fern 
         <start>21:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10052-maurizio_schmitz</slug>
+        <slug>35C3-ABFahrplan-10052-maurizio_schmitz</slug>
         <title> Maurizio Schmitz</title>
         <subtitle>Techno/House</subtitle>
         <track>Music</track>
@@ -14481,7 +14514,7 @@ So, to summarise, Sicilan passion met German techno and spat out the Dj Maurizio
         <start>23:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10075-dominik_eulberg</slug>
+        <slug>35C3-ABFahrplan-10075-dominik_eulberg</slug>
         <title>Dominik Eulberg</title>
         <subtitle>Techno/Trance/Rave</subtitle>
         <track>Music</track>
@@ -14509,7 +14542,7 @@ In 2007 Dominik was awarded the "Preis der deutschen Schallplattenkritik" for hi
         <start>01:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10044-der_dritte_raum</slug>
+        <slug>35C3-ABFahrplan-10044-der_dritte_raum</slug>
         <title>Der Dritte Raum</title>
         <subtitle>Techno/Trance</subtitle>
         <track>Music</track>
@@ -14545,7 +14578,7 @@ However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a 
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10076-super_flu</slug>
+        <slug>35C3-ABFahrplan-10076-super_flu</slug>
         <title>Super Flu</title>
         <subtitle>Progressive House</subtitle>
         <track>Music</track>
@@ -14571,7 +14604,7 @@ However far-flung his gigs, or wide-ranging his ideas, Andreas is grounded by a 
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10070-rk9</slug>
+        <slug>35C3-ABFahrplan-10070-rk9</slug>
         <title>RK9</title>
         <subtitle>Joeri Jungschlager, EDM/Drum&amp;Bass/Breakcore</subtitle>
         <track>Music</track>
@@ -14618,12 +14651,12 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10149-rudi_stoher</slug>
+        <slug>35C3-ABFahrplan-10149-rudi_stoher</slug>
         <title>Rudi Stöher</title>
         <subtitle>Ask Ronny Kraftfuttermischwerk.</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -14643,12 +14676,12 @@ Open DJ or oDJ project is a project that aims to build a fully open source table
         <start>12:00</start>
         <duration>03:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10150-patstyx</slug>
+        <slug>35C3-ABFahrplan-10150-patstyx</slug>
         <title>Patstyx</title>
         <subtitle>Looking forward to Schuppi</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract>Patstyx aka Schuppi war schon Sysadmin als man noch beim Internet angerufen hat - er zog weg, nach Halle, in Congressnähe. Legte schon immer auf, macht Podcasts und Drum´n Bass Events und wir freuen uns auf Schuppi.&#13;
 &#13;
 Patstyx was already sysadmin when you called the Internet, by dialing a number on moms phone - he moved away, to Halle, near the congress. Allways deejayed, does podcasts and Drum´n Bass events and we are looking forward to Schuppi.</abstract>
@@ -14670,7 +14703,7 @@ Patstyx was already sysadmin when you called the Internet, by dialing a number o
         <start>15:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10151-e</slug>
+        <slug>35C3-ABFahrplan-10151-e</slug>
         <title>ë</title>
         <subtitle>Legend AV-set</subtitle>
         <track>Music</track>
@@ -14695,12 +14728,12 @@ Patstyx was already sysadmin when you called the Internet, by dialing a number o
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10163-umbaumusik</slug>
+        <slug>35C3-ABFahrplan-10163-umbaumusik</slug>
         <title>Umbaumusik</title>
         <subtitle>Mr. G &amp; Mr. Mo</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -14718,7 +14751,7 @@ Patstyx was already sysadmin when you called the Internet, by dialing a number o
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10152-eulberg_spock</slug>
+        <slug>35C3-ABFahrplan-10152-eulberg_spock</slug>
         <title>Eulberg &amp; Spock</title>
         <subtitle>Fledermausmusik</subtitle>
         <track>Music</track>
@@ -14744,12 +14777,12 @@ Die Geräusche der Fledermäuse werden hörbar in Musik umgewandelt und gestream
         <start>19:00</start>
         <duration>03:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10153-kfmw</slug>
+        <slug>35C3-ABFahrplan-10153-kfmw</slug>
         <title>kfmw</title>
         <subtitle>Irgendwelche Fragen?</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Das Kraftfuttermischwerk. Srlsy? Ihr kennt Ronny nich? Bester Mumpelkollege, Chillflaggenhochhalter, hat auch ein tollen Myspaceaccount.&#13;
 &#13;
@@ -14771,12 +14804,12 @@ Das Kraftfuttermischwerk. Srlsy? You don't know Ronny? Best mate, chilloutmusic 
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10154-saetchmo</slug>
+        <slug>35C3-ABFahrplan-10154-saetchmo</slug>
         <title>Saetchmo.</title>
         <subtitle>1000 Echochambers</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Sätche ist sowas von Teil der Familie - seine Echochamber läuft regelmässig in der c-base, er fährt ne alte Feuerwehr und wer ihm krummkommt, merkt das schon.&#13;
 &#13;
@@ -14787,7 +14820,7 @@ Sätchmoe is sooo part of the family - his Echochamber runs regularly in the c-b
         </recording>
         <persons/>
         <links>
-          <link href="https://www.saetche.net/blog/ ">https://www.saetche.net/blog/</link>
+          <link href="https://www.saetche.net/blog/">https://www.saetche.net/blog/</link>
         </links>
         <attachments/>
       </event>
@@ -14798,12 +14831,12 @@ Sätchmoe is sooo part of the family - his Echochamber runs regularly in the c-b
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10155-kons_t_il</slug>
+        <slug>35C3-ABFahrplan-10155-kons_t_il</slug>
         <title>kons[t]il</title>
         <subtitle>Till &amp; Konsti, zwei Seelenverwandte begegnen einander.</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Till &amp; Konsti, zwei Seelenverwandte begegnen einander. Diese zwei Jungs aus Berlin, finden sich um  einen Sound zu kreieren, ihre Stimmungen und Erfahrungen in unverwechselbare Sounds zu verpacken, durchlaufen verschiedenste Facetten der elektronischen Tanzmusik... Sumseln sich durch das Dickicht des Deep-House Waldes, das Ziel...  Back to the roots, um sich zu einem großen Ganzen zu vereinen, unabhängig von Zeit und Raum tanzen wir schwerelos durch die Unendlichkeit.&#13;
 &#13;
@@ -14825,12 +14858,12 @@ Till &amp; Konsti, two soul mates meet each other, these two boys from Berlin fi
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10156-404_tba_aka_marillion</slug>
+        <slug>35C3-ABFahrplan-10156-404_tba_aka_marillion</slug>
         <title>404 tba aka Marillion</title>
         <subtitle>More to be and let go.</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Swiss bliss &amp; HH Adel</description>
         <recording>
@@ -14848,12 +14881,12 @@ Till &amp; Konsti, two soul mates meet each other, these two boys from Berlin fi
         <start>04:00</start>
         <duration>03:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10157-lord_spreadpoint</slug>
+        <slug>35C3-ABFahrplan-10157-lord_spreadpoint</slug>
         <title>Lord Spreadpoint</title>
         <subtitle>Audio Visual Set</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description>Siegfried Kärcher (1974/Force Inc.) wurde in die Zeit der Heimcomputer hineingeboren. Nach Atari VCS 2600 folgte der C64 und dann der Commodore Amiga und einige Berühmtheit in der Hacker/Cracker- und Demoszene. Er ist Mitglied des Computerkollektivs Spreadpoint. Der nahe gelegene Techno Club in Frankfurt, wo seit Anfang der 80er Techno erfunden wurde, wirkte ebenso stilprägend.&#13;
 In den Anfangstagen gab es noch keine strikte Trennung der elektronischen Musikstile und so erlebte Kärcher von piepsenden Konsolen und chiptunigen Heimcomputern wie dem C64, harter EBM, über Midifizierung der Tonstudios durch den Atari ST, Harddiskrecording, Kommerzialisierung und Ausverkauf des Technos eigentlich alle wichtigen Entwicklungsschritte mit.&#13;
@@ -14884,7 +14917,7 @@ On the 35c3 Siegfried Kärcher takes us on a journey of sound into technoid ambi
         <start>14:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10148-rote_schule_music_workshop</slug>
+        <slug>35C3-ABFahrplan-10148-rote_schule_music_workshop</slug>
         <title>Rote Schule Music Workshop</title>
         <subtitle>Workshop/Performance</subtitle>
         <track>Music</track>
@@ -14907,7 +14940,7 @@ On the 35c3 Siegfried Kärcher takes us on a journey of sound into technoid ambi
         <start>15:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10135-riley</slug>
+        <slug>35C3-ABFahrplan-10135-riley</slug>
         <title>Riley</title>
         <subtitle>Dance performance</subtitle>
         <track>Music</track>
@@ -14930,7 +14963,7 @@ On the 35c3 Siegfried Kärcher takes us on a journey of sound into technoid ambi
         <start>16:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10057-window_magic</slug>
+        <slug>35C3-ABFahrplan-10057-window_magic</slug>
         <title> Window Magic</title>
         <subtitle>Ambient/Experimental</subtitle>
         <track>Music</track>
@@ -14958,7 +14991,7 @@ On the 35c3 Siegfried Kärcher takes us on a journey of sound into technoid ambi
         <start>17:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10050-sevensol</slug>
+        <slug>35C3-ABFahrplan-10050-sevensol</slug>
         <title>Sevensol</title>
         <subtitle>Part 1</subtitle>
         <track>Music</track>
@@ -14986,7 +15019,7 @@ Aside from his former work in recordshops, Dj-ing since ages and releasing new m
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10080-ana_bogner</slug>
+        <slug>35C3-ABFahrplan-10080-ana_bogner</slug>
         <title>Ana Bogner</title>
         <subtitle>Experimental/Ambient</subtitle>
         <track>Music</track>
@@ -15016,7 +15049,7 @@ In 2019 there will be the release of 1967/People in collaboration with Arpen.</d
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10136-sevensol</slug>
+        <slug>35C3-ABFahrplan-10136-sevensol</slug>
         <title>Sevensol</title>
         <subtitle>Part 2</subtitle>
         <track>Music</track>
@@ -15044,7 +15077,7 @@ Aside from his former work in recordshops, Dj-ing since ages and releasing new m
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10090-esmark</slug>
+        <slug>35C3-ABFahrplan-10090-esmark</slug>
         <title>Esmark</title>
         <subtitle>Dark Drone Landscapes </subtitle>
         <track>Music</track>
@@ -15078,7 +15111,7 @@ unafraid to showcase ambitious and inventive music. Away from Kraniche, Alsen Ra
         <start>21:00</start>
         <duration>02:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10056-electric_kool_aid</slug>
+        <slug>35C3-ABFahrplan-10056-electric_kool_aid</slug>
         <title> Electric Kool Aid</title>
         <subtitle>Deeptech</subtitle>
         <track>Music</track>
@@ -15105,11 +15138,11 @@ Having worked in event-, label- and artist management, in both the underground a
         <start>23:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10119-crasser_sauer</slug>
+        <slug>35C3-ABFahrplan-10119-crasser_sauer</slug>
         <title>Crasser &amp; Sauer</title>
-        <subtitle>Experimental Electronics Live Set</subtitle>
+        <subtitle>Experimental Electronics</subtitle>
         <track>Music</track>
-        <type>other</type>
+        <type>concert</type>
         <language>en</language>
         <abstract>Electroaccoustic interplay between the Leipzig-based musicians Judith Crasser &amp; Adam Sauer, both representing the local Pracht collective, an association and venue dedicated to extraordinarities in sound and beyond. In their dialogic live-perfomance they investigate the relations between sonic reality and synthesized fiction, dynamically combining elements of Musique Concrete, Industrial, Glitch and Free Improvisation.</abstract>
         <description/>
@@ -15131,7 +15164,7 @@ Having worked in event-, label- and artist management, in both the underground a
         <start>00:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10089-rodion_levin</slug>
+        <slug>35C3-ABFahrplan-10089-rodion_levin</slug>
         <title>Rodion Levin</title>
         <subtitle>Techno</subtitle>
         <track>Music</track>
@@ -15156,7 +15189,7 @@ Having worked in event-, label- and artist management, in both the underground a
         <start>01:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10047-niklas_wandt</slug>
+        <slug>35C3-ABFahrplan-10047-niklas_wandt</slug>
         <title>Niklas Wandt</title>
         <subtitle>Part 1</subtitle>
         <track>Music</track>
@@ -15185,7 +15218,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>02:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10078-nkls</slug>
+        <slug>35C3-ABFahrplan-10078-nkls</slug>
         <title>nkls</title>
         <subtitle>Synths &amp; Stuff</subtitle>
         <track>Music</track>
@@ -15212,12 +15245,12 @@ why not crying for a miracle ?</abstract>
         <start>03:00</start>
         <duration>01:00</duration>
         <room>Compeiler</room>
-        <slug>35c3-lineup-10092-niklas_wandt</slug>
+        <slug>35C3-ABFahrplan-10092-niklas_wandt</slug>
         <title>Niklas Wandt</title>
         <subtitle>Part 2</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract>Deeply inhaling rock music, then hiphop and, maybe most significantly jazz from an early age, collecting music has been Niklas’ favorite pastime since way back when. Starting to dj was then really just a process of making public and formatting a bit what had been going on at home anyways – with as little care for genre and imposed boundaries as possible, you’ll find Niklas aka Franco DJ play a diverse range of fringe dance musics from percussion and library records, disco and boogie tunes, spiritual jazz, No Wave, far out Kosmische and, yes, some roughed up house music. In Berlin, he regularly throws a party dedicated to genre-defying dances named SMELLS in various locations such as Sameheads and Loophole. &#13;
 Guests thus far include Jan Schulte, Retrogott, Basso, Philipp Otterbach, Jules, Twit One, Katzele among others. As a DJ, Niklas was heard at the Salon Des Amateurs, Düsseldorf, in Berlin at KaterBlau, JohnnyKnüppel, Klunkerkranich and Sisyphos, at the Teder/Romano in Tel Aviv and over the airwaves of LYL Radio, Redlight Radio and Cashmere Radio.&#13;
 &#13;
@@ -15243,7 +15276,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10138-chiara</slug>
+        <slug>35C3-ABFahrplan-10138-chiara</slug>
         <title>Chiara</title>
         <subtitle/>
         <track>Music</track>
@@ -15266,7 +15299,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10139-faheus</slug>
+        <slug>35C3-ABFahrplan-10139-faheus</slug>
         <title>faheus</title>
         <subtitle/>
         <track>Music</track>
@@ -15291,7 +15324,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>18:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10140-morellion</slug>
+        <slug>35C3-ABFahrplan-10140-morellion</slug>
         <title>Morellion</title>
         <subtitle>Techno</subtitle>
         <track>Music</track>
@@ -15314,7 +15347,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>20:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10055-dj_t_shaba</slug>
+        <slug>35C3-ABFahrplan-10055-dj_t_shaba</slug>
         <title>DJ T´shaba</title>
         <subtitle>Electro-Kraut &amp; Cosmic-Shit</subtitle>
         <track>Music</track>
@@ -15337,7 +15370,7 @@ Also catch him at his monthly bar residencies at Heiner/Weserstr. 58 in Berlin-N
         <start>22:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10054-naroma</slug>
+        <slug>35C3-ABFahrplan-10054-naroma</slug>
         <title>Naroma</title>
         <subtitle>Downtempo</subtitle>
         <track>Music</track>
@@ -15367,7 +15400,7 @@ And then as a performer, there are Naroma’s 8-hour closing sets at Fusion. Tha
         <start>00:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10072-bambi_de_luxe</slug>
+        <slug>35C3-ABFahrplan-10072-bambi_de_luxe</slug>
         <title>bambi de luxe</title>
         <subtitle>Electronica/Downtempo</subtitle>
         <track>Music</track>
@@ -17650,12 +17683,12 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10171-fairy_dust</slug>
-        <title>Fairy Dust</title>
-        <subtitle/>
+        <slug>35C3-ABFahrplan-10171-fairy_dust_-_day4</slug>
+        <title>Fairy Dust - Day4</title>
+        <subtitle>Rocket Away</subtitle>
         <track>Music</track>
         <type>other</type>
-        <language/>
+        <language>en</language>
         <abstract>Modify the Fairy Dust</abstract>
         <description>After standing in the cold rain and snow for too long, the Fairy Dust will find its place this time in the middle of the crowd at hall 5. A video installation will take place on the surface. This is a call for people, who can handle c4d files and have the bravery to put their vision on the symbol of the congress.&#13;
 &#13;
@@ -17665,7 +17698,9 @@ In the hours between 2 pm and 5 pm on the days of the congress, there will be ac
 &#13;
 Enjoy!&#13;
 &#13;
-</description>
+Powered by PENTAKLON und Rico Rose &#13;
+&#13;
+Contact: privatlehrer[at]gmail[:]com</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -17683,7 +17718,7 @@ Enjoy!&#13;
         <start>18:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10141-bobopk</slug>
+        <slug>35C3-ABFahrplan-10141-bobopk</slug>
         <title>BoboPK</title>
         <subtitle>Game Boy Live!</subtitle>
         <track>Music</track>
@@ -17706,7 +17741,7 @@ Enjoy!&#13;
         <start>19:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10142-exoboom</slug>
+        <slug>35C3-ABFahrplan-10142-exoboom</slug>
         <title>Exoboom</title>
         <subtitle>Techno</subtitle>
         <track>Music</track>
@@ -17737,7 +17772,7 @@ You don´t want to miss us firing up that thing!</abstract>
         <start>20:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10143-onetake_perm</slug>
+        <slug>35C3-ABFahrplan-10143-onetake_perm</slug>
         <title>Onetake &amp; Perm</title>
         <subtitle>Part 1</subtitle>
         <track>Music</track>
@@ -17763,7 +17798,7 @@ You don´t want to miss us firing up that thing!</abstract>
         <start>21:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10064-disrupt</slug>
+        <slug>35C3-ABFahrplan-10064-disrupt</slug>
         <title>Disrupt</title>
         <subtitle>DigiDub</subtitle>
         <track>Music</track>
@@ -17795,7 +17830,7 @@ With his highly immersive SciFi adventure album “Omega Station” disrupt is s
         <start>22:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10144-onetake_perm</slug>
+        <slug>35C3-ABFahrplan-10144-onetake_perm</slug>
         <title>Onetake &amp; Perm</title>
         <subtitle>Part 2</subtitle>
         <track>Music</track>
@@ -17821,7 +17856,7 @@ With his highly immersive SciFi adventure album “Omega Station” disrupt is s
         <start>23:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10059-t-data</slug>
+        <slug>35C3-ABFahrplan-10059-t-data</slug>
         <title>T-Data</title>
         <subtitle>Bass</subtitle>
         <track>Music</track>
@@ -17846,7 +17881,7 @@ With his highly immersive SciFi adventure album “Omega Station” disrupt is s
         <start>01:00</start>
         <duration>01:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10065-ruz</slug>
+        <slug>35C3-ABFahrplan-10065-ruz</slug>
         <title>RUZ</title>
         <subtitle>Jungle/Bass/Rave</subtitle>
         <track>Music</track>
@@ -17875,7 +17910,7 @@ For fans of 90's oldschool Jungle &amp; newly modern Drum and Bass movements.</d
         <start>02:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10043-ingo_boss</slug>
+        <slug>35C3-ABFahrplan-10043-ingo_boss</slug>
         <title>Ingo Boss</title>
         <subtitle>Techno</subtitle>
         <track>Music</track>
@@ -17904,7 +17939,7 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>04:00</start>
         <duration>02:00</duration>
         <room>Discodrama</room>
-        <slug>35c3-lineup-10040-tschunkelmusik</slug>
+        <slug>35C3-ABFahrplan-10040-tschunkelmusik</slug>
         <title>Tschunkelmusik</title>
         <subtitle>Techno/House</subtitle>
         <track>Music</track>
@@ -17932,12 +17967,12 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>10:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10158-nuts</slug>
+        <slug>35C3-ABFahrplan-10158-nuts</slug>
         <title>Nuts.</title>
         <subtitle>Let*s go ahead.</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -17955,12 +17990,12 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>12:00</start>
         <duration>02:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10159-franz</slug>
+        <slug>35C3-ABFahrplan-10159-franz</slug>
         <title>Franz</title>
         <subtitle>Not knowing (ich weiß es doch auch nicht)</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -17978,12 +18013,12 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>14:00</start>
         <duration>03:00</duration>
         <room>Shutter Island</room>
-        <slug>35c3-lineup-10160-lord_spreadpoint</slug>
+        <slug>35C3-ABFahrplan-10160-lord_spreadpoint</slug>
         <title>Lord/Spreadpoint</title>
         <subtitle>Closing</subtitle>
         <track>Music</track>
         <type>djset</type>
-        <language/>
+        <language>en</language>
         <abstract/>
         <description/>
         <recording>
@@ -18006,7 +18041,7 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>14:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10145-jaycee</slug>
+        <slug>35C3-ABFahrplan-10145-jaycee</slug>
         <title>Jaycee</title>
         <subtitle>House/Techno</subtitle>
         <track>Music</track>
@@ -18031,7 +18066,7 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <start>16:00</start>
         <duration>02:00</duration>
         <room>Uptime Bar</room>
-        <slug>35c3-lineup-10046-juli_jane</slug>
+        <slug>35C3-ABFahrplan-10046-juli_jane</slug>
         <title>Juli Jane</title>
         <subtitle>Techno/Tech House/Deep House</subtitle>
         <track>Music</track>
