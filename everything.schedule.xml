@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:10</version>
+  <version>Love Boat 3 2.0 v2.5 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17550,7 +17550,9 @@ However, it's not always easy...</description>
         <language>de</language>
         <abstract/>
         <description>Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Flysch">Flysch</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion</link>
         </links>
@@ -23203,6 +23205,44 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:10_Journeys_of_an_Asian_Open_Source_Community</link>
         </links>
       </event>
+      <event id="1469" guid="a0195f15-07f8-49a2-a38d-bf641359cd82">
+        <logo/>
+        <date>2018-12-29T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1469-session_church_of_monero_live_mass</slug>
+        <title>Church of Monero Live Mass</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>The Church of Monero holds weekly "Masses" where other disciples of privacy send each other a small amount of Monero in a circle-of-trust "Ring Ritual".</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Live_Mass</link>
+        </links>
+      </event>
+      <event id="1470" guid="c9d935ae-f0cf-4fd6-9e81-888ee82e6197">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:40</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1470-session_church_of_monero_talk</slug>
+        <title>Church of Monero Talk</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>What inspired the Church of Monero? What is the purpose of the Church of Monero?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Talk</link>
+        </links>
+      </event>
       <event id="1462" guid="5df21098-fe17-444b-a16c-b7e14b8063af">
         <logo/>
         <date>2018-12-29T13:30:00+01:00</date>
@@ -23221,6 +23261,25 @@ Freifunk since 2003</biography>
         <links>
           <link>https://paralelnapolis.sk/blog/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_run_your_life,_your_non-profit_or_your_business_on_crypto</link>
+        </links>
+      </event>
+      <event id="1471" guid="c3d0ab4e-9165-4a0a-96bf-af9faf897c19">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1471-session_introduction_to_zeronet</slug>
+        <title>Introduction to Zeronet</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Helping people instll Zeronet and understanding how it works</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Zeronet</link>
         </links>
       </event>
       <event id="1465" guid="91354df9-70af-427c-9e30-0a69e929b3eb">
@@ -23322,6 +23381,25 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
         </links>
       </event>
+      <event id="1472" guid="f5202efb-2199-4004-928e-e827a9742449">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1472-session_private_key_management_with_a_hardware_wallet_</slug>
+        <title>Private Key management with a hardware wallet.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Using HD capable hardware wallet for SSH and PGP.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Private_Key_management_with_a_hardware_wallet.</link>
+        </links>
+      </event>
       <event id="1463" guid="e226f719-e38f-412b-8e64-92c21d255401">
         <logo/>
         <date>2018-12-29T12:30:00+01:00</date>
@@ -23342,6 +23420,25 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSI.AI:_An_Open_Source_Platform_for_Conversational_Web</link>
         </links>
       </event>
+      <event id="1473" guid="846348be-ba87-40c8-8d60-60d1809b04ad">
+        <logo/>
+        <date>2018-12-29T13:15:00+01:00</date>
+        <start>13:15</start>
+        <duration>1:40</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1473-session_smart_contract_hacking</slug>
+        <title>Smart Contract Hacking</title>
+        <subtitle>This workshop assumes basic knowledge of solidity.</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Hack your first solidity smart contracts</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Smart_Contract_Hacking</link>
+        </links>
+      </event>
       <event id="1468" guid="b1d65387-e412-40f5-838f-f2f7716e46a3">
         <logo/>
         <date>2018-12-29T15:30:00+01:00</date>
@@ -23359,6 +23456,25 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons</link>
+        </links>
+      </event>
+      <event id="1474" guid="180dd218-7b9c-4277-acb7-b89daa45b14a">
+        <logo/>
+        <date>2018-12-29T16:45:00+01:00</date>
+        <start>16:45</start>
+        <duration>0:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1474-session_user_testing_the_post_tor_katzenpost_mix_network</slug>
+        <title>User-testing the post-Tor Katzenpost mix-network</title>
+        <subtitle>Can you get it working on your laptop or phone?</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Can you get it working on your laptop or phone?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network</link>
         </links>
       </event>
     </room>
@@ -26083,45 +26199,6 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
       </event>
     </room>
     <room name="Sendetisch">
-      <event id="426" guid="b9d7c464-6660-563e-8df9-79cb0b8df68d">
-        <logo/>
-        <date>2018-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:45</duration>
-        <room>Sendetisch</room>
-        <slug>89AJLS</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/89AJLS</url>
-        <title>Einen Punkt machen. Tabu Tod.</title>
-        <subtitle/>
-        <track/>
-        <type>Sendetisch</type>
-        <language>de</language>
-        <abstract>Podcast um die Themen Tod, Sterben und Trauer, im Analogen und Digitalen.</abstract>
-        <description>Der Talk ist eine Kurzfassung von oder besser ein Tease auf ein Konzept für eine Hörserie.&#13;
-"Ars Moriendi oder die Kunst des Sterbens”&#13;
-Wer hat Angst vorm schwarzen Mann? - Alle! Und wenn er kommt? Dann läuft ihm kein Mensch davon.&#13;
-“all interest in disease and death is only another expression of interest in life.” thomas mann.&#13;
-&#13;
-...mit Tönen, Fun Funeral Facts, Melodien, Fragen! &#13;
-&#13;
-* Die Telomerase ist schuld - Warum müssen wir überhaupt nochmal sterben? Was sagen die Wissenschaften? &#13;
-* Unsterblichkeit für Anfänger. Möglichkeiten und Risiken. BSP: Ray Kurzweil - Futurist (Computer werden bis 2045 unser Gehirn in Software verwandeln)&#13;
-* Sterben im Netz: Geht das überhaupt und wenn ja, wie?&#13;
-* Wie AI und VR unsere Wahrnehmung von Leben und Tod verändern</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="27">
-            <name>mon zarella</name>
-            <biography>journalistin, weiss, weibliches pronomen, schon immer am tod interessiert</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="421" guid="1fbeb18a-d241-50e2-b13e-17a951490fe8">
         <logo/>
         <date>2018-12-30T13:00:00+01:00</date>

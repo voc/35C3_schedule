@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.2", 
+        "version": "Love Boat 3 2.0 v2.5 1.2 MemoryRefreshV1.0 1312 1.1.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -17338,37 +17338,6 @@
                             }
                         ], 
                         "Sendetisch": [
-                            {
-                                "id": 426, 
-                                "guid": "b9d7c464-6660-563e-8df9-79cb0b8df68d", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "89AJLS", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/89AJLS", 
-                                "title": "Einen Punkt machen. Tabu Tod.", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "de", 
-                                "abstract": "Podcast um die Themen Tod, Sterben und Trauer, im Analogen und Digitalen.", 
-                                "description": "Der Talk ist eine Kurzfassung von oder besser ein Tease auf ein Konzept f\u00fcr eine H\u00f6rserie.\r\n\"Ars Moriendi oder die Kunst des Sterbens\u201d\r\nWer hat Angst vorm schwarzen Mann? - Alle! Und wenn er kommt? Dann l\u00e4uft ihm kein Mensch davon.\r\n\u201call interest in disease and death is only another expression of interest in life.\u201d thomas mann.\r\n\r\n...mit T\u00f6nen, Fun Funeral Facts, Melodien, Fragen! \r\n\r\n* Die Telomerase ist schuld - Warum m\u00fcssen wir \u00fcberhaupt nochmal sterben? Was sagen die Wissenschaften? \r\n* Unsterblichkeit f\u00fcr Anf\u00e4nger. M\u00f6glichkeiten und Risiken. BSP: Ray Kurzweil - Futurist (Computer werden bis 2045 unser Gehirn in Software verwandeln)\r\n* Sterben im Netz: Geht das \u00fcberhaupt und wenn ja, wie?\r\n* Wie AI und VR unsere Wahrnehmung von Leben und Tod ver\u00e4ndern", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 27, 
-                                        "name": "mon zarella", 
-                                        "biography": "journalistin, weiss, weibliches pronomen, schon immer am tod interessiert", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
                             {
                                 "id": 421, 
                                 "guid": "1fbeb18a-d241-50e2-b13e-17a951490fe8", 

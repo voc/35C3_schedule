@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:10", 
+        "version": "Love Boat 3 2.0 v2.5 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -18682,7 +18682,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Flysch", 
+                                        "public_name": "Flysch"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion"
                                 ]
@@ -24541,6 +24547,48 @@
                                 ]
                             }, 
                             {
+                                "id": 1469, 
+                                "guid": "a0195f15-07f8-49a2-a38d-bf641359cd82", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "0:30", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1469-session_church_of_monero_live_mass", 
+                                "title": "Church of Monero Live Mass", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The Church of Monero holds weekly \"Masses\" where other disciples of privacy send each other a small amount of Monero in a circle-of-trust \"Ring Ritual\".", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Live_Mass"
+                                ]
+                            }, 
+                            {
+                                "id": 1470, 
+                                "guid": "c9d935ae-f0cf-4fd6-9e81-888ee82e6197", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "0:40", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1470-session_church_of_monero_talk", 
+                                "title": "Church of Monero Talk", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "What inspired the Church of Monero? What is the purpose of the Church of Monero?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Talk"
+                                ]
+                            }, 
+                            {
                                 "id": 1462, 
                                 "guid": "5df21098-fe17-444b-a16c-b7e14b8063af", 
                                 "logo": null, 
@@ -24560,6 +24608,27 @@
                                 "links": [
                                     "https://paralelnapolis.sk/blog/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_run_your_life,_your_non-profit_or_your_business_on_crypto"
+                                ]
+                            }, 
+                            {
+                                "id": 1471, 
+                                "guid": "c3d0ab4e-9165-4a0a-96bf-af9faf897c19", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:45", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1471-session_introduction_to_zeronet", 
+                                "title": "Introduction to Zeronet", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Helping people instll Zeronet and understanding how it works", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Zeronet"
                                 ]
                             }, 
                             {
@@ -24672,6 +24741,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1472, 
+                                "guid": "f5202efb-2199-4004-928e-e827a9742449", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1472-session_private_key_management_with_a_hardware_wallet_", 
+                                "title": "Private Key management with a hardware wallet.", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Using HD capable hardware wallet for SSH and PGP.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Private_Key_management_with_a_hardware_wallet."
+                                ]
+                            }, 
+                            {
                                 "id": 1463, 
                                 "guid": "e226f719-e38f-412b-8e64-92c21d255401", 
                                 "logo": null, 
@@ -24694,6 +24784,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1473, 
+                                "guid": "846348be-ba87-40c8-8d60-60d1809b04ad", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:15:00+01:00", 
+                                "start": "13:15", 
+                                "duration": "1:40", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1473-session_smart_contract_hacking", 
+                                "title": "Smart Contract Hacking", 
+                                "subtitle": "This workshop assumes basic knowledge of solidity.", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Hack your first solidity smart contracts", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Smart_Contract_Hacking"
+                                ]
+                            }, 
+                            {
                                 "id": 1468, 
                                 "guid": "b1d65387-e412-40f5-838f-f2f7716e46a3", 
                                 "logo": null, 
@@ -24712,6 +24823,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons"
+                                ]
+                            }, 
+                            {
+                                "id": 1474, 
+                                "guid": "180dd218-7b9c-4277-acb7-b89daa45b14a", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:45:00+01:00", 
+                                "start": "16:45", 
+                                "duration": "0:30", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1474-session_user_testing_the_post_tor_katzenpost_mix_network", 
+                                "title": "User-testing the post-Tor Katzenpost mix-network", 
+                                "subtitle": "Can you get it working on your laptop or phone?", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Can you get it working on your laptop or phone?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network"
                                 ]
                             }
                         ], 
@@ -27723,37 +27855,6 @@
                             }
                         ], 
                         "Sendetisch": [
-                            {
-                                "id": 426, 
-                                "guid": "b9d7c464-6660-563e-8df9-79cb0b8df68d", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "89AJLS", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/89AJLS", 
-                                "title": "Einen Punkt machen. Tabu Tod.", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "de", 
-                                "abstract": "Podcast um die Themen Tod, Sterben und Trauer, im Analogen und Digitalen.", 
-                                "description": "Der Talk ist eine Kurzfassung von oder besser ein Tease auf ein Konzept f\u00fcr eine H\u00f6rserie.\r\n\"Ars Moriendi oder die Kunst des Sterbens\u201d\r\nWer hat Angst vorm schwarzen Mann? - Alle! Und wenn er kommt? Dann l\u00e4uft ihm kein Mensch davon.\r\n\u201call interest in disease and death is only another expression of interest in life.\u201d thomas mann.\r\n\r\n...mit T\u00f6nen, Fun Funeral Facts, Melodien, Fragen! \r\n\r\n* Die Telomerase ist schuld - Warum m\u00fcssen wir \u00fcberhaupt nochmal sterben? Was sagen die Wissenschaften? \r\n* Unsterblichkeit f\u00fcr Anf\u00e4nger. M\u00f6glichkeiten und Risiken. BSP: Ray Kurzweil - Futurist (Computer werden bis 2045 unser Gehirn in Software verwandeln)\r\n* Sterben im Netz: Geht das \u00fcberhaupt und wenn ja, wie?\r\n* Wie AI und VR unsere Wahrnehmung von Leben und Tod ver\u00e4ndern", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 27, 
-                                        "name": "mon zarella", 
-                                        "biography": "journalistin, weiss, weibliches pronomen, schon immer am tod interessiert", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
                             {
                                 "id": 421, 
                                 "guid": "1fbeb18a-d241-50e2-b13e-17a951490fe8", 

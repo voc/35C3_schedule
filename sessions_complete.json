@@ -4176,7 +4176,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Flysch", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Flysch", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion"
         ], 
@@ -5225,6 +5233,108 @@
             }
         ]
     }, 
+    "Session:Church of Monero Live Mass# 71536499c2ae7998b1a88e18e730ba82": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The Church of Monero holds weekly \"Masses\" where other disciples of privacy send each other a small amount of Monero in a circle-of-trust \"Ring Ritual\"."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Church of Monero Live Mass"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "a0195f15-07f8-49a2-a38d-bf641359cd82"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Live_Mass", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Church of Monero Talk# fc605eec9601baefc4c2aedfba61f543": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "What inspired the Church of Monero? What is the purpose of the Church of Monero?"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Church of Monero Talk"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "c9d935ae-f0cf-4fd6-9e81-888ee82e6197"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Church_of_Monero_Talk", 
+        "Has end time": [
+            {
+                "timestamp": "1546108800", 
+                "raw": "1/2018/12/29/18/40/0/0"
+            }
+        ]
+    }, 
     "Session:Cidre Flows# c088ab0e16f7fa859fb69e193e239d51": {
         "Held in language": [
             "en - English"
@@ -5348,6 +5458,42 @@
                 "raw": "1/2018/12/27/23/0/0/0"
             }
         ]
+    }, 
+    "Session:Circom and snarkjs. Create a zero knowlage appiclation.# da09b37446a900e9a0f43823fe23b009": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Create a zero knowlage circuit and verify it onchain."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Circom and snarkjs. Create a zero knowlage appiclation."
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "cd54e70c-1d07-4c14-867a-2e125fb1d256"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Circom_and_snarkjs._Create_a_zero_knowlage_appiclation.", 
+        "Has end time": []
     }, 
     "Session:CoderDojo# ccae114165247093c9382bcf9342070f": {
         "Held in language": [
@@ -12382,6 +12528,57 @@
             }
         ]
     }, 
+    "Session:Introduction to Zeronet# 2f574b2100b93deebfd81661682a6177": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Helping people instll Zeronet and understanding how it works"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Introduction to Zeronet"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "c3d0ab4e-9165-4a0a-96bf-af9faf897c19"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Zeronet", 
+        "Has end time": [
+            {
+                "timestamp": "1546098300", 
+                "raw": "1/2018/12/29/15/45/0/0"
+            }
+        ]
+    }, 
     "Session:Introduction to beekeeping.# 4f90df7e365157fd1e36d8afae75dde5": {
         "Held in language": [
             "en - English", 
@@ -17933,6 +18130,57 @@
             }
         ]
     }, 
+    "Session:Private Key management with a hardware wallet.# d47e6200dafa593ce708274eeb5f1556": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Using HD capable hardware wallet for SSH and PGP."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Private Key management with a hardware wallet."
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "f5202efb-2199-4004-928e-e827a9742449"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Private_Key_management_with_a_hardware_wallet.", 
+        "Has end time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ]
+    }, 
     "Session:Probiotic Drinks Making# a8d8d4f03f3bd843359fc90a88eeea7b": {
         "Held in language": [
             "en - English"
@@ -20242,6 +20490,59 @@
             {
                 "timestamp": "1546183800", 
                 "raw": "1/2018/12/30/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Smart Contract Hacking# 29bdf5206ce6609907ed5dc7b0eb2204": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546089300", 
+                "raw": "1/2018/12/29/13/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Hack your first solidity smart contracts"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "This workshop assumes basic knowledge of solidity."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Smart Contract Hacking"
+        ], 
+        "Has duration": [
+            100
+        ], 
+        "GUID": [
+            "846348be-ba87-40c8-8d60-60d1809b04ad"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Smart_Contract_Hacking", 
+        "Has end time": [
+            {
+                "timestamp": "1546095300", 
+                "raw": "1/2018/12/29/14/55/0/0"
             }
         ]
     }, 
@@ -24082,6 +24383,59 @@
             {
                 "timestamp": "1546084800", 
                 "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ]
+    }, 
+    "Session:User-testing the post-Tor Katzenpost mix-network# abde68aa3fde5a0809edd76e6e6dfef8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546101900", 
+                "raw": "1/2018/12/29/16/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Can you get it working on your laptop or phone?"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Can you get it working on your laptop or phone?"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "User-testing the post-Tor Katzenpost mix-network"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "180dd218-7b9c-4277-acb7-b89daa45b14a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network", 
+        "Has end time": [
+            {
+                "timestamp": "1546103700", 
+                "raw": "1/2018/12/29/17/15/0/0"
             }
         ]
     }, 

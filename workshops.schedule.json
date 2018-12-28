@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 21:10", 
+        "version": "2018-12-28 21:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4071,7 +4071,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Flysch", 
+                                        "public_name": "Flysch"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion"
                                 ]
