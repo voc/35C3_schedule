@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 20181227 1.1.0</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -4996,6 +4996,39 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
           <person id="68">
             <name>shiro</name>
             <biography>I'm shiro (shiromarieke.github.io) and I work on Nextcloud :)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 5">
+      <event id="271" guid="51c9528c-1a01-5eea-abd3-3b762798bbe4">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 5</room>
+        <slug>NXGJRN</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NXGJRN</url>
+        <title>Global Innovation Gathering</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>en</language>
+        <abstract>GIG, the global network of social and technological innovators is bringing its members and their projects to the Congress for a showcase and interactive workshops</abstract>
+        <description>- will follow -</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">
+            <name>GIG – Global Innovation Gathering</name>
+            <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
+&#13;
+Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
           </person>
         </persons>
         <links/>
@@ -10245,6 +10278,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
   </day>
   <day index="3" date="2018-12-29" start="2018-12-29T11:00:00+01:00" end="2018-12-30T03:00:00+01:00">
@@ -13346,6 +13380,38 @@ Fragen....</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="314" guid="fef79e66-cab6-5fc4-b31e-dc802c46f277">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QAS33L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QAS33L</url>
+        <title>Schwarze Löcher für blutige Anfänger</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Albert Einstein hat sie vorhergesagt, bis in die 90er hinein war ihre Existenz heftig umstritten - die vielleicht verrücktesten Dinger im Universum: Schwarze Löcher.</abstract>
+        <description>Eigentlich dürften Schwarze Löcher nicht existieren. Wie kann etwas "unendliche Dichte" haben, "unendlich klein" sein. Und wenn nichts, aber auch gar nichts ein schwarzes Loch verlassen kann, wie kann dann die Gravitation das schwarze Loch verlassen? Und was passiert mit der Zeit in der Nähe schwarzer Löcher, bleibt die da wirklich stehen? Und woher wissen wir, dass sie wirklich existieren? In Schwarzen Löchern krachen zwei unvereinbare Theorien aufeinander, die Quantenphysik und die Relativitätstheorie.  &#13;
+Wir beschäftigen uns mit jeder Menge Fragen an den Grenzen der Physik... und manchmal ein wenig darüber hinaus.&#13;
+&#13;
+Vorkenntnisse sind nicht erforderlich.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="99">
+            <name>Steini</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Workshop-Domo">
       <event id="309" guid="b2ec2d49-e698-5858-be0a-2513b4849a01">
@@ -15799,6 +15865,7 @@ Freifunk since 2003</biography>
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
   </day>
   <day index="4" date="2018-12-30" start="2018-12-30T11:00:00+01:00" end="2018-12-30T19:00:00+01:00">
@@ -17990,6 +18057,7 @@ Wir freuen uns auf Dich und Dein Input!</description>
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
   </day>
 </schedule>

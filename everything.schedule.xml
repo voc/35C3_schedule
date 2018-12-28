@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:40</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 20181227 1.1.0 2018-12-28 15:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -5990,6 +5990,39 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
           <person id="68">
             <name>shiro</name>
             <biography>I'm shiro (shiromarieke.github.io) and I work on Nextcloud :)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 5">
+      <event id="271" guid="51c9528c-1a01-5eea-abd3-3b762798bbe4">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 5</room>
+        <slug>NXGJRN</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NXGJRN</url>
+        <title>Global Innovation Gathering</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>en</language>
+        <abstract>GIG, the global network of social and technological innovators is bringing its members and their projects to the Congress for a showcase and interactive workshops</abstract>
+        <description>- will follow -</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">
+            <name>GIG – Global Innovation Gathering</name>
+            <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
+&#13;
+Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
           </person>
         </persons>
         <links/>
@@ -13828,6 +13861,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
     <room name="">
       <event id="1149" guid="e9f81a62-c37a-5cd6-9a7c-d64b0040a29f">
@@ -14139,25 +14173,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits</link>
-        </links>
-      </event>
-      <event id="1194" guid="06a23c87-a522-4050-b187-97096dff1542">
-        <logo/>
-        <date>2018-12-28T20:30:00+01:00</date>
-        <start>20:30</start>
-        <duration>2:00</duration>
-        <room>Assembly:Hardware Hacking Area</room>
-        <slug>35c3-1194-session_sewing_with_electricity</slug>
-        <title>Sewing with Electricity</title>
-        <subtitle>Make a squishy pressure sensor and learn about embroidering electronics</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Sewing electricity with Helen Leigh</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity</link>
         </links>
       </event>
       <event id="1361" guid="87b8b944-d1de-4325-a7d8-27f0bec38136">
@@ -20171,6 +20186,38 @@ Fragen....</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="314" guid="fef79e66-cab6-5fc4-b31e-dc802c46f277">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QAS33L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QAS33L</url>
+        <title>Schwarze Löcher für blutige Anfänger</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Albert Einstein hat sie vorhergesagt, bis in die 90er hinein war ihre Existenz heftig umstritten - die vielleicht verrücktesten Dinger im Universum: Schwarze Löcher.</abstract>
+        <description>Eigentlich dürften Schwarze Löcher nicht existieren. Wie kann etwas "unendliche Dichte" haben, "unendlich klein" sein. Und wenn nichts, aber auch gar nichts ein schwarzes Loch verlassen kann, wie kann dann die Gravitation das schwarze Loch verlassen? Und was passiert mit der Zeit in der Nähe schwarzer Löcher, bleibt die da wirklich stehen? Und woher wissen wir, dass sie wirklich existieren? In Schwarzen Löchern krachen zwei unvereinbare Theorien aufeinander, die Quantenphysik und die Relativitätstheorie.  &#13;
+Wir beschäftigen uns mit jeder Menge Fragen an den Grenzen der Physik... und manchmal ein wenig darüber hinaus.&#13;
+&#13;
+Vorkenntnisse sind nicht erforderlich.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="99">
+            <name>Steini</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Workshop-Domo">
       <event id="309" guid="b2ec2d49-e698-5858-be0a-2513b4849a01">
@@ -22624,6 +22671,7 @@ Freifunk since 2003</biography>
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
     <room name="">
       <event id="1148" guid="73e04d13-cf63-4181-9801-d7c2100afc97">
@@ -23320,13 +23368,13 @@ Freifunk since 2003</biography>
       </event>
     </room>
     <room name="Assembly:Social Fiction Society">
-      <event id="1444" guid="f58aa03d-992a-5736-ba17-f51087ee7e9c">
+      <event id="1445" guid="fe630e15-d09d-5384-a7b2-41ca0d28a10e">
         <logo/>
-        <date>2018-12-29T15:00:00+01:00</date>
-        <start>15:00</start>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>2:00</duration>
         <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1444-session_denation_ein_social_fiction_game</slug>
+        <slug>35c3-1445-session_denation_ein_social_fiction_game</slug>
         <title>DeNation - Ein social fiction game</title>
         <subtitle>play the game - building temporary micronations at 35c3</subtitle>
         <track>self organized sessions</track>
@@ -23362,28 +23410,6 @@ Freifunk since 2003</biography>
         <links>
           <link>http://www.i3games.com/i3Games/imperfectvr.html</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR</link>
-        </links>
-      </event>
-      <event id="1402" guid="6b960679-adfb-40bf-a9dc-cb25be330e75">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1402-session_pussy_write</slug>
-        <title>Pussy Write</title>
-        <subtitle>Site specific writing - Instant poetry</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
-        </persons>
-        <links>
-          <link>http://pussywrite.de</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write</link>
         </links>
       </event>
       <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
@@ -26348,6 +26374,7 @@ Wir freuen uns auf Dich und Dein Input!</description>
     <room name="OIO Thementisch 2"/>
     <room name="OIO Thementisch 3"/>
     <room name="OIO Thementisch 4"/>
+    <room name="OIO Thementisch 5"/>
     <room name="OIO Thementisch 6"/>
     <room name="Assembly:Hardware Hacking Area">
       <event id="1158" guid="6819c96c-d402-499a-9420-7a64b122ebfc">
@@ -26434,6 +26461,25 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Learn_To_Solder</link>
+        </links>
+      </event>
+      <event id="1194" guid="06a23c87-a522-4050-b187-97096dff1542">
+        <logo/>
+        <date>2018-12-30T09:30:00+01:00</date>
+        <start>09:30</start>
+        <duration>2:00</duration>
+        <room>Assembly:Hardware Hacking Area</room>
+        <slug>35c3-1194-session_sewing_with_electricity</slug>
+        <title>Sewing with Electricity</title>
+        <subtitle>Make a squishy pressure sensor and learn about embroidering electronics</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Sewing electricity with Helen Leigh</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity</link>
         </links>
       </event>
       <event id="1297" guid="f26f2a3f-b348-5c11-b11a-55d0917885b0">
@@ -26631,6 +26677,28 @@ Wir freuen uns auf Dich und Dein Input!</description>
       </event>
     </room>
     <room name="Assembly:Social Fiction Society">
+      <event id="1402" guid="6b960679-adfb-40bf-a9dc-cb25be330e75">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1402-session_pussy_write</slug>
+        <title>Pussy Write</title>
+        <subtitle>Site specific writing - Instant poetry</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
+        </persons>
+        <links>
+          <link>http://pussywrite.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write</link>
+        </links>
+      </event>
       <event id="1376" guid="6dcf9220-7b50-5675-a3b8-b8071ac6aea2">
         <logo/>
         <date>2018-12-30T12:00:00+01:00</date>
