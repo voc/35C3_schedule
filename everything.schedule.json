@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 02:00", 
+        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 02:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -9705,6 +9705,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1137, 
+                                "guid": "afaf3909-6630-40af-b377-174b0d319796", 
+                                "logo": null, 
+                                "date": "2018-12-29T01:00:00+01:00", 
+                                "start": "01:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry", 
+                                "title": "Wondrous Mathematics: The curious world of four-dimensional geometry", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                                        "public_name": "Iblech"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry"
+                                ]
+                            }, 
+                            {
                                 "id": 1356, 
                                 "guid": "2f5f1a10-09ce-438a-8979-70fee706e089", 
                                 "logo": null, 
@@ -15786,33 +15813,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Junghackertag_Er%C3%B6ffnung"
-                                ]
-                            }, 
-                            {
-                                "id": 1137, 
-                                "guid": "afaf3909-6630-40af-b377-174b0d319796", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry", 
-                                "title": "Wondrous Mathematics: The curious world of four-dimensional geometry", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                                        "public_name": "Iblech"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry"
                                 ]
                             }
                         ], 
