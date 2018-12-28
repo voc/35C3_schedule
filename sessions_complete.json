@@ -18292,6 +18292,162 @@
             }
         ]
     }, 
+    "Session:SPOC: Spontaneous Party Operation Center# 8c76b09e3464e355cc8a543b30126091": {
+        "Held in language": [
+            "ab - Abkhazian", 
+            "af - Afrikaans", 
+            "an - Aragonese", 
+            "ar - Arabic", 
+            "as - Assamese", 
+            "az - Azerbaijani", 
+            "be - Belarusian", 
+            "bg - Bulgarian", 
+            "bn - Bengali", 
+            "bo - Tibetan", 
+            "br - Breton", 
+            "bs - Bosnian", 
+            "ca - Catalan / Valencian", 
+            "ce - Chechen", 
+            "co - Corsican", 
+            "cs - Czech", 
+            "cu - Church Slavic", 
+            "cy - Welsh", 
+            "da - Danish", 
+            "de - German", 
+            "el - Greek", 
+            "en - English", 
+            "eo - Esperanto", 
+            "es - Spanish / Castilian", 
+            "et - Estonian", 
+            "eu - Basque", 
+            "fa - Persian", 
+            "fi - Finnish", 
+            "fj - Fijian", 
+            "fo - Faroese", 
+            "fr - French", 
+            "fy - Western Frisian", 
+            "ga - Irish", 
+            "gd - Gaelic / Scottish Gaelic", 
+            "gl - Galician", 
+            "gv - Manx", 
+            "he - Hebrew", 
+            "hi - Hindi", 
+            "hr - Croatian", 
+            "ht - Haitian; Haitian Creole", 
+            "hu - Hungarian", 
+            "hy - Armenian", 
+            "id - Indonesian", 
+            "is - Icelandic", 
+            "it - Italian", 
+            "ja - Japanese", 
+            "jv - Javanese", 
+            "ka - Georgian", 
+            "kg - Kongo", 
+            "ko - Korean", 
+            "ku - Kurdish", 
+            "kw - Cornish", 
+            "ky - Kirghiz", 
+            "la - Latin", 
+            "lb - Luxembourgish; Letzeburgesch", 
+            "li - Limburgan; Limburger; Limburgish", 
+            "ln - Lingala", 
+            "lt - Lithuanian", 
+            "lv - Latvian", 
+            "mg - Malagasy", 
+            "mk - Macedonian", 
+            "mn - Mongolian", 
+            "mo - Moldavian", 
+            "ms - Malay", 
+            "mt - Maltese", 
+            "my - Burmese", 
+            "nb - Norwegian (Bokm\u00e5l)", 
+            "ne - Nepali", 
+            "nl - Dutch", 
+            "nn - Norwegian (Nynorsk)", 
+            "no - Norwegian", 
+            "oc - Occitan (post 1500); Proven\u00e7al", 
+            "pl - Polish", 
+            "pt - Portuguese", 
+            "rm - Raeto-Romance", 
+            "ro - Romanian", 
+            "ru - Russian", 
+            "sc - Sardinian", 
+            "se - Northern Sami", 
+            "sk - Slovak", 
+            "sl - Slovenian", 
+            "so - Somali", 
+            "sq - Albanian", 
+            "sr - Serbian", 
+            "sv - Swedish", 
+            "sw - Swahili", 
+            "tk - Turkmen", 
+            "tr - Turkish", 
+            "ty - Tahitian", 
+            "uk - Ukrainian", 
+            "ur - Urdu", 
+            "uz - Uzbek", 
+            "vi - Vietnamese", 
+            "vo - Volap\u00fck", 
+            "yi - Yiddish", 
+            "zh - Chinese"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546039800", 
+                "raw": "1/2018/12/28/23/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://chaostreff-flensburg.de"
+        ], 
+        "Has description": [
+            "SPOC: SPONTANEOUS PARTY OPERATION CENTER"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:MOiN - Mehrere Orte im Norden", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:MOiN_-_Mehrere_Orte_im_Norden", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Scammo", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "SPOC: Spontaneous Party Operation Center"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "423f9ca0-a251-4740-949a-95e9aa1c3fc0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SPOC:_Spontaneous_Party_Operation_Center", 
+        "Has end time": [
+            {
+                "timestamp": "1546041600", 
+                "raw": "1/2018/12/29/0/0/0/0"
+            }
+        ]
+    }, 
     "Session:SSG Meeting# aa001ea60231f0ec6ef71ae94c365f0c": {
         "Held in language": [
             "en - English"
