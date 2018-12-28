@@ -5948,14 +5948,14 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Crypto_Renaissance:_Back_to_the_cryptoanarchist_roots", 
         "Has end time": []
     }, 
-    "Session:DAM: Debian Assembly Meet-up# a2243572f67ef6ba03336fe07c54bd45": {
+    "Session:DAM: Debian Assembly Meet-up# 8693651a8664b4d9f8c3a3f5104bca3c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
+                "timestamp": "1546111800", 
+                "raw": "1/2018/12/29/19/30/0/0"
             }
         ], 
         "Has event track": [
@@ -5996,8 +5996,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:DAM:_Debian_Assembly_Meet-up", 
         "Has end time": [
             {
-                "timestamp": "1546095600", 
-                "raw": "1/2018/12/29/15/0/0/0"
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
             }
         ]
     }, 
@@ -11088,7 +11088,7 @@
             }
         ]
     }, 
-    "Session:Hands-on introduction to self-Hosting with YunoHost# a2ae89c19dbc3a6dea92f2b41328558f": {
+    "Session:Hands-on introduction to self-Hosting with YunoHost# 9602ed9ab467e729e6fbed29441f93b2": {
         "Held in language": [
             "en - English"
         ], 
@@ -11119,9 +11119,7 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [
-            "Session 1"
-        ], 
+        "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "Hands-on introduction to self-Hosting with YunoHost"
@@ -11140,6 +11138,59 @@
             {
                 "timestamp": "1546016400", 
                 "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Hands-on introduction to self-Hosting with YunoHost# e8f4bc204cb3aa6626625f6c39426aec": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546176600", 
+                "raw": "1/2018/12/30/13/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://yunohost.org"
+        ], 
+        "Has description": [
+            "Did you always dream to have your very own server instead of relying on surveillance capitalism services, but don't know where to start ? Then this hands-on workshop is for you ! YunoHost makes it easy to setup your own server with mail and apps with limited technical knowledge."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hands-on introduction to self-Hosting with YunoHost"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "dbd533c5-c67e-440c-9efc-345b46f8dc4a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost", 
+        "Has end time": [
+            {
+                "timestamp": "1546183800", 
+                "raw": "1/2018/12/30/15/30/0/0"
             }
         ]
     }, 

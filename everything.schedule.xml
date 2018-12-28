@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:40</version>
+  <version>Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 20:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9682,7 +9682,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <room>Lecture room M1</room>
         <slug>35c3-1061-session_hands_on_introduction_to_self_hosting_with_yunohost</slug>
         <title>Hands-on introduction to self-Hosting with YunoHost</title>
-        <subtitle>Session 1</subtitle>
+        <subtitle/>
         <track>self organized sessions</track>
         <type>hands-on</type>
         <language>en</language>
@@ -23620,8 +23620,8 @@ Freifunk since 2003</biography>
     <room name="Assembly:DFSG: Debian Friends Social Group">
       <event id="1453" guid="cf087d3e-111c-4612-94ee-f4fae5508651">
         <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
         <duration>1:00</duration>
         <room>Assembly:DFSG: Debian Friends Social Group</room>
         <slug>35c3-1453-session_dam_debian_assembly_meet_up</slug>
@@ -25174,6 +25174,26 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <links>
           <link>https://engelsystem.de/35c3/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:General_Angel_Meeting</link>
+        </links>
+      </event>
+      <event id="1458" guid="dbd533c5-c67e-440c-9efc-345b46f8dc4a">
+        <logo/>
+        <date>2018-12-30T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>2:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1458-session_hands_on_introduction_to_self_hosting_with_yunohost</slug>
+        <title>Hands-on introduction to self-Hosting with YunoHost</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Did you always dream to have your very own server instead of relying on surveillance capitalism services, but don't know where to start ? Then this hands-on workshop is for you ! YunoHost makes it easy to setup your own server with mail and apps with limited technical knowledge.</description>
+        <persons/>
+        <links>
+          <link>http://yunohost.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hands-on_introduction_to_self-Hosting_with_YunoHost</link>
         </links>
       </event>
       <event id="1166" guid="060799d9-c887-4ffc-9a15-cac5169ab561">
