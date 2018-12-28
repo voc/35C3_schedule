@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1</version>
+  <version>Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13016,6 +13016,35 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
         <attachments/>
         <answers/>
       </event>
+      <event id="724" guid="fdb28191-b9f5-5cc0-a3a1-dbb54ffdc527">
+        <logo/>
+        <date>2018-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>EWKNEU</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/EWKNEU</url>
+        <title>Fucked Up For A Cause</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>en</language>
+        <abstract>When working coding for the Atari 2600 VCS, one can assume that the guys building the hardware did some very crude fuck ups. Let my show you why this is a wrong assumption.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <name>SvOlli</name>
+            <biography>Award winning demo coder. Favourite system: Atari 2600 VCS as released in 1977 (US) and 1979 (Europe).</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Vortrags-Arena">
       <event id="313" guid="8b2ce950-136c-53a5-89ff-7acde44faca2">
@@ -14012,7 +14041,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <track/>
         <type>Workshop mit Gruppentischen</type>
         <language>de</language>
-        <abstract>Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard für kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns über eure Ideen und Anregungen.</abstract>
+        <abstract>Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard für kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns über eure Ideen und Anregungen. Agenda: https://hackmd.okfn.de/0Q4h28VDRym0vKKAm7GRxQ#</abstract>
         <description/>
         <recording>
           <license/>

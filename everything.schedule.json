@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:20", 
+        "version": "Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7026,34 +7026,6 @@
                                 "links": [
                                     "http://''RESCHEDULED_DUE_TO_WORKSHOP_CONFLICT''", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade"
-                                ]
-                            }, 
-                            {
-                                "id": 1299, 
-                                "guid": "980492fd-1396-414d-af69-0cd42384b108", 
-                                "logo": null, 
-                                "date": "2018-12-27T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1299-session_sumorobot_programming_workshop", 
-                                "title": "SumoRobot Programming Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Programming SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 16.00 - 18.30<br>Dec 28, 16.00 - 18.30<br>Dec 29, 16.00 - 18.30<br>Dec 30, 16.00 - 18.30", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
-                                        "public_name": "Silbo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.robokoding.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop"
                                 ]
                             }, 
                             {
@@ -14881,34 +14853,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1298, 
-                                "guid": "03ffaf95-cab5-57b5-bdc4-be07df3ddcdb", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1298-session_sumorobot_programming_workshop", 
-                                "title": "SumoRobot Programming Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Programming SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 16.00 - 18.30<br>Dec 28, 16.00 - 18.30<br>Dec 29, 16.00 - 18.30<br>Dec 30, 16.00 - 18.30", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
-                                        "public_name": "Silbo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.robokoding.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop"
-                                ]
-                            }, 
-                            {
                                 "id": 1292, 
                                 "guid": "15376f66-e37f-4a41-aa19-16512f329d20", 
                                 "logo": null, 
@@ -19204,6 +19148,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1457, 
+                                "guid": "6c075464-2c18-45a7-8ed1-5a2937d4d53a", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "0:15", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1457-session_it_security_unternehmen_ohne_chefs", 
+                                "title": "IT-Security-Unternehmen ohne Chefs", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs"
+                                ]
+                            }, 
+                            {
                                 "id": 1068, 
                                 "guid": "eb3e6e50-58e4-46a1-826e-ebc9691713e3", 
                                 "logo": null, 
@@ -21155,6 +21120,37 @@
                                 "links": [], 
                                 "attachments": [], 
                                 "answers": []
+                            }, 
+                            {
+                                "id": 724, 
+                                "guid": "fdb28191-b9f5-5cc0-a3a1-dbb54ffdc527", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "EWKNEU", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/EWKNEU", 
+                                "title": "Fucked Up For A Cause", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "When working coding for the Atari 2600 VCS, one can assume that the guys building the hardware did some very crude fuck ups. Let my show you why this is a wrong assumption.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 29, 
+                                        "name": "SvOlli", 
+                                        "biography": "Award winning demo coder. Favourite system: Atari 2600 VCS as released in 1977 (US) and 1979 (Europe).", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
                             }
                         ], 
                         "OIO Vortrags-Arena": [
@@ -22140,7 +22136,7 @@
                                 "track": null, 
                                 "type": "Workshop mit Gruppentischen", 
                                 "language": "de", 
-                                "abstract": "Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
+                                "abstract": "Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen. Agenda: https://hackmd.okfn.de/0Q4h28VDRym0vKKAm7GRxQ#", 
                                 "description": null, 
                                 "recording_license": "", 
                                 "do_not_record": false, 
@@ -24482,34 +24478,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1296, 
-                                "guid": "6381ef63-2dd7-4556-b9d2-65a200625c88", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1296-session_sumorobot_programming_workshop", 
-                                "title": "SumoRobot Programming Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Programming SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 16.00 - 18.30<br>Dec 28, 16.00 - 18.30<br>Dec 29, 16.00 - 18.30<br>Dec 30, 16.00 - 18.30", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
-                                        "public_name": "Silbo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.robokoding.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop"
-                                ]
-                            }, 
-                            {
                                 "id": 1294, 
                                 "guid": "93263d15-e60f-533a-b4f4-58498fc06558", 
                                 "logo": null, 
@@ -25148,7 +25116,7 @@
                                 "room": "Assembly:RCC Data Research Office: Club Culture and Urban Transformation Processes", 
                                 "slug": "35c3-1330-session_data_office_club_culture_and_urban_transformation_processes_opening_hours", 
                                 "title": "Data Office: Club Culture and Urban Transformation Processes - Opening Hours", 
-                                "subtitle": "Workshop: Club Culture and Urban Transformation Processes (workshop is in 1Komona Workshop Dome 1 !!)", 
+                                "subtitle": "Workshop: Club Culture and Urban Transformation Processes (workshop is in 1Komona Thunderdome!!)", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -26531,6 +26499,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1455, 
+                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:10:00+01:00", 
+                                "start": "14:10", 
+                                "duration": "0:50", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
+                                "title": "Anki: software for long-time learning (even programming stuff)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                                        "public_name": "Arthur Rainbow"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
+                                ]
+                            }, 
+                            {
                                 "id": 1452, 
                                 "guid": "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9", 
                                 "logo": null, 
@@ -26775,33 +26770,6 @@
                             }
                         ], 
                         "Lecture room M2": [
-                            {
-                                "id": 1455, 
-                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
-                                "logo": null, 
-                                "date": "2018-12-30T14:10:00+01:00", 
-                                "start": "14:10", 
-                                "duration": "0:50", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
-                                "title": "Anki: software for long-time learning (even programming stuff)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
-                                        "public_name": "Arthur Rainbow"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
-                                ]
-                            }, 
                             {
                                 "id": 1054, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 
@@ -28625,34 +28593,6 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sewing_with_Electricity"
-                                ]
-                            }, 
-                            {
-                                "id": 1297, 
-                                "guid": "f26f2a3f-b348-5c11-b11a-55d0917885b0", 
-                                "logo": null, 
-                                "date": "2018-12-30T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1297-session_sumorobot_programming_workshop", 
-                                "title": "SumoRobot Programming Workshop", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Programming SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 16.00 - 18.30<br>Dec 28, 16.00 - 18.30<br>Dec 29, 16.00 - 18.30<br>Dec 30, 16.00 - 18.30", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Silbo", 
-                                        "public_name": "Silbo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.robokoding.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:SumoRobot_Programming_Workshop"
                                 ]
                             }, 
                             {

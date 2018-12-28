@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1", 
+        "version": "Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -12999,6 +12999,37 @@
                                 "links": [], 
                                 "attachments": [], 
                                 "answers": []
+                            }, 
+                            {
+                                "id": 724, 
+                                "guid": "fdb28191-b9f5-5cc0-a3a1-dbb54ffdc527", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "EWKNEU", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/EWKNEU", 
+                                "title": "Fucked Up For A Cause", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "When working coding for the Atari 2600 VCS, one can assume that the guys building the hardware did some very crude fuck ups. Let my show you why this is a wrong assumption.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 29, 
+                                        "name": "SvOlli", 
+                                        "biography": "Award winning demo coder. Favourite system: Atari 2600 VCS as released in 1977 (US) and 1979 (Europe).", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
                             }
                         ], 
                         "OIO Vortrags-Arena": [
@@ -13984,7 +14015,7 @@
                                 "track": null, 
                                 "type": "Workshop mit Gruppentischen", 
                                 "language": "de", 
-                                "abstract": "Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
+                                "abstract": "Wir entwickeln [squarelet.org](https://www.squarelet.org), ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen. Agenda: https://hackmd.okfn.de/0Q4h28VDRym0vKKAm7GRxQ#", 
                                 "description": null, 
                                 "recording_license": "", 
                                 "do_not_record": false, 

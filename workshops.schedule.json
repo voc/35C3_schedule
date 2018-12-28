@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 19:20", 
+        "version": "2018-12-28 19:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5697,6 +5697,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1457, 
+                                "guid": "6c075464-2c18-45a7-8ed1-5a2937d4d53a", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:30:00+01:00", 
+                                "start": "21:30", 
+                                "duration": "0:15", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1457-session_it_security_unternehmen_ohne_chefs", 
+                                "title": "IT-Security-Unternehmen ohne Chefs", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs"
+                                ]
+                            }, 
+                            {
                                 "id": 1068, 
                                 "guid": "eb3e6e50-58e4-46a1-826e-ebc9691713e3", 
                                 "logo": null, 
@@ -5980,6 +6001,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1455, 
+                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:10:00+01:00", 
+                                "start": "14:10", 
+                                "duration": "0:50", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
+                                "title": "Anki: software for long-time learning (even programming stuff)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                                        "public_name": "Arthur Rainbow"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
+                                ]
+                            }, 
+                            {
                                 "id": 1452, 
                                 "guid": "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9", 
                                 "logo": null, 
@@ -6134,33 +6182,6 @@
                         ], 
                         "Lecture room M3": [], 
                         "Lecture room M2": [
-                            {
-                                "id": 1455, 
-                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
-                                "logo": null, 
-                                "date": "2018-12-30T14:10:00+01:00", 
-                                "start": "14:10", 
-                                "duration": "0:50", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
-                                "title": "Anki: software for long-time learning (even programming stuff)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
-                                        "public_name": "Arthur Rainbow"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
-                                ]
-                            }, 
                             {
                                 "id": 1054, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 
