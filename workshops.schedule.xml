@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 23:50</version>
+  <version>2018-12-29 00:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1578,6 +1578,46 @@
   </day>
   <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
     <room name="Dome Art-and-Play">
+      <event id="1480" guid="343cb996-5339-4a7b-bfdb-28d287954686">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1480-session_eine_brille_fuer_die_ohren</slug>
+        <title>Eine Brille für die Ohren</title>
+        <subtitle>sound-collective</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>frickelzwang für sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Eine_Brille_f%C3%BCr_die_Ohren</link>
+        </links>
+      </event>
+      <event id="1481" guid="31b9b322-8bea-4d20-9ce4-ba58631b20dc">
+        <logo/>
+        <date>2018-12-29T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>3:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1481-session_fische_rueckwaerts_backwards_fishing_</slug>
+        <title>Fische rückwärts (backwards fishing)</title>
+        <subtitle>sound-collective</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>frickelzwang für sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)</link>
+        </links>
+      </event>
       <event id="1478" guid="3dff5ffa-6228-409b-9d3c-40c6918b14d1">
         <logo/>
         <date>2018-12-28T16:00:00+01:00</date>
@@ -3374,6 +3414,28 @@
     </room>
   </day>
   <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
+    <room name="Dome Art-and-Play">
+      <event id="1482" guid="1c813e3e-fb20-4016-9662-7bdf9bd936e4">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1482-session_mentalverschiebung_gegen_zentralverrieglung</slug>
+        <title>Mentalverschiebung gegen Zentralverrieglung</title>
+        <subtitle>open sound-collective</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Frickelzwang für Sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mentalverschiebung_gegen_Zentralverrieglung</link>
+        </links>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena"/>
     <room name="Lecture room 11">
       <event id="1011" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ac">
@@ -4344,6 +4406,25 @@
       </event>
     </room>
     <room name="Popticum Art-and-Play">
+      <event id="1479" guid="99d4fc4f-be76-4c74-8367-0152a8a2c47a">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Popticum Art-and-Play</room>
+        <slug>35c3-1479-session_audiovisuelles_instrument_entwickeln_workshop_impulse</slug>
+        <title>Audiovisuelles instrument entwickeln Workshop imPulse</title>
+        <subtitle>Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance.</subtitle>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audiovisuelles_instrument_entwickeln_Workshop_imPulse</link>
+        </links>
+      </event>
       <event id="1318" guid="89362698-1994-4f9f-bd0b-fe6956ebe614">
         <logo/>
         <date>2018-12-29T22:00:00+01:00</date>

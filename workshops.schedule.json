@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 23:50", 
+        "version": "2018-12-29 00:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1869,6 +1869,50 @@
                     "day_end": "2018-12-29T04:00:00+01:00", 
                     "rooms": {
                         "Dome Art-and-Play": [
+                            {
+                                "id": 1480, 
+                                "guid": "343cb996-5339-4a7b-bfdb-28d287954686", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1480-session_eine_brille_fuer_die_ohren", 
+                                "title": "Eine Brille f\u00fcr die Ohren", 
+                                "subtitle": "sound-collective", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eine_Brille_f%C3%BCr_die_Ohren"
+                                ]
+                            }, 
+                            {
+                                "id": 1481, 
+                                "guid": "31b9b322-8bea-4d20-9ce4-ba58631b20dc", 
+                                "logo": null, 
+                                "date": "2018-12-29T02:00:00+01:00", 
+                                "start": "02:00", 
+                                "duration": "3:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1481-session_fische_rueckwaerts_backwards_fishing_", 
+                                "title": "Fische r\u00fcckw\u00e4rts (backwards fishing)", 
+                                "subtitle": "sound-collective", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)"
+                                ]
+                            }, 
                             {
                                 "id": 1478, 
                                 "guid": "3dff5ffa-6228-409b-9d3c-40c6918b14d1", 
@@ -4001,6 +4045,30 @@
                     "index": 3, 
                     "day_end": "2018-12-30T04:00:00+01:00", 
                     "rooms": {
+                        "Dome Art-and-Play": [
+                            {
+                                "id": 1482, 
+                                "guid": "1c813e3e-fb20-4016-9662-7bdf9bd936e4", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "3:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1482-session_mentalverschiebung_gegen_zentralverrieglung", 
+                                "title": "Mentalverschiebung gegen Zentralverrieglung", 
+                                "subtitle": "open sound-collective", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Frickelzwang f\u00fcr Sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mentalverschiebung_gegen_Zentralverrieglung"
+                                ]
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
@@ -5149,6 +5217,27 @@
                             }
                         ], 
                         "Popticum Art-and-Play": [
+                            {
+                                "id": 1479, 
+                                "guid": "99d4fc4f-be76-4c74-8367-0152a8a2c47a", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "2:00", 
+                                "room": "Popticum Art-and-Play", 
+                                "slug": "35c3-1479-session_audiovisuelles_instrument_entwickeln_workshop_impulse", 
+                                "title": "Audiovisuelles instrument entwickeln Workshop imPulse", 
+                                "subtitle": "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance.", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audiovisuelles_instrument_entwickeln_Workshop_imPulse"
+                                ]
+                            }, 
                             {
                                 "id": 1318, 
                                 "guid": "89362698-1994-4f9f-bd0b-fe6956ebe614", 

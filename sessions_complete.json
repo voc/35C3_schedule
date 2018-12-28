@@ -2536,6 +2536,53 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups", 
         "Has end time": []
     }, 
+    "Session:Audiovisuelles instrument entwickeln Workshop imPulse# aae8811c2a3fd33997074e0b72fec032": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Popticum Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Popticum_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Audiovisuelles instrument entwickeln Workshop imPulse"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "99d4fc4f-be76-4c74-8367-0152a8a2c47a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audiovisuelles_instrument_entwickeln_Workshop_imPulse", 
+        "Has end time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ]
+    }, 
     "Session:Auti Angel Meeting# 6b27f7667d3bfba35eafc28d33c73f4d": {
         "Held in language": [
             "de - German", 
@@ -7993,6 +8040,59 @@
             }
         ]
     }, 
+    "Session:Eine Brille f\u00fcr die Ohren# 4d80b610eb730f327fafc9e11dbffb78": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "sound-collective"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Eine Brille f\u00fcr die Ohren"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "343cb996-5339-4a7b-bfdb-28d287954686"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Eine_Brille_f%C3%BCr_die_Ohren", 
+        "Has end time": [
+            {
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Electric cars, use it, hack it, talk about it# 140708e61564432906300cc428fe1d44": {
         "Held in language": [
             "de - German", 
@@ -9855,6 +9955,59 @@
             {
                 "timestamp": "1545942120", 
                 "raw": "1/2018/12/27/20/22/0/0"
+            }
+        ]
+    }, 
+    "Session:Fische r\u00fcckw\u00e4rts (backwards fishing)# 8e162cd5965b6ecf03014fba5dcd3832": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546048800", 
+                "raw": "1/2018/12/29/2/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "sound-collective"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Fische r\u00fcckw\u00e4rts (backwards fishing)"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "31b9b322-8bea-4d20-9ce4-ba58631b20dc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)", 
+        "Has end time": [
+            {
+                "timestamp": "1546059600", 
+                "raw": "1/2018/12/29/5/0/0/0"
             }
         ]
     }, 
@@ -15449,6 +15602,59 @@
             }
         ]
     }, 
+    "Session:Mentalverschiebung gegen Zentralverrieglung# 8168db4ed6d8b6d04ad9e0b46824bfe0": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "open sound-collective"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Mentalverschiebung gegen Zentralverrieglung"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "1c813e3e-fb20-4016-9662-7bdf9bd936e4"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mentalverschiebung_gegen_Zentralverrieglung", 
+        "Has end time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ]
+    }, 
     "Session:Mietsh\u00e4user Syndikat Hausbesichtigung# 4dba8e71e8bc918ca80ee20ef18840eb": {
         "Held in language": [
             "de - German"
@@ -20936,6 +21142,50 @@
                 "raw": "1/2018/12/29/20/0/0/0"
             }
         ]
+    }, 
+    "Session:Solidarity photo for Rojava# 4958a57d88ed7fa4db43cfe51866b6ab": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://crimethinc.com/2018/12/28/the-threat-to-rojava-an-anarchist-in-syria-speaks-on-the-real-meaning-of-trumps-withdrawal"
+        ], 
+        "Has description": [
+            "We want to make a photo to show our solidarity with the people in Rojava."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Komona", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Komona", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Solidarity photo for Rojava"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "76809a98-62ec-4270-a1f5-266e290f7d83"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solidarity_photo_for_Rojava", 
+        "Has end time": []
     }, 
     "Session:SpaceAPI - Status Update# eaa57381e85c3ba87d02ae718737cb63": {
         "Held in language": [
