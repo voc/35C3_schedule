@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 20:40</version>
+  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 21:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17536,6 +17536,25 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
       </event>
+      <event id="1464" guid="9ef294ce-f9ba-440e-9bd9-ba4fc36c9650">
+        <logo/>
+        <date>2018-12-29T16:20:00+01:00</date>
+        <start>16:20</start>
+        <duration>0:30</duration>
+        <room>Lecture room 11</room>
+        <slug>35c3-1464-session_brennstoffzelle_elektroliseur_und_wasserstoff_modellvorfuehrung_und_diskussion</slug>
+        <title>Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorführung und Diskussion</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language>de</language>
+        <abstract/>
+        <description>Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion</link>
+        </links>
+      </event>
       <event id="1417" guid="1184c516-610b-4244-9f62-90cfac5e7e47">
         <logo/>
         <date>2018-12-29T22:15:00+01:00</date>
@@ -18118,13 +18137,14 @@ However, it's not always easy...</description>
         <room>Seminar room 13</room>
         <slug>35c3-1265-session_upload_filters_call_to_action_</slug>
         <title>Upload filters: Call to action!</title>
-        <subtitle>Get active, remove upload filters</subtitle>
+        <subtitle>Help defend our freedom of speech on-line!</subtitle>
         <track>self organized sessions</track>
         <type>meeting</type>
         <language>en</language>
         <abstract/>
-        <description>Call to action to remove upload filters from proposed EU legislation</description>
+        <description>Call for action to remove upload filters from proposed EU legislation</description>
         <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pab">Pab</person>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri">Diego-edri</person>
         </persons>
         <links>
@@ -20939,7 +20959,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <track/>
         <type>Talk</type>
         <language>de</language>
-        <abstract>Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie interparlamentarischer Ebene verschiedene Akteure an der Aufklärung. Wir wollen uns über den aktuellen Stand und weitere Schritte verständigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufklärung helfen kann.</abstract>
+        <abstract>Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie innerparlamentarischer Ebene verschiedene Akteure an der Aufklärung. Wir wollen uns über den aktuellen Stand und weitere Schritte verständigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufklärung helfen kann.</abstract>
         <description/>
         <recording>
           <license/>
@@ -23203,6 +23223,65 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_run_your_life,_your_non-profit_or_your_business_on_crypto</link>
         </links>
       </event>
+      <event id="1465" guid="91354df9-70af-427c-9e30-0a69e929b3eb">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1465-session_monero_q_a</slug>
+        <title>Monero Q&amp;A</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Come ask anything!</description>
+        <persons/>
+        <links>
+          <link>https://www.getmonero.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Monero_Q%26A</link>
+        </links>
+      </event>
+      <event id="1466" guid="c2432475-7e2d-4060-9372-a1175f9f4381">
+        <logo/>
+        <date>2018-12-29T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>0:45</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1466-session_open_source_event_management_with_eventyay</slug>
+        <title>Open Source Event Management with Eventyay</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://eventyay.com/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Source_Event_Management_with_Eventyay</link>
+        </links>
+      </event>
+      <event id="1467" guid="de76363e-cac2-41af-8f36-cee25c9491dd">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:15</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1467-session_open_source_lasercutter</slug>
+        <title>Open source Lasercutter</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Presentation of an opensource laser</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_source_Lasercutter</link>
+        </links>
+      </event>
       <event id="1430" guid="44b228bd-c4f6-54c2-a2fb-763f7b5ace01">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
@@ -23254,13 +23333,32 @@ Freifunk since 2003</biography>
         <subtitle/>
         <track>self organized sessions</track>
         <type>talk</type>
-        <language/>
+        <language>en</language>
         <abstract/>
-        <description/>
+        <description>SUSI.AI - an open source conversational framework developed by FOSSASIA</description>
         <persons/>
         <links>
           <link>https://chat.susi.ai/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSI.AI:_An_Open_Source_Platform_for_Conversational_Web</link>
+        </links>
+      </event>
+      <event id="1468" guid="b1d65387-e412-40f5-838f-f2f7716e46a3">
+        <logo/>
+        <date>2018-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>0:20</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1468-session_the_advent_of_digital_persons</slug>
+        <title>The Advent of Digital Persons</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Why software-based agents shall gain personhood</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons</link>
         </links>
       </event>
     </room>

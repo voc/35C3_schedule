@@ -4146,12 +4146,14 @@
             }
         ]
     }, 
-    "Session:Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion# 01027d9892e7069b211ce434a68f0139": {
-        "Held in language": [], 
+    "Session:Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion# d7abd4a458fabe69557e2c783e0c9628": {
+        "Held in language": [
+            "de - German"
+        ], 
         "Has start time": [
             {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
+                "timestamp": "1546100400", 
+                "raw": "1/2018/12/29/16/20/0/0"
             }
         ], 
         "Has event track": [
@@ -4159,18 +4161,28 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines fModell dabei, das einen Propeller antreibt. Wir k\u00f6nnen dann gerne unsere Ansichten \u00fcber die Rolle der Wasserstoffwirtschaft in der Zukunft austauschen.."
+            "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt."
         ], 
         "Has session type": [
             "Other"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "GUID": [
             "9ef294ce-f9ba-440e-9bd9-ba4fc36c9650"
         ], 
@@ -4178,7 +4190,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546102200", 
+                "raw": "1/2018/12/29/16/50/0/0"
+            }
+        ]
     }, 
     "Session:Briar party (the messenger which ticks most of the boxes)# 01aec2249c8e3871933c40e82c2cd540": {
         "Held in language": [
@@ -15347,6 +15364,59 @@
             }
         ]
     }, 
+    "Session:Monero Q&A# f3c91989c6c3ee3d7467b59ca3a93249": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.getmonero.org/"
+        ], 
+        "Has description": [
+            "Come ask anything!"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Monero Q&A"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "91354df9-70af-427c-9e30-0a69e929b3eb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Monero_Q%26A", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Moving Objects Selbsthilfegruppe# 508a80cd51a07699e69abbf8aa1f045c": {
         "Held in language": [
             "de - German", 
@@ -16209,6 +16279,108 @@
             {
                 "timestamp": "1546048740", 
                 "raw": "1/2018/12/29/1/59/0/0"
+            }
+        ]
+    }, 
+    "Session:Open Source Event Management with Eventyay# 1d3765626926b5f8ab59474020fdf3d4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546103700", 
+                "raw": "1/2018/12/29/17/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://eventyay.com/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open Source Event Management with Eventyay"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "c2432475-7e2d-4060-9372-a1175f9f4381"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Source_Event_Management_with_Eventyay", 
+        "Has end time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Open source Lasercutter# 01b85329e39fc4bbb834c09a5bd7578c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546093800", 
+                "raw": "1/2018/12/29/14/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Presentation of an opensource laser"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open source Lasercutter"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "de76363e-cac2-41af-8f36-cee25c9491dd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_source_Lasercutter", 
+        "Has end time": [
+            {
+                "timestamp": "1546094700", 
+                "raw": "1/2018/12/29/14/45/0/0"
             }
         ]
     }, 
@@ -18697,7 +18869,9 @@
         ]
     }, 
     "Session:SUSI.AI: An Open Source Platform for Conversational Web# 07935b6ff00fda07c35a9935bf972ce5": {
-        "Held in language": [], 
+        "Held in language": [
+            "en - English"
+        ], 
         "Has start time": [
             {
                 "timestamp": "1546086600", 
@@ -18710,7 +18884,9 @@
         "Has website": [
             "https://chat.susi.ai/"
         ], 
-        "Has description": [], 
+        "Has description": [
+            "SUSI.AI - an open source conversational framework developed by FOSSASIA"
+        ], 
         "Has session type": [
             "Talk"
         ], 
@@ -22275,6 +22451,57 @@
             }
         ]
     }, 
+    "Session:The Advent of Digital Persons# 24742387f6a7e7a37f49d47233806a86": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Why software-based agents shall gain personhood"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "The Advent of Digital Persons"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "b1d65387-e412-40f5-838f-f2f7716e46a3"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons", 
+        "Has end time": [
+            {
+                "timestamp": "1546098600", 
+                "raw": "1/2018/12/29/15/50/0/0"
+            }
+        ]
+    }, 
     "Session:The Klingon Civil War# cf1cb6705695daa81f7200467ec236cb": {
         "Held in language": [
             "de - German", 
@@ -23790,7 +24017,7 @@
             }
         ]
     }, 
-    "Session:Upload filters: Call to action!# ee035191bb80d75e644a3d2529c0a35f": {
+    "Session:Upload filters: Call to action!# bc4542d80b452e1943c4483cf87c8c7b": {
         "Held in language": [
             "en - English"
         ], 
@@ -23805,7 +24032,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Call to action to remove upload filters from proposed EU legislation"
+            "Call for action to remove upload filters from proposed EU legislation"
         ], 
         "Has session type": [
             "Meeting"
@@ -23820,9 +24047,16 @@
             }
         ], 
         "Has subtitle": [
-            "Get active, remove upload filters"
+            "Help defend our freedom of speech on-line!"
         ], 
         "Is organized by": [
+            {
+                "fulltext": "User:Pab", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }, 
             {
                 "fulltext": "User:Diego-edri", 
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 

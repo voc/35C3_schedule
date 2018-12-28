@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 20:40", 
+        "version": "2018-12-28 21:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4056,6 +4056,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1464, 
+                                "guid": "9ef294ce-f9ba-440e-9bd9-ba4fc36c9650", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:20:00+01:00", 
+                                "start": "16:20", 
+                                "duration": "0:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1464-session_brennstoffzelle_elektroliseur_und_wasserstoff_modellvorfuehrung_und_diskussion", 
+                                "title": "Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines Modell dabei, das einen Propeller antreibt.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion"
+                                ]
+                            }, 
+                            {
                                 "id": 1417, 
                                 "guid": "1184c516-610b-4244-9f62-90cfac5e7e47", 
                                 "logo": null, 
@@ -5879,13 +5900,18 @@
                                 "room": "Seminar room 13", 
                                 "slug": "35c3-1265-session_upload_filters_call_to_action_", 
                                 "title": "Upload filters: Call to action!", 
-                                "subtitle": "Get active, remove upload filters", 
+                                "subtitle": "Help defend our freedom of speech on-line!", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Call to action to remove upload filters from proposed EU legislation", 
+                                "description": "Call for action to remove upload filters from proposed EU legislation", 
                                 "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
+                                        "public_name": "Pab"
+                                    }, 
                                     {
                                         "id": 0, 
                                         "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
