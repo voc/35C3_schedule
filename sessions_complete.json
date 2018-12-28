@@ -20933,6 +20933,67 @@
             }
         ]
     }, 
+    "Session:Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python# f7eae92dfbaaef5576b2577d195d381e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich m\u00f6chte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit R\u00fccksicht auf das Verst\u00e4ndnis n\u00e4hern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Nachbesprechung f\u00fcr Interessierte zum Thema Finanzen mit Python"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Franz", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Franz", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ed7a0d4e-68b1-44bb-b95b-07fd9ef119da"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python", 
+        "Has end time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Squarelet - Kooperativ lernen mit Open Source-Pinboards# abdfcd3236d8f1962fb74a5030e07bd6": {
         "Held in language": [
             "de - German", 

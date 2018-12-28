@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:50</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 22:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -24234,6 +24234,27 @@ Freifunk since 2003</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
+        </links>
+      </event>
+      <event id="1475" guid="ed7a0d4e-68b1-44bb-b95b-07fd9ef119da">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>35c3-1475-session_sparen_am_aktienmarkt_eine_zeitserienanalyse_mit_python</slug>
+        <title>Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python</title>
+        <subtitle>Nachbesprechung für Interessierte zum Thema Finanzen mit Python</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich möchte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit Rücksicht auf das Verständnis nähern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Franz">Franz</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python</link>
         </links>
       </event>
     </room>
