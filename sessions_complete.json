@@ -1999,6 +1999,59 @@
             }
         ]
     }, 
+    "Session:Applied electronic music# c8096038ab6d2ffedd2bbfbf95c5e983": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546043400", 
+                "raw": "1/2018/12/29/0/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "We party and invite all creatures to party with us and explore the different genres of electronic music"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Gehaxelt", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Gehaxelt", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Applied electronic music"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "15143ef4-14de-4db9-93b5-4389b2e7d4a8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Applied_electronic_music", 
+        "Has end time": []
+    }, 
     "Session:Arch Linux Meetup# 74b3f10b249ea3c46dfa48e29dbb486e": {
         "Held in language": [
             "en - English"
