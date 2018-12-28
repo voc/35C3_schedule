@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 01:00</version>
+  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 01:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11894,9 +11894,10 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <title>Generative Art with Paper.js</title>
         <subtitle/>
         <track/>
-        <type>Workshop mit Gruppentischen</type>
-        <language>en</language>
-        <abstract/>
+        <type>Workshop mit Standard-Bestuhlung</type>
+        <language>de</language>
+        <abstract>The heck is Generative Art and what to do with it?&#13;
+The workshop will give a short introduction into paper.js and how it can be used to generate art. Please bring your own laptop so we can code together a bit.</abstract>
         <description/>
         <recording>
           <license/>
@@ -22258,6 +22259,25 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup</link>
+        </links>
+      </event>
+      <event id="1422" guid="b12b1709-08ea-44d2-85c0-9c65fddc694c">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1422-session_saving_ecology_with_data_first_steps</slug>
+        <title>Saving Ecology with Data - First Steps</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>We are interested in forming a community to analyse data and hopefully learn something helpful about how to stop the next mass extinction</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps</link>
         </links>
       </event>
       <event id="1381" guid="905131f3-3aaf-419a-be04-6632ca8a8234">
