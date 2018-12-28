@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 01:20</version>
+  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 01:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14464,6 +14464,30 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
+    <room name="Assembly:ChaosZone">
+      <event id="1423" guid="8f419a71-a14e-4a7e-ad88-b7d02bc08d04">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>3:00</duration>
+        <room>Assembly:ChaosZone</room>
+        <slug>35c3-1423-session_coderdojo</slug>
+        <title>CoderDojo</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn programming, Lerne Programmieren</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann">Niccokunzmann</person>
+        </persons>
+        <links>
+          <link>http://material.quelltext.eu</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:CoderDojo</link>
+        </links>
+      </event>
+    </room>
     <room name="Popticum Art-and-Play">
       <event id="1312" guid="7714f71a-5a2b-4313-a22a-fac171387a53">
         <logo/>
@@ -17866,6 +17890,25 @@ However, it's not always easy...</description>
         <links>
           <link>https://www.nongnu.org/dkgpg/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG</link>
+        </links>
+      </event>
+      <event id="1424" guid="58d9b46d-bdc5-4e7e-b56d-25bc7432256b">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1424-session_ways_of_talking_about_iot_for_cryptoparties</slug>
+        <title>Ways of Talking about IoT for CryptoParties</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>A facilitated conversation on IoT for people involved in the CryptoParty community. The current IoT landscape presents many security and privacy issues, plus most of the projects currently on the market are inseparable from major corporations who make their money from data harvesting. Alternatively, there are self-made alternatives and self-hosting, but are there inherent concerns to the expanding network of connected sensors? How do we balance possible benefits of IoT, the inevitability of this technology, and our desires for a freer and more compassionate future?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ways_of_Talking_about_IoT_for_CryptoParties</link>
         </links>
       </event>
     </room>

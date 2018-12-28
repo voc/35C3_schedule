@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 01:20", 
+        "version": "2018-12-28 01:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -5017,6 +5017,27 @@
                                 "links": [
                                     "https://www.nongnu.org/dkgpg/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG"
+                                ]
+                            }, 
+                            {
+                                "id": 1424, 
+                                "guid": "58d9b46d-bdc5-4e7e-b56d-25bc7432256b", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1424-session_ways_of_talking_about_iot_for_cryptoparties", 
+                                "title": "Ways of Talking about IoT for CryptoParties", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A facilitated conversation on IoT for people involved in the CryptoParty community. The current IoT landscape presents many security and privacy issues, plus most of the projects currently on the market are inseparable from major corporations who make their money from data harvesting. Alternatively, there are self-made alternatives and self-hosting, but are there inherent concerns to the expanding network of connected sensors? How do we balance possible benefits of IoT, the inevitability of this technology, and our desires for a freer and more compassionate future?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ways_of_Talking_about_IoT_for_CryptoParties"
                                 ]
                             }
                         ], 
