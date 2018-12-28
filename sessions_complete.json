@@ -11088,7 +11088,7 @@
             }
         ]
     }, 
-    "Session:Hands-on introduction to self-Hosting with YunoHost# 9602ed9ab467e729e6fbed29441f93b2": {
+    "Session:Hands-on introduction to self-Hosting with YunoHost# a2ae89c19dbc3a6dea92f2b41328558f": {
         "Held in language": [
             "en - English"
         ], 
@@ -11119,7 +11119,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "Session 1"
+        ], 
         "Is organized by": [], 
         "Has title": [
             "Hands-on introduction to self-Hosting with YunoHost"
