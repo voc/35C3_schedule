@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0", 
+        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.1", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8033,6 +8033,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 315, 
+                                "guid": "fe37d6a9-bea6-531b-be70-f2c4d7828a78", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "01:00", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "ZXBCCJ", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZXBCCJ", 
+                                "title": "SatNGOS meeting (AOS)", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 45min", 
+                                "language": "en", 
+                                "abstract": "...", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 100, 
+                                        "name": "Sebastian Lange (bastla)", 
+                                        "biography": "c3space, SatNOGS, AfuTUB/DK0TU", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 251, 
                                 "guid": "072dc1fe-89cc-5387-8405-c7086b0f2687", 
                                 "logo": null, 
@@ -13407,6 +13438,37 @@
                             }
                         ], 
                         "OIO Workshop-Domo": [
+                            {
+                                "id": 316, 
+                                "guid": "85587d11-2426-5b34-b8cf-7f2a020d4517", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "02:00", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "AQ9TUQ", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AQ9TUQ", 
+                                "title": "SatNGOS meeting (TCA)", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 110min", 
+                                "language": "en", 
+                                "abstract": "...", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 100, 
+                                        "name": "Sebastian Lange (bastla)", 
+                                        "biography": "c3space, SatNOGS, AfuTUB/DK0TU", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 309, 
                                 "guid": "b2ec2d49-e698-5858-be0a-2513b4849a01", 

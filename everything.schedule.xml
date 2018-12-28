@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:20</version>
+  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.1 2018-12-28 17:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11775,6 +11775,35 @@ https://fahrplan.chaos-west.de/35c3chaoswest/talk/K39NLS/</abstract>
         <attachments/>
         <answers/>
       </event>
+      <event id="315" guid="fe37d6a9-bea6-531b-be70-f2c4d7828a78">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>ZXBCCJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZXBCCJ</url>
+        <title>SatNGOS meeting (AOS)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="100">
+            <name>Sebastian Lange (bastla)</name>
+            <biography>c3space, SatNOGS, AfuTUB/DK0TU</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="251" guid="072dc1fe-89cc-5387-8405-c7086b0f2687">
         <logo/>
         <date>2018-12-28T21:00:00+01:00</date>
@@ -20322,6 +20351,35 @@ Vorkenntnisse sind nicht erforderlich.</description>
       </event>
     </room>
     <room name="OIO Workshop-Domo">
+      <event id="316" guid="85587d11-2426-5b34-b8cf-7f2a020d4517">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>AQ9TUQ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AQ9TUQ</url>
+        <title>SatNGOS meeting (TCA)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 110min</type>
+        <language>en</language>
+        <abstract>...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="100">
+            <name>Sebastian Lange (bastla)</name>
+            <biography>c3space, SatNOGS, AfuTUB/DK0TU</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="309" guid="b2ec2d49-e698-5858-be0a-2513b4849a01">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
