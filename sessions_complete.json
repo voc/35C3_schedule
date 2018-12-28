@@ -213,6 +213,61 @@
             }
         ]
     }, 
+    "Session:(Python) Programming for Absolute Beginners 2# 2f719c4b8380268b0f35dc7c8d641291": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546038000", 
+                "raw": "1/2018/12/28/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ingo", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "(Python) Programming for Absolute Beginners 2"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "a426234a-ef27-4dc4-91a9-0aa2adcfa496"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners_2", 
+        "Has end time": [
+            {
+                "timestamp": "1546043400", 
+                "raw": "1/2018/12/29/0/30/0/0"
+            }
+        ]
+    }, 
     "Session:(Python) Programming for Absolute Beginners# 944f5f9b8c17307a150d520010ff633b": {
         "Held in language": [
             "de - German", 
@@ -330,6 +385,59 @@
             {
                 "timestamp": "1546081200", 
                 "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ]
+    }, 
+    "Session:10 Journeys of an Asian Open Source Community# 68463df1baf845ce506246432f655d88": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081500", 
+                "raw": "1/2018/12/29/11/5/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://fossasia.org/"
+        ], 
+        "Has description": [
+            "This talk is about the story of FOSSASIA - one of the biggest open source community from Asia. How did we begin, what have we achieved in the last 10 years. Our lessons learned, our challenges and our next 10 year vision."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "10 Journeys of an Asian Open Source Community"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "1ae5454e-55dc-4551-b47c-3aab394ccb82"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:10_Journeys_of_an_Asian_Open_Source_Community", 
+        "Has end time": [
+            {
+                "timestamp": "1546082400", 
+                "raw": "1/2018/12/29/11/20/0/0"
             }
         ]
     }, 
@@ -4037,6 +4145,40 @@
                 "raw": "1/2018/12/28/23/30/0/0"
             }
         ]
+    }, 
+    "Session:Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion# 01027d9892e7069b211ce434a68f0139": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Wolltest Du schon immer mal sehen wie man Wasserstoff herstellt oder wie eine Brennstoffzelle funktioniert? Ich habe ein kleines fModell dabei, das einen Propeller antreibt. Wir k\u00f6nnen dann gerne unsere Ansichten \u00fcber die Rolle der Wasserstoffwirtschaft in der Zukunft austauschen.."
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Brennstoffzelle, Elektroliseur und Wasserstoff - Modellvorf\u00fchrung und Diskussion"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "9ef294ce-f9ba-440e-9bd9-ba4fc36c9650"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brennstoffzelle,_Elektroliseur_und_Wasserstoff_-_Modellvorf%C3%BChrung_und_Diskussion", 
+        "Has end time": []
     }, 
     "Session:Briar party (the messenger which ticks most of the boxes)# 01aec2249c8e3871933c40e82c2cd540": {
         "Held in language": [
@@ -11468,6 +11610,59 @@
             }
         ]
     }, 
+    "Session:How to run your life, your non-profit or your business on crypto# 6508cc340cc4b01e74fa1497650ecdc6": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546090200", 
+                "raw": "1/2018/12/29/13/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://paralelnapolis.sk/blog/"
+        ], 
+        "Has description": [
+            "The case study of Paraleln\u00e1 Polis Bratislava"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "How to run your life, your non-profit or your business on crypto"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5df21098-fe17-444b-a16c-b7e14b8063af"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_run_your_life,_your_non-profit_or_your_business_on_crypto", 
+        "Has end time": [
+            {
+                "timestamp": "1546093800", 
+                "raw": "1/2018/12/29/14/30/0/0"
+            }
+        ]
+    }, 
     "Session:HowToConflict# c144e95b5c4152e8384c838e80efe9f4": {
         "Held in language": [
             "de - German"
@@ -18498,6 +18693,55 @@
             {
                 "timestamp": "1545948000", 
                 "raw": "1/2018/12/27/22/0/0/0"
+            }
+        ]
+    }, 
+    "Session:SUSI.AI: An Open Source Platform for Conversational Web# 07935b6ff00fda07c35a9935bf972ce5": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546086600", 
+                "raw": "1/2018/12/29/12/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://chat.susi.ai/"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "SUSI.AI: An Open Source Platform for Conversational Web"
+        ], 
+        "Has duration": [
+            25
+        ], 
+        "GUID": [
+            "e226f719-e38f-412b-8e64-92c21d255401"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSI.AI:_An_Open_Source_Platform_for_Conversational_Web", 
+        "Has end time": [
+            {
+                "timestamp": "1546088100", 
+                "raw": "1/2018/12/29/12/55/0/0"
             }
         ]
     }, 

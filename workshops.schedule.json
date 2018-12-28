@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 20:30", 
+        "version": "2018-12-28 20:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3023,6 +3023,33 @@
                             }
                         ], 
                         "Lecture room M3": [
+                            {
+                                "id": 1460, 
+                                "guid": "a426234a-ef27-4dc4-91a9-0aa2adcfa496", 
+                                "logo": null, 
+                                "date": "2018-12-28T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1460-session_python_programming_for_absolute_beginners_2", 
+                                "title": "(Python) Programming for Absolute Beginners 2", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo", 
+                                        "public_name": "Ingo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners_2"
+                                ]
+                            }, 
                             {
                                 "id": 1025, 
                                 "guid": "b277b00f-6539-4801-bb39-2788eeab1aac", 
