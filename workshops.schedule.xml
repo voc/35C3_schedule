@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 22:20</version>
+  <version>2018-12-28 22:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2427,6 +2427,7 @@
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Tjal">Tjal</person>
         </persons>
         <links>
+          <link>https://docdro.id/TAFudE8</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Is_That_Password_Long_Enough%3F</link>
         </links>
       </event>
@@ -3862,8 +3863,8 @@
       </event>
       <event id="1214" guid="4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a">
         <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
         <duration>4:00</duration>
         <room>Kidspace</room>
         <slug>35c3-1214-session_cartoon_workshop_trickmisch</slug>
@@ -4074,8 +4075,8 @@
       </event>
       <event id="1221" guid="c8ea0ed2-fcea-4e93-8285-e53f436fd311">
         <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
         <duration>1:00</duration>
         <room>Kidspace</room>
         <slug>35c3-1221-session_we_record_1_trapsong_autotune4kids_</slug>

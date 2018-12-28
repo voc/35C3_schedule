@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 22:20", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 22:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -10301,6 +10301,7 @@
                                     }
                                 ], 
                                 "links": [
+                                    "https://docdro.id/TAFudE8", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Is_That_Password_Long_Enough%3F"
                                 ]
                             }, 
@@ -20087,8 +20088,8 @@
                                 "id": 1214, 
                                 "guid": "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a", 
                                 "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
                                 "duration": "4:00", 
                                 "room": "Kidspace", 
                                 "slug": "35c3-1214-session_cartoon_workshop_trickmisch", 
@@ -20325,8 +20326,8 @@
                                 "id": 1221, 
                                 "guid": "c8ea0ed2-fcea-4e93-8285-e53f436fd311", 
                                 "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "Kidspace", 
                                 "slug": "35c3-1221-session_we_record_1_trapsong_autotune4kids_", 
@@ -26103,6 +26104,34 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                ]
+                            }, 
+                            {
+                                "id": 1476, 
+                                "guid": "c959e0da-6371-4844-84c9-d1bb1015f8b0", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Curry Club Augsburg", 
+                                "slug": "35c3-1476-session_write_your_own_os", 
+                                "title": "Write your own OS", 
+                                "subtitle": "Workshop for people with too much time", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We'll show an self-written operating system and explain how to write your own one.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Caylee", 
+                                        "public_name": "Caylee"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://git.oenings.eu/hendrik/xanylos.git", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Write_your_own_OS"
                                 ]
                             }
                         ], 

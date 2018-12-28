@@ -4943,6 +4943,58 @@
             }
         ]
     }, 
+    "Session:Cartoon-Workshop: Trickmisch# 277e9911f956ba64a90ca39390bede02": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Cartoon-Workshop: Trickmisch"
+        ], 
+        "Has duration": [
+            240
+        ], 
+        "GUID": [
+            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch", 
+        "Has end time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Cartoon-Workshop: Trickmisch# 2902d5af91b72e7605ec27632b0adfc7": {
         "Held in language": [
             "de - German", 
@@ -4992,58 +5044,6 @@
             {
                 "timestamp": "1545933600", 
                 "raw": "1/2018/12/27/18/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Cartoon-Workshop: Trickmisch# 58f890c9f016c12f5e46589346de9c01": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Trickfilm-Workshop: Mach deinen eigenen Trickfilm! Du kannst daf\u00fcr eigene Zeichnungen, Scherenschnitte und Bildhintergr\u00fcnde erstellen und am Computer animieren. Die Filme k\u00f6nnt ihr sp\u00e4ter auf Trixmix.tv sehen und herunterladen. Auf Trixmix.tv kann jeder eigene Trickfilme online erstellen. Alle Zeichungen aus dem kollektiv erstellten Bildw\u00f6rterbuch k\u00f6nnen daf\u00fcr verwenden."
-        ], 
-        "Has session type": [
-            "Game"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Cartoon-Workshop: Trickmisch"
-        ], 
-        "Has duration": [
-            240
-        ], 
-        "GUID": [
-            "4bc2e0ab-d6e8-4fd2-8770-bb20c3d6fb9a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Cartoon-Workshop:_Trickmisch", 
-        "Has end time": [
-            {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
     }, 
@@ -12820,7 +12820,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://docdro.id/TAFudE8"
+        ], 
         "Has description": [
             "Is my 8-character long password secure? Why or why not? This talk looks into how passwords are threatened by brute-forcing and credential stuffing and what this means for password length - or not."
         ], 
@@ -25042,55 +25044,6 @@
             }
         ]
     }, 
-    "Session:We record 1 Trapsong (Autotune4Kids)# 29dc073ce5801b29dbfad2bea090e960": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546081200", 
-                "raw": "1/2018/12/29/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "We record 1 Trapsong (Autotune4Kids)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c8ea0ed2-fcea-4e93-8285-e53f436fd311"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)", 
-        "Has end time": [
-            {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
-            }
-        ]
-    }, 
     "Session:We record 1 Trapsong (Autotune4Kids)# cf20177ed54ca78f3ae1b8073b8b523b": {
         "Held in language": [], 
         "Has start time": [
@@ -25137,6 +25090,55 @@
             {
                 "timestamp": "1546025400", 
                 "raw": "1/2018/12/28/19/30/0/0"
+            }
+        ]
+    }, 
+    "Session:We record 1 Trapsong (Autotune4Kids)# dc980e86a57928cc97103c3a1a327e58": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Kidspace", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "We record 1 Trapsong (Autotune4Kids)"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c8ea0ed2-fcea-4e93-8285-e53f436fd311"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
             }
         ]
     }, 
@@ -26279,6 +26281,70 @@
             {
                 "timestamp": "1546178400", 
                 "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Write your own OS# 69cc11a5efab6dc55af1043327fbf013": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://git.oenings.eu/hendrik/xanylos.git"
+        ], 
+        "Has description": [
+            "We'll show an self-written operating system and explain how to write your own one."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Curry Club Augsburg", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Workshop for people with too much time"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Caylee", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Caylee", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Write your own OS"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c959e0da-6371-4844-84c9-d1bb1015f8b0"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Write_your_own_OS", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
             }
         ]
     }, 
