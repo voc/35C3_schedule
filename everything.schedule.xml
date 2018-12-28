@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:30</version>
+  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9777,7 +9777,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <logo/>
         <date>2018-12-28T12:45:00+01:00</date>
         <start>12:45</start>
-        <duration>1:30</duration>
+        <duration>1:15</duration>
         <room>Lecture room M2</room>
         <slug>35c3-1254-session_ccc_ch_gettogether</slug>
         <title>CCC-CH Gettogether</title>
@@ -14571,9 +14571,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <language>en</language>
         <abstract/>
         <description>Jeremy Rand</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew">Parasew</person>
-        </persons>
+        <persons/>
         <links>
           <link>https://namecoin.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Demo_%2B_Walkthrough:_Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS</link>
@@ -23321,6 +23319,134 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Social Fiction Society">
+      <event id="1444" guid="f58aa03d-992a-5736-ba17-f51087ee7e9c">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1444-session_denation_ein_social_fiction_game</slug>
+        <title>DeNation - Ein social fiction game</title>
+        <subtitle>play the game - building temporary micronations at 35c3</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>play the game - building temporary micronations at 35c3 (english &amp; deutsch)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
+        </persons>
+        <links>
+          <link>http://futurewithplay.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:DeNation_-_Ein_social_fiction_game</link>
+        </links>
+      </event>
+      <event id="1403" guid="c0b9f048-44b4-47e8-9ec2-e11ecf086c1d">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1403-session_imperfect_vr</slug>
+        <title>Imperfect VR</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Imperfect VR is based on the idea that everyone can create their own Virtual Reality experiences.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Crcdng">Crcdng</person>
+        </persons>
+        <links>
+          <link>http://www.i3games.com/i3Games/imperfectvr.html</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR</link>
+        </links>
+      </event>
+      <event id="1402" guid="6b960679-adfb-40bf-a9dc-cb25be330e75">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1402-session_pussy_write</slug>
+        <title>Pussy Write</title>
+        <subtitle>Site specific writing - Instant poetry</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
+        </persons>
+        <links>
+          <link>http://pussywrite.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write</link>
+        </links>
+      </event>
+      <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1246-session_shadowrun</slug>
+        <title>Shadowrun</title>
+        <subtitle>Day3 Session in German - No more player slots available!</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introductory session to the cyberpunk pen&amp;paper role-playing game Shadowrun</description>
+        <persons/>
+        <links>
+          <link>https://rpgzweinull.de/profile/tomorrowland</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
+        </links>
+      </event>
+      <event id="1275" guid="279dc130-1d1f-42d6-9272-54abae62edda">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1275-session_the_klingon_civil_war</slug>
+        <title>The Klingon Civil War</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War</description>
+        <persons/>
+        <links>
+          <link>http://www.randorianalysis.de/?p=260</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War</link>
+        </links>
+      </event>
+      <event id="1272" guid="0f5de31b-dab0-41b2-b822-07a39747182c">
+        <logo/>
+        <date>2018-12-29T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Social Fiction Society</room>
+        <slug>35c3-1272-session_wargaming_netzpolitik</slug>
+        <title>Wargaming Netzpolitik</title>
+        <subtitle>Day 3 Session</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies</description>
+        <persons/>
+        <links>
+          <link>https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Chaos West">
       <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
         <logo/>
@@ -23453,112 +23579,6 @@ Freifunk since 2003</biography>
         <links>
           <link>https://vcfb.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Social Fiction Society">
-      <event id="1403" guid="c0b9f048-44b4-47e8-9ec2-e11ecf086c1d">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1403-session_imperfect_vr</slug>
-        <title>Imperfect VR</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Imperfect VR is based on the idea that everyone can create their own Virtual Reality experiences.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Crcdng">Crcdng</person>
-        </persons>
-        <links>
-          <link>http://www.i3games.com/i3Games/imperfectvr.html</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR</link>
-        </links>
-      </event>
-      <event id="1402" guid="6b960679-adfb-40bf-a9dc-cb25be330e75">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1402-session_pussy_write</slug>
-        <title>Pussy Write</title>
-        <subtitle>Site specific writing - Instant poetry</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Frauhue">Frauhue</person>
-        </persons>
-        <links>
-          <link>http://pussywrite.de</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pussy_Write</link>
-        </links>
-      </event>
-      <event id="1246" guid="e6461856-89d1-43bd-96b6-c1cb8be450b7">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1246-session_shadowrun</slug>
-        <title>Shadowrun</title>
-        <subtitle>Day3 Session in German - No more player slots available!</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>An introductory session to the cyberpunk pen&amp;paper role-playing game Shadowrun</description>
-        <persons/>
-        <links>
-          <link>https://rpgzweinull.de/profile/tomorrowland</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
-        </links>
-      </event>
-      <event id="1275" guid="279dc130-1d1f-42d6-9272-54abae62edda">
-        <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1275-session_the_klingon_civil_war</slug>
-        <title>The Klingon Civil War</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>Smash the opposition, neutralize threats to the empire, protect your specie's way of life, in the Matrix Game The Klingon Civil War</description>
-        <persons/>
-        <links>
-          <link>http://www.randorianalysis.de/?p=260</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War</link>
-        </links>
-      </event>
-      <event id="1272" guid="0f5de31b-dab0-41b2-b822-07a39747182c">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1272-session_wargaming_netzpolitik</slug>
-        <title>Wargaming Netzpolitik</title>
-        <subtitle>Day 3 Session</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies</description>
-        <persons/>
-        <links>
-          <link>https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik</link>
         </links>
       </event>
     </room>
