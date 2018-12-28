@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 13:10</version>
+  <version>2018-12-28 13:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4930,8 +4930,10 @@
         <type>meeting</type>
         <language>en</language>
         <abstract/>
-        <description>Call to action to put upload filters away from the current pieces of EU legislation</description>
-        <persons/>
+        <description>Call to action to remove upload filters from proposed EU legislation</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri">Diego-edri</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
         </links>

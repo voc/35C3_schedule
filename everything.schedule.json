@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:10", 
+        "version": "Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -19037,8 +19037,14 @@
                                 "type": "meeting", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Call to action to put upload filters away from the current pieces of EU legislation", 
-                                "persons": [], 
+                                "description": "Call to action to remove upload filters from proposed EU legislation", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
+                                        "public_name": "Diego-edri"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!"
                                 ]
