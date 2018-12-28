@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 23:00</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 23:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7424,6 +7424,7 @@ The disclosure of the efail vulnerabilities caused a lot of stir in the press an
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057">Efail paper (USENIX Security 2018)</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/683/original/35c3-schinzel-efail.pdf?1546025131">Slides</attachment>
         </attachments>
       </event>
       <event id="10030" guid="8943659a-536d-4afb-85de-f1b8b29a7902">
@@ -7499,7 +7500,7 @@ Seit Januar 2017 bin ich stellvertretendes Mitglied im Ausschuss für auswärtig
 In diesen Rollen erlebe ich so manches Abenteuer.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
           <person id="8780">Martin Sonneborn</person>
@@ -7794,7 +7795,7 @@ If you don’t have reverse engineering skills, don’t be afraid! We will start
       </event>
       <event id="9873" guid="93c1500d-c639-4247-854e-6e51e167dbeb">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9873.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/873/large/FairyBot_kl.jpg?1546016301</logo>
         <date>2018-12-29T00:30:00+01:00</date>
         <start>00:30</start>
         <duration>02:00</duration>
@@ -8110,7 +8111,7 @@ Finally, we show new variants of the Meltdown attack, exploiting different parts
           <link href="https://www.lrz.de/services/compute/supermuc/supermuc-ng/">Characteristics SuperMUC-NG</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/673/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1545993786">Slides:SuperMUC-NG</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/681/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1546023818">Slides:SuperMUC-NG</attachment>
         </attachments>
       </event>
       <event id="9965" guid="3e75c48f-3a58-4afe-bafb-0670dd2b15cc">
@@ -8409,6 +8410,7 @@ Ready to Code is a young project from Stuttgart that teaches girls and women how
         <links/>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/672/original/35c3_Feminist_Perspectives_HongPhucDang.pdf?1545993234">HongPhucDang</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/680/original/RTC_3C35.pdf?1546014737">ReadyToCode-Lena</attachment>
         </attachments>
       </event>
       <event id="9618" guid="948fee49-de6f-42b1-82f8-045af2aa155e">
@@ -8818,6 +8820,7 @@ Nach dem Vortrag sind alle interessierten Personen eingeladen, die Diskussion an
         </persons>
         <links>
           <link href="https://www.digitale-gesellschaft.ch">Digitale Gesellschaft in der Schweiz</link>
+          <link href="https://martinsteiger.ch/sharing/35c3/35c3_digitale-gesellschaft_netzpolitik-schweiz.pdf">Folien / Slides</link>
         </links>
         <attachments/>
       </event>
@@ -16013,7 +16016,7 @@ Hier lohnt es sich für den hackenden Nachwuchs, aus den Fehlern anderer zu lern
         <logo/>
         <date>2018-12-29T22:10:00+01:00</date>
         <start>22:10</start>
-        <duration>00:40</duration>
+        <duration>00:50</duration>
         <room>Adams</room>
         <slug>35c3-10017-electronic_evicence_in_criminal_matters</slug>
         <title>Electronic Evicence in Criminal Matters</title>
@@ -16896,6 +16899,7 @@ Protection of digital data has become a necessity, certainly in the light of new
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497">Draft Paper</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/684/original/presentation.pdf?1546031613">Slides</attachment>
         </attachments>
       </event>
       <event id="9400" guid="e77ef54a-5dd7-4be1-80c7-42726b273e6f">
@@ -23765,6 +23769,116 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Foodhackingbase">
+      <event id="1477" guid="0dbb64df-3976-4cfb-aa55-03a9e6bb4556">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:20</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1477-session_beef_jerky_boxes</slug>
+        <title>Beef jerky Boxes</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>We create a box for making beef jerky together. Each participant (17 spots available) gets to take their box home!</description>
+        <persons/>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Beef_Jerky_Box_Making</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Beef_jerky_Boxes</link>
+        </links>
+      </event>
+      <event id="1034" guid="b2c21678-66f6-498e-97ed-42f34c5e295e">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1034-session_cidre_flows</slug>
+        <title>Cidre Flows</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will taste variety of cidres.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Cidre_flows_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows</link>
+        </links>
+      </event>
+      <event id="1186" guid="95e25771-cd93-4c67-a627-66bfe90d4ac6">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1186-session_mate_making_diy</slug>
+        <title>Mate Making DIY</title>
+        <subtitle>Tasting and Making Traditional Mate</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Learn how to make your own mate and host a circle.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate">Meta Mate</person>
+        </persons>
+        <links>
+          <link>http://metamate.cc/product/mate-introduction/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY</link>
+        </links>
+      </event>
+      <event id="1440" guid="38809af8-e72a-4974-8c9d-1406c36bb1c7">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1440-session_mead_making_presentation</slug>
+        <title>Mead making presentation</title>
+        <subtitle>Second session</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>How to make mead (honey wine)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog">Lefrog</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation</link>
+        </links>
+      </event>
+      <event id="1094" guid="b7472a21-df97-415b-b00d-10c7f4b2933c">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1094-session_probiotic_drinks_making</slug>
+        <title>Probiotic Drinks Making</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>We will brew and taste variety of probioitic beverages sharing also the cultures.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Blind navigation workshop">
       <event id="1210" guid="2ca556b7-b032-4d2a-918d-622739d168f0">
         <logo/>
@@ -23852,96 +23966,6 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Foodhackingbase">
-      <event id="1034" guid="b2c21678-66f6-498e-97ed-42f34c5e295e">
-        <logo/>
-        <date>2018-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1034-session_cidre_flows</slug>
-        <title>Cidre Flows</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>We will taste variety of cidres.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
-        </persons>
-        <links>
-          <link>https://foodhackingbase.org/wiki/Cidre_flows_35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Cidre_Flows</link>
-        </links>
-      </event>
-      <event id="1186" guid="95e25771-cd93-4c67-a627-66bfe90d4ac6">
-        <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1186-session_mate_making_diy</slug>
-        <title>Mate Making DIY</title>
-        <subtitle>Tasting and Making Traditional Mate</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Learn how to make your own mate and host a circle.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Meta_Mate">Meta Mate</person>
-        </persons>
-        <links>
-          <link>http://metamate.cc/product/mate-introduction/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY</link>
-        </links>
-      </event>
-      <event id="1440" guid="38809af8-e72a-4974-8c9d-1406c36bb1c7">
-        <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1440-session_mead_making_presentation</slug>
-        <title>Mead making presentation</title>
-        <subtitle>Second session</subtitle>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>How to make mead (honey wine)</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog">Lefrog</person>
-        </persons>
-        <links>
-          <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation</link>
-        </links>
-      </event>
-      <event id="1094" guid="b7472a21-df97-415b-b00d-10c7f4b2933c">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1094-session_probiotic_drinks_making</slug>
-        <title>Probiotic Drinks Making</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>We will brew and taste variety of probioitic beverages sharing also the cultures.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Algoldor">Algoldor</person>
-        </persons>
-        <links>
-          <link>https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making</link>
         </links>
       </event>
     </room>
@@ -24134,8 +24158,8 @@ Freifunk since 2003</biography>
       </event>
       <event id="1403" guid="c0b9f048-44b4-47e8-9ec2-e11ecf086c1d">
         <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
         <duration>1:30</duration>
         <room>Assembly:Social Fiction Society</room>
         <slug>35c3-1403-session_imperfect_vr</slug>

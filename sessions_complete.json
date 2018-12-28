@@ -3204,6 +3204,60 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bare-Metal-Camp", 
         "Has end time": []
     }, 
+    "Session:Beef jerky Boxes# 1a2e1d3e0d84853f03ecafc553d637fd": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Beef_Jerky_Box_Making"
+        ], 
+        "Has description": [
+            "We create a box for making beef jerky together. Each participant (17 spots available) gets to take their box home!"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Beef jerky Boxes"
+        ], 
+        "Has duration": [
+            80
+        ], 
+        "GUID": [
+            "0dbb64df-3976-4cfb-aa55-03a9e6bb4556"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Beef_jerky_Boxes", 
+        "Has end time": [
+            {
+                "timestamp": "1546096800", 
+                "raw": "1/2018/12/29/15/20/0/0"
+            }
+        ]
+    }, 
     "Session:BeerTasting# f9f297e42ec7d1d1bff0096d81156ef3": {
         "Held in language": [
             "de - German", 
@@ -12178,14 +12232,14 @@
             }
         ]
     }, 
-    "Session:Imperfect VR# 31e43949b1a103ca389005c9d3cc18a3": {
+    "Session:Imperfect VR# 848947ed8854417fe0729e979179537f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546088400", 
-                "raw": "1/2018/12/29/13/0/0/0"
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ], 
         "Has event track": [
@@ -12234,8 +12288,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Imperfect_VR", 
         "Has end time": [
             {
-                "timestamp": "1546093800", 
-                "raw": "1/2018/12/29/14/30/0/0"
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
             }
         ]
     }, 

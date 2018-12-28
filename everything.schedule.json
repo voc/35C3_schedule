@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 23:00", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 23:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7865,6 +7865,10 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/542/original/sec18-poddebniak.pdf?1539597057", 
                                         "title": "Efail paper (USENIX Security 2018)"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/683/original/35c3-schinzel-efail.pdf?1546025131", 
+                                        "title": "Slides"
                                     }
                                 ]
                             }, 
@@ -7942,7 +7946,7 @@
                                 "abstract": "Bei der Europawahl 2014 wurde ich als Spitzenkandidat der Partei f\u00fcr Arbeit, Rechtsstaat, Tierschutz, Elitenf\u00f6rderung und basisdemokratische Initiative in das Europ\u00e4ische Parlament gew\u00e4hlt.", 
                                 "description": "Seit Juli 2014 bin ich dort Mitglied im Ausschuss f\u00fcr Kultur und Bildung, in der Delegation f\u00fcr die Beziehungen zur Koreanischen Halbinsel und war stellvertretendes Mitglied im Haushaltskontrollausschuss bis Juni 2015.\r\n\r\nSeit Januar 2017 bin ich stellvertretendes Mitglied im Ausschuss f\u00fcr ausw\u00e4rtige Angelegenheiten.\r\n\r\nIn diesen Rollen erlebe ich so manches Abenteuer.", 
                                 "recording_license": "", 
-                                "do_not_record": false, 
+                                "do_not_record": true, 
                                 "persons": [
                                     {
                                         "id": 8780, 
@@ -8257,7 +8261,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9873.html", 
                                 "id": 9873, 
                                 "guid": "93c1500d-c639-4247-854e-6e51e167dbeb", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/873/large/FairyBot_kl.jpg?1546016301", 
                                 "date": "2018-12-29T00:30:00+01:00", 
                                 "start": "00:30", 
                                 "duration": "02:00", 
@@ -8582,7 +8586,7 @@
                                 ], 
                                 "attachments": [
                                     {
-                                        "url": "/system/event_attachments/attachments/000/003/673/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1545993786", 
+                                        "url": "/system/event_attachments/attachments/000/003/681/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1546023818", 
                                         "title": "Slides:SuperMUC-NG"
                                     }
                                 ]
@@ -8860,6 +8864,10 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/672/original/35c3_Feminist_Perspectives_HongPhucDang.pdf?1545993234", 
                                         "title": "HongPhucDang"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/680/original/RTC_3C35.pdf?1546014737", 
+                                        "title": "ReadyToCode-Lena"
                                     }
                                 ]
                             }, 
@@ -9201,6 +9209,10 @@
                                     {
                                         "url": "https://www.digitale-gesellschaft.ch", 
                                         "title": "Digitale Gesellschaft in der Schweiz"
+                                    }, 
+                                    {
+                                        "url": "https://martinsteiger.ch/sharing/35c3/35c3_digitale-gesellschaft_netzpolitik-schweiz.pdf", 
+                                        "title": "Folien / Slides"
                                     }
                                 ], 
                                 "attachments": []
@@ -16960,7 +16972,7 @@
                                 "logo": null, 
                                 "date": "2018-12-29T22:10:00+01:00", 
                                 "start": "22:10", 
-                                "duration": "00:40", 
+                                "duration": "00:50", 
                                 "room": "Adams", 
                                 "slug": "35c3-10017-electronic_evicence_in_criminal_matters", 
                                 "title": "Electronic Evicence in Criminal Matters", 
@@ -17921,6 +17933,10 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/616/original/draft-paper_1.pdf?1541600497", 
                                         "title": "Draft Paper"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/684/original/presentation.pdf?1546031613", 
+                                        "title": "Slides"
                                     }
                                 ]
                             }, 
@@ -25230,117 +25246,29 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Blind navigation workshop": [
+                        "Assembly:Foodhackingbase": [
                             {
-                                "id": 1210, 
-                                "guid": "2ca556b7-b032-4d2a-918d-622739d168f0", 
-                                "logo": null, 
-                                "date": "2018-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Blind navigation workshop", 
-                                "slug": "35c3-1210-session_blind_navigation_workshops", 
-                                "title": "Blind Navigation Workshops", 
-                                "subtitle": "Day 4 TBD", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                                        "public_name": "Saizai"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://s.ai/ccc/ws", 
-                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
-                                ]
-                            }
-                        ], 
-                        "Assembly:MOiN - Mehrere Orte im Norden": [
-                            {
-                                "id": 1229, 
-                                "guid": "ae69c229-12cd-4a3f-b4f9-f48630abdfe8", 
-                                "logo": null, 
-                                "date": "2018-12-29T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
-                                "slug": "35c3-1229-session_chaos_als_ausserschulischer_lernort", 
-                                "title": "Chaos als Au\u00dferschulischer Lernort", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wir als Chaostreff Flensburg machen (Technik) Jugend Bildung au\u00dferhalb von Schulen und wollen dar\u00fcber reden und wissen wie das andere machen.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
-                                        "public_name": "Scammo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://chaostreff-flensburg.de/events/jugendtreff-neue-tueftler/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_als_Au%C3%9Ferschulischer_Lernort"
-                                ]
-                            }, 
-                            {
-                                "id": 1227, 
-                                "guid": "628d094a-c885-448e-8307-877ddd7ce75a", 
+                                "id": 1477, 
+                                "guid": "0dbb64df-3976-4cfb-aa55-03a9e6bb4556", 
                                 "logo": null, 
                                 "date": "2018-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
-                                "duration": "1:30", 
-                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
-                                "slug": "35c3-1227-session_diy_ductace_wallets", 
-                                "title": "DIY Ductace Wallets", 
+                                "duration": "1:20", 
+                                "room": "Assembly:Foodhackingbase", 
+                                "slug": "35c3-1477-session_beef_jerky_boxes", 
+                                "title": "Beef jerky Boxes", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "workshop", 
+                                "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people. Here is an example: https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
-                                        "public_name": "Scammo"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets"
-                                ]
-                            }, 
-                            {
-                                "id": 1442, 
-                                "guid": "b5b9b5d8-7572-46e5-bf09-b34bc391540f", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "2:00", 
-                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
-                                "slug": "35c3-1442-session_indoor_localization_game_controller", 
-                                "title": "Indoor Localization Game Controller", 
-                                "subtitle": "UFO game", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Play video games using an indoor localization as a controller, so that you (physically) are the player! The installation is quite retro-ish and the open source game engine Godot was used, among other things.", 
+                                "description": "We create a box for making beef jerky together. Each participant (17 spots available) gets to take their box home!", 
                                 "persons": [], 
                                 "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller"
+                                    "https://foodhackingbase.org/wiki/Beef_Jerky_Box_Making", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Beef_jerky_Boxes"
                                 ]
-                            }
-                        ], 
-                        "Assembly:Foodhackingbase": [
+                            }, 
                             {
                                 "id": 1034, 
                                 "guid": "b2c21678-66f6-498e-97ed-42f34c5e295e", 
@@ -25451,6 +25379,116 @@
                                 "links": [
                                     "https://foodhackingbase.org/wiki/Probiotic_drinks_making_35c3", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Probiotic_Drinks_Making"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Blind navigation workshop": [
+                            {
+                                "id": 1210, 
+                                "guid": "2ca556b7-b032-4d2a-918d-622739d168f0", 
+                                "logo": null, 
+                                "date": "2018-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Blind navigation workshop", 
+                                "slug": "35c3-1210-session_blind_navigation_workshops", 
+                                "title": "Blind Navigation Workshops", 
+                                "subtitle": "Day 4 TBD", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
+                                        "public_name": "Saizai"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://s.ai/ccc/ws", 
+                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
+                                ]
+                            }
+                        ], 
+                        "Assembly:MOiN - Mehrere Orte im Norden": [
+                            {
+                                "id": 1229, 
+                                "guid": "ae69c229-12cd-4a3f-b4f9-f48630abdfe8", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
+                                "slug": "35c3-1229-session_chaos_als_ausserschulischer_lernort", 
+                                "title": "Chaos als Au\u00dferschulischer Lernort", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wir als Chaostreff Flensburg machen (Technik) Jugend Bildung au\u00dferhalb von Schulen und wollen dar\u00fcber reden und wissen wie das andere machen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
+                                        "public_name": "Scammo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://chaostreff-flensburg.de/events/jugendtreff-neue-tueftler/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Chaos_als_Au%C3%9Ferschulischer_Lernort"
+                                ]
+                            }, 
+                            {
+                                "id": 1227, 
+                                "guid": "628d094a-c885-448e-8307-877ddd7ce75a", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
+                                "slug": "35c3-1227-session_diy_ductace_wallets", 
+                                "title": "DIY Ductace Wallets", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We will buld wallets made of ductape (or german Gaffer). This will take you around 2h. We will have some examples walltets and a lot of ductape. You need todo the rest by yourself and the help of the other people. Here is an example: https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo", 
+                                        "public_name": "Scammo"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://www.wikihow.com/Make-a-Duct-Tape-Wallet", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:DIY_Ductace_Wallets"
+                                ]
+                            }, 
+                            {
+                                "id": 1442, 
+                                "guid": "b5b9b5d8-7572-46e5-bf09-b34bc391540f", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "2:00", 
+                                "room": "Assembly:MOiN - Mehrere Orte im Norden", 
+                                "slug": "35c3-1442-session_indoor_localization_game_controller", 
+                                "title": "Indoor Localization Game Controller", 
+                                "subtitle": "UFO game", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Play video games using an indoor localization as a controller, so that you (physically) are the player! The installation is quite retro-ish and the open source game engine Godot was used, among other things.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Indoor_Localization_Game_Controller"
                                 ]
                             }
                         ], 
@@ -25671,8 +25709,8 @@
                                 "id": 1403, 
                                 "guid": "c0b9f048-44b4-47e8-9ec2-e11ecf086c1d", 
                                 "logo": null, 
-                                "date": "2018-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Social Fiction Society", 
                                 "slug": "35c3-1403-session_imperfect_vr", 
