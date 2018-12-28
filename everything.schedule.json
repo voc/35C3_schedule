@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:20", 
+        "version": "Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -12415,7 +12415,7 @@
                                 "logo": null, 
                                 "date": "2018-12-28T19:00:00+01:00", 
                                 "start": "19:00", 
-                                "duration": "00:45", 
+                                "duration": "01:15", 
                                 "room": "Sendetisch", 
                                 "slug": "RGUGPL", 
                                 "url": "https://35c3.studio-link.de/35c3/talk/RGUGPL", 
@@ -14373,6 +14373,28 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song"
+                                ]
+                            }, 
+                            {
+                                "id": 1435, 
+                                "guid": "d9663e6c-741a-4162-88df-d6fbcf50338c", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:00", 
+                                "room": "", 
+                                "slug": "35c3-1435-session_flunkyball_day_2_session_1", 
+                                "title": "Flunkyball Day 2 Session 1", 
+                                "subtitle": "Day 2 Session 1", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "We're going to play some rounds of the german drinking game \"Flunkyball\"", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.upb-flunkyteam.de", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_2_Session_1"
                                 ]
                             }, 
                             {
@@ -25028,6 +25050,30 @@
                                 "links": [
                                     "https://pslab.io", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }
+                        ], 
+                        "Assembly:CatNet": [
+                            {
+                                "id": 1436, 
+                                "guid": "09797878-c05d-435e-a10e-ef5481a61c5d", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "0:30", 
+                                "room": "Assembly:CatNet", 
+                                "slug": "35c3-1436-session_social_media_design_the_chances_of_social_linked_data", 
+                                "title": "Social Media Design & the chances of social linked data", 
+                                "subtitle": "Project presentation, Call for participation", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "How should a social network work? What is the Solid technology and how will it improve the current social network situation? (Spoiler: a lot)", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.catnet.rocks", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Social_Media_Design_%26_the_chances_of_social_linked_data"
                                 ]
                             }
                         ], 

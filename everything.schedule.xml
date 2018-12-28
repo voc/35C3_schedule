@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:20</version>
+  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11901,7 +11901,7 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <logo/>
         <date>2018-12-28T19:00:00+01:00</date>
         <start>19:00</start>
-        <duration>00:45</duration>
+        <duration>01:15</duration>
         <room>Sendetisch</room>
         <slug>RGUGPL</slug>
         <url>https://35c3.studio-link.de/35c3/talk/RGUGPL</url>
@@ -13847,6 +13847,26 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:%22Join_us_now_and_...%22_sing_together_the_Free_Software_song</link>
+        </links>
+      </event>
+      <event id="1435" guid="d9663e6c-741a-4162-88df-d6fbcf50338c">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1435-session_flunkyball_day_2_session_1</slug>
+        <title>Flunkyball Day 2 Session 1</title>
+        <subtitle>Day 2 Session 1</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>We're going to play some rounds of the german drinking game "Flunkyball"</description>
+        <persons/>
+        <links>
+          <link>http://www.upb-flunkyteam.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_2_Session_1</link>
         </links>
       </event>
       <event id="1190" guid="2708d339-0653-4648-bae1-0f2ec8d42811">
@@ -23567,6 +23587,28 @@ Freifunk since 2003</biography>
         <links>
           <link>https://pslab.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:CatNet">
+      <event id="1436" guid="09797878-c05d-435e-a10e-ef5481a61c5d">
+        <logo/>
+        <date>2018-12-29T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:CatNet</room>
+        <slug>35c3-1436-session_social_media_design_the_chances_of_social_linked_data</slug>
+        <title>Social Media Design &amp; the chances of social linked data</title>
+        <subtitle>Project presentation, Call for participation</subtitle>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>How should a social network work? What is the Solid technology and how will it improve the current social network situation? (Spoiler: a lot)</description>
+        <persons/>
+        <links>
+          <link>http://www.catnet.rocks</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Social_Media_Design_%26_the_chances_of_social_linked_data</link>
         </links>
       </event>
     </room>
