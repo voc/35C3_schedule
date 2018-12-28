@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 23:30</version>
+  <version>2018-12-28 23:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1577,6 +1577,28 @@
     </room>
   </day>
   <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
+    <room name="Dome Art-and-Play">
+      <event id="1478" guid="3dff5ffa-6228-409b-9d3c-40c6918b14d1">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1478-session_verschickung_falsch_frankiert</slug>
+        <title>Verschickung, falsch frankiert</title>
+        <subtitle>frickelzwang für sessionschwänzer</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>frickelzwang für sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert</link>
+        </links>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena"/>
     <room name="Lecture room 11">
       <event id="1008" guid="83e455a6-c0bc-4364-b4df-8bc7b7dd01ab">
@@ -2052,12 +2074,12 @@
         <room>Seminar room 14-15</room>
         <slug>35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry</slug>
         <title>Wondrous Mathematics: The curious world of four-dimensional geometry</title>
-        <subtitle/>
+        <subtitle>talk in room 14/15 (NOT in M3 as previously announced)</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.</description>
+        <description>(NOT in M3, but in 14/15) You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
         </persons>
@@ -3693,6 +3715,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Gamma_Radiation_Monitoring</link>
         </links>
       </event>
+      <event id="1457" guid="6c075464-2c18-45a7-8ed1-5a2937d4d53a">
+        <logo/>
+        <date>2018-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>0:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1457-session_it_security_unternehmen_ohne_chefs</slug>
+        <title>IT-Security-Unternehmen ohne Chefs</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Infoveranstaltung für Interessierte eines Kollektiv-IT-Unternehmens</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs</link>
+        </links>
+      </event>
       <event id="1078" guid="9c76e190-297d-485c-98dd-f63295f21f89">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
@@ -4858,25 +4899,6 @@
         <links>
           <link>https://c3eo.chaotik.de</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
-        </links>
-      </event>
-      <event id="1457" guid="6c075464-2c18-45a7-8ed1-5a2937d4d53a">
-        <logo/>
-        <date>2018-12-29T21:30:00+01:00</date>
-        <start>21:30</start>
-        <duration>0:15</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1457-session_it_security_unternehmen_ohne_chefs</slug>
-        <title>IT-Security-Unternehmen ohne Chefs</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs</link>
         </links>
       </event>
       <event id="1068" guid="eb3e6e50-58e4-46a1-826e-ebc9691713e3">

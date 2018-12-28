@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 23:30", 
+        "version": "2018-12-28 23:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -1868,6 +1868,30 @@
                     "index": 2, 
                     "day_end": "2018-12-29T04:00:00+01:00", 
                     "rooms": {
+                        "Dome Art-and-Play": [
+                            {
+                                "id": 1478, 
+                                "guid": "3dff5ffa-6228-409b-9d3c-40c6918b14d1", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "3:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1478-session_verschickung_falsch_frankiert", 
+                                "title": "Verschickung, falsch frankiert", 
+                                "subtitle": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert"
+                                ]
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [], 
                         "Lecture room 11": [
                             {
@@ -2445,12 +2469,12 @@
                                 "room": "Seminar room 14-15", 
                                 "slug": "35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry", 
                                 "title": "Wondrous Mathematics: The curious world of four-dimensional geometry", 
-                                "subtitle": "", 
+                                "subtitle": "talk in room 14/15 (NOT in M3 as previously announced)", 
                                 "track": "self organized sessions", 
                                 "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.", 
+                                "description": "(NOT in M3, but in 14/15) You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -4387,6 +4411,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1457, 
+                                "guid": "6c075464-2c18-45a7-8ed1-5a2937d4d53a", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "0:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1457-session_it_security_unternehmen_ohne_chefs", 
+                                "title": "IT-Security-Unternehmen ohne Chefs", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Infoveranstaltung f\u00fcr Interessierte eines Kollektiv-IT-Unternehmens", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs"
+                                ]
+                            }, 
+                            {
                                 "id": 1078, 
                                 "guid": "9c76e190-297d-485c-98dd-f63295f21f89", 
                                 "logo": null, 
@@ -5749,27 +5794,6 @@
                                 "links": [
                                     "https://c3eo.chaotik.de", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
-                                ]
-                            }, 
-                            {
-                                "id": 1457, 
-                                "guid": "6c075464-2c18-45a7-8ed1-5a2937d4d53a", 
-                                "logo": null, 
-                                "date": "2018-12-29T21:30:00+01:00", 
-                                "start": "21:30", 
-                                "duration": "0:15", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1457-session_it_security_unternehmen_ohne_chefs", 
-                                "title": "IT-Security-Unternehmen ohne Chefs", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs"
                                 ]
                             }, 
                             {

@@ -12084,26 +12084,28 @@
             }
         ]
     }, 
-    "Session:IT-Security-Unternehmen ohne Chefs# 3481a37fccda15d4675a7d054cd473c5": {
+    "Session:IT-Security-Unternehmen ohne Chefs# 87cdcda1f53476e67242894e44128fd8": {
         "Held in language": [
             "de - German"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546119000", 
-                "raw": "1/2018/12/29/21/30/0/0"
+                "timestamp": "1546122600", 
+                "raw": "1/2018/12/29/22/30/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "Infoveranstaltung f\u00fcr Interessierte eines Kollektiv-IT-Unternehmens"
+        ], 
         "Has session type": [], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -12115,7 +12117,7 @@
             "IT-Security-Unternehmen ohne Chefs"
         ], 
         "Has duration": [
-            15
+            30
         ], 
         "GUID": [
             "6c075464-2c18-45a7-8ed1-5a2937d4d53a"
@@ -12126,8 +12128,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:IT-Security-Unternehmen_ohne_Chefs", 
         "Has end time": [
             {
-                "timestamp": "1546119900", 
-                "raw": "1/2018/12/29/21/45/0/0"
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
             }
         ]
     }, 
@@ -24769,6 +24771,59 @@
             }
         ]
     }, 
+    "Session:Verschickung, falsch frankiert# b15299a2027ad85267e25219340552a4": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Verschickung, falsch frankiert"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "3dff5ffa-6228-409b-9d3c-40c6918b14d1"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert", 
+        "Has end time": [
+            {
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
+            }
+        ]
+    }, 
     "Session:Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG (2)# 3767d2836418276ee572b7a2479087b4": {
         "Held in language": [
             "de - German"
@@ -26183,7 +26238,7 @@
             }
         ]
     }, 
-    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# a848abfbf4c1946a70773c40d618ff23": {
+    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 7b74c0c301ba3710b83e1bd8c2b7201b": {
         "Held in language": [
             "en - English"
         ], 
@@ -26198,7 +26253,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
+            "(NOT in M3, but in 14/15) You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
         ], 
         "Has session type": [
             "Talk"
@@ -26212,7 +26267,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "talk in room 14/15 (NOT in M3 as previously announced)"
+        ], 
         "Is organized by": [
             {
                 "fulltext": "User:Iblech", 
