@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.1</version>
+  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 more chaos 1.1.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8295,37 +8295,6 @@ Letztes Jahr gestartet aus der Motivation heraus, dem Motto tuwat gerecht zu wer
         <attachments/>
         <answers/>
       </event>
-      <event id="441" guid="9c832796-30da-5786-9c3c-e57288435b8d">
-        <logo/>
-        <date>2018-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>00:45</duration>
-        <room>Sendetisch</room>
-        <slug>V3AVZ9</slug>
-        <url>https://35c3.studio-link.de/35c3/talk/V3AVZ9</url>
-        <title>Several Ways To Live In Mexico City</title>
-        <subtitle/>
-        <track/>
-        <type>Sendetisch</type>
-        <language>en</language>
-        <abstract>Mexico is complicated, but we eat our way to an explanation.</abstract>
-        <description>For all of Mexico’s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.&#13;
-&#13;
-There might be free tacos.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="40">
-            <name>Unbenannter Nutzer</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="410" guid="1046a7b1-1eca-5b60-977f-0bb21a548dd7">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
@@ -13812,6 +13781,37 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
         <persons>
           <person id="44">
             <name>Holm, Bausparfuchs, Agrigor</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="441" guid="9c832796-30da-5786-9c3c-e57288435b8d">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>V3AVZ9</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/V3AVZ9</url>
+        <title>Several Ways To Live In Mexico City</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>en</language>
+        <abstract>Mexico is complicated, but we eat our way to an explanation.</abstract>
+        <description>For all of Mexico’s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.&#13;
+&#13;
+There might be free tacos.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>Unbenannter Nutzer</name>
             <biography/>
           </person>
         </persons>

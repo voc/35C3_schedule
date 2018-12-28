@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.1", 
+        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 more chaos 1.1.1", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -8159,37 +8159,6 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 441, 
-                                "guid": "9c832796-30da-5786-9c3c-e57288435b8d", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "V3AVZ9", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/V3AVZ9", 
-                                "title": "Several Ways To Live In Mexico City", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "en", 
-                                "abstract": "Mexico is complicated, but we eat our way to an explanation.", 
-                                "description": "For all of Mexico\u2019s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.\r\n\r\nThere might be free tacos.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 40, 
-                                        "name": "Unbenannter Nutzer", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 410, 
                                 "guid": "1046a7b1-1eca-5b60-977f-0bb21a548dd7", 
                                 "logo": null, 
@@ -13773,6 +13742,37 @@
                                     {
                                         "id": 44, 
                                         "name": "Holm, Bausparfuchs, Agrigor", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 441, 
+                                "guid": "9c832796-30da-5786-9c3c-e57288435b8d", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "V3AVZ9", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/V3AVZ9", 
+                                "title": "Several Ways To Live In Mexico City", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "en", 
+                                "abstract": "Mexico is complicated, but we eat our way to an explanation.", 
+                                "description": "For all of Mexico\u2019s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.\r\n\r\nThere might be free tacos.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 40, 
+                                        "name": "Unbenannter Nutzer", 
                                         "biography": null, 
                                         "answers": []
                                     }

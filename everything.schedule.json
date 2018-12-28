@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.1 2018-12-28 17:30", 
+        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 more chaos 1.1.1 2018-12-28 17:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -12440,37 +12440,6 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 441, 
-                                "guid": "9c832796-30da-5786-9c3c-e57288435b8d", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "00:45", 
-                                "room": "Sendetisch", 
-                                "slug": "V3AVZ9", 
-                                "url": "https://35c3.studio-link.de/35c3/talk/V3AVZ9", 
-                                "title": "Several Ways To Live In Mexico City", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Sendetisch", 
-                                "language": "en", 
-                                "abstract": "Mexico is complicated, but we eat our way to an explanation.", 
-                                "description": "For all of Mexico\u2019s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.\r\n\r\nThere might be free tacos.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 40, 
-                                        "name": "Unbenannter Nutzer", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 410, 
                                 "guid": "1046a7b1-1eca-5b60-977f-0bb21a548dd7", 
                                 "logo": null, 
@@ -21968,6 +21937,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 441, 
+                                "guid": "9c832796-30da-5786-9c3c-e57288435b8d", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "V3AVZ9", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/V3AVZ9", 
+                                "title": "Several Ways To Live In Mexico City", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "en", 
+                                "abstract": "Mexico is complicated, but we eat our way to an explanation.", 
+                                "description": "For all of Mexico\u2019s problems, the food is not one of them. Join Florian and Nick as they dine their way through discussions of life in Mexico from their German and American born perspectives.\r\n\r\nThere might be free tacos.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 40, 
+                                        "name": "Unbenannter Nutzer", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 420, 
                                 "guid": "80feb261-796e-5b84-9781-19e770c6b8f4", 
                                 "logo": null, 
@@ -25419,6 +25419,58 @@
                                 ]
                             }
                         ], 
+                        "Assembly:WikiPakaWG": [
+                            {
+                                "id": 1456, 
+                                "guid": "e56ffe30-234f-4ea1-9f44-5c22324ad300", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:WikiPakaWG", 
+                                "slug": "35c3-1456-session_hacks_hackers_meet_up", 
+                                "title": "Hacks/Hackers Meet-Up", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "\u201cHacks\u201d (journalists) and \u201chackers\u201d (technologists) work together to create physical and digital spaces for exploring new ways to tell stories.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://hackshackers.com/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacks/Hackers_Meet-Up"
+                                ]
+                            }, 
+                            {
+                                "id": 1311, 
+                                "guid": "1431d298-338b-4385-9017-0e477621ab9c", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:WikiPakaWG", 
+                                "slug": "35c3-1311-session_squarelet_kooperativ_lernen_mit_open_source_pinboards", 
+                                "title": "Squarelet - Kooperativ lernen mit Open Source-Pinboards", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Wir entwickeln squarelet.org, ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:NMarkus", 
+                                        "public_name": "NMarkus"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://www.squarelet.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Squarelet_-_Kooperativ_lernen_mit_Open_Source-Pinboards"
+                                ]
+                            }
+                        ], 
                         "Vintage Computing Cluster": [
                             {
                                 "id": 1420, 
@@ -25733,36 +25785,6 @@
                                 "links": [
                                     "http://www.catnet.rocks", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Social_Media_Design_%26_the_chances_of_social_linked_data"
-                                ]
-                            }
-                        ], 
-                        "Assembly:WikiPakaWG": [
-                            {
-                                "id": 1311, 
-                                "guid": "1431d298-338b-4385-9017-0e477621ab9c", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:30:00+01:00", 
-                                "start": "14:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:WikiPakaWG", 
-                                "slug": "35c3-1311-session_squarelet_kooperativ_lernen_mit_open_source_pinboards", 
-                                "title": "Squarelet - Kooperativ lernen mit Open Source-Pinboards", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wir entwickeln squarelet.org, ein Open-Source-Pinboard f\u00fcr kooperatives Lernen und Arbeiten. In dem Workshop stellen wir die Alpha-Version vor, erstellen Use Cases und freuen uns \u00fcber eure Ideen und Anregungen.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:NMarkus", 
-                                        "public_name": "NMarkus"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.squarelet.org", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Squarelet_-_Kooperativ_lernen_mit_Open_Source-Pinboards"
                                 ]
                             }
                         ], 

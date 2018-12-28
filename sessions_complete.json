@@ -10982,6 +10982,59 @@
             }
         ]
     }, 
+    "Session:Hacks/Hackers Meet-Up# 5c0bec1cb0ec908a212700f27d4fec48": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://hackshackers.com/"
+        ], 
+        "Has description": [
+            "\u201cHacks\u201d (journalists) and \u201chackers\u201d (technologists) work together to create physical and digital spaces for exploring new ways to tell stories."
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:WikiPakaWG", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:WikiPakaWG", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Hacks/Hackers Meet-Up"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "e56ffe30-234f-4ea1-9f44-5c22324ad300"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacks/Hackers_Meet-Up", 
+        "Has end time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:HaecksenBreakfast# 1aed94973ba7e8f75e8334383b44950f": {
         "Held in language": [
             "de - German"
