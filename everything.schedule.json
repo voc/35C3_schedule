@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:40", 
+        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 11:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14392,6 +14392,33 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Muster-/Polizeigesetz(e)"
+                                ]
+                            }, 
+                            {
+                                "id": 1428, 
+                                "guid": "a7f35fdf-e134-4e72-88ec-d572e015bfbc", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:30", 
+                                "room": "", 
+                                "slug": "35c3-1428-session_rubik_s_cube_loesen_lernen", 
+                                "title": "Rubik's Cube L\u00f6sen Lernen", 
+                                "subtitle": "How to solve the Cube on your own with Commutators.", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Rubik's Cube - Learn to Solve", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kmkkmk", 
+                                        "public_name": "Kmkkmk"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rubik%27s_Cube_L%C3%B6sen_Lernen"
                                 ]
                             }, 
                             {

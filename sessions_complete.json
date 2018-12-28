@@ -16500,6 +16500,60 @@
             }
         ]
     }, 
+    "Session:Rubik's Cube L\u00f6sen Lernen# f6b5dfe0487e1f674c47321cd51fad9a": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rubik's Cube - Learn to Solve"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "How to solve the Cube on your own with Commutators."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kmkkmk", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kmkkmk", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Rubik's Cube L\u00f6sen Lernen"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "a7f35fdf-e134-4e72-88ec-d572e015bfbc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rubik%27s_Cube_L%C3%B6sen_Lernen", 
+        "Has end time": [
+            {
+                "timestamp": "1546029000", 
+                "raw": "1/2018/12/28/20/30/0/0"
+            }
+        ]
+    }, 
     "Session:Rust 2025# dcfdf217af137b17b7ef10daffe9c25d": {
         "Held in language": [
             "en - English"
