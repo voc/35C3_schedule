@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more additions 1.1.0", 
+        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -15355,6 +15355,37 @@
                                         "id": 19, 
                                         "name": "mikio", 
                                         "biography": "laniakea.blog", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 867, 
+                                "guid": "82b16ebc-3ff6-5489-9744-e4e81e70fc5c", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "00:30", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "WDQGCE", 
+                                "url": "https://talks.komona.org/35c3/talk/WDQGCE", 
+                                "title": "librehosters", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. \r\n\r\nThis will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly", 
+                                "description": "librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. \r\n\r\nThis will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 1, 
+                                        "name": "realitygaps", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 

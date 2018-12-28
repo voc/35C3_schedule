@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more additions 1.1.0</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15338,6 +15338,39 @@ bring your texts!</description>
           <person id="19">
             <name>mikio</name>
             <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="867" guid="82b16ebc-3ff6-5489-9744-e4e81e70fc5c">
+        <logo/>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>WDQGCE</slug>
+        <url>https://talks.komona.org/35c3/talk/WDQGCE</url>
+        <title>librehosters</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. &#13;
+&#13;
+This will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly</abstract>
+        <description>librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. &#13;
+&#13;
+This will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="1">
+            <name>realitygaps</name>
+            <biography/>
           </person>
         </persons>
         <links/>
