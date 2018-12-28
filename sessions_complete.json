@@ -20291,8 +20291,10 @@
             }
         ]
     }, 
-    "Session:Teckids Teamlead Orga Meeting# 0c57bf105e6f22498270a7a7db1e9b66": {
-        "Held in language": [], 
+    "Session:Teckids-Teamleitertreffen# ba31c5b87828708641e5e083b5f75ae8": {
+        "Held in language": [
+            "de - German"
+        ], 
         "Has start time": [
             {
                 "timestamp": "1546083000", 
@@ -20303,10 +20305,10 @@
             "Session"
         ], 
         "Has website": [
-            "http://teckids.org"
+            "https://www.teckids.org"
         ], 
         "Has description": [
-            "Orga Meeting f\u00fcr Teckids Teamleiter"
+            "Orga-Meeting f\u00fcr Teckids-Teamleiter"
         ], 
         "Has session type": [
             "Meeting"
@@ -20331,7 +20333,7 @@
             }
         ], 
         "Has title": [
-            "Teckids Teamlead Orga Meeting"
+            "Teckids-Teamleitertreffen"
         ], 
         "Has duration": [
             60
@@ -20342,7 +20344,7 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids-Teamleitertreffen", 
         "Has end time": [
             {
                 "timestamp": "1546086600", 

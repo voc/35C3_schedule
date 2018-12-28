@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 12:20</version>
+  <version>Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 12:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18259,20 +18259,20 @@ However, it's not always easy...</description>
         <start>11:30</start>
         <duration>1:00</duration>
         <room>Lecture room M2</room>
-        <slug>35c3-1234-session_teckids_teamlead_orga_meeting</slug>
-        <title>Teckids Teamlead Orga Meeting</title>
+        <slug>35c3-1234-session_teckids_teamleitertreffen</slug>
+        <title>Teckids-Teamleitertreffen</title>
         <subtitle/>
         <track>self organized sessions</track>
         <type>meeting</type>
-        <language/>
+        <language>de</language>
         <abstract/>
-        <description>Orga Meeting für Teckids Teamleiter</description>
+        <description>Orga-Meeting für Teckids-Teamleiter</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Magu">Magu</person>
         </persons>
         <links>
-          <link>http://teckids.org</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids_Teamlead_Orga_Meeting</link>
+          <link>https://www.teckids.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Teckids-Teamleitertreffen</link>
         </links>
       </event>
       <event id="1134" guid="45a13447-70ed-47d2-82ae-e88366738130">
