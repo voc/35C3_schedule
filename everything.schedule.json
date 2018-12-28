@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 2.0 v2.5 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:20", 
+        "version": "Love Boat 3 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -22043,6 +22043,37 @@
                                     {
                                         "id": 40, 
                                         "name": "Unbenannter Nutzer", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 447, 
+                                "guid": "7a637da7-d9a4-5a15-8eec-1484e6871fab", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:15", 
+                                "room": "Sendetisch", 
+                                "slug": "DR9VEM", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/DR9VEM", 
+                                "title": "Strom kommt nicht aus der Steckdose", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Wir laden ein zur Diskussion \u00fcber verschiedene Methoden der Energiegewinnung und ihre Einfl\u00fcsse auf Umwelt und Mensch.", 
+                                "description": "Energiegewinnung und Umweltschutz sind relevante, aber auch kontroverse Themen, bei denen es schwierig ist, sich zu \u00e4u\u00dfern, ohne ins Kreuzfeuer zu geraten. Stigmata und Vorurteile dominieren die Presse und machen einen sachlichen Konsens unm\u00f6glich. Um dem entgegenzuwirken, m\u00f6chten wir mit euch \u00fcber genau diese Themen diskutieren und auch kritische Punkte ansprechen, die nicht gern geh\u00f6rt werden. Von Atom bis Wind soll jede Quelle Thema sein.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 45, 
+                                        "name": "Tora & Ki (Phasenraum)", 
                                         "biography": null, 
                                         "answers": []
                                     }

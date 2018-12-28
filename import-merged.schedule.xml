@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.5 1.2 MemoryRefreshV1.0 1312 1.1.2</version>
+  <version>Love Boat 3 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13870,6 +13870,35 @@ There might be free tacos.</description>
         <persons>
           <person id="40">
             <name>Unbenannter Nutzer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="447" guid="7a637da7-d9a4-5a15-8eec-1484e6871fab">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:15</duration>
+        <room>Sendetisch</room>
+        <slug>DR9VEM</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/DR9VEM</url>
+        <title>Strom kommt nicht aus der Steckdose</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Wir laden ein zur Diskussion über verschiedene Methoden der Energiegewinnung und ihre Einflüsse auf Umwelt und Mensch.</abstract>
+        <description>Energiegewinnung und Umweltschutz sind relevante, aber auch kontroverse Themen, bei denen es schwierig ist, sich zu äußern, ohne ins Kreuzfeuer zu geraten. Stigmata und Vorurteile dominieren die Presse und machen einen sachlichen Konsens unmöglich. Um dem entgegenzuwirken, möchten wir mit euch über genau diese Themen diskutieren und auch kritische Punkte ansprechen, die nicht gern gehört werden. Von Atom bis Wind soll jede Quelle Thema sein.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="45">
+            <name>Tora &amp; Ki (Phasenraum)</name>
             <biography/>
           </person>
         </persons>
