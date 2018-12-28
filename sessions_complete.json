@@ -988,6 +988,51 @@
             }
         ]
     }, 
+    "Session:A Conversation on Privacy# 8402a6bfc9c935bcffb153ab16b72e56": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543775400", 
+                "raw": "1/2018/12/2/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://www.binance.com/"
+        ], 
+        "Has description": [
+            "A conversation on the latest development in privacytech with a panel of researchers, developers and entrepreneurs."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "A Conversation on Privacy"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5e5a0f00-f685-49be-a637-5869c64f0580"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A_Conversation_on_Privacy", 
+        "Has end time": [
+            {
+                "timestamp": "1543818600", 
+                "raw": "1/2018/12/3/6/30/0/0"
+            }
+        ]
+    }, 
     "Session:A/V Angel Meeting# 7275f9cb5f508be64388f016ea58a2d0": {
         "Held in language": [
             "de - German", 
