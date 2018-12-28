@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 more chaos 1.1.1 2018-12-28 18:20", 
+        "version": "Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 19:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14235,8 +14235,8 @@
                                 "id": 835, 
                                 "guid": "2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836", 
                                 "logo": null, 
-                                "date": "2018-12-28T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2018-12-28T17:15:00+01:00", 
+                                "start": "17:15", 
                                 "duration": "01:00", 
                                 "room": "Komona Thunderdome #workshops #talks", 
                                 "slug": "8K97H3", 
@@ -14423,6 +14423,37 @@
                                     {
                                         "id": 22, 
                                         "name": "paulaner", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 866, 
+                                "guid": "eb22b90a-750d-5cf0-983d-6550771deb5a", 
+                                "logo": null, 
+                                "date": "2018-12-28T22:15:00+01:00", 
+                                "start": "22:15", 
+                                "duration": "01:00", 
+                                "room": "Komona Zelt #workshops #handson", 
+                                "slug": "ZLF9ES", 
+                                "url": "https://talks.komona.org/35c3/talk/ZLF9ES", 
+                                "title": "Rojava: the situation in northen syria", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Let's have a conversation about what is happening in northern syria and how can we support their struggle.", 
+                                "description": "Rojava has being a source of inspiration to dream of other possible societies, while in the middle of a war in Syria. The situation there is getting worst by turkey army moving into the territory and threatening to kill a whole section of the population.", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 58, 
+                                        "name": "annon", 
                                         "biography": "", 
                                         "answers": []
                                     }
@@ -28167,6 +28198,37 @@
                             }
                         ], 
                         "Komona Kuppel 3 #talks": [
+                            {
+                                "id": 868, 
+                                "guid": "ecdcee04-1ab0-538d-ad0a-739b4ef4754f", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "02:00", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "AWZDBT", 
+                                "url": "https://talks.komona.org/35c3/talk/AWZDBT", 
+                                "title": "Inter/dependence: the game", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support.", 
+                                "description": "Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from shared interests in mutualism, agency, and artists\u2019 roles. Let\u2019s play.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 59, 
+                                        "name": "Sarrita Hunn", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 842, 
                                 "guid": "434d261f-43c7-5839-8cd2-a7f931960f3f", 

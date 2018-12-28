@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 more chaos 1.1.1</version>
+  <version>Love Boat 3 1.9.3141576 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -10074,8 +10074,8 @@ You will have around five minutes to present, but we want to keep the format fle
       </event>
       <event id="835" guid="2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836">
         <logo/>
-        <date>2018-12-28T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2018-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
         <duration>01:00</duration>
         <room>Komona Thunderdome #workshops #talks</room>
         <slug>8K97H3</slug>
@@ -10271,6 +10271,35 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <persons>
           <person id="22">
             <name>paulaner</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="866" guid="eb22b90a-750d-5cf0-983d-6550771deb5a">
+        <logo/>
+        <date>2018-12-28T22:15:00+01:00</date>
+        <start>22:15</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>ZLF9ES</slug>
+        <url>https://talks.komona.org/35c3/talk/ZLF9ES</url>
+        <title>Rojava: the situation in northen syria</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Let's have a conversation about what is happening in northern syria and how can we support their struggle.</abstract>
+        <description>Rojava has being a source of inspiration to dream of other possible societies, while in the middle of a war in Syria. The situation there is getting worst by turkey army moving into the territory and threatening to kill a whole section of the population.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="58">
+            <name>annon</name>
             <biography/>
           </person>
         </persons>
@@ -17966,6 +17995,35 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
       </event>
     </room>
     <room name="Komona Kuppel 3 #talks">
+      <event id="868" guid="ecdcee04-1ab0-538d-ad0a-739b4ef4754f">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>AWZDBT</slug>
+        <url>https://talks.komona.org/35c3/talk/AWZDBT</url>
+        <title>Inter/dependence: the game</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support.</abstract>
+        <description>Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from shared interests in mutualism, agency, and artists’ roles. Let’s play.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Sarrita Hunn</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="842" guid="434d261f-43c7-5839-8cd2-a7f931960f3f">
         <logo/>
         <date>2018-12-30T14:00:00+01:00</date>
