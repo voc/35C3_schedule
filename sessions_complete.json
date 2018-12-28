@@ -1789,6 +1789,63 @@
             }
         ]
     }, 
+    "Session:Anki: software for long-time learning (even programming stuff)# f8d4e14391eaea7f1ddcc36b5bdf1136": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546179000", 
+                "raw": "1/2018/12/30/14/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Arthur Rainbow", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Anki: software for long-time learning (even programming stuff)"
+        ], 
+        "Has duration": [
+            50
+        ], 
+        "GUID": [
+            "e93ec9b5-505e-4a98-bde3-458a42475a28"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)", 
+        "Has end time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Arch Linux Meetup# 74b3f10b249ea3c46dfa48e29dbb486e": {
         "Held in language": [
             "en - English"
@@ -10889,7 +10946,7 @@
             "https://8os.io"
         ], 
         "Has description": [
-            "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>"
+            "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No prior experience needed. Total refresh.'''''</span>"
         ], 
         "Has session type": [
             "Workshop"
@@ -17033,7 +17090,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Vorstellung des Projektes und Diskussion \u00fcber das Thema Allgemein"
+            "Vorstellung des Projektes und Diskussion \u00fcber das Thema Allgemein f\u00fcr weitere Fragen schreibt mir gerne eine Email fs@aboutpolitics.co"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -18196,14 +18253,14 @@
             }
         ]
     }, 
-    "Session:Saving Ecology with Data - First Steps# f0d079670bfea1c021a843154ed5d00c": {
+    "Session:Saving Ecology with Data - First Steps# bc62be230471b1ad4da8a31eb107fb59": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
             }
         ], 
         "Has event track": [
@@ -18216,7 +18273,15 @@
         "Has session type": [
             "Meeting"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Vintage Computing", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Vintage_Computing", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
@@ -18234,8 +18299,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps", 
         "Has end time": [
             {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
     }, 
@@ -19448,6 +19513,57 @@
             {
                 "timestamp": "1546183800", 
                 "raw": "1/2018/12/30/15/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Social Construct Hacking# 7c5dc403c46870ecfb788a8b1bc3a251": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543782600", 
+                "raw": "1/2018/12/2/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "It's not so much that code is law, it's more like law is code and that it runs on people."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Social Construct Hacking"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "46e69af9-61f9-4c37-bce2-4f51080d7081"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Social_Construct_Hacking", 
+        "Has end time": [
+            {
+                "timestamp": "1543825800", 
+                "raw": "1/2018/12/3/8/30/0/0"
             }
         ]
     }, 

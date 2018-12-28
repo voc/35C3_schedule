@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:10", 
+        "version": "Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -16516,7 +16516,7 @@
                                 "type": "", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Vorstellung des Projektes und Diskussion \u00fcber das Thema Allgemein", 
+                                "description": "Vorstellung des Projektes und Diskussion \u00fcber das Thema Allgemein f\u00fcr weitere Fragen schreibt mir gerne eine Email fs@aboutpolitics.co", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Politik_Index_-_Eine_OpenSource_Plattform_f%C3%BCr_mehr_belastbare_Fakten_und_Transparenz_in_der_Politik"
@@ -19926,7 +19926,7 @@
                                 "type": "workshop", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''</span>", 
+                                "description": "We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.<br><br><span style=\"color:orange\">'''''Physical practice workshop + interactive exercises. No prior experience needed. Total refresh.'''''</span>", 
                                 "persons": [], 
                                 "links": [
                                     "https://8os.io", 
@@ -24224,27 +24224,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1422, 
-                                "guid": "b12b1709-08ea-44d2-85c0-9c65fddc694c", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "", 
-                                "slug": "35c3-1422-session_saving_ecology_with_data_first_steps", 
-                                "title": "Saving Ecology with Data - First Steps", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "We are interested in forming a community to analyse data and hopefully learn something helpful about how to stop the next mass extinction", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps"
-                                ]
-                            }, 
-                            {
                                 "id": 1381, 
                                 "guid": "905131f3-3aaf-419a-be04-6632ca8a8234", 
                                 "logo": null, 
@@ -25648,6 +25627,29 @@
                                 ]
                             }
                         ], 
+                        "Assembly:Vintage Computing": [
+                            {
+                                "id": 1422, 
+                                "guid": "b12b1709-08ea-44d2-85c0-9c65fddc694c", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Vintage Computing", 
+                                "slug": "35c3-1422-session_saving_ecology_with_data_first_steps", 
+                                "title": "Saving Ecology with Data - First Steps", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We are interested in forming a community to analyse data and hopefully learn something helpful about how to stop the next mass extinction", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps"
+                                ]
+                            }
+                        ], 
                         "Assembly:CatNet": [
                             {
                                 "id": 1436, 
@@ -26658,6 +26660,33 @@
                             }
                         ], 
                         "Lecture room M2": [
+                            {
+                                "id": 1455, 
+                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:10:00+01:00", 
+                                "start": "14:10", 
+                                "duration": "0:50", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
+                                "title": "Anki: software for long-time learning (even programming stuff)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                                        "public_name": "Arthur Rainbow"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
+                                ]
+                            }, 
                             {
                                 "id": 1054, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:10</version>
+  <version>Love Boat 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15621,7 +15621,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <type/>
         <language>de</language>
         <abstract/>
-        <description>Vorstellung des Projektes und Diskussion über das Thema Allgemein</description>
+        <description>Vorstellung des Projektes und Diskussion über das Thema Allgemein für weitere Fragen schreibt mir gerne eine Email fs@aboutpolitics.co</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Politik_Index_-_Eine_OpenSource_Plattform_f%C3%BCr_mehr_belastbare_Fakten_und_Transparenz_in_der_Politik</link>
@@ -18584,7 +18584,7 @@ However, it's not always easy...</description>
         <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.&lt;br&gt;&lt;br&gt;&lt;span style="color:orange"&gt;'''''Physical practice workshop + interactive exercises. No experience needed, but get ready to work out.'''''&lt;/span&gt;</description>
+        <description>We will practice the concepts of vulnerability, infiltration and disruption through physical interactive exercises in order to gain additional insights into their operation.&lt;br&gt;&lt;br&gt;&lt;span style="color:orange"&gt;'''''Physical practice workshop + interactive exercises. No prior experience needed. Total refresh.'''''&lt;/span&gt;</description>
         <persons/>
         <links>
           <link>https://8os.io</link>
@@ -22912,25 +22912,6 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup</link>
         </links>
       </event>
-      <event id="1422" guid="b12b1709-08ea-44d2-85c0-9c65fddc694c">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>35c3-1422-session_saving_ecology_with_data_first_steps</slug>
-        <title>Saving Ecology with Data - First Steps</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>We are interested in forming a community to analyse data and hopefully learn something helpful about how to stop the next mass extinction</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps</link>
-        </links>
-      </event>
       <event id="1381" guid="905131f3-3aaf-419a-be04-6632ca8a8234">
         <logo/>
         <date>2018-12-29T19:00:00+01:00</date>
@@ -24095,6 +24076,27 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Vintage Computing">
+      <event id="1422" guid="b12b1709-08ea-44d2-85c0-9c65fddc694c">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Vintage Computing</room>
+        <slug>35c3-1422-session_saving_ecology_with_data_first_steps</slug>
+        <title>Saving Ecology with Data - First Steps</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>We are interested in forming a community to analyse data and hopefully learn something helpful about how to stop the next mass extinction</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Saving_Ecology_with_Data_-_First_Steps</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:CatNet">
       <event id="1436" guid="09797878-c05d-435e-a10e-ef5481a61c5d">
         <logo/>
@@ -25044,6 +25046,27 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
       </event>
     </room>
     <room name="Lecture room M2">
+      <event id="1455" guid="e93ec9b5-505e-4a98-bde3-458a42475a28">
+        <logo/>
+        <date>2018-12-30T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>0:50</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_</slug>
+        <title>Anki: software for long-time learning (even programming stuff)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow">Arthur Rainbow</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)</link>
+        </links>
+      </event>
       <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
