@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10", 
+        "version": "Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -795,7 +795,12 @@
                                         "title": "Github project - to be updated"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/674/original/Microcode35C3.pdf?1545996674", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Clarke": [
@@ -1212,10 +1217,6 @@
                                         "title": " EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr f\u00fcr Frontex noch aus dem Osten."
                                     }, 
                                     {
-                                        "url": "/attachments/original/missing.png", 
-                                        "title": "file"
-                                    }, 
-                                    {
                                         "url": "/system/event_attachments/attachments/000/003/650/original/35C3_Frontex.pdf?1545923568", 
                                         "title": "Pr\u00e4sentation"
                                     }
@@ -1466,7 +1467,12 @@
                                         "title": "Hostboot"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/668/original/slides_open-source-firmware.zip?1545963349", 
+                                        "title": "Talk slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9456.html", 
@@ -5992,7 +5998,12 @@
                                         "title": "Characteristics SuperMUC-NG"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/673/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1545993786", 
+                                        "title": "Slides:SuperMUC-NG"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9965.html", 
@@ -6135,6 +6146,10 @@
                                     {
                                         "url": "https://twitter.com/search?f=tweets&q=%23BlindNavigation", 
                                         "title": "Tweets about #BlindNavigation"
+                                    }, 
+                                    {
+                                        "url": "https://s.ai/ccc/slides", 
+                                        "title": "Slides PDF"
                                     }
                                 ], 
                                 "attachments": []
@@ -6259,7 +6274,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/672/original/35c3_Feminist_Perspectives_HongPhucDang.pdf?1545993234", 
+                                        "title": "HongPhucDang"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9618.html", 
@@ -10902,7 +10922,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "MicroPython is a lean and efficient implementation of the Python 3 programming language that includes a small subset of the Python standard library and is optimised to run on microcontrollers and in constrained environments.<br>\r\nThis talk will give an overview about the MicroPython hard- and software and introduces the community.", 
-                                "description": "MicroPython is an Open Source project and developed in the open on GitHub. With more than 7000 stars, it ranks in the top 100 of the most popular C/C++ projects.<br>\r\nThe MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.<br>\r\nMicroPython is packed full of advanced features such as an interactive prompt, arbitrary precision integers, closures, list comprehension, generators, exception handling and more. Yet it is compact enough to fit and run within just 256k of code space and 16k of RAM.<br>\r\nMicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.<br>\r\nIt's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Thins into space applications.", 
+                                "description": "MicroPython is an Open Source project and developed in the open on GitHub. With more than 7000 stars, it ranks in the top 100 of the most popular C/C++ projects.<br>\r\nThe MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.<br>\r\nMicroPython is packed full of advanced features such as an interactive prompt, arbitrary precision integers, closures, list comprehension, generators, exception handling and more. Yet it is compact enough to fit and run within just 256k of code space and 16k of RAM.<br>\r\nMicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.<br>\r\nIt's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Things into space applications.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -11110,6 +11130,10 @@
                                     {
                                         "id": 8571, 
                                         "public_name": "Dagmar Krefting"
+                                    }, 
+                                    {
+                                        "id": 6404, 
+                                        "public_name": "Sebastian J\u00fcnemann"
                                     }
                                 ], 
                                 "links": [
@@ -15165,7 +15189,7 @@
                                 "type": "Slot", 
                                 "language": "de", 
                                 "abstract": "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid.", 
-                                "description": "Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere St\u00e4dte in Deutschland beim Thema Fahrrad voran. Wir organisieren B\u00fcrgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erkl\u00e4ren wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und sp\u00e4ter m\u00f6glich. F\u00fcr Fragen: david [at] radentscheid-darmstadt.de", 
+                                "description": "Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere St\u00e4dte in Deutschland beim Thema Fahrrad voran. Wir organisieren B\u00fcrgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erkl\u00e4ren wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und sp\u00e4ter m\u00f6glich. F\u00fcr Fragen: david [at] radentscheid-darmstadt.de\r\n\r\nhttps://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [

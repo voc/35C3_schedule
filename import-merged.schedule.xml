@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
+  <version>Knight Rider 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -744,7 +744,9 @@ We will start with a crash-course covering fundamentals related to instruction d
           <link href="https://www.usenix.org/conference/usenixsecurity17/technical-sessions/presentation/koppe">Original microcode paper and corresponding talk</link>
           <link href="https://github.com/RUB-SysSec/Microcode">Github project - to be updated</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/674/original/Microcode35C3.pdf?1545996674">Presentation Slides</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Clarke">
@@ -1166,7 +1168,6 @@ Nun werden auch die technischen Fähigkeiten von „Copernicus“ ausgebaut. Das
         <links/>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/538/original/EUROSUR-Pilot.jpg?1539592021"> EUROSUR-Pilotprojekt von 2009. Damals kam die Gefahr für Frontex noch aus dem Osten.</attachment>
-          <attachment href="/attachments/original/missing.png">file</attachment>
           <attachment href="/system/event_attachments/attachments/000/003/650/original/35C3_Frontex.pdf?1545923568">Präsentation</attachment>
         </attachments>
       </event>
@@ -1387,7 +1388,9 @@ Dies ist ein Einsteiger Vortrag der dazu dienen soll mehr Menschen von der Open 
           <link href="www.trustedfirmware.org">ARM Trusted Firmware</link>
           <link href="github.com/open-power/hostboot">Hostboot</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/668/original/slides_open-source-firmware.zip?1545963349">Talk slides</attachment>
+        </attachments>
       </event>
       <event id="9456" guid="1dc4f8d0-e5f6-4e49-b647-1a5e0cabbb00">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9456.html</url>
@@ -5921,7 +5924,9 @@ Finally, we show new variants of the Meltdown attack, exploiting different parts
           <link href="https://badw.de/die-akademie/presse/pressemitteilungen/pm-einzelartikel/detail/supermuc-ng-next-generation-hoechstleistungsrechner-am-leibniz-rechenzentrum.html">Pressemitteilung zu SuperMUC-NG</link>
           <link href="https://www.lrz.de/services/compute/supermuc/supermuc-ng/">Characteristics SuperMUC-NG</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/673/original/20181228_Leipzig_-_35C3_-_SuperMUC-NG_%E2%80%A6_und_das_Rennen_um_den_schnellsten_Computer_der_Welt.pdf?1545993786">Slides:SuperMUC-NG</attachment>
+        </attachments>
       </event>
       <event id="9965" guid="3e75c48f-3a58-4afe-bafb-0670dd2b15cc">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9965.html</url>
@@ -6112,6 +6117,7 @@ Tag plz: #BlindNavigation @saizai #35c3</abstract>
           <link href="https://s.ai/ccc">Notes &amp; other links</link>
           <link href="https://s.ai/essays/interaction">Interaction tips (from blind POV)</link>
           <link href="https://twitter.com/search?f=tweets&amp;q=%23BlindNavigation">Tweets about #BlindNavigation</link>
+          <link href="https://s.ai/ccc/slides">Slides PDF</link>
         </links>
         <attachments/>
       </event>
@@ -6216,7 +6222,9 @@ Ready to Code is a young project from Stuttgart that teaches girls and women how
           <person id="7813">Le RESET, feminist hackerspace</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/672/original/35c3_Feminist_Perspectives_HongPhucDang.pdf?1545993234">HongPhucDang</attachment>
+        </attachments>
       </event>
       <event id="9618" guid="948fee49-de6f-42b1-82f8-045af2aa155e">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9618.html</url>
@@ -10999,7 +11007,7 @@ This talk will give an overview about the MicroPython hard- and software and int
 The MicroPython pyboard is a compact electronic circuit board that runs MicroPython on the bare metal, giving you a low-level Python operating system that can be used to control all kinds of electronic projects.&lt;br&gt;&#13;
 MicroPython is packed full of advanced features such as an interactive prompt, arbitrary precision integers, closures, list comprehension, generators, exception handling and more. Yet it is compact enough to fit and run within just 256k of code space and 16k of RAM.&lt;br&gt;&#13;
 MicroPython aims to be as compatible with normal Python as possible to allow you to transfer code with ease from the desktop to a microcontroller or embedded system.&lt;br&gt;&#13;
-It's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Thins into space applications.</description>
+It's used by educators, makers and professional hard- and software developers around the world. The use cases reach from embedded hardware testing over Industrial Internet of Things into space applications.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -11164,6 +11172,7 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
         </recording>
         <persons>
           <person id="8571">Dagmar Krefting</person>
+          <person id="6404">Sebastian Jünemann</person>
         </persons>
         <links>
           <link href="http://remo2hbo.f4.htw-berlin.de/">remo2hbo-Projekt</link>
@@ -15160,7 +15169,9 @@ LOVE FREEDOM EVERYTHING</abstract>
         <type>Slot</type>
         <language>de</language>
         <abstract>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</abstract>
-        <description>Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere Städte in Deutschland beim Thema Fahrrad voran. Wir organisieren Bürgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erklären wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und später möglich. Für Fragen: david [at] radentscheid-darmstadt.de</description>
+        <description>Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere Städte in Deutschland beim Thema Fahrrad voran. Wir organisieren Bürgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erklären wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und später möglich. Für Fragen: david [at] radentscheid-darmstadt.de&#13;
+&#13;
+https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</description>
         <recording>
           <license/>
           <optout>false</optout>
