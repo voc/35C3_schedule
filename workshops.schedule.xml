@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 14:00</version>
+  <version>2018-12-28 14:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1897,8 +1897,8 @@
       </event>
       <event id="1043" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
         <logo/>
-        <date>2018-12-28T17:30:00+01:00</date>
-        <start>17:30</start>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
         <slug>35c3-1043-session_ethereum_magicians_gathering</slug>
@@ -1921,7 +1921,7 @@
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
-        <duration>2:00</duration>
+        <duration>1:00</duration>
         <room>Seminar room 14-15</room>
         <slug>35c3-1058-session_hip_orga_treffen</slug>
         <title>HIP Orga Treffen</title>

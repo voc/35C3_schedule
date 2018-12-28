@@ -6255,6 +6255,69 @@
             }
         ]
     }, 
+    "Session:Demo + Walkthrough: Namecoin as a Decentralized Alternative to Certificate Authorities for TLS# b7df4ac4d17829da9a3d9cfa603a0f06": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545999300", 
+                "raw": "1/2018/12/28/12/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://namecoin.org/"
+        ], 
+        "Has description": [
+            "Jeremy Rand"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Jeremy Rand"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Parasew", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Demo + Walkthrough: Namecoin as a Decentralized Alternative to Certificate Authorities for TLS"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "bb0ea7cb-b388-4d9f-9791-cf730c21b55f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Demo_%2B_Walkthrough:_Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS", 
+        "Has end time": [
+            {
+                "timestamp": "1546004700", 
+                "raw": "1/2018/12/28/13/45/0/0"
+            }
+        ]
+    }, 
     "Session:Digital Health and Patient Data# e78dab04f26832ecc390db718112a161": {
         "Held in language": [
             "de - German", 
@@ -7118,14 +7181,14 @@
             }
         ]
     }, 
-    "Session:Ethereum Magicians gathering# 74c3a8409a20f75c4e020abdda1e3b91": {
+    "Session:Ethereum Magicians gathering# 9ba944be9de7d718ed1ba742bda2510c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546018200", 
-                "raw": "1/2018/12/28/17/30/0/0"
+                "timestamp": "1546020000", 
+                "raw": "1/2018/12/28/18/0/0/0"
             }
         ], 
         "Has event track": [
@@ -7174,8 +7237,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ethereum_Magicians_gathering", 
         "Has end time": [
             {
-                "timestamp": "1546021800", 
-                "raw": "1/2018/12/28/18/30/0/0"
+                "timestamp": "1546023600", 
+                "raw": "1/2018/12/28/19/0/0/0"
             }
         ]
     }, 
@@ -8685,15 +8748,15 @@
             }
         ]
     }, 
-    "Session:Flunkyball Day 2 Session 1# ac2fc09f8c61af8491f2c5d834553da8": {
+    "Session:Flunkyball Day 2 Session 1# b282ac8990d73a744f194645cb966d6d": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546027200", 
-                "raw": "1/2018/12/28/20/0/0/0"
+                "timestamp": "1546027500", 
+                "raw": "1/2018/12/28/20/5/0/0"
             }
         ], 
         "Has event track": [
@@ -8728,8 +8791,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_2_Session_1", 
         "Has end time": [
             {
-                "timestamp": "1546030800", 
-                "raw": "1/2018/12/28/21/0/0/0"
+                "timestamp": "1546031100", 
+                "raw": "1/2018/12/28/21/5/0/0"
             }
         ]
     }, 
@@ -9812,7 +9875,7 @@
             }
         ]
     }, 
-    "Session:HIP Orga Treffen# 24ca2f753966d2333aeff826d883e4c6": {
+    "Session:HIP Orga Treffen# f1933994424591b0c358c150876a5177": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -9855,7 +9918,7 @@
             "HIP Orga Treffen"
         ], 
         "Has duration": [
-            120
+            60
         ], 
         "GUID": [
             "365faa84-7ff3-409f-b0a1-d85a4ce31a45"
@@ -9866,8 +9929,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HIP_Orga_Treffen", 
         "Has end time": [
             {
-                "timestamp": "1546016400", 
-                "raw": "1/2018/12/28/17/0/0/0"
+                "timestamp": "1546012800", 
+                "raw": "1/2018/12/28/16/0/0/0"
             }
         ]
     }, 
@@ -11178,7 +11241,7 @@
             }
         ]
     }, 
-    "Session:Introduction to beekeeping.# d228be8d3bf833c9ef34376f03f2c669": {
+    "Session:Introduction to beekeeping.# 4f90df7e365157fd1e36d8afae75dde5": {
         "Held in language": [
             "en - English", 
             "de - German", 
@@ -11211,7 +11274,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "First session"
+        ], 
         "Is organized by": [
             {
                 "fulltext": "User:Lefrog", 
@@ -11238,6 +11303,71 @@
             {
                 "timestamp": "1545934500", 
                 "raw": "1/2018/12/27/18/15/0/0"
+            }
+        ]
+    }, 
+    "Session:Introduction to beekeeping.# fe4db1ae044e8410d14770a23fbbc9b7": {
+        "Held in language": [
+            "en - English", 
+            "de - German", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Fhb_35c3"
+        ], 
+        "Has description": [
+            "Introduction to beekeeping, short presentation on how to keep 2-10 hives for honey and for fun. Good for the environment, too..."
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Second session"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lefrog", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Introduction to beekeeping."
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "8b807a99-56a3-45b3-8479-db038cb0b99f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_beekeeping.", 
+        "Has end time": [
+            {
+                "timestamp": "1546019100", 
+                "raw": "1/2018/12/28/17/45/0/0"
             }
         ]
     }, 
@@ -13289,6 +13419,71 @@
             }
         ]
     }, 
+    "Session:Mead making presentation# 7e5459d4187dec7fb78c8c8e334e07b4": {
+        "Held in language": [
+            "de - German", 
+            "en - English", 
+            "fr - French"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://foodhackingbase.org/wiki/Fhb_35c3"
+        ], 
+        "Has description": [
+            "How to make mead (honey wine)"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Foodhackingbase", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Second session"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Lefrog", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Mead making presentation"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "38809af8-e72a-4974-8c9d-1406c36bb1c7"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation", 
+        "Has end time": [
+            {
+                "timestamp": "1546116300", 
+                "raw": "1/2018/12/29/20/45/0/0"
+            }
+        ]
+    }, 
     "Session:Mechanical Keyboard Meetup# ff24abd83aeb2a69e92e390bed470cb2": {
         "Held in language": [
             "de - German", 
@@ -14147,6 +14342,59 @@
             {
                 "timestamp": "1545960600", 
                 "raw": "1/2018/12/28/1/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Neurodiversity meetup# fade22dccae9e938807cd846a730f15e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://lists.riseup.net/www/subscribe/queerfeministgeeks"
+        ], 
+        "Has description": [
+            "Let's meet up and talk about neurodiversity, and how to navigate being \"different in more than one way\"!"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Pixie", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pixie", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Neurodiversity meetup"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "597b92ff-07cf-4bc3-a337-292fa1ee557e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Neurodiversity_meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546011900", 
+                "raw": "1/2018/12/28/15/45/0/0"
             }
         ]
     }, 

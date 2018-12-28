@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:00</version>
+  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6417,7 +6417,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <room>Assembly:Foodhackingbase</room>
         <slug>35c3-1231-session_introduction_to_beekeeping_</slug>
         <title>Introduction to beekeeping.</title>
-        <subtitle/>
+        <subtitle>First session</subtitle>
         <track>self organized sessions</track>
         <type>talk</type>
         <language>en</language>
@@ -9125,8 +9125,8 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
       </event>
       <event id="1043" guid="e86b0dce-cf8c-4485-b247-f42b9f0506ec">
         <logo/>
-        <date>2018-12-28T17:30:00+01:00</date>
-        <start>17:30</start>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
         <duration>1:00</duration>
         <room>Seminar room 14-15</room>
         <slug>35c3-1043-session_ethereum_magicians_gathering</slug>
@@ -9149,7 +9149,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
-        <duration>2:00</duration>
+        <duration>1:00</duration>
         <room>Seminar room 14-15</room>
         <slug>35c3-1058-session_hip_orga_treffen</slug>
         <title>HIP Orga Treffen</title>
@@ -13851,8 +13851,8 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
       </event>
       <event id="1435" guid="d9663e6c-741a-4162-88df-d6fbcf50338c">
         <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
+        <date>2018-12-28T20:05:00+01:00</date>
+        <start>20:05</start>
         <duration>1:00</duration>
         <room/>
         <slug>35c3-1435-session_flunkyball_day_2_session_1</slug>
@@ -13927,6 +13927,28 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Muster-/Polizeigesetz(e)</link>
+        </links>
+      </event>
+      <event id="1441" guid="597b92ff-07cf-4bc3-a337-292fa1ee557e">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:45</duration>
+        <room/>
+        <slug>35c3-1441-session_neurodiversity_meetup</slug>
+        <title>Neurodiversity meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>en</language>
+        <abstract/>
+        <description>Let's meet up and talk about neurodiversity, and how to navigate being "different in more than one way"!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pixie">Pixie</person>
+        </persons>
+        <links>
+          <link>https://lists.riseup.net/www/subscribe/queerfeministgeeks</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Neurodiversity_meetup</link>
         </links>
       </event>
       <event id="1428" guid="a7f35fdf-e134-4e72-88ec-d572e015bfbc">
@@ -14305,6 +14327,28 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:BeerTasting</link>
         </links>
       </event>
+      <event id="1439" guid="8b807a99-56a3-45b3-8479-db038cb0b99f">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1439-session_introduction_to_beekeeping_</slug>
+        <title>Introduction to beekeeping.</title>
+        <subtitle>Second session</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Introduction to beekeeping, short presentation on how to keep 2-10 hives for honey and for fun. Good for the environment, too...</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog">Lefrog</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_beekeeping.</link>
+        </links>
+      </event>
       <event id="1069" guid="f3c8a25c-3a1b-436e-916f-4388c9c452f3">
         <logo/>
         <date>2018-12-28T14:00:00+01:00</date>
@@ -14509,6 +14553,28 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://frab.riat.at/en/35C3/public/events/54</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blockchain,_the_basics</link>
+        </links>
+      </event>
+      <event id="1438" guid="bb0ea7cb-b388-4d9f-9791-cf730c21b55f">
+        <logo/>
+        <date>2018-12-28T12:15:00+01:00</date>
+        <start>12:15</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1438-session_demo_walkthrough_namecoin_as_a_decentralized_alternative_to_certificate_authorities_for_tls</slug>
+        <title>Demo + Walkthrough: Namecoin as a Decentralized Alternative to Certificate Authorities for TLS</title>
+        <subtitle>Jeremy Rand</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Jeremy Rand</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew">Parasew</person>
+        </persons>
+        <links>
+          <link>https://namecoin.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Demo_%2B_Walkthrough:_Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS</link>
         </links>
       </event>
       <event id="1429" guid="05ca5108-a33d-427e-9cce-ee88cb229e93">
@@ -23026,6 +23092,28 @@ Freifunk since 2003</biography>
         <links>
           <link>http://metamate.cc/product/mate-introduction/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mate_Making_DIY</link>
+        </links>
+      </event>
+      <event id="1440" guid="38809af8-e72a-4974-8c9d-1406c36bb1c7">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Foodhackingbase</room>
+        <slug>35c3-1440-session_mead_making_presentation</slug>
+        <title>Mead making presentation</title>
+        <subtitle>Second session</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>How to make mead (honey wine)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lefrog">Lefrog</person>
+        </persons>
+        <links>
+          <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Mead_making_presentation</link>
         </links>
       </event>
       <event id="1094" guid="b7472a21-df97-415b-b00d-10c7f4b2933c">
