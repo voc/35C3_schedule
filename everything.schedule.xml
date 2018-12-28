@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 16:40</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 17:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15484,6 +15484,27 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JHT:_Spiel_und_Spa%C3%9F_mit_unendlichen_Zahlen_und_unendlichen_Spielen</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:T.R.A.S.H.: The Real Anarchic Sound Hub">
+      <event id="1454" guid="b86aabd6-64f8-4e9e-a6c5-22ffca590232">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:T.R.A.S.H.: The Real Anarchic Sound Hub</room>
+        <slug>35c3-1454-session_jam_session</slug>
+        <title>Jam Session</title>
+        <subtitle>Primitive Arbeit</subtitle>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language/>
+        <abstract/>
+        <description>Jam session with the weird self-built instruments at the T.R.A.S.H. space</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Jam_Session</link>
         </links>
       </event>
     </room>

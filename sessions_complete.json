@@ -12549,6 +12549,57 @@
             }
         ]
     }, 
+    "Session:Jam Session# 99d85adf4a8ab0c8b5ea8f7f4b51c8fb": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Jam session with the weird self-built instruments at the T.R.A.S.H. space"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:T.R.A.S.H.: The Real Anarchic Sound Hub", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:T.R.A.S.H.:_The_Real_Anarchic_Sound_Hub", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Primitive Arbeit"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Jam Session"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "b86aabd6-64f8-4e9e-a6c5-22ffca590232"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Jam_Session", 
+        "Has end time": [
+            {
+                "timestamp": "1546030800", 
+                "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Juggling and poi meetup# 052b1f5794e3c20a83290d282aa85981": {
         "Held in language": [
             "de - German", 
