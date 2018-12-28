@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 14:20", 
+        "version": "2018-12-28 14:30", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2831,7 +2831,13 @@
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "Import your python code from everywhere and from everything", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Overflo", 
+                                        "public_name": "Overflo"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:From_*_import_python"
                                 ]
@@ -3629,8 +3635,8 @@
                                 "id": 1183, 
                                 "guid": "bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac", 
                                 "logo": null, 
-                                "date": "2018-12-28T11:25:00+01:00", 
-                                "start": "11:25", 
+                                "date": "2018-12-28T11:15:00+01:00", 
+                                "start": "11:15", 
                                 "duration": "0:45", 
                                 "room": "Seminar room 13", 
                                 "slug": "35c3-1183-session_eprivacy_call_to_action_", 
@@ -4897,8 +4903,8 @@
                                 "id": 1421, 
                                 "guid": "491d0ea8-e872-4833-b578-476bcdbb73e3", 
                                 "logo": null, 
-                                "date": "2018-12-29T22:00:00+01:00", 
-                                "start": "22:00", 
+                                "date": "2018-12-29T23:45:00+01:00", 
+                                "start": "23:45", 
                                 "duration": "1:30", 
                                 "room": "Lecture room M1", 
                                 "slug": "35c3-1421-session_linux_improved_kickoff_discussion", 

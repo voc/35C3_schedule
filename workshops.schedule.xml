@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-28 14:20</version>
+  <version>2018-12-28 14:30</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2382,7 +2382,9 @@
         <language>en</language>
         <abstract/>
         <description>Import your python code from everywhere and from everything</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Overflo">Overflo</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:From_*_import_python</link>
         </links>
@@ -3064,8 +3066,8 @@
       </event>
       <event id="1183" guid="bf455e7f-e50a-4d61-b0fb-7a21d04ff3ac">
         <logo/>
-        <date>2018-12-28T11:25:00+01:00</date>
-        <start>11:25</start>
+        <date>2018-12-28T11:15:00+01:00</date>
+        <start>11:15</start>
         <duration>0:45</duration>
         <room>Seminar room 13</room>
         <slug>35c3-1183-session_eprivacy_call_to_action_</slug>
@@ -4134,8 +4136,8 @@
       </event>
       <event id="1421" guid="491d0ea8-e872-4833-b578-476bcdbb73e3">
         <logo/>
-        <date>2018-12-29T22:00:00+01:00</date>
-        <start>22:00</start>
+        <date>2018-12-29T23:45:00+01:00</date>
+        <start>23:45</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
         <slug>35c3-1421-session_linux_improved_kickoff_discussion</slug>
