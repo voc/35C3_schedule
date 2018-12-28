@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 20181227 1.1.0", 
+        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -9927,6 +9927,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 863, 
+                                "guid": "ad9becb8-e437-5d74-bbd5-9dda985c0299", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:55:00+01:00", 
+                                "start": "16:55", 
+                                "duration": "01:30", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "UF3ZH8", 
+                                "url": "https://talks.komona.org/35c3/talk/UF3ZH8", 
+                                "title": "Climbing on another level  - MEETING POINT", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Repeating 1st day workshop with explaining basics for total beginners. Feel free to come over if you wanna become more confident ans practices the basics!", 
+                                "description": "90 minute session, this is just the meeting point. Session will take place in glass hall", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 53, 
+                                        "name": "Sola", 
+                                        "biography": "Climby", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 835, 
                                 "guid": "2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836", 
                                 "logo": null, 
@@ -15543,6 +15574,37 @@
                                         "id": 47, 
                                         "name": "carnevale", 
                                         "biography": "antifa action group (augsburg, berlin, chemnitz)", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 862, 
+                                "guid": "44ea0d0f-1650-5750-97d2-2683f921a776", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:30", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "9AXTTL", 
+                                "url": "https://talks.komona.org/35c3/talk/9AXTTL", 
+                                "title": "Climbing on another level 1", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Action climbing training for people that are interested in ropes, knots and collectives. \r\nFocus in the morning will be on advanced stuff (#rescue, #whatthehackisacowtail, #newknots #banner) so if you feel already comfortable in ascend/decend you are even more welcome! \r\nBeginners exchange will take place in the afternoon again!", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 53, 
+                                        "name": "Sola", 
+                                        "biography": "Climby", 
                                         "answers": []
                                     }
                                 ], 

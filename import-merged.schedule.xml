@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 20181227 1.1.0</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -10065,6 +10065,35 @@ You will have around five minutes to present, but we want to keep the format fle
         <attachments/>
         <answers/>
       </event>
+      <event id="863" guid="ad9becb8-e437-5d74-bbd5-9dda985c0299">
+        <logo/>
+        <date>2018-12-28T16:55:00+01:00</date>
+        <start>16:55</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>UF3ZH8</slug>
+        <url>https://talks.komona.org/35c3/talk/UF3ZH8</url>
+        <title>Climbing on another level  - MEETING POINT</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Repeating 1st day workshop with explaining basics for total beginners. Feel free to come over if you wanna become more confident ans practices the basics!</abstract>
+        <description>90 minute session, this is just the meeting point. Session will take place in glass hall</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="835" guid="2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
@@ -15551,6 +15580,37 @@ www.karnevalderalternativen.org (Dezember 2018)</description>
           <person id="47">
             <name>carnevale</name>
             <biography>antifa action group (augsburg, berlin, chemnitz)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="862" guid="44ea0d0f-1650-5750-97d2-2683f921a776">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>9AXTTL</slug>
+        <url>https://talks.komona.org/35c3/talk/9AXTTL</url>
+        <title>Climbing on another level 1</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Action climbing training for people that are interested in ropes, knots and collectives. &#13;
+Focus in the morning will be on advanced stuff (#rescue, #whatthehackisacowtail, #newknots #banner) so if you feel already comfortable in ascend/decend you are even more welcome! &#13;
+Beginners exchange will take place in the afternoon again!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
           </person>
         </persons>
         <links/>

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 20181227 1.1.0 2018-12-28 15:20</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 15:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9904,6 +9904,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jinxx">Jinxx</person>
         </persons>
         <links>
+          <link>https://etherpad.wikimedia.org/p/hackwords</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!</link>
         </links>
       </event>
@@ -13648,6 +13649,35 @@ You will have around five minutes to present, but we want to keep the format fle
         <attachments/>
         <answers/>
       </event>
+      <event id="863" guid="ad9becb8-e437-5d74-bbd5-9dda985c0299">
+        <logo/>
+        <date>2018-12-28T16:55:00+01:00</date>
+        <start>16:55</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>UF3ZH8</slug>
+        <url>https://talks.komona.org/35c3/talk/UF3ZH8</url>
+        <title>Climbing on another level  - MEETING POINT</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Repeating 1st day workshop with explaining basics for total beginners. Feel free to come over if you wanna become more confident ans practices the basics!</abstract>
+        <description>90 minute session, this is just the meeting point. Session will take place in glass hall</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="835" guid="2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836">
         <logo/>
         <date>2018-12-28T17:00:00+01:00</date>
@@ -14320,6 +14350,52 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Backspace">
+      <event id="1446" guid="a2d98217-7390-4459-bcdd-63c3d737cd7a">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1446-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
+        </links>
+      </event>
+      <event id="1448" guid="cdba23f2-d1f5-532b-b0fc-fbda85f3ceb8">
+        <logo/>
+        <date>2018-12-28T20:20:00+01:00</date>
+        <start>20:20</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1448-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
         </links>
       </event>
     </room>
@@ -18117,8 +18193,8 @@ However, it's not always easy...</description>
       </event>
       <event id="1421" guid="491d0ea8-e872-4833-b578-476bcdbb73e3">
         <logo/>
-        <date>2018-12-29T23:45:00+01:00</date>
-        <start>23:45</start>
+        <date>2018-12-29T23:30:00+01:00</date>
+        <start>23:30</start>
         <duration>1:30</duration>
         <room>Lecture room M1</room>
         <slug>35c3-1421-session_linux_improved_kickoff_discussion</slug>
@@ -22363,6 +22439,37 @@ www.karnevalderalternativen.org (Dezember 2018)</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="862" guid="44ea0d0f-1650-5750-97d2-2683f921a776">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>9AXTTL</slug>
+        <url>https://talks.komona.org/35c3/talk/9AXTTL</url>
+        <title>Climbing on another level 1</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Action climbing training for people that are interested in ropes, knots and collectives. &#13;
+Focus in the morning will be on advanced stuff (#rescue, #whatthehackisacowtail, #newknots #banner) so if you feel already comfortable in ascend/decend you are even more welcome! &#13;
+Beginners exchange will take place in the afternoon again!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="832" guid="ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88">
         <logo/>
         <date>2018-12-29T16:30:00+01:00</date>
@@ -23042,6 +23149,96 @@ Freifunk since 2003</biography>
         <links>
           <link>http://www.360fash.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Visual_programming_LED_bag</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Backspace">
+      <event id="1447" guid="bdbf08dc-5100-4347-8597-60a729b5a82d">
+        <logo/>
+        <date>2018-12-29T20:20:00+01:00</date>
+        <start>20:20</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1447-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
+        </links>
+      </event>
+      <event id="1449" guid="79c28f69-0790-52b9-9bb0-88049a3777fd">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1449-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
+        </links>
+      </event>
+      <event id="1450" guid="e3609a5e-12c3-5bc9-ad53-0e33ae18d993">
+        <logo/>
+        <date>2018-12-29T15:40:00+01:00</date>
+        <start>15:40</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1450-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
+        </links>
+      </event>
+      <event id="1451" guid="18935aca-edcd-5eb8-bc0a-a8675e45c929">
+        <logo/>
+        <date>2018-12-29T15:20:00+01:00</date>
+        <start>15:20</start>
+        <duration>0:20</duration>
+        <room>Assembly:Backspace</room>
+        <slug>35c3-1451-session_backspace_jeopardy</slug>
+        <title>Backspace Jeopardy</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>de</language>
+        <abstract/>
+        <description>Daily jeopardy sessions at Backspace assembly</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Luca">Luca</person>
+        </persons>
+        <links>
+          <link>https://github.com/lujoga/cluequiz</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy</link>
         </links>
       </event>
     </room>

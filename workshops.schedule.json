@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-28 15:20", 
+        "version": "2018-12-28 15:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3380,6 +3380,7 @@
                                     }
                                 ], 
                                 "links": [
+                                    "https://etherpad.wikimedia.org/p/hackwords", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Let%27s_hack_words!"
                                 ]
                             }, 
@@ -4903,8 +4904,8 @@
                                 "id": 1421, 
                                 "guid": "491d0ea8-e872-4833-b578-476bcdbb73e3", 
                                 "logo": null, 
-                                "date": "2018-12-29T23:45:00+01:00", 
-                                "start": "23:45", 
+                                "date": "2018-12-29T23:30:00+01:00", 
+                                "start": "23:30", 
                                 "duration": "1:30", 
                                 "room": "Lecture room M1", 
                                 "slug": "35c3-1421-session_linux_improved_kickoff_discussion", 
