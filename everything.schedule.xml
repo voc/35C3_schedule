@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.1 2018-12-28 21:00</version>
+  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11591,8 +11591,8 @@ This talk is for people not yet familiar with Nextcloud!</description>
       </event>
       <event id="312" guid="b4fdd0df-1969-5b9e-9bf1-277eb1411d6b">
         <logo/>
-        <date>2018-12-28T22:45:00+01:00</date>
-        <start>22:45</start>
+        <date>2018-12-28T22:30:00+01:00</date>
+        <start>22:30</start>
         <duration>00:50</duration>
         <room>OIO Vortrags-Arena</room>
         <slug>DAN8AX</slug>
