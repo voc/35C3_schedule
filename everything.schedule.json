@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:40", 
+        "version": "Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7463,7 +7463,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We are tasting a classic north german drink called \"Pharis\u00e4er\".", 
+                                "description": "We are tasting a classic north german drink called \"Pharis\u00e4er\" and other drings.", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -14390,7 +14390,7 @@
                                 "type": "game", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We're going to play some rounds of the german drinking game \"Flunkyball\"", 
+                                "description": "We're going to play some rounds of the german drinking game \"Flunkyball\" right outside the main entrance", 
                                 "persons": [], 
                                 "links": [
                                     "http://www.upb-flunkyteam.de", 
@@ -15191,8 +15191,8 @@
                                 "id": 1429, 
                                 "guid": "05ca5108-a33d-427e-9cce-ee88cb229e93", 
                                 "logo": null, 
-                                "date": "2018-12-28T11:50:00+01:00", 
-                                "start": "11:50", 
+                                "date": "2018-12-28T15:30:00+01:00", 
+                                "start": "15:30", 
                                 "duration": "0:20", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
                                 "slug": "35c3-1429-session_introduction_to_grin", 
@@ -15213,6 +15213,33 @@
                                 "links": [
                                     "https://grin-tech.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Grin"
+                                ]
+                            }, 
+                            {
+                                "id": 1437, 
+                                "guid": "bac0b930-102a-4ee4-b300-4ba4912b614f", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "0:45", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1437-session_namecoin_as_a_decentralized_alternative_to_certificate_authorities_for_tls_the_next_generation", 
+                                "title": "Namecoin as a Decentralized Alternative to Certificate Authorities for TLS: The Next Generation", 
+                                "subtitle": "Jeremy Rand", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "How we improved the attack surface, compatibility, and scalability of Namecoin's replacement for the Certificate Authority system", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew", 
+                                        "public_name": "Parasew"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS:_The_Next_Generation"
                                 ]
                             }, 
                             {
@@ -16163,7 +16190,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We are tasting a classic north german drink called \"Pharis\u00e4er\".", 
+                                "description": "We are tasting a classic north german drink called \"Pharis\u00e4er\" and other drings.", 
                                 "persons": [
                                     {
                                         "id": 0, 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 13:40</version>
+  <version>Knight Rider 3 1.8 v2.3 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 14:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -7059,7 +7059,7 @@ Additionally we will provide a 40 Gb/s Pixelflut server.</description>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>We are tasting a classic north german drink called "Pharisäer".</description>
+        <description>We are tasting a classic north german drink called "Pharisäer" and other drings.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle">Fpfle</person>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo">Scammo</person>
@@ -13862,7 +13862,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <type>game</type>
         <language>de</language>
         <abstract/>
-        <description>We're going to play some rounds of the german drinking game "Flunkyball"</description>
+        <description>We're going to play some rounds of the german drinking game "Flunkyball" right outside the main entrance</description>
         <persons/>
         <links>
           <link>http://www.upb-flunkyteam.de</link>
@@ -14513,8 +14513,8 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
       </event>
       <event id="1429" guid="05ca5108-a33d-427e-9cce-ee88cb229e93">
         <logo/>
-        <date>2018-12-28T11:50:00+01:00</date>
-        <start>11:50</start>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
         <duration>0:20</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
         <slug>35c3-1429-session_introduction_to_grin</slug>
@@ -14531,6 +14531,27 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://grin-tech.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Grin</link>
+        </links>
+      </event>
+      <event id="1437" guid="bac0b930-102a-4ee4-b300-4ba4912b614f">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>0:45</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1437-session_namecoin_as_a_decentralized_alternative_to_certificate_authorities_for_tls_the_next_generation</slug>
+        <title>Namecoin as a Decentralized Alternative to Certificate Authorities for TLS: The Next Generation</title>
+        <subtitle>Jeremy Rand</subtitle>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>How we improved the attack surface, compatibility, and scalability of Namecoin's replacement for the Certificate Authority system</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew">Parasew</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Namecoin_as_a_Decentralized_Alternative_to_Certificate_Authorities_for_TLS:_The_Next_Generation</link>
         </links>
       </event>
       <event id="1394" guid="5ab56fe1-09e9-4ab3-96ec-a4d801c59278">
@@ -15343,7 +15364,7 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>We are tasting a classic north german drink called "Pharisäer".</description>
+        <description>We are tasting a classic north german drink called "Pharisäer" and other drings.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Fpfle">Fpfle</person>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Scammo">Scammo</person>
