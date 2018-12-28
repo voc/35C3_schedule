@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:20</version>
+  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3562,7 +3562,13 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
         <type>Session 60min</type>
         <language>en</language>
         <abstract>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</abstract>
-        <description/>
+        <description>Follow us here:&#13;
+&#13;
+https://github.com/openspace42/aenigma&#13;
+&#13;
+Contact me here:&#13;
+&#13;
+nz [at] os [dot] vu [mail | xmpp | matrix/riot.im]</description>
         <recording>
           <license/>
           <optout>false</optout>

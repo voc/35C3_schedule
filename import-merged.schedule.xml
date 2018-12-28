@@ -2568,7 +2568,13 @@ Talk ist für Einsteiger mit Grundlagen in der Anwendungsentwicklung geeignet. I
         <type>Session 60min</type>
         <language>en</language>
         <abstract>After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.</abstract>
-        <description/>
+        <description>Follow us here:&#13;
+&#13;
+https://github.com/openspace42/aenigma&#13;
+&#13;
+Contact me here:&#13;
+&#13;
+nz [at] os [dot] vu [mail | xmpp | matrix/riot.im]</description>
         <recording>
           <license/>
           <optout>false</optout>
