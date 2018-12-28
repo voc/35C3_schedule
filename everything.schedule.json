@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 1312 1.1.2 2018-12-29 00:00", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:05 1.1.2 2018-12-29 00:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -24454,6 +24454,37 @@
                                         "id": 6, 
                                         "name": "luroc", 
                                         "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 869, 
+                                "guid": "35aaf3bf-4726-50e7-aca5-c12af5a778ea", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:00:00+01:00", 
+                                "start": "22:00", 
+                                "duration": "01:30", 
+                                "room": "Komona Zelt #workshops #handson", 
+                                "slug": "RXHRJH", 
+                                "url": "https://talks.komona.org/35c3/talk/RXHRJH", 
+                                "title": "Do Not Track! I mean it", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Web and mobile tracking has gone off the rails - do we have the tools to tell companies that we don't want to be profiled, monitored, exploited?", 
+                                "description": "Our web experience is eaten up by impractical, annoying, borderline legal cookie banners, while mobile apps siphon data to big companies without even us knowing. Privacy rules are poorly implemented and there are a few big players which exploit vast amounts of personal data. Our data is seen as an economic asset and the imbalance of power between users and companies has dramatically increased. How can we effectively stop data exploitation? How can we make companies listen that we don't want to be profiled, monitored, exploited? How can we enforce our rights to access, delete, correct our data?\r\n\r\nIf you\u2019re on your way to do something about all of this, please join this working group on figuring out what tools we need against third party tracking (web and/or mobile). If you've done research, played with different tools or if you're incubating ideas around third party tracking, this session is for us to get together, share knowledge and make the first steps towards working on practical solutions.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 61, 
+                                        "name": "Valentina", 
+                                        "biography": "Valentina is a Mozilla Fellow working with Privacy International. As a legal adviser and digital rights advocate she focuses on privacy, freedom of speech and open culture.", 
                                         "answers": []
                                     }
                                 ], 
