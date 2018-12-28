@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:30", 
+        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -14914,14 +14914,14 @@
                         ], 
                         "Assembly:Kidspace": [
                             {
-                                "id": 1425, 
-                                "guid": "a0c55fb4-76bd-5dd6-9bf3-50efe8f7fe7c", 
+                                "id": 1427, 
+                                "guid": "07d0ba4e-3840-5616-bb78-58fbd6b3659d", 
                                 "logo": null, 
-                                "date": "2018-12-28T11:00:00+01:00", 
-                                "start": "11:00", 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
                                 "duration": "2:00", 
                                 "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1425-session_bigtrak", 
+                                "slug": "35c3-1427-session_bigtrak", 
                                 "title": "BigTrak", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 

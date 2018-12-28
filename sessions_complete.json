@@ -2721,15 +2721,15 @@
             }
         ]
     }, 
-    "Session:BigTrak# 6aea9c59a854abc6734f45e6038f90e1": {
+    "Session:BigTrak# feaf0ad48ce92e2294f5bd3021835797": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545994800", 
-                "raw": "1/2018/12/28/11/0/0/0"
+                "timestamp": "1545998400", 
+                "raw": "1/2018/12/28/12/0/0/0"
             }
         ], 
         "Has event track": [
@@ -2776,8 +2776,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:BigTrak", 
         "Has end time": [
             {
-                "timestamp": "1546002000", 
-                "raw": "1/2018/12/28/13/0/0/0"
+                "timestamp": "1546005600", 
+                "raw": "1/2018/12/28/14/0/0/0"
             }
         ]
     }, 
