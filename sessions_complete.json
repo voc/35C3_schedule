@@ -2721,68 +2721,6 @@
             }
         ]
     }, 
-    "Session:BigTrak# ae63621f18a2413be40fad9fbbae1c3c": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545994800", 
-                "raw": "1/2018/12/28/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://en.wikipedia.org/wiki/Big_Trak"
-        ], 
-        "Has description": [
-            "BigTrak is a vintage programmable electric vehicle toy. Let's play!"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:B3b0 69", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:B3b0_69", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "BigTrak"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "c952223d-6d7f-4c71-89c8-11d814264cde"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:BigTrak", 
-        "Has end time": [
-            {
-                "timestamp": "1546002000", 
-                "raw": "1/2018/12/28/13/0/0/0"
-            }
-        ]
-    }, 
     "Session:Bin\u00e4rgewitter H\u00f6rertreffen# ce28a9d6fa930d49e3f6b0f5c06d03c4": {
         "Held in language": [
             "de - German"
