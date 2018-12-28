@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:40", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.2 MemoryRefreshV1.0 1312 1.1.2 2018-12-28 21:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -20474,8 +20474,8 @@
                                 "id": 163, 
                                 "guid": "8f9197a2-06a9-5809-b094-621f95e8d2e7", 
                                 "logo": null, 
-                                "date": "2018-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
+                                "date": "2018-12-29T01:30:00+01:00", 
+                                "start": "01:30", 
                                 "duration": "02:00", 
                                 "room": "Chaos West B\u00fchne", 
                                 "slug": "ALV3XL", 
@@ -20494,37 +20494,6 @@
                                         "id": 81, 
                                         "name": "\u00dcberraschungs Gast", 
                                         "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 146, 
-                                "guid": "b05b0e85-eb2a-509f-b87b-0a00fcec76d0", 
-                                "logo": null, 
-                                "date": "2018-12-29T02:00:00+01:00", 
-                                "start": "02:00", 
-                                "duration": "02:00", 
-                                "room": "Chaos West B\u00fchne", 
-                                "slug": "9YUVFS", 
-                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/9YUVFS", 
-                                "title": "Technoid mit Juli Jane", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Klangteppich", 
-                                "language": "de", 
-                                "abstract": "Technoide Musik live gemixt von Juli Jane.", 
-                                "description": "Technoide Musik im Live-DJ-Mix von Juli Jane\r\n\r\nEine bunte Mischung von Techno, Tech-House, Deep-House und/oder \u00e4hnlichen elektronischen Genres. \r\n\r\n* Set vom 34C3 im Electric Cube: https://soundcloud.com/juli_jane/nerds-can-dance\r\n* Set vom EMF Camp 2018: https://soundcloud.com/juli_jane/roadtrip\r\n* Mehr Sets und eigenproduzierte Tracks: https://soundcloud.com/juli_jane\r\n\r\nZuvor zu h\u00f6ren u.a. bei:\r\n\r\n* CCC Camp 2015 - Chaos West\r\n* 32C3 - Chaos West Klangteppich\r\n* SHA2017 - Chaos West,  GeraFFel und Mainfloor\r\n* 34C3 - Electric Cube\r\n* EMF Camp 2018 - Null Sector", 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 61, 
-                                        "name": "Juli Jane", 
-                                        "biography": "CCC-Veteranin, Nerdette und DJane/Produzentin.\r\n\r\nMehr chaosrelevante Details: https://wiki.das-labor.org/w/Benutzerin:Julijane", 
                                         "answers": []
                                     }
                                 ], 
@@ -27394,6 +27363,37 @@
                                         "id": 27, 
                                         "name": "dray", 
                                         "biography": "TBD", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 146, 
+                                "guid": "b05b0e85-eb2a-509f-b87b-0a00fcec76d0", 
+                                "logo": null, 
+                                "date": "2018-12-30T04:00:00+01:00", 
+                                "start": "04:00", 
+                                "duration": "02:00", 
+                                "room": "Chaos West B\u00fchne", 
+                                "slug": "9YUVFS", 
+                                "url": "https://fahrplan.chaos-west.de/35c3chaoswest/talk/9YUVFS", 
+                                "title": "Technoid mit Juli Jane", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Klangteppich", 
+                                "language": "de", 
+                                "abstract": "Technoide Musik live gemixt von Juli Jane.", 
+                                "description": "Technoide Musik im Live-DJ-Mix von Juli Jane\r\n\r\nEine bunte Mischung von Techno, Tech-House, Deep-House und/oder \u00e4hnlichen elektronischen Genres. \r\n\r\n* Set vom 34C3 im Electric Cube: https://soundcloud.com/juli_jane/nerds-can-dance\r\n* Set vom EMF Camp 2018: https://soundcloud.com/juli_jane/roadtrip\r\n* Mehr Sets und eigenproduzierte Tracks: https://soundcloud.com/juli_jane\r\n\r\nZuvor zu h\u00f6ren u.a. bei:\r\n\r\n* CCC Camp 2015 - Chaos West\r\n* 32C3 - Chaos West Klangteppich\r\n* SHA2017 - Chaos West,  GeraFFel und Mainfloor\r\n* 34C3 - Electric Cube\r\n* EMF Camp 2018 - Null Sector", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 61, 
+                                        "name": "Juli Jane", 
+                                        "biography": "CCC-Veteranin, Nerdette und DJane/Produzentin.\r\n\r\nMehr chaosrelevante Details: https://wiki.das-labor.org/w/Benutzerin:Julijane", 
                                         "answers": []
                                     }
                                 ], 
