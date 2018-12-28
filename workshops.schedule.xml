@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 00:10</version>
+  <version>2018-12-29 00:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -3415,6 +3415,46 @@
   </day>
   <day date="2018-12-29" index="3" end="2018-12-30T04:00:00+01:00" start="2018-12-29T06:00:00+01:00">
     <room name="Dome Art-and-Play">
+      <event id="1484" guid="860924c7-9c55-4047-b6e8-6bc80c4ca35d">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>2:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1484-session_brot_im_spiegel_mit_pastor_leumund_reflecting_bread_with_pastor_leumund_</slug>
+        <title>Brot im Spiegel mit Pastor leumund (reflecting bread with pastor leumund)</title>
+        <subtitle>kubiklyrik und reizwortmeditation</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>realdadaistische neujahrsandacht</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Brot_im_Spiegel_mit_Pastor_leumund_(reflecting_bread_with_pastor_leumund)</link>
+        </links>
+      </event>
+      <event id="1485" guid="c383e8b6-572e-490a-907e-c5e05b3b45e5">
+        <logo/>
+        <date>2018-12-30T02:00:00+01:00</date>
+        <start>02:00</start>
+        <duration>3:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1485-session_ein_kaefig_voller_druckwellensittiche</slug>
+        <title>Ein Käfig voller Druckwellensittiche</title>
+        <subtitle>open sound-collectve</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>Frickelzwang für Sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_K%C3%A4fig_voller_Druckwellensittiche</link>
+        </links>
+      </event>
       <event id="1482" guid="1c813e3e-fb20-4016-9662-7bdf9bd936e4">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -4503,6 +4543,27 @@
       </event>
     </room>
     <room name="Lecture room M3">
+      <event id="1278" guid="8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1278-session_acroyoga</slug>
+        <title>AcroYoga</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage.</description>
+        <persons/>
+        <links>
+          <link>https://en.wikipedia.org/wiki/Acroyoga</link>
+          <link>https://kanthaus.online/en/events/2018-12-05_acroyoga</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga</link>
+        </links>
+      </event>
       <event id="1230" guid="8f79bf39-54ae-4a2c-8d6c-082dc1de88b1">
         <logo/>
         <date>2018-12-29T18:30:00+01:00</date>
@@ -5152,6 +5213,28 @@
     </room>
   </day>
   <day date="2018-12-30" index="4" end="2018-12-30T23:00:00+01:00" start="2018-12-30T06:00:00+01:00">
+    <room name="Dome Art-and-Play">
+      <event id="1486" guid="e82ce293-0528-4d33-a805-f843e12e1256">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>3:00</duration>
+        <room>Dome Art-and-Play</room>
+        <slug>35c3-1486-session_gaensebluemchen_auf_penicillin</slug>
+        <title>Gänseblümchen auf Penicillin</title>
+        <subtitle>open sound-collective</subtitle>
+        <track>self organized sessions</track>
+        <type>other</type>
+        <language/>
+        <abstract/>
+        <description>frickelzwang für sessionschwänzer</description>
+        <persons/>
+        <links>
+          <link>http://dome-one.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin</link>
+        </links>
+      </event>
+    </room>
     <room name="OIO Vortrags-Arena"/>
     <room name="Lecture room 11">
       <event id="1270" guid="836954ed-284c-4063-b7a2-8d8eaf154222">
@@ -5470,13 +5553,13 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart.</link>
         </links>
       </event>
-      <event id="1278" guid="8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364">
+      <event id="1483" guid="7a1bddd6-591d-4d82-919e-4ac1cf1309d6">
         <logo/>
         <date>2018-12-30T16:00:00+01:00</date>
         <start>16:00</start>
         <duration>1:30</duration>
         <room>Seminar room 13</room>
-        <slug>35c3-1278-session_acroyoga</slug>
+        <slug>35c3-1483-session_acroyoga</slug>
         <title>AcroYoga</title>
         <subtitle/>
         <track>self organized sessions</track>

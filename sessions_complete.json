@@ -1395,7 +1395,7 @@
             }
         ]
     }, 
-    "Session:AcroYoga# 270c3df4ab7d9ea14275ec3b33016d5d": {
+    "Session:AcroYoga# 19f6cb949606b54b19b79f1c9a45d0c7": {
         "Held in language": [
             "en - English", 
             "de - German"
@@ -1437,7 +1437,7 @@
             90
         ], 
         "GUID": [
-            "8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364"
+            "7a1bddd6-591d-4d82-919e-4ac1cf1309d6"
         ], 
         "Has color": [
             "#0099ab"
@@ -1502,6 +1502,61 @@
             {
                 "timestamp": "1546039800", 
                 "raw": "1/2018/12/28/23/30/0/0"
+            }
+        ]
+    }, 
+    "Session:AcroYoga# dd79d551de80200efb57aa6f23ff54c9": {
+        "Held in language": [
+            "en - English", 
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546084800", 
+                "raw": "1/2018/12/29/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://en.wikipedia.org/wiki/Acroyoga", 
+            "https://kanthaus.online/en/events/2018-12-05_acroyoga"
+        ], 
+        "Has description": [
+            "AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "AcroYoga"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }, 
@@ -4523,6 +4578,59 @@
             {
                 "timestamp": "1546180200", 
                 "raw": "1/2018/12/30/14/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Brot im Spiegel mit Pastor leumund (reflecting bread with pastor leumund)# 7a7639cecf825b89c900d11e8051e0db": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "realdadaistische neujahrsandacht"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "kubiklyrik und reizwortmeditation"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Brot im Spiegel mit Pastor leumund (reflecting bread with pastor leumund)"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "860924c7-9c55-4047-b6e8-6bc80c4ca35d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Brot_im_Spiegel_mit_Pastor_leumund_(reflecting_bread_with_pastor_leumund)", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
             }
         ]
     }, 
@@ -7978,6 +8086,59 @@
             }
         ]
     }, 
+    "Session:Ein K\u00e4fig voller Druckwellensittiche# 9c7f874cd41b17f08b393c6a55d6f070": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546135200", 
+                "raw": "1/2018/12/30/2/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "open sound-collectve"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Ein K\u00e4fig voller Druckwellensittiche"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "c383e8b6-572e-490a-907e-c5e05b3b45e5"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ein_K%C3%A4fig_voller_Druckwellensittiche", 
+        "Has end time": [
+            {
+                "timestamp": "1546146000", 
+                "raw": "1/2018/12/30/5/0/0/0"
+            }
+        ]
+    }, 
     "Session:Ein Tor-Verein f\u00fcr Hamburg# 32199de77e7e89da93d24b0f5362e91a": {
         "Held in language": [
             "de - German", 
@@ -11187,6 +11348,59 @@
             {
                 "timestamp": "1546012800", 
                 "raw": "1/2018/12/28/16/0/0/0"
+            }
+        ]
+    }, 
+    "Session:G\u00e4nsebl\u00fcmchen auf Penicillin# 4ad802e830904eb4b706fcc5fe15a745": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://dome-one.com"
+        ], 
+        "Has description": [
+            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
+        ], 
+        "Has session type": [
+            "Other"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Dome Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "open sound-collective"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "G\u00e4nsebl\u00fcmchen auf Penicillin"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "e82ce293-0528-4d33-a805-f843e12e1256"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin", 
+        "Has end time": [
+            {
+                "timestamp": "1546196400", 
+                "raw": "1/2018/12/30/19/0/0/0"
             }
         ]
     }, 
