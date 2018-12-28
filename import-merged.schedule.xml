@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3 2.0 v2.4 1.1 MemoryRefreshV1.0 1312 1.1.1</version>
+  <version>Love Boat 3 2.0 v2.4 1.2 MemoryRefreshV1.0 1312 1.1.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13974,7 +13974,7 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <logo/>
         <date>2018-12-29T12:00:00+01:00</date>
         <start>12:00</start>
-        <duration>01:00</duration>
+        <duration>00:45</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>DBVJK7</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7</url>
@@ -14058,6 +14058,35 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
           </person>
           <person id="45">
             <name>Edgar</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="542" guid="5dcb6c1b-6016-58cf-820a-534f47b9a778">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Esszimmer</room>
+        <slug>MJAKJY</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/MJAKJY</url>
+        <title>Hacks/Hackers Meet-Up</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>“Hacks” (journalists) and “hackers” (technologists) work together to create physical and digital spaces for exploring new ways to tell stories.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="47">
+            <name>fex</name>
             <biography/>
           </person>
         </persons>
@@ -14278,6 +14307,39 @@ Arduino ohne Arduino – bau nur den Microcontroller ein! (noniq)</abstract>
         <persons>
           <person id="28">
             <name>Ulrike</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="541" guid="184234c0-f856-58ef-9d1c-a60eaad3b007">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>FDHUCR</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR</url>
+        <title>Zwischenstand der NSU-Aufklärung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie interparlamentarischer Ebene verschiedene Akteure an der Aufklärung. Wir wollen uns über den aktuellen Stand und weitere Schritte verständigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufklärung helfen kann.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="46">
+            <name>noname</name>
+            <biography/>
+          </person>
+          <person id="48">
+            <name>Caro (NSU-Watch)</name>
             <biography/>
           </person>
         </persons>
