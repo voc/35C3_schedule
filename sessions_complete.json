@@ -3321,6 +3321,67 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
         "Has end time": []
     }, 
+    "Session:Blockchain, the basics# ddbef57abcc35a0138cffa36e31aee3b": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545994800", 
+                "raw": "1/2018/12/28/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://frab.riat.at/en/35C3/public/events/54"
+        ], 
+        "Has description": [
+            "The word blockchain has become incredibly overhyped in recent years, and even mentioning the word is enough to earn eye rolls from people in hacker culture. Diego is looking to break down the grandiose claims to look at what blockchain actually is, while giving a light-hearted, joke-filled take on blockchain culture, hacker culture, and the technology itself. Laugh and learn at the same time!"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Parasew", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Blockchain, the basics"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "b1c3bda2-eda6-4b88-8904-98498ec95a11"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blockchain,_the_basics", 
+        "Has end time": [
+            {
+                "timestamp": "1545996000", 
+                "raw": "1/2018/12/28/11/20/0/0"
+            }
+        ]
+    }, 
     "Session:Bodymind Operating System: Adaptation, Infiltration and Vulnerability.# a813505cebf69997d79ac2ba711591a3": {
         "Held in language": [
             "en - English"

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:00</version>
+  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 10:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14404,6 +14404,50 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
+    <room name="Assembly:Critical Decentralisation Cluster">
+      <event id="1426" guid="b1c3bda2-eda6-4b88-8904-98498ec95a11">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>0:20</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1426-session_blockchain_the_basics</slug>
+        <title>Blockchain, the basics</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>The word blockchain has become incredibly overhyped in recent years, and even mentioning the word is enough to earn eye rolls from people in hacker culture. Diego is looking to break down the grandiose claims to look at what blockchain actually is, while giving a light-hearted, joke-filled take on blockchain culture, hacker culture, and the technology itself. Laugh and learn at the same time!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew">Parasew</person>
+        </persons>
+        <links>
+          <link>https://frab.riat.at/en/35C3/public/events/54</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blockchain,_the_basics</link>
+        </links>
+      </event>
+      <event id="1396" guid="77accffd-4a6c-5227-be4d-0355c9d1c2bb">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Curry Club Augsburg">
       <event id="1404" guid="d6de1975-f9b7-4e58-b8c0-c11f0f1e4c0e">
         <logo/>
@@ -15186,28 +15230,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         <links>
           <link>https://github.com/NiklasFauth/hoverboard-firmware-hack</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Moving_Objects_Selbsthilfegruppe</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Critical Decentralisation Cluster">
-      <event id="1396" guid="77accffd-4a6c-5227-be4d-0355c9d1c2bb">
-        <logo/>
-        <date>2018-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
-        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
-        <persons/>
-        <links>
-          <link>https://pslab.io</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
         </links>
       </event>
     </room>
