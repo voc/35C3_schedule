@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 11:40", 
+        "version": "Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 12:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -12390,6 +12390,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 445, 
+                                "guid": "a18d1778-b0dd-5e1a-a7bb-e1a5d8531626", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "RGUGPL", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/RGUGPL", 
+                                "title": "LinuxLounge@35C3", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Die LinuxLounge bringt euch regelm\u00e4\u00dfig Neues aus der Welt der freien Software. Diesmal mit einer Sondersendung von der 35C3.", 
+                                "description": "Die LinuxLounge bringt euch regelm\u00e4\u00dfig Neues aus der Welt der freien Software. Michael, Chris und Dennis reden \u00fcber die 35C3, News, neue Software, praktische Tipps und Spiele, kurz alles was sich mit einem freien Betriebssystem eurer Wahl machen l\u00e4sst. Dieses Mal berichten wir mit Eindr\u00fccken von der 35C3 und Neuerungen in der Linuxwelt. Wir freuen uns besonders, dass wir kurzfristig einen Platz im Sendezentrum ergattern konnten!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 43, 
+                                        "name": "lazalatin", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 436, 
                                 "guid": "508cef8d-e426-5c02-966f-185cfc7fee2a", 
                                 "logo": null, 
@@ -15115,14 +15146,86 @@
                                 ]
                             }, 
                             {
-                                "id": 1396, 
-                                "guid": "77accffd-4a6c-5227-be4d-0355c9d1c2bb", 
+                                "id": 1429, 
+                                "guid": "05ca5108-a33d-427e-9cce-ee88cb229e93", 
                                 "logo": null, 
-                                "date": "2018-12-28T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-28T11:50:00+01:00", 
+                                "start": "11:50", 
+                                "duration": "0:20", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1429-session_introduction_to_grin", 
+                                "title": "Introduction to Grin", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Meet Grin", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew", 
+                                        "public_name": "Parasew"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://grin-tech.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Grin"
+                                ]
+                            }, 
+                            {
+                                "id": 1394, 
+                                "guid": "5ab56fe1-09e9-4ab3-96ec-a4d801c59278", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
-                                "slug": "35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "slug": "35c3-1394-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1433, 
+                                "guid": "c0f0b475-3c8c-59c7-a499-07ed8dbeba85", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1433-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1434, 
+                                "guid": "e210bd0a-9af6-56f9-ba3f-830a8f3ec32f", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1434-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
                                 "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
@@ -21406,6 +21509,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 446, 
+                                "guid": "3215a5db-3512-5a08-9956-ceee3220a425", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "00:45", 
+                                "room": "Sendetisch", 
+                                "slug": "Q98EGC", 
+                                "url": "https://35c3.studio-link.de/35c3/talk/Q98EGC", 
+                                "title": "Digital Survivor", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Sendetisch", 
+                                "language": "de", 
+                                "abstract": "Hacksaartours in Den Haag", 
+                                "description": "Besuch des Hackerspace Saar in Den Haag beim RevSpace", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 44, 
+                                        "name": "Holm, Bausparfuchs, Agrigor", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 420, 
                                 "guid": "80feb261-796e-5b84-9781-19e770c6b8f4", 
                                 "logo": null, 
@@ -24823,14 +24957,36 @@
                         ], 
                         "Assembly:Critical Decentralisation Cluster": [
                             {
-                                "id": 1394, 
-                                "guid": "5ab56fe1-09e9-4ab3-96ec-a4d801c59278", 
+                                "id": 1430, 
+                                "guid": "44b228bd-c4f6-54c2-a2fb-763f7b5ace01", 
                                 "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
-                                "slug": "35c3-1394-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "slug": "35c3-1430-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1431, 
+                                "guid": "8053f396-ac33-5203-835b-3eeb13c46f14", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:30", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1431-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
                                 "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
@@ -27792,14 +27948,14 @@
                         ], 
                         "Assembly:Critical Decentralisation Cluster": [
                             {
-                                "id": 1395, 
-                                "guid": "634277f9-d02b-5b87-abd0-592959c5a877", 
+                                "id": 1432, 
+                                "guid": "48432ecf-e91c-5ed9-8ef1-5a6901fb3450", 
                                 "logo": null, 
-                                "date": "2018-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "1:30", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
-                                "slug": "35c3-1395-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "slug": "35c3-1432-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
                                 "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 

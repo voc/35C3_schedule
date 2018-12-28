@@ -10955,6 +10955,67 @@
             }
         ]
     }, 
+    "Session:Introduction to Grin# 81c2cc41623f5cd94d93404d7302848e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1545997800", 
+                "raw": "1/2018/12/28/11/50/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://grin-tech.org/"
+        ], 
+        "Has description": [
+            "Meet Grin"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Parasew", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Introduction to Grin"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "05ca5108-a33d-427e-9cce-ee88cb229e93"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Grin", 
+        "Has end time": [
+            {
+                "timestamp": "1545999000", 
+                "raw": "1/2018/12/28/12/10/0/0"
+            }
+        ]
+    }, 
     "Session:Introduction to Qubes OS# d0160fdaeb42add2ddc58bf087932dce": {
         "Held in language": [
             "en - English"
@@ -15232,6 +15293,210 @@
             }
         ]
     }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 1324426ace0debc549e1e5620eca1677": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546016400", 
+                "raw": "1/2018/12/28/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546021800", 
+                "raw": "1/2018/12/28/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 1de8a0c89f1e0de0cf0cdb3f5bdbc372": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 25d18460c7037957fc169b77a7b588de": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 2dcf022fcfaf2ad83d741c6719a62fa1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546174800", 
+                "raw": "1/2018/12/30/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546180200", 
+                "raw": "1/2018/12/30/14/30/0/0"
+            }
+        ]
+    }, 
     "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 455e2f932fcc03fe2fe74d6981f19424": {
         "Held in language": [
             "en - English"
@@ -15283,14 +15548,14 @@
             }
         ]
     }, 
-    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 5a4be810e45afdd753250454691d1d7a": {
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 4bc7591a103026ae1a9ff359aa711b53": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
+                "timestamp": "1546009200", 
+                "raw": "1/2018/12/28/15/0/0/0"
             }
         ], 
         "Has event track": [
@@ -15329,110 +15594,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
         "Has end time": [
             {
-                "timestamp": "1546097400", 
-                "raw": "1/2018/12/29/15/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 82df2cfef04829b55aac73921589e5ff": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546178400", 
-                "raw": "1/2018/12/30/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pslab.io"
-        ], 
-        "Has description": [
-            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
-        "Has end time": [
-            {
-                "timestamp": "1546183800", 
-                "raw": "1/2018/12/30/15/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 96fedcc42ac466ba9dd99d9f570a770a": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pslab.io"
-        ], 
-        "Has description": [
-            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
-        "Has end time": [
-            {
-                "timestamp": "1546011000", 
-                "raw": "1/2018/12/28/15/30/0/0"
+                "timestamp": "1546014600", 
+                "raw": "1/2018/12/28/16/30/0/0"
             }
         ]
     }, 
@@ -15484,6 +15647,57 @@
             {
                 "timestamp": "1545949800", 
                 "raw": "1/2018/12/27/22/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# df74fad1567f8c45fcd9b4aeb8708a3c": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546027200", 
+                "raw": "1/2018/12/28/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546032600", 
+                "raw": "1/2018/12/28/21/30/0/0"
             }
         ]
     }, 

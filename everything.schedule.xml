@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 11:40</version>
+  <version>Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 12:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11889,6 +11889,35 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="445" guid="a18d1778-b0dd-5e1a-a7bb-e1a5d8531626">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>RGUGPL</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/RGUGPL</url>
+        <title>LinuxLounge@35C3</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Die LinuxLounge bringt euch regelmäßig Neues aus der Welt der freien Software. Diesmal mit einer Sondersendung von der 35C3.</abstract>
+        <description>Die LinuxLounge bringt euch regelmäßig Neues aus der Welt der freien Software. Michael, Chris und Dennis reden über die 35C3, News, neue Software, praktische Tipps und Spiele, kurz alles was sich mit einem freien Betriebssystem eurer Wahl machen lässt. Dieses Mal berichten wir mit Eindrücken von der 35C3 und Neuerungen in der Linuxwelt. Wir freuen uns besonders, dass wir kurzfristig einen Platz im Sendezentrum ergattern konnten!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <name>lazalatin</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="436" guid="508cef8d-e426-5c02-966f-185cfc7fee2a">
         <logo/>
         <date>2018-12-28T20:30:00+01:00</date>
@@ -14454,13 +14483,75 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blockchain,_the_basics</link>
         </links>
       </event>
-      <event id="1396" guid="77accffd-4a6c-5227-be4d-0355c9d1c2bb">
+      <event id="1429" guid="05ca5108-a33d-427e-9cce-ee88cb229e93">
         <logo/>
-        <date>2018-12-28T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-28T11:50:00+01:00</date>
+        <start>11:50</start>
+        <duration>0:20</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1429-session_introduction_to_grin</slug>
+        <title>Introduction to Grin</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Meet Grin</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Parasew">Parasew</person>
+        </persons>
+        <links>
+          <link>https://grin-tech.org/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Grin</link>
+        </links>
+      </event>
+      <event id="1394" guid="5ab56fe1-09e9-4ab3-96ec-a4d801c59278">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>1:30</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1396-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <slug>35c3-1394-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1433" guid="c0f0b475-3c8c-59c7-a499-07ed8dbeba85">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1433-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1434" guid="e210bd0a-9af6-56f9-ba3f-830a8f3ec32f">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1434-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
         <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -20230,6 +20321,35 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
         <attachments/>
         <answers/>
       </event>
+      <event id="446" guid="3215a5db-3512-5a08-9956-ceee3220a425">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>Q98EGC</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/Q98EGC</url>
+        <title>Digital Survivor</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Hacksaartours in Den Haag</abstract>
+        <description>Besuch des Hackerspace Saar in Den Haag beim RevSpace</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <name>Holm, Bausparfuchs, Agrigor</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="420" guid="80feb261-796e-5b84-9781-19e770c6b8f4">
         <logo/>
         <date>2018-12-29T20:30:00+01:00</date>
@@ -23396,13 +23516,33 @@ Freifunk since 2003</biography>
       </event>
     </room>
     <room name="Assembly:Critical Decentralisation Cluster">
-      <event id="1394" guid="5ab56fe1-09e9-4ab3-96ec-a4d801c59278">
+      <event id="1430" guid="44b228bd-c4f6-54c2-a2fb-763f7b5ace01">
         <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
         <duration>1:30</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1394-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <slug>35c3-1430-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1431" guid="8053f396-ac33-5203-835b-3eeb13c46f14">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1431-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
         <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
         <subtitle/>
         <track>self organized sessions</track>
@@ -26245,13 +26385,13 @@ Wir freuen uns auf Dich und Dein Input!</description>
       </event>
     </room>
     <room name="Assembly:Critical Decentralisation Cluster">
-      <event id="1395" guid="634277f9-d02b-5b87-abd0-592959c5a877">
+      <event id="1432" guid="48432ecf-e91c-5ed9-8ef1-5a6901fb3450">
         <logo/>
-        <date>2018-12-30T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
         <duration>1:30</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1395-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <slug>35c3-1432-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
         <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
         <subtitle/>
         <track>self organized sessions</track>

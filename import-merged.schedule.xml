@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
+  <version>Jetsons 3 1.8 v2.2. 1.1 MemoryRefreshV1.0 20181227 1.0.10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8308,6 +8308,35 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <attachments/>
         <answers/>
       </event>
+      <event id="445" guid="a18d1778-b0dd-5e1a-a7bb-e1a5d8531626">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>RGUGPL</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/RGUGPL</url>
+        <title>LinuxLounge@35C3</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Die LinuxLounge bringt euch regelmäßig Neues aus der Welt der freien Software. Diesmal mit einer Sondersendung von der 35C3.</abstract>
+        <description>Die LinuxLounge bringt euch regelmäßig Neues aus der Welt der freien Software. Michael, Chris und Dennis reden über die 35C3, News, neue Software, praktische Tipps und Spiele, kurz alles was sich mit einem freien Betriebssystem eurer Wahl machen lässt. Dieses Mal berichten wir mit Eindrücken von der 35C3 und Neuerungen in der Linuxwelt. Wir freuen uns besonders, dass wir kurzfristig einen Platz im Sendezentrum ergattern konnten!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <name>lazalatin</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="436" guid="508cef8d-e426-5c02-966f-185cfc7fee2a">
         <logo/>
         <date>2018-12-28T20:30:00+01:00</date>
@@ -13588,6 +13617,35 @@ Ansonsten engagiere ich mich viel sozial &amp; interessiere mich für digitale B
         <persons>
           <person id="42">
             <name>Annle, Monkeydom</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="446" guid="3215a5db-3512-5a08-9956-ceee3220a425">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>Sendetisch</room>
+        <slug>Q98EGC</slug>
+        <url>https://35c3.studio-link.de/35c3/talk/Q98EGC</url>
+        <title>Digital Survivor</title>
+        <subtitle/>
+        <track/>
+        <type>Sendetisch</type>
+        <language>de</language>
+        <abstract>Hacksaartours in Den Haag</abstract>
+        <description>Besuch des Hackerspace Saar in Den Haag beim RevSpace</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <name>Holm, Bausparfuchs, Agrigor</name>
             <biography/>
           </person>
         </persons>
