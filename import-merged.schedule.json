@@ -703,9 +703,22 @@
                                     {
                                         "url": "https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0", 
                                         "title": "kuratierte Podcastepisoden \u00fcber CRISPR & Co."
+                                    }, 
+                                    {
+                                        "url": "https://docs.google.com/presentation/d/1WMHsmgAln0tWvW5kd9MexENBBfdue4NXrXZiiJGkPxI/edit", 
+                                        "title": "Google-Slides (zum Kommentieren)"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/662/original/CRISPR-Cas-Angriff-der-Klonkrieger-oder-Eine-Neue-Hoffnung-35c3.pdf?1545950437", 
+                                        "title": "PDF"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9597.html", 
@@ -1084,7 +1097,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/665/original/talk.pdf?1545952876", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9951.html", 
@@ -1353,7 +1371,12 @@
                                         "title": "Compromising Paypal with voicemailcracker"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/667/original/compromising_online_accounts_by_cracking_voicemail_systems.pdf?1545960801", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9675.html", 
@@ -1857,7 +1880,12 @@
                                         "title": "SD-WAN New Hope project Github"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/661/original/SD-WAN_-_35C3_-_publish.pdf?1545948392", 
+                                        "title": "SD-WAN New Hop slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Lecture room 11": [], 
@@ -10288,6 +10316,34 @@
                                     {
                                         "id": 3901, 
                                         "public_name": "Thorsten Schr\u00f6der"
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": []
+                            }, 
+                            {
+                                "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10017.html", 
+                                "id": 10017, 
+                                "guid": "1c64358f-3bdd-484e-a28e-58dc7baa4480", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:10:00+01:00", 
+                                "start": "22:10", 
+                                "duration": "00:40", 
+                                "room": "Adams", 
+                                "slug": "35c3-10017-e-evidenz", 
+                                "title": "E-Evidenz", 
+                                "subtitle": "", 
+                                "track": "Ethics, Society & Politics", 
+                                "type": "lecture", 
+                                "language": "de", 
+                                "abstract": "Was steht in der e-Evidence-Verordnung der Europ\u00e4ischen Union?", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 174, 
+                                        "public_name": "Klaus Landefeld"
                                     }
                                 ], 
                                 "links": [], 

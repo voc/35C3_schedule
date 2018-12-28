@@ -1,5 +1,5 @@
 <schedule>
-  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 02:20</version>
+  <version>Jetsons 3 1.8 v.2.1.2 1.1 MemoryRefreshV1.0 20181227 1.0.10 2018-12-28 03:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -663,8 +663,12 @@ Was mit CRISPR getan wird - darüber sollte es einen breiten Dialog in der Gesel
           <link href="https://zellmedien.de/">Anna Müllner / Adora Belle </link>
           <link href="https://wirkstoffradio.de">Wirkstoffradio</link>
           <link href="https://fyyd.de/user/KonScience/curation/crispr-genomeditierung?page=0">kuratierte Podcastepisoden über CRISPR &amp; Co.</link>
+          <link href="https://docs.google.com/presentation/d/1WMHsmgAln0tWvW5kd9MexENBBfdue4NXrXZiiJGkPxI/edit">Google-Slides (zum Kommentieren)</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/662/original/CRISPR-Cas-Angriff-der-Klonkrieger-oder-Eine-Neue-Hoffnung-35c3.pdf?1545950437">PDF</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9597" guid="96d10915-cc4b-42ca-ad75-15205db70d0b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9597.html</url>
@@ -1028,7 +1032,9 @@ Nach etwas mehr als der Hälfte meiner vierjährigen Periode möchte ich im Rahm
           <person id="8587">sri</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/665/original/talk.pdf?1545952876">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="9951" guid="07cbfcb7-08de-4965-b70f-f904d39f7c78">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9951.html</url>
@@ -1303,7 +1309,9 @@ In this talk I will cover voicemail systems, it's security and how we can use ol
           <link href="https://www.martinvigo.com/demo_whatsapp.mp4">Compromising WhatsApp with voicemailcracker</link>
           <link href="https://www.martinvigo.com/demo_paypal.mp4">Compromising Paypal with voicemailcracker</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/667/original/compromising_online_accounts_by_cracking_voicemail_systems.pdf?1545960801">Slides</attachment>
+        </attachments>
       </event>
       <event id="9675" guid="ffdc92f3-1a39-4931-9409-f8bfabe9f628">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9675.html</url>
@@ -1815,7 +1823,9 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
           <link href="http://www.scada.sl/search/label/sd-wan">SD-WAN New Hope project blog</link>
           <link href="https://github.com/sdnewhop/sdwannewhope">SD-WAN New Hope project Github</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/661/original/SD-WAN_-_35C3_-_publish.pdf?1545948392">SD-WAN New Hop slides</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Lecture room 11">
@@ -15595,6 +15605,31 @@ Hier lohnt es sich für den hackenden Nachwuchs, aus den Fehlern anderer zu lern
         <persons>
           <person id="3995">Linus Neumann</person>
           <person id="3901">Thorsten Schröder</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event id="10017" guid="1c64358f-3bdd-484e-a28e-58dc7baa4480">
+        <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10017.html</url>
+        <logo/>
+        <date>2018-12-29T22:10:00+01:00</date>
+        <start>22:10</start>
+        <duration>00:40</duration>
+        <room>Adams</room>
+        <slug>35c3-10017-e-evidenz</slug>
+        <title>E-Evidenz</title>
+        <subtitle/>
+        <track>Ethics, Society &amp; Politics</track>
+        <type>lecture</type>
+        <language>de</language>
+        <abstract>Was steht in der e-Evidence-Verordnung der Europäischen Union?</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="174">Klaus Landefeld</person>
         </persons>
         <links/>
         <attachments/>
