@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:19 1.1.2", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:26 1.1.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -18400,6 +18400,37 @@
                             }
                         ], 
                         "Komona Zelt #workshops #handson": [
+                            {
+                                "id": 870, 
+                                "guid": "2b86433e-ea8e-5c12-8706-f05a962b64e6", 
+                                "logo": null, 
+                                "date": "2018-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "01:00", 
+                                "room": "Komona Zelt #workshops #handson", 
+                                "slug": "7HXZMP", 
+                                "url": "https://talks.komona.org/35c3/talk/7HXZMP", 
+                                "title": "Utopia network yearly planning", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Utopia international network part of Infoladen at Komona are having an open call for comrades to get to know the collectives and participate in direct action wherever we are and coordinate together. Everyone is welcome to come and find out how we can work together. We are from diverse activist groups from Austria, Bulgaria, Germany, Portugal, Lithuania, Italy, and beyond.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 62, 
+                                        "name": "Infoladen", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 823, 
                                 "guid": "6c468d05-7ab0-569f-bca9-718d1f27df8e", 
