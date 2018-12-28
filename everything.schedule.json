@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0 2018-12-28 16:00", 
+        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more additions 1.1.0 2018-12-28 16:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -13992,37 +13992,6 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 845, 
-                                "guid": "9f4686ee-40d2-548b-807b-435c11a69294", 
-                                "logo": null, 
-                                "date": "2018-12-28T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "01:00", 
-                                "room": "Komona Kuppel 3 #talks", 
-                                "slug": "PUY3F9", 
-                                "url": "https://talks.komona.org/35c3/talk/PUY3F9", 
-                                "title": "Framewars - Rahmungstheorien f\u00fcr Aktivistis", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Slot", 
-                                "language": "de", 
-                                "abstract": "Theoriewissen f\u00fcr die linke Praxis: Framings entwickeln und etablieren f\u00fcr Aktionsplanung und Intervention in tagespolitische Debatten. Ich hab Lust die so richtig zu nerven 2019.", 
-                                "description": "In diesem Workshop wird durch einen Theorie-Input erkl\u00e4rt, was Framings sind, und an Beispielen gezeigt, wie sie von unterschiedlichen politischen Gruppen entwickelt und etabliert werden. In der Praxis ist dieses Wissen relevant, wenn es um Agendasetting und die konkrete Aktionsplanung geht, insbesondere, wenn mit Mitteln der Kunst und Kommunikationsguerilla gearbeitet wird. Ebenso f\u00fcr das Schreiben eines Aufruftextes, einer Pressemitteilung, Bannern, Zines und Posts in Sozialen Medien\u2026", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 44, 
-                                        "name": "Sophie Elle", 
-                                        "biography": "Artist. Writer. Freimeuter", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 814, 
                                 "guid": "c07a6aa8-b80b-5aad-a867-96ef84172e3e", 
                                 "logo": null, 
@@ -14234,6 +14203,37 @@
                                         "id": 35, 
                                         "name": "Komonista", 
                                         "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 865, 
+                                "guid": "b7431e4c-95d2-58de-bac0-af150c62a4a1", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "01:00", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "3HDBPB", 
+                                "url": "https://talks.komona.org/35c3/talk/3HDBPB", 
+                                "title": "Discussion on how to fight fascism on/offline", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "An open discussion on ideas, ways and methods to fight fascism / alt-right online", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 57, 
+                                        "name": "SD", 
+                                        "biography": "", 
                                         "answers": []
                                     }
                                 ], 
@@ -23775,29 +23775,29 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 832, 
-                                "guid": "ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88", 
+                                "id": 845, 
+                                "guid": "9f4686ee-40d2-548b-807b-435c11a69294", 
                                 "logo": null, 
-                                "date": "2018-12-29T16:30:00+01:00", 
-                                "start": "16:30", 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "01:00", 
                                 "room": "Komona Thunderdome #workshops #talks", 
-                                "slug": "KUUPYE", 
-                                "url": "https://talks.komona.org/35c3/talk/KUUPYE", 
-                                "title": "Spontanistan", 
+                                "slug": "PUY3F9", 
+                                "url": "https://talks.komona.org/35c3/talk/PUY3F9", 
+                                "title": "Framewars - Rahmungstheorien f\u00fcr Aktivistis", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Slot", 
-                                "language": "en", 
-                                "abstract": "Doing stuff that pops up. Organize. Chaos.", 
-                                "description": "Do it. Now.", 
+                                "language": "de", 
+                                "abstract": "Theoriewissen f\u00fcr die linke Praxis: Framings entwickeln und etablieren f\u00fcr Aktionsplanung und Intervention in tagespolitische Debatten. Ich hab Lust die so richtig zu nerven 2019.", 
+                                "description": "In diesem Workshop wird durch einen Theorie-Input erkl\u00e4rt, was Framings sind, und an Beispielen gezeigt, wie sie von unterschiedlichen politischen Gruppen entwickelt und etabliert werden. In der Praxis ist dieses Wissen relevant, wenn es um Agendasetting und die konkrete Aktionsplanung geht, insbesondere, wenn mit Mitteln der Kunst und Kommunikationsguerilla gearbeitet wird. Ebenso f\u00fcr das Schreiben eines Aufruftextes, einer Pressemitteilung, Bannern, Zines und Posts in Sozialen Medien\u2026", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
                                     {
-                                        "id": 35, 
-                                        "name": "Komonista", 
-                                        "biography": null, 
+                                        "id": 44, 
+                                        "name": "Sophie Elle", 
+                                        "biography": "Artist. Writer. Freimeuter", 
                                         "answers": []
                                     }
                                 ], 
@@ -23860,6 +23860,37 @@
                                         "id": 13, 
                                         "name": "Research Club Culture", 
                                         "biography": "Lukas\r\nJukebox Utopia\r\nin collaboration with Cityscan and Reclaim Club Culture", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 864, 
+                                "guid": "e55e78ad-3b8f-574b-83cf-58663df7b7da", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "AM7KGQ", 
+                                "url": "https://talks.komona.org/35c3/talk/AM7KGQ", 
+                                "title": "The Perfect Tool to Organize Your Digital Life (Emacs Org mode)", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Org mode is the perfect tool for anybody who wants for capturing, managing and refreshing memories. It combines and unifies aspects like todo and project management, knowledge base like a personal wiki, spreadsheet, code snippets, documentation, and so forth. Let me surprise you.", 
+                                "description": "This is not about editors. At all. The speaker is using vim on a daily basis. Forget about editors for this talk.\r\nThis is about an awesome tool which enables you to organize yourself in a way that you can externalize things that may distract you from actual working or living your life. It is a bottom-less box of LEGO bricks where you choose the bricks you want to take. It scales from simple note taking (engineering diary) and outlining up to the most complex workflows.\r\nMost likely, you have not seen a comparable tool so far.\r\nNotes containing all links will be published on [https://karl-voit.at/2018/12/28/35c3-orgmode/](https://karl-voit.at/2018/12/28/35c3-orgmode/) after the demo.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 56, 
+                                        "name": "Karl Voit", 
+                                        "biography": "PIM research basically for decades; efficient workflows and tools; privacy; security; love to help others who want to learn;", 
                                         "answers": []
                                     }
                                 ], 

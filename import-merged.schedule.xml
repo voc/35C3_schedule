@@ -1,5 +1,5 @@
 <schedule>
-  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 even more climbing 1.1.0</version>
+  <version>Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more additions 1.1.0</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9856,35 +9856,6 @@ we will train with and without microphone</description>
         <attachments/>
         <answers/>
       </event>
-      <event id="845" guid="9f4686ee-40d2-548b-807b-435c11a69294">
-        <logo/>
-        <date>2018-12-28T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>Komona Kuppel 3 #talks</room>
-        <slug>PUY3F9</slug>
-        <url>https://talks.komona.org/35c3/talk/PUY3F9</url>
-        <title>Framewars - Rahmungstheorien für Aktivistis</title>
-        <subtitle/>
-        <track/>
-        <type>Slot</type>
-        <language>de</language>
-        <abstract>Theoriewissen für die linke Praxis: Framings entwickeln und etablieren für Aktionsplanung und Intervention in tagespolitische Debatten. Ich hab Lust die so richtig zu nerven 2019.</abstract>
-        <description>In diesem Workshop wird durch einen Theorie-Input erklärt, was Framings sind, und an Beispielen gezeigt, wie sie von unterschiedlichen politischen Gruppen entwickelt und etabliert werden. In der Praxis ist dieses Wissen relevant, wenn es um Agendasetting und die konkrete Aktionsplanung geht, insbesondere, wenn mit Mitteln der Kunst und Kommunikationsguerilla gearbeitet wird. Ebenso für das Schreiben eines Aufruftextes, einer Pressemitteilung, Bannern, Zines und Posts in Sozialen Medien…</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="44">
-            <name>Sophie Elle</name>
-            <biography>Artist. Writer. Freimeuter</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="814" guid="c07a6aa8-b80b-5aad-a867-96ef84172e3e">
         <logo/>
         <date>2018-12-28T20:00:00+01:00</date>
@@ -10116,6 +10087,35 @@ You will have around five minutes to present, but we want to keep the format fle
         <persons>
           <person id="35">
             <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="865" guid="b7431e4c-95d2-58de-bac0-af150c62a4a1">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>3HDBPB</slug>
+        <url>https://talks.komona.org/35c3/talk/3HDBPB</url>
+        <title>Discussion on how to fight fascism on/offline</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>An open discussion on ideas, ways and methods to fight fascism / alt-right online</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <name>SD</name>
             <biography/>
           </person>
         </persons>
@@ -15617,29 +15617,29 @@ Beginners exchange will take place in the afternoon again!</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="832" guid="ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88">
+      <event id="845" guid="9f4686ee-40d2-548b-807b-435c11a69294">
         <logo/>
-        <date>2018-12-29T16:30:00+01:00</date>
-        <start>16:30</start>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>01:00</duration>
         <room>Komona Thunderdome #workshops #talks</room>
-        <slug>KUUPYE</slug>
-        <url>https://talks.komona.org/35c3/talk/KUUPYE</url>
-        <title>Spontanistan</title>
+        <slug>PUY3F9</slug>
+        <url>https://talks.komona.org/35c3/talk/PUY3F9</url>
+        <title>Framewars - Rahmungstheorien für Aktivistis</title>
         <subtitle/>
         <track/>
         <type>Slot</type>
-        <language>en</language>
-        <abstract>Doing stuff that pops up. Organize. Chaos.</abstract>
-        <description>Do it. Now.</description>
+        <language>de</language>
+        <abstract>Theoriewissen für die linke Praxis: Framings entwickeln und etablieren für Aktionsplanung und Intervention in tagespolitische Debatten. Ich hab Lust die so richtig zu nerven 2019.</abstract>
+        <description>In diesem Workshop wird durch einen Theorie-Input erklärt, was Framings sind, und an Beispielen gezeigt, wie sie von unterschiedlichen politischen Gruppen entwickelt und etabliert werden. In der Praxis ist dieses Wissen relevant, wenn es um Agendasetting und die konkrete Aktionsplanung geht, insbesondere, wenn mit Mitteln der Kunst und Kommunikationsguerilla gearbeitet wird. Ebenso für das Schreiben eines Aufruftextes, einer Pressemitteilung, Bannern, Zines und Posts in Sozialen Medien…</description>
         <recording>
           <license/>
           <optout>false</optout>
         </recording>
         <persons>
-          <person id="35">
-            <name>Komonista</name>
-            <biography/>
+          <person id="44">
+            <name>Sophie Elle</name>
+            <biography>Artist. Writer. Freimeuter</biography>
           </person>
         </persons>
         <links/>
@@ -15707,6 +15707,38 @@ In the workshop we will present our questions, aims and first results and collec
             <biography>Lukas&#13;
 Jukebox Utopia&#13;
 in collaboration with Cityscan and Reclaim Club Culture</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="864" guid="e55e78ad-3b8f-574b-83cf-58663df7b7da">
+        <logo/>
+        <date>2018-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>AM7KGQ</slug>
+        <url>https://talks.komona.org/35c3/talk/AM7KGQ</url>
+        <title>The Perfect Tool to Organize Your Digital Life (Emacs Org mode)</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Org mode is the perfect tool for anybody who wants for capturing, managing and refreshing memories. It combines and unifies aspects like todo and project management, knowledge base like a personal wiki, spreadsheet, code snippets, documentation, and so forth. Let me surprise you.</abstract>
+        <description>This is not about editors. At all. The speaker is using vim on a daily basis. Forget about editors for this talk.&#13;
+This is about an awesome tool which enables you to organize yourself in a way that you can externalize things that may distract you from actual working or living your life. It is a bottom-less box of LEGO bricks where you choose the bricks you want to take. It scales from simple note taking (engineering diary) and outlining up to the most complex workflows.&#13;
+Most likely, you have not seen a comparable tool so far.&#13;
+Notes containing all links will be published on [https://karl-voit.at/2018/12/28/35c3-orgmode/](https://karl-voit.at/2018/12/28/35c3-orgmode/) after the demo.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">
+            <name>Karl Voit</name>
+            <biography>PIM research basically for decades; efficient workflows and tools; privacy; security; love to help others who want to learn;</biography>
           </person>
         </persons>
         <links/>
