@@ -19455,22 +19455,24 @@
             }
         ]
     }, 
-    "Session:Solder a blinky tardigrade# 69db80b0c17478bf6cb6003a5ffb685b": {
+    "Session:Solder a blinky tardigrade# 6293f4d44212203b003cd7abd5e10a86": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546014600", 
-                "raw": "1/2018/12/28/16/30/0/0"
+                "timestamp": "1545955200", 
+                "raw": "1/2018/12/28/0/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "http://''RESCHEDULED_DUE_TO_WORKSHOP_CONFLICT''"
+        ], 
         "Has description": [
-            "I designed some simple pcbs of a tardigrade with a focus on art rather than technicality. The pcb is a simple circuit which contains both smd and through hole components only 4 in total: cr2032 coin cell battery holder, smd switch, multicolour flashing led (through hole) and an smd resistor."
+            "''RESCHEDULED DUE TO WORKSHOP CONFLICT''I designed some simple pcbs of a tardigrade with a focus on art rather than technicality. The pcb is a simple circuit which contains both smd and through hole components only 4 in total: cr2032 coin cell battery holder, smd switch, multicolour flashing led (through hole) and an smd resistor."
         ], 
         "Has session type": [
             "Workshop"
@@ -19485,7 +19487,7 @@
             }
         ], 
         "Has subtitle": [
-            "The birth of the maker cult"
+            "The birth of the maker cult ''RESCHEDULED DUE TO WORKSHOP CONFLICT''"
         ], 
         "Is organized by": [
             {
@@ -19511,8 +19513,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade", 
         "Has end time": [
             {
-                "timestamp": "1546018200", 
-                "raw": "1/2018/12/28/17/30/0/0"
+                "timestamp": "1545958800", 
+                "raw": "1/2018/12/28/1/0/0/0"
             }
         ]
     }, 

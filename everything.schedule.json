@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 16:20", 
+        "version": "Knight Rider 3 1.9.3141576 v2.3 1.1 MemoryRefreshV1.0 more chaos 1.1.0 2018-12-28 16:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -6988,6 +6988,34 @@
                                 "links": [
                                     "https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits"
+                                ]
+                            }, 
+                            {
+                                "id": 1361, 
+                                "guid": "87b8b944-d1de-4325-a7d8-27f0bec38136", 
+                                "logo": null, 
+                                "date": "2018-12-28T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Hardware Hacking Area", 
+                                "slug": "35c3-1361-session_solder_a_blinky_tardigrade", 
+                                "title": "Solder a blinky tardigrade", 
+                                "subtitle": "The birth of the maker cult ''RESCHEDULED DUE TO WORKSHOP CONFLICT''", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "''RESCHEDULED DUE TO WORKSHOP CONFLICT''I designed some simple pcbs of a tardigrade with a focus on art rather than technicality. The pcb is a simple circuit which contains both smd and through hole components only 4 in total: cr2032 coin cell battery holder, smd switch, multicolour flashing led (through hole) and an smd resistor.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus", 
+                                        "public_name": "Lukasmaximus"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://''RESCHEDULED_DUE_TO_WORKSHOP_CONFLICT''", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade"
                                 ]
                             }, 
                             {
@@ -14795,33 +14823,6 @@
                                 "links": [
                                     "https://sites.google.com/deweymac.com/scrappy-circuits/about-us?authuser=0", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Scrappy_circuits"
-                                ]
-                            }, 
-                            {
-                                "id": 1361, 
-                                "guid": "87b8b944-d1de-4325-a7d8-27f0bec38136", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1361-session_solder_a_blinky_tardigrade", 
-                                "title": "Solder a blinky tardigrade", 
-                                "subtitle": "The birth of the maker cult", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "I designed some simple pcbs of a tardigrade with a focus on art rather than technicality. The pcb is a simple circuit which contains both smd and through hole components only 4 in total: cr2032 coin cell battery holder, smd switch, multicolour flashing led (through hole) and an smd resistor.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lukasmaximus", 
-                                        "public_name": "Lukasmaximus"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Solder_a_blinky_tardigrade"
                                 ]
                             }, 
                             {
