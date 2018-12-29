@@ -12644,6 +12644,61 @@
             }
         ]
     }, 
+    "Session:Hackers Against Climate Change# 95972b257bfa3b9cc6f94ec5b37e2c0c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meetup/Discussion for Hackers concerned with Climate Change"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "It is the same time and place as Extinction Rebellion \ud83d\udd25\ud83d\udd25\ud83d\udd25"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Seth", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Seth", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Hackers Against Climate Change"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "de41c240-9ac4-42eb-8be0-b2f9d1ea9eb6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change", 
+        "Has end time": []
+    }, 
     "Session:Hackerspaces.org# 841a45749d439331e084a0acc8199272": {
         "Held in language": [
             "en - English"
@@ -27346,67 +27401,6 @@
             {
                 "timestamp": "1546023600", 
                 "raw": "1/2018/12/28/19/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG (2)# 3767d2836418276ee572b7a2479087b4": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546124400", 
-                "raw": "1/2018/12/29/23/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://www.nongnu.org/dkgpg/"
-        ], 
-        "Has description": [
-            "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilte OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:HS", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:HS", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG (2)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "fcbd9004-9f31-412c-80b8-0c770a8c2482"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG_(2)", 
-        "Has end time": [
-            {
-                "timestamp": "1546128000", 
-                "raw": "1/2018/12/30/0/0/0/0"
             }
         ]
     }

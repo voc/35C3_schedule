@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_2137 1.2.2 2018-12-29 21:30</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_2137 1.2.2 2018-12-29 21:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17697,28 +17697,6 @@ However, it's not always easy...</description>
         <links>
           <link>https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
-        </links>
-      </event>
-      <event id="1378" guid="fcbd9004-9f31-412c-80b8-0c770a8c2482">
-        <logo/>
-        <date>2018-12-29T23:00:00+01:00</date>
-        <start>23:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1378-session_verteilte_schluesselerzeugung_fuer_openpgp_mit_dkgpg_2_</slug>
-        <title>Verteilte Schlüsselerzeugung für OpenPGP mit DKGPG (2)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>de</language>
-        <abstract/>
-        <description>In diesem Vortrag wird gezeigt, wie ihr mit der freien Software "Distributed Privacy Guard" (DKGPG) verteilte OpenPGP-Schlüssel erzeugt und welche Anwendungsszenarien es dafür gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:HS">HS</person>
-        </persons>
-        <links>
-          <link>https://www.nongnu.org/dkgpg/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG_(2)</link>
         </links>
       </event>
     </room>
