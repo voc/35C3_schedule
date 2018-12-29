@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 16:20", 
+        "version": "Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 16:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2466,33 +2466,6 @@
                                 "links": [
                                     "http://none_yet", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:SSG_Meeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1413, 
-                                "guid": "68a6adc7-2f7f-4b48-8f53-68999d6828bd", 
-                                "logo": null, 
-                                "date": "2018-12-27T22:00:00+01:00", 
-                                "start": "22:00", 
-                                "duration": "2:00", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1413-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "Werwolf Meetup", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ], 
@@ -6944,7 +6917,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -14794,7 +14767,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -19193,6 +19166,8 @@
                                 ], 
                                 "links": [
                                     "https://github.com/decrypto-org/spider", 
+                                    "https://arxiv.org/pdf/1811.01348.pdf", 
+                                    "https://docs.google.com/presentation/d/1grQpTV6IV8f4kz7UNnrsKGbRdcpZ3tso7-t5dVs_Ibw/edit?usp=sharing", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Structure_and_Content_of_the_Visible_Darknet"
                                 ]
                             }, 
@@ -19253,33 +19228,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!"
-                                ]
-                            }, 
-                            {
-                                "id": 1414, 
-                                "guid": "5a61c30e-e805-4303-b1bb-b5b17ea636cb", 
-                                "logo": null, 
-                                "date": "2018-12-29T22:30:00+01:00", 
-                                "start": "22:30", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1414-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "Come and play Werwolf", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ], 
@@ -24540,6 +24488,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1519, 
+                                "guid": "42b696ed-d381-42c1-95e2-6485fef12bdf", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:30:00+01:00", 
+                                "start": "18:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1519-session_a_conversation_on_blockchains_cryptography_privacy", 
+                                "title": "A Conversation on Blockchains, Cryptography & Privacy", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "A conversation on the latest development in blockchains, cryptography and privacy tech with a panel of researchers, developers and entrepreneurs.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:A_Conversation_on_Blockchains,_Cryptography_%26_Privacy"
+                                ]
+                            }, 
+                            {
                                 "id": 1469, 
                                 "guid": "a0195f15-07f8-49a2-a38d-bf641359cd82", 
                                 "logo": null, 
@@ -24636,7 +24605,7 @@
                                 "title": "Mix-networking to Anonymize Messaging and Cryptocurrency", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "", 
+                                "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
                                 "description": "NYMTech's first step in anonymizing everything", 
@@ -24689,6 +24658,27 @@
                                 "links": [
                                     "https://eventyay.com/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Source_Event_Management_with_Eventyay"
+                                ]
+                            }, 
+                            {
+                                "id": 1520, 
+                                "guid": "defcb9f5-b506-4b9d-b496-2843aac57c1f", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "0:20", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1520-session_open_source_laser_cutter_made_in_singapore_", 
+                                "title": "Open Source Laser Cutter - Made in Singapore!", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This project is started by Kee Wee Teng - a Singaporean ex-fighter pilot trainer of the national air force, who is also a member of FOSSASIA Org. Kee Wee's motivation is to turn Singapore to a making nation and foster local production with open technologies.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Source_Laser_Cutter_-_Made_in_Singapore!"
                                 ]
                             }, 
                             {
@@ -25052,7 +25042,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
                                 "persons": [
                                     {
                                         "id": 0, 
@@ -29626,7 +29616,7 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
+                                "description": "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30", 
                                 "persons": [
                                     {
                                         "id": 0, 

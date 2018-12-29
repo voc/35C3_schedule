@@ -1104,6 +1104,57 @@
             }
         ]
     }, 
+    "Session:A Conversation on Blockchains, Cryptography & Privacy# 0d884c623985c1abc8e92207506c6d59": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A conversation on the latest development in blockchains, cryptography and privacy tech with a panel of researchers, developers and entrepreneurs."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "A Conversation on Blockchains, Cryptography & Privacy"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "42b696ed-d381-42c1-95e2-6485fef12bdf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:A_Conversation_on_Blockchains,_Cryptography_%26_Privacy", 
+        "Has end time": [
+            {
+                "timestamp": "1546111800", 
+                "raw": "1/2018/12/29/19/30/0/0"
+            }
+        ]
+    }, 
     "Session:A Conversation on Privacy# 4cf2062105dfee953689eea28daf4f38": {
         "Held in language": [
             "en - English"
@@ -16827,7 +16878,9 @@
         "Has description": [
             "NYMTech's first step in anonymizing everything"
         ], 
-        "Has session type": [], 
+        "Has session type": [
+            "Discussion"
+        ], 
         "Has session location": [
             {
                 "fulltext": "Assembly:Critical Decentralisation Cluster", 
@@ -18107,6 +18160,55 @@
             {
                 "timestamp": "1546106400", 
                 "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Open Source Laser Cutter - Made in Singapore!# d622b674210fb68639e9d1d06b831b1e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "This project is started by Kee Wee Teng - a Singaporean ex-fighter pilot trainer of the national air force, who is also a member of FOSSASIA Org. Kee Wee's motivation is to turn Singapore to a making nation and foster local production with open technologies."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open Source Laser Cutter - Made in Singapore!"
+        ], 
+        "Has duration": [
+            20
+        ], 
+        "GUID": [
+            "defcb9f5-b506-4b9d-b496-2843aac57c1f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Source_Laser_Cutter_-_Made_in_Singapore!", 
+        "Has end time": [
+            {
+                "timestamp": "1546116600", 
+                "raw": "1/2018/12/29/20/50/0/0"
             }
         ]
     }, 
@@ -23092,7 +23194,9 @@
             "Session"
         ], 
         "Has website": [
-            "https://github.com/decrypto-org/spider"
+            "https://github.com/decrypto-org/spider", 
+            "https://arxiv.org/pdf/1811.01348.pdf", 
+            "https://docs.google.com/presentation/d/1grQpTV6IV8f4kz7UNnrsKGbRdcpZ3tso7-t5dVs_Ibw/edit?usp=sharing"
         ], 
         "Has description": [
             "We analyzed the topology and the content found on the \"darknet\", the set of websites accessible via Tor. We created a darknet spider and crawled the darknet starting from a bootstrap list by recursively following links."
@@ -23463,7 +23567,7 @@
             "https://www.robokoding.com"
         ], 
         "Has description": [
-            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
+            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
         ], 
         "Has session type": [
             "Hands-On"
@@ -23526,7 +23630,7 @@
             "https://www.robokoding.com"
         ], 
         "Has description": [
-            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
+            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
         ], 
         "Has session type": [
             "Hands-On"
@@ -23589,7 +23693,7 @@
             "https://www.robokoding.com"
         ], 
         "Has description": [
-            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
+            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
         ], 
         "Has session type": [
             "Hands-On"
@@ -23652,7 +23756,7 @@
             "https://www.robokoding.com"
         ], 
         "Has description": [
-            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
+            "Soldering SumoRobots for every age and skill level. No previous experience required!<br><br>SOLD OUT!<br><br>Dec 27, 14.00 - 15.30<br>Dec 28, 14.00 - 15.30<br>Dec 29, 14.00 - 15.30<br>Dec 30, 14.00 - 15.30"
         ], 
         "Has session type": [
             "Hands-On"
@@ -27274,126 +27378,6 @@
             {
                 "timestamp": "1546059600", 
                 "raw": "1/2018/12/29/5/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# 9e78b4976224154d4aef4675f7cbd716": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545948000", 
-                "raw": "1/2018/12/27/22/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Werwolf Meetup"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "68a6adc7-2f7f-4b48-8f53-68999d6828bd"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1545955200", 
-                "raw": "1/2018/12/28/0/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# b35f171845543981251a18f18cbee6c0": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546122600", 
-                "raw": "1/2018/12/29/22/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Come and play Werwolf"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "5a61c30e-e805-4303-b1bb-b5b17ea636cb"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1546128000", 
-                "raw": "1/2018/12/30/0/0/0/0"
             }
         ]
     }
