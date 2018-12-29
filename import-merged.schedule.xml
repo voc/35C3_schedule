@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.1</version>
+  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 1.2.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -12040,7 +12040,9 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
         <language>en</language>
         <abstract>You didn't manage to get an official Lightningtalk slot? Here is another chance to deliver your talk. Overflow talks will be managed by the "official" Lightning talk pretalx system. Please do NOT submit lightningtalks directly to ChaosZone.&#13;
 &#13;
-Detailed program: https://c3lt.de/35c3overflow/schedule/</abstract>
+Detailed program: https://c3lt.de/35c3overflow/schedule/&#13;
+&#13;
+CfP https://c3lt.de/35c3overflow/cfp</abstract>
         <description/>
         <recording>
           <license/>
@@ -15456,6 +15458,35 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
       </event>
     </room>
     <room name="ChaosZone">
+      <event id="723" guid="2020b8e5-6239-56db-a943-08d739bb83ed">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:00</duration>
+        <room>ChaosZone</room>
+        <slug>CR8PGP</slug>
+        <url>https://cfp.chaoszone.cz/35c3/talk/CR8PGP</url>
+        <title>Die Alpha</title>
+        <subtitle/>
+        <track/>
+        <type>Session 60min</type>
+        <language>de</language>
+        <abstract>Demo einer Alphastation mit 21064 Prozessor. Dazu Infos über die Geschichte des Alpha-Prozessors und wie digital drin hängt/gehangen ist. Sowie Eckdaten zum Alpha</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="26">
+            <name>robert0k</name>
+            <biography>Softwareentwickler, Informatiker und Mitglied des chch.it Chemnitz</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="717" guid="a3f657ab-f9d6-5af0-9f54-2121dc894491">
         <logo/>
         <date>2018-12-30T17:10:00+01:00</date>

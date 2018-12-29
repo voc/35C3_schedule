@@ -7318,6 +7318,49 @@
             }
         ]
     }, 
+    "Session:Data Science Nerds# 57fe56f6695726d2c543d6aa30f75ea9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Just a gatheriing of Data Science Enthsiasts and a discussion of security in data science"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Data Science Nerds"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "950666ba-e03d-4538-b629-ababd6748304"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Datenschleuder-Treffen# f87955a81b7e9f275c4f6678ce728304": {
         "Held in language": [
             "de - German"
@@ -20138,6 +20181,60 @@
             }
         ]
     }, 
+    "Session:Rubik's Cube L\u00f6sen Lernen# aaee6216d071c37350add695a2f389d7": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rubik's Cube - Learn to Solve"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "How to solve the Cube on your own with Commutators."
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Kmkkmk", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Kmkkmk", 
+                "namespace": 2, 
+                "exists": "", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Rubik's Cube L\u00f6sen Lernen"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "597e2464-3b78-4f8e-9da1-f5e5a3484977"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rubik%27s_Cube_L%C3%B6sen_Lernen", 
+        "Has end time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ]
+    }, 
     "Session:Rubik's Cube L\u00f6sen Lernen# f6b5dfe0487e1f674c47321cd51fad9a": {
         "Held in language": [
             "de - German", 
@@ -20460,14 +20557,14 @@
             }
         ]
     }, 
-    "Session:SUSI.AI: An Open Source Platform for Conversational Web# e1c5d2a7ba24247f21ce8536cb574a0a": {
+    "Session:SUSI.AI: An Open Source Platform for Conversational Web# f9f3d4c13aca5c922f88988e32b6fcb8": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546088400", 
-                "raw": "1/2018/12/29/13/0/0/0"
+                "timestamp": "1546095600", 
+                "raw": "1/2018/12/29/15/0/0/0"
             }
         ], 
         "Has event track": [
@@ -20508,8 +20605,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSI.AI:_An_Open_Source_Platform_for_Conversational_Web", 
         "Has end time": [
             {
-                "timestamp": "1546089900", 
-                "raw": "1/2018/12/29/13/25/0/0"
+                "timestamp": "1546097100", 
+                "raw": "1/2018/12/29/15/25/0/0"
             }
         ]
     }, 
@@ -27415,124 +27512,6 @@
             {
                 "timestamp": "1544288400", 
                 "raw": "1/2018/12/8/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Wondrous Mathematics: Fun with infinitely large numbers# 2b48b4a1d84d2495faa98c3388756b35": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546099800", 
-                "raw": "1/2018/12/29/16/10/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Is infinity plus one bigger than infinity? Or is it still just infinity? If you were bothered by this question at some point in your life, this talk is for you. It gives you the graphical tools to decide this question for yourself without any remaining doubt. Absolutely no mathematical prerequisites needed."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: Fun with infinitely large numbers"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "45a13447-70ed-47d2-82ae-e88366738130"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_infinitely_large_numbers", 
-        "Has end time": [
-            {
-                "timestamp": "1546103400", 
-                "raw": "1/2018/12/29/17/10/0/0"
-            }
-        ]
-    }, 
-    "Session:Wondrous Mathematics: Fun with transfinite games# 456d0f5b04b18d6a278d8fc8e5bc83a1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546108200", 
-                "raw": "1/2018/12/29/18/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: Fun with transfinite games"
-        ], 
-        "Has duration": [
-            40
-        ], 
-        "GUID": [
-            "e13ed565-4787-4e47-a5df-1b5cdd8a1289"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games", 
-        "Has end time": [
-            {
-                "timestamp": "1546110600", 
-                "raw": "1/2018/12/29/19/10/0/0"
             }
         ]
     }
