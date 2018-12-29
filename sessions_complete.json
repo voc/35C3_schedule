@@ -9502,6 +9502,51 @@
             }
         ]
     }, 
+    "Session:Film -- C2X: The television will not be revolutionized.# 345b4cb7ff775e543e90693373007631": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- C2X: The television will not be revolutionized."
+        ], 
+        "Has duration": [
+            110
+        ], 
+        "GUID": [
+            "9a442283-1463-4cd6-aeee-5b848684854b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_C2X:_The_television_will_not_be_revolutionized.", 
+        "Has end time": [
+            {
+                "timestamp": "1546123800", 
+                "raw": "1/2018/12/29/22/50/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- C2X: The television will not be revolutionized.# b17d94b03811245e08e5d12cdb102b44": {
         "Held in language": [], 
         "Has start time": [
@@ -9919,6 +9964,53 @@
             }
         ]
     }, 
+    "Session:Film -- One Million Steps# 58eed7490b321d56e8d7e0400a3f18a0": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546121460", 
+                "raw": "1/2018/12/29/22/11/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A tap dancer performs, while elsewhere people run from the tear gas of the police"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- One Million Steps"
+        ], 
+        "Has duration": [
+            21
+        ], 
+        "GUID": [
+            "e3091fe1-dd53-4ca6-ac78-b99252589b96"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_One_Million_Steps", 
+        "Has end time": [
+            {
+                "timestamp": "1546122720", 
+                "raw": "1/2018/12/29/22/32/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- One Million Steps# df19a990efd5f5b29df351c2cee5968a": {
         "Held in language": [], 
         "Has start time": [
@@ -10105,6 +10197,51 @@
             }
         ]
     }, 
+    "Session:Film -- Stare into the lights my pretties# fffd12ac3a3ec67f649632b2fa2f3c48": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546122720", 
+                "raw": "1/2018/12/29/22/32/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Stare into the lights my pretties"
+        ], 
+        "Has duration": [
+            130
+        ], 
+        "GUID": [
+            "46c373f0-c097-4d3c-ba40-a032e39203ae"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Stare_into_the_lights_my_pretties", 
+        "Has end time": [
+            {
+                "timestamp": "1546130520", 
+                "raw": "1/2018/12/30/0/42/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- Testgel\u00e4nde# 611fc75bdd93a3d520620e6061e4863b": {
         "Held in language": [], 
         "Has start time": [
@@ -10239,6 +10376,53 @@
             {
                 "timestamp": "1545943140", 
                 "raw": "1/2018/12/27/20/39/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- When the Undead Dream of Living - Celine Keller# 1d563348423ac93775172d62620f50c3": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546134120", 
+                "raw": "1/2018/12/30/1/42/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Celine Kelller   An audiovisual exploration of the utopian potential of zombiism   Words & Movie: C\u00e9line Keller  Sounds & Music: Louisa Beck        Two very popular dystopian scenarios exist in our collective imagination: the zombie apocalypse and the singularity. Both seem to represent our anxieties about a deep crisis of humanism. A humanism that placed reason and rationality above nature and all else that is living. This elevation kick started what now appears to be an unavoidable defeat of humanity in a deadly competition with itself.   Our video essay contents that social conditions determine people\u2019s actions, but that the people in turn create these conditions. The singularity (if it happens) will have been programmed by us. And the zombies, dehumanised human beings, we are supposed to be killing, are also created by us. In a world that seemingly already is ruled by unconscious zombies, we need to recognise that these zombies might be us. What would happen if we woke up and took seriously our responsibilities and powers?"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- When the Undead Dream of Living - Celine Keller"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "52b5c0c1-1648-4bc3-9989-9bba82c1597c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_When_the_Undead_Dream_of_Living_-_Celine_Keller", 
+        "Has end time": [
+            {
+                "timestamp": "1546135920", 
+                "raw": "1/2018/12/30/2/12/0/0"
             }
         ]
     }, 
@@ -27358,191 +27542,6 @@
             {
                 "timestamp": "1546178400", 
                 "raw": "1/2018/12/30/14/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Write your own OS# 69cc11a5efab6dc55af1043327fbf013": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://git.oenings.eu/hendrik/xanylos.git"
-        ], 
-        "Has description": [
-            "We'll show an self-written operating system and explain how to write your own one."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Curry Club Augsburg", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Curry_Club_Augsburg", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Workshop for people with too much time"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Caylee", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Caylee", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Write your own OS"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c959e0da-6371-4844-84c9-d1bb1015f8b0"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Write_your_own_OS", 
-        "Has end time": [
-            {
-                "timestamp": "1546117200", 
-                "raw": "1/2018/12/29/21/0/0/0"
-            }
-        ]
-    }, 
-    "Session:XMPP Meetup# 3b7d232400328fac1964aaaa7944ef2b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546029000", 
-                "raw": "1/2018/12/28/20/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://xmpp.org/"
-        ], 
-        "Has description": [
-            "XMPP developer and user meetup. We'll discuss recent improvements and challenges."
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Link Mauve", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Link_Mauve", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }, 
-            {
-                "fulltext": "User:Pep", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pep", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "XMPP Meetup"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "2f5f1a10-09ce-438a-8979-70fee706e089"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:XMPP_Meetup", 
-        "Has end time": [
-            {
-                "timestamp": "1546034400", 
-                "raw": "1/2018/12/28/22/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Zwischen Hysterie und Topfpflanzen# 6a1ab08f034f8e07cfbe58ddd8a1ac5c": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546196400", 
-                "raw": "1/2018/12/30/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://dome-one.com"
-        ], 
-        "Has description": [
-            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Dome Art-and-Play", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "open sound-colelctive"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Zwischen Hysterie und Topfpflanzen"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "07620553-2702-4d48-acae-53def7b70d19"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Zwischen_Hysterie_und_Topfpflanzen", 
-        "Has end time": [
-            {
-                "timestamp": "1546203600", 
-                "raw": "1/2018/12/30/21/0/0/0"
             }
         ]
     }
