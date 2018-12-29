@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 21:20", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_2137 1.2.2 2018-12-29 21:30", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -24094,37 +24094,6 @@
                                 "answers": []
                             }, 
                             {
-                                "id": 854, 
-                                "guid": "5a837f29-6731-5d7f-90d9-68bd9eca892c", 
-                                "logo": null, 
-                                "date": "2018-12-29T21:00:00+01:00", 
-                                "start": "21:00", 
-                                "duration": "01:00", 
-                                "room": "Komona Zelt #workshops #handson", 
-                                "slug": "NUYMGA", 
-                                "url": "https://talks.komona.org/35c3/talk/NUYMGA", 
-                                "title": "Basic principles of architectural construction drawing", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Slot", 
-                                "language": "en", 
-                                "abstract": "What's a section, how do I draw floor plans and what is CAD? I'll explain how to draw structures according to architectural conventions and why it can make sense to do it that way.", 
-                                "description": "As this is my first workshop on this topic, I'll give ~30 min input and would like to talk with you afterwards how much it helped and what additional information would be appreciated in order to for me to create digital resources for constructional drawing.\r\n\r\nI'll touch on different types of architectural drawings and the standards that evolved around them, why it is useful to create those drawings and how my workflow usually looks like in order to draw them.\r\nI will focus on \"dry\" construction (think of wood or metal structures) in opposition to traditional house building techniques (like concrete stuff)\r\n\r\nI'll also give a brief overview on (mostly :/ ) free software that can replace proprietrary CAD programs.", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 6, 
-                                        "name": "luroc", 
-                                        "biography": "", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 869, 
                                 "guid": "35aaf3bf-4726-50e7-aca5-c12af5a778ea", 
                                 "logo": null, 
@@ -29452,6 +29421,37 @@
                                     {
                                         "id": 32, 
                                         "name": "Reclaim Club Culture", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 873, 
+                                "guid": "2cc6fa4a-8ded-5641-9b1b-ab0c6aaa7615", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "00:30", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "C7KTRD", 
+                                "url": "https://talks.komona.org/35c3/talk/C7KTRD", 
+                                "title": "Neuroplastic Society aka How to Learn Your Mind", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Neuroplastic Society aka How to Learn Your Mind by Karol Sokdowski", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 51, 
+                                        "name": "Karol Sokdowski", 
                                         "biography": "", 
                                         "answers": []
                                     }

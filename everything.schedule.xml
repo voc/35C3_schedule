@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 21:20</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_2137 1.2.2 2018-12-29 21:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -22733,40 +22733,6 @@ After the talk there'll be QA and an open discussion.</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="854" guid="5a837f29-6731-5d7f-90d9-68bd9eca892c">
-        <logo/>
-        <date>2018-12-29T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>01:00</duration>
-        <room>Komona Zelt #workshops #handson</room>
-        <slug>NUYMGA</slug>
-        <url>https://talks.komona.org/35c3/talk/NUYMGA</url>
-        <title>Basic principles of architectural construction drawing</title>
-        <subtitle/>
-        <track/>
-        <type>Slot</type>
-        <language>en</language>
-        <abstract>What's a section, how do I draw floor plans and what is CAD? I'll explain how to draw structures according to architectural conventions and why it can make sense to do it that way.</abstract>
-        <description>As this is my first workshop on this topic, I'll give ~30 min input and would like to talk with you afterwards how much it helped and what additional information would be appreciated in order to for me to create digital resources for constructional drawing.&#13;
-&#13;
-I'll touch on different types of architectural drawings and the standards that evolved around them, why it is useful to create those drawings and how my workflow usually looks like in order to draw them.&#13;
-I will focus on "dry" construction (think of wood or metal structures) in opposition to traditional house building techniques (like concrete stuff)&#13;
-&#13;
-I'll also give a brief overview on (mostly :/ ) free software that can replace proprietrary CAD programs.</description>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">
-            <name>luroc</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="869" guid="35aaf3bf-4726-50e7-aca5-c12af5a778ea">
         <logo/>
         <date>2018-12-29T22:00:00+01:00</date>
@@ -27633,6 +27599,35 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <persons>
           <person id="32">
             <name>Reclaim Club Culture</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="873" guid="2cc6fa4a-8ded-5641-9b1b-ab0c6aaa7615">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>C7KTRD</slug>
+        <url>https://talks.komona.org/35c3/talk/C7KTRD</url>
+        <title>Neuroplastic Society aka How to Learn Your Mind</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Neuroplastic Society aka How to Learn Your Mind by Karol Sokdowski</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="51">
+            <name>Karol Sokdowski</name>
             <biography/>
           </person>
         </persons>
