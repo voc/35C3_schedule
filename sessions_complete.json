@@ -24772,11 +24772,16 @@
             }
         ]
     }, 
-    "Session:Systemfeels: hacking mental health# c2582c195d8e5cfb2383876fedd4f53d": {
+    "Session:Systemfeels: hacking mental health# 1bbf13c6bea6be99bb465e5825f75e61": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
+            }
+        ], 
         "Has event track": [
             "Session"
         ], 
@@ -24789,9 +24794,9 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Vintage Computing Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Vintage_Computing_Cluster", 
-                "namespace": 516, 
+                "fulltext": "Assembly:Komona", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Komona", 
+                "namespace": 504, 
                 "exists": "1", 
                 "displaytitle": ""
             }
@@ -24811,7 +24816,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Systemfeels:_hacking_mental_health", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546128000", 
+                "raw": "1/2018/12/30/0/0/0/0"
+            }
+        ]
     }, 
     "Session:TNC assembly workshop# 9c6097e36d329cbff96a4b348abef71a": {
         "Held in language": [

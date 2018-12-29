@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 20:20", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 20:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -26774,6 +26774,29 @@
                                 "links": [
                                     "http://www.catnet.rocks", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Social_Media_Design_%26_the_chances_of_social_linked_data"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Komona": [
+                            {
+                                "id": 1530, 
+                                "guid": "d228f138-d7cc-4741-8440-5b05bda47078", 
+                                "logo": null, 
+                                "date": "2018-12-29T23:00:00+01:00", 
+                                "start": "23:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Komona", 
+                                "slug": "35c3-1530-session_systemfeels_hacking_mental_health", 
+                                "title": "Systemfeels: hacking mental health", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "what can we do to systemically improve mental health etc in our communities?", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Systemfeels:_hacking_mental_health"
                                 ]
                             }
                         ], 
