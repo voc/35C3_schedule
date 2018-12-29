@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 12:20</version>
+  <version>2018-12-29 12:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -3650,29 +3650,6 @@
     <room name="OIO Workshop-Domo"/>
     <room name="CCL Saal 3"/>
     <room name="Vintage Computing Cluster">
-      <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>2:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1038-session_datenschleuder_treffen</slug>
-        <title>Datenschleuder-Treffen</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Treffen der Datenschleuder-Redaktion</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rince">Rince</person>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Marei">Marei</person>
-        </persons>
-        <links>
-          <link>https://ds.ccc.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen</link>
-        </links>
-      </event>
       <event id="1420" guid="367a7673-8afa-4915-b7cf-e8f8e107c30c">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>

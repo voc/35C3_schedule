@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 12:20</version>
+  <version>Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 12:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -22661,13 +22661,13 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
-    <room name="Vintage Computing Cluster">
+    <room name="Restaurant Handelshof, zwischen Halle 3 und Halle 5 im Keller">
       <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
         <logo/>
         <date>2018-12-29T13:00:00+01:00</date>
         <start>13:00</start>
         <duration>2:00</duration>
-        <room>Vintage Computing Cluster</room>
+        <room>Restaurant Handelshof, zwischen Halle 3 und Halle 5 im Keller</room>
         <slug>35c3-1038-session_datenschleuder_treffen</slug>
         <title>Datenschleuder-Treffen</title>
         <subtitle/>
@@ -22683,49 +22683,6 @@ Freifunk since 2003</biography>
         <links>
           <link>https://ds.ccc.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen</link>
-        </links>
-      </event>
-      <event id="1420" guid="367a7673-8afa-4915-b7cf-e8f8e107c30c">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1420-session_hege_und_aufzucht_kleiner_technischer_vereine</slug>
-        <title>Hege und Aufzucht kleiner technischer Vereine</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Alltägliche Probleme, der Vorteil zusammen zu arbeiten und die Frage nach der richtigen Form</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ch">Ch</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine</link>
-        </links>
-      </event>
-      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
-        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
-        </persons>
-        <links>
-          <link>https://vcfb.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
         </links>
       </event>
     </room>
@@ -23160,6 +23117,51 @@ Freifunk since 2003</biography>
         <links>
           <link>http://www.squarelet.org</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Squarelet_-_Kooperativ_lernen_mit_Open_Source-Pinboards</link>
+        </links>
+      </event>
+    </room>
+    <room name="Vintage Computing Cluster">
+      <event id="1420" guid="367a7673-8afa-4915-b7cf-e8f8e107c30c">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1420-session_hege_und_aufzucht_kleiner_technischer_vereine</slug>
+        <title>Hege und Aufzucht kleiner technischer Vereine</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Alltägliche Probleme, der Vorteil zusammen zu arbeiten und die Frage nach der richtigen Form</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ch">Ch</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine</link>
+        </links>
+      </event>
+      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Vintage Computing Cluster</room>
+        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
+        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
+        </persons>
+        <links>
+          <link>https://vcfb.de/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
         </links>
       </event>
     </room>
