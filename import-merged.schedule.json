@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -17582,6 +17582,37 @@
                         ], 
                         "OIO Workshop-Domo": [
                             {
+                                "id": 319, 
+                                "guid": "adb46547-e787-500d-807b-d373fad6cde9", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "01:00", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "FTFSBU", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FTFSBU", 
+                                "title": "ELECTRIC CARS, USE IT, HACK IT, TALK ABOUT IT", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 45min", 
+                                "language": "en", 
+                                "abstract": "Let's talk about computers on wheels. Electric cars. Let talk about experiences, hardware, software, hacking cars, coding cars.\r\n\r\nNo presentation, just talk about experiences, ideas, problems and solutions.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 104, 
+                                        "name": "Morris Jobke", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 285, 
                                 "guid": "9fbdc7f9-97d6-56b9-a082-f2581a307401", 
                                 "logo": null, 
@@ -17756,7 +17787,7 @@
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "RGU9XL", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL", 
-                                "title": "Datenguide / Projektvorstellung & Workshop", 
+                                "title": "Datenguide / Statistik f\u00fcr alle!", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Workshop mit Gruppentischen", 

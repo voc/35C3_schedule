@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 19:00</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -26737,6 +26737,37 @@ Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</descri
       </event>
     </room>
     <room name="OIO Workshop-Domo">
+      <event id="319" guid="adb46547-e787-500d-807b-d373fad6cde9">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>FTFSBU</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FTFSBU</url>
+        <title>ELECTRIC CARS, USE IT, HACK IT, TALK ABOUT IT</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>Let's talk about computers on wheels. Electric cars. Let talk about experiences, hardware, software, hacking cars, coding cars.&#13;
+&#13;
+No presentation, just talk about experiences, ideas, problems and solutions.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="104">
+            <name>Morris Jobke</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="285" guid="9fbdc7f9-97d6-56b9-a082-f2581a307401">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
@@ -26909,7 +26940,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <room>WikiPakaWG Esszimmer</room>
         <slug>RGU9XL</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL</url>
-        <title>Datenguide / Projektvorstellung &amp; Workshop</title>
+        <title>Datenguide / Statistik für alle!</title>
         <subtitle/>
         <track/>
         <type>Workshop mit Gruppentischen</type>
