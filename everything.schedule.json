@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:20", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -26042,28 +26042,6 @@
                                     "http://www.randorianalysis.de/?p=260", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War"
                                 ]
-                            }, 
-                            {
-                                "id": 1272, 
-                                "guid": "0f5de31b-dab0-41b2-b822-07a39747182c", 
-                                "logo": null, 
-                                "date": "2018-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "0:45", 
-                                "room": "Assembly:Social Fiction Society", 
-                                "slug": "35c3-1272-session_wargaming_netzpolitik", 
-                                "title": "Wargaming Netzpolitik", 
-                                "subtitle": "Day 3 Session", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies", 
-                                "persons": [], 
-                                "links": [
-                                    "https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik"
-                                ]
                             }
                         ], 
                         "Assembly:Chaos West": [
@@ -27890,6 +27868,28 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:KG_Orga_Meeting"
+                                ]
+                            }, 
+                            {
+                                "id": 1529, 
+                                "guid": "2920fdc6-4f09-4d1d-b377-9567b104c498", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1529-session_prometheus_bof", 
+                                "title": "Prometheus BoF", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Prometheus BoF: Prometheus, OpenMetrics, Observability, and all the things monitoring", 
+                                "persons": [], 
+                                "links": [
+                                    "http://prometheus.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Prometheus_BoF"
                                 ]
                             }
                         ], 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:20</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -24415,26 +24415,6 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Klingon_Civil_War</link>
         </links>
       </event>
-      <event id="1272" guid="0f5de31b-dab0-41b2-b822-07a39747182c">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1272-session_wargaming_netzpolitik</slug>
-        <title>Wargaming Netzpolitik</title>
-        <subtitle>Day 3 Session</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies</description>
-        <persons/>
-        <links>
-          <link>https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik</link>
-        </links>
-      </event>
     </room>
     <room name="Assembly:Chaos West">
       <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
@@ -26073,6 +26053,26 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KG_Orga_Meeting</link>
+        </links>
+      </event>
+      <event id="1529" guid="2920fdc6-4f09-4d1d-b377-9567b104c498">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1529-session_prometheus_bof</slug>
+        <title>Prometheus BoF</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Prometheus BoF: Prometheus, OpenMetrics, Observability, and all the things monitoring</description>
+        <persons/>
+        <links>
+          <link>http://prometheus.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Prometheus_BoF</link>
         </links>
       </event>
     </room>
