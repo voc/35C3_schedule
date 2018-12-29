@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 03:10</version>
+  <version>2018-12-29 03:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1557,25 +1557,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Game_over</link>
         </links>
       </event>
-      <event id="1339" guid="420ab9ee-14ec-4afd-bfe4-60aad76e5858">
-        <logo/>
-        <date>2018-12-27T21:05:00+01:00</date>
-        <start>21:05</start>
-        <duration>0:10</duration>
-        <room>ChaosFilmSociety Art-and-Play</room>
-        <slug>35c3-1339-session_work_hard_work_hard</slug>
-        <title>Work Hard, Work Hard</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard</link>
-        </links>
-      </event>
     </room>
   </day>
   <day date="2018-12-28" index="2" end="2018-12-29T04:00:00+01:00" start="2018-12-28T06:00:00+01:00">
@@ -2108,25 +2089,25 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
-      <event id="1137" guid="afaf3909-6630-40af-b377-174b0d319796">
+      <event id="1501" guid="5076b837-bc26-49ff-ab99-5b3a091ca058">
         <logo/>
-        <date>2018-12-29T01:00:00+01:00</date>
-        <start>01:00</start>
-        <duration>1:00</duration>
+        <date>2018-12-29T03:00:00+01:00</date>
+        <start>03:00</start>
+        <duration>2:00</duration>
         <room>Seminar room 14-15</room>
-        <slug>35c3-1137-session_wondrous_mathematics_the_curious_world_of_four_dimensional_geometry</slug>
-        <title>Wondrous Mathematics: The curious world of four-dimensional geometry</title>
-        <subtitle>talk in room 14/15 (NOT in M3 as previously announced)</subtitle>
+        <slug>35c3-1501-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle/>
         <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
+        <type/>
+        <language>de</language>
         <abstract/>
-        <description>(NOT in M3, but in 14/15) You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions.</description>
+        <description>Playing Werwolf together</description>
         <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
         </persons>
         <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>
@@ -3269,7 +3250,7 @@
         <room>ChaosFilmSociety Art-and-Play</room>
         <slug>35c3-1349-session_film_c2x_the_television_will_not_be_revolutionized_</slug>
         <title>Film -- C2X: The television will not be revolutionized.</title>
-        <subtitle/>
+        <subtitle>In Senegal, when President Abdoulaye Wade wanted to run for office yet again in 2011, a resistance movement formed on the streets. Shortly afterwards, a group of school friends, including rappers Thiat and Kilifeu, set up ‘Y’en a marre’ (‘We Are Fed Up’). Filmmaker Rama Thiaw soon came on board to start documenting events (meetings, campaigns, arrests, concerts, states of exhaustion, trips) from an insider’s perspective. This documentary is the second volume of Rama Thiaw’s trilogy of documentaries, where she highlights the relationship between politics and culture. It started with ‘Boul Fallé, the Way of Struggle’ shot in 2009, and the third volume of this trilogy will follow 6 reggae musicians in different countries. ‘The Revolution Won’t Be Televised’ was presented at the 2016 Berlinale and won the Prize of Critics from ‘FIPRESCI’ in the Forum category and a mention from Caligari Filmpreis. Rama Thiaw offers a truly aesthetic documentary, where she narrates a part of Senegalese history and explains how her home country is about to change.</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -3665,26 +3646,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation</link>
         </links>
       </event>
-      <event id="1138" guid="177023a2-4598-4b02-98a2-e511430e796e">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>3:00</duration>
-        <room>Lecture room 11</room>
-        <slug>35c3-1138-session_workshop_on_prison_and_justice_system_de_</slug>
-        <title>Workshop on prison and justice system (de)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://abcdd.org</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_on_prison_and_justice_system_(de)</link>
-        </links>
-      </event>
     </room>
     <room name="OIO Workshop-Domo"/>
     <room name="CCL Saal 3"/>
@@ -3963,6 +3924,27 @@
         <links>
           <link>https://www.nongnu.org/dkgpg/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG_(2)</link>
+        </links>
+      </event>
+      <event id="1502" guid="3f5dc85f-a89d-5e5b-9fc2-63ffa3cc55d3">
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>2:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1502-session_werwolf</slug>
+        <title>Werwolf</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Playing Werwolf together</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
       <event id="1135" guid="e13ed565-4787-4e47-a5df-1b5cdd8a1289">
@@ -4602,7 +4584,7 @@
         <type>meeting</type>
         <language>de</language>
         <abstract/>
-        <description>Was tun für mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbehörde, Workshop und Meetup von Datenschützern für Datenschützer, Hacker und andere Interessierte</description>
+        <description>Was tun für mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbehörde, Workshop und Meetup von Datenschützern für Datenschützer, Hacker und andere Interessierte.</description>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschutz,_Datensch%C3%BCtzer_und_Datenkraken</link>
@@ -5261,6 +5243,25 @@
       </event>
     </room>
     <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1499" guid="bd0a41fc-8424-41c8-90bc-9747d6276f85">
+        <logo/>
+        <date>2018-12-30T02:12:00+01:00</date>
+        <start>02:12</start>
+        <duration>0:13</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1499-session_film_algo_rhythm</slug>
+        <title>Film -- Algo-Rhythm</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>Rap Musical against Automated Propaganda Convenience, not choice.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Algo-Rhythm</link>
+        </links>
+      </event>
       <event id="1495" guid="9a442283-1463-4cd6-aeee-5b848684854b">
         <logo/>
         <date>2018-12-29T21:00:00+01:00</date>
@@ -5269,7 +5270,7 @@
         <room>ChaosFilmSociety Art-and-Play</room>
         <slug>35c3-1495-session_film_c2x_the_television_will_not_be_revolutionized_</slug>
         <title>Film -- C2X: The television will not be revolutionized.</title>
-        <subtitle/>
+        <subtitle>In Senegal, when President Abdoulaye Wade wanted to run for office yet again in 2011, a resistance movement formed on the streets. Shortly afterwards, a group of school friends, including rappers Thiat and Kilifeu, set up ‘Y’en a marre’ (‘We Are Fed Up’). Filmmaker Rama Thiaw soon came on board to start documenting events (meetings, campaigns, arrests, concerts, states of exhaustion, trips) from an insider’s perspective. This documentary is the second volume of Rama Thiaw’s trilogy of documentaries, where she highlights the relationship between politics and culture. It started with ‘Boul Fallé, the Way of Struggle’ shot in 2009, and the third volume of this trilogy will follow 6 reggae musicians in different countries. ‘The Revolution Won’t Be Televised’ was presented at the 2016 Berlinale and won the Prize of Critics from ‘FIPRESCI’ in the Forum category and a mention from Caligari Filmpreis. Rama Thiaw offers a truly aesthetic documentary, where she narrates a part of Senegalese history and explains how her home country is about to change.</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -5280,10 +5281,29 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_C2X:_The_television_will_not_be_revolutionized.</link>
         </links>
       </event>
+      <event id="1500" guid="ce8a1087-8b1f-4bf3-92d3-27251f21c775">
+        <logo/>
+        <date>2018-12-30T02:25:00+01:00</date>
+        <start>02:25</start>
+        <duration>1:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1500-session_film_global_home</slug>
+        <title>Film -- Global Home</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>The film explores a thrilling new way of travelling and reveals a longing for more authentic forms of human interaction.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Global_Home</link>
+        </links>
+      </event>
       <event id="1496" guid="e3091fe1-dd53-4ca6-ac78-b99252589b96">
         <logo/>
-        <date>2018-12-29T22:11:00+01:00</date>
-        <start>22:11</start>
+        <date>2018-12-29T23:11:00+01:00</date>
+        <start>23:11</start>
         <duration>0:21</duration>
         <room>ChaosFilmSociety Art-and-Play</room>
         <slug>35c3-1496-session_film_one_million_steps</slug>
@@ -5320,8 +5340,8 @@
       </event>
       <event id="1497" guid="46c373f0-c097-4d3c-ba40-a032e39203ae">
         <logo/>
-        <date>2018-12-29T22:32:00+01:00</date>
-        <start>22:32</start>
+        <date>2018-12-29T23:32:00+01:00</date>
+        <start>23:32</start>
         <duration>2:10</duration>
         <room>ChaosFilmSociety Art-and-Play</room>
         <slug>35c3-1497-session_film_stare_into_the_lights_my_pretties</slug>
@@ -5504,26 +5524,6 @@
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F</link>
-        </links>
-      </event>
-      <event id="1205" guid="ee94e378-5c00-4b31-98ca-f0324f665a86">
-        <logo/>
-        <date>2018-12-30T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>3:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1205-session_workshop_with_le_reset_writing_interactive_speculative_fiction_with_twine</slug>
-        <title>Workshop with Le RESET: Writing interactive speculative fiction with Twine</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>We will write together new utopian, situated, fun, anti-capitalist narratives and will question imaginaries around feminist, ancestral, autonomous, emancipatory, anti-capitalist technologies. We will use Twine, a free software that allows fast creation of interactive narratives</description>
-        <persons/>
-        <links>
-          <link>https://wiki.lereset.org/ateliers:ecriturespeculative</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_with_Le_RESET:_Writing_interactive_speculative_fiction_with_Twine</link>
         </links>
       </event>
     </room>

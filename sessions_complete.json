@@ -7451,7 +7451,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Was tun f\u00fcr mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbeh\u00f6rde, Workshop und Meetup von Datensch\u00fctzern f\u00fcr Datensch\u00fctzer, Hacker und andere Interessierte"
+            "Was tun f\u00fcr mehr Datenschutz? Bericht aus dem Alltag einer Datenschutz-Aufsichtsbeh\u00f6rde, Workshop und Meetup von Datensch\u00fctzern f\u00fcr Datensch\u00fctzer, Hacker und andere Interessierte."
         ], 
         "Has session type": [
             "Meeting"
@@ -9373,6 +9373,53 @@
             }
         ]
     }, 
+    "Session:Film -- Algo-Rhythm# 3fd0adf13d7d09c9cc0c3ab09cbef7fa": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546135920", 
+                "raw": "1/2018/12/30/2/12/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Rap Musical against Automated Propaganda Convenience, not choice."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Algo-Rhythm"
+        ], 
+        "Has duration": [
+            13
+        ], 
+        "GUID": [
+            "bd0a41fc-8424-41c8-90bc-9747d6276f85"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Algo-Rhythm", 
+        "Has end time": [
+            {
+                "timestamp": "1546136700", 
+                "raw": "1/2018/12/30/2/25/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- Algo-Rhythm# bba80be3ad442fbda1327d7512457671": {
         "Held in language": [], 
         "Has start time": [
@@ -9502,7 +9549,7 @@
             }
         ]
     }, 
-    "Session:Film -- C2X: The television will not be revolutionized.# 345b4cb7ff775e543e90693373007631": {
+    "Session:Film -- C2X: The television will not be revolutionized.# 4d74afb09c33374b3458958df29810bf": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -9525,7 +9572,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "In Senegal, when President Abdoulaye Wade wanted to run for office yet again in 2011, a resistance movement formed on the streets. Shortly afterwards, a group of school friends, including rappers Thiat and Kilifeu, set up \u2018Y\u2019en a marre\u2019 (\u2018We Are Fed Up\u2019). Filmmaker Rama Thiaw soon came on board to start documenting events (meetings, campaigns, arrests, concerts, states of exhaustion, trips) from an insider\u2019s perspective. This documentary is the second volume of Rama Thiaw\u2019s trilogy of documentaries, where she highlights the relationship between politics and culture. It started with \u2018Boul Fall\u00e9, the Way of Struggle\u2019 shot in 2009, and the third volume of this trilogy will follow 6 reggae musicians in different countries. \u2018The Revolution Won\u2019t Be Televised\u2019 was presented at the 2016 Berlinale and won the Prize of Critics from \u2018FIPRESCI\u2019 in the Forum category and a mention from Caligari Filmpreis. Rama Thiaw offers a truly aesthetic documentary, where she narrates a part of Senegalese history and explains how her home country is about to change."
+        ], 
         "Is organized by": [], 
         "Has title": [
             "Film -- C2X: The television will not be revolutionized."
@@ -9547,7 +9596,7 @@
             }
         ]
     }, 
-    "Session:Film -- C2X: The television will not be revolutionized.# b17d94b03811245e08e5d12cdb102b44": {
+    "Session:Film -- C2X: The television will not be revolutionized.# 4dac870c9894de7894a5f8fad891d874": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -9570,7 +9619,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "In Senegal, when President Abdoulaye Wade wanted to run for office yet again in 2011, a resistance movement formed on the streets. Shortly afterwards, a group of school friends, including rappers Thiat and Kilifeu, set up \u2018Y\u2019en a marre\u2019 (\u2018We Are Fed Up\u2019). Filmmaker Rama Thiaw soon came on board to start documenting events (meetings, campaigns, arrests, concerts, states of exhaustion, trips) from an insider\u2019s perspective. This documentary is the second volume of Rama Thiaw\u2019s trilogy of documentaries, where she highlights the relationship between politics and culture. It started with \u2018Boul Fall\u00e9, the Way of Struggle\u2019 shot in 2009, and the third volume of this trilogy will follow 6 reggae musicians in different countries. \u2018The Revolution Won\u2019t Be Televised\u2019 was presented at the 2016 Berlinale and won the Prize of Critics from \u2018FIPRESCI\u2019 in the Forum category and a mention from Caligari Filmpreis. Rama Thiaw offers a truly aesthetic documentary, where she narrates a part of Senegalese history and explains how her home country is about to change."
+        ], 
         "Is organized by": [], 
         "Has title": [
             "Film -- C2X: The television will not be revolutionized."
@@ -9683,6 +9734,53 @@
             {
                 "timestamp": "1546033500", 
                 "raw": "1/2018/12/28/21/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- Global Home# e8ae74390c65ff3d4faa3641163896c7": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546136700", 
+                "raw": "1/2018/12/30/2/25/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The film explores a thrilling new way of travelling and reveals a longing for more authentic forms of human interaction."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Global Home"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "ce8a1087-8b1f-4bf3-92d3-27251f21c775"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Global_Home", 
+        "Has end time": [
+            {
+                "timestamp": "1546140300", 
+                "raw": "1/2018/12/30/3/25/0/0"
             }
         ]
     }, 
@@ -9964,53 +10062,6 @@
             }
         ]
     }, 
-    "Session:Film -- One Million Steps# 58eed7490b321d56e8d7e0400a3f18a0": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546121460", 
-                "raw": "1/2018/12/29/22/11/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A tap dancer performs, while elsewhere people run from the tear gas of the police"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Film -- One Million Steps"
-        ], 
-        "Has duration": [
-            21
-        ], 
-        "GUID": [
-            "e3091fe1-dd53-4ca6-ac78-b99252589b96"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_One_Million_Steps", 
-        "Has end time": [
-            {
-                "timestamp": "1546122720", 
-                "raw": "1/2018/12/29/22/32/0/0"
-            }
-        ]
-    }, 
     "Session:Film -- One Million Steps# df19a990efd5f5b29df351c2cee5968a": {
         "Held in language": [], 
         "Has start time": [
@@ -10055,6 +10106,53 @@
             {
                 "timestamp": "1546050720", 
                 "raw": "1/2018/12/29/2/32/0/0"
+            }
+        ]
+    }, 
+    "Session:Film -- One Million Steps# e9f7ebccb6d24dae8228abd0466a2b82": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546125060", 
+                "raw": "1/2018/12/29/23/11/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "A tap dancer performs, while elsewhere people run from the tear gas of the police"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- One Million Steps"
+        ], 
+        "Has duration": [
+            21
+        ], 
+        "GUID": [
+            "e3091fe1-dd53-4ca6-ac78-b99252589b96"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_One_Million_Steps", 
+        "Has end time": [
+            {
+                "timestamp": "1546126320", 
+                "raw": "1/2018/12/29/23/32/0/0"
             }
         ]
     }, 
@@ -10197,12 +10295,12 @@
             }
         ]
     }, 
-    "Session:Film -- Stare into the lights my pretties# fffd12ac3a3ec67f649632b2fa2f3c48": {
+    "Session:Film -- Stare into the lights my pretties# 25ccebf6acee65f9e591d893082580a6": {
         "Held in language": [], 
         "Has start time": [
             {
-                "timestamp": "1546122720", 
-                "raw": "1/2018/12/29/22/32/0/0"
+                "timestamp": "1546126320", 
+                "raw": "1/2018/12/29/23/32/0/0"
             }
         ], 
         "Has event track": [
@@ -10237,8 +10335,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Stare_into_the_lights_my_pretties", 
         "Has end time": [
             {
-                "timestamp": "1546130520", 
-                "raw": "1/2018/12/30/0/42/0/0"
+                "timestamp": "1546134120", 
+                "raw": "1/2018/12/30/1/42/0/0"
             }
         ]
     }, 
@@ -26468,6 +26566,64 @@
             }
         ]
     }, 
+    "Session:Werwolf# 2240eb0c3cc929482759ccbdc005f571": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546052400", 
+                "raw": "1/2018/12/29/3/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Playing Werwolf together"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hetti", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Werwolf"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "5076b837-bc26-49ff-ab99-5b3a091ca058"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
+        "Has end time": [
+            {
+                "timestamp": "1546059600", 
+                "raw": "1/2018/12/29/5/0/0/0"
+            }
+        ]
+    }, 
     "Session:Werwolf# 9e78b4976224154d4aef4675f7cbd716": {
         "Held in language": [
             "de - German", 
@@ -26585,6 +26741,64 @@
             {
                 "timestamp": "1546128000", 
                 "raw": "1/2018/12/30/0/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Werwolf# b5506353b9319b0ee692a5948ff9cabf": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546128000", 
+                "raw": "1/2018/12/30/0/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Playing Werwolf together"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Hetti", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Werwolf"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "5076b837-bc26-49ff-ab99-5b3a091ca058"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
+        "Has end time": [
+            {
+                "timestamp": "1546135200", 
+                "raw": "1/2018/12/30/2/0/0/0"
             }
         ]
     }, 
@@ -27332,216 +27546,6 @@
             {
                 "timestamp": "1546178100", 
                 "raw": "1/2018/12/30/13/55/0/0"
-            }
-        ]
-    }, 
-    "Session:Wondrous Mathematics: The curious world of four-dimensional geometry# 7b74c0c301ba3710b83e1bd8c2b7201b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546045200", 
-                "raw": "1/2018/12/29/1/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "(NOT in M3, but in 14/15) You couldn't tie your shoelaces if we lived in four dimensions! And spheres would be much smaller and spikier. We'll take you on a visual tour of these and other curious phenomena unfolding in four dimensions."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "talk in room 14/15 (NOT in M3 as previously announced)"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: The curious world of four-dimensional geometry"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "afaf3909-6630-40af-b377-174b0d319796"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_The_curious_world_of_four-dimensional_geometry", 
-        "Has end time": [
-            {
-                "timestamp": "1546048800", 
-                "raw": "1/2018/12/29/2/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Work Hard, Work Hard# 7789ac2234758e93679f6087002030a6": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1545944700", 
-                "raw": "1/2018/12/27/21/5/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:ChaosFilmSociety Art-and-Play", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:ChaosFilmSociety_Art-and-Play", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Work Hard, Work Hard"
-        ], 
-        "Has duration": [
-            10
-        ], 
-        "GUID": [
-            "420ab9ee-14ec-4afd-bfe4-60aad76e5858"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Work_Hard,_Work_Hard", 
-        "Has end time": [
-            {
-                "timestamp": "1545945300", 
-                "raw": "1/2018/12/27/21/15/0/0"
-            }
-        ]
-    }, 
-    "Session:Workshop on prison and justice system (de)# ad76d3d0ae648bf9edd9cccc8ad74d7e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://abcdd.org"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Workshop on prison and justice system (de)"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "177023a2-4598-4b02-98a2-e511430e796e"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_on_prison_and_justice_system_(de)", 
-        "Has end time": [
-            {
-                "timestamp": "1546095600", 
-                "raw": "1/2018/12/29/15/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Workshop with Le RESET: Writing interactive speculative fiction with Twine# 936ba5657ed50d821852ab272c908f70": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546167600", 
-                "raw": "1/2018/12/30/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://wiki.lereset.org/ateliers:ecriturespeculative"
-        ], 
-        "Has description": [
-            "We will write together new utopian, situated, fun, anti-capitalist narratives and will question imaginaries around feminist, ancestral, autonomous, emancipatory, anti-capitalist technologies. We will use Twine, a free software that allows fast creation of interactive narratives"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Workshop with Le RESET: Writing interactive speculative fiction with Twine"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "ee94e378-5c00-4b31-98ca-f0324f665a86"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Workshop_with_Le_RESET:_Writing_interactive_speculative_fiction_with_Twine", 
-        "Has end time": [
-            {
-                "timestamp": "1546178400", 
-                "raw": "1/2018/12/30/14/0/0/0"
             }
         ]
     }
