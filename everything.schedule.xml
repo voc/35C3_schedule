@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:10</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 19:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15558,26 +15558,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Shadowrun</link>
         </links>
       </event>
-      <event id="1271" guid="263dbc6c-2a66-4279-a5b1-79c2f96d6418">
-        <logo/>
-        <date>2018-12-28T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>0:45</duration>
-        <room>Assembly:Social Fiction Society</room>
-        <slug>35c3-1271-session_wargaming_netzpolitik</slug>
-        <title>Wargaming Netzpolitik</title>
-        <subtitle>Day 2 Session</subtitle>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>de</language>
-        <abstract/>
-        <description>An introductory session to policy analysis or prediction via serious games - example game about national IT security strategies</description>
-        <persons/>
-        <links>
-          <link>https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik</link>
-        </links>
-      </event>
     </room>
   </day>
   <day index="3" date="2018-12-29" start="2018-12-29T11:00:00+01:00" end="2018-12-30T03:00:00+01:00">
@@ -23510,25 +23490,6 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Towards_a_Fair_Data_Society</link>
         </links>
       </event>
-      <event id="1474" guid="180dd218-7b9c-4277-acb7-b89daa45b14a">
-        <logo/>
-        <date>2018-12-29T16:45:00+01:00</date>
-        <start>16:45</start>
-        <duration>0:30</duration>
-        <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1474-session_user_testing_the_post_tor_katzenpost_mix_network</slug>
-        <title>User-testing the post-Tor Katzenpost mix-network</title>
-        <subtitle>Can you get it working on your laptop or phone?</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can you get it working on your laptop or phone?</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network</link>
-        </links>
-      </event>
     </room>
     <room name="Assembly:Hardware Hacking Area">
       <event id="1156" guid="bc7db31d-00e1-4c39-a982-9fb40d344728">
@@ -24759,6 +24720,29 @@ Freifunk since 2003</biography>
         <links>
           <link>http://hackerfleet.de/35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackerfleet%27s_Maritime_Hacker_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Komona Zelt">
+      <event id="1528" guid="0f667ce0-fbae-43e0-a818-24b15d08ca5e">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Komona Zelt</room>
+        <slug>35c3-1528-session_hackers_against_climate_change</slug>
+        <title>Hackers Against Climate Change</title>
+        <subtitle>Meetup, Discussion #3</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Meetup/Discussion for Hackers concerned with Climate Change</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Seth">Seth</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hackers_Against_Climate_Change</link>
         </links>
       </event>
     </room>
@@ -27989,6 +27973,27 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </links>
       </event>
     </room>
+    <room name="Open Infrastructure Orbit - Domo (not yet accepted)">
+      <event id="1527" guid="c1f3d7a6-241b-4ac7-953e-380dbd09a3ce">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Open Infrastructure Orbit - Domo (not yet accepted)</room>
+        <slug>35c3-1527-session_electric_cars_use_it_hack_it_talk_about_it</slug>
+        <title>Electric cars, use it, hack it, talk about it</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>Let talk about electric cars - computers on wheels.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it</link>
+        </links>
+      </event>
+    </room>
     <room name="Dome Art-and-Play">
       <event id="1486" guid="e82ce293-0528-4d33-a805-f843e12e1256">
         <logo/>
@@ -28177,6 +28182,25 @@ Wir freuen uns auf Dich und Dein Input!</description>
         <links>
           <link>https://pslab.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1474" guid="180dd218-7b9c-4277-acb7-b89daa45b14a">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>0:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1474-session_user_testing_the_post_tor_katzenpost_mix_network</slug>
+        <title>User-testing the post-Tor Katzenpost mix-network</title>
+        <subtitle>Can you get it working on your laptop or phone?</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>Can you get it working on your laptop or phone?</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network</link>
         </links>
       </event>
     </room>
