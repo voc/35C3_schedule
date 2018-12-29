@@ -8655,15 +8655,15 @@
             }
         ]
     }, 
-    "Session:Electric cars, use it, hack it, talk about it# dba4d773a004e15037ae2ff8d3aab13f": {
+    "Session:Electric cars, use it, hack it, talk about it# 905585623c810c239f202202762c2d3c": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546174800", 
-                "raw": "1/2018/12/30/13/0/0/0"
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
             }
         ], 
         "Has event track": [
@@ -8689,7 +8689,7 @@
             "Electric cars, use it, hack it, talk about it"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
             "c1f3d7a6-241b-4ac7-953e-380dbd09a3ce"
@@ -8700,8 +8700,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Electric_cars,_use_it,_hack_it,_talk_about_it", 
         "Has end time": [
             {
-                "timestamp": "1546178400", 
-                "raw": "1/2018/12/30/14/0/0/0"
+                "timestamp": "1546181100", 
+                "raw": "1/2018/12/30/14/45/0/0"
             }
         ]
     }, 
@@ -24772,7 +24772,7 @@
             }
         ]
     }, 
-    "Session:Systemfeels: how can we systemically improve mental health in our communities?# 0a54ee66765212569fc96a74b8f35c7a": {
+    "Session:Systemfeels: hacking mental health# c2582c195d8e5cfb2383876fedd4f53d": {
         "Held in language": [
             "en - English"
         ], 
@@ -24799,7 +24799,7 @@
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
-            "Systemfeels: how can we systemically improve mental health in our communities?"
+            "Systemfeels: hacking mental health"
         ], 
         "Has duration": [
             60
@@ -24810,7 +24810,7 @@
         "Has color": [
             "#0099ab"
         ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Systemfeels:_how_can_we_systemically_improve_mental_health_in_our_communities%3F", 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Systemfeels:_hacking_mental_health", 
         "Has end time": []
     }, 
     "Session:TNC assembly workshop# 9c6097e36d329cbff96a4b348abef71a": {
