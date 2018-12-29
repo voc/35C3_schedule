@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 14:20</version>
+  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 14:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2124,26 +2124,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Rust_2025</link>
-        </links>
-      </event>
-      <event id="1133" guid="fd8cdcd7-506d-4441-b59f-7c83263bb873">
-        <logo/>
-        <date>2018-12-27T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1133-session_wiehelfengegencyberstalking</slug>
-        <title>WieHelfenGegenCyberStalking</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Wie helfen wir Menschen, die von Cyberstalking betroffen sind? Technische Kompetenz gerne gesehen.</description>
-        <persons/>
-        <links>
-          <link>http://haecksen.org</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WieHelfenGegenCyberStalking</link>
         </links>
       </event>
     </room>
@@ -17747,28 +17727,6 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:New_police_law_in_Saxony_-_police_state_attacks%3F</link>
         </links>
       </event>
-      <event id="1488" guid="94bb5227-5e61-4b5a-bf52-a2746b109c06">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M3</room>
-        <slug>35c3-1488-session_owasp_meetup</slug>
-        <title>OWASP meetup</title>
-        <subtitle>0xJOIN 0XUS00 (M3 already reserved for AcroYoga)</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Spyros">Spyros</person>
-        </persons>
-        <links>
-          <link>http://owasp.org/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:OWASP_meetup</link>
-        </links>
-      </event>
       <event id="1096" guid="789aa0e1-a305-4484-86fa-fcdb42cee442">
         <logo/>
         <date>2018-12-29T16:00:00+01:00</date>
@@ -22602,6 +22560,29 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Haecksen">
+      <event id="1509" guid="541e0fb4-bc7c-4bf7-8f5e-971a7f4fbabf">
+        <logo/>
+        <date>2018-12-29T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Haecksen</room>
+        <slug>35c3-1509-session_computerforensikfueranfaengerinnen</slug>
+        <title>ComputerForensikfuerAnfaengerinnen</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einführung in Computerforensik</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Anna">Anna</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:DFSG: Debian Friends Social Group">
       <event id="1453" guid="cf087d3e-111c-4612-94ee-f4fae5508651">
         <logo/>
@@ -23169,49 +23150,6 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
-    <room name="Komona Kuppel 3">
-      <event id="1391" guid="b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>2:00</duration>
-        <room>Komona Kuppel 3</room>
-        <slug>35c3-1391-session_inter_dependence_the_game</slug>
-        <title>Inter/dependence: the game</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>game</type>
-        <language>en</language>
-        <abstract/>
-        <description>Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists’ shared interests in mutualism, agency, and artists’ roles. Let’s play</description>
-        <persons/>
-        <links>
-          <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
-        </links>
-      </event>
-      <event id="1406" guid="2ed3e99b-99d6-4379-991b-0aab2de638fe">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:30</duration>
-        <room>Komona Kuppel 3</room>
-        <slug>35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt</slug>
-        <title>Update für die Fahrradwege deiner Stadt</title>
-        <subtitle>Wie organisiert man einen Radentscheid?</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</description>
-        <persons/>
-        <links>
-          <link>https://radentscheid-darmstadt.de</link>
-          <link>http://radentscheid-stuttgart.de</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</link>
-        </links>
-      </event>
-    </room>
     <room name="Assembly:Pseudoroom">
       <event id="1071" guid="9ab7c054-9368-4526-9a06-aea40068831f">
         <logo/>
@@ -23416,6 +23354,29 @@ Freifunk since 2003</biography>
         <links>
           <link>https://it-kollektiv.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tech-Coops_Meetup</link>
+        </links>
+      </event>
+    </room>
+    <room name="Komona Kuppel 3">
+      <event id="1406" guid="2ed3e99b-99d6-4379-991b-0aab2de638fe">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:30</duration>
+        <room>Komona Kuppel 3</room>
+        <slug>35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt</slug>
+        <title>Update für die Fahrradwege deiner Stadt</title>
+        <subtitle>Wie organisiert man einen Radentscheid?</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</description>
+        <persons/>
+        <links>
+          <link>https://radentscheid-darmstadt.de</link>
+          <link>http://radentscheid-stuttgart.de</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</link>
         </links>
       </event>
     </room>
@@ -24022,7 +23983,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <type>talk</type>
         <language>de</language>
         <abstract/>
-        <description>Why do you write code? How does it influence you that you write code? How does it influence others that you write code?</description>
+        <description>Why do you write code? How does it influence you that you write code? How does it influence others that you write code?&lt;br/&gt;An artistic research project on the motivation, self-perception and sense of responsibility of people who write code.&lt;br/&gt;Come to reflect and discuss!</description>
         <persons/>
         <links>
           <link>http://code.neopostmodern.com</link>
@@ -25888,6 +25849,28 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <links>
           <link>http://dome-one.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin</link>
+        </links>
+      </event>
+    </room>
+    <room name="Komona Kuppel 3">
+      <event id="1391" guid="b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Komona Kuppel 3</room>
+        <slug>35c3-1391-session_inter_dependence_the_game</slug>
+        <title>Inter/dependence: the game</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists’ shared interests in mutualism, agency, and artists’ roles. Let’s play</description>
+        <persons/>
+        <links>
+          <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
         </links>
       </event>
     </room>

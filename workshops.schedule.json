@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 14:20", 
+        "version": "2018-12-29 14:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -682,28 +682,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Rust_2025"
-                                ]
-                            }, 
-                            {
-                                "id": 1133, 
-                                "guid": "fd8cdcd7-506d-4441-b59f-7c83263bb873", 
-                                "logo": null, 
-                                "date": "2018-12-27T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1133-session_wiehelfengegencyberstalking", 
-                                "title": "WieHelfenGegenCyberStalking", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Wie helfen wir Menschen, die von Cyberstalking betroffen sind? Technische Kompetenz gerne gesehen.", 
-                                "persons": [], 
-                                "links": [
-                                    "http://haecksen.org", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:WieHelfenGegenCyberStalking"
                                 ]
                             }
                         ], 
@@ -5421,34 +5399,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1488, 
-                                "guid": "94bb5227-5e61-4b5a-bf52-a2746b109c06", 
-                                "logo": null, 
-                                "date": "2018-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1488-session_owasp_meetup", 
-                                "title": "OWASP meetup", 
-                                "subtitle": "0xJOIN 0XUS00 (M3 already reserved for AcroYoga)", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Spyros", 
-                                        "public_name": "Spyros"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://owasp.org/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:OWASP_meetup"
-                                ]
-                            }, 
-                            {
                                 "id": 1096, 
                                 "guid": "789aa0e1-a305-4484-86fa-fcdb42cee442", 
                                 "logo": null, 
@@ -5732,28 +5682,6 @@
                             }
                         ], 
                         "Komona Kuppel 3": [
-                            {
-                                "id": 1391, 
-                                "guid": "b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "2:00", 
-                                "room": "Komona Kuppel 3", 
-                                "slug": "35c3-1391-session_inter_dependence_the_game", 
-                                "title": "Inter/dependence: the game", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists\u2019 shared interests in mutualism, agency, and artists\u2019 roles. Let\u2019s play", 
-                                "persons": [], 
-                                "links": [
-                                    "http://playtime.pem.org/interde-pen-dence-a-game-round-1/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game"
-                                ]
-                            }, 
                             {
                                 "id": 1406, 
                                 "guid": "2ed3e99b-99d6-4379-991b-0aab2de638fe", 
@@ -6288,7 +6216,7 @@
                                 "type": "talk", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?", 
+                                "description": "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?<br/>An artistic research project on the motivation, self-perception and sense of responsibility of people who write code.<br/>Come to reflect and discuss!", 
                                 "persons": [], 
                                 "links": [
                                     "http://code.neopostmodern.com", 
@@ -6616,6 +6544,30 @@
                                 "links": [
                                     "https://nextcloud.com/yourdata/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Nextcloud_Install_Party"
+                                ]
+                            }
+                        ], 
+                        "Komona Kuppel 3": [
+                            {
+                                "id": 1391, 
+                                "guid": "b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "2:00", 
+                                "room": "Komona Kuppel 3", 
+                                "slug": "35c3-1391-session_inter_dependence_the_game", 
+                                "title": "Inter/dependence: the game", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists\u2019 shared interests in mutualism, agency, and artists\u2019 roles. Let\u2019s play", 
+                                "persons": [], 
+                                "links": [
+                                    "http://playtime.pem.org/interde-pen-dence-a-game-round-1/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game"
                                 ]
                             }
                         ], 

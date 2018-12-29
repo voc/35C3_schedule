@@ -6139,6 +6139,65 @@
             }
         ]
     }, 
+    "Session:ComputerForensikfuerAnfaengerinnen# b9e09ba59dfa227140510338b48901f9": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546097400", 
+                "raw": "1/2018/12/29/15/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Einf\u00fchrung in Computerforensik"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Haecksen", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Haecksen", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Anna", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Anna", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "ComputerForensikfuerAnfaengerinnen"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "541e0fb4-bc7c-4bf7-8f5e-971a7f4fbabf"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:ComputerForensikfuerAnfaengerinnen", 
+        "Has end time": [
+            {
+                "timestamp": "1546101000", 
+                "raw": "1/2018/12/29/16/30/0/0"
+            }
+        ]
+    }, 
     "Session:ComputerForensikfuerAnfaengerinnen# fc7dc04adc59ed56c72abd2b53d2055a": {
         "Held in language": [
             "de - German"
@@ -7566,7 +7625,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:0range", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:0range", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Debug your back"
         ], 
@@ -13341,14 +13408,14 @@
             }
         ]
     }, 
-    "Session:Inter/dependence: the game# 939a81316648363137f1605fa944ef2b": {
+    "Session:Inter/dependence: the game# 10b3da93f3019523e010d6298a76e701": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
+                "timestamp": "1546171200", 
+                "raw": "1/2018/12/30/12/0/0/0"
             }
         ], 
         "Has event track": [
@@ -13389,8 +13456,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game", 
         "Has end time": [
             {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
             }
         ]
     }, 
@@ -17617,16 +17684,11 @@
             }
         ]
     }, 
-    "Session:OWASP meetup# 41d3d196d69de84c9b7cfec62083bcbb": {
+    "Session:OWASP meetup# cf7c8208b4e8c0fdb1d24a88e302a8be": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [
-            {
-                "timestamp": "1546088400", 
-                "raw": "1/2018/12/29/13/0/0/0"
-            }
-        ], 
+        "Has start time": [], 
         "Has event track": [
             "Session"
         ], 
@@ -17647,7 +17709,7 @@
             }
         ], 
         "Has subtitle": [
-            "0xJOIN 0XUS00 (M3 already reserved for AcroYoga)"
+            "0xJOIN 0XUS00"
         ], 
         "Is organized by": [
             {
@@ -17671,12 +17733,7 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:OWASP_meetup", 
-        "Has end time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ]
+        "Has end time": []
     }, 
     "Session:Obai Brause: Mix your own caffeinated sherbet powder# 14488f118fcd83adf414f3f773441f4f": {
         "Held in language": [
@@ -18526,7 +18583,7 @@
             "http://code.neopostmodern.com"
         ], 
         "Has description": [
-            "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?"
+            "Why do you write code? How does it influence you that you write code? How does it influence others that you write code?<br/>An artistic research project on the motivation, self-perception and sense of responsibility of people who write code.<br/>Come to reflect and discuss!"
         ], 
         "Has session type": [
             "Talk"
@@ -27418,57 +27475,6 @@
             {
                 "timestamp": "1545928200", 
                 "raw": "1/2018/12/27/16/30/0/0"
-            }
-        ]
-    }, 
-    "Session:WieHelfenGegenCyberStalking# f9f836242892c3708ee53815028bd90e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545937200", 
-                "raw": "1/2018/12/27/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://haecksen.org"
-        ], 
-        "Has description": [
-            "Wie helfen wir Menschen, die von Cyberstalking betroffen sind? Technische Kompetenz gerne gesehen."
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "WieHelfenGegenCyberStalking"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "fd8cdcd7-506d-4441-b59f-7c83263bb873"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WieHelfenGegenCyberStalking", 
-        "Has end time": [
-            {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
             }
         ]
     }
