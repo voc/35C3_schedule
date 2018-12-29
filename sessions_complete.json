@@ -448,7 +448,7 @@
             }
         ]
     }, 
-    "Session:10 Journeys of an Asian Open Source Community# 6f92d3716c5bff6587a85dc653f3e20b": {
+    "Session:10 Journeys of an Asian Open Source Community# 0e5070616704358b0c7df5a3968c0256": {
         "Held in language": [
             "en - English"
         ], 
@@ -470,15 +470,7 @@
         "Has session type": [
             "Talk"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
@@ -7486,10 +7478,10 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Just a gatheriing of Data Science Enthusiasts and a discussion about security in data science"
+            "Just a gathering of Data Science Enthusiasts and a discussion about security in data science"
         ], 
         "Has session type": [
-            "Meeting"
+            "Discussion"
         ], 
         "Has session location": [], 
         "Has subtitle": [], 
@@ -12985,7 +12977,7 @@
             }
         ]
     }, 
-    "Session:Herb Vaporizer Meetup# df96a06c6850d0d983622436ca416ce6": {
+    "Session:Herb Vaporizer Meetup# 622600edd16630a390af2ef9b4698e9e": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -13013,7 +13005,7 @@
             "Herb Vaporizer Meetup"
         ], 
         "Has duration": [
-            20
+            35
         ], 
         "GUID": [
             "dbff7859-dd75-4555-8452-370ced7b4a82"
@@ -13024,8 +13016,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup", 
         "Has end time": [
             {
-                "timestamp": "1546107600", 
-                "raw": "1/2018/12/29/18/20/0/0"
+                "timestamp": "1546108500", 
+                "raw": "1/2018/12/29/18/35/0/0"
             }
         ]
     }, 
@@ -14629,15 +14621,15 @@
             }
         ]
     }, 
-    "Session:Juggling and poi meetup# 052b1f5794e3c20a83290d282aa85981": {
+    "Session:Juggling and poi meetup# e10b57363a999b4e759d5c2d29fb53f8": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
             }
         ], 
         "Has event track": [
@@ -14668,8 +14660,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Juggling_and_poi_meetup", 
         "Has end time": [
             {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
             }
         ]
     }, 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1</version>
+  <version>Mac Gyver 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6000,7 +6000,9 @@ Members of GTC range from (former) whistle blowers, activist MPs, Oxford profess
         <links>
           <link href="https://goodtechnologycollective.com">Good Technology Collective Website</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/685/original/35C3-Dec_2018.pdf?1546070464">Presentation Slides</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Dijkstra">
@@ -6431,7 +6433,10 @@ After a quick overview of our current understanding of the development of the Un
           <person id="3714">Tanja Lange</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/695/original/slides.pdf?1546088180">Slides for presentation</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Eliza">
@@ -6631,8 +6636,12 @@ Dieser Foundation-Talk vermittelt passioniert das Rüstzeug und die nötigen Gru
         <persons>
           <person id="1642">Rainer Rehak</person>
         </persons>
-        <links/>
-        <attachments/>
+        <links>
+          <link href="https://media.ccc.de/v/35c3-9733-was_schutzt_eigentlich_der_datenschutz">Vortragsvideo</link>
+        </links>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/702/original/35C3-Datenschutz_v1.0.pdf?1546096877">Vortragsfolien</attachment>
+        </attachments>
       </event>
       <event id="9590" guid="c94fde2e-b5db-48f2-b94f-872ce7405875">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html</url>
@@ -10405,7 +10414,10 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <person id="8515">Aiko </person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/693/original/Empirie3.pdf?1546087794">Slides_DieDreckigeEmpirie</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9407" guid="d0d6d058-f117-4ccb-ba6a-c41d9290a287">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9407.html</url>
@@ -10555,8 +10567,12 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
         </persons>
         <links>
           <link href="https://usher2.club/en/">Usher II: having fun with Roskomnadzor's Register of Prohibited sites</link>
+          <link href="https://darkk.net.ru/35c3/">Slides mirror</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203">PDF slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203">OpenDocument slides with speaker notes</attachment>
+        </attachments>
       </event>
       <event id="9783" guid="94447a62-a3ba-4f6d-a3b7-b5318a954651">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9783.html</url>
@@ -10671,7 +10687,20 @@ Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the 
         <persons>
           <person id="8192">Robert Clausen</person>
         </persons>
-        <links/>
+        <links>
+          <link href="verificationhandbook.com">verificationhandbook.com</link>
+          <link href="osintframework.com">osintframework.com</link>
+          <link href="suncalc.org">suncalc.org</link>
+          <link href="invid-project.eu">invid-project.eu</link>
+          <link href="wikimapia.org">wikimapia.org</link>
+          <link href="graph.tips">graph.tips</link>
+          <link href="citizenevidence.amnestyusa.org">citizenevidence.amnestyusa.org</link>
+          <link href="camopedia.org">camopedia.org</link>
+          <link href="logos.iti.gr">logos.iti.gr</link>
+          <link href="worldlicenseplates.com">worldlicenseplates.com</link>
+          <link href="docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit">Bellingcat Toolkit (Google Doc)</link>
+          <link href="geolocatethis.site ">geolocatethis.site (aktuell offline)</link>
+        </links>
         <attachments/>
       </event>
       <event id="9486" guid="1f290832-c93f-453b-9966-83ecbda4c1c3">
@@ -10688,8 +10717,11 @@ Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the 
         <type>lecture</type>
         <language>en</language>
         <abstract>We let the technically ungifted build robots and to fight each other for the laughs. &#13;
-</abstract>
-        <description>Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonour high tech and celebrate everything made out of stuff we usually throw away (and blinks).</description>
+&#13;
+Please contact @honky in RocketChat or visit the ChaosZone Hall 2 if you want to participate. We need at least 8 Robots to participate, if we have more, we'll bring this to the battlefield.</abstract>
+        <description>Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonor high tech and celebrate everything made out of stuff we usually throw away (and blinks).&#13;
+&#13;
+Please contact @honky in RocketChat or visit the ChaosZone Hall 2 if you want to participate. We need at least 8 Robots to participate, if we have more, we'll bring this to the battlefield.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10700,7 +10732,9 @@ Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the 
         <links>
           <link href="https://media.ccc.de/v/DS2018-9308-hebocon_finale">Datenspuren 2018</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/690/original/hebocon.png?1546085092">hebocon.png</attachment>
+        </attachments>
       </event>
       <event id="9911" guid="e4dbae08-779a-4972-a099-7c85df141fa4">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html</url>
@@ -10793,7 +10827,10 @@ This lecture will explore the notion of using more societal reflection in techno
           <person id="8687">Ricardo Ruiz</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/691/original/Critical_Making_Movement_CCC.pdf?1546086750">Critical Making movement, first part of talk, by Regina</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/692/original/35c3.pdf?1546086848">Engineering Good</attachment>
+        </attachments>
       </event>
       <event id="9364" guid="7228f88d-8d6f-40a9-a5dd-b5c91b823ada">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9364.html</url>
@@ -11154,7 +11191,9 @@ It's used by educators, makers and professional hard- and software developers ar
           <link href="micropython.org">MicroPython Website</link>
           <link href="github.com/micropython">MicroPython on Git</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/686/original/MP_CCC_talk.pdf?1546076871">Slides for MicroPython talk</attachment>
+        </attachments>
       </event>
       <event id="9346" guid="7ee42591-4f4d-481d-884b-44f5e18e1803">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9346.html</url>
@@ -11312,7 +11351,9 @@ Bring your computer with Gnumeric, Python and OMEditor installed to follow the e
         <links>
           <link href="http://remo2hbo.f4.htw-berlin.de/">remo2hbo-Projekt</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/697/original/35C3_remo2hbo.pdf?1546092198">35C3_remo2hbo.pdf</attachment>
+        </attachments>
       </event>
       <event id="9972" guid="400622c5-3754-43fd-aaf3-0ca00e9ad551">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9972.html</url>
@@ -11413,7 +11454,9 @@ Wir werden unsere gegenwärtigen Ansätze vorstellen, untersuchen und daran die 
           <person id="8350">Lukas</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/689/original/slides.pdf?1546084427">Final slides</attachment>
+        </attachments>
       </event>
       <event id="9670" guid="64d3f3f5-5665-4050-ba15-0db530ecc262">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9670.html</url>
@@ -11536,7 +11579,10 @@ Protection of digital data has become a necessity, certainly in the light of new
           <person id="8193">Ben Parsons from Matrix</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/700/original/2018-12-29_Matrix_35c3.pdf?1546093857">Matrix Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9804" guid="9f27a4c2-f957-4bad-81a8-988a37429d5c">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9804.html</url>
@@ -11684,7 +11730,9 @@ This will be followed by an introduction into different experimental and computa
         <links>
           <link href="https://lorenzadlung.wordpress.com/socialmedia/scienceslams/">Link to my blog regarding science slams:</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/703/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546097525">35C3_HackingTheHumanMicrobiome_LorenzAdlung_Talk_Slides</attachment>
+        </attachments>
       </event>
       <event id="9616" guid="84be4017-78a0-444b-8b6f-5a14089bb0f7">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9616.html</url>
@@ -16580,7 +16628,9 @@ Previously auf media.ccc.de &#13;
 Parametrische Orgelpfeifen-Files (FreeCAD und OpenSCAD):&#13;
 * https://github.com/benjaminwand/3d-printed-labial-pipe &#13;
 * https://github.com/benjaminwand/3d-printed-reversed-free-reed-pipe&#13;
-* https://github.com/benjaminwand/3d-printed-organ-parts</description>
+* https://github.com/benjaminwand/3d-printed-organ-parts&#13;
+&#13;
+Fachwörter-pdf: https://www.walcker.com/downloads/dictionnaire-des-orgues.pdf</description>
         <recording>
           <license/>
           <optout>false</optout>

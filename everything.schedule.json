@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 17:00", 
+        "version": "Mac Gyver 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 17:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -8475,7 +8475,12 @@
                                         "title": "Good Technology Collective Website"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/685/original/35C3-Dec_2018.pdf?1546070464", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }
                         ], 
                         "Dijkstra": [
@@ -8810,7 +8815,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/695/original/slides.pdf?1546088180", 
+                                        "title": "Slides for presentation"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }
                         ], 
                         "Eliza": [
@@ -9022,8 +9036,18 @@
                                         "public_name": "Rainer Rehak"
                                     }
                                 ], 
-                                "links": [], 
-                                "attachments": []
+                                "links": [
+                                    {
+                                        "url": "https://media.ccc.de/v/35c3-9733-was_schutzt_eigentlich_der_datenschutz", 
+                                        "title": "Vortragsvideo"
+                                    }
+                                ], 
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/702/original/35C3-Datenschutz_v1.0.pdf?1546096877", 
+                                        "title": "Vortragsfolien"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9590.html", 
@@ -14426,27 +14450,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1419, 
-                                "guid": "6a04ac4f-b166-40de-b4bb-e0e0b0be2da9", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1419-session_juggling_and_poi_meetup", 
-                                "title": "Juggling and poi meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "lets meetup for joggling, poi and other artistic things. Ever wanted to learn how to juggle? now is the chance.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Juggling_and_poi_meetup"
-                                ]
-                            }, 
-                            {
                                 "id": 1201, 
                                 "guid": "f45b9f26-45ad-4c8b-8350-1abfc1420514", 
                                 "logo": null, 
@@ -16516,7 +16519,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/693/original/Empirie3.pdf?1546087794", 
+                                        "title": "Slides_DieDreckigeEmpirie"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9407.html", 
@@ -16679,9 +16691,22 @@
                                     {
                                         "url": "https://usher2.club/en/", 
                                         "title": "Usher II: having fun with Roskomnadzor's Register of Prohibited sites"
+                                    }, 
+                                    {
+                                        "url": "https://darkk.net.ru/35c3/", 
+                                        "title": "Slides mirror"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203", 
+                                        "title": "PDF slides"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203", 
+                                        "title": "OpenDocument slides with speaker notes"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9783.html", 
@@ -16805,7 +16830,56 @@
                                         "public_name": "Robert Clausen"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "verificationhandbook.com", 
+                                        "title": "verificationhandbook.com"
+                                    }, 
+                                    {
+                                        "url": "osintframework.com", 
+                                        "title": "osintframework.com"
+                                    }, 
+                                    {
+                                        "url": "suncalc.org", 
+                                        "title": "suncalc.org"
+                                    }, 
+                                    {
+                                        "url": "invid-project.eu", 
+                                        "title": "invid-project.eu"
+                                    }, 
+                                    {
+                                        "url": "wikimapia.org", 
+                                        "title": "wikimapia.org"
+                                    }, 
+                                    {
+                                        "url": "graph.tips", 
+                                        "title": "graph.tips"
+                                    }, 
+                                    {
+                                        "url": "citizenevidence.amnestyusa.org", 
+                                        "title": "citizenevidence.amnestyusa.org"
+                                    }, 
+                                    {
+                                        "url": "camopedia.org", 
+                                        "title": "camopedia.org"
+                                    }, 
+                                    {
+                                        "url": "logos.iti.gr", 
+                                        "title": "logos.iti.gr"
+                                    }, 
+                                    {
+                                        "url": "worldlicenseplates.com", 
+                                        "title": "worldlicenseplates.com"
+                                    }, 
+                                    {
+                                        "url": "docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit", 
+                                        "title": "Bellingcat Toolkit (Google Doc)"
+                                    }, 
+                                    {
+                                        "url": "geolocatethis.site ", 
+                                        "title": "geolocatethis.site (aktuell offline)"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -16823,8 +16897,8 @@
                                 "track": "Entertainment", 
                                 "type": "lecture", 
                                 "language": "en", 
-                                "abstract": "We let the technically ungifted build robots and to fight each other for the laughs. \r\n", 
-                                "description": "Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonour high tech and celebrate everything made out of stuff we usually throw away (and blinks).", 
+                                "abstract": "We let the technically ungifted build robots and to fight each other for the laughs. \r\n\r\nPlease contact @honky in RocketChat or visit the ChaosZone Hall 2 if you want to participate. We need at least 8 Robots to participate, if we have more, we'll bring this to the battlefield.", 
+                                "description": "Let's build funny robots and let them fight each other as long as we are superior to them :) Please let's dishonor high tech and celebrate everything made out of stuff we usually throw away (and blinks).\r\n\r\nPlease contact @honky in RocketChat or visit the ChaosZone Hall 2 if you want to participate. We need at least 8 Robots to participate, if we have more, we'll bring this to the battlefield.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -16839,7 +16913,12 @@
                                         "title": "Datenspuren 2018"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/690/original/hebocon.png?1546085092", 
+                                        "title": "hebocon.png"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9911.html", 
@@ -16946,7 +17025,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/691/original/Critical_Making_Movement_CCC.pdf?1546086750", 
+                                        "title": "Critical Making movement, first part of talk, by Regina"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/692/original/35c3.pdf?1546086848", 
+                                        "title": "Engineering Good"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9364.html", 
@@ -17321,7 +17409,12 @@
                                         "title": "MicroPython on Git"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/686/original/MP_CCC_talk.pdf?1546076871", 
+                                        "title": "Slides for MicroPython talk"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9346.html", 
@@ -17522,7 +17615,12 @@
                                         "title": "remo2hbo-Projekt"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/697/original/35C3_remo2hbo.pdf?1546092198", 
+                                        "title": "35C3_remo2hbo.pdf"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9972.html", 
@@ -17634,7 +17732,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/689/original/slides.pdf?1546084427", 
+                                        "title": "Final slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9670.html", 
@@ -17753,7 +17856,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/700/original/2018-12-29_Matrix_35c3.pdf?1546093857", 
+                                        "title": "Matrix Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9804.html", 
@@ -17928,7 +18040,12 @@
                                         "title": "Link to my blog regarding science slams:"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/703/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546097525", 
+                                        "title": "35C3_HackingTheHumanMicrobiome_LorenzAdlung_Talk_Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9616.html", 
@@ -24213,6 +24330,28 @@
                                 ]
                             }, 
                             {
+                                "id": 1461, 
+                                "guid": "1ae5454e-55dc-4551-b47c-3aab394ccb82", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "0:15", 
+                                "room": "", 
+                                "slug": "35c3-1461-session_10_journeys_of_an_asian_open_source_community", 
+                                "title": "10 Journeys of an Asian Open Source Community", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "This talk is about the story of FOSSASIA - one of the biggest open source community from Asia. How did we begin, what have we achieved in the last 10 years. Our lessons learned, our challenges and our next 10 year vision.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://fossasia.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:10_Journeys_of_an_Asian_Open_Source_Community"
+                                ]
+                            }, 
+                            {
                                 "id": 1507, 
                                 "guid": "5e5a0f00-f685-49be-a637-5869c64f0580", 
                                 "logo": null, 
@@ -24246,10 +24385,10 @@
                                 "title": "Data Science Nerds", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
-                                "type": "meeting", 
+                                "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Just a gatheriing of Data Science Enthusiasts and a discussion about security in data science", 
+                                "description": "Just a gathering of Data Science Enthusiasts and a discussion about security in data science", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds"
@@ -24282,7 +24421,7 @@
                                 "logo": null, 
                                 "date": "2018-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
-                                "duration": "0:20", 
+                                "duration": "0:35", 
                                 "room": "", 
                                 "slug": "35c3-1253-session_herb_vaporizer_meetup", 
                                 "title": "Herb Vaporizer Meetup", 
@@ -24295,6 +24434,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Herb_Vaporizer_Meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1419, 
+                                "guid": "6a04ac4f-b166-40de-b4bb-e0e0b0be2da9", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "35c3-1419-session_juggling_and_poi_meetup", 
+                                "title": "Juggling and poi meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "lets meetup for joggling, poi and other artistic things. Ever wanted to learn how to juggle? now is the chance.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Juggling_and_poi_meetup"
                                 ]
                             }, 
                             {
@@ -24411,28 +24571,6 @@
                             }
                         ], 
                         "Assembly:Critical Decentralisation Cluster": [
-                            {
-                                "id": 1461, 
-                                "guid": "1ae5454e-55dc-4551-b47c-3aab394ccb82", 
-                                "logo": null, 
-                                "date": "2018-12-29T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "0:15", 
-                                "room": "Assembly:Critical Decentralisation Cluster", 
-                                "slug": "35c3-1461-session_10_journeys_of_an_asian_open_source_community", 
-                                "title": "10 Journeys of an Asian Open Source Community", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "This talk is about the story of FOSSASIA - one of the biggest open source community from Asia. How did we begin, what have we achieved in the last 10 years. Our lessons learned, our challenges and our next 10 year vision.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://fossasia.org/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:10_Journeys_of_an_Asian_Open_Source_Community"
-                                ]
-                            }, 
                             {
                                 "id": 1519, 
                                 "guid": "42b696ed-d381-42c1-95e2-6485fef12bdf", 
@@ -27093,7 +27231,7 @@
                                 "type": "lecture", 
                                 "language": "de", 
                                 "abstract": "Spa\u00df und ein kleines Bisschen Wissenschaft mit 3D-gedruckten Orgelteilen", 
-                                "description": "Musikinstrumentenbau ist \u00fcberwiegend geheim-by-accident, es wird pers\u00f6nlich weiter gegeben und ist nicht ohne weiteres \u00f6ffentlich zug\u00e4nglich. Das ist f\u00fcr musik- und handwerklich interessierte Nerds nat\u00fcrlich unbefriedigend.  \r\n3D-gedruckte Pfeifen werden ich mitbringen.\r\n\r\n## Ablauf \r\n* Kurze Einf\u00fchrung, was ist eine Orgel eigentlich \r\n* Was kann man heute cooler machen mit 3D-Druck und modischer Elektronik, Erl\u00e4uterungen zu Funktionsweisen und CAD-Files\r\n* \u00dcberlegungen \u00fcber Tastatur-Dynamik \r\n\r\n## Links \r\nDas Spektrogramm auf dem Mac: \r\nffmpeg -f avfoundation -i \":0\" -lavfi showspectrum=s=1440x900:slide=rscroll -c:v rawvideo -r 25 -pix_fmt yuv420p -f matroska - | mpv - \r\nLinux: ffplay -f pulse -i \"default\"\r\n\r\nPreviously auf media.ccc.de \r\n* https://media.ccc.de/v/MRMCD15-7058-die_pfeifenorgel_im_zeitraffer\r\n* https://media.ccc.de/v/WHTT3V\r\n\r\nParametrische Orgelpfeifen-Files (FreeCAD und OpenSCAD):\r\n* https://github.com/benjaminwand/3d-printed-labial-pipe \r\n* https://github.com/benjaminwand/3d-printed-reversed-free-reed-pipe\r\n* https://github.com/benjaminwand/3d-printed-organ-parts", 
+                                "description": "Musikinstrumentenbau ist \u00fcberwiegend geheim-by-accident, es wird pers\u00f6nlich weiter gegeben und ist nicht ohne weiteres \u00f6ffentlich zug\u00e4nglich. Das ist f\u00fcr musik- und handwerklich interessierte Nerds nat\u00fcrlich unbefriedigend.  \r\n3D-gedruckte Pfeifen werden ich mitbringen.\r\n\r\n## Ablauf \r\n* Kurze Einf\u00fchrung, was ist eine Orgel eigentlich \r\n* Was kann man heute cooler machen mit 3D-Druck und modischer Elektronik, Erl\u00e4uterungen zu Funktionsweisen und CAD-Files\r\n* \u00dcberlegungen \u00fcber Tastatur-Dynamik \r\n\r\n## Links \r\nDas Spektrogramm auf dem Mac: \r\nffmpeg -f avfoundation -i \":0\" -lavfi showspectrum=s=1440x900:slide=rscroll -c:v rawvideo -r 25 -pix_fmt yuv420p -f matroska - | mpv - \r\nLinux: ffplay -f pulse -i \"default\"\r\n\r\nPreviously auf media.ccc.de \r\n* https://media.ccc.de/v/MRMCD15-7058-die_pfeifenorgel_im_zeitraffer\r\n* https://media.ccc.de/v/WHTT3V\r\n\r\nParametrische Orgelpfeifen-Files (FreeCAD und OpenSCAD):\r\n* https://github.com/benjaminwand/3d-printed-labial-pipe \r\n* https://github.com/benjaminwand/3d-printed-reversed-free-reed-pipe\r\n* https://github.com/benjaminwand/3d-printed-organ-parts\r\n\r\nFachw\u00f6rter-pdf: https://www.walcker.com/downloads/dictionnaire-des-orgues.pdf", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
