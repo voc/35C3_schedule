@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 15:20</version>
+  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 15:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6429,50 +6429,6 @@ Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation 
         <links>
           <link>https://foodhackingbase.org/wiki/Fhb_35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_beekeeping.</link>
-        </links>
-      </event>
-      <event id="1130" guid="f6638acc-dc14-4575-a647-b18bf3fa238a">
-        <logo/>
-        <date>2018-12-27T22:30:00+01:00</date>
-        <start>22:30</start>
-        <duration>1:30</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1130-session_whiskytasting</slug>
-        <title>WhiskyTasting</title>
-        <subtitle>Whisky tasting session 2</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>cs</language>
-        <abstract/>
-        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
-        </persons>
-        <links>
-          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
-        </links>
-      </event>
-      <event id="1131" guid="c11cfe59-01ad-40d7-b541-b0229dd8fda6">
-        <logo/>
-        <date>2018-12-27T21:00:00+01:00</date>
-        <start>21:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Foodhackingbase</room>
-        <slug>35c3-1131-session_whiskytasting</slug>
-        <title>WhiskyTasting</title>
-        <subtitle>Whisky tasting session 1</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>cs</language>
-        <abstract/>
-        <description>Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac">Bigmac</person>
-        </persons>
-        <links>
-          <link>https://foodhackingbase.org/wiki/Whisky_tasting_35c3</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting</link>
         </links>
       </event>
     </room>
@@ -15715,29 +15671,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
-    <room name="Assembly:Geheimorganisation">
-      <event id="1273" guid="ed141b6b-a6bf-4ecc-98ab-29013cf7c20f">
-        <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:30</duration>
-        <room>Assembly:Geheimorganisation</room>
-        <slug>35c3-1273-session_whisky</slug>
-        <title>Whisky</title>
-        <subtitle>Main Event</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear">Blackspear</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky</link>
-        </links>
-      </event>
-    </room>
   </day>
   <day index="3" date="2018-12-29" start="2018-12-29T11:00:00+01:00" end="2018-12-30T03:00:00+01:00">
     <room name="Adams">
@@ -23472,6 +23405,46 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
         </links>
       </event>
+      <event id="1514" guid="180b66c6-124b-525b-9e7e-55b2b3dd2e5d">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1514-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
+      <event id="1515" guid="a2b392b4-5b79-53a6-baf2-5e8300424327">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>1:30</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1515-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab</description>
+        <persons/>
+        <links>
+          <link>https://pslab.io</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
+        </links>
+      </event>
       <event id="1472" guid="f5202efb-2199-4004-928e-e827a9742449">
         <logo/>
         <date>2018-12-29T17:00:00+01:00</date>
@@ -24961,6 +24934,27 @@ Freifunk since 2003</biography>
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:SSH (Spanish Speaking Hackers)">
+      <event id="1513" guid="93a0fbd7-3163-4679-94d5-910e5f39b22a">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>0:30</duration>
+        <room>Assembly:SSH (Spanish Speaking Hackers)</room>
+        <slug>35c3-1513-session_personal_airgapped_network</slug>
+        <title>Personal airgapped network</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>es</language>
+        <abstract/>
+        <description>Como crear una red portable sin conexión externa para proteger tu privacidad</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_airgapped_network</link>
         </links>
       </event>
     </room>
@@ -27911,52 +27905,26 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </links>
       </event>
     </room>
-    <room name="Komona Kuppel 3">
-      <event id="1391" guid="b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0">
+    <room name="">
+      <event id="1512" guid="07443c5b-2968-4d35-9f1a-a0e91173ff4e">
         <logo/>
-        <date>2018-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>2:00</duration>
-        <room>Komona Kuppel 3</room>
-        <slug>35c3-1391-session_inter_dependence_the_game</slug>
-        <title>Inter/dependence: the game</title>
+        <date>2018-12-30T14:10:00+01:00</date>
+        <start>14:10</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1512-session_haecksespeakup_</slug>
+        <title>HaeckseSpeakUp!</title>
         <subtitle/>
         <track>self organized sessions</track>
-        <type>game</type>
+        <type>workshop</type>
         <language>en</language>
         <abstract/>
-        <description>Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists’ shared interests in mutualism, agency, and artists’ roles. Let’s play</description>
+        <description>How would offer a talk at 36C3 or at Camp? What other events are there where I could give my first talk? An Introduction</description>
         <persons/>
         <links>
-          <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HaeckseSpeakUp!</link>
         </links>
       </event>
-    </room>
-    <room name="Assembly:Curry Club Augsburg">
-      <event id="1079" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
-        <logo/>
-        <date>2018-12-30T15:10:00+01:00</date>
-        <start>15:10</start>
-        <duration>0:15</duration>
-        <room>Assembly:Curry Club Augsburg</room>
-        <slug>35c3-1079-session_memorizing_pi_for_fun_not_for_profit_</slug>
-        <title>Memorizing pi for fun (not for profit)</title>
-        <subtitle>Day 4</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>de</language>
-        <abstract/>
-        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
-        </links>
-      </event>
-    </room>
-    <room name="">
       <event id="1152" guid="2bb37af8-e6a6-4056-8522-126dd2674594">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
@@ -28016,6 +27984,51 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </links>
       </event>
     </room>
+    <room name="Komona Kuppel 3">
+      <event id="1391" guid="b5fb75af-fc5e-4f34-bcd2-89d799c8e5c0">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>2:00</duration>
+        <room>Komona Kuppel 3</room>
+        <slug>35c3-1391-session_inter_dependence_the_game</slug>
+        <title>Inter/dependence: the game</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>game</type>
+        <language>en</language>
+        <abstract/>
+        <description>Developed by artists Christine Wong Yap and Sarrita Hunn, Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support. Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from the artists’ shared interests in mutualism, agency, and artists’ roles. Let’s play</description>
+        <persons/>
+        <links>
+          <link>http://playtime.pem.org/interde-pen-dence-a-game-round-1/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Inter/dependence:_the_game</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:Curry Club Augsburg">
+      <event id="1079" guid="394415d7-f3d1-493f-9dc9-7cf6d89be98c">
+        <logo/>
+        <date>2018-12-30T15:10:00+01:00</date>
+        <start>15:10</start>
+        <duration>0:15</duration>
+        <room>Assembly:Curry Club Augsburg</room>
+        <slug>35c3-1079-session_memorizing_pi_for_fun_not_for_profit_</slug>
+        <title>Memorizing pi for fun (not for profit)</title>
+        <subtitle>Day 4</subtitle>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>de</language>
+        <abstract/>
+        <description>Using a simple non-technique, we will memorize digits of pi. It's fun. No prerequisites needed. In English and German. Bring your kids! (all sessions are independent from each other)</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Kidspace">
       <event id="1281" guid="8b04ebe0-ce11-4b6c-b31b-e27699676d36">
         <logo/>
@@ -28040,13 +28053,13 @@ Wir freuen uns auf Dich und Dein Input!</description>
       </event>
     </room>
     <room name="Assembly:Critical Decentralisation Cluster">
-      <event id="1432" guid="48432ecf-e91c-5ed9-8ef1-5a6901fb3450">
+      <event id="1516" guid="ec9e7553-de01-5b06-b954-6aed92d0ec92">
         <logo/>
-        <date>2018-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
+        <date>2018-12-30T22:00:00+01:00</date>
+        <start>22:00</start>
         <duration>1:30</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1432-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
+        <slug>35c3-1516-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware</slug>
         <title>Pocket Science Lab Workshop: Making science experiment with open source hardware</title>
         <subtitle/>
         <track>self organized sessions</track>

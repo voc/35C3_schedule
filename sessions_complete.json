@@ -12504,6 +12504,49 @@
             }
         ]
     }, 
+    "Session:HaeckseSpeakUp!# 1d306edc28fe5176e4e59574629a9c16": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546179000", 
+                "raw": "1/2018/12/30/14/10/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "How would offer a talk at 36C3 or at Camp? What other events are there where I could give my first talk? An Introduction"
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "HaeckseSpeakUp!"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "07443c5b-2968-4d35-9f1a-a0e91173ff4e"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HaeckseSpeakUp!", 
+        "Has end time": [
+            {
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
+            }
+        ]
+    }, 
     "Session:HaecksenBreakfast# 1aed94973ba7e8f75e8334383b44950f": {
         "Held in language": [
             "de - German"
@@ -18723,6 +18766,55 @@
             }
         ]
     }, 
+    "Session:Personal airgapped network# d2f51690f9f05391d19fc36764f21a58": {
+        "Held in language": [
+            "es - Spanish / Castilian"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546106400", 
+                "raw": "1/2018/12/29/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Como crear una red portable sin conexi\u00f3n externa para proteger tu privacidad"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:SSH (Spanish Speaking Hackers)", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:SSH_(Spanish_Speaking_Hackers)", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Personal airgapped network"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "93a0fbd7-3163-4679-94d5-910e5f39b22a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_airgapped_network", 
+        "Has end time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ]
+    }, 
     "Session:Pharis\u00e4er tasting# 5a17282724fba22e5c8e45bdaf451933": {
         "Held in language": [
             "de - German", 
@@ -19067,57 +19159,6 @@
             }
         ]
     }, 
-    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 2dcf022fcfaf2ad83d741c6719a62fa1": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546174800", 
-                "raw": "1/2018/12/30/13/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://pslab.io"
-        ], 
-        "Has description": [
-            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
-        "Has end time": [
-            {
-                "timestamp": "1546180200", 
-                "raw": "1/2018/12/30/14/30/0/0"
-            }
-        ]
-    }, 
     "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 455e2f932fcc03fe2fe74d6981f19424": {
         "Held in language": [
             "en - English"
@@ -19169,6 +19210,57 @@
             }
         ]
     }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 45ccc33760fa525db57aa12b84190052": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546126200", 
+                "raw": "1/2018/12/29/23/30/0/0"
+            }
+        ]
+    }, 
     "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 4bc7591a103026ae1a9ff359aa711b53": {
         "Held in language": [
             "en - English"
@@ -19217,6 +19309,108 @@
             {
                 "timestamp": "1546014600", 
                 "raw": "1/2018/12/28/16/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 52f20afcbc4eb438388cf7c4c0fd980a": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546102800", 
+                "raw": "1/2018/12/29/17/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ]
+    }, 
+    "Session:Pocket Science Lab Workshop: Making science experiment with open source hardware# 94405f5632a30d727bd1c8beff836957": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546207200", 
+                "raw": "1/2018/12/30/22/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://pslab.io"
+        ], 
+        "Has description": [
+            "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Pocket Science Lab Workshop: Making science experiment with open source hardware"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "5ab56fe1-09e9-4ab3-96ec-a4d801c59278"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware", 
+        "Has end time": [
+            {
+                "timestamp": "1546212600", 
+                "raw": "1/2018/12/30/23/30/0/0"
             }
         ]
     }, 
@@ -27209,256 +27403,6 @@
             {
                 "timestamp": "1546232400", 
                 "raw": "1/2018/12/31/5/0/0/0"
-            }
-        ]
-    }, 
-    "Session:What happens with your cryptos if you die?# 1655f83a3206fe73b46d8843b93f4690": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546020000", 
-                "raw": "1/2018/12/28/18/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://frab.riat.at"
-        ], 
-        "Has description": [], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "What happens with your cryptos if you die?"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "e940778b-7bcf-459c-8bcb-731cfd06825a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:What_happens_with_your_cryptos_if_you_die%3F", 
-        "Has end time": []
-    }, 
-    "Session:Whisky# f4c18443baa56535626f7fc29d3925a5": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546027200", 
-                "raw": "1/2018/12/28/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This is the eigth incarnation of the popular whisky evening. It's fairly simple: If you enjoy good whisky with nice people, or are planing to do so, join us. We'll have the virtual chimney fire going."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Geheimorganisation", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Geheimorganisation", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Main Event"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Blackspear", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Blackspear", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Whisky"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "ed141b6b-a6bf-4ecc-98ab-29013cf7c20f"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Whisky", 
-        "Has end time": [
-            {
-                "timestamp": "1546032600", 
-                "raw": "1/2018/12/28/21/30/0/0"
-            }
-        ]
-    }, 
-    "Session:WhiskyTasting# 0cf632f1f5841b1b6be91283aeeb1c4e": {
-        "Held in language": [
-            "cs - Czech", 
-            "de - German", 
-            "en - English", 
-            "es - Spanish / Castilian", 
-            "fi - Finnish", 
-            "fr - French", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "he - Hebrew", 
-            "it - Italian", 
-            "nl - Dutch", 
-            "sv - Swedish"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545949800", 
-                "raw": "1/2018/12/27/22/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Whisky_tasting_35c3"
-        ], 
-        "Has description": [
-            "Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Whisky tasting session 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bigmac", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "WhiskyTasting"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "f6638acc-dc14-4575-a647-b18bf3fa238a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting", 
-        "Has end time": [
-            {
-                "timestamp": "1545955200", 
-                "raw": "1/2018/12/28/0/0/0/0"
-            }
-        ]
-    }, 
-    "Session:WhiskyTasting# 8155741d7a29c1edb6a26bd9890e5699": {
-        "Held in language": [
-            "cs - Czech", 
-            "de - German", 
-            "en - English", 
-            "es - Spanish / Castilian", 
-            "fi - Finnish", 
-            "fr - French", 
-            "gd - Gaelic / Scottish Gaelic", 
-            "he - Hebrew", 
-            "it - Italian", 
-            "nl - Dutch", 
-            "sv - Swedish"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545944400", 
-                "raw": "1/2018/12/27/21/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://foodhackingbase.org/wiki/Whisky_tasting_35c3"
-        ], 
-        "Has description": [
-            "Whisky tasting at the FoodHackingBase. Taste some whiskys and Scottish or other snacks. Donations at your will, or bring your own bottle!"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Foodhackingbase", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Foodhackingbase", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Whisky tasting session 1"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Bigmac", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Bigmac", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "WhiskyTasting"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "c11cfe59-01ad-40d7-b541-b0229dd8fda6"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:WhiskyTasting", 
-        "Has end time": [
-            {
-                "timestamp": "1545949800", 
-                "raw": "1/2018/12/27/22/30/0/0"
             }
         ]
     }
