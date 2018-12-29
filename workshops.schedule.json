@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 11:20", 
+        "version": "2018-12-29 11:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4328,6 +4328,34 @@
                         "CCL Saal 3": [], 
                         "Vintage Computing Cluster": [
                             {
+                                "id": 1038, 
+                                "guid": "8584c50c-8391-4be0-8ccc-5e730f33ecdb", 
+                                "logo": null, 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "2:00", 
+                                "room": "Vintage Computing Cluster", 
+                                "slug": "35c3-1038-session_datenschleuder_treffen", 
+                                "title": "Datenschleuder-Treffen", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Treffen der Datenschleuder-Redaktion", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rince", 
+                                        "public_name": "Rince"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://ds.ccc.de/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen"
+                                ]
+                            }, 
+                            {
                                 "id": 1420, 
                                 "guid": "367a7673-8afa-4915-b7cf-e8f8e107c30c", 
                                 "logo": null, 
@@ -4380,36 +4408,6 @@
                                 "links": [
                                     "https://vcfb.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V."
-                                ]
-                            }
-                        ], 
-                        "CCL Hall 3": [
-                            {
-                                "id": 1038, 
-                                "guid": "8584c50c-8391-4be0-8ccc-5e730f33ecdb", 
-                                "logo": null, 
-                                "date": "2018-12-29T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "2:00", 
-                                "room": "CCL Hall 3", 
-                                "slug": "35c3-1038-session_datenschleuder_treffen", 
-                                "title": "Datenschleuder-Treffen", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Treffen der Datenschleuder-Redaktion", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rince", 
-                                        "public_name": "Rince"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://ds.ccc.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Datenschleuder-Treffen"
                                 ]
                             }
                         ], 

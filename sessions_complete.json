@@ -7377,7 +7377,7 @@
             }
         ]
     }, 
-    "Session:Datenschleuder-Treffen# 6ec69bd6387b388eaf4e31ca2c5b6c61": {
+    "Session:Datenschleuder-Treffen# 94121851f74687a3d99c77132f21c2ab": {
         "Held in language": [
             "de - German"
         ], 
@@ -7401,8 +7401,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:CCL Hall 3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:CCL_Hall_3", 
+                "fulltext": "Room:Vintage Computing Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Vintage_Computing_Cluster", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -12784,6 +12784,52 @@
                 "raw": "1/2018/12/28/13/0/0/0"
             }
         ]
+    }, 
+    "Session:How to run your life, your non-profit or your business on crypto# 599382e983f0ec451353aa6072117bb8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546090200", 
+                "raw": "1/2018/12/29/13/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://paralelnapolis.sk/blog/"
+        ], 
+        "Has description": [
+            "The case study of Paraleln\u00e1 Polis Bratislava"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "How to run your life, your non-profit or your business on crypto"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "6b080a49-292c-4db7-8682-18f74afca6e8"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_to_run_your_life,_your_non-profit_or_your_business_on_crypto", 
+        "Has end time": []
     }, 
     "Session:How to run your life, your non-profit or your business on crypto# 6508cc340cc4b01e74fa1497650ecdc6": {
         "Held in language": [
@@ -27488,49 +27534,5 @@
                 "raw": "1/2018/12/29/19/10/0/0"
             }
         ]
-    }, 
-    "Session:Wondrous Mathematics: Fundamental limits of mathematical reasoning# f6d000ed513df88e551483f6b1050871": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "One can mathematically rigorously prove that there are certain fundamental limits to mathematical reasoning. This talk explains what these limits are, how we know about them and how we deal with them."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: Fundamental limits of mathematical reasoning"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "c3aebe03-92ab-4a73-8933-9c7062f33b3c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fundamental_limits_of_mathematical_reasoning", 
-        "Has end time": []
     }
 }
