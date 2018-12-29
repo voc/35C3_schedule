@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 21:00", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 21:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -19433,34 +19433,6 @@
                                     "http://susi.ai", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Personal_Assistants_By_People_for_the_People"
                                 ]
-                            }, 
-                            {
-                                "id": 1182, 
-                                "guid": "ebc6e34d-df17-4d2d-81da-809ce08ad4ed", 
-                                "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "35c3-1182-session_verteilte_schluesselerzeugung_fuer_openpgp_mit_dkgpg", 
-                                "title": "Verteilte Schl\u00fcsselerzeugung f\u00fcr OpenPGP mit DKGPG", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "talk", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "In diesem Vortrag wird gezeigt, wie ihr mit der freien Software \"Distributed Privacy Guard\" (DKGPG) verteilte OpenPGP-Schl\u00fcssel erzeugt und welche Anwendungsszenarien es daf\u00fcr gibt. Auf die komplizierten kryptografischen Grundlagen wird lediglich am Rande eingegangen, so dass nur allgemeine OpenPGP-Vorkenntnisse hilfreich sind.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:HS", 
-                                        "public_name": "HS"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://www.nongnu.org/dkgpg/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG"
-                                ]
                             }
                         ], 
                         "Lecture room M2": [
@@ -25163,34 +25135,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:TNC_assembly_workshop"
                                 ]
-                            }, 
-                            {
-                                "id": 1364, 
-                                "guid": "9c72e78a-867c-4989-be59-653e9f937195", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Hardware Hacking Area", 
-                                "slug": "35c3-1364-session_visual_programming_led_bag", 
-                                "title": "Visual programming LED bag", 
-                                "subtitle": "Program a 8 x 32 LED flexible board to make a LED Bag.", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Program a flexible LED board to put into a bag", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Anina", 
-                                        "public_name": "Anina"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://www.360fash.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Visual_programming_LED_bag"
-                                ]
                             }
                         ], 
                         "Popticum Art-and-Play": [
@@ -30062,14 +30006,80 @@
                         ], 
                         "Assembly:Critical Decentralisation Cluster": [
                             {
-                                "id": 1516, 
-                                "guid": "ec9e7553-de01-5b06-b954-6aed92d0ec92", 
+                                "id": 1531, 
+                                "guid": "ce2e96a0-2c03-5df5-bb19-6c8f595293ad", 
                                 "logo": null, 
-                                "date": "2018-12-30T22:00:00+01:00", 
-                                "start": "22:00", 
-                                "duration": "1:30", 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
-                                "slug": "35c3-1516-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "slug": "35c3-1531-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1432, 
+                                "guid": "48432ecf-e91c-5ed9-8ef1-5a6901fb3450", 
+                                "logo": null, 
+                                "date": "2018-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1432-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1395, 
+                                "guid": "634277f9-d02b-5b87-abd0-592959c5a877", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1395-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
+                                "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Make science experiment with Pocket Science Lab and explore how you can use it at home, classroom, research lab etc. Download PSLab Android App for the workshop https://play.google.com/store/apps/details?id=io.pslab", 
+                                "persons": [], 
+                                "links": [
+                                    "https://pslab.io", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware"
+                                ]
+                            }, 
+                            {
+                                "id": 1532, 
+                                "guid": "d38fdf42-02c3-57d1-8822-c2170402ba26", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1532-session_pocket_science_lab_workshop_making_science_experiment_with_open_source_hardware", 
                                 "title": "Pocket Science Lab Workshop: Making science experiment with open source hardware", 
                                 "subtitle": "", 
                                 "track": "self organized sessions", 
