@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 12:40</version>
+  <version>Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 12:50</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -19000,7 +19000,9 @@ Wir haben also genug zu erzählen, aber erwartet bitte keinen allzu ernsten und 
         <track/>
         <type>Session 60min</type>
         <language>en</language>
-        <abstract>You didn't manage to get an official Lightningtalk slot? Here is another chance to deliver your talk. Overflow talks will be managed by the "official" Lightning talk pretalx system. Please do NOT submit lightningtalks directly to ChaosZone.</abstract>
+        <abstract>You didn't manage to get an official Lightningtalk slot? Here is another chance to deliver your talk. Overflow talks will be managed by the "official" Lightning talk pretalx system. Please do NOT submit lightningtalks directly to ChaosZone.&#13;
+&#13;
+Detailed program: https://c3lt.de/35c3overflow/schedule/</abstract>
         <description/>
         <recording>
           <license/>
