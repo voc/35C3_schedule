@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 20181229_0237 1.2.0 2018-12-29 03:20", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 20181229_0237 1.2.0 2018-12-29 04:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -25408,7 +25408,7 @@
                                 "room": "Popticum Art-and-Play", 
                                 "slug": "35c3-1479-session_audiovisuelles_instrument_entwickeln_workshop_impulse", 
                                 "title": "Audiovisuelles instrument entwickeln Workshop imPulse", 
-                                "subtitle": "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance.", 
+                                "subtitle": "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance. Take a look for yourself: https://www.youtube.com/watch?v=HCkGvWrkPaI here is the code base: https://github.com/birkschmithuesen/imPulse", 
                                 "track": "self organized sessions", 
                                 "type": "", 
                                 "language": "", 
@@ -25416,6 +25416,7 @@
                                 "description": "", 
                                 "persons": [], 
                                 "links": [
+                                    "https://github.com/birkschmithuesen/imPulse", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audiovisuelles_instrument_entwickeln_Workshop_imPulse"
                                 ]
                             }, 

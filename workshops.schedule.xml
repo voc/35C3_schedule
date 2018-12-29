@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 03:20</version>
+  <version>2018-12-29 04:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4440,7 +4440,7 @@
         <room>Popticum Art-and-Play</room>
         <slug>35c3-1479-session_audiovisuelles_instrument_entwickeln_workshop_impulse</slug>
         <title>Audiovisuelles instrument entwickeln Workshop imPulse</title>
-        <subtitle>Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance.</subtitle>
+        <subtitle>Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance. Take a look for yourself: https://www.youtube.com/watch?v=HCkGvWrkPaI here is the code base: https://github.com/birkschmithuesen/imPulse</subtitle>
         <track>self organized sessions</track>
         <type/>
         <language/>
@@ -4448,6 +4448,7 @@
         <description/>
         <persons/>
         <links>
+          <link>https://github.com/birkschmithuesen/imPulse</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Audiovisuelles_instrument_entwickeln_Workshop_imPulse</link>
         </links>
       </event>

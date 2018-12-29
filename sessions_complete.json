@@ -2714,7 +2714,7 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Audio_Recording_Setups", 
         "Has end time": []
     }, 
-    "Session:Audiovisuelles instrument entwickeln Workshop imPulse# aae8811c2a3fd33997074e0b72fec032": {
+    "Session:Audiovisuelles instrument entwickeln Workshop imPulse# 445d2d1bf24bc1e35f607c1b3b0568ac": {
         "Held in language": [], 
         "Has start time": [
             {
@@ -2725,7 +2725,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://github.com/birkschmithuesen/imPulse"
+        ], 
         "Has description": [], 
         "Has session type": [], 
         "Has session location": [
@@ -2738,7 +2740,7 @@
             }
         ], 
         "Has subtitle": [
-            "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance."
+            "Our audiovisual instrument has some requests. Come and work together with visuals artists and musicians to improve the instrument and work towards a live performance. Take a look for yourself: https://www.youtube.com/watch?v=HCkGvWrkPaI here is the code base: https://github.com/birkschmithuesen/imPulse"
         ], 
         "Is organized by": [], 
         "Has title": [
