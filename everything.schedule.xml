@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 20181229_0237 1.2.0 2018-12-29 05:40</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 20181229_0237 1.2.0 2018-12-29 08:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18764,25 +18764,6 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
         </links>
       </event>
-      <event id="1487" guid="ee43044f-4382-4b88-ae84-85eae592690d">
-        <logo/>
-        <date>2018-12-29T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M3</room>
-        <slug>35c3-1487-session_julialang_a_first_introduction_and_why_i_am_excited_about_let_s_talk_compiler_s_and_gpus_</slug>
-        <title>JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)</link>
-        </links>
-      </event>
       <event id="1386" guid="9a0af0b4-6556-4271-b577-8525721c6031">
         <logo/>
         <date>2018-12-29T21:30:00+01:00</date>
@@ -25887,6 +25868,25 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Collective_Dementia_on_the_Web:_Distorted_facts_are_changing_our_perception_of_History._Solutions%3F</link>
+        </links>
+      </event>
+      <event id="1487" guid="ee43044f-4382-4b88-ae84-85eae592690d">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1487-session_julialang_a_first_introduction_and_why_i_am_excited_about_let_s_talk_compiler_s_and_gpus_</slug>
+        <title>JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A first introduction to Julia and why I am exited about it.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)</link>
         </links>
       </event>
     </room>
