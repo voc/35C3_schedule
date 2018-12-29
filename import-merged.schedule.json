@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_2137 1.2.2", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -14673,30 +14673,26 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Lineup/events/10075.html", 
                                 "id": 10075, 
                                 "guid": "1df771b7-17cf-4c3b-9472-251c660f0ef4", 
-                                "logo": "/system/events/logos/000/010/075/large/pozm8.jpg?1545416811", 
+                                "logo": "/system/events/logos/000/010/075/large/loungejpg?1546105301", 
                                 "date": "2018-12-29T23:00:00+01:00", 
                                 "start": "23:00", 
                                 "duration": "02:00", 
                                 "room": "Discodrama", 
-                                "slug": "35C3-ABFahrplan-10075-dominik_eulberg", 
-                                "title": "Dominik Eulberg", 
-                                "subtitle": "Techno/Trance/Rave", 
+                                "slug": "35C3-ABFahrplan-10075-marko_morelle", 
+                                "title": "Marko Morelle", 
+                                "subtitle": "Techno/", 
                                 "track": "Music", 
                                 "type": "djset", 
                                 "language": "en", 
-                                "abstract": "Dominik Eulberg has two lifelong passions: music and nature. Over the course of more than ten accomplished years, he has managed to reconcile both by producing an ever-evolving but always organic and melodic brand of electronic music.", 
-                                "description": "Of course, Dominik is also a well travelled DJ who is always observing the natural world on his worldly travels. Much like a wide open landscape of flora and fauna that is always changing and mutating through the seasons, his sounds never stay still for long. As such a DJ set from the man at clubs and festivals around Europe, South America, the USA and many places in between always offer a compelling blend of physical groove and heady melody. No shade of techno or house is out of his grasp, and he can weave together deep, hard, textural, emotive and/or angelic tropes depending on what the situation requires.\r\nFor Dominik, mother nature is the greatest artist of all. As a painter paints his representation of the natural world, Dominik wants to create an acoustic image that depicts how he feels about it. For example, a walk in the woods can be a blueprint for exciting music, because \u201cin the woods you never know what is waiting for you around the next corner.\u201d In the forest a rustle in the coppice can turn into a hookline, just like a subtle synth can become the main feature of one of his moving productions. As well as producing plenty of standout 12\u201ds, Dominik is also a revered remixer who has worked on nearly 100 projects and music by Hot Chip, DJ Hell, Tiefschwarz, Nathan Fake, Roman Fl\u00fcgel and many more. \r\nIn 2007 Dominik was awarded the \"Preis der deutschen Schallplattenkritik\" for his second album Heimische Gefilde, whilst the follow up in 2011, Diorma, was just as widely acclaimed. Over the years he has always managed to stay in the press and place highly in polls by Raveline, Groove and De:Bug was well as pick up various awards for his studio and DJ work. Now a veteran of more than ten years in the game, Dominik is still as fresh as compelling as he ever was, much like the natural world in which he so passionately surrounds himself.", 
+                                "abstract": "from the family", 
+                                "description": "from the family", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [], 
                                 "links": [
                                     {
-                                        "url": "http://www.dominik-eulberg.de", 
-                                        "title": "http://www.dominik-eulberg.de (very lovely website including an Identification Service (Bestimmungs Service))"
-                                    }, 
-                                    {
-                                        "url": "https://soundcloud.com/dominik-eulberg", 
-                                        "title": "https://soundcloud.com/dominik-eulberg"
+                                        "url": "https://soundcloud.com/chaishop-com/dj-marco-morelle-germany", 
+                                        "title": "https://soundcloud.com/chaishop-com/dj-marco-morelle-germany"
                                     }
                                 ], 
                                 "attachments": []
@@ -18076,7 +18072,7 @@
                                 "track": "Music", 
                                 "type": "djset", 
                                 "language": "en", 
-                                "abstract": "Clear Memory / Leipzig", 
+                                "abstract": "Clear Memory member, future record store owner and Data Wrangler based in Leipzig. Transforming Breaks, UK Bass, Footwork, bossy Electro and Jungle into another format with the intent of making it more appropriate and valuable for a variety of listeners.", 
                                 "description": "", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
