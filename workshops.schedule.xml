@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 20:40</version>
+  <version>2018-12-29 21:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -5327,7 +5327,7 @@
         <type>discussion</type>
         <language>en</language>
         <abstract/>
-        <description>Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction.</description>
+        <description>Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction. I will also demonstrate a text network analysis tool called InfraNodus that helps visualize a text as a network to generate insight about a discourse.</description>
         <persons/>
         <links>
           <link>http://noduslabs.com</link>

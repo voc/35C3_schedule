@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 20:40", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 21:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -27734,7 +27734,7 @@
                                 "type": "discussion", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction.", 
+                                "description": "Let's talk about creating the software that stimulates imagination and creative thinking, not consumerism and dopamine addiction. I will also demonstrate a text network analysis tool called InfraNodus that helps visualize a text as a network to generate insight about a discourse.", 
                                 "persons": [], 
                                 "links": [
                                     "http://noduslabs.com", 
