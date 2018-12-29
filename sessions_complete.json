@@ -12345,6 +12345,63 @@
             }
         ]
     }, 
+    "Session:HPI-Meetup# a5d96efc211dfcc8d4884d76673c15fa": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546171200", 
+                "raw": "1/2018/12/30/12/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Meetup for everyone from or related to the HPI"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:ChaosZone", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:ChaosZone", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "HPI-Meetup"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "dd0f3928-016c-405f-8b79-da656ab14093"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:HPI-Meetup", 
+        "Has end time": [
+            {
+                "timestamp": "1546174800", 
+                "raw": "1/2018/12/30/13/0/0/0"
+            }
+        ]
+    }, 
     "Session:Hacker Workflows: Tools for X (v2.0)# 89d2de6024f2d3a32964081b947e5d7a": {
         "Held in language": [], 
         "Has start time": [
@@ -27348,59 +27405,6 @@
             {
                 "timestamp": "1545948000", 
                 "raw": "1/2018/12/27/22/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Verschickung, falsch frankiert# b15299a2027ad85267e25219340552a4": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546012800", 
-                "raw": "1/2018/12/28/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://dome-one.com"
-        ], 
-        "Has description": [
-            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Dome Art-and-Play", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "frickelzwang f\u00fcr sessionschw\u00e4nzer"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Verschickung, falsch frankiert"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "3dff5ffa-6228-409b-9d3c-40c6918b14d1"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert", 
-        "Has end time": [
-            {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
             }
         ]
     }

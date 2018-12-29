@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 22:30", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 22:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -15591,28 +15591,6 @@
                                     "http://dome-one.com", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)"
                                 ]
-                            }, 
-                            {
-                                "id": 1478, 
-                                "guid": "3dff5ffa-6228-409b-9d3c-40c6918b14d1", 
-                                "logo": null, 
-                                "date": "2018-12-28T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "3:00", 
-                                "room": "Dome Art-and-Play", 
-                                "slug": "35c3-1478-session_verschickung_falsch_frankiert", 
-                                "title": "Verschickung, falsch frankiert", 
-                                "subtitle": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
-                                "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
-                                "persons": [], 
-                                "links": [
-                                    "http://dome-one.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert"
-                                ]
                             }
                         ], 
                         "Assembly:FOSSASIA": [
@@ -29800,6 +29778,35 @@
                                 "links": [
                                     "http://dome-one.com", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin"
+                                ]
+                            }
+                        ], 
+                        "Assembly:ChaosZone": [
+                            {
+                                "id": 1533, 
+                                "guid": "dd0f3928-016c-405f-8b79-da656ab14093", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:ChaosZone", 
+                                "slug": "35c3-1533-session_hpi_meetup", 
+                                "title": "HPI-Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Meetup for everyone from or related to the HPI", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:HPI-Meetup"
                                 ]
                             }
                         ], 

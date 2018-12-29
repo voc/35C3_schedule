@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 22:30</version>
+  <version>2018-12-29 22:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1537,26 +1537,6 @@
         <links>
           <link>http://dome-one.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)</link>
-        </links>
-      </event>
-      <event id="1478" guid="3dff5ffa-6228-409b-9d3c-40c6918b14d1">
-        <logo/>
-        <date>2018-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>3:00</duration>
-        <room>Dome Art-and-Play</room>
-        <slug>35c3-1478-session_verschickung_falsch_frankiert</slug>
-        <title>Verschickung, falsch frankiert</title>
-        <subtitle>frickelzwang für sessionschwänzer</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language/>
-        <abstract/>
-        <description>frickelzwang für sessionschwänzer</description>
-        <persons/>
-        <links>
-          <link>http://dome-one.com</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert</link>
         </links>
       </event>
     </room>

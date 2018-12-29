@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 22:30</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 22:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -14842,26 +14842,6 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fische_r%C3%BCckw%C3%A4rts_(backwards_fishing)</link>
         </links>
       </event>
-      <event id="1478" guid="3dff5ffa-6228-409b-9d3c-40c6918b14d1">
-        <logo/>
-        <date>2018-12-28T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>3:00</duration>
-        <room>Dome Art-and-Play</room>
-        <slug>35c3-1478-session_verschickung_falsch_frankiert</slug>
-        <title>Verschickung, falsch frankiert</title>
-        <subtitle>frickelzwang für sessionschwänzer</subtitle>
-        <track>self organized sessions</track>
-        <type>other</type>
-        <language/>
-        <abstract/>
-        <description>frickelzwang für sessionschwänzer</description>
-        <persons/>
-        <links>
-          <link>http://dome-one.com</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verschickung,_falsch_frankiert</link>
-        </links>
-      </event>
     </room>
     <room name="Assembly:FOSSASIA">
       <event id="1202" guid="0efe53ce-0f5e-44f1-9391-7c6971ab593b">
@@ -27960,6 +27940,29 @@ Wir freuen uns auf Dich und Dein Input!</description>
         <links>
           <link>http://dome-one.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin</link>
+        </links>
+      </event>
+    </room>
+    <room name="Assembly:ChaosZone">
+      <event id="1533" guid="dd0f3928-016c-405f-8b79-da656ab14093">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:ChaosZone</room>
+        <slug>35c3-1533-session_hpi_meetup</slug>
+        <title>HPI-Meetup</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language/>
+        <abstract/>
+        <description>Meetup for everyone from or related to the HPI</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann">Niccokunzmann</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:HPI-Meetup</link>
         </links>
       </event>
     </room>
