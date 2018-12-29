@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.1.2</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.2.0</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -13555,6 +13555,44 @@ It's easy to think of open hardware that make a difference in people's lives. An
             <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
 &#13;
 Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="318" guid="ae8d646b-83a8-5327-b4bd-d3dab9f544d8">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>PXYMLE</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/PXYMLE</url>
+        <title>Bits &amp; Bäume @ Congress : weiter zusammen(-)wachsen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Bei der Konferenz Bits &amp; Bäume haben im November Aktivist*innen unter&#13;
+anderem aus der Hacker- und Ökoszene über ihre Ziele, Utopien und&#13;
+Strategien diskutiert. Entstanden sind nicht nur neue Verbindungen&#13;
+sondern auch elf Forderungen an die Politik. Wir wollen die Idee und&#13;
+Ergebnisse der Konferenz vorstellen und mit euch gemeinsam weiterspinnen.&#13;
+&#13;
+https://bits-und-baeume.org&#13;
+https://bits-und-baeume.org/forderungen&#13;
+https://media.ccc.de/v/bub2018-246-eine_andere_digitalisierung_ist_moglich&#13;
+(ab 31:00)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="101">
+            <name>Nico</name>
+            <biography/>
           </person>
         </persons>
         <links/>

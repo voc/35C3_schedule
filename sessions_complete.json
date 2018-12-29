@@ -2110,7 +2110,7 @@
             }
         ]
     }, 
-    "Session:Applied electronic music# c8096038ab6d2ffedd2bbfbf95c5e983": {
+    "Session:Applied electronic music# 71442575f0634c33f7323a5efd437bee": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -2153,7 +2153,9 @@
         "Has title": [
             "Applied electronic music"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            180
+        ], 
         "GUID": [
             "15143ef4-14de-4db9-93b5-4389b2e7d4a8"
         ], 
@@ -2161,7 +2163,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Applied_electronic_music", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546054200", 
+                "raw": "1/2018/12/29/3/30/0/0"
+            }
+        ]
     }, 
     "Session:Arch Linux Meetup# 74b3f10b249ea3c46dfa48e29dbb486e": {
         "Held in language": [

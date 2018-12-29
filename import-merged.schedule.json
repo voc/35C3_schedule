@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.1.2", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.2.0", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -13537,6 +13537,37 @@
                                         "id": 96, 
                                         "name": "Sandra GIG", 
                                         "biography": "tl;dr: GIG is the global network of social and technological innovators. #wearegig\r\n\r\nGlobal Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 318, 
+                                "guid": "ae8d646b-83a8-5327-b4bd-d3dab9f544d8", 
+                                "logo": null, 
+                                "date": "2018-12-29T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "00:45", 
+                                "room": "OIO Workshop-Domo", 
+                                "slug": "PXYMLE", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/PXYMLE", 
+                                "title": "Bits & B\u00e4ume @ Congress : weiter zusammen(-)wachsen", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop 45min", 
+                                "language": "de", 
+                                "abstract": "Bei der Konferenz Bits & B\u00e4ume haben im November Aktivist*innen unter\r\nanderem aus der Hacker- und \u00d6koszene \u00fcber ihre Ziele, Utopien und\r\nStrategien diskutiert. Entstanden sind nicht nur neue Verbindungen\r\nsondern auch elf Forderungen an die Politik. Wir wollen die Idee und\r\nErgebnisse der Konferenz vorstellen und mit euch gemeinsam weiterspinnen.\r\n\r\nhttps://bits-und-baeume.org\r\nhttps://bits-und-baeume.org/forderungen\r\nhttps://media.ccc.de/v/bub2018-246-eine_andere_digitalisierung_ist_moglich\r\n(ab 31:00)", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 101, 
+                                        "name": "Nico", 
+                                        "biography": null, 
                                         "answers": []
                                     }
                                 ], 
