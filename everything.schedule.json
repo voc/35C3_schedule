@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 20:00", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.2 2018-12-29 20:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -25413,6 +25413,27 @@
                                     "https://github.com/lujoga/cluequiz", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Backspace_Jeopardy"
                                 ]
+                            }, 
+                            {
+                                "id": 1505, 
+                                "guid": "950666ba-e03d-4538-b629-ababd6748304", 
+                                "logo": null, 
+                                "date": "2018-12-29T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "1:00", 
+                                "room": "Assembly:Backspace", 
+                                "slug": "35c3-1505-session_data_science_nerds", 
+                                "title": "Data Science Nerds", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Just a gathering of Data Science Enthusiasts and a discussion about security in data science", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds"
+                                ]
                             }
                         ], 
                         "Assembly:Foodhackingbase": [
@@ -25854,56 +25875,6 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Office:_Club_Culture_and_Urban_Transformation_Processes_-_Opening_Hours"
-                                ]
-                            }
-                        ], 
-                        "Assembly:Kidspace": [
-                            {
-                                "id": 1505, 
-                                "guid": "950666ba-e03d-4538-b629-ababd6748304", 
-                                "logo": null, 
-                                "date": "2018-12-29T20:30:00+01:00", 
-                                "start": "20:30", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1505-session_data_science_nerds", 
-                                "title": "Data Science Nerds", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Just a gathering of Data Science Enthusiasts and a discussion about security in data science", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds"
-                                ]
-                            }, 
-                            {
-                                "id": 1282, 
-                                "guid": "238c51cf-b5a7-5bf3-a6f3-c34db984c763", 
-                                "logo": null, 
-                                "date": "2018-12-29T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
-                                "slug": "35c3-1282-session_pen_paper_mini_game_jam_", 
-                                "title": "Pen&paper mini \"Game Jam\u201c", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "pen&paper mini \"Game Jam\u201c", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia", 
-                                        "public_name": "Lydia"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
                                 ]
                             }
                         ], 
@@ -26674,6 +26645,35 @@
                                 "links": [
                                     "https://hackmd.okfn.de/284pkD9uTVizdMHaRMeBnA?both", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_Hardware_Book_Scanner_Meetup"
+                                ]
+                            }
+                        ], 
+                        "Assembly:Kidspace": [
+                            {
+                                "id": 1282, 
+                                "guid": "238c51cf-b5a7-5bf3-a6f3-c34db984c763", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "2:00", 
+                                "room": "Assembly:Kidspace", 
+                                "slug": "35c3-1282-session_pen_paper_mini_game_jam_", 
+                                "title": "Pen&paper mini \"Game Jam\u201c", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "pen&paper mini \"Game Jam\u201c", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia", 
+                                        "public_name": "Lydia"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C"
                                 ]
                             }
                         ], 
