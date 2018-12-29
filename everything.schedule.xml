@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 14:40</version>
+  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 1.2.1 2018-12-29 15:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -2403,27 +2403,6 @@ Vulnerabilities in top 5 SD-WAN (depends on fixes, responsible disclosure in pro
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction</link>
-        </links>
-      </event>
-      <event id="1132" guid="5baa7172-13bb-488c-b9e5-443337e7566b">
-        <logo/>
-        <date>2018-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>1:30</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1132-session_why_does_war_happen_</slug>
-        <title>Why Does War Happen?</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>An examination of the Thucydides Trap</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix">Aestetix</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F</link>
         </links>
       </event>
     </room>
@@ -17457,6 +17436,25 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Commie_curious</link>
         </links>
       </event>
+      <event id="1510" guid="d1b73b21-5529-465f-b972-53e40787e923">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:45</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1510-session_debug_your_back</slug>
+        <title>Debug your back</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>hands-on</type>
+        <language>en</language>
+        <abstract/>
+        <description>Does your back hurt after three days of congress? Here you find some release.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Debug_your_back</link>
+        </links>
+      </event>
       <event id="1041" guid="2d8406f5-a50c-413d-9d86-9fa77aca2081">
         <logo/>
         <date>2018-12-29T20:00:00+01:00</date>
@@ -17573,7 +17571,7 @@ However, it's not always easy...</description>
         <type>workshop</type>
         <language>de</language>
         <abstract/>
-        <description>Mietshäuser Syndikat + CCC =  Synergien? Raum für Nachfragen zum Vortrag im Dijkstra am 29.12. 17.10 Uhr Anmeldung: ccc@syndikat.org</description>
+        <description>Mietshäuser Syndikat + CCC =  Synergien? Raum für Nachfragen zum Vortrag im Dijkstra am 29.12. 17.10 Uhr</description>
         <persons/>
         <links>
           <link>http://syndikat.org</link>

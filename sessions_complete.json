@@ -5486,6 +5486,36 @@
             }
         ]
     }, 
+    "Session:Catdrawing Competition# 1ef8a7e7b5eace76e025cb3ec56d93e5": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Catdrawing Competition"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "bf061dd2-c3db-455c-9213-ff9a8a8381eb"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Catdrawing_Competition", 
+        "Has end time": []
+    }, 
     "Session:Chaos Bug Bounty Meetup# 785f178c76fba26c4633d7b21abbcd35": {
         "Held in language": [
             "en - English"
@@ -7600,11 +7630,16 @@
             }
         ]
     }, 
-    "Session:Debug your back# 30f77b72b3df8b32fc08cf2b8b53376b": {
+    "Session:Debug your back# bc4efe90114fd64f9d78faaf25a206ee": {
         "Held in language": [
             "en - English"
         ], 
-        "Has start time": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546099200", 
+                "raw": "1/2018/12/29/16/0/0/0"
+            }
+        ], 
         "Has event track": [
             "Session"
         ], 
@@ -7625,20 +7660,12 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:0range", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:0range", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Is organized by": [], 
         "Has title": [
             "Debug your back"
         ], 
         "Has duration": [
-            60
+            45
         ], 
         "GUID": [
             "d1b73b21-5529-465f-b972-53e40787e923"
@@ -7647,7 +7674,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Debug_your_back", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546101900", 
+                "raw": "1/2018/12/29/16/45/0/0"
+            }
+        ]
     }, 
     "Session:Decentralized Digital Identity# d052bd6dd103c21a9dc1855449c8323f": {
         "Held in language": [], 
@@ -16675,7 +16707,7 @@
             "http://syndikat.org"
         ], 
         "Has description": [
-            "Mietsh\u00e4user Syndikat + CCC =  Synergien? Raum f\u00fcr Nachfragen zum Vortrag im Dijkstra am 29.12. 17.10 Uhr Anmeldung: ccc@syndikat.org"
+            "Mietsh\u00e4user Syndikat + CCC =  Synergien? Raum f\u00fcr Nachfragen zum Vortrag im Dijkstra am 29.12. 17.10 Uhr"
         ], 
         "Has session type": [
             "Workshop"
@@ -27416,65 +27448,6 @@
             {
                 "timestamp": "1546045200", 
                 "raw": "1/2018/12/29/1/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Why Does War Happen?# e856a41888c9542e05e24db830bf43c3": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545922800", 
-                "raw": "1/2018/12/27/15/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "An examination of the Thucydides Trap"
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Aestetix", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Aestetix", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Why Does War Happen?"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "5baa7172-13bb-488c-b9e5-443337e7566b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Why_Does_War_Happen%3F", 
-        "Has end time": [
-            {
-                "timestamp": "1545928200", 
-                "raw": "1/2018/12/27/16/30/0/0"
             }
         ]
     }
