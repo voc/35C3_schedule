@@ -11725,6 +11725,57 @@
             }
         ]
     }, 
+    "Session:Gathering: Open Source Projects & Communities around the world# e6f3228cca6621f5d6aca897e0d11dd9": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://fossasia.org"
+        ], 
+        "Has description": [
+            "Bringing together open source projects and communities around the world to share & collaborate! Everyone is welcome."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:FOSSASIA", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:FOSSASIA", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Gathering: Open Source Projects & Communities around the world"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "9a9ce86d-7eea-4d95-a897-86cd179781ee"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Gathering:_Open_Source_Projects_%26_Communities_around_the_world", 
+        "Has end time": [
+            {
+                "timestamp": "1546128000", 
+                "raw": "1/2018/12/30/0/0/0/0"
+            }
+        ]
+    }, 
     "Session:General Angel Meeting# 4cbf19bc61f8349d03ef5de7f4e79141": {
         "Held in language": [
             "en - English"
@@ -14524,6 +14575,57 @@
             {
                 "timestamp": "1546030800", 
                 "raw": "1/2018/12/28/21/0/0/0"
+            }
+        ]
+    }, 
+    "Session:Jam Session# cc1ac4d73965dbcc962ab0b06afaa8de": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Jam session with the weird self-built instruments at the T.R.A.S.H. space"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:T.R.A.S.H.: The Real Anarchic Sound Hub", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:T.R.A.S.H.:_The_Real_Anarchic_Sound_Hub", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Memory corruption"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Jam Session"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "c96ad931-c9ab-481a-934f-22300ba9da7d"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Jam_Session", 
+        "Has end time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
             }
         ]
     }, 
@@ -27260,124 +27362,6 @@
             {
                 "timestamp": "1546178400", 
                 "raw": "1/2018/12/30/14/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# 202bd7188fbf9cfa58639f15134c7d57": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546039800", 
-                "raw": "1/2018/12/28/23/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Come and play Werwolf"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "1cf90957-8db9-480c-8146-ccb058b27634"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1546045200", 
-                "raw": "1/2018/12/29/1/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# 2240eb0c3cc929482759ccbdc005f571": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546052400", 
-                "raw": "1/2018/12/29/3/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "5076b837-bc26-49ff-ab99-5b3a091ca058"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1546059600", 
-                "raw": "1/2018/12/29/5/0/0/0"
             }
         ]
     }

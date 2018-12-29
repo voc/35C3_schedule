@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 16:40", 
+        "version": "2018-12-29 17:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2383,60 +2383,6 @@
                                 "links": [
                                     "http://ultraschall.fm", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
-                                ]
-                            }, 
-                            {
-                                "id": 1412, 
-                                "guid": "1cf90957-8db9-480c-8146-ccb058b27634", 
-                                "logo": null, 
-                                "date": "2018-12-28T23:30:00+01:00", 
-                                "start": "23:30", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1412-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "Come and play Werwolf", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
-                                ]
-                            }, 
-                            {
-                                "id": 1501, 
-                                "guid": "5076b837-bc26-49ff-ab99-5b3a091ca058", 
-                                "logo": null, 
-                                "date": "2018-12-29T03:00:00+01:00", 
-                                "start": "03:00", 
-                                "duration": "2:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1501-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ], 
