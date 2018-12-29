@@ -3882,70 +3882,6 @@
             }
         ]
     }, 
-    "Session:Blind Navigation Workshops# 49bd8d64a3b739dec50eaf580562cdd6": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546019400", 
-                "raw": "1/2018/12/28/17/50/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://s.ai/ccc/ws", 
-            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
-        ], 
-        "Has description": [
-            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Blind navigation workshop", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Blind_navigation_workshop", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "After-Talk 2"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Saizai", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Blind Navigation Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168fe"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
-        "Has end time": [
-            {
-                "timestamp": "1546023000", 
-                "raw": "1/2018/12/28/18/50/0/0"
-            }
-        ]
-    }, 
     "Session:Blind Navigation Workshops# 64a355520460e84f49ef85cfb38bd17c": {
         "Held in language": [
             "en - English"
@@ -4004,6 +3940,70 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
         "Has end time": []
+    }, 
+    "Session:Blind Navigation Workshops# 7e611bd5de4ccdf2f31c726c3cdd2801": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://s.ai/ccc/ws", 
+            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
+        ], 
+        "Has description": [
+            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Blind navigation workshop", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Blind_navigation_workshop", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Day 3 \u2014 depends on help https://twitter.com/saizai/status/1078945285664063488?s=19"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Saizai", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Blind Navigation Workshops"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "2ca556b7-b032-4d2a-918d-622739d168ff"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
     }, 
     "Session:Blind Navigation Workshops# bb79d32f0a81eb6c33ab720fc28b12b1": {
         "Held in language": [
@@ -4132,65 +4132,6 @@
                 "raw": "1/2018/12/26/21/0/0/0"
             }
         ]
-    }, 
-    "Session:Blind Navigation Workshops# fcff44fa8737807c241d5a067ff499aa": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546041600", 
-                "raw": "1/2018/12/29"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://s.ai/ccc/ws", 
-            "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html"
-        ], 
-        "Has description": [
-            "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Blind navigation workshop", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Blind_navigation_workshop", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Day 3 TBD"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Saizai", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Blind Navigation Workshops"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "2ca556b7-b032-4d2a-918d-622739d168ff"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops", 
-        "Has end time": []
     }, 
     "Session:Blockchain, the basics# ddbef57abcc35a0138cffa36e31aee3b": {
         "Held in language": [
@@ -7415,6 +7356,13 @@
                 "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rince", 
                 "namespace": 2, 
                 "exists": "1", 
+                "displaytitle": ""
+            }, 
+            {
+                "fulltext": "User:Marei", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Marei", 
+                "namespace": 2, 
+                "exists": "", 
                 "displaytitle": ""
             }
         ], 
@@ -27526,6 +27474,65 @@
             {
                 "timestamp": "1546103400", 
                 "raw": "1/2018/12/29/17/10/0/0"
+            }
+        ]
+    }, 
+    "Session:Wondrous Mathematics: Fun with transfinite games# 456d0f5b04b18d6a278d8fc8e5bc83a1": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546108200", 
+                "raw": "1/2018/12/29/18/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "What's better than ordinary finite games? Transfinite games! Learn how these work, and how you win at them, in this hands-on workshop."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Iblech", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Wondrous Mathematics: Fun with transfinite games"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "e13ed565-4787-4e47-a5df-1b5cdd8a1289"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fun_with_transfinite_games", 
+        "Has end time": [
+            {
+                "timestamp": "1546110600", 
+                "raw": "1/2018/12/29/19/10/0/0"
             }
         ]
     }
