@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.1.2 2018-12-29 01:40", 
+        "version": "Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.1.2 2018-12-29 02:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2327,8 +2327,14 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
-                                "persons": [], 
+                                "description": "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
                                 ]
@@ -9925,8 +9931,14 @@
                                 "type": "hands-on", 
                                 "language": "de", 
                                 "abstract": "", 
-                                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
-                                "persons": [], 
+                                "description": "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
                                 ]
@@ -9947,7 +9959,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Extensions are small software programs that customize the browsing experience. They enable users to tailor browser functionality and behaviour to individual needs or preferences. They are built on web technologies such as HTML, JavaScript, and CSS. (Source: https://developer.chrome.com/extensions) I've built a few basic extensions and want to assist you with your first steps to ease the steep learning curve. It helps if you know some HTML, JavaScript, or CSS \u2013 but if you don't join us anyway! Install a recent version of Chrome and Firefox before the workshop so we can start right away. PS: If you're a pro show up and help us newbies ;-)", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://b76.ch/9730", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Your_First_Steps_with_WebExtensions"
@@ -19223,27 +19241,6 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1004, 
-                                "guid": "5bcac53d-4417-4bbb-9c4a-d02103f8705a", 
-                                "logo": null, 
-                                "date": "2018-12-29T10:15:00+01:00", 
-                                "start": "10:15", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1004-session_42birds_hitchhiker_s_towel_yoga", 
-                                "title": "42birds: Hitchhiker's Towel-Yoga", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
-                                ]
-                            }, 
-                            {
                                 "id": 1005, 
                                 "guid": "3254df13-39ef-41d5-833e-f525e808f92c", 
                                 "logo": null, 
@@ -19259,7 +19256,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "\ud83d\ude48 \ud83d\ude49 \ud83d\ude4a You Know Stuff \u2610 \u2612 \u2611 Answer nerdy questions on your notebook / smartphone and win a (small) price \ud83d\ude38 \ud83d\ude39 \ud83d\ude3b", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://kahoot.it/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Nerd_Game_Show"
@@ -20057,6 +20060,33 @@
                         ], 
                         "Lecture room M3": [
                             {
+                                "id": 1004, 
+                                "guid": "5bcac53d-4417-4bbb-9c4a-d02103f8705a", 
+                                "logo": null, 
+                                "date": "2018-12-29T10:15:00+01:00", 
+                                "start": "10:15", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1004-session_42birds_hitchhiker_s_towel_yoga", 
+                                "title": "42birds: Hitchhiker's Towel-Yoga", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
+                                ]
+                            }, 
+                            {
                                 "id": 1278, 
                                 "guid": "8c7e9bdc-fa6a-4a19-9d7a-7fd246f89364", 
                                 "logo": null, 
@@ -20199,7 +20229,7 @@
                                 "room": "Lecture room M3", 
                                 "slug": "35c3-1488-session_owasp_meetup", 
                                 "title": "OWASP meetup", 
-                                "subtitle": "0xJOIN 0XUS00", 
+                                "subtitle": "0xJOIN 0XUS00 (M3 already reserved for AcroYoga)", 
                                 "track": "self organized sessions", 
                                 "type": "meeting", 
                                 "language": "en", 
@@ -27437,27 +27467,6 @@
                         ], 
                         "Seminar room 13": [
                             {
-                                "id": 1003, 
-                                "guid": "5bcac53d-4417-4bbb-9c4a-d02103f8705b", 
-                                "logo": null, 
-                                "date": "2018-12-30T10:15:00+01:00", 
-                                "start": "10:15", 
-                                "duration": "1:00", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1003-session_42birds_hitchhiker_s_towel_yoga", 
-                                "title": "42birds: Hitchhiker's Towel-Yoga", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
-                                ]
-                            }, 
-                            {
                                 "id": 1006, 
                                 "guid": "dc3db234-1a80-4f27-95c7-e18c95d3e9f7", 
                                 "logo": null, 
@@ -27473,7 +27482,13 @@
                                 "language": "de", 
                                 "abstract": "", 
                                 "description": "Once upon a time, George Orwell said, \u201dGood writing is like a windowpane.\u201d That\u2019s why I decided to reveal to you the secrets of how to use the windows of the 21st century in order to prevent writer\u2019s blockage. To do this, we embark on a virtual journey to various free of charge writing tools on the web.", 
-                                "persons": [], 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart."
                                 ]
@@ -27703,7 +27718,35 @@
                                 ]
                             }
                         ], 
-                        "Lecture room M3": [], 
+                        "Lecture room M3": [
+                            {
+                                "id": 1003, 
+                                "guid": "5bcac53d-4417-4bbb-9c4a-d02103f8705b", 
+                                "logo": null, 
+                                "date": "2018-12-30T10:15:00+01:00", 
+                                "start": "10:15", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1003-session_42birds_hitchhiker_s_towel_yoga", 
+                                "title": "42birds: Hitchhiker's Towel-Yoga", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                                        "public_name": "Birdy1976"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga"
+                                ]
+                            }
+                        ], 
                         "Kidspace": [
                             {
                                 "id": 1288, 

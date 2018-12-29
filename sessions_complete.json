@@ -636,7 +636,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
+            "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
         ], 
         "Has session type": [
             "Hands-On"
@@ -651,7 +651,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Hitchhiker's Towel-Yoga"
         ], 
@@ -688,7 +696,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
+            "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
         ], 
         "Has session type": [
             "Hands-On"
@@ -703,7 +711,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Hitchhiker's Towel-Yoga"
         ], 
@@ -724,59 +740,7 @@
             }
         ]
     }, 
-    "Session:42birds: Hitchhiker's Towel-Yoga# 4f3a4849872961e0831a9c1b3b8587e7": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546164900", 
-                "raw": "1/2018/12/30/10/15/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "42birds: Hitchhiker's Towel-Yoga"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "5bcac53d-4417-4bbb-9c4a-d02103f8705b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga", 
-        "Has end time": [
-            {
-                "timestamp": "1546168500", 
-                "raw": "1/2018/12/30/11/15/0/0"
-            }
-        ]
-    }, 
-    "Session:42birds: Hitchhiker's Towel-Yoga# 50273237ab00c480b2dc3965568ab638": {
+    "Session:42birds: Hitchhiker's Towel-Yoga# 678e8b6dfdeaf81bc7a210c2009e17f8": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -792,22 +756,30 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
+            "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
         ], 
         "Has session type": [
             "Hands-On"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Hitchhiker's Towel-Yoga"
         ], 
@@ -825,6 +797,66 @@
             {
                 "timestamp": "1546082100", 
                 "raw": "1/2018/12/29/11/15/0/0"
+            }
+        ]
+    }, 
+    "Session:42birds: Hitchhiker's Towel-Yoga# ad898a1119a6ec7c725f2fb020417f1f": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546164900", 
+                "raw": "1/2018/12/30/10/15/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "!!!Now in Lecture room M3!!! We'll do some Yoga to calm our minds and move them bodies. Bring along comfortable clothes \u2013 and a towel to lie on ;-)"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "42birds: Hitchhiker's Towel-Yoga"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "5bcac53d-4417-4bbb-9c4a-d02103f8705b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Hitchhiker%27s_Towel-Yoga", 
+        "Has end time": [
+            {
+                "timestamp": "1546168500", 
+                "raw": "1/2018/12/30/11/15/0/0"
             }
         ]
     }, 
@@ -861,7 +893,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Nerd Game Show"
         ], 
@@ -913,7 +953,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Powerful Writing? It\u2019s Easy If You Do It Smart."
         ], 
@@ -967,7 +1015,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Birdy1976", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "42birds: Your First Steps with WebExtensions"
         ], 
@@ -16937,7 +16993,7 @@
             }
         ]
     }, 
-    "Session:OWASP meetup# a80feacd80a26810dc90dcf839114af1": {
+    "Session:OWASP meetup# 41d3d196d69de84c9b7cfec62083bcbb": {
         "Held in language": [
             "en - English"
         ], 
@@ -16969,7 +17025,7 @@
             }
         ], 
         "Has subtitle": [
-            "0xJOIN 0XUS00"
+            "0xJOIN 0XUS00 (M3 already reserved for AcroYoga)"
         ], 
         "Is organized by": [
             {
@@ -17278,42 +17334,6 @@
                 "raw": "1/2018/12/29/18/0/0/0"
             }
         ]
-    }, 
-    "Session:Open science# 4f146ce71c54aadf727a2f9ea08b0aa8": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1543708800", 
-                "raw": "1/2018/12/2"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "After several sessions on #OpenScience and related topics we want to get together to get to know each other and discuss further"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Open science"
-        ], 
-        "Has duration": [], 
-        "GUID": [
-            "99450e68-76b0-49f5-8b0c-545d329a60ab"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_science", 
-        "Has end time": []
     }, 
     "Session:Open science# da94063726952a93918f851169e0cebe": {
         "Held in language": [
