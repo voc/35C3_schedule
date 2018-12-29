@@ -19797,15 +19797,15 @@
             }
         ]
     }, 
-    "Session:Quit Google - avoid using google services# 34bdd16e316a4cba3a80ec49e1d5a8c5": {
+    "Session:Quit Google - avoid using google services# c0dfcfb2cec81c0ec87afb5d8f0a2996": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546095600", 
-                "raw": "1/2018/12/29/15/0/0/0"
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
             }
         ], 
         "Has event track": [
@@ -19818,36 +19818,21 @@
         "Has session type": [
             "Talk"
         ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
+        "Has session location": [], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "Quit Google - avoid using google services"
         ], 
-        "Has duration": [
-            30
-        ], 
+        "Has duration": [], 
         "GUID": [
-            "14f99a12-e996-4416-bd9e-b2be81f19d43"
+            "a2a6aa6a-41d2-4de1-bb4e-df244e7a3801"
         ], 
         "Has color": [
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Quit_Google_-_avoid_using_google_services", 
-        "Has end time": [
-            {
-                "timestamp": "1546097400", 
-                "raw": "1/2018/12/29/15/30/0/0"
-            }
-        ]
+        "Has end time": []
     }, 
     "Session:R5# bd912308b87ab2ae01a44919e3aedf67": {
         "Held in language": [
