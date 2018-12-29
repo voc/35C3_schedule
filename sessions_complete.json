@@ -17279,6 +17279,95 @@
             }
         ]
     }, 
+    "Session:Open science# 4f146ce71c54aadf727a2f9ea08b0aa8": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "After several sessions on #OpenScience and related topics we want to get together to get to know each other and discuss further"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open science"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "99450e68-76b0-49f5-8b0c-545d329a60ab"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_science", 
+        "Has end time": []
+    }, 
+    "Session:Open science# da94063726952a93918f851169e0cebe": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546111800", 
+                "raw": "1/2018/12/29/19/30/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "After several sessions on #OpenScience and related topics we want to get together to get to know each other and discuss further"
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:WikiPakaWG", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:WikiPakaWG", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "extended discussion on #fakescience #predatoryjournals #openaccess and such"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Open science"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "741311ae-84ec-4e81-a28d-4e4194a06e41"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Open_science", 
+        "Has end time": [
+            {
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
+            }
+        ]
+    }, 
     "Session:Open source Lasercutter# 01b85329e39fc4bbb834c09a5bd7578c": {
         "Held in language": [
             "en - English"
