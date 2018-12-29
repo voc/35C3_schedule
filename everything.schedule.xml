@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mac Gyver 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 18:00</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 18:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15781,7 +15781,6 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203">PDF slides</attachment>
-          <attachment href="/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203">OpenDocument slides with speaker notes</attachment>
         </attachments>
       </event>
       <event id="9783" guid="94447a62-a3ba-4f6d-a3b7-b5318a954651">
@@ -17277,7 +17276,9 @@ The goal of the experience is to empower its users, and create a heightened appr
           <link href="http://infiniteobserver.com">Infinite Observer Project Page</link>
           <link href="http://thegladscientist.info">The Glad Scientist</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/706/original/CCC.pdf?1546098678">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="9882" guid="51bb6adc-c0e7-4675-8f93-cf0e2dbd9587">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9882.html</url>
@@ -23433,8 +23434,8 @@ Freifunk since 2003</biography>
       </event>
       <event id="1472" guid="f5202efb-2199-4004-928e-e827a9742449">
         <logo/>
-        <date>2018-12-29T17:00:00+01:00</date>
-        <start>17:00</start>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
         <duration>1:00</duration>
         <room>Assembly:Critical Decentralisation Cluster</room>
         <slug>35c3-1472-session_private_key_management_with_a_hardware_wallet_</slug>
@@ -23525,6 +23526,25 @@ Freifunk since 2003</biography>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons</link>
+        </links>
+      </event>
+      <event id="1523" guid="fea26877-7a1f-452a-8d39-a1697ca9b20a">
+        <logo/>
+        <date>2018-12-29T21:45:00+01:00</date>
+        <start>21:45</start>
+        <duration>0:15</duration>
+        <room>Assembly:Critical Decentralisation Cluster</room>
+        <slug>35c3-1523-session_towards_a_fair_data_society</slug>
+        <title>Towards a Fair Data Society</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>The talk will present Fair Data Society initiative and give an overview of the protocol with a call-to-action to build projects in an ethical way on fair data principles.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Towards_a_Fair_Data_Society</link>
         </links>
       </event>
       <event id="1474" guid="180dd218-7b9c-4277-acb7-b89daa45b14a">
@@ -25914,27 +25934,6 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
-        </links>
-      </event>
-      <event id="1411" guid="98de360b-4b87-4cf4-af77-f5cff299aa5c">
-        <logo/>
-        <date>2018-12-30T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>1:30</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1411-session_werwolf</slug>
-        <title>Werwolf</title>
-        <subtitle>Come and play Werwolf</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Playing Werwolf together</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>

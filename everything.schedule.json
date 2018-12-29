@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mac Gyver 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 18:00", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 18:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -16701,10 +16701,6 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203", 
                                         "title": "PDF slides"
-                                    }, 
-                                    {
-                                        "url": "/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203", 
-                                        "title": "OpenDocument slides with speaker notes"
                                     }
                                 ]
                             }, 
@@ -18421,7 +18417,12 @@
                                         "title": "The Glad Scientist"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/706/original/CCC.pdf?1546098678", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9882.html", 
@@ -24863,8 +24864,8 @@
                                 "id": 1472, 
                                 "guid": "f5202efb-2199-4004-928e-e827a9742449", 
                                 "logo": null, 
-                                "date": "2018-12-29T17:00:00+01:00", 
-                                "start": "17:00", 
+                                "date": "2018-12-29T19:00:00+01:00", 
+                                "start": "19:00", 
                                 "duration": "1:00", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
                                 "slug": "35c3-1472-session_private_key_management_with_a_hardware_wallet_", 
@@ -24963,6 +24964,27 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:The_Advent_of_Digital_Persons"
+                                ]
+                            }, 
+                            {
+                                "id": 1523, 
+                                "guid": "fea26877-7a1f-452a-8d39-a1697ca9b20a", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:45:00+01:00", 
+                                "start": "21:45", 
+                                "duration": "0:15", 
+                                "room": "Assembly:Critical Decentralisation Cluster", 
+                                "slug": "35c3-1523-session_towards_a_fair_data_society", 
+                                "title": "Towards a Fair Data Society", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The talk will present Fair Data Society initiative and give an overview of the protocol with a call-to-action to build projects in an ethical way on fair data principles.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Towards_a_Fair_Data_Society"
                                 ]
                             }, 
                             {
@@ -27697,33 +27719,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda"
-                                ]
-                            }, 
-                            {
-                                "id": 1411, 
-                                "guid": "98de360b-4b87-4cf4-af77-f5cff299aa5c", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:30:00+01:00", 
-                                "start": "12:30", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1411-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "Come and play Werwolf", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ], 

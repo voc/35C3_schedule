@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 18:00", 
+        "version": "2018-12-29 18:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -6570,33 +6570,6 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda"
-                                ]
-                            }, 
-                            {
-                                "id": 1411, 
-                                "guid": "98de360b-4b87-4cf4-af77-f5cff299aa5c", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:30:00+01:00", 
-                                "start": "12:30", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 13", 
-                                "slug": "35c3-1411-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "Come and play Werwolf", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ]

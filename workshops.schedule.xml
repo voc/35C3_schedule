@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 18:00</version>
+  <version>2018-12-29 18:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -5559,27 +5559,6 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
-        </links>
-      </event>
-      <event id="1411" guid="98de360b-4b87-4cf4-af77-f5cff299aa5c">
-        <logo/>
-        <date>2018-12-30T12:30:00+01:00</date>
-        <start>12:30</start>
-        <duration>1:30</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1411-session_werwolf</slug>
-        <title>Werwolf</title>
-        <subtitle>Come and play Werwolf</subtitle>
-        <track>self organized sessions</track>
-        <type/>
-        <language>de</language>
-        <abstract/>
-        <description>Playing Werwolf together</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti">Hetti</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf</link>
         </links>
       </event>
     </room>

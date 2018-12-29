@@ -20136,14 +20136,14 @@
             }
         ]
     }, 
-    "Session:Private Key management with a hardware wallet.# d47e6200dafa593ce708274eeb5f1556": {
+    "Session:Private Key management with a hardware wallet.# 529f472052a9a33ad32835295714b9e6": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
+                "timestamp": "1546110000", 
+                "raw": "1/2018/12/29/19/0/0/0"
             }
         ], 
         "Has event track": [
@@ -20182,8 +20182,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Private_Key_management_with_a_hardware_wallet.", 
         "Has end time": [
             {
-                "timestamp": "1546106400", 
-                "raw": "1/2018/12/29/18/0/0/0"
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
             }
         ]
     }, 
@@ -25432,6 +25432,55 @@
             }
         ]
     }, 
+    "Session:Towards a Fair Data Society# 89621a1739ddf0b4aed146c8a95eae37": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546119900", 
+                "raw": "1/2018/12/29/21/45/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The talk will present Fair Data Society initiative and give an overview of the protocol with a call-to-action to build projects in an ethical way on fair data principles."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Towards a Fair Data Society"
+        ], 
+        "Has duration": [
+            15
+        ], 
+        "GUID": [
+            "fea26877-7a1f-452a-8d39-a1697ca9b20a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Towards_a_Fair_Data_Society", 
+        "Has end time": [
+            {
+                "timestamp": "1546120800", 
+                "raw": "1/2018/12/29/22/0/0/0"
+            }
+        ]
+    }, 
     "Session:Translation second channel# 647eef1d256b934dc2c59ea5ae0a30ab": {
         "Held in language": [], 
         "Has start time": [
@@ -27318,66 +27367,6 @@
             {
                 "timestamp": "1546102800", 
                 "raw": "1/2018/12/29/17/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# 0ce6c4e49e3f5f135896896f64925f9d": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546173000", 
-                "raw": "1/2018/12/30/12/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Come and play Werwolf"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "98de360b-4b87-4cf4-af77-f5cff299aa5c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1546178400", 
-                "raw": "1/2018/12/30/14/0/0/0"
             }
         ]
     }

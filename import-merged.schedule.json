@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Mac Gyver 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.2 20181229_0237 1.2.1", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -10502,10 +10502,6 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203", 
                                         "title": "PDF slides"
-                                    }, 
-                                    {
-                                        "url": "/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203", 
-                                        "title": "OpenDocument slides with speaker notes"
                                     }
                                 ]
                             }, 
@@ -12222,7 +12218,12 @@
                                         "title": "The Glad Scientist"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/706/original/CCC.pdf?1546098678", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9882.html", 
