@@ -20413,14 +20413,14 @@
             }
         ]
     }, 
-    "Session:SUSI.AI: An Open Source Platform for Conversational Web# 07935b6ff00fda07c35a9935bf972ce5": {
+    "Session:SUSI.AI: An Open Source Platform for Conversational Web# e1c5d2a7ba24247f21ce8536cb574a0a": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546086600", 
-                "raw": "1/2018/12/29/12/30/0/0"
+                "timestamp": "1546088400", 
+                "raw": "1/2018/12/29/13/0/0/0"
             }
         ], 
         "Has event track": [
@@ -20430,7 +20430,7 @@
             "https://chat.susi.ai/"
         ], 
         "Has description": [
-            "SUSI.AI - an open source conversational framework developed by FOSSASIA"
+            "This talk is about SUSI.AI - an open source conversational framework developed by FOSSASIA developer community. The session will begin with a landscape of the world\u2019s voice interfaces; follow by an introduction to current development of SUSI project including the overview of SUSI\u2019s technology stack and the recent released hardware prototype; and end with a short demo on how to create a SUSI skill. A skill is an ability that allows a user to communicate with a device and demand it to perform an action by speaking a command."
         ], 
         "Has session type": [
             "Talk"
@@ -20461,8 +20461,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSI.AI:_An_Open_Source_Platform_for_Conversational_Web", 
         "Has end time": [
             {
-                "timestamp": "1546088100", 
-                "raw": "1/2018/12/29/12/55/0/0"
+                "timestamp": "1546089900", 
+                "raw": "1/2018/12/29/13/25/0/0"
             }
         ]
     }, 

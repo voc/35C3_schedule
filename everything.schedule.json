@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.0 2018-12-29 10:50", 
+        "version": "Love Boat 3.1 2.0 v2.7 1.3 MemoryRefreshV1.2 1.2.0 2018-12-29 11:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -23374,8 +23374,8 @@
                                 "id": 1463, 
                                 "guid": "e226f719-e38f-412b-8e64-92c21d255401", 
                                 "logo": null, 
-                                "date": "2018-12-29T12:30:00+01:00", 
-                                "start": "12:30", 
+                                "date": "2018-12-29T13:00:00+01:00", 
+                                "start": "13:00", 
                                 "duration": "0:25", 
                                 "room": "Assembly:Critical Decentralisation Cluster", 
                                 "slug": "35c3-1463-session_susi_ai_an_open_source_platform_for_conversational_web", 
@@ -23385,7 +23385,7 @@
                                 "type": "talk", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "SUSI.AI - an open source conversational framework developed by FOSSASIA", 
+                                "description": "This talk is about SUSI.AI - an open source conversational framework developed by FOSSASIA developer community. The session will begin with a landscape of the world\u2019s voice interfaces; follow by an introduction to current development of SUSI project including the overview of SUSI\u2019s technology stack and the recent released hardware prototype; and end with a short demo on how to create a SUSI skill. A skill is an ability that allows a user to communicate with a device and demand it to perform an action by speaking a command.", 
                                 "persons": [], 
                                 "links": [
                                     "https://chat.susi.ai/", 
