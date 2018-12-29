@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 18:20</version>
+  <version>2018-12-29 18:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -2182,25 +2182,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons</link>
         </links>
       </event>
-      <event id="1222" guid="6bd84d31-2eba-420a-a35f-cfcdade2467b">
-        <logo/>
-        <date>2018-12-28T18:30:00+01:00</date>
-        <start>18:30</start>
-        <duration>1:00</duration>
-        <room>Kidspace</room>
-        <slug>35c3-1222-session_we_record_1_trapsong_autotune4kids_</slug>
-        <title>We record 1 Trapsong (Autotune4Kids)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description>In der Zeit die wir zur Verfügung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, überlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits &amp; Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 &amp; Thigh Gap Boi &amp;&amp;&amp;)</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)</link>
-        </links>
-      </event>
     </room>
     <room name="Lecture room M1">
       <event id="1018" guid="597b51b4-9b68-49e5-9e11-6e45701654e4">
@@ -4053,25 +4034,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots</link>
         </links>
       </event>
-      <event id="1221" guid="c8ea0ed2-fcea-4e93-8285-e53f436fd311">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>1:00</duration>
-        <room>Kidspace</room>
-        <slug>35c3-1221-session_we_record_1_trapsong_autotune4kids_</slug>
-        <title>We record 1 Trapsong (Autotune4Kids)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description>In der Zeit die wir zur Verfügung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, überlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits &amp; Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 &amp; Thigh Gap Boi &amp;&amp;&amp;)</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)</link>
-        </links>
-      </event>
     </room>
     <room name="Lecture room M1">
       <event id="1244" guid="f60a4ce8-bf79-4b40-a01a-1661188399b0">
@@ -4260,25 +4222,6 @@
         <links>
           <link>https://www.nongnu.org/dkgpg/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG</link>
-        </links>
-      </event>
-      <event id="1424" guid="58d9b46d-bdc5-4e7e-b56d-25bc7432256b">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:00</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1424-session_ways_of_talking_about_iot_for_cryptoparties</slug>
-        <title>Ways of Talking about IoT for CryptoParties</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type/>
-        <language>en</language>
-        <abstract/>
-        <description>A facilitated conversation on IoT for people involved in the CryptoParty community. The current IoT landscape presents many security and privacy issues, plus most of the projects currently on the market are inseparable from major corporations who make their money from data harvesting. Alternatively, there are self-made alternatives and self-hosting, but are there inherent concerns to the expanding network of connected sensors? How do we balance possible benefits of IoT, the inevitability of this technology, and our desires for a freer and more compassionate future?</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ways_of_Talking_about_IoT_for_CryptoParties</link>
         </links>
       </event>
     </room>
@@ -5326,6 +5269,28 @@
       </event>
     </room>
     <room name="Lecture room M1">
+      <event id="1524" guid="42f2da51-7660-40c2-ae48-bea7b5cdcf6f">
+        <logo/>
+        <date>2018-12-30T10:55:00+01:00</date>
+        <start>10:55</start>
+        <duration>2:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1524-session_12_characters_in_search_of_an_apocalypse_gathering_and_reading</slug>
+        <title>12 Characters in search of an apocalypse - gathering and reading</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>We read how the 12 Character see climate change and discuss what comes up in us.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann">Niccokunzmann</person>
+        </persons>
+        <links>
+          <link>https://12characters.org.uk/</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading</link>
+        </links>
+      </event>
       <event id="1036" guid="a9d3f65b-e8d9-4247-9a6d-2bf1378af432">
         <logo/>
         <date>2018-12-30T15:10:00+01:00</date>
@@ -5559,6 +5524,26 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
+        </links>
+      </event>
+      <event id="1526" guid="1fa2ce86-ab67-46d0-8a4f-18065cfa654b">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1526-session_paedagog_innen_denunzieren_oder_wie_die_afd_neutralitaet_mit_kontroversitaet_verwechselte_</slug>
+        <title>Pädagog*innen denunzieren – oder wie die AfD Neutralität mit Kontroversität verwechselte.</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>de</language>
+        <abstract/>
+        <description>Gesprächsrunde über die aktuellen Denunzierungsseiten der AfD.</description>
+        <persons/>
+        <links>
+          <link>http://www.krile-dresden.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:P%C3%A4dagog*innen_denunzieren_%E2%80%93_oder_wie_die_AfD_Neutralit%C3%A4t_mit_Kontroversit%C3%A4t_verwechselte.</link>
         </links>
       </event>
     </room>

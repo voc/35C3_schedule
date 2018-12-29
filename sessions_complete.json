@@ -554,6 +554,67 @@
             }
         ]
     }, 
+    "Session:12 Characters in search of an apocalypse - gathering and reading# e0687a61c84bbe57c6c5ab83daec93dd": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546167300", 
+                "raw": "1/2018/12/30/10/55/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://12characters.org.uk/"
+        ], 
+        "Has description": [
+            "We read how the 12 Character see climate change and discuss what comes up in us."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Niccokunzmann", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "12 Characters in search of an apocalypse - gathering and reading"
+        ], 
+        "Has duration": [
+            120
+        ], 
+        "GUID": [
+            "42f2da51-7660-40c2-ae48-bea7b5cdcf6f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading", 
+        "Has end time": [
+            {
+                "timestamp": "1546174500", 
+                "raw": "1/2018/12/30/12/55/0/0"
+            }
+        ]
+    }, 
     "Session:3D Modeling with Blender for Beginners# 5715fc9b72b9ea1540ef7a28e06133a9": {
         "Held in language": [
             "bg - Bulgarian", 
@@ -10968,6 +11029,53 @@
             }
         ]
     }, 
+    "Session:Flunkyball Day 3# b87b1e244b505079ae61dd1d19435f1e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546113900", 
+                "raw": "1/2018/12/29/20/5/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "We're going to play some rounds of the german drinking game \"Flunkyball\" right outside the main entrance"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 3"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Flunkyball Day 3"
+        ], 
+        "Has duration": [
+            40
+        ], 
+        "GUID": [
+            "0470c8c8-c9ac-4e87-ab9f-8a3937317df6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_3", 
+        "Has end time": [
+            {
+                "timestamp": "1546116300", 
+                "raw": "1/2018/12/29/20/45/0/0"
+            }
+        ]
+    }, 
     "Session:Follow-up meeting to the Netzpolitik in der Schweiz talk# 065b4243472c37f03d871c2673050497": {
         "Held in language": [], 
         "Has start time": [
@@ -20353,6 +20461,59 @@
             }
         ]
     }, 
+    "Session:P\u00e4dagog*innen denunzieren \u2013 oder wie die AfD Neutralit\u00e4t mit Kontroversit\u00e4t verwechselte.# d8a0f608bc44e395a06a02124b18677d": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.krile-dresden.org"
+        ], 
+        "Has description": [
+            "Gespr\u00e4chsrunde \u00fcber die aktuellen Denunzierungsseiten der AfD."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "P\u00e4dagog*innen denunzieren \u2013 oder wie die AfD Neutralit\u00e4t mit Kontroversit\u00e4t verwechselte."
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "1fa2ce86-ab67-46d0-8a4f-18065cfa654b"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:P%C3%A4dagog*innen_denunzieren_%E2%80%93_oder_wie_die_AfD_Neutralit%C3%A4t_mit_Kontroversit%C3%A4t_verwechselte.", 
+        "Has end time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:QueerFeministGeeks - MeetUp# 9e543dc4514e1c764a73f5744e88f43d": {
         "Held in language": [
             "en - English"
@@ -27220,153 +27381,6 @@
             {
                 "timestamp": "1546004700", 
                 "raw": "1/2018/12/28/13/45/0/0"
-            }
-        ]
-    }, 
-    "Session:Ways of Talking about IoT for CryptoParties# 69609cfd44082ac3c71cd32fd197895c": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "A facilitated conversation on IoT for people involved in the CryptoParty community. The current IoT landscape presents many security and privacy issues, plus most of the projects currently on the market are inseparable from major corporations who make their money from data harvesting. Alternatively, there are self-made alternatives and self-hosting, but are there inherent concerns to the expanding network of connected sensors? How do we balance possible benefits of IoT, the inevitability of this technology, and our desires for a freer and more compassionate future?"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Ways of Talking about IoT for CryptoParties"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "58d9b46d-bdc5-4e7e-b56d-25bc7432256b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ways_of_Talking_about_IoT_for_CryptoParties", 
-        "Has end time": [
-            {
-                "timestamp": "1546088400", 
-                "raw": "1/2018/12/29/13/0/0/0"
-            }
-        ]
-    }, 
-    "Session:We record 1 Trapsong (Autotune4Kids)# cf20177ed54ca78f3ae1b8073b8b523b": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546021800", 
-                "raw": "1/2018/12/28/18/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "We record 1 Trapsong (Autotune4Kids)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "6bd84d31-2eba-420a-a35f-cfcdade2467b"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)", 
-        "Has end time": [
-            {
-                "timestamp": "1546025400", 
-                "raw": "1/2018/12/28/19/30/0/0"
-            }
-        ]
-    }, 
-    "Session:We record 1 Trapsong (Autotune4Kids)# dc980e86a57928cc97103c3a1a327e58": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546099200", 
-                "raw": "1/2018/12/29/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Kidspace", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "We record 1 Trapsong (Autotune4Kids)"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "c8ea0ed2-fcea-4e93-8285-e53f436fd311"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)", 
-        "Has end time": [
-            {
-                "timestamp": "1546102800", 
-                "raw": "1/2018/12/29/17/0/0/0"
             }
         ]
     }

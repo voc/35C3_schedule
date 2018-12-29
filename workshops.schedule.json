@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 18:20", 
+        "version": "2018-12-29 18:40", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2582,27 +2582,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tetrapix_-_Lichterkunst_mit_Saftkartons"
                                 ]
-                            }, 
-                            {
-                                "id": 1222, 
-                                "guid": "6bd84d31-2eba-420a-a35f-cfcdade2467b", 
-                                "logo": null, 
-                                "date": "2018-12-28T18:30:00+01:00", 
-                                "start": "18:30", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1222-session_we_record_1_trapsong_autotune4kids_", 
-                                "title": "We record 1 Trapsong (Autotune4Kids)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)"
-                                ]
                             }
                         ], 
                         "Lecture room M1": [
@@ -4789,27 +4768,6 @@
                                     "https://www.tinkerbots.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tinkerbots"
                                 ]
-                            }, 
-                            {
-                                "id": 1221, 
-                                "guid": "c8ea0ed2-fcea-4e93-8285-e53f436fd311", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "1:00", 
-                                "room": "Kidspace", 
-                                "slug": "35c3-1221-session_we_record_1_trapsong_autotune4kids_", 
-                                "title": "We record 1 Trapsong (Autotune4Kids)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "In der Zeit die wir zur Verf\u00fcgung haben, versuchen wir 1 Song aufzunehmen. Wir lernen mit dem Mikrofon umzugehen, \u00fcberlegen uns einen Rap-Aka und recorden 1 kleinen Song. Thema: Fresh Fruits & Superheroes. Mit Schmutzige Teenager (Yung Poltergeist 2 & Thigh Gap Boi &&&)", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:We_record_1_Trapsong_(Autotune4Kids)"
-                                ]
                             }
                         ], 
                         "Lecture room M1": [
@@ -5041,27 +4999,6 @@
                                 "links": [
                                     "https://www.nongnu.org/dkgpg/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG"
-                                ]
-                            }, 
-                            {
-                                "id": 1424, 
-                                "guid": "58d9b46d-bdc5-4e7e-b56d-25bc7432256b", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M1", 
-                                "slug": "35c3-1424-session_ways_of_talking_about_iot_for_cryptoparties", 
-                                "title": "Ways of Talking about IoT for CryptoParties", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "A facilitated conversation on IoT for people involved in the CryptoParty community. The current IoT landscape presents many security and privacy issues, plus most of the projects currently on the market are inseparable from major corporations who make their money from data harvesting. Alternatively, there are self-made alternatives and self-hosting, but are there inherent concerns to the expanding network of connected sensors? How do we balance possible benefits of IoT, the inevitability of this technology, and our desires for a freer and more compassionate future?", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ways_of_Talking_about_IoT_for_CryptoParties"
                                 ]
                             }
                         ], 
@@ -6296,6 +6233,34 @@
                         ], 
                         "Lecture room M1": [
                             {
+                                "id": 1524, 
+                                "guid": "42f2da51-7660-40c2-ae48-bea7b5cdcf6f", 
+                                "logo": null, 
+                                "date": "2018-12-30T10:55:00+01:00", 
+                                "start": "10:55", 
+                                "duration": "2:00", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1524-session_12_characters_in_search_of_an_apocalypse_gathering_and_reading", 
+                                "title": "12 Characters in search of an apocalypse - gathering and reading", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We read how the 12 Character see climate change and discuss what comes up in us.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://12characters.org.uk/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:12_Characters_in_search_of_an_apocalypse_-_gathering_and_reading"
+                                ]
+                            }, 
+                            {
                                 "id": 1036, 
                                 "guid": "a9d3f65b-e8d9-4247-9a6d-2bf1378af432", 
                                 "logo": null, 
@@ -6570,6 +6535,28 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda"
+                                ]
+                            }, 
+                            {
+                                "id": 1526, 
+                                "guid": "1fa2ce86-ab67-46d0-8a4f-18065cfa654b", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1526-session_paedagog_innen_denunzieren_oder_wie_die_afd_neutralitaet_mit_kontroversitaet_verwechselte_", 
+                                "title": "P\u00e4dagog*innen denunzieren \u2013 oder wie die AfD Neutralit\u00e4t mit Kontroversit\u00e4t verwechselte.", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Gespr\u00e4chsrunde \u00fcber die aktuellen Denunzierungsseiten der AfD.", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.krile-dresden.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:P%C3%A4dagog*innen_denunzieren_%E2%80%93_oder_wie_die_AfD_Neutralit%C3%A4t_mit_Kontroversit%C3%A4t_verwechselte."
                                 ]
                             }
                         ]
