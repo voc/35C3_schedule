@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 23:40</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 00:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -25828,6 +25828,26 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale</link>
         </links>
       </event>
+      <event id="1536" guid="a674ae61-996f-477a-b2e0-d65d278fc805">
+        <logo/>
+        <date>2018-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>0:10</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1536-session_faqin_congress_presentation</slug>
+        <title>FAQin congress presentation</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>en</language>
+        <abstract/>
+        <description>We will present FAQin congress and its CTF to anyone willing to get some nice time in March in Madrid</description>
+        <persons/>
+        <links>
+          <link>http://ctf.faqin.org</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FAQin_congress_presentation</link>
+        </links>
+      </event>
     </room>
     <room name="Lecture room M2">
       <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">
@@ -28193,25 +28213,6 @@ Wir freuen uns auf Dich und Dein Input!</description>
         <links>
           <link>https://pslab.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Pocket_Science_Lab_Workshop:_Making_science_experiment_with_open_source_hardware</link>
-        </links>
-      </event>
-      <event id="1474" guid="180dd218-7b9c-4277-acb7-b89daa45b14a">
-        <logo/>
-        <date>2018-12-30T14:30:00+01:00</date>
-        <start>14:30</start>
-        <duration>0:30</duration>
-        <room>Assembly:Critical Decentralisation Cluster</room>
-        <slug>35c3-1474-session_user_testing_the_post_tor_katzenpost_mix_network</slug>
-        <title>User-testing the post-Tor Katzenpost mix-network</title>
-        <subtitle>Can you get it working on your laptop or phone?</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>Can you get it working on your laptop or phone?</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network</link>
         </links>
       </event>
     </room>

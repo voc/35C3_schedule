@@ -9262,6 +9262,57 @@
             }
         ]
     }, 
+    "Session:FAQin congress presentation# a1431fb8f10d1823cfc56db83d3a7558": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://ctf.faqin.org"
+        ], 
+        "Has description": [
+            "We will present FAQin congress and its CTF to anyone willing to get some nice time in March in Madrid"
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "FAQin congress presentation"
+        ], 
+        "Has duration": [
+            10
+        ], 
+        "GUID": [
+            "a674ae61-996f-477a-b2e0-d65d278fc805"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:FAQin_congress_presentation", 
+        "Has end time": [
+            {
+                "timestamp": "1546182600", 
+                "raw": "1/2018/12/30/15/10/0/0"
+            }
+        ]
+    }, 
     "Session:Face detection : how to camouflage in public space ?# 19bd33f8b4656d7af7e38027bd394838": {
         "Held in language": [
             "en - English"
@@ -27346,59 +27397,6 @@
             {
                 "timestamp": "1546084800", 
                 "raw": "1/2018/12/29/12/0/0/0"
-            }
-        ]
-    }, 
-    "Session:User-testing the post-Tor Katzenpost mix-network# 8063bc5348eb9c29ee487c2419a5c408": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546180200", 
-                "raw": "1/2018/12/30/14/30/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Can you get it working on your laptop or phone?"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Critical Decentralisation Cluster", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Can you get it working on your laptop or phone?"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "User-testing the post-Tor Katzenpost mix-network"
-        ], 
-        "Has duration": [
-            30
-        ], 
-        "GUID": [
-            "180dd218-7b9c-4277-acb7-b89daa45b14a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:User-testing_the_post-Tor_Katzenpost_mix-network", 
-        "Has end time": [
-            {
-                "timestamp": "1546182000", 
-                "raw": "1/2018/12/30/15/0/0/0"
             }
         ]
     }

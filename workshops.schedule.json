@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 23:40", 
+        "version": "2018-12-30 00:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -6238,6 +6238,28 @@
                                 "links": [
                                     "https://xrebellion.org/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale"
+                                ]
+                            }, 
+                            {
+                                "id": 1536, 
+                                "guid": "a674ae61-996f-477a-b2e0-d65d278fc805", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "0:10", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1536-session_faqin_congress_presentation", 
+                                "title": "FAQin congress presentation", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "We will present FAQin congress and its CTF to anyone willing to get some nice time in March in Madrid", 
+                                "persons": [], 
+                                "links": [
+                                    "http://ctf.faqin.org", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:FAQin_congress_presentation"
                                 ]
                             }
                         ], 
