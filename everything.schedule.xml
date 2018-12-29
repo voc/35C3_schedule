@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 29.12 00:34 1.2.0 2018-12-29 02:20</version>
+  <version>Love Boat 3.1 2.0 v2.6 1.3 MemoryRefreshV1.2 20181229_0237 1.2.0 2018-12-29 02:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18493,6 +18493,27 @@ However, it's not always easy...</description>
       </event>
     </room>
     <room name="Lecture room M2">
+      <event id="1493" guid="711999af-b8c5-435a-9580-973ebd00bfd1">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>1:30</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1493-session_python_programming_for_absolute_beginners</slug>
+        <title>(Python) Programming for Absolute Beginners</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>In this workshop, addressed at (absolute) beginners, you will get your feet wet in (Python) programming. Don't worry, everyone who wants to have a (first?) look at programming is welcome independently of their skills or background!</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Ingo">Ingo</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:(Python)_Programming_for_Absolute_Beginners</link>
+        </links>
+      </event>
       <event id="1017" guid="a389345e-a14c-4823-8ec6-3d07dd6037de">
         <logo/>
         <date>2018-12-29T21:00:00+01:00</date>
@@ -22665,34 +22686,28 @@ This will be a talk introducing the network and will be followed by a related di
         <attachments/>
         <answers/>
       </event>
-      <event id="855" guid="5c6e3239-23de-5de5-9372-c2e3c3b04417">
+      <event id="822" guid="74bd75db-44a0-5ccf-835c-f82c530a017d">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>02:00</duration>
+        <duration>01:30</duration>
         <room>Komona Kuppel 3 #talks</room>
-        <slug>GRYS3Q</slug>
-        <url>https://talks.komona.org/35c3/talk/GRYS3Q</url>
-        <title>How to produce a Demo-Rave</title>
+        <slug>9GRP88</slug>
+        <url>https://talks.komona.org/35c3/talk/9GRP88</url>
+        <title>Community Management online und offline</title>
         <subtitle/>
         <track/>
         <type>Slot</type>
-        <language>en</language>
-        <abstract>What is the combination between a Demo and a Rave? A Demo Rave. How does it work? What is needed to produce such a thing? What is important do know, from experience? This workshop is for all that want to bring resistant life, dancing and music to the streets and protest for something that is worth fighting for.</abstract>
-        <description>Wer einem Aufruf zu einer Demo folgt, verspürt einen inneren Auftrag, seine Haltung und Werte auf die Straße zu tragen. Und das ist gut so. &#13;
-&#13;
-Wer in letzter Zeit bei #afdwegbassen und anderen Rave-Demos war, hat sich dabei vllt. auch schonmal die Frage gestellt, wie sich das eigentlich alles organisiert an so einem Tag. Was ist zu beachten bei der Orga einer Rave-Demo?  Was muss ich wissen und können, damit das alles gut klappt und für alle beteiligten Menschen sicher und freudig und sinnig bleibt? &#13;
-&#13;
-Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn es heißt "oder macht euer eigenes Ding"? &#13;
-&#13;
-&amp; produzieren ein (Digital-)Dokoment was wir mit anderen teilen und um (Erfahrungs-)Wissen erweitern können."</description>
+        <language>de</language>
+        <abstract>Was wir aus 16 Jahren Restrealitaet für die Organisation von Communities im Internet und im RealLife lernen können.</abstract>
+        <description>Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Subkultur. Die RR existiert seit Februar 2003 und wurde seitdem von der so genannten "Heimleitung" (lange bestehend aus sechs Personen) ehrenamtlich betreut. Es gibt rund 40.000 registrierte User, von denen ca. 3.000 derzeit noch regelmäßig die RR besuchen. Die Kommunikation in der RR läuft anonym über Avatare mit Pseudonymen. Trotzdem haben sich viele der Nutzer*innen über die Jahre im RealLife kennen und lieben - aber leider auch manchmal hassen - gelernt. Dies führt einerseits zu ganz tollen Dingen, wie z.B. eine immer verlässliche Nachbarschaftshilfe, kompetente Beratung in (fast) allen Lebenslagen, langjährige Freundschaften bis hin zu Familiengründungen und noch so vieles mehr. Aber neben all diesen wunderschönen Sachen gibt es bei einer so großen Gemeinschaft mit einem gewissen Hang zu Grenzerfahrungen natürlich auch hin und wieder eine dunkle Schattenseite. Es entstehen Probleme, die sich bei der Gründung der RR niemand auch nur annähernd vorstellen konnte. Anfangs gab es in der RR sprichwörtlich keine Regeln. Aber schon bald mussten zumindest rudimentäre RRegeln postuliert werden, die aber eigentlich nur selbstverständliche Umgangsformen umschreiben. Nur äußerst selten werden User*innen aufgrund dieser RRegeln verwarnt, bzw. temporär oder sogar dauerhaft ausgeschlossen. Die Selbstregulierung des Forums hat, dank der Mithilfe aller User*innen, jahrelang wunderbar funktioniert. Anders wäre der völlig unkommerzielle Betrieb der RR über einen so langen Zeitraum auch gar nicht möglich gewesen. Es gab Phasen, in denen der alltägliche Betreuungsaufwand für die Heimleitung minimal war. Aber leider kam es dann auch immer wieder zu so problematischen Situationen, dass der Umgang mit diesen selbst für ein gut funktionierendes und eingeschworenen Team kaum mehr zu bewältigen war. 2015 wurde deswegen der "RRat" gegründet, der aus rund zehn Personen besteht und als eine Art Schiedsstelle die Heimleitung bei der alltäglichen Moderation des Forums - aber vor allem auch in schwierigen Situationen - tatkräftig und moralisch unterstützt. Die RR ist nach wie vor ein offenes Experiment, das niemanden ausschließen und alternative Lebensweisen erkunden möchte. Deswegen freuen wir uns sehr auf einen Ideen- und Erfahrungsaustausch mit allen anderen Kollektiven, Projekten und Kreaturen beim 35C3.</description>
         <recording>
           <license/>
-          <optout>false</optout>
+          <optout>true</optout>
         </recording>
         <persons>
-          <person id="48">
-            <name>Leon</name>
+          <person id="27">
+            <name>RR</name>
             <biography/>
           </person>
         </persons>
@@ -22967,28 +22982,34 @@ Beginners exchange will take place in the afternoon again!</abstract>
         <attachments/>
         <answers/>
       </event>
-      <event id="822" guid="74bd75db-44a0-5ccf-835c-f82c530a017d">
+      <event id="855" guid="5c6e3239-23de-5de5-9372-c2e3c3b04417">
         <logo/>
         <date>2018-12-29T18:00:00+01:00</date>
         <start>18:00</start>
-        <duration>01:30</duration>
+        <duration>02:00</duration>
         <room>Komona Thunderdome #workshops #talks</room>
-        <slug>9GRP88</slug>
-        <url>https://talks.komona.org/35c3/talk/9GRP88</url>
-        <title>Community Management online und offline</title>
+        <slug>GRYS3Q</slug>
+        <url>https://talks.komona.org/35c3/talk/GRYS3Q</url>
+        <title>How to produce a Demo-Rave</title>
         <subtitle/>
         <track/>
         <type>Slot</type>
-        <language>de</language>
-        <abstract>Was wir aus 16 Jahren Restrealitaet für die Organisation von Communities im Internet und im RealLife lernen können.</abstract>
-        <description>Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Subkultur. Die RR existiert seit Februar 2003 und wurde seitdem von der so genannten "Heimleitung" (lange bestehend aus sechs Personen) ehrenamtlich betreut. Es gibt rund 40.000 registrierte User, von denen ca. 3.000 derzeit noch regelmäßig die RR besuchen. Die Kommunikation in der RR läuft anonym über Avatare mit Pseudonymen. Trotzdem haben sich viele der Nutzer*innen über die Jahre im RealLife kennen und lieben - aber leider auch manchmal hassen - gelernt. Dies führt einerseits zu ganz tollen Dingen, wie z.B. eine immer verlässliche Nachbarschaftshilfe, kompetente Beratung in (fast) allen Lebenslagen, langjährige Freundschaften bis hin zu Familiengründungen und noch so vieles mehr. Aber neben all diesen wunderschönen Sachen gibt es bei einer so großen Gemeinschaft mit einem gewissen Hang zu Grenzerfahrungen natürlich auch hin und wieder eine dunkle Schattenseite. Es entstehen Probleme, die sich bei der Gründung der RR niemand auch nur annähernd vorstellen konnte. Anfangs gab es in der RR sprichwörtlich keine Regeln. Aber schon bald mussten zumindest rudimentäre RRegeln postuliert werden, die aber eigentlich nur selbstverständliche Umgangsformen umschreiben. Nur äußerst selten werden User*innen aufgrund dieser RRegeln verwarnt, bzw. temporär oder sogar dauerhaft ausgeschlossen. Die Selbstregulierung des Forums hat, dank der Mithilfe aller User*innen, jahrelang wunderbar funktioniert. Anders wäre der völlig unkommerzielle Betrieb der RR über einen so langen Zeitraum auch gar nicht möglich gewesen. Es gab Phasen, in denen der alltägliche Betreuungsaufwand für die Heimleitung minimal war. Aber leider kam es dann auch immer wieder zu so problematischen Situationen, dass der Umgang mit diesen selbst für ein gut funktionierendes und eingeschworenen Team kaum mehr zu bewältigen war. 2015 wurde deswegen der "RRat" gegründet, der aus rund zehn Personen besteht und als eine Art Schiedsstelle die Heimleitung bei der alltäglichen Moderation des Forums - aber vor allem auch in schwierigen Situationen - tatkräftig und moralisch unterstützt. Die RR ist nach wie vor ein offenes Experiment, das niemanden ausschließen und alternative Lebensweisen erkunden möchte. Deswegen freuen wir uns sehr auf einen Ideen- und Erfahrungsaustausch mit allen anderen Kollektiven, Projekten und Kreaturen beim 35C3.</description>
+        <language>en</language>
+        <abstract>What is the combination between a Demo and a Rave? A Demo Rave. How does it work? What is needed to produce such a thing? What is important do know, from experience? This workshop is for all that want to bring resistant life, dancing and music to the streets and protest for something that is worth fighting for.</abstract>
+        <description>Wer einem Aufruf zu einer Demo folgt, verspürt einen inneren Auftrag, seine Haltung und Werte auf die Straße zu tragen. Und das ist gut so. &#13;
+&#13;
+Wer in letzter Zeit bei #afdwegbassen und anderen Rave-Demos war, hat sich dabei vllt. auch schonmal die Frage gestellt, wie sich das eigentlich alles organisiert an so einem Tag. Was ist zu beachten bei der Orga einer Rave-Demo?  Was muss ich wissen und können, damit das alles gut klappt und für alle beteiligten Menschen sicher und freudig und sinnig bleibt? &#13;
+&#13;
+Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn es heißt "oder macht euer eigenes Ding"? &#13;
+&#13;
+&amp; produzieren ein (Digital-)Dokoment was wir mit anderen teilen und um (Erfahrungs-)Wissen erweitern können."</description>
         <recording>
           <license/>
-          <optout>true</optout>
+          <optout>false</optout>
         </recording>
         <persons>
-          <person id="27">
-            <name>RR</name>
+          <person id="48">
+            <name>Leon</name>
             <biography/>
           </person>
         </persons>
@@ -24642,6 +24663,46 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="ChaosFilmSociety Art-and-Play">
+      <event id="1494" guid="f508f168-1265-4bc5-824a-70f8aaaefe35">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>1:01</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1494-session_film_sollbruchstelle_devil_hides_in_doubt</slug>
+        <title>Film -- Sollbruchstelle / Devil hides in Doubt</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language/>
+        <abstract/>
+        <description>A film about the emotional push and pull of work, its demands and absurdities, and the struggle for fulfilment.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Sollbruchstelle_/_Devil_hides_in_Doubt</link>
+        </links>
+      </event>
+      <event id="1325" guid="38351efc-e172-49c3-9eb9-8932f7faa409">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>2:00</duration>
+        <room>ChaosFilmSociety Art-and-Play</room>
+        <slug>35c3-1325-session_tontechnic_101</slug>
+        <title>Tontechnic 101</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language/>
+        <abstract/>
+        <description/>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101</link>
+        </links>
+      </event>
+    </room>
     <room name="Assembly:Foodsaving">
       <event id="1266" guid="423e176e-6b33-4a50-adca-58daf4bd5fe7">
         <logo/>
@@ -25063,27 +25124,6 @@ Freifunk since 2003</biography>
         <links>
           <link>https://it-kollektiv.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tech-Coops_Meetup</link>
-        </links>
-      </event>
-    </room>
-    <room name="ChaosFilmSociety Art-and-Play">
-      <event id="1325" guid="38351efc-e172-49c3-9eb9-8932f7faa409">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>2:00</duration>
-        <room>ChaosFilmSociety Art-and-Play</room>
-        <slug>35c3-1325-session_tontechnic_101</slug>
-        <title>Tontechnic 101</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language/>
-        <abstract/>
-        <description/>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tontechnic_101</link>
         </links>
       </event>
     </room>
