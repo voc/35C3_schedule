@@ -20994,6 +20994,55 @@
             }
         ]
     }, 
+    "Session:SUSIbian - Debian with Open Source Conversational Assistant SUSI.AI# 6299d8f5f041339f4fdf09271e230f74": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546117200", 
+                "raw": "1/2018/12/29/21/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "The SUSIbian project aims at creating an implementation of SUSI.AI capable to run on Linux Devices in a headless mode. It will enable you to bring SUSI.AI intelligence to all devices you may think like a Speaker, Car etc."
+        ], 
+        "Has session type": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Critical Decentralisation Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Critical_Decentralisation_Cluster", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "SUSIbian - Debian with Open Source Conversational Assistant SUSI.AI"
+        ], 
+        "Has duration": [
+            30
+        ], 
+        "GUID": [
+            "47609a7c-d6b3-4d47-a9dd-632eccf2d533"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:SUSIbian_-_Debian_with_Open_Source_Conversational_Assistant_SUSI.AI", 
+        "Has end time": [
+            {
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
+            }
+        ]
+    }, 
     "Session:SailfishOS (SFOS) Meetup# 9316b7f4b3d6d3161c5fcbaffa3676a4": {
         "Held in language": [
             "en - English"
@@ -24354,6 +24403,59 @@
             }
         ]
     }, 
+    "Session:Tantra Intimacy# 6fc9642ad88ea64d48bacf9464b2abfc": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546131600", 
+                "raw": "1/2018/12/30/1/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "From the opening of the heart, aware of the body, while recognizing the Divine, you will experience Tantric energy in a safe and loving environment."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Living a meditation flow with the other"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Tantra Intimacy"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "702155e4-5e8f-46c5-aaa5-656cce42ed7a"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tantra_Intimacy", 
+        "Has end time": [
+            {
+                "timestamp": "1546137000", 
+                "raw": "1/2018/12/30/2/30/0/0"
+            }
+        ]
+    }, 
     "Session:Tech-Coops Meetup# 274146503f31684fd569880e549cc79e": {
         "Held in language": [
             "en - English"
@@ -27292,117 +27394,6 @@
             {
                 "timestamp": "1546128000", 
                 "raw": "1/2018/12/30/0/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Werwolf# b5506353b9319b0ee692a5948ff9cabf": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546128000", 
-                "raw": "1/2018/12/30/0/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Playing Werwolf together"
-        ], 
-        "Has session type": [], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Hetti", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Werwolf"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "5076b837-bc26-49ff-ab99-5b3a091ca058"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf", 
-        "Has end time": [
-            {
-                "timestamp": "1546135200", 
-                "raw": "1/2018/12/30/2/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Wetten, dass nicht ?# da9bdefa22b3081e144c546855920004": {
-        "Held in language": [], 
-        "Has start time": [
-            {
-                "timestamp": "1546221600", 
-                "raw": "1/2018/12/31/2/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://dome-one.com"
-        ], 
-        "Has description": [
-            "Frickelzwang f\u00fcr Sessionschw\u00e4nzer"
-        ], 
-        "Has session type": [
-            "Other"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Dome Art-and-Play", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Dome_Art-and-Play", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "open sound-collective"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Wetten, dass nicht ?"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "aea71b44-e972-45b0-8156-5e2a4d81ec19"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wetten,_dass_nicht_%3F", 
-        "Has end time": [
-            {
-                "timestamp": "1546232400", 
-                "raw": "1/2018/12/31/5/0/0/0"
             }
         ]
     }

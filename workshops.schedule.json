@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 16:00", 
+        "version": "2018-12-29 16:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4233,6 +4233,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1518, 
+                                "guid": "702155e4-5e8f-46c5-aaa5-656cce42ed7a", 
+                                "logo": null, 
+                                "date": "2018-12-30T01:00:00+01:00", 
+                                "start": "01:00", 
+                                "duration": "1:30", 
+                                "room": "Lecture room 11", 
+                                "slug": "35c3-1518-session_tantra_intimacy", 
+                                "title": "Tantra Intimacy", 
+                                "subtitle": "Living a meditation flow with the other", 
+                                "track": "self organized sessions", 
+                                "type": "hands-on", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "From the opening of the heart, aware of the body, while recognizing the Divine, you will experience Tantric energy in a safe and loving environment.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tantra_Intimacy"
+                                ]
+                            }, 
+                            {
                                 "id": 1122, 
                                 "guid": "cd2e4d22-e3e5-4284-be49-68f5d1a64fa6", 
                                 "logo": null, 
@@ -4634,33 +4655,6 @@
                                 "links": [
                                     "https://www.nongnu.org/dkgpg/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verteilte_Schl%C3%BCsselerzeugung_f%C3%BCr_OpenPGP_mit_DKGPG_(2)"
-                                ]
-                            }, 
-                            {
-                                "id": 1502, 
-                                "guid": "3f5dc85f-a89d-5e5b-9fc2-63ffa3cc55d3", 
-                                "logo": null, 
-                                "date": "2018-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "2:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1502-session_werwolf", 
-                                "title": "Werwolf", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Playing Werwolf together", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Hetti", 
-                                        "public_name": "Hetti"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Werwolf"
                                 ]
                             }
                         ], 
