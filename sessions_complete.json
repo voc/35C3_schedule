@@ -3431,15 +3431,15 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Bare-Metal-Camp", 
         "Has end time": []
     }, 
-    "Session:Beef jerky Boxes# 1a2e1d3e0d84853f03ecafc553d637fd": {
+    "Session:Beef jerky Boxes# 592380ff488a4a644eda282716eae8f2": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
+                "timestamp": "1546104600", 
+                "raw": "1/2018/12/29/17/30/0/0"
             }
         ], 
         "Has event track": [
@@ -3449,7 +3449,7 @@
             "https://foodhackingbase.org/wiki/Beef_Jerky_Box_Making"
         ], 
         "Has description": [
-            "We create a box for making beef jerky together. Each participant (17 spots available) gets to take their box home!"
+            "We create a box for making beef jerky together. Each participant (10 spots available) gets to take their box home!"
         ], 
         "Has session type": [
             "Hands-On"
@@ -3480,8 +3480,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Beef_jerky_Boxes", 
         "Has end time": [
             {
-                "timestamp": "1546096800", 
-                "raw": "1/2018/12/29/15/20/0/0"
+                "timestamp": "1546109400", 
+                "raw": "1/2018/12/29/18/50/0/0"
             }
         ]
     }, 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 15:40</version>
+  <version>Love Boat 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 16:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -22777,7 +22777,7 @@ Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Su
         </recording>
         <persons>
           <person id="39">
-            <name>Restrealitaet</name>
+            <name>Flo &amp; Chardia</name>
             <biography/>
           </person>
         </persons>
@@ -23945,8 +23945,8 @@ Freifunk since 2003</biography>
     <room name="Assembly:Foodhackingbase">
       <event id="1477" guid="0dbb64df-3976-4cfb-aa55-03a9e6bb4556">
         <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>1:20</duration>
         <room>Assembly:Foodhackingbase</room>
         <slug>35c3-1477-session_beef_jerky_boxes</slug>
@@ -23956,7 +23956,7 @@ Freifunk since 2003</biography>
         <type>hands-on</type>
         <language>de</language>
         <abstract/>
-        <description>We create a box for making beef jerky together. Each participant (17 spots available) gets to take their box home!</description>
+        <description>We create a box for making beef jerky together. Each participant (10 spots available) gets to take their box home!</description>
         <persons/>
         <links>
           <link>https://foodhackingbase.org/wiki/Beef_Jerky_Box_Making</link>
