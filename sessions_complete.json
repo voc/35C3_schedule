@@ -9923,6 +9923,45 @@
             }
         ]
     }, 
+    "Session:Film -- Illegale Film# 113db224679c074526079f1a385f6da1": {
+        "Held in language": [], 
+        "Has start time": [
+            {
+                "timestamp": "1546108800", 
+                "raw": "1/2018/12/29/18/40/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "If everything really does become a product \u2013 art, ideas, colours, the pictures of our surroundings and even our \u2018selfies\u2019 \u2013 then who do the pictures we take of ourselves, and our world belong to?"
+        ], 
+        "Has session type": [], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Film -- Illegale Film"
+        ], 
+        "Has duration": [
+            80
+        ], 
+        "GUID": [
+            "bcd6ad2a-9323-42d0-aca8-d2eb8c677f26"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Film_--_Illegale_Film", 
+        "Has end time": [
+            {
+                "timestamp": "1546113600", 
+                "raw": "1/2018/12/29/20/0/0/0"
+            }
+        ]
+    }, 
     "Session:Film -- Illegale Film# ea391fd74dd2841d5b04e719e1332998": {
         "Held in language": [], 
         "Has start time": [
@@ -27491,64 +27530,5 @@
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Fundamental_limits_of_mathematical_reasoning", 
         "Has end time": []
-    }, 
-    "Session:Wondrous Mathematics: Large numbers, very large numbers and very very large numbers# 91bb7e19b7fafdd2b2b8eee59044d5c6": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546174500", 
-                "raw": "1/2018/12/30/12/55/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "This talk is for all who enjoyed the game \"who can name the larger number?\" as a kid."
-        ], 
-        "Has session type": [
-            "Talk"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M1", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Iblech", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Wondrous Mathematics: Large numbers, very large numbers and very very large numbers"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "9cd45799-ab73-4d14-87c1-3bfe28be8253"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Large_numbers,_very_large_numbers_and_very_very_large_numbers", 
-        "Has end time": [
-            {
-                "timestamp": "1546178100", 
-                "raw": "1/2018/12/30/13/55/0/0"
-            }
-        ]
     }
 }

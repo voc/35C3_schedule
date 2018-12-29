@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 04:40</version>
+  <version>2018-12-29 05:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -5593,27 +5593,6 @@
         <links>
           <link>https://xrebellion.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Extinction_Rebellion_-_NOT_shutting_down_the_internet_-_civil_disobedience_(non_violent_direct_action)_on_a_massive_scale</link>
-        </links>
-      </event>
-      <event id="1136" guid="9cd45799-ab73-4d14-87c1-3bfe28be8253">
-        <logo/>
-        <date>2018-12-30T12:55:00+01:00</date>
-        <start>12:55</start>
-        <duration>1:00</duration>
-        <room>Lecture room M1</room>
-        <slug>35c3-1136-session_wondrous_mathematics_large_numbers_very_large_numbers_and_very_very_large_numbers</slug>
-        <title>Wondrous Mathematics: Large numbers, very large numbers and very very large numbers</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>talk</type>
-        <language>en</language>
-        <abstract/>
-        <description>This talk is for all who enjoyed the game "who can name the larger number?" as a kid.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Iblech">Iblech</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wondrous_Mathematics:_Large_numbers,_very_large_numbers_and_very_very_large_numbers</link>
         </links>
       </event>
     </room>
