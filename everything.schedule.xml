@@ -1,5 +1,5 @@
 <schedule>
-  <version>Mac Gyver 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 17:20</version>
+  <version>Mac Gyver 3.1 2.1 v2.7 1.3 MemoryRefreshV1.2 20181229_0237 1.2.1 2018-12-29 17:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17405,7 +17405,9 @@ However, it's not always easy...</description>
         <language>de</language>
         <abstract/>
         <description>We will teach you some foundations on doing rope bondage safe, sane and consentual.</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Jamalaka">Jamalaka</person>
+        </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Bondage_Workshop</link>
         </links>
@@ -17469,27 +17471,6 @@ However, it's not always easy...</description>
         <links>
           <link>https://www.qubes-os.org/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Introduction_to_Qubes_OS</link>
-        </links>
-      </event>
-      <event id="1250" guid="31bf9c3b-a12b-4ef5-84d0-a8b162609462">
-        <logo/>
-        <date>2018-12-29T22:45:00+01:00</date>
-        <start>22:45</start>
-        <duration>2:00</duration>
-        <room>Lecture room 11</room>
-        <slug>35c3-1250-session_kinkygeeks_workshop_ueberwaeltigung_mit_seil_und_schmerzbondage</slug>
-        <title>KinkyGeeks-Workshop: Überwältigung mit Seil und Schmerzbondage</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Einführung in Überwältigung mit Seil und Schmerzbondage</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage</link>
         </links>
       </event>
       <event id="1518" guid="702155e4-5e8f-46c5-aaa5-656cce42ed7a">
@@ -17585,7 +17566,7 @@ However, it's not always easy...</description>
         <type>hands-on</type>
         <language>en</language>
         <abstract/>
-        <description>Does your back hurt after three days of congress? Here you find some release.</description>
+        <description>Does your back hurt after three days of congress? Here you find some relief.</description>
         <persons>
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:0rmeli">0rmeli</person>
         </persons>
@@ -18492,6 +18473,27 @@ However, it's not always easy...</description>
         <links>
           <link>https://8os.io</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hacking_through_the_Body:_Systema_and_Aerodynamics_of_Cognitive_Dance</link>
+        </links>
+      </event>
+      <event id="1250" guid="31bf9c3b-a12b-4ef5-84d0-a8b162609462">
+        <logo/>
+        <date>2018-12-29T23:00:00+01:00</date>
+        <start>23:00</start>
+        <duration>1:59</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1250-session_kinkygeeks_workshop_ueberwaeltigung_mit_seil_und_schmerzbondage</slug>
+        <title>KinkyGeeks-Workshop: Überwältigung mit Seil und Schmerzbondage</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Einführung in Überwältigung mit Seil und Schmerzbondage</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Lil-Missy">Lil-Missy</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage</link>
         </links>
       </event>
       <event id="1386" guid="9a0af0b4-6556-4271-b577-8525721c6031">
@@ -22996,25 +22998,6 @@ Freifunk since 2003</biography>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:A_Conversation_on_Privacy</link>
         </links>
       </event>
-      <event id="1505" guid="950666ba-e03d-4538-b629-ababd6748304">
-        <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>1:00</duration>
-        <room/>
-        <slug>35c3-1505-session_data_science_nerds</slug>
-        <title>Data Science Nerds</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>discussion</type>
-        <language>en</language>
-        <abstract/>
-        <description>Just a gathering of Data Science Enthusiasts and a discussion about security in data science</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds</link>
-        </links>
-      </event>
       <event id="1503" guid="bcd6ad2a-9323-42d0-aca8-d2eb8c677f26">
         <logo/>
         <date>2018-12-29T18:40:00+01:00</date>
@@ -24335,6 +24318,69 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
+    <room name="Assembly:Chaos West">
+      <event id="1505" guid="950666ba-e03d-4538-b629-ababd6748304">
+        <logo/>
+        <date>2018-12-29T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>1:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>35c3-1505-session_data_science_nerds</slug>
+        <title>Data Science Nerds</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Just a gathering of Data Science Enthusiasts and a discussion about security in data science</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds</link>
+        </links>
+      </event>
+      <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>2:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>35c3-1039-session_dining_cryptographers_party</slug>
+        <title>Dining Cryptographers' Party</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:BenBE">BenBE</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
+        </links>
+      </event>
+      <event id="1475" guid="ed7a0d4e-68b1-44bb-b95b-07fd9ef119da">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room>Assembly:Chaos West</room>
+        <slug>35c3-1475-session_sparen_am_aktienmarkt_eine_zeitserienanalyse_mit_python</slug>
+        <title>Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python</title>
+        <subtitle>Nachbesprechung für Interessierte zum Thema Finanzen mit Python</subtitle>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich möchte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit Rücksicht auf das Verständnis nähern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Franz">Franz</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python</link>
+        </links>
+      </event>
+    </room>
     <room name="Restaurant Handelshof, zwischen Halle 3 und Halle 5 im Keller">
       <event id="1038" guid="8584c50c-8391-4be0-8ccc-5e730f33ecdb">
         <logo/>
@@ -24463,50 +24509,6 @@ Freifunk since 2003</biography>
         <links>
           <link>https://netzpolitik.org/wargaming-netzpolitik-serious-games-als-tools-am-beispiel-bsi-vs-zitis/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Wargaming_Netzpolitik</link>
-        </links>
-      </event>
-    </room>
-    <room name="Assembly:Chaos West">
-      <event id="1039" guid="23d52b76-e454-47a3-8649-d486754e462e">
-        <logo/>
-        <date>2018-12-29T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Assembly:Chaos West</room>
-        <slug>35c3-1039-session_dining_cryptographers_party</slug>
-        <title>Dining Cryptographers' Party</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Relaxed get-together of conscious entities interested in creating / working with / analyzing / breaking cryptography.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:BenBE">BenBE</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Dining_Cryptographers%27_Party</link>
-        </links>
-      </event>
-      <event id="1475" guid="ed7a0d4e-68b1-44bb-b95b-07fd9ef119da">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Chaos West</room>
-        <slug>35c3-1475-session_sparen_am_aktienmarkt_eine_zeitserienanalyse_mit_python</slug>
-        <title>Sparen am Aktienmarkt - Eine Zeitserienanalyse mit Python</title>
-        <subtitle>Nachbesprechung für Interessierte zum Thema Finanzen mit Python</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>In diesem Workshop geht es um Finanzbildung mit Fokus auf Aktienmarkt und Fonds. Ich möchte einen Einblick in das Sparen am Aktienmarkt und die damit verbundenen Chancen und Risiken geben. Mit Rücksicht auf das Verständnis nähern wir uns dem Thema graphisch und analysieren Zeitserien bzw. Aktienkurse mit Python und jupyter-notebooks.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Franz">Franz</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Sparen_am_Aktienmarkt_-_Eine_Zeitserienanalyse_mit_Python</link>
         </links>
       </event>
     </room>
@@ -25740,7 +25742,9 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <language>de</language>
         <abstract/>
         <description>Why do you write code? How does it influence you that you write code? How does it influence others that you write code?&lt;br/&gt;An artistic research project on the motivation, self-perception and sense of responsibility of people who write code.&lt;br/&gt;Come to reflect and discuss!</description>
-        <persons/>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Neopostmodern">Neopostmodern</person>
+        </persons>
         <links>
           <link>http://code.neopostmodern.com</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:People_who_write_code</link>

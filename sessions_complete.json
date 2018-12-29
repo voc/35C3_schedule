@@ -4364,7 +4364,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Jamalaka", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Jamalaka", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Bondage Workshop"
         ], 
@@ -7463,14 +7471,14 @@
             }
         ]
     }, 
-    "Session:Data Science Nerds# 57fe56f6695726d2c543d6aa30f75ea9": {
+    "Session:Data Science Nerds# bb6ca35f8ad956e2be58d6678cd35ee0": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546113600", 
-                "raw": "1/2018/12/29/20/0/0/0"
+                "timestamp": "1546115400", 
+                "raw": "1/2018/12/29/20/30/0/0"
             }
         ], 
         "Has event track": [
@@ -7483,7 +7491,15 @@
         "Has session type": [
             "Discussion"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Chaos West", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Chaos_West", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
@@ -7501,8 +7517,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Data_Science_Nerds", 
         "Has end time": [
             {
-                "timestamp": "1546117200", 
-                "raw": "1/2018/12/29/21/0/0/0"
+                "timestamp": "1546119000", 
+                "raw": "1/2018/12/29/21/30/0/0"
             }
         ]
     }, 
@@ -7701,7 +7717,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Does your back hurt after three days of congress? Here you find some release."
+            "Does your back hurt after three days of congress? Here you find some relief."
         ], 
         "Has session type": [
             "Hands-On"
@@ -15065,15 +15081,15 @@
             }
         ]
     }, 
-    "Session:KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage# 83e4bd98a0ffac23ecbd064d8d438ba2": {
+    "Session:KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage# 86bad978d26a443827137f1a7e1f4135": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546123500", 
-                "raw": "1/2018/12/29/22/45/0/0"
+                "timestamp": "1546124400", 
+                "raw": "1/2018/12/29/23/0/0/0"
             }
         ], 
         "Has event track": [
@@ -15088,8 +15104,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Lecture room 11", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -15109,7 +15125,7 @@
             "KinkyGeeks-Workshop: \u00dcberw\u00e4ltigung mit Seil und Schmerzbondage"
         ], 
         "Has duration": [
-            120
+            119
         ], 
         "GUID": [
             "31bf9c3b-a12b-4ef5-84d0-a8b162609462"
@@ -15120,8 +15136,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:KinkyGeeks-Workshop:_%C3%9Cberw%C3%A4ltigung_mit_Seil_und_Schmerzbondage", 
         "Has end time": [
             {
-                "timestamp": "1546130700", 
-                "raw": "1/2018/12/30/0/45/0/0"
+                "timestamp": "1546131540", 
+                "raw": "1/2018/12/30/0/59/0/0"
             }
         ]
     }, 
@@ -18890,7 +18906,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Neopostmodern", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Neopostmodern", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "People who write code"
         ], 
