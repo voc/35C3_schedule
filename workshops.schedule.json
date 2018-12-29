@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-29 23:00", 
+        "version": "2018-12-29 23:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -4158,34 +4158,6 @@
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine"
                                 ]
-                            }, 
-                            {
-                                "id": 1289, 
-                                "guid": "980bf311-9866-4869-9184-c93cdacff1d1", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "1:00", 
-                                "room": "Vintage Computing Cluster", 
-                                "slug": "35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_", 
-                                "title": "Vereinsgr\u00fcndung Vintage Computing Festival Berlin e.V.", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Gr\u00fcndung des Vintage Computing Festival Berlin (VCFB) e.V.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil", 
-                                        "public_name": "Zeltophil"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://vcfb.de/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V."
-                                ]
                             }
                         ], 
                         "Komona Thunderdome": [
@@ -5645,6 +5617,7 @@
                                 ], 
                                 "links": [
                                     "https://c3eo.chaotik.de", 
+                                    "https://github.com/johannes-mueller/esperanto-35c3", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken"
                                 ]
                             }, 
@@ -6493,6 +6466,27 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda"
+                                ]
+                            }, 
+                            {
+                                "id": 1535, 
+                                "guid": "204d6018-2cb2-431f-a5b4-0668471aeedd", 
+                                "logo": null, 
+                                "date": "2018-12-30T13:00:00+01:00", 
+                                "start": "13:00", 
+                                "duration": "0:45", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1535-session_how_false_data_is_influencing_our_world_perspective", 
+                                "title": "How false data is influencing our world perspective", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "An introduction of wrong or missleading facts that we know in our expert fields, and following discussion how to handle them with the perspective to help others to recognise false facts.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:How_false_data_is_influencing_our_world_perspective"
                                 ]
                             }, 
                             {

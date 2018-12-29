@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 23:00</version>
+  <version>2018-12-29 23:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -3508,28 +3508,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Hege_und_Aufzucht_kleiner_technischer_Vereine</link>
         </links>
       </event>
-      <event id="1289" guid="980bf311-9866-4869-9184-c93cdacff1d1">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>1:00</duration>
-        <room>Vintage Computing Cluster</room>
-        <slug>35c3-1289-session_vereinsgruendung_vintage_computing_festival_berlin_e_v_</slug>
-        <title>Vereinsgründung Vintage Computing Festival Berlin e.V.</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>de</language>
-        <abstract/>
-        <description>Gründung des Vintage Computing Festival Berlin (VCFB) e.V.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil">Zeltophil</person>
-        </persons>
-        <links>
-          <link>https://vcfb.de/</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Vereinsgr%C3%BCndung_Vintage_Computing_Festival_Berlin_e.V.</link>
-        </links>
-      </event>
     </room>
     <room name="Komona Thunderdome">
       <event id="1327" guid="eef92a8e-5e27-4b12-a63c-3e4ed721bcde">
@@ -4768,6 +4746,7 @@
         </persons>
         <links>
           <link>https://c3eo.chaotik.de</link>
+          <link>https://github.com/johannes-mueller/esperanto-35c3</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Esperanto_%E2%80%93_a_planned_nerd_language_actually_spoken</link>
         </links>
       </event>
@@ -5486,6 +5465,25 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
+        </links>
+      </event>
+      <event id="1535" guid="204d6018-2cb2-431f-a5b4-0668471aeedd">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>0:45</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1535-session_how_false_data_is_influencing_our_world_perspective</slug>
+        <title>How false data is influencing our world perspective</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type/>
+        <language>de</language>
+        <abstract/>
+        <description>An introduction of wrong or missleading facts that we know in our expert fields, and following discussion how to handle them with the perspective to help others to recognise false facts.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:How_false_data_is_influencing_our_world_perspective</link>
         </links>
       </event>
       <event id="1526" guid="1fa2ce86-ab67-46d0-8a4f-18065cfa654b">
