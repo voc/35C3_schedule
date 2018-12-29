@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-29 22:40</version>
+  <version>2018-12-29 23:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1068,26 +1068,6 @@
         <links>
           <link>https://c3subtitles.de/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting</link>
-        </links>
-      </event>
-      <event id="1268" guid="91519f50-9c75-445c-aaf1-63a95f89614a">
-        <logo/>
-        <date>2018-12-27T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>2:00</duration>
-        <room>Lecture room M2</room>
-        <slug>35c3-1268-session_verhaltenserkennung_stoppen_aktionsbrainstorming_gegen_analysierende_videoueberwachung_in_deutschland</slug>
-        <title>Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Videoüberwachung in Deutschland</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Aktionsbrainstorming: Wir suchen nach Protestideen und Aktionen gegen Verhaltenserkennung/Gesichtserkennung</description>
-        <persons/>
-        <links>
-          <link>http://digitale-freiheit.jetzt</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Verhaltenserkennung_stoppen!_Aktionsbrainstorming_gegen_analysierende_Video%C3%BCberwachung_in_Deutschland</link>
         </links>
       </event>
     </room>
@@ -4570,9 +4550,12 @@
         <type/>
         <language>en</language>
         <abstract/>
-        <description>While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.</description>
-        <persons/>
+        <description>While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society. Contact: kontakt&lt;ät&gt;fsfw-dresden.de</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Carsten">Carsten</person>
+        </persons>
         <links>
+          <link>https://fsfw-dresden.de/funding-foss</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big</link>
         </links>
       </event>

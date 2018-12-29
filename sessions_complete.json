@@ -11095,6 +11095,54 @@
             }
         ]
     }, 
+    "Session:Flunkyball Day 4# a7ef90e40b759c44fbf5fac050656c4c": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546183200", 
+                "raw": "1/2018/12/30/15/20/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://www.upb-flunkyteam.de"
+        ], 
+        "Has description": [
+            "We're going to play some rounds of the german drinking game \"Flunkyball\" right outside the main entrance"
+        ], 
+        "Has session type": [
+            "Game"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Day 4"
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Flunkyball Day 4"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "3e77705d-652d-4ad4-bd1d-a2ef8fc8554f"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_4", 
+        "Has end time": [
+            {
+                "timestamp": "1546185900", 
+                "raw": "1/2018/12/30/16/5/0/0"
+            }
+        ]
+    }, 
     "Session:Follow-up meeting to the Netzpolitik in der Schweiz talk# 065b4243472c37f03d871c2673050497": {
         "Held in language": [], 
         "Has start time": [
@@ -11552,9 +11600,11 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://fsfw-dresden.de/funding-foss"
+        ], 
         "Has description": [
-            "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society."
+            "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society. Contact: kontakt<\u00e4t>fsfw-dresden.de"
         ], 
         "Has session type": [], 
         "Has session location": [
@@ -11567,7 +11617,15 @@
             }
         ], 
         "Has subtitle": [], 
-        "Is organized by": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Carsten", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Carsten", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has title": [
             "Fund-Raising for Free Software - Thinking Big"
         ], 
@@ -27352,59 +27410,6 @@
             {
                 "timestamp": "1546095600", 
                 "raw": "1/2018/12/29/15/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Video\u00fcberwachung in Deutschland# 3f5d1ba7f5247d34e83f6f5e6cf684f8": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545940800", 
-                "raw": "1/2018/12/27/20/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://digitale-freiheit.jetzt"
-        ], 
-        "Has description": [
-            "Aktionsbrainstorming: Wir suchen nach Protestideen und Aktionen gegen Verhaltenserkennung/Gesichtserkennung"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M2", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Video\u00fcberwachung in Deutschland"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "91519f50-9c75-445c-aaf1-63a95f89614a"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verhaltenserkennung_stoppen!_Aktionsbrainstorming_gegen_analysierende_Video%C3%BCberwachung_in_Deutschland", 
-        "Has end time": [
-            {
-                "timestamp": "1545948000", 
-                "raw": "1/2018/12/27/22/0/0/0"
             }
         ]
     }

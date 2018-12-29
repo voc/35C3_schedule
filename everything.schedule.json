@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 22:40", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-29 23:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -2719,28 +2719,6 @@
                                 "links": [
                                     "https://c3subtitles.de/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Subtitles_Angelmeeting"
-                                ]
-                            }, 
-                            {
-                                "id": 1268, 
-                                "guid": "91519f50-9c75-445c-aaf1-63a95f89614a", 
-                                "logo": null, 
-                                "date": "2018-12-27T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "2:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1268-session_verhaltenserkennung_stoppen_aktionsbrainstorming_gegen_analysierende_videoueberwachung_in_deutschland", 
-                                "title": "Verhaltenserkennung stoppen! Aktionsbrainstorming gegen analysierende Video\u00fcberwachung in Deutschland", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Aktionsbrainstorming: Wir suchen nach Protestideen und Aktionen gegen Verhaltenserkennung/Gesichtserkennung", 
-                                "persons": [], 
-                                "links": [
-                                    "http://digitale-freiheit.jetzt", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Verhaltenserkennung_stoppen!_Aktionsbrainstorming_gegen_analysierende_Video%C3%BCberwachung_in_Deutschland"
                                 ]
                             }
                         ], 
@@ -19533,9 +19511,16 @@
                                 "type": "", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society.", 
-                                "persons": [], 
+                                "description": "While looking at Free and Open Source Software (FOSS) products for end-users, three major observations can be made: 1. There exist amazing products, 2. nevertheless FOSS has only a small market share and 3. many projects suffer from lacking resources.In this session we want to discuss an idea to generate significant funding for Free Software and distribute it among the projects with the overall aim of increasing the spread and the quality of Free Software.We first review existing business models and then propose the sale of *FOSS-support-certificates* as a feasible combination of some of those.With that money, FOSS projects would have more resources for development, design, marketing, documentation, etc. A rough estimate of the funding potential yields up to 1000 full time positions. Due to increased publicity and improved user experience, the market share of FOSS is likely to rise - to the benefit of the whole society. Contact: kontakt<\u00e4t>fsfw-dresden.de", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Carsten", 
+                                        "public_name": "Carsten"
+                                    }
+                                ], 
                                 "links": [
+                                    "https://fsfw-dresden.de/funding-foss", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Fund-Raising_for_Free_Software_-_Thinking_Big"
                                 ]
                             }, 
@@ -29757,60 +29742,29 @@
                                 ]
                             }
                         ], 
-                        "Dome Art-and-Play": [
+                        "": [
                             {
-                                "id": 1486, 
-                                "guid": "e82ce293-0528-4d33-a805-f843e12e1256", 
+                                "id": 1534, 
+                                "guid": "3e77705d-652d-4ad4-bd1d-a2ef8fc8554f", 
                                 "logo": null, 
-                                "date": "2018-12-30T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "3:00", 
-                                "room": "Dome Art-and-Play", 
-                                "slug": "35c3-1486-session_gaensebluemchen_auf_penicillin", 
-                                "title": "G\u00e4nsebl\u00fcmchen auf Penicillin", 
-                                "subtitle": "open sound-collective", 
+                                "date": "2018-12-30T15:20:00+01:00", 
+                                "start": "15:20", 
+                                "duration": "0:45", 
+                                "room": "", 
+                                "slug": "35c3-1534-session_flunkyball_day_4", 
+                                "title": "Flunkyball Day 4", 
+                                "subtitle": "Day 4", 
                                 "track": "self organized sessions", 
-                                "type": "other", 
-                                "language": "", 
+                                "type": "game", 
+                                "language": "de", 
                                 "abstract": "", 
-                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "description": "We're going to play some rounds of the german drinking game \"Flunkyball\" right outside the main entrance", 
                                 "persons": [], 
                                 "links": [
-                                    "http://dome-one.com", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin"
+                                    "http://www.upb-flunkyteam.de", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_4"
                                 ]
-                            }
-                        ], 
-                        "Assembly:ChaosZone": [
-                            {
-                                "id": 1533, 
-                                "guid": "dd0f3928-016c-405f-8b79-da656ab14093", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:ChaosZone", 
-                                "slug": "35c3-1533-session_hpi_meetup", 
-                                "title": "HPI-Meetup", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "Meetup for everyone from or related to the HPI", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
-                                        "public_name": "Niccokunzmann"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:HPI-Meetup"
-                                ]
-                            }
-                        ], 
-                        "": [
+                            }, 
                             {
                                 "id": 1512, 
                                 "guid": "07443c5b-2968-4d35-9f1a-a0e91173ff4e", 
@@ -29894,6 +29848,59 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
+                                ]
+                            }
+                        ], 
+                        "Dome Art-and-Play": [
+                            {
+                                "id": 1486, 
+                                "guid": "e82ce293-0528-4d33-a805-f843e12e1256", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "3:00", 
+                                "room": "Dome Art-and-Play", 
+                                "slug": "35c3-1486-session_gaensebluemchen_auf_penicillin", 
+                                "title": "G\u00e4nsebl\u00fcmchen auf Penicillin", 
+                                "subtitle": "open sound-collective", 
+                                "track": "self organized sessions", 
+                                "type": "other", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "frickelzwang f\u00fcr sessionschw\u00e4nzer", 
+                                "persons": [], 
+                                "links": [
+                                    "http://dome-one.com", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:G%C3%A4nsebl%C3%BCmchen_auf_Penicillin"
+                                ]
+                            }
+                        ], 
+                        "Assembly:ChaosZone": [
+                            {
+                                "id": 1533, 
+                                "guid": "dd0f3928-016c-405f-8b79-da656ab14093", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "1:00", 
+                                "room": "Assembly:ChaosZone", 
+                                "slug": "35c3-1533-session_hpi_meetup", 
+                                "title": "HPI-Meetup", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "Meetup for everyone from or related to the HPI", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Niccokunzmann", 
+                                        "public_name": "Niccokunzmann"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:HPI-Meetup"
                                 ]
                             }
                         ], 
