@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 01:10", 
+        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -26608,31 +26608,6 @@
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tech-Coops_Meetup"
                                 ]
                             }
-                        ], 
-                        "Komona Kuppel 3": [
-                            {
-                                "id": 1406, 
-                                "guid": "2ed3e99b-99d6-4379-991b-0aab2de638fe", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "1:30", 
-                                "room": "Komona Kuppel 3", 
-                                "slug": "35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt", 
-                                "title": "Update f\u00fcr die Fahrradwege deiner Stadt", 
-                                "subtitle": "Wie organisiert man einen Radentscheid?", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://radentscheid-darmstadt.de", 
-                                    "http://radentscheid-stuttgart.de", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt"
-                                ]
-                            }
                         ]
                     }
                 }, 
@@ -27599,6 +27574,28 @@
                             }
                         ], 
                         "Lecture room M2": [
+                            {
+                                "id": 1538, 
+                                "guid": "84e8ce83-b4e6-44ee-95c6-361804b19e17", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M2", 
+                                "slug": "35c3-1538-session_autistic_meetup_nummer_zwei", 
+                                "title": "Autistic Meetup - Nummer Zwei", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Autistic Meetup - zweites Treffen aller interessierten Autistinnen und Autisten", 
+                                "persons": [], 
+                                "links": [
+                                    "https://twitter.com/c3auti", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup_-_Nummer_Zwei"
+                                ]
+                            }, 
                             {
                                 "id": 1054, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 

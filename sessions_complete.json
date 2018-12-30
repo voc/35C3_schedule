@@ -2995,6 +2995,59 @@
             }
         ]
     }, 
+    "Session:Autistic Meetup - Nummer Zwei# 6000fc5c12b80ef613d752ea1eb985e1": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://twitter.com/c3auti"
+        ], 
+        "Has description": [
+            "Autistic Meetup - zweites Treffen aller interessierten Autistinnen und Autisten"
+        ], 
+        "Has session type": [
+            "Meeting"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Autistic Meetup - Nummer Zwei"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "84e8ce83-b4e6-44ee-95c6-361804b19e17"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup_-_Nummer_Zwei", 
+        "Has end time": [
+            {
+                "timestamp": "1546189200", 
+                "raw": "1/2018/12/30/17/0/0/0"
+            }
+        ]
+    }, 
     "Session:Autistic Meetup# 95bc2eddb5fbaa5fb52c0460b6919d55": {
         "Held in language": [
             "de - German"
@@ -27326,62 +27379,6 @@
             {
                 "timestamp": "1545998400", 
                 "raw": "1/2018/12/28/12/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Update f\u00fcr die Fahrradwege deiner Stadt# 65d35a22551d7c73a2820485384259c4": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://radentscheid-darmstadt.de", 
-            "http://radentscheid-stuttgart.de"
-        ], 
-        "Has description": [
-            "Die Radwege in deiner Stadt sind marode und gef\u00e4hrlich? Hier zeigen wir ein Tool, dass das \u00e4ndert, den Radentscheid."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Komona Kuppel 3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Komona_Kuppel_3", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Wie organisiert man einen Radentscheid?"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Update f\u00fcr die Fahrradwege deiner Stadt"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "2ed3e99b-99d6-4379-991b-0aab2de638fe"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt", 
-        "Has end time": [
-            {
-                "timestamp": "1546090200", 
-                "raw": "1/2018/12/29/13/30/0/0"
             }
         ]
     }

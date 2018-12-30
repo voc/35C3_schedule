@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-30 01:10</version>
+  <version>2018-12-30 03:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4621,29 +4621,6 @@
         </links>
       </event>
     </room>
-    <room name="Komona Kuppel 3">
-      <event id="1406" guid="2ed3e99b-99d6-4379-991b-0aab2de638fe">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>1:30</duration>
-        <room>Komona Kuppel 3</room>
-        <slug>35c3-1406-session_update_fuer_die_fahrradwege_deiner_stadt</slug>
-        <title>Update für die Fahrradwege deiner Stadt</title>
-        <subtitle>Wie organisiert man einen Radentscheid?</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</description>
-        <persons/>
-        <links>
-          <link>https://radentscheid-darmstadt.de</link>
-          <link>http://radentscheid-stuttgart.de</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</link>
-        </links>
-      </event>
-    </room>
     <room name="Seminar room 13">
       <event id="1005" guid="3254df13-39ef-41d5-833e-f525e808f92c">
         <logo/>
@@ -5356,6 +5333,26 @@
       </event>
     </room>
     <room name="Lecture room M2">
+      <event id="1538" guid="84e8ce83-b4e6-44ee-95c6-361804b19e17">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1538-session_autistic_meetup_nummer_zwei</slug>
+        <title>Autistic Meetup - Nummer Zwei</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>meeting</type>
+        <language>de</language>
+        <abstract/>
+        <description>Autistic Meetup - zweites Treffen aller interessierten Autistinnen und Autisten</description>
+        <persons/>
+        <links>
+          <link>https://twitter.com/c3auti</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup_-_Nummer_Zwei</link>
+        </links>
+      </event>
       <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">
         <logo/>
         <date>2018-12-30T15:30:00+01:00</date>
