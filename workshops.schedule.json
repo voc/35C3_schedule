@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-30 15:00", 
+        "version": "2018-12-30 16:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -6094,6 +6094,33 @@
                                 ]
                             }, 
                             {
+                                "id": 1455, 
+                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "0:50", 
+                                "room": "Lecture room M1", 
+                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
+                                "title": "Anki: software for long-time learning (even programming stuff)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "16H10, M1. Rescheduled from 14h to 16h10. Sorry for the inconvenience", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                                        "public_name": "Arthur Rainbow"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
+                                ]
+                            }, 
+                            {
                                 "id": 1036, 
                                 "guid": "a9d3f65b-e8d9-4247-9a6d-2bf1378af432", 
                                 "logo": null, 
@@ -6236,33 +6263,6 @@
                                     "https://en.wikipedia.org/wiki/Acroyoga", 
                                     "https://kanthaus.online/en/events/2018-12-05_acroyoga", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga"
-                                ]
-                            }, 
-                            {
-                                "id": 1455, 
-                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
-                                "logo": null, 
-                                "date": "2018-12-30T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "0:50", 
-                                "room": "Lecture room M3", 
-                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
-                                "title": "Anki: software for long-time learning (even programming stuff)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "The speaker missed leipzig messe and have to reschedule from 14h to 16h. Sorry for the inconvenience", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
-                                        "public_name": "Arthur Rainbow"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
                                 ]
                             }, 
                             {
