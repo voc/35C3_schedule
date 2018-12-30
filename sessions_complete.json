@@ -2223,28 +2223,30 @@
             }
         ]
     }, 
-    "Session:Anki: software for long-time learning (even programming stuff)# 9e5071ad6a1c08f55a29443257ff1501": {
+    "Session:Anki: software for long-time learning (even programming stuff)# b44e7507751ac708b677a91480186542": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546179000", 
-                "raw": "1/2018/12/30/14/10/0/0"
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
             }
         ], 
         "Has event track": [
             "Session"
         ], 
         "Has website": [], 
-        "Has description": [], 
+        "Has description": [
+            "The speaker missed leipzig messe and have to reschedule from 14h to 16h. Sorry for the inconvenience"
+        ], 
         "Has session type": [
             "Workshop"
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
@@ -2275,8 +2277,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)", 
         "Has end time": [
             {
-                "timestamp": "1546182000", 
-                "raw": "1/2018/12/30/15/0/0/0"
+                "timestamp": "1546188600", 
+                "raw": "1/2018/12/30/16/50/0/0"
             }
         ]
     }, 

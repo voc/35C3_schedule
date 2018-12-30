@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3 2018-12-30 14:00</version>
+  <version>Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3 2018-12-30 14:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -15640,6 +15640,7 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203">PDF slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203">OpenDocument slides with speaker notes</attachment>
         </attachments>
       </event>
       <event id="9783" guid="94447a62-a3ba-4f6d-a3b7-b5318a954651">
@@ -16279,10 +16280,10 @@ It's used by educators, makers and professional hard- and software developers ar
         <logo>/system/events/logos/000/009/346/large/russiancard.png?1545036658</logo>
         <date>2018-12-29T16:10:00+01:00</date>
         <start>16:10</start>
-        <duration>00:40</duration>
+        <duration>05:00</duration>
         <room>Clarke</room>
-        <slug>35c3-9346-in_sowjet_russia_smart_card_hacks_you</slug>
-        <title>In Sowjet Russia Smart Card Hacks You</title>
+        <slug>35c3-9346-in_soviet_russia_smart_card_hacks_you</slug>
+        <title>In Soviet Russia Smart Card Hacks You</title>
         <subtitle/>
         <track>Security</track>
         <type>lecture</type>
@@ -16304,6 +16305,7 @@ Since smart cards are used in the authentication process, a lot of vulnerabiliti
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/512/original/DEFCON-26-Eric-Sesterhenn-Soviet-Russia-Smartcard-Hacks-You.pdf?1539367610">Defcon Slides</attachment>
           <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/721/original/slides.pdf?1546148332">35C3 Slides</attachment>
         </attachments>
       </event>
       <event id="9674" guid="089b7fec-3ee1-493c-9b90-782c0514ffb4">
@@ -17217,7 +17219,9 @@ However, it's not always easy...</description>
         <persons>
           <person id="7323">Fraxinas</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://pads.schaffenburg.org/p/Repaircafe-35C3">Presentation Repair-Cafés</link>
+        </links>
         <attachments/>
       </event>
     </room>
@@ -24931,7 +24935,7 @@ Es ist viel passiert in 2018 und die längeren Linien helfen dabei, einen Blick 
       </event>
       <event id="9498" guid="8bd222ad-34a7-468a-9e83-11767dcfa809">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9498.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/498/large/bug.png?1546169738</logo>
         <date>2018-12-30T14:30:00+01:00</date>
         <start>14:30</start>
         <duration>00:40</duration>
@@ -24947,7 +24951,7 @@ Es ist viel passiert in 2018 und die längeren Linien helfen dabei, einen Blick 
 &#13;
 The second part of this talk focuses on security. We show how behavior during pairing can be modified, e.g. by setting other device features or IO capabilities. We also demonstrate an implementation of the recent publicly known ECDH key exchange attack.&#13;
 &#13;
-Last, we show a new attack where any Nexus 5 connecting to or being connected by a malicious device can crash the Bluetooth stack and change a limited set of parameters. This vulnerability has been silently patched in newer firmware versions, but we can confirm it also applies to hardware in other popular devices such as Raspberry Pi 3.</description>
+Last, we demonstrate a new attack (CVE-2018-19860) that can crash the Bluetooth stack and execute a limited set of functions – only requiring knowledge of the Bluetooth MAC address of the device under attack. This vulnerability has silently been patched in newer firmware versions, but it applies to Broadcom chips in popular devices such as Nexus 5, Raspberry Pi 3, iPhone 6, Xperia Z5, Samsung Galaxy Note 3, MacBook Pro 2016 and more.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -24960,7 +24964,9 @@ Last, we show a new attack where any Nexus 5 connecting to or being connected by
           <link href="https://media.ccc.de/v/2018-154-internalblue-a-deep-dive-into-bluetooth-controller-firmware">MRMCD talk on InternalBlue (more details on how to use it)</link>
           <link href="https://github.com/seemoo-lab/internalblue">InternalBlue on GitHub</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/722/original/2018-12-30_bluetooth_%284%29.pdf?1546169669">Presentation Slides</attachment>
+        </attachments>
       </event>
       <event id="9685" guid="b1b28bd0-5279-4950-8385-9ee8a57187f9">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9685.html</url>
@@ -25506,27 +25512,6 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:3D_Modeling_with_Blender_for_Beginners</link>
         </links>
       </event>
-      <event id="1455" guid="e93ec9b5-505e-4a98-bde3-458a42475a28">
-        <logo/>
-        <date>2018-12-30T14:10:00+01:00</date>
-        <start>14:10</start>
-        <duration>0:50</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_</slug>
-        <title>Anki: software for long-time learning (even programming stuff)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow">Arthur Rainbow</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)</link>
-        </links>
-      </event>
       <event id="1452" guid="80cdb346-45e6-48ee-bd8b-2da0d9ee68b9">
         <logo/>
         <date>2018-12-30T15:00:00+01:00</date>
@@ -25861,6 +25846,27 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <link>https://en.wikipedia.org/wiki/Acroyoga</link>
           <link>https://kanthaus.online/en/events/2018-12-05_acroyoga</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga</link>
+        </links>
+      </event>
+      <event id="1455" guid="e93ec9b5-505e-4a98-bde3-458a42475a28">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>0:50</duration>
+        <room>Lecture room M3</room>
+        <slug>35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_</slug>
+        <title>Anki: software for long-time learning (even programming stuff)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>The speaker missed leipzig messe and have to reschedule from 14h to 16h. Sorry for the inconvenience</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow">Arthur Rainbow</person>
+        </persons>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)</link>
         </links>
       </event>
       <event id="1512" guid="07443c5b-2968-4d35-9f1a-a0e91173ff4e">

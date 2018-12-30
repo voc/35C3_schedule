@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3 2018-12-30 14:00", 
+        "version": "Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3 2018-12-30 14:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -16541,6 +16541,10 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203", 
                                         "title": "PDF slides"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/699/original/35c3-russia-vs-telegram.odp?1546092203", 
+                                        "title": "OpenDocument slides with speaker notes"
                                     }
                                 ]
                             }, 
@@ -17294,10 +17298,10 @@
                                 "logo": "/system/events/logos/000/009/346/large/russiancard.png?1545036658", 
                                 "date": "2018-12-29T16:10:00+01:00", 
                                 "start": "16:10", 
-                                "duration": "00:40", 
+                                "duration": "05:00", 
                                 "room": "Clarke", 
-                                "slug": "35c3-9346-in_sowjet_russia_smart_card_hacks_you", 
-                                "title": "In Sowjet Russia Smart Card Hacks You", 
+                                "slug": "35c3-9346-in_soviet_russia_smart_card_hacks_you", 
+                                "title": "In Soviet Russia Smart Card Hacks You", 
                                 "subtitle": "", 
                                 "track": "Security", 
                                 "type": "lecture", 
@@ -17321,6 +17325,10 @@
                                     {
                                         "url": "/attachments/original/missing.png", 
                                         "title": "file"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/721/original/slides.pdf?1546148332", 
+                                        "title": "35C3 Slides"
                                     }
                                 ]
                             }, 
@@ -18391,7 +18399,12 @@
                                         "public_name": "Fraxinas"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://pads.schaffenburg.org/p/Repaircafe-35C3", 
+                                        "title": "Presentation Repair-Caf\u00e9s"
+                                    }
+                                ], 
                                 "attachments": []
                             }
                         ], 
@@ -26655,7 +26668,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9498.html", 
                                 "id": 9498, 
                                 "guid": "8bd222ad-34a7-468a-9e83-11767dcfa809", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/498/large/bug.png?1546169738", 
                                 "date": "2018-12-30T14:30:00+01:00", 
                                 "start": "14:30", 
                                 "duration": "00:40", 
@@ -26667,7 +26680,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Broadcom's Bluetooth firmware on popular devices \u2013 such as Nexus 5, Nexus 6P, Raspberry Pi 3, and Raspberry Pi 3+ \u2013 shares the same firmware update mechanisms, which allows for local firmware modifications. With InternalBlue we published a framework to change lower Bluetooth layers. In this talk we go even further and demonstrate a remote exploit in the Broadcom firmware.", 
-                                "description": "In the first part of this talk we present the InternalBlue framework, which allows to experiment with Broadcom-based Bluetooth chips. On Nexus 5 and 6P, it already supports monitoring and injection tools for the lower layers of the Bluetooth protocol stack.\r\n\r\nThe second part of this talk focuses on security. We show how behavior during pairing can be modified, e.g. by setting other device features or IO capabilities. We also demonstrate an implementation of the recent publicly known ECDH key exchange attack.\r\n\r\nLast, we show a new attack where any Nexus 5 connecting to or being connected by a malicious device can crash the Bluetooth stack and change a limited set of parameters. This vulnerability has been silently patched in newer firmware versions, but we can confirm it also applies to hardware in other popular devices such as Raspberry Pi 3.", 
+                                "description": "In the first part of this talk we present the InternalBlue framework, which allows to experiment with Broadcom-based Bluetooth chips. On Nexus 5 and 6P, it already supports monitoring and injection tools for the lower layers of the Bluetooth protocol stack.\r\n\r\nThe second part of this talk focuses on security. We show how behavior during pairing can be modified, e.g. by setting other device features or IO capabilities. We also demonstrate an implementation of the recent publicly known ECDH key exchange attack.\r\n\r\nLast, we demonstrate a new attack (CVE-2018-19860) that can crash the Bluetooth stack and execute a limited set of functions \u2013 only requiring knowledge of the Bluetooth MAC address of the device under attack. This vulnerability has silently been patched in newer firmware versions, but it applies to Broadcom chips in popular devices such as Nexus 5, Raspberry Pi 3, iPhone 6, Xperia Z5, Samsung Galaxy Note 3, MacBook Pro 2016 and more.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -26690,7 +26703,12 @@
                                         "title": "InternalBlue on GitHub"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/722/original/2018-12-30_bluetooth_%284%29.pdf?1546169669", 
+                                        "title": "Presentation Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9685.html", 
@@ -27246,33 +27264,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1455, 
-                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
-                                "logo": null, 
-                                "date": "2018-12-30T14:10:00+01:00", 
-                                "start": "14:10", 
-                                "duration": "0:50", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
-                                "title": "Anki: software for long-time learning (even programming stuff)", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
-                                        "public_name": "Arthur Rainbow"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
-                                ]
-                            }, 
-                            {
                                 "id": 1452, 
                                 "guid": "80cdb346-45e6-48ee-bd8b-2da0d9ee68b9", 
                                 "logo": null, 
@@ -27662,6 +27653,33 @@
                                     "https://en.wikipedia.org/wiki/Acroyoga", 
                                     "https://kanthaus.online/en/events/2018-12-05_acroyoga", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga"
+                                ]
+                            }, 
+                            {
+                                "id": 1455, 
+                                "guid": "e93ec9b5-505e-4a98-bde3-458a42475a28", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "0:50", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1455-session_anki_software_for_long_time_learning_even_programming_stuff_", 
+                                "title": "Anki: software for long-time learning (even programming stuff)", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "The speaker missed leipzig messe and have to reschedule from 14h to 16h. Sorry for the inconvenience", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Arthur_Rainbow", 
+                                        "public_name": "Arthur Rainbow"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Anki:_software_for_long-time_learning_(even_programming_stuff)"
                                 ]
                             }, 
                             {
