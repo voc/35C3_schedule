@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-30 14:20</version>
+  <version>2018-12-30 14:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -5354,6 +5354,25 @@
         <links>
           <link>https://twitter.com/c3auti</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup_-_Nummer_Zwei</link>
+        </links>
+      </event>
+      <event id="1537" guid="cc8f3af0-0110-4cfc-859b-4433640de3dd">
+        <logo/>
+        <date>2018-12-30T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>1:00</duration>
+        <room>Lecture room M2</room>
+        <slug>35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy</slug>
+        <title>Ev0 - a new political party concept to restore faith in democracy</title>
+        <subtitle>Let’s hack the political system from within.</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Discussion about a new party concept, setting out to make politics great again.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy</link>
         </links>
       </event>
       <event id="1054" guid="21d93c08-e863-4a3a-b94b-cf6a8b77dca4">

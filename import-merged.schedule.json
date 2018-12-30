@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3", 
+        "version": "Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -18468,6 +18468,37 @@
                                         "id": 19, 
                                         "name": "mikio", 
                                         "biography": "laniakea.blog", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 877, 
+                                "guid": "3566d68c-2ef8-54c4-ba6c-e0f86859d2f4", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "01:30", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "DDDMWB", 
+                                "url": "https://talks.komona.org/35c3/talk/DDDMWB", 
+                                "title": "Solidarity with Rojava: contributing our skills to revolution", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "The talk is a call to discuss about how we can contribute our skills to those who are in Rojava and build solidarity in a material way.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 64, 
+                                        "name": "Communia", 
+                                        "biography": "in solidarity with Rojava", 
                                         "answers": []
                                     }
                                 ], 

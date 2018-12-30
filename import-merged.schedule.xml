@@ -1,5 +1,5 @@
 <schedule>
-  <version>Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3</version>
+  <version>Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18311,6 +18311,35 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
           <person id="19">
             <name>mikio</name>
             <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="877" guid="3566d68c-2ef8-54c4-ba6c-e0f86859d2f4">
+        <logo/>
+        <date>2018-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>DDDMWB</slug>
+        <url>https://talks.komona.org/35c3/talk/DDDMWB</url>
+        <title>Solidarity with Rojava: contributing our skills to revolution</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>The talk is a call to discuss about how we can contribute our skills to those who are in Rojava and build solidarity in a material way.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">
+            <name>Communia</name>
+            <biography>in solidarity with Rojava</biography>
           </person>
         </persons>
         <links/>

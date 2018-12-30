@@ -9203,14 +9203,14 @@
             }
         ]
     }, 
-    "Session:Ev0 - a new political party concept to restore faith in democracy# 110a866695b8aca339ea2fa0d247900e": {
+    "Session:Ev0 - a new political party concept to restore faith in democracy# c87630e264aff999cb549f9dca51493c": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546185600", 
-                "raw": "1/2018/12/30/16/0/0/0"
+                "timestamp": "1546187400", 
+                "raw": "1/2018/12/30/16/30/0/0"
             }
         ], 
         "Has event track": [
@@ -9223,7 +9223,15 @@
         "Has session type": [
             "Discussion"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M2", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M2", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [
             "Let\u2019s hack the political system from within."
         ], 
@@ -9243,8 +9251,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy", 
         "Has end time": [
             {
-                "timestamp": "1546189200", 
-                "raw": "1/2018/12/30/17/0/0/0"
+                "timestamp": "1546191000", 
+                "raw": "1/2018/12/30/17/30/0/0"
             }
         ]
     }, 
