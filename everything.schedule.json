@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 16:40", 
+        "version": "Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 17:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -9624,6 +9624,34 @@
                                 "links": [
                                     "https://noduslabs.com/category/tutorials/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse"
+                                ]
+                            }, 
+                            {
+                                "id": 1128, 
+                                "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1128-session_ultraschall_und_reaper_programmierung", 
+                                "title": "Ultraschall und Reaper-Programmierung", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Programmierung der Audiosoftware Reaper", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                                        "public_name": "Rstockm"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ultraschall.fm", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
                                 ]
                             }
                         ], 
@@ -25349,35 +25377,6 @@
                             }
                         ], 
                         "Assembly:Blind navigation workshop": [
-                            {
-                                "id": 1210, 
-                                "guid": "2ca556b7-b032-4d2a-918d-622739d168f0", 
-                                "logo": null, 
-                                "date": "2018-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "1:00", 
-                                "room": "Assembly:Blind navigation workshop", 
-                                "slug": "35c3-1210-session_blind_navigation_workshops", 
-                                "title": "Blind Navigation Workshops", 
-                                "subtitle": "Day 4 TBD", 
-                                "track": "self organized sessions", 
-                                "type": "hands-on", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai", 
-                                        "public_name": "Saizai"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://s.ai/ccc/ws", 
-                                    "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops"
-                                ]
-                            }, 
                             {
                                 "id": 1209, 
                                 "guid": "2ca556b7-b032-4d2a-918d-622739d168ff", 

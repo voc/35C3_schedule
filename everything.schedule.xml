@@ -1,5 +1,5 @@
 <schedule>
-  <version>Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 16:40</version>
+  <version>Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 17:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9142,6 +9142,28 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <links>
           <link>https://noduslabs.com/category/tutorials/</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse</link>
+        </links>
+      </event>
+      <event id="1128" guid="df883408-2ce9-4640-89c4-112eb0d64394">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>1:30</duration>
+        <room>Seminar room 14-15</room>
+        <slug>35c3-1128-session_ultraschall_und_reaper_programmierung</slug>
+        <title>Ultraschall und Reaper-Programmierung</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>de</language>
+        <abstract/>
+        <description>Programmierung der Audiosoftware Reaper</description>
+        <persons>
+          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
+        </persons>
+        <links>
+          <link>http://ultraschall.fm</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
         </links>
       </event>
     </room>
@@ -23799,29 +23821,6 @@ Freifunk since 2003</biography>
       </event>
     </room>
     <room name="Assembly:Blind navigation workshop">
-      <event id="1210" guid="2ca556b7-b032-4d2a-918d-622739d168f0">
-        <logo/>
-        <date>2018-12-30T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>1:00</duration>
-        <room>Assembly:Blind navigation workshop</room>
-        <slug>35c3-1210-session_blind_navigation_workshops</slug>
-        <title>Blind Navigation Workshops</title>
-        <subtitle>Day 4 TBD</subtitle>
-        <track>self organized sessions</track>
-        <type>hands-on</type>
-        <language>en</language>
-        <abstract/>
-        <description>Learn to see the world without your eyes: hands on, with blindfold and guide cane! Learn to use your everyday senses in ways you don't know you don't know, from Sai, who navigates blind all the time.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Saizai">Saizai</person>
-        </persons>
-        <links>
-          <link>https://s.ai/ccc/ws</link>
-          <link>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9414.html</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Blind_Navigation_Workshops</link>
-        </links>
-      </event>
       <event id="1209" guid="2ca556b7-b032-4d2a-918d-622739d168ff">
         <logo/>
         <date>2018-12-29T19:00:00+01:00</date>
