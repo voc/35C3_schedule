@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
+        "version": "Renegade 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6662,13 +6662,13 @@
                                 "links": [
                                     {
                                         "url": "https://media.ccc.de/v/35c3-9733-was_schutzt_eigentlich_der_datenschutz", 
-                                        "title": "Vortragsvideo"
+                                        "title": "VIDEO"
                                     }
                                 ], 
                                 "attachments": [
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/702/original/35C3-Datenschutz_v1.0.pdf?1546096877", 
-                                        "title": "Vortragsfolien"
+                                        "title": "FOLIEN"
                                     }
                                 ]
                             }, 
@@ -10401,7 +10401,12 @@
                                         "public_name": "Anna Biselli"
                                     }
                                 ], 
-                                "links": [], 
+                                "links": [
+                                    {
+                                        "url": "https://media.ccc.de/v/35c3-9507-best_of_informationsfreiheit", 
+                                        "title": "VIDEO"
+                                    }
+                                ], 
                                 "attachments": []
                             }, 
                             {
@@ -11015,7 +11020,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/724/original/ConqueringLargeNumbersAtLHC.pdf?1546182066", 
+                                        "title": "Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9596.html", 
@@ -11264,7 +11278,7 @@
                                 "logo": "/system/events/logos/000/009/346/large/russiancard.png?1545036658", 
                                 "date": "2018-12-29T16:10:00+01:00", 
                                 "start": "16:10", 
-                                "duration": "05:00", 
+                                "duration": "00:40", 
                                 "room": "Clarke", 
                                 "slug": "35c3-9346-in_soviet_russia_smart_card_hacks_you", 
                                 "title": "In Soviet Russia Smart Card Hacks You", 

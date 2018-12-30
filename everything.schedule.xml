@@ -1,5 +1,5 @@
 <schedule>
-  <version>Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 17:00</version>
+  <version>Renegade 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 17:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8640,10 +8640,10 @@ Dieser Foundation-Talk vermittelt passioniert das Rüstzeug und die nötigen Gru
           <person id="1642">Rainer Rehak</person>
         </persons>
         <links>
-          <link href="https://media.ccc.de/v/35c3-9733-was_schutzt_eigentlich_der_datenschutz">Vortragsvideo</link>
+          <link href="https://media.ccc.de/v/35c3-9733-was_schutzt_eigentlich_der_datenschutz">VIDEO</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/702/original/35C3-Datenschutz_v1.0.pdf?1546096877">Vortragsfolien</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/702/original/35C3-Datenschutz_v1.0.pdf?1546096877">FOLIEN</attachment>
         </attachments>
       </event>
       <event id="9590" guid="c94fde2e-b5db-48f2-b94f-872ce7405875">
@@ -15566,7 +15566,9 @@ Was für die Breitbandversorgung in Deutschland gilt, gilt auch für Transparenz
           <person id="5764">Andre Meister</person>
           <person id="4465">Anna Biselli</person>
         </persons>
-        <links/>
+        <links>
+          <link href="https://media.ccc.de/v/35c3-9507-best_of_informationsfreiheit">VIDEO</link>
+        </links>
         <attachments/>
       </event>
       <event id="9858" guid="4f6f4278-1cfb-4e8d-935d-ec0ac2adefc5">
@@ -16043,7 +16045,10 @@ The rareness of the interesting phenomena not only calls for pure physics unders
           <person id="8622">Stefanie Todt</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/724/original/ConqueringLargeNumbersAtLHC.pdf?1546182066">Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9596" guid="7eac80f4-c999-4c2e-a0de-90eabca7ea7d">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9596.html</url>
@@ -16302,7 +16307,7 @@ It's used by educators, makers and professional hard- and software developers ar
         <logo>/system/events/logos/000/009/346/large/russiancard.png?1545036658</logo>
         <date>2018-12-29T16:10:00+01:00</date>
         <start>16:10</start>
-        <duration>05:00</duration>
+        <duration>00:40</duration>
         <room>Clarke</room>
         <slug>35c3-9346-in_soviet_russia_smart_card_hacks_you</slug>
         <title>In Soviet Russia Smart Card Hacks You</title>
