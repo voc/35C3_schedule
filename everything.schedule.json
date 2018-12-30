@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 katze 1.2.3 2018-12-30 13:40", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3 2018-12-30 14:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -18808,6 +18808,34 @@
                                     "https://www.facebook.com/lucky.green.73/posts/10155498914786706", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial"
                                 ]
+                            }, 
+                            {
+                                "id": 1127, 
+                                "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
+                                "logo": null, 
+                                "date": "2018-12-29T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "3:00", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1127-session_ultraschall_fuer_einsteigerinnen", 
+                                "title": "Ultraschall f\u00fcr EinsteigerInnen", 
+                                "subtitle": "Erst Anf\u00e4nger, dann Fortgeschrittene", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend.", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                                        "public_name": "Rstockm"
+                                    }
+                                ], 
+                                "links": [
+                                    "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen"
+                                ]
                             }
                         ], 
                         "Seminar room 13": [
@@ -29339,6 +29367,37 @@
                                 "answers": []
                             }, 
                             {
+                                "id": 875, 
+                                "guid": "aa4f8113-2495-58e3-b44b-a0e3324c0aa8", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "01:00", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "VPWCHK", 
+                                "url": "https://talks.komona.org/35c3/talk/VPWCHK", 
+                                "title": "DANCING OR ALGORITHMS", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Balboa Swing dance basics 4u", 
+                                "description": "To dance is to communicate between mind and body. Prediction, adaption and realization. When dancing together we communicate using our bodies and overcome the barriers of spoken language. We'll introduce you to the basics of Balboa swing dance.\r\n\r\nCouple dance is based on the follow and lead roles. You'll switch roles during this workshop. No prior experience and no partner needed.", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 39, 
+                                        "name": "Flo & Chardia", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
                                 "id": 833, 
                                 "guid": "412db2dd-a23e-5a55-b48a-8f7d521714bc", 
                                 "logo": null, 
@@ -29732,8 +29791,8 @@
                                 "id": 1540, 
                                 "guid": "3d05ef8d-95af-42a1-baf5-efd27b323c0c", 
                                 "logo": null, 
-                                "date": "2018-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-30T16:30:00+01:00", 
+                                "start": "16:30", 
                                 "duration": "0:45", 
                                 "room": "Assembly:Komona", 
                                 "slug": "35c3-1540-session_dancing_or_algorithms_bodies_or_physical_algorithms", 
@@ -29743,7 +29802,7 @@
                                 "type": "hands-on", 
                                 "language": "en", 
                                 "abstract": "", 
-                                "description": "Balboa Swing dance basics 4u", 
+                                "description": "Meet at Komona, there where you hear Swing music!", 
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dancing_or_Algorithms_%26_Bodies_or_Physical_Algorithms"
@@ -29808,8 +29867,8 @@
                                 "id": 1537, 
                                 "guid": "cc8f3af0-0110-4cfc-859b-4433640de3dd", 
                                 "logo": null, 
-                                "date": "2018-12-30T14:00:00+01:00", 
-                                "start": "14:00", 
+                                "date": "2018-12-30T16:00:00+01:00", 
+                                "start": "16:00", 
                                 "duration": "1:00", 
                                 "room": "", 
                                 "slug": "35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy", 

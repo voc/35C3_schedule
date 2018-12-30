@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 katze 1.2.3</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18452,6 +18452,37 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
           <person id="51">
             <name>Test</name>
             <biography>Test</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="875" guid="aa4f8113-2495-58e3-b44b-a0e3324c0aa8">
+        <logo/>
+        <date>2018-12-30T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>VPWCHK</slug>
+        <url>https://talks.komona.org/35c3/talk/VPWCHK</url>
+        <title>DANCING OR ALGORITHMS</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Balboa Swing dance basics 4u</abstract>
+        <description>To dance is to communicate between mind and body. Prediction, adaption and realization. When dancing together we communicate using our bodies and overcome the barriers of spoken language. We'll introduce you to the basics of Balboa swing dance.&#13;
+&#13;
+Couple dance is based on the follow and lead roles. You'll switch roles during this workshop. No prior experience and no partner needed.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="39">
+            <name>Flo &amp; Chardia</name>
+            <biography/>
           </person>
         </persons>
         <links/>

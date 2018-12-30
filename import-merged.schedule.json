@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 katze 1.2.3", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20181230_1356 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -18607,6 +18607,37 @@
                                         "id": 51, 
                                         "name": "Test", 
                                         "biography": "Test", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 875, 
+                                "guid": "aa4f8113-2495-58e3-b44b-a0e3324c0aa8", 
+                                "logo": null, 
+                                "date": "2018-12-30T16:30:00+01:00", 
+                                "start": "16:30", 
+                                "duration": "01:00", 
+                                "room": "Komona Thunderdome #workshops #talks", 
+                                "slug": "VPWCHK", 
+                                "url": "https://talks.komona.org/35c3/talk/VPWCHK", 
+                                "title": "DANCING OR ALGORITHMS", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Balboa Swing dance basics 4u", 
+                                "description": "To dance is to communicate between mind and body. Prediction, adaption and realization. When dancing together we communicate using our bodies and overcome the barriers of spoken language. We'll introduce you to the basics of Balboa swing dance.\r\n\r\nCouple dance is based on the follow and lead roles. You'll switch roles during this workshop. No prior experience and no partner needed.", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 39, 
+                                        "name": "Flo & Chardia", 
+                                        "biography": "", 
                                         "answers": []
                                     }
                                 ], 
