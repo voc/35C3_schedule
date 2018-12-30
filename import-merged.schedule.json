@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Police-Academy 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
+        "version": "Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -11796,7 +11796,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/723/original/35c3_MehrSchlechtAlsRecht_.pdf?1546179919", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9573.html", 

@@ -1,5 +1,5 @@
 <schedule>
-  <version>Police-Academy 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 16:00</version>
+  <version>Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 16:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -9144,28 +9144,6 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse</link>
         </links>
       </event>
-      <event id="1128" guid="df883408-2ce9-4640-89c4-112eb0d64394">
-        <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1128-session_ultraschall_und_reaper_programmierung</slug>
-        <title>Ultraschall und Reaper-Programmierung</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Programmierung der Audiosoftware Reaper</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
-        </persons>
-        <links>
-          <link>http://ultraschall.fm</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
-        </links>
-      </event>
     </room>
     <room name="Seminar room 13">
       <event id="1172" guid="f805d381-4f99-4eb4-a843-6d0d8a110d35">
@@ -16751,7 +16729,9 @@ Wir berichten vom Ablauf eines solchen Prozesses inklusive Anekdoten, weisen auf
           <person id="8782">Fabian Franzen</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/723/original/35c3_MehrSchlechtAlsRecht_.pdf?1546179919">Slides</attachment>
+        </attachments>
       </event>
       <event id="9573" guid="07f5d97a-161c-4435-abad-6ef08107df15">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9573.html</url>

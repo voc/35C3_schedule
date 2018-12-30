@@ -1,5 +1,5 @@
 <schedule>
-  <version>Police-Academy 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3</version>
+  <version>Quark 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -11662,7 +11662,9 @@ Wir berichten vom Ablauf eines solchen Prozesses inklusive Anekdoten, weisen auf
           <person id="8782">Fabian Franzen</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/723/original/35c3_MehrSchlechtAlsRecht_.pdf?1546179919">Slides</attachment>
+        </attachments>
       </event>
       <event id="9573" guid="07f5d97a-161c-4435-abad-6ef08107df15">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9573.html</url>

@@ -13940,6 +13940,44 @@
             }
         ]
     }, 
+    "Session:IPhone Qualcomm Baseband Analysis# c2b79c40311333df89e1b6bb9988036e": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543777200", 
+                "raw": "1/2018/12/2/19/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://kernelprogrammmer.com"
+        ], 
+        "Has description": [
+            "Dissecting iPhone's Qualcomm Baseband firmware"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "IPhone Qualcomm Baseband Analysis"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "bfea12e7-4364-4a15-a5c6-e4bb650a3176"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:IPhone_Qualcomm_Baseband_Analysis", 
+        "Has end time": []
+    }, 
     "Session:IT-Security-Unternehmen ohne Chefs# 87cdcda1f53476e67242894e44128fd8": {
         "Held in language": [
             "de - German"
@@ -27341,67 +27379,6 @@
             {
                 "timestamp": "1546092000", 
                 "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall und Reaper-Programmierung# ecd67cd60cec61125c841f3271605ddc": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://ultraschall.fm"
-        ], 
-        "Has description": [
-            "Programmierung der Audiosoftware Reaper"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Ultraschall und Reaper-Programmierung"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "df883408-2ce9-4640-89c4-112eb0d64394"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung", 
-        "Has end time": [
-            {
-                "timestamp": "1546029000", 
-                "raw": "1/2018/12/28/20/30/0/0"
             }
         ]
     }
