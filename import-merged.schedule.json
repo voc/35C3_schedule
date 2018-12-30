@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 katze 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -3203,6 +3203,76 @@
                                 "answers": []
                             }
                         ], 
+                        "WikiPakaWG K\u00fcche": [
+                            {
+                                "id": 511, 
+                                "guid": "e62603e3-dcd9-53c9-b649-34ba70bc4ca7", 
+                                "logo": null, 
+                                "date": "2018-12-27T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "7FRCLS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS", 
+                                "title": "Hilfe mit Queries", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "en", 
+                                "abstract": "Additional space to address questions about Wikidata and the query service, if wanted.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 6, 
+                                        "name": "Lucas", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 7, 
+                                        "name": "Amir", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 513, 
+                                "guid": "112730d8-6275-559e-8712-6233ffe59de0", 
+                                "logo": null, 
+                                "date": "2018-12-27T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "01:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "WGCR99", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WGCR99", 
+                                "title": "The Things Network / LoRaWAN", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben & Fachsimpeln.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 14, 
+                                        "name": "Caspar", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "WikiPakaWG Esszimmer": [
                             {
                                 "id": 503, 
@@ -3455,76 +3525,6 @@
                                     {
                                         "id": 16, 
                                         "name": "Michael", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }
-                        ], 
-                        "WikiPakaWG K\u00fcche": [
-                            {
-                                "id": 511, 
-                                "guid": "e62603e3-dcd9-53c9-b649-34ba70bc4ca7", 
-                                "logo": null, 
-                                "date": "2018-12-27T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "01:00", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "7FRCLS", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS", 
-                                "title": "Hilfe mit Queries", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "en", 
-                                "abstract": "Additional space to address questions about Wikidata and the query service, if wanted.", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 6, 
-                                        "name": "Lucas", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }, 
-                                    {
-                                        "id": 7, 
-                                        "name": "Amir", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 513, 
-                                "guid": "112730d8-6275-559e-8712-6233ffe59de0", 
-                                "logo": null, 
-                                "date": "2018-12-27T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "01:30", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "WGCR99", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WGCR99", 
-                                "title": "The Things Network / LoRaWAN", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben & Fachsimpeln.", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 14, 
-                                        "name": "Caspar", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -8324,6 +8324,132 @@
                                 "answers": []
                             }
                         ], 
+                        "WikiPakaWG K\u00fcche": [
+                            {
+                                "id": 504, 
+                                "guid": "b4fda763-216c-5c9d-b850-f049efa09e9b", 
+                                "logo": null, 
+                                "date": "2018-12-28T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "R9SZCT", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT", 
+                                "title": "Orgameeting Tag 2", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "WikiPaka Orga", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 539, 
+                                "guid": "a9053903-cfac-5d45-87d0-6711510c68e4", 
+                                "logo": null, 
+                                "date": "2018-12-28T15:00:00+01:00", 
+                                "start": "15:00", 
+                                "duration": "01:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "LSDUED", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED", 
+                                "title": "Ride Sharing, OpenData, Schnittstellen, Mitfahr-B\u00f6rsen, Fahrgemeinschaften, Trampen und mehr", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.\r\n\r\nInhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen\r\n\r\nNote there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.\r\n\r\nThe meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 38, 
+                                        "name": "Ernesto", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 519, 
+                                "guid": "928f8340-4213-5db7-bb4c-05f2187bde49", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "EC9ZRM", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM", 
+                                "title": "Wikibase Quick starter guide", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 19, 
+                                        "name": "Matthias", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 520, 
+                                "guid": "14be7095-56d4-56b8-ad6e-ef4e08238936", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:00:00+01:00", 
+                                "start": "20:00", 
+                                "duration": "01:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "JCUCQA", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA", 
+                                "title": "Wikidata+Wikibase meetup", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "en", 
+                                "abstract": "Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 20, 
+                                        "name": "L\u00e9a", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "WikiPakaWG Esszimmer": [
                             {
                                 "id": 501, 
@@ -8545,132 +8671,6 @@
                                     {
                                         "id": 5, 
                                         "name": "Daniel", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }
-                        ], 
-                        "WikiPakaWG K\u00fcche": [
-                            {
-                                "id": 504, 
-                                "guid": "b4fda763-216c-5c9d-b850-f049efa09e9b", 
-                                "logo": null, 
-                                "date": "2018-12-28T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "00:30", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "R9SZCT", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT", 
-                                "title": "Orgameeting Tag 2", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 4, 
-                                        "name": "WikiPaka Orga", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 539, 
-                                "guid": "a9053903-cfac-5d45-87d0-6711510c68e4", 
-                                "logo": null, 
-                                "date": "2018-12-28T15:00:00+01:00", 
-                                "start": "15:00", 
-                                "duration": "01:30", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "LSDUED", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED", 
-                                "title": "Ride Sharing, OpenData, Schnittstellen, Mitfahr-B\u00f6rsen, Fahrgemeinschaften, Trampen und mehr", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.\r\n\r\nInhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen\r\n\r\nNote there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.\r\n\r\nThe meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 38, 
-                                        "name": "Ernesto", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 519, 
-                                "guid": "928f8340-4213-5db7-bb4c-05f2187bde49", 
-                                "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "01:00", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "EC9ZRM", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM", 
-                                "title": "Wikibase Quick starter guide", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Talk", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 19, 
-                                        "name": "Matthias", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 520, 
-                                "guid": "14be7095-56d4-56b8-ad6e-ef4e08238936", 
-                                "logo": null, 
-                                "date": "2018-12-28T20:00:00+01:00", 
-                                "start": "20:00", 
-                                "duration": "01:30", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "JCUCQA", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA", 
-                                "title": "Wikidata+Wikibase meetup", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "en", 
-                                "abstract": "Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 20, 
-                                        "name": "L\u00e9a", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -14170,6 +14170,138 @@
                                 "answers": []
                             }
                         ], 
+                        "WikiPakaWG K\u00fcche": [
+                            {
+                                "id": 505, 
+                                "guid": "e6151f47-7ed3-5772-bb7f-201102afd00f", 
+                                "logo": null, 
+                                "date": "2018-12-29T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:15", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "BBDTHN", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN", 
+                                "title": "Orgameeting Tag 3", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "WikiPaka Orga", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 524, 
+                                "guid": "7527606f-ac7f-58c3-a384-eb86cdc93d90", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "VQP8QS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS", 
+                                "title": "Hilfe beim Tool-Bauen", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Workshop mit Gruppentischen", 
+                                "language": "en", 
+                                "abstract": "Additional space to help with building tools, if wanted.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 6, 
+                                        "name": "Lucas", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 533, 
+                                "guid": "6f6b4805-90f8-5c54-bfd7-2ba62839419b", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:30", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "B3V7LE", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE", 
+                                "title": "\ud83c\udf82\ud83c\udf89", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "\ud83c\udf89", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 28, 
+                                        "name": "Ulrike", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 541, 
+                                "guid": "184234c0-f856-58ef-9d1c-a60eaad3b007", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "01:00", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "FDHUCR", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR", 
+                                "title": "Zwischenstand der NSU-Aufkl\u00e4rung", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk", 
+                                "language": "de", 
+                                "abstract": "Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie innerparlamentarischer Ebene verschiedene Akteure an der Aufkl\u00e4rung. Wir wollen uns \u00fcber den aktuellen Stand und weitere Schritte verst\u00e4ndigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufkl\u00e4rung helfen kann.", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 46, 
+                                        "name": "noname", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 48, 
+                                        "name": "Caro (NSU-Watch)", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "WikiPakaWG Esszimmer": [
                             {
                                 "id": 522, 
@@ -14441,138 +14573,6 @@
                                     {
                                         "id": 23, 
                                         "name": "blinry", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }
-                        ], 
-                        "WikiPakaWG K\u00fcche": [
-                            {
-                                "id": 505, 
-                                "guid": "e6151f47-7ed3-5772-bb7f-201102afd00f", 
-                                "logo": null, 
-                                "date": "2018-12-29T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "00:15", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "BBDTHN", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN", 
-                                "title": "Orgameeting Tag 3", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 4, 
-                                        "name": "WikiPaka Orga", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 524, 
-                                "guid": "7527606f-ac7f-58c3-a384-eb86cdc93d90", 
-                                "logo": null, 
-                                "date": "2018-12-29T14:00:00+01:00", 
-                                "start": "14:00", 
-                                "duration": "01:00", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "VQP8QS", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS", 
-                                "title": "Hilfe beim Tool-Bauen", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Workshop mit Gruppentischen", 
-                                "language": "en", 
-                                "abstract": "Additional space to help with building tools, if wanted.", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 6, 
-                                        "name": "Lucas", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 533, 
-                                "guid": "6f6b4805-90f8-5c54-bfd7-2ba62839419b", 
-                                "logo": null, 
-                                "date": "2018-12-29T16:00:00+01:00", 
-                                "start": "16:00", 
-                                "duration": "01:30", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "B3V7LE", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE", 
-                                "title": "\ud83c\udf82\ud83c\udf89", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "\ud83c\udf89", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 28, 
-                                        "name": "Ulrike", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 541, 
-                                "guid": "184234c0-f856-58ef-9d1c-a60eaad3b007", 
-                                "logo": null, 
-                                "date": "2018-12-29T18:00:00+01:00", 
-                                "start": "18:00", 
-                                "duration": "01:00", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "FDHUCR", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR", 
-                                "title": "Zwischenstand der NSU-Aufkl\u00e4rung", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Talk", 
-                                "language": "de", 
-                                "abstract": "Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie innerparlamentarischer Ebene verschiedene Akteure an der Aufkl\u00e4rung. Wir wollen uns \u00fcber den aktuellen Stand und weitere Schritte verst\u00e4ndigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufkl\u00e4rung helfen kann.", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 46, 
-                                        "name": "noname", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }, 
-                                    {
-                                        "id": 48, 
-                                        "name": "Caro (NSU-Watch)", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -17723,6 +17723,39 @@
                                 "answers": []
                             }
                         ], 
+                        "WikiPakaWG K\u00fcche": [
+                            {
+                                "id": 506, 
+                                "guid": "60b68950-57f5-5ca9-880d-9b1a732b2ad1", 
+                                "logo": null, 
+                                "date": "2018-12-30T12:00:00+01:00", 
+                                "start": "12:00", 
+                                "duration": "00:15", 
+                                "room": "WikiPakaWG K\u00fcche", 
+                                "slug": "XXY8Q7", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7", 
+                                "title": "Orgameeting Tag 4", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Meetup", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": null, 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "WikiPaka Orga", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "WikiPakaWG Esszimmer": [
                             {
                                 "id": 529, 
@@ -17839,46 +17872,13 @@
                                 "id": 508, 
                                 "guid": "386ef762-a66a-5cc2-b6bd-3bd139cb9b07", 
                                 "logo": null, 
-                                "date": "2018-12-30T17:45:00+01:00", 
-                                "start": "17:45", 
+                                "date": "2018-12-30T17:00:00+01:00", 
+                                "start": "17:00", 
                                 "duration": "00:15", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "RXZ3FE", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE", 
                                 "title": "Abbau-Meeting", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Meetup", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": null, 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 4, 
-                                        "name": "WikiPaka Orga", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }
-                        ], 
-                        "WikiPakaWG K\u00fcche": [
-                            {
-                                "id": 506, 
-                                "guid": "60b68950-57f5-5ca9-880d-9b1a732b2ad1", 
-                                "logo": null, 
-                                "date": "2018-12-30T12:00:00+01:00", 
-                                "start": "12:00", 
-                                "duration": "00:15", 
-                                "room": "WikiPakaWG K\u00fcche", 
-                                "slug": "XXY8Q7", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7", 
-                                "title": "Orgameeting Tag 4", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Meetup", 
@@ -18618,8 +18618,8 @@
                                 "id": 833, 
                                 "guid": "412db2dd-a23e-5a55-b48a-8f7d521714bc", 
                                 "logo": null, 
-                                "date": "2018-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
+                                "date": "2018-12-30T17:30:00+01:00", 
+                                "start": "17:30", 
                                 "duration": "01:00", 
                                 "room": "Komona Thunderdome #workshops #talks", 
                                 "slug": "UE9PLG", 

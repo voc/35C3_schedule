@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 katze 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3253,6 +3253,70 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Küche">
+      <event id="511" guid="e62603e3-dcd9-53c9-b649-34ba70bc4ca7">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>7FRCLS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS</url>
+        <title>Hilfe mit Queries</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Additional space to address questions about Wikidata and the query service, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+          <person id="7">
+            <name>Amir</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="513" guid="112730d8-6275-559e-8712-6233ffe59de0">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>WGCR99</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99</url>
+        <title>The Things Network / LoRaWAN</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben &amp; Fachsimpeln.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="14">
+            <name>Caspar</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="503" guid="3a8dd9e1-a581-516d-b3e4-19418371591a">
         <logo/>
@@ -3478,70 +3542,6 @@ Frank Wunderlich-Pfeiffer (Vollzeitnerd und Weltraumjournalist) und Christopher 
         <persons>
           <person id="16">
             <name>Michael</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPakaWG Küche">
-      <event id="511" guid="e62603e3-dcd9-53c9-b649-34ba70bc4ca7">
-        <logo/>
-        <date>2018-12-27T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>7FRCLS</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS</url>
-        <title>Hilfe mit Queries</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>en</language>
-        <abstract>Additional space to address questions about Wikidata and the query service, if wanted.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="6">
-            <name>Lucas</name>
-            <biography/>
-          </person>
-          <person id="7">
-            <name>Amir</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="513" guid="112730d8-6275-559e-8712-6233ffe59de0">
-        <logo/>
-        <date>2018-12-27T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:30</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>WGCR99</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99</url>
-        <title>The Things Network / LoRaWAN</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>Treffen der LoRaWAN / The Things Network Communities aus Deutschland. Kennenlernen, Erfahrungsaustausch, gemeinsame Projekte anschieben &amp; Fachsimpeln.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="14">
-            <name>Caspar</name>
             <biography/>
           </person>
         </persons>
@@ -8431,6 +8431,130 @@ Als Gästinnen dabei habe ich @_noujoum und @bkastl.</description>
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Küche">
+      <event id="504" guid="b4fda763-216c-5c9d-b850-f049efa09e9b">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>R9SZCT</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT</url>
+        <title>Orgameeting Tag 2</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="539" guid="a9053903-cfac-5d45-87d0-6711510c68e4">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>LSDUED</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED</url>
+        <title>Ride Sharing, OpenData, Schnittstellen, Mitfahr-Börsen, Fahrgemeinschaften, Trampen und mehr</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.&#13;
+&#13;
+Inhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen&#13;
+&#13;
+Note there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.&#13;
+&#13;
+The meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="38">
+            <name>Ernesto</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="519" guid="928f8340-4213-5db7-bb4c-05f2187bde49">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>EC9ZRM</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM</url>
+        <title>Wikibase Quick starter guide</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>Matthias</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="520" guid="14be7095-56d4-56b8-ad6e-ef4e08238936">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>JCUCQA</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA</url>
+        <title>Wikidata+Wikibase meetup</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>en</language>
+        <abstract>Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>Léa</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="501" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
         <logo/>
@@ -8628,130 +8752,6 @@ The workshop will give a short introduction into paper.js and how it can be used
         <persons>
           <person id="5">
             <name>Daniel</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPakaWG Küche">
-      <event id="504" guid="b4fda763-216c-5c9d-b850-f049efa09e9b">
-        <logo/>
-        <date>2018-12-28T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>R9SZCT</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT</url>
-        <title>Orgameeting Tag 2</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="4">
-            <name>WikiPaka Orga</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="539" guid="a9053903-cfac-5d45-87d0-6711510c68e4">
-        <logo/>
-        <date>2018-12-28T15:00:00+01:00</date>
-        <start>15:00</start>
-        <duration>01:30</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>LSDUED</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED</url>
-        <title>Ride Sharing, OpenData, Schnittstellen, Mitfahr-Börsen, Fahrgemeinschaften, Trampen und mehr</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>We meet to talk about ride sharing. How to reduce the ecologic impact of traffic by more people riding in cars together. Some activists of the ride sharing ecosystem will be there and we would like to meet more people to grow. Topics will be tools, data and especiall ahot to imporove ride shraing to and from the Congress.&#13;
-&#13;
-Inhalte: Ride Sharing, Mitfahren, Fahrgemeinschaften, Trampen&#13;
-&#13;
-Note there is 35c3.fahrgemeinschaft.de for finding ride to and from the Congress.&#13;
-&#13;
-The meeting is not exclusively about fahrgemeinschaft.de but open to any other projects, ideas, etc.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="38">
-            <name>Ernesto</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="519" guid="928f8340-4213-5db7-bb4c-05f2187bde49">
-        <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>EC9ZRM</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM</url>
-        <title>Wikibase Quick starter guide</title>
-        <subtitle/>
-        <track/>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="19">
-            <name>Matthias</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="520" guid="14be7095-56d4-56b8-ad6e-ef4e08238936">
-        <logo/>
-        <date>2018-12-28T20:00:00+01:00</date>
-        <start>20:00</start>
-        <duration>01:30</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>JCUCQA</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA</url>
-        <title>Wikidata+Wikibase meetup</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>en</language>
-        <abstract>Meetup for all Wikidata and Wikibase enthusiasts. Come and meet the community, ask questions, hack together</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="20">
-            <name>Léa</name>
             <biography/>
           </person>
         </persons>
@@ -14068,6 +14068,128 @@ Wir nehmen uns einfach ein anderes Film Universum vor, nämlich dass Marvel Cine
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Küche">
+      <event id="505" guid="e6151f47-7ed3-5772-bb7f-201102afd00f">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>BBDTHN</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN</url>
+        <title>Orgameeting Tag 3</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="524" guid="7527606f-ac7f-58c3-a384-eb86cdc93d90">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>VQP8QS</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS</url>
+        <title>Hilfe beim Tool-Bauen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop mit Gruppentischen</type>
+        <language>en</language>
+        <abstract>Additional space to help with building tools, if wanted.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Lucas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="533" guid="6f6b4805-90f8-5c54-bfd7-2ba62839419b">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>B3V7LE</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE</url>
+        <title>🎂🎉</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract>🎉</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>Ulrike</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="541" guid="184234c0-f856-58ef-9d1c-a60eaad3b007">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>FDHUCR</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR</url>
+        <title>Zwischenstand der NSU-Aufklärung</title>
+        <subtitle/>
+        <track/>
+        <type>Talk</type>
+        <language>de</language>
+        <abstract>Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie innerparlamentarischer Ebene verschiedene Akteure an der Aufklärung. Wir wollen uns über den aktuellen Stand und weitere Schritte verständigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufklärung helfen kann.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="46">
+            <name>noname</name>
+            <biography/>
+          </person>
+          <person id="48">
+            <name>Caro (NSU-Watch)</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="522" guid="14016199-6d4b-5f13-8b2f-a057afeb3abd">
         <logo/>
@@ -14318,128 +14440,6 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
           </person>
           <person id="23">
             <name>blinry</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPakaWG Küche">
-      <event id="505" guid="e6151f47-7ed3-5772-bb7f-201102afd00f">
-        <logo/>
-        <date>2018-12-29T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:15</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>BBDTHN</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN</url>
-        <title>Orgameeting Tag 3</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="4">
-            <name>WikiPaka Orga</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="524" guid="7527606f-ac7f-58c3-a384-eb86cdc93d90">
-        <logo/>
-        <date>2018-12-29T14:00:00+01:00</date>
-        <start>14:00</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>VQP8QS</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS</url>
-        <title>Hilfe beim Tool-Bauen</title>
-        <subtitle/>
-        <track/>
-        <type>Workshop mit Gruppentischen</type>
-        <language>en</language>
-        <abstract>Additional space to help with building tools, if wanted.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="6">
-            <name>Lucas</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="533" guid="6f6b4805-90f8-5c54-bfd7-2ba62839419b">
-        <logo/>
-        <date>2018-12-29T16:00:00+01:00</date>
-        <start>16:00</start>
-        <duration>01:30</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>B3V7LE</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE</url>
-        <title>🎂🎉</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract>🎉</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="28">
-            <name>Ulrike</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="541" guid="184234c0-f856-58ef-9d1c-a60eaad3b007">
-        <logo/>
-        <date>2018-12-29T18:00:00+01:00</date>
-        <start>18:00</start>
-        <duration>01:00</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>FDHUCR</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR</url>
-        <title>Zwischenstand der NSU-Aufklärung</title>
-        <subtitle/>
-        <track/>
-        <type>Talk</type>
-        <language>de</language>
-        <abstract>Im NSU-Komplex arbeiten aktuell auf juristischer sowie ausser- wie innerparlamentarischer Ebene verschiedene Akteure an der Aufklärung. Wir wollen uns über den aktuellen Stand und weitere Schritte verständigen. Ziel ist eine bessere Vernetzung und aufzuzeigen, wo auch das Chaos-Umfeld bei der NSU-Aufklärung helfen kann.</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="46">
-            <name>noname</name>
-            <biography/>
-          </person>
-          <person id="48">
-            <name>Caro (NSU-Watch)</name>
             <biography/>
           </person>
         </persons>
@@ -17610,6 +17610,37 @@ Wir werden den Congress aus Kinderaugen Revue passieren lassen. Außerdem berich
         <answers/>
       </event>
     </room>
+    <room name="WikiPakaWG Küche">
+      <event id="506" guid="60b68950-57f5-5ca9-880d-9b1a732b2ad1">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:15</duration>
+        <room>WikiPakaWG Küche</room>
+        <slug>XXY8Q7</slug>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7</url>
+        <title>Orgameeting Tag 4</title>
+        <subtitle/>
+        <track/>
+        <type>Meetup</type>
+        <language>de</language>
+        <abstract/>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>WikiPaka Orga</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="529" guid="2ef1d870-f2b1-583b-98c6-09574123a90f">
         <logo/>
@@ -17719,44 +17750,13 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
       </event>
       <event id="508" guid="386ef762-a66a-5cc2-b6bd-3bd139cb9b07">
         <logo/>
-        <date>2018-12-30T17:45:00+01:00</date>
-        <start>17:45</start>
+        <date>2018-12-30T17:00:00+01:00</date>
+        <start>17:00</start>
         <duration>00:15</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>RXZ3FE</slug>
         <url>https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE</url>
         <title>Abbau-Meeting</title>
-        <subtitle/>
-        <track/>
-        <type>Meetup</type>
-        <language>de</language>
-        <abstract/>
-        <description/>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="4">
-            <name>WikiPaka Orga</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-    </room>
-    <room name="WikiPakaWG Küche">
-      <event id="506" guid="60b68950-57f5-5ca9-880d-9b1a732b2ad1">
-        <logo/>
-        <date>2018-12-30T12:00:00+01:00</date>
-        <start>12:00</start>
-        <duration>00:15</duration>
-        <room>WikiPakaWG Küche</room>
-        <slug>XXY8Q7</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7</url>
-        <title>Orgameeting Tag 4</title>
         <subtitle/>
         <track/>
         <type>Meetup</type>
@@ -18460,8 +18460,8 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
       </event>
       <event id="833" guid="412db2dd-a23e-5a55-b48a-8f7d521714bc">
         <logo/>
-        <date>2018-12-30T16:30:00+01:00</date>
-        <start>16:30</start>
+        <date>2018-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
         <duration>01:00</duration>
         <room>Komona Thunderdome #workshops #talks</room>
         <slug>UE9PLG</slug>
