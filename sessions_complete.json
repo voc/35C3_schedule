@@ -9032,6 +9032,51 @@
             }
         ]
     }, 
+    "Session:Ev0 - a new political party concept to restore faith in democracy# 2bfce4be36166083371b651dfeabdff4": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Discussion about a new party concept, setting out to make politics great again."
+        ], 
+        "Has session type": [
+            "Discussion"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [
+            "Let\u2019s hack the political system from within."
+        ], 
+        "Is organized by": [], 
+        "Has title": [
+            "Ev0 - a new political party concept to restore faith in democracy"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "cc8f3af0-0110-4cfc-859b-4433640de3dd"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy", 
+        "Has end time": [
+            {
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
+            }
+        ]
+    }, 
     "Session:Everybody hates MIMEs - Challenges in keeping p\u2261p engine development free# 80482392db9400cadf28af55704206aa": {
         "Held in language": [
             "en - English"
@@ -27337,74 +27382,6 @@
             {
                 "timestamp": "1546090200", 
                 "raw": "1/2018/12/29/13/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Upload filters: Call to action!# bc4542d80b452e1943c4483cf87c8c7b": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546081200", 
-                "raw": "1/2018/12/29/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "Call for action to remove upload filters from proposed EU legislation"
-        ], 
-        "Has session type": [
-            "Meeting"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Help defend our freedom of speech on-line!"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Pab", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Pab", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }, 
-            {
-                "fulltext": "User:Diego-edri", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Upload filters: Call to action!"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "26f72a31-9f02-4fbf-944d-23f77608ceec"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!", 
-        "Has end time": [
-            {
-                "timestamp": "1546084800", 
-                "raw": "1/2018/12/29/12/0/0/0"
             }
         ]
     }

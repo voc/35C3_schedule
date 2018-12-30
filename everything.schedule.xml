@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 00:40</version>
+  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 01:00</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17852,28 +17852,6 @@ However, it's not always easy...</description>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis</link>
         </links>
       </event>
-      <event id="1265" guid="26f72a31-9f02-4fbf-944d-23f77608ceec">
-        <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1265-session_upload_filters_call_to_action_</slug>
-        <title>Upload filters: Call to action!</title>
-        <subtitle>Help defend our freedom of speech on-line!</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Call for action to remove upload filters from proposed EU legislation</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pab">Pab</person>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri">Diego-edri</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
-        </links>
-      </event>
     </room>
     <room name="Lecture room M1">
       <event id="1244" guid="f60a4ce8-bf79-4b40-a01a-1661188399b0">
@@ -27942,6 +27920,25 @@ Wir freuen uns auf Dich und Dein Input!</description>
       </event>
     </room>
     <room name="">
+      <event id="1537" guid="cc8f3af0-0110-4cfc-859b-4433640de3dd">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>1:00</duration>
+        <room/>
+        <slug>35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy</slug>
+        <title>Ev0 - a new political party concept to restore faith in democracy</title>
+        <subtitle>Let’s hack the political system from within.</subtitle>
+        <track>self organized sessions</track>
+        <type>discussion</type>
+        <language>en</language>
+        <abstract/>
+        <description>Discussion about a new party concept, setting out to make politics great again.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy</link>
+        </links>
+      </event>
       <event id="1534" guid="3e77705d-652d-4ad4-bd1d-a2ef8fc8554f">
         <logo/>
         <date>2018-12-30T15:20:00+01:00</date>

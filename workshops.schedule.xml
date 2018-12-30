@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-30 00:40</version>
+  <version>2018-12-30 01:00</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -4834,28 +4834,6 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tuwat_AG_Kritis</link>
-        </links>
-      </event>
-      <event id="1265" guid="26f72a31-9f02-4fbf-944d-23f77608ceec">
-        <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 13</room>
-        <slug>35c3-1265-session_upload_filters_call_to_action_</slug>
-        <title>Upload filters: Call to action!</title>
-        <subtitle>Help defend our freedom of speech on-line!</subtitle>
-        <track>self organized sessions</track>
-        <type>meeting</type>
-        <language>en</language>
-        <abstract/>
-        <description>Call for action to remove upload filters from proposed EU legislation</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Pab">Pab</person>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Diego-edri">Diego-edri</person>
-        </persons>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Upload_filters:_Call_to_action!</link>
         </links>
       </event>
     </room>
