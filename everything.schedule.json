@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:00", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:20", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -306,7 +306,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/713/original/Effektiver_Schutz_vor_Grundrechten_20181227.pdf?1546115285", 
+                                        "title": "Pr\u00e4sentation"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9992.html", 
@@ -16712,7 +16717,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/712/original/35C3_-_e-evidence_20181229.pdf?1546115203", 
+                                        "title": "Presentation"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9667.html", 
@@ -16741,51 +16751,51 @@
                                 ], 
                                 "links": [
                                     {
-                                        "url": "verificationhandbook.com", 
+                                        "url": "http://verificationhandbook.com", 
                                         "title": "verificationhandbook.com"
                                     }, 
                                     {
-                                        "url": "osintframework.com", 
+                                        "url": "http://osintframework.com", 
                                         "title": "osintframework.com"
                                     }, 
                                     {
-                                        "url": "suncalc.org", 
+                                        "url": "http://suncalc.org", 
                                         "title": "suncalc.org"
                                     }, 
                                     {
-                                        "url": "invid-project.eu", 
+                                        "url": "http://invid-project.eu", 
                                         "title": "invid-project.eu"
                                     }, 
                                     {
-                                        "url": "wikimapia.org", 
+                                        "url": "http://wikimapia.org", 
                                         "title": "wikimapia.org"
                                     }, 
                                     {
-                                        "url": "graph.tips", 
+                                        "url": "http://graph.tips", 
                                         "title": "graph.tips"
                                     }, 
                                     {
-                                        "url": "citizenevidence.amnestyusa.org", 
+                                        "url": "http://citizenevidence.amnestyusa.org", 
                                         "title": "citizenevidence.amnestyusa.org"
                                     }, 
                                     {
-                                        "url": "camopedia.org", 
+                                        "url": "http://camopedia.org", 
                                         "title": "camopedia.org"
                                     }, 
                                     {
-                                        "url": "logos.iti.gr", 
+                                        "url": "http://logos.iti.gr", 
                                         "title": "logos.iti.gr"
                                     }, 
                                     {
-                                        "url": "worldlicenseplates.com", 
+                                        "url": "http://worldlicenseplates.com", 
                                         "title": "worldlicenseplates.com"
                                     }, 
                                     {
-                                        "url": "docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit", 
+                                        "url": "https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit", 
                                         "title": "Bellingcat Toolkit (Google Doc)"
                                     }, 
                                     {
-                                        "url": "geolocatethis.site ", 
+                                        "url": "http://geolocatethis.site", 
                                         "title": "geolocatethis.site (aktuell offline)"
                                     }
                                 ], 
@@ -16825,7 +16835,15 @@
                                 "attachments": [
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/690/original/hebocon.png?1546085092", 
-                                        "title": "hebocon.png"
+                                        "title": "Advertisment on Site"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/710/original/Hebocon.pdf?1546113492", 
+                                        "title": "Slides for Translators"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
                                     }
                                 ]
                             }, 
@@ -17032,7 +17050,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/719/original/memsad.pptx?1546120017", 
+                                        "title": "memsad.pptx"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9973.html", 
@@ -17223,7 +17250,20 @@
                                         "title": "Privacy International Website [onion]"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/716/original/How_Facebook_tracks_users_on_Android_%28even_if_they_don't_have_a_Facebook_account%29-3.pdf?1546118360", 
+                                        "title": "Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }
                         ], 
                         "Clarke": [
@@ -17434,7 +17474,12 @@
                                         "title": "Technical Report"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/720/original/cryptojacking.pdf?1546124881", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9385.html", 
@@ -17951,8 +17996,8 @@
                                 ], 
                                 "attachments": [
                                     {
-                                        "url": "/system/event_attachments/attachments/000/003/703/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546097525", 
-                                        "title": "35C3_HackingTheHumanMicrobiome_LorenzAdlung_Talk_Slides"
+                                        "url": "/system/event_attachments/attachments/000/003/709/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546112640", 
+                                        "title": "20181229_HackingTheHumanMicrobiome_LorenzAdlung"
                                     }
                                 ]
                             }, 
@@ -18392,7 +18437,12 @@
                                         "title": "Presentation from the beginning of the project (2016)"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/708/original/presentation.pdf?1546106349", 
+                                        "title": "Presentation"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9371.html", 

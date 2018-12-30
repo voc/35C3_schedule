@@ -1,5 +1,5 @@
 <schedule>
-  <version>Naked Gun 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:00</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -276,7 +276,9 @@ One of the most common applications of deep learning is the interpretation of im
           <person id="174">Klaus Landefeld</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/713/original/Effektiver_Schutz_vor_Grundrechten_20181227.pdf?1546115285">Präsentation</attachment>
+        </attachments>
       </event>
       <event id="9992" guid="71bdcf60-c567-4cf6-94f4-5681b1d008b4">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9992.html</url>
@@ -15793,7 +15795,9 @@ Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the 
           <person id="174">Klaus Landefeld</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/712/original/35C3_-_e-evidence_20181229.pdf?1546115203">Presentation</attachment>
+        </attachments>
       </event>
       <event id="9667" guid="a667d070-483e-4e2b-9bf9-d9a5475b6356">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9667.html</url>
@@ -15818,18 +15822,18 @@ Urgent action is required &lt;b&gt;now&lt;/b&gt; by diverse groups to fight the 
           <person id="8192">Robert Clausen</person>
         </persons>
         <links>
-          <link href="verificationhandbook.com">verificationhandbook.com</link>
-          <link href="osintframework.com">osintframework.com</link>
-          <link href="suncalc.org">suncalc.org</link>
-          <link href="invid-project.eu">invid-project.eu</link>
-          <link href="wikimapia.org">wikimapia.org</link>
-          <link href="graph.tips">graph.tips</link>
-          <link href="citizenevidence.amnestyusa.org">citizenevidence.amnestyusa.org</link>
-          <link href="camopedia.org">camopedia.org</link>
-          <link href="logos.iti.gr">logos.iti.gr</link>
-          <link href="worldlicenseplates.com">worldlicenseplates.com</link>
-          <link href="docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit">Bellingcat Toolkit (Google Doc)</link>
-          <link href="geolocatethis.site ">geolocatethis.site (aktuell offline)</link>
+          <link href="http://verificationhandbook.com">verificationhandbook.com</link>
+          <link href="http://osintframework.com">osintframework.com</link>
+          <link href="http://suncalc.org">suncalc.org</link>
+          <link href="http://invid-project.eu">invid-project.eu</link>
+          <link href="http://wikimapia.org">wikimapia.org</link>
+          <link href="http://graph.tips">graph.tips</link>
+          <link href="http://citizenevidence.amnestyusa.org">citizenevidence.amnestyusa.org</link>
+          <link href="http://camopedia.org">camopedia.org</link>
+          <link href="http://logos.iti.gr">logos.iti.gr</link>
+          <link href="http://worldlicenseplates.com">worldlicenseplates.com</link>
+          <link href="https://docs.google.com/document/d/1BfLPJpRtyq4RFtHJoNpvWQjmGnyVkfE2HYoICKOGguA/edit">Bellingcat Toolkit (Google Doc)</link>
+          <link href="http://geolocatethis.site">geolocatethis.site (aktuell offline)</link>
         </links>
         <attachments/>
       </event>
@@ -15863,7 +15867,9 @@ Please contact @honky in RocketChat or visit the ChaosZone Hall 2 if you want to
           <link href="https://media.ccc.de/v/DS2018-9308-hebocon_finale">Datenspuren 2018</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/690/original/hebocon.png?1546085092">hebocon.png</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/690/original/hebocon.png?1546085092">Advertisment on Site</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/710/original/Hebocon.pdf?1546113492">Slides for Translators</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9911" guid="e4dbae08-779a-4972-a099-7c85df141fa4">
@@ -16021,7 +16027,10 @@ It is unfortunate that the Vita was such a niche device, but we hope this talk w
           <person id="821">Ilja van Sprundel</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/719/original/memsad.pptx?1546120017">memsad.pptx</attachment>
+        </attachments>
       </event>
       <event id="9973" guid="7030e406-2e1f-4d4d-8b1b-c68aa22a3434">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9973.html</url>
@@ -16223,7 +16232,11 @@ Most of the identified vulnerabilities [1, 2, 3, 4] identified to this day inclu
           <link href="https://privacyinternational.org">Privacy International Website [Clearnet]</link>
           <link href="https://privacyintyqcroe.onion">Privacy International Website [onion]</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/716/original/How_Facebook_tracks_users_on_Android_%28even_if_they_don't_have_a_Facebook_account%29-3.pdf?1546118360">Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
     </room>
     <room name="Clarke">
@@ -16415,7 +16428,9 @@ In this talk, we systematically explore this phenomenon: To begin with, we demon
         <links>
           <link href="https://arxiv.org/pdf/1808.09474.pdf">Technical Report</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/720/original/cryptojacking.pdf?1546124881">Slides</attachment>
+        </attachments>
       </event>
       <event id="9385" guid="1d9c1120-c076-4802-b95b-f35d8396638b">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9385.html</url>
@@ -16861,7 +16876,7 @@ This will be followed by an introduction into different experimental and computa
           <link href="https://lorenzadlung.wordpress.com/socialmedia/scienceslams/">Link to my blog regarding science slams:</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/703/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546097525">35C3_HackingTheHumanMicrobiome_LorenzAdlung_Talk_Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/709/original/20181229_HackingTheHumanMicrobiome_LorenzAdlung.pdf?1546112640">20181229_HackingTheHumanMicrobiome_LorenzAdlung</attachment>
         </attachments>
       </event>
       <event id="9616" guid="84be4017-78a0-444b-8b6f-5a14089bb0f7">
@@ -17240,7 +17255,9 @@ However, it's not always easy...</description>
           <link href="https://community.foodsaving.world">Foodsaving Community Forum</link>
           <link href="https://www.youtube.com/watch?v=MLWccmvhIlU">Presentation from the beginning of the project (2016)</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/708/original/presentation.pdf?1546106349">Presentation</attachment>
+        </attachments>
       </event>
       <event id="9371" guid="b87de377-eb03-4795-b998-7988a63fc239">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9371.html</url>
