@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.2", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -17450,37 +17450,6 @@
                                 "language": "en", 
                                 "abstract": "Let's start into day 4", 
                                 "description": "", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 6, 
-                                        "name": "Andreas Dorfer", 
-                                        "biography": "https://forum.freifunk.net/u/adorfer/", 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
-                                "id": 238, 
-                                "guid": "b528a5cb-1e35-53f4-ba24-0a323f452357", 
-                                "logo": null, 
-                                "date": "2018-12-30T13:00:00+01:00", 
-                                "start": "13:00", 
-                                "duration": "00:20", 
-                                "room": "OIO Vortrags-Arena", 
-                                "slug": "PPAKMW", 
-                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/PPAKMW", 
-                                "title": "Freifunk Lessons Learned 2018", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Talk 20min total (etwa 5min  Q&A)", 
-                                "language": "de", 
-                                "abstract": "Reisebericht aus der Freifunk-Lernkurve 2018 - Was 2017 schon geahnt habe und 2016 noch nicht wusste", 
-                                "description": "Gluon2018, \r\n2.4GHz ist ein Zombie\r\n32MB-RAM-Krise\r\nStagnation der Communities\r\nSelbstausbeutung und Ern\u00fcchterung\r\nFestivals werden gr\u00f6\u00dfer und vor allem besser", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [

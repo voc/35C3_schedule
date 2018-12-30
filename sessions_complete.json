@@ -1619,61 +1619,6 @@
             }
         ]
     }, 
-    "Session:AcroYoga# 19f6cb949606b54b19b79f1c9a45d0c7": {
-        "Held in language": [
-            "en - English", 
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546185600", 
-                "raw": "1/2018/12/30/16/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://en.wikipedia.org/wiki/Acroyoga", 
-            "https://kanthaus.online/en/events/2018-12-05_acroyoga"
-        ], 
-        "Has description": [
-            "AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage."
-        ], 
-        "Has session type": [
-            "Hands-On"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 13", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [], 
-        "Has title": [
-            "AcroYoga"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "7a1bddd6-591d-4d82-919e-4ac1cf1309d6"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga", 
-        "Has end time": [
-            {
-                "timestamp": "1546191000", 
-                "raw": "1/2018/12/30/17/30/0/0"
-            }
-        ]
-    }, 
     "Session:AcroYoga# 2c80f73f2bb1e1c59765de15b6c2ac24": {
         "Held in language": [
             "en - English", 
@@ -1781,6 +1726,61 @@
             {
                 "timestamp": "1546092000", 
                 "raw": "1/2018/12/29/14/0/0/0"
+            }
+        ]
+    }, 
+    "Session:AcroYoga# fef6e6228cf01f4366290bfee8188876": {
+        "Held in language": [
+            "en - English", 
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546185600", 
+                "raw": "1/2018/12/30/16/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://en.wikipedia.org/wiki/Acroyoga", 
+            "https://kanthaus.online/en/events/2018-12-05_acroyoga"
+        ], 
+        "Has description": [
+            "AcroYoga is a physical practice which combines yoga, acrobatics and Thai massage."
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room M3", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "AcroYoga"
+        ], 
+        "Has duration": [
+            90
+        ], 
+        "GUID": [
+            "7a1bddd6-591d-4d82-919e-4ac1cf1309d6"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:AcroYoga", 
+        "Has end time": [
+            {
+                "timestamp": "1546191000", 
+                "raw": "1/2018/12/30/17/30/0/0"
             }
         ]
     }, 
@@ -3753,15 +3753,15 @@
             }
         ]
     }, 
-    "Session:BigTrak# feaf0ad48ce92e2294f5bd3021835797": {
+    "Session:BigTrak# 9122e9ae9fbb42dbafc9ffdba439654b": {
         "Held in language": [
             "de - German", 
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1545998400", 
-                "raw": "1/2018/12/28/12/0/0/0"
+                "timestamp": "1546172100", 
+                "raw": "1/2018/12/30/12/15/0/0"
             }
         ], 
         "Has event track": [
@@ -3808,8 +3808,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:BigTrak", 
         "Has end time": [
             {
-                "timestamp": "1546005600", 
-                "raw": "1/2018/12/28/14/0/0/0"
+                "timestamp": "1546179300", 
+                "raw": "1/2018/12/30/14/15/0/0"
             }
         ]
     }, 
@@ -19408,66 +19408,6 @@
             }
         ]
     }, 
-    "Session:Pen&paper mini \"Game Jam\u201c# 17df5eba05e0666e340770f5b8fa6b64": {
-        "Held in language": [
-            "de - German", 
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546182000", 
-                "raw": "1/2018/12/30/15/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [], 
-        "Has description": [
-            "pen&paper mini \"Game Jam\u201c"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Assembly:Kidspace", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Kidspace", 
-                "namespace": 504, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Lydia", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Lydia", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Pen&paper mini \"Game Jam\u201c"
-        ], 
-        "Has duration": [
-            120
-        ], 
-        "GUID": [
-            "8b04ebe0-ce11-4b6c-b31b-e27699676d36"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Pen%26paper_mini_%22Game_Jam%E2%80%9C", 
-        "Has end time": [
-            {
-                "timestamp": "1546189200", 
-                "raw": "1/2018/12/30/17/0/0/0"
-            }
-        ]
-    }, 
     "Session:Pen&paper mini \"Game Jam\u201c# 26199508c4d37a70793de33fac6849c2": {
         "Held in language": [
             "de - German", 
@@ -27348,6 +27288,69 @@
             {
                 "timestamp": "1546011900", 
                 "raw": "1/2018/12/28/15/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546081200", 
+                "raw": "1/2018/12/29/11/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148"
+        ], 
+        "Has description": [
+            "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend."
+        ], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 14-15", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [
+            "Erst Anf\u00e4nger, dann Fortgeschrittene"
+        ], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Rstockm", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Ultraschall f\u00fcr EinsteigerInnen"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen", 
+        "Has end time": [
+            {
+                "timestamp": "1546092000", 
+                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }

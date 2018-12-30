@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.2</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -17339,40 +17339,6 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
         <language>en</language>
         <abstract>Let's start into day 4</abstract>
         <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="6">
-            <name>Andreas Dorfer</name>
-            <biography>https://forum.freifunk.net/u/adorfer/</biography>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
-      <event id="238" guid="b528a5cb-1e35-53f4-ba24-0a323f452357">
-        <logo/>
-        <date>2018-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>00:20</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>PPAKMW</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/PPAKMW</url>
-        <title>Freifunk Lessons Learned 2018</title>
-        <subtitle/>
-        <track/>
-        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
-        <language>de</language>
-        <abstract>Reisebericht aus der Freifunk-Lernkurve 2018 - Was 2017 schon geahnt habe und 2016 noch nicht wusste</abstract>
-        <description>Gluon2018, &#13;
-2.4GHz ist ein Zombie&#13;
-32MB-RAM-Krise&#13;
-Stagnation der Communities&#13;
-Selbstausbeutung und Ernüchterung&#13;
-Festivals werden größer und vor allem besser</description>
         <recording>
           <license/>
           <optout>false</optout>
