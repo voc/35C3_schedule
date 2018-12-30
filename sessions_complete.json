@@ -7328,6 +7328,93 @@
             }
         ]
     }, 
+    "Session:Dancing or Algorithms & Bodies or Physical Algorithms# 56d3fc6dcd5c403aaa086c2072018c22": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Balboa Swing dance basics 4u"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Assembly:Komona", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Assembly:Komona", 
+                "namespace": 504, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Dancing or Algorithms & Bodies or Physical Algorithms"
+        ], 
+        "Has duration": [
+            45
+        ], 
+        "GUID": [
+            "3d05ef8d-95af-42a1-baf5-efd27b323c0c"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dancing_or_Algorithms_%26_Bodies_or_Physical_Algorithms", 
+        "Has end time": [
+            {
+                "timestamp": "1546181100", 
+                "raw": "1/2018/12/30/14/45/0/0"
+            }
+        ]
+    }, 
+    "Session:Dancing or Algorithms & Bodies or Physical Algorithms# d5d92f1c20bb5b120feadff869877868": {
+        "Held in language": [
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1543708800", 
+                "raw": "1/2018/12/2"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [], 
+        "Has description": [
+            "Balboa Swing dance basics 4u"
+        ], 
+        "Has session type": [
+            "Hands-On"
+        ], 
+        "Has session location": [], 
+        "Has subtitle": [], 
+        "Is organized by": [], 
+        "Has title": [
+            "Dancing or Algorithms & Bodies or Physical Algorithms"
+        ], 
+        "Has duration": [], 
+        "GUID": [
+            "69af3e33-88f2-4cdb-b44b-d94fdcd25619"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Dancing_or_Algorithms_%26_Bodies_or_Physical_Algorithms", 
+        "Has end time": []
+    }, 
     "Session:Dat project and community meetup# 3ba95e44c10d5852a5c96ef652e5ce76": {
         "Held in language": [
             "en - English"
@@ -27261,130 +27348,6 @@
             {
                 "timestamp": "1546011900", 
                 "raw": "1/2018/12/28/15/45/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546081200", 
-                "raw": "1/2018/12/29/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148"
-        ], 
-        "Has description": [
-            "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Erst Anf\u00e4nger, dann Fortgeschrittene"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Ultraschall f\u00fcr EinsteigerInnen"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen", 
-        "Has end time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall und Reaper-Programmierung# ecd67cd60cec61125c841f3271605ddc": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546023600", 
-                "raw": "1/2018/12/28/19/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://ultraschall.fm"
-        ], 
-        "Has description": [
-            "Programmierung der Audiosoftware Reaper"
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Ultraschall und Reaper-Programmierung"
-        ], 
-        "Has duration": [
-            90
-        ], 
-        "GUID": [
-            "df883408-2ce9-4640-89c4-112eb0d64394"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung", 
-        "Has end time": [
-            {
-                "timestamp": "1546029000", 
-                "raw": "1/2018/12/28/20/30/0/0"
             }
         ]
     }

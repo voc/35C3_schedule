@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-30 11:10", 
+        "version": "2018-12-30 11:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2312,34 +2312,6 @@
                                     "https://noduslabs.com/category/tutorials/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse"
                                 ]
-                            }, 
-                            {
-                                "id": 1128, 
-                                "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
-                                "logo": null, 
-                                "date": "2018-12-28T19:00:00+01:00", 
-                                "start": "19:00", 
-                                "duration": "1:30", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1128-session_ultraschall_und_reaper_programmierung", 
-                                "title": "Ultraschall und Reaper-Programmierung", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Programmierung der Audiosoftware Reaper", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                                        "public_name": "Rstockm"
-                                    }
-                                ], 
-                                "links": [
-                                    "http://ultraschall.fm", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
-                                ]
                             }
                         ], 
                         "ChaosZone": [], 
@@ -4382,34 +4354,6 @@
                                 "links": [
                                     "https://www.facebook.com/lucky.green.73/posts/10155498914786706", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial"
-                                ]
-                            }, 
-                            {
-                                "id": 1127, 
-                                "guid": "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc", 
-                                "logo": null, 
-                                "date": "2018-12-29T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "3:00", 
-                                "room": "Seminar room 14-15", 
-                                "slug": "35c3-1127-session_ultraschall_fuer_einsteigerinnen", 
-                                "title": "Ultraschall f\u00fcr EinsteigerInnen", 
-                                "subtitle": "Erst Anf\u00e4nger, dann Fortgeschrittene", 
-                                "track": "self organized sessions", 
-                                "type": "workshop", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend.", 
-                                "persons": [
-                                    {
-                                        "id": 0, 
-                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                                        "public_name": "Rstockm"
-                                    }
-                                ], 
-                                "links": [
-                                    "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen"
                                 ]
                             }
                         ], 

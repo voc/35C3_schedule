@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-30 11:10</version>
+  <version>2018-12-30 11:20</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -1944,28 +1944,6 @@
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse</link>
         </links>
       </event>
-      <event id="1128" guid="df883408-2ce9-4640-89c4-112eb0d64394">
-        <logo/>
-        <date>2018-12-28T19:00:00+01:00</date>
-        <start>19:00</start>
-        <duration>1:30</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1128-session_ultraschall_und_reaper_programmierung</slug>
-        <title>Ultraschall und Reaper-Programmierung</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Programmierung der Audiosoftware Reaper</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
-        </persons>
-        <links>
-          <link>http://ultraschall.fm</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung</link>
-        </links>
-      </event>
     </room>
     <room name="ChaosZone"/>
     <room name="Kidspace">
@@ -3693,28 +3671,6 @@
         <links>
           <link>https://www.facebook.com/lucky.green.73/posts/10155498914786706</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Tim_May_Memorial</link>
-        </links>
-      </event>
-      <event id="1127" guid="246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc">
-        <logo/>
-        <date>2018-12-29T11:00:00+01:00</date>
-        <start>11:00</start>
-        <duration>3:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1127-session_ultraschall_fuer_einsteigerinnen</slug>
-        <title>Ultraschall für EinsteigerInnen</title>
-        <subtitle>Erst Anfänger, dann Fortgeschrittene</subtitle>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>de</language>
-        <abstract/>
-        <description>Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend.</description>
-        <persons>
-          <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm">Rstockm</person>
-        </persons>
-        <links>
-          <link>https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148</link>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen</link>
         </links>
       </event>
     </room>
