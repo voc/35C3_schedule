@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 14:40", 
+        "version": "Olsen-banden 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2018-12-30 15:00", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -9624,6 +9624,34 @@
                                 "links": [
                                     "https://noduslabs.com/category/tutorials/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse"
+                                ]
+                            }, 
+                            {
+                                "id": 1128, 
+                                "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1128-session_ultraschall_und_reaper_programmierung", 
+                                "title": "Ultraschall und Reaper-Programmierung", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Programmierung der Audiosoftware Reaper", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                                        "public_name": "Rstockm"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ultraschall.fm", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
                                 ]
                             }
                         ], 
@@ -27342,6 +27370,27 @@
                                 ]
                             }, 
                             {
+                                "id": 1537, 
+                                "guid": "cc8f3af0-0110-4cfc-859b-4433640de3dd", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy", 
+                                "title": "Ev0 - a new political party concept to restore faith in democracy", 
+                                "subtitle": "Let\u2019s hack the political system from within.", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Discussion about a new party concept, setting out to make politics great again.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy"
+                                ]
+                            }, 
+                            {
                                 "id": 1048, 
                                 "guid": "deebfa74-b38b-421c-8dbb-fe8dd86d4f2a", 
                                 "logo": null, 
@@ -27535,27 +27584,6 @@
                                 "links": [
                                     "https://twitter.com/c3auti", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Autistic_Meetup_-_Nummer_Zwei"
-                                ]
-                            }, 
-                            {
-                                "id": 1537, 
-                                "guid": "cc8f3af0-0110-4cfc-859b-4433640de3dd", 
-                                "logo": null, 
-                                "date": "2018-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy", 
-                                "title": "Ev0 - a new political party concept to restore faith in democracy", 
-                                "subtitle": "Let\u2019s hack the political system from within.", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Discussion about a new party concept, setting out to make politics great again.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy"
                                 ]
                             }, 
                             {
@@ -29932,94 +29960,6 @@
                                 ]
                             }
                         ], 
-                        "": [
-                            {
-                                "id": 1534, 
-                                "guid": "3e77705d-652d-4ad4-bd1d-a2ef8fc8554f", 
-                                "logo": null, 
-                                "date": "2018-12-30T15:20:00+01:00", 
-                                "start": "15:20", 
-                                "duration": "0:45", 
-                                "room": "", 
-                                "slug": "35c3-1534-session_flunkyball_day_4", 
-                                "title": "Flunkyball Day 4", 
-                                "subtitle": "Day 4", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "We're going to play some rounds of the german drinking game \"Flunkyball\" right outside the main entrance", 
-                                "persons": [], 
-                                "links": [
-                                    "http://www.upb-flunkyteam.de", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Flunkyball_Day_4"
-                                ]
-                            }, 
-                            {
-                                "id": 1152, 
-                                "guid": "2bb37af8-e6a6-4056-8522-126dd2674594", 
-                                "logo": null, 
-                                "date": "2018-12-30T11:00:00+01:00", 
-                                "start": "11:00", 
-                                "duration": "2:00", 
-                                "room": "", 
-                                "slug": "35c3-1152-session_mietshaeuser_syndikat_hausbesichtigung", 
-                                "title": "Mietsh\u00e4user Syndikat Hausbesichtigung", 
-                                "subtitle": "", 
-                                "track": "self organized sessions", 
-                                "type": "outside", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "Besichtigung Syndikatsprojekt Sch\u00f6nerHausen", 
-                                "persons": [], 
-                                "links": [
-                                    "https://schoenerhausen.org/", 
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat_Hausbesichtigung"
-                                ]
-                            }, 
-                            {
-                                "id": 1189, 
-                                "guid": "613ca87a-a52c-442f-b267-901950b2f3ac", 
-                                "logo": null, 
-                                "date": "2018-12-30T17:30:00+01:00", 
-                                "start": "17:30", 
-                                "duration": "0:45", 
-                                "room": "", 
-                                "slug": "35c3-1189-session_stickertausch", 
-                                "title": "Stickertausch", 
-                                "subtitle": "2nd meeting", 
-                                "track": "self organized sessions", 
-                                "type": "game", 
-                                "language": "de", 
-                                "abstract": "", 
-                                "description": "we gather to exchange our stickers", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch"
-                                ]
-                            }, 
-                            {
-                                "id": 1145, 
-                                "guid": "444b5383-f8e4-56a7-8fb5-8582efdc60ef", 
-                                "logo": null, 
-                                "date": "2018-12-30T15:10:00+01:00", 
-                                "start": "15:10", 
-                                "duration": "1:30", 
-                                "room": "", 
-                                "slug": "35c3-1145-session_translation_second_channel", 
-                                "title": "Translation second channel", 
-                                "subtitle": "Meeting Day 4", 
-                                "track": "self organized sessions", 
-                                "type": "meeting", 
-                                "language": "", 
-                                "abstract": "", 
-                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
-                                ]
-                            }
-                        ], 
                         "Dome Art-and-Play": [
                             {
                                 "id": 1486, 
@@ -30123,6 +30063,72 @@
                                 ], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Memorizing_pi_for_fun_(not_for_profit)"
+                                ]
+                            }
+                        ], 
+                        "": [
+                            {
+                                "id": 1152, 
+                                "guid": "2bb37af8-e6a6-4056-8522-126dd2674594", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "2:00", 
+                                "room": "", 
+                                "slug": "35c3-1152-session_mietshaeuser_syndikat_hausbesichtigung", 
+                                "title": "Mietsh\u00e4user Syndikat Hausbesichtigung", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "outside", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Besichtigung Syndikatsprojekt Sch\u00f6nerHausen", 
+                                "persons": [], 
+                                "links": [
+                                    "https://schoenerhausen.org/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Mietsh%C3%A4user_Syndikat_Hausbesichtigung"
+                                ]
+                            }, 
+                            {
+                                "id": 1189, 
+                                "guid": "613ca87a-a52c-442f-b267-901950b2f3ac", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "0:45", 
+                                "room": "", 
+                                "slug": "35c3-1189-session_stickertausch", 
+                                "title": "Stickertausch", 
+                                "subtitle": "2nd meeting", 
+                                "track": "self organized sessions", 
+                                "type": "game", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "we gather to exchange our stickers", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stickertausch"
+                                ]
+                            }, 
+                            {
+                                "id": 1145, 
+                                "guid": "444b5383-f8e4-56a7-8fb5-8582efdc60ef", 
+                                "logo": null, 
+                                "date": "2018-12-30T15:10:00+01:00", 
+                                "start": "15:10", 
+                                "duration": "1:30", 
+                                "room": "", 
+                                "slug": "35c3-1145-session_translation_second_channel", 
+                                "title": "Translation second channel", 
+                                "subtitle": "Meeting Day 4", 
+                                "track": "self organized sessions", 
+                                "type": "meeting", 
+                                "language": "", 
+                                "abstract": "", 
+                                "description": "The Translation teams for the second channel meets twice a day during the breaks to distribute shifts and self-organise.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Translation_second_channel"
                                 ]
                             }
                         ], 

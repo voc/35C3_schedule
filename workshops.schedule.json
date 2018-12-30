@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2018-12-30 14:40", 
+        "version": "2018-12-30 15:00", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -2311,6 +2311,34 @@
                                 "links": [
                                     "https://noduslabs.com/category/tutorials/", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Text_Network_Analysis_for_Bias_Detection_in_Discourse"
+                                ]
+                            }, 
+                            {
+                                "id": 1128, 
+                                "guid": "df883408-2ce9-4640-89c4-112eb0d64394", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "1:30", 
+                                "room": "Seminar room 14-15", 
+                                "slug": "35c3-1128-session_ultraschall_und_reaper_programmierung", 
+                                "title": "Ultraschall und Reaper-Programmierung", 
+                                "subtitle": "", 
+                                "track": "self organized sessions", 
+                                "type": "workshop", 
+                                "language": "de", 
+                                "abstract": "", 
+                                "description": "Programmierung der Audiosoftware Reaper", 
+                                "persons": [
+                                    {
+                                        "id": 0, 
+                                        "url": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
+                                        "public_name": "Rstockm"
+                                    }
+                                ], 
+                                "links": [
+                                    "http://ultraschall.fm", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_und_Reaper-Programmierung"
                                 ]
                             }
                         ], 
@@ -6332,27 +6360,6 @@
                                 ]
                             }, 
                             {
-                                "id": 1537, 
-                                "guid": "cc8f3af0-0110-4cfc-859b-4433640de3dd", 
-                                "logo": null, 
-                                "date": "2018-12-30T16:30:00+01:00", 
-                                "start": "16:30", 
-                                "duration": "1:00", 
-                                "room": "Lecture room M2", 
-                                "slug": "35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy", 
-                                "title": "Ev0 - a new political party concept to restore faith in democracy", 
-                                "subtitle": "Let\u2019s hack the political system from within.", 
-                                "track": "self organized sessions", 
-                                "type": "discussion", 
-                                "language": "en", 
-                                "abstract": "", 
-                                "description": "Discussion about a new party concept, setting out to make politics great again.", 
-                                "persons": [], 
-                                "links": [
-                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy"
-                                ]
-                            }, 
-                            {
                                 "id": 1054, 
                                 "guid": "21d93c08-e863-4a3a-b94b-cf6a8b77dca4", 
                                 "logo": null, 
@@ -6470,6 +6477,27 @@
                                 "links": [
                                     "https://etherpad.wikimedia.org/p/hackwords", 
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart."
+                                ]
+                            }, 
+                            {
+                                "id": 1537, 
+                                "guid": "cc8f3af0-0110-4cfc-859b-4433640de3dd", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:00:00+01:00", 
+                                "start": "17:00", 
+                                "duration": "1:00", 
+                                "room": "Seminar room 13", 
+                                "slug": "35c3-1537-session_ev0_a_new_political_party_concept_to_restore_faith_in_democracy", 
+                                "title": "Ev0 - a new political party concept to restore faith in democracy", 
+                                "subtitle": "Let\u2019s hack the political system from within.", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Discussion about a new party concept, setting out to make politics great again.", 
+                                "persons": [], 
+                                "links": [
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ev0_-_a_new_political_party_concept_to_restore_faith_in_democracy"
                                 ]
                             }, 
                             {
