@@ -12643,6 +12643,7 @@ Mostly the presentation will show you two new example techniques for presentatio
 &#13;
 The cockpit: just some fixed headers and footer in the layout. But better graphical artists might actually turn this into a real cockpit view. In the end it is only a wee bitty of css, but it is something that turns a 3-d animation into a flight through the slide-space.&#13;
 &#13;
+Use my [demo sources](https://gitlab.com/larsipulami/xss-demo) and make me famous!&#13;
 Value-transfer: Why using JavaScript to present static slides, it makes no sense to not utilise a fully-fledged, yet tedious, interpreter environment — your web-browser — if you don't make something more dynamic with your slides. For example transferring inputs between slides and execute contents to demonstrate the effects of XSS.</description>
         <recording>
           <license/>
