@@ -7968,14 +7968,14 @@
             }
         ]
     }, 
-    "Session:Debug your back# 29e815160f0f4fc65ccaa307ba3ee2ca": {
+    "Session:Debug your back# 7eb12492bfa59c993b42caa49355acee": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1546108200", 
-                "raw": "1/2018/12/29/18/30/0/0"
+                "timestamp": "1546182000", 
+                "raw": "1/2018/12/30/15/0/0/0"
             }
         ], 
         "Has event track": [
@@ -7983,7 +7983,7 @@
         ], 
         "Has website": [], 
         "Has description": [
-            "Does your back hurt after three days of congress? Here you find some relief."
+            "Does your back hurt after four days of congress? Here you find some relief."
         ], 
         "Has session type": [
             "Hands-On"
@@ -7997,7 +7997,9 @@
                 "displaytitle": ""
             }
         ], 
-        "Has subtitle": [], 
+        "Has subtitle": [
+            "We meet in CCL Level 1 behind Dijkstra close to 'In Teahouse"
+        ], 
         "Is organized by": [
             {
                 "fulltext": "User:0rmeli", 
@@ -8022,8 +8024,8 @@
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Debug_your_back", 
         "Has end time": [
             {
-                "timestamp": "1546110000", 
-                "raw": "1/2018/12/29/19/0/0/0"
+                "timestamp": "1546183800", 
+                "raw": "1/2018/12/30/15/30/0/0"
             }
         ]
     }, 
@@ -24003,6 +24005,66 @@
             }
         ]
     }, 
+    "Session:Stage Manager Angel Introduction# 1282d06f1a65ef708aee4957179f1990": {
+        "Held in language": [
+            "de - German", 
+            "en - English"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546279200", 
+                "raw": "1/2018/12/31/18/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "https://events.ccc.de/congress/2018/wiki/index.php/Static:Stage_manager"
+        ], 
+        "Has description": [], 
+        "Has session type": [
+            "Workshop"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Lecture room 11", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_11", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Ijon", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Ijon", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Stage Manager Angel Introduction"
+        ], 
+        "Has duration": [
+            180
+        ], 
+        "GUID": [
+            "b0853196-c34c-416f-8e7d-aaad43a8c7db"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Stage_Manager_Angel_Introduction", 
+        "Has end time": [
+            {
+                "timestamp": "1546290000", 
+                "raw": "1/2018/12/31/21/0/0/0"
+            }
+        ]
+    }, 
     "Session:Stage Manager Angel Introduction# c75ecac1113dc6c56c0df82687fb1a87": {
         "Held in language": [
             "de - German", 
@@ -27288,69 +27350,6 @@
             {
                 "timestamp": "1546011900", 
                 "raw": "1/2018/12/28/15/45/0/0"
-            }
-        ]
-    }, 
-    "Session:Ultraschall f\u00fcr EinsteigerInnen# e94589733fa92d6ec99e0158c952c67e": {
-        "Held in language": [
-            "de - German"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1546081200", 
-                "raw": "1/2018/12/29/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "https://sendegate.de/t/drei-ultraschall-workshops-auf-dem-35c3-bitte-eintragen/8148"
-        ], 
-        "Has description": [
-            "Einsteiger- und Fortgeschrittenen Workshop zur Bediehnung von Ultraschall, jeweils 90 Minuten und aufeinander aufbauend."
-        ], 
-        "Has session type": [
-            "Workshop"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "Erst Anf\u00e4nger, dann Fortgeschrittene"
-        ], 
-        "Is organized by": [
-            {
-                "fulltext": "User:Rstockm", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Rstockm", 
-                "namespace": 2, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has title": [
-            "Ultraschall f\u00fcr EinsteigerInnen"
-        ], 
-        "Has duration": [
-            180
-        ], 
-        "GUID": [
-            "246cbb17-6f0f-4feb-b5aa-2ab541b2d3fc"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Ultraschall_f%C3%BCr_EinsteigerInnen", 
-        "Has end time": [
-            {
-                "timestamp": "1546092000", 
-                "raw": "1/2018/12/29/14/0/0/0"
             }
         ]
     }
