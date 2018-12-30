@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181230_0326 1.2.2</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.2</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -18222,6 +18222,37 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
       </event>
     </room>
     <room name="Komona Kuppel 3 #talks">
+      <event id="874" guid="46fba170-d7fb-507b-85c0-c1d82862c3ec">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>EDYKRD</slug>
+        <url>https://talks.komona.org/35c3/talk/EDYKRD</url>
+        <title>How to install TWRP / Linage OS</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Basics that you need to flash your phone with a custom OS</abstract>
+        <description>This will be my poor approach to teach you how to install TWRP. I'll try to tell yu the very basics that will enable you to flash it yourself and talk about all the fall pits you might avoid during your journey.&#13;
+&#13;
+Please bring your charged Phones, Laptops and working datacables!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>Bobo_PK</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="868" guid="ecdcee04-1ab0-538d-ad0a-739b4ef4754f">
         <logo/>
         <date>2018-12-30T12:00:00+01:00</date>

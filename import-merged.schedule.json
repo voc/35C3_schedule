@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181230_0326 1.2.2", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -18364,6 +18364,37 @@
                             }
                         ], 
                         "Komona Kuppel 3 #talks": [
+                            {
+                                "id": 874, 
+                                "guid": "46fba170-d7fb-507b-85c0-c1d82862c3ec", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "01:00", 
+                                "room": "Komona Kuppel 3 #talks", 
+                                "slug": "EDYKRD", 
+                                "url": "https://talks.komona.org/35c3/talk/EDYKRD", 
+                                "title": "How to install TWRP / Linage OS", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Basics that you need to flash your phone with a custom OS", 
+                                "description": "This will be my poor approach to teach you how to install TWRP. I'll try to tell yu the very basics that will enable you to flash it yourself and talk about all the fall pits you might avoid during your journey.\r\n\r\nPlease bring your charged Phones, Laptops and working datacables!", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "Bobo_PK", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 868, 
                                 "guid": "ecdcee04-1ab0-538d-ad0a-739b4ef4754f", 
