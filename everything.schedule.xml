@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2 2018-12-30 03:20</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181230_0326 1.2.2 2018-12-30 03:30</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -27610,13 +27610,13 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
         <room>Komona Thunderdome #workshops #talks</room>
         <slug>UE9PLG</slug>
         <url>https://talks.komona.org/35c3/talk/UE9PLG</url>
-        <title>Spontanistan</title>
+        <title>Komona @ CCC Camp 2019</title>
         <subtitle/>
         <track/>
         <type>Slot</type>
         <language>en</language>
-        <abstract>Doing stuff.</abstract>
-        <description>Do it.</description>
+        <abstract>Lets come together and talk about komona action @ CCC Camp and planning of this.</abstract>
+        <description>Let's do it.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -27633,6 +27633,35 @@ a warm-up and some practical tips for organizing a protestchoir and open source 
       </event>
     </room>
     <room name="Komona Zelt #workshops #handson">
+      <event id="832" guid="ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88">
+        <logo/>
+        <date>2018-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>KUUPYE</slug>
+        <url>https://talks.komona.org/35c3/talk/KUUPYE</url>
+        <title>08.03.2019 - International Women*s Day / Frauenstreik</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Important day. Relevance for action. Together.</abstract>
+        <description>Let's do it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="35">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
       <event id="870" guid="2b86433e-ea8e-5c12-8706-f05a962b64e6">
         <logo/>
         <date>2018-12-30T13:00:00+01:00</date>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181229_2137 1.2.2", 
+        "version": "Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 20181230_0326 1.2.2", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -18624,13 +18624,13 @@
                                 "room": "Komona Thunderdome #workshops #talks", 
                                 "slug": "UE9PLG", 
                                 "url": "https://talks.komona.org/35c3/talk/UE9PLG", 
-                                "title": "Spontanistan", 
+                                "title": "Komona @ CCC Camp 2019", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Slot", 
                                 "language": "en", 
-                                "abstract": "Doing stuff.", 
-                                "description": "Do it.", 
+                                "abstract": "Lets come together and talk about komona action @ CCC Camp and planning of this.", 
+                                "description": "Let's do it.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -18647,6 +18647,37 @@
                             }
                         ], 
                         "Komona Zelt #workshops #handson": [
+                            {
+                                "id": 832, 
+                                "guid": "ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88", 
+                                "logo": null, 
+                                "date": "2018-12-30T11:30:00+01:00", 
+                                "start": "11:30", 
+                                "duration": "01:00", 
+                                "room": "Komona Zelt #workshops #handson", 
+                                "slug": "KUUPYE", 
+                                "url": "https://talks.komona.org/35c3/talk/KUUPYE", 
+                                "title": "08.03.2019 - International Women*s Day / Frauenstreik", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Slot", 
+                                "language": "en", 
+                                "abstract": "Important day. Relevance for action. Together.", 
+                                "description": "Let's do it.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 35, 
+                                        "name": "Komonista", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
                             {
                                 "id": 870, 
                                 "guid": "2b86433e-ea8e-5c12-8706-f05a962b64e6", 
