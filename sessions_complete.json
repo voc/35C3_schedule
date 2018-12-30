@@ -7759,6 +7759,67 @@
             }
         ]
     }, 
+    "Session:Datentransfer von 8- zu 16-Bittern# 99beee4a7a0031b4396df380ff07c948": {
+        "Held in language": [
+            "de - German"
+        ], 
+        "Has start time": [
+            {
+                "timestamp": "1546174800", 
+                "raw": "1/2018/12/30/13/0/0/0"
+            }
+        ], 
+        "Has event track": [
+            "Session"
+        ], 
+        "Has website": [
+            "http://3rz.org"
+        ], 
+        "Has description": [
+            "Datenaustausch zwischen Retro und Moderne; und Ersatz-L\u00f6sungen f\u00fcr heulende Festplatten"
+        ], 
+        "Has session type": [
+            "Talk"
+        ], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Vintage Computing Cluster", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Vintage_Computing_Cluster", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has subtitle": [], 
+        "Is organized by": [
+            {
+                "fulltext": "User:Zeltophil", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/User:Zeltophil", 
+                "namespace": 2, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
+        "Has title": [
+            "Datentransfer von 8- zu 16-Bittern"
+        ], 
+        "Has duration": [
+            60
+        ], 
+        "GUID": [
+            "18b43b0b-efa1-4db2-b110-6ded44de47ca"
+        ], 
+        "Has color": [
+            "#0099ab"
+        ], 
+        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Datentransfer_von_8-_zu_16-Bittern", 
+        "Has end time": [
+            {
+                "timestamp": "1546178400", 
+                "raw": "1/2018/12/30/14/0/0/0"
+            }
+        ]
+    }, 
     "Session:DeNation - Ein social fiction game# 0ed8eea68f69f06d973f408329b16446": {
         "Held in language": [
             "de - German"
@@ -17198,7 +17259,7 @@
             }
         ]
     }, 
-    "Session:Memorizing pi for fun (not for profit)# 77861e7a9f4bb63071269f1cd0abebd8": {
+    "Session:Memorizing pi for fun (not for profit)# 746b78b89013ee4f30fd84cd89dc687c": {
         "Held in language": [
             "de - German", 
             "en - English"
@@ -17229,7 +17290,7 @@
             }
         ], 
         "Has subtitle": [
-            "Day 4"
+            "Day 4 (NONSTANDARD LOCATION: IN FRONT OF M1, NOT AT THE ASSEMBLY)"
         ], 
         "Is organized by": [
             {
@@ -27324,61 +27385,6 @@
             {
                 "timestamp": "1546029000", 
                 "raw": "1/2018/12/28/20/30/0/0"
-            }
-        ]
-    }, 
-    "Session:Unitary Software Patents Urgency# ca45fd00d6800fd5741824f26050f2be": {
-        "Held in language": [
-            "en - English"
-        ], 
-        "Has start time": [
-            {
-                "timestamp": "1545994800", 
-                "raw": "1/2018/12/28/11/0/0/0"
-            }
-        ], 
-        "Has event track": [
-            "Session"
-        ], 
-        "Has website": [
-            "http://www.nounitarysoftwarepatents.uk/"
-        ], 
-        "Has description": [
-            "Unitary Software Patents Urgency, or how to install software patents via the Unitary Patent Court (UPC)"
-        ], 
-        "Has session type": [
-            "Discussion"
-        ], 
-        "Has session location": [
-            {
-                "fulltext": "Room:Lecture room M3", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M3", 
-                "namespace": 516, 
-                "exists": "1", 
-                "displaytitle": ""
-            }
-        ], 
-        "Has subtitle": [
-            "How to install software patents via the Unitary Patent Court (UPC)"
-        ], 
-        "Is organized by": [], 
-        "Has title": [
-            "Unitary Software Patents Urgency"
-        ], 
-        "Has duration": [
-            60
-        ], 
-        "GUID": [
-            "7bc214f9-4c4d-448d-bfa0-88c91c39285c"
-        ], 
-        "Has color": [
-            "#0099ab"
-        ], 
-        "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:Unitary_Software_Patents_Urgency", 
-        "Has end time": [
-            {
-                "timestamp": "1545998400", 
-                "raw": "1/2018/12/28/12/0/0/0"
             }
         ]
     }
