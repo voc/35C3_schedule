@@ -1,5 +1,5 @@
 <schedule>
-  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3 2018-12-30 13:10</version>
+  <version>Programming in C 3.1 2.1 v2.7 1.4 MemoryRefreshV1.3 30.12 06:12 1.2.3 2018-12-30 13:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -25545,25 +25545,6 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Debug_your_back</link>
         </links>
       </event>
-      <event id="1487" guid="ee43044f-4382-4b88-ae84-85eae592690d">
-        <logo/>
-        <date>2018-12-30T13:00:00+01:00</date>
-        <start>13:00</start>
-        <duration>1:00</duration>
-        <room>Seminar room 14-15</room>
-        <slug>35c3-1487-session_julialang_a_first_introduction_and_why_i_am_excited_about_let_s_talk_compiler_s_and_gpus_</slug>
-        <title>JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)</title>
-        <subtitle/>
-        <track>self organized sessions</track>
-        <type>workshop</type>
-        <language>en</language>
-        <abstract/>
-        <description>A first introduction to Julia and why I am exited about it.</description>
-        <persons/>
-        <links>
-          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)</link>
-        </links>
-      </event>
     </room>
     <room name="Seminar room 13">
       <event id="1006" guid="dc3db234-1a80-4f27-95c7-e18c95d3e9f7">
@@ -25584,6 +25565,7 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
           <person id="0" href="https://events.ccc.de/congress/2018/wiki/index.php/User:Birdy1976">Birdy1976</person>
         </persons>
         <links>
+          <link>https://etherpad.wikimedia.org/p/hackwords</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:42birds:_Powerful_Writing%3F_It%E2%80%99s_Easy_If_You_Do_It_Smart.</link>
         </links>
       </event>
@@ -25712,6 +25694,25 @@ Freut euch auf eine humoristische Mischung aus gut gemeinter Inkompetenz und gem
         <links>
           <link>http://ctf.faqin.org</link>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:FAQin_congress_presentation</link>
+        </links>
+      </event>
+      <event id="1487" guid="ee43044f-4382-4b88-ae84-85eae592690d">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>1:00</duration>
+        <room>Lecture room M1</room>
+        <slug>35c3-1487-session_julialang_a_first_introduction_and_why_i_am_excited_about_let_s_talk_compiler_s_and_gpus_</slug>
+        <title>JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>workshop</type>
+        <language>en</language>
+        <abstract/>
+        <description>A first introduction to Julia and why I am exited about it.</description>
+        <persons/>
+        <links>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:JuliaLang_--_A_first_introduction_and_why_*I*_am_excited_about_(let%27s_talk_compiler%27s_and_GPUs)</link>
         </links>
       </event>
     </room>

@@ -1053,7 +1053,9 @@
         "Has event track": [
             "Session"
         ], 
-        "Has website": [], 
+        "Has website": [
+            "https://etherpad.wikimedia.org/p/hackwords"
+        ], 
         "Has description": [
             "Once upon a time, George Orwell said, \u201dGood writing is like a windowpane.\u201d That\u2019s why I decided to reveal to you the secrets of how to use the windows of the 21st century in order to prevent writer\u2019s blockage. To do this, we embark on a virtual journey to various free of charge writing tools on the web."
         ], 
@@ -15398,7 +15400,7 @@
             }
         ]
     }, 
-    "Session:JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)# ab6289709976d40ef00728e23b5fe5eb": {
+    "Session:JuliaLang -- A first introduction and why *I* am excited about (let's talk compiler's and GPUs)# 4fe673b25e0a2e356ad276a0f9275b95": {
         "Held in language": [
             "en - English"
         ], 
@@ -15420,8 +15422,8 @@
         ], 
         "Has session location": [
             {
-                "fulltext": "Room:Seminar room 14-15", 
-                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_14-15", 
+                "fulltext": "Room:Lecture room M1", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Lecture_room_M1", 
                 "namespace": 516, 
                 "exists": "1", 
                 "displaytitle": ""
