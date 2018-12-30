@@ -1,5 +1,5 @@
 <schedule>
-  <version>2018-12-30 16:20</version>
+  <version>2018-12-30 16:40</version>
   <conference>
     <acronym>35C3-workshops</acronym>
     <title>35. Chaos Communication Congress - Workshops</title>
@@ -5500,6 +5500,26 @@
         </persons>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Formalizing_mathematics_in_the_proof_assistant_Agda</link>
+        </links>
+      </event>
+      <event id="1542" guid="bfea12e7-4364-4a15-a5c6-e4bb650a3176">
+        <logo/>
+        <date>2018-12-30T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>0:30</duration>
+        <room>Seminar room 13</room>
+        <slug>35c3-1542-session_iphone_qualcomm_baseband_analysis</slug>
+        <title>IPhone Qualcomm Baseband Analysis</title>
+        <subtitle/>
+        <track>self organized sessions</track>
+        <type>talk</type>
+        <language>en</language>
+        <abstract/>
+        <description>Dissecting iPhone's Qualcomm Baseband firmware</description>
+        <persons/>
+        <links>
+          <link>https://kernelprogrammmer.com</link>
+          <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:IPhone_Qualcomm_Baseband_Analysis</link>
         </links>
       </event>
       <event id="1526" guid="1fa2ce86-ab67-46d0-8a4f-18065cfa654b">

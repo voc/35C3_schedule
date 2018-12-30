@@ -13940,14 +13940,14 @@
             }
         ]
     }, 
-    "Session:IPhone Qualcomm Baseband Analysis# c2b79c40311333df89e1b6bb9988036e": {
+    "Session:IPhone Qualcomm Baseband Analysis# 05360fecb6dafcb660175100474d0b3f": {
         "Held in language": [
             "en - English"
         ], 
         "Has start time": [
             {
-                "timestamp": "1543777200", 
-                "raw": "1/2018/12/2/19/0/0/0"
+                "timestamp": "1546196400", 
+                "raw": "1/2018/12/30/19/0/0/0"
             }
         ], 
         "Has event track": [
@@ -13962,13 +13962,23 @@
         "Has session type": [
             "Talk"
         ], 
-        "Has session location": [], 
+        "Has session location": [
+            {
+                "fulltext": "Room:Seminar room 13", 
+                "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Room:Seminar_room_13", 
+                "namespace": 516, 
+                "exists": "1", 
+                "displaytitle": ""
+            }
+        ], 
         "Has subtitle": [], 
         "Is organized by": [], 
         "Has title": [
             "IPhone Qualcomm Baseband Analysis"
         ], 
-        "Has duration": [], 
+        "Has duration": [
+            30
+        ], 
         "GUID": [
             "bfea12e7-4364-4a15-a5c6-e4bb650a3176"
         ], 
@@ -13976,7 +13986,12 @@
             "#0099ab"
         ], 
         "fullurl": "https://events.ccc.de/congress/2018/wiki/index.php/Session:IPhone_Qualcomm_Baseband_Analysis", 
-        "Has end time": []
+        "Has end time": [
+            {
+                "timestamp": "1546198200", 
+                "raw": "1/2018/12/30/19/30/0/0"
+            }
+        ]
     }, 
     "Session:IT-Security-Unternehmen ohne Chefs# 87cdcda1f53476e67242894e44128fd8": {
         "Held in language": [
