@@ -1,5 +1,5 @@
 <schedule>
-  <version>Twin Peaks 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 02:00</version>
+  <version>Twin Peaks 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 16:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -10602,17 +10602,7 @@ All das versucht dieser Vortrag verständlich zu erklären. Vorwissen wird nicht
         <language>de</language>
         <abstract>Sammeln und Verkauf von Bewegungsdaten abseits von Mobilfunk und Smartphone.&#13;
 Der Mobilfunkanbieter weiß, wo Du Dich bewegst - no news here. Aber wie steht es mit den Dutzenden anderen Firmen, Marketing Agenturen, Kaufhäusern oder Netzwekausrüstern, die Deine Bewegungsdaten selbst ohne Smartphone-App erfassen und das, ohne dass Du es wissen kannst?</abstract>
-        <description>Feature Phones, Smartphones, Laptops, Smartwatches, Bluetooth Kopfhöhrer - sie alle haben eines gemeinsam: sie können Funktechnologien wie WLAN oder Bluetooth. In den letzten Jahren hat sich eine ganze Marktsparte an Firmen entwickelt, deren Geschäftsmodell es ist, die Metadaten dieser Technologien zu erfassen, zu korrelieren und zu verwerten. Dabei ist es unerheblich, ob Du z.B. das öffentliche WLAN dieser Firmen nutzt oder nicht. Die Präsenz Deiner Geräte reicht aus, um sie (wieder)zuerkennen. Und eine automatische Macadressen-Randomisierung hilft nur begrenzt.&#13;
-&#13;
-Wie, wozu und wo wird Bewegungs-Tracking angewandt?&#13;
-Wie weitrechende (Bewegungs-)Profile können erstellt werden?&#13;
-Technische Funktionsweise&#13;
-Umgehen von Macadressen-Randomisierung&#13;
-Live-Demo&#13;
-bisherige Rechtssprechnung&#13;
-und die DSGVO?&#13;
-Selbstschutz überhaupt möglich?&#13;
-Datenauskunft!</description>
+        <description>Feature Phones, Smartphones, Laptops, Smartwatches, Bluetooth Kopfhöhrer - sie alle haben eines gemeinsam: sie können Funktechnologien wie WLAN oder Bluetooth. In den letzten Jahren hat sich eine ganze Marktsparte an Firmen entwickelt, deren Geschäftsmodell es ist, die Metadaten dieser Technologien zu erfassen, zu korrelieren und zu verwerten. Dabei ist es unerheblich, ob Du z.B. das öffentliche WLAN dieser Firmen nutzt oder nicht. Die Präsenz Deiner Geräte reicht aus, um sie (wieder)zuerkennen. Und eine automatische Macadressen-Randomisierung hilft nur begrenzt.</description>
         <recording>
           <license/>
           <optout>false</optout>
