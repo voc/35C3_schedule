@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Twin Peaks 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
+        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3", 
         "base_url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/", 
         "conference": {
             "acronym": "35c3", 
@@ -6748,7 +6748,16 @@
                                         "title": " How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/727/original/35c3_wallet_security.pdf?1546275895", 
+                                        "title": "Slides"
+                                    }, 
+                                    {
+                                        "url": "/attachments/original/missing.png", 
+                                        "title": "file"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9939.html", 
@@ -11078,7 +11087,12 @@
                                         "title": "\"The Moral Character of Cryptographic Work?\" paper"
                                     }
                                 ], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/726/original/CCC.pdf?1546217037", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9523.html", 
@@ -16911,7 +16925,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/729/original/Kernel_Tracing_With_eBPF.pdf?1546315681", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9623.html", 

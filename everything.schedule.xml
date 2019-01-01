@@ -1,5 +1,5 @@
 <schedule>
-  <version>Twin Peaks 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 16:20</version>
+  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 18:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8726,7 +8726,10 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
         <links>
           <link href="https://arxiv.org/abs/1501.00447"> How Perfect Offline Wallets Can Still Leak Bitcoin Private Keys</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/727/original/35c3_wallet_security.pdf?1546275895">Slides</attachment>
+          <attachment href="/attachments/original/missing.png">file</attachment>
+        </attachments>
       </event>
       <event id="9939" guid="2536bba3-b95f-4cec-9a95-7aa756db7edb">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9939.html</url>
@@ -16069,7 +16072,9 @@ The rareness of the interesting phenomena not only calls for pure physics unders
           <link href="https://github.com/otrv4/libotr-ng">OTRv4 implementation</link>
           <link href="http://web.cs.ucdavis.edu/~rogaway/papers/moral-fn.pdf">"The Moral Character of Cryptographic Work?" paper</link>
         </links>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/726/original/CCC.pdf?1546217037">Slides</attachment>
+        </attachments>
       </event>
       <event id="9523" guid="3a571c21-31ed-453b-886d-7dea7b5751cd">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9523.html</url>
@@ -25291,7 +25296,9 @@ Lastly, this talk will show that while eBPF may generally be "safe" for the kern
           <person id="8366">Andy Olsen</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/729/original/Kernel_Tracing_With_eBPF.pdf?1546315681">Slides</attachment>
+        </attachments>
       </event>
       <event id="9623" guid="ba68f092-89bd-4348-9f81-7a05317a0497">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9623.html</url>
