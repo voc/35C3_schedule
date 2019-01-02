@@ -1,5 +1,5 @@
 <schedule>
-  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 23:50</version>
+  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-02 08:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -6900,13 +6900,13 @@ Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation 
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
+    <room name="Static:Kidspace">
       <event id="1280" guid="901817fd-1431-46f6-916e-6443eb168baa">
         <logo/>
         <date>2018-12-27T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
+        <room>Static:Kidspace</room>
         <slug>35c3-1280-session_pen_paper_mini_game_jam_</slug>
         <title>Pen&amp;paper mini "Game Jam“</title>
         <subtitle/>
@@ -6927,7 +6927,7 @@ Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation 
         <date>2018-12-27T14:00:00+01:00</date>
         <start>14:00</start>
         <duration>3:00</duration>
-        <room>Assembly:Kidspace</room>
+        <room>Static:Kidspace</room>
         <slug>35c3-1284-session_postapokalyptisches_zeug_schrottbasteln_postapocalyptic_stuff_handicraft</slug>
         <title>Postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft</title>
         <subtitle/>
@@ -15361,13 +15361,13 @@ Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bere
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
+    <room name="Static:Kidspace">
       <event id="1283" guid="67526e98-c495-53e2-b9ec-9baee92aa89f">
         <logo/>
         <date>2018-12-28T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
+        <room>Static:Kidspace</room>
         <slug>35c3-1283-session_pen_paper_mini_game_jam_</slug>
         <title>Pen&amp;paper mini "Game Jam“</title>
         <subtitle/>
@@ -24685,13 +24685,13 @@ Freifunk since 2003</biography>
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
+    <room name="Static:Kidspace">
       <event id="1281" guid="8b04ebe0-ce11-4b6c-b31b-e27699676d36">
         <logo/>
         <date>2018-12-29T15:00:00+01:00</date>
         <start>15:00</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
+        <room>Static:Kidspace</room>
         <slug>35c3-1281-session_pen_paper_mini_game_jam_</slug>
         <title>Pen&amp;paper mini "Game Jam“</title>
         <subtitle/>
@@ -27986,13 +27986,13 @@ Wir freuen uns auf Dich und Dein Input!</description>
         </links>
       </event>
     </room>
-    <room name="Assembly:Kidspace">
+    <room name="Static:Kidspace">
       <event id="1541" guid="f0dbb58e-9978-5a76-bfe8-f9c02973569e">
         <logo/>
         <date>2018-12-30T12:15:00+01:00</date>
         <start>12:15</start>
         <duration>2:00</duration>
-        <room>Assembly:Kidspace</room>
+        <room>Static:Kidspace</room>
         <slug>35c3-1541-session_bigtrak</slug>
         <title>BigTrak</title>
         <subtitle/>

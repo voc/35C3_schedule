@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-01 23:50", 
+        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-02 08:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -7275,7 +7275,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Static:Kidspace": [
                             {
                                 "id": 1280, 
                                 "guid": "901817fd-1431-46f6-916e-6443eb168baa", 
@@ -7283,7 +7283,7 @@
                                 "date": "2018-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
+                                "room": "Static:Kidspace", 
                                 "slug": "35c3-1280-session_pen_paper_mini_game_jam_", 
                                 "title": "Pen&paper mini \"Game Jam\u201c", 
                                 "subtitle": "", 
@@ -7310,7 +7310,7 @@
                                 "date": "2018-12-27T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "3:00", 
-                                "room": "Assembly:Kidspace", 
+                                "room": "Static:Kidspace", 
                                 "slug": "35c3-1284-session_postapokalyptisches_zeug_schrottbasteln_postapocalyptic_stuff_handicraft", 
                                 "title": "Postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft", 
                                 "subtitle": "", 
@@ -16232,7 +16232,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Static:Kidspace": [
                             {
                                 "id": 1283, 
                                 "guid": "67526e98-c495-53e2-b9ec-9baee92aa89f", 
@@ -16240,7 +16240,7 @@
                                 "date": "2018-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
+                                "room": "Static:Kidspace", 
                                 "slug": "35c3-1283-session_pen_paper_mini_game_jam_", 
                                 "title": "Pen&paper mini \"Game Jam\u201c", 
                                 "subtitle": "", 
@@ -26423,7 +26423,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Static:Kidspace": [
                             {
                                 "id": 1281, 
                                 "guid": "8b04ebe0-ce11-4b6c-b31b-e27699676d36", 
@@ -26431,7 +26431,7 @@
                                 "date": "2018-12-29T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
+                                "room": "Static:Kidspace", 
                                 "slug": "35c3-1281-session_pen_paper_mini_game_jam_", 
                                 "title": "Pen&paper mini \"Game Jam\u201c", 
                                 "subtitle": "", 
@@ -29885,7 +29885,7 @@
                                 ]
                             }
                         ], 
-                        "Assembly:Kidspace": [
+                        "Static:Kidspace": [
                             {
                                 "id": 1541, 
                                 "guid": "f0dbb58e-9978-5a76-bfe8-f9c02973569e", 
@@ -29893,7 +29893,7 @@
                                 "date": "2018-12-30T12:15:00+01:00", 
                                 "start": "12:15", 
                                 "duration": "2:00", 
-                                "room": "Assembly:Kidspace", 
+                                "room": "Static:Kidspace", 
                                 "slug": "35c3-1541-session_bigtrak", 
                                 "title": "BigTrak", 
                                 "subtitle": "", 
