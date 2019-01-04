@@ -1,5 +1,5 @@
 <schedule>
-  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-03 13:50</version>
+  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-04 14:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -8910,7 +8910,7 @@ Mit analogen und digitalen Soundeffekten werden die Zuhörer in die Hemisphere e
         <type>talk</type>
         <language>en</language>
         <abstract/>
-        <description>Redits, MongoDB and Confluent have recently announced plans to relicense their software or parts of it under new licenses that restrict their usage by cloud providers. These new licenses violate core ideas of Free and Open Source Software, but these companies go to great lengths to obscure that fact. Talk is held by Hanno Böck.</description>
+        <description/>
         <persons/>
         <links>
           <link>https://events.ccc.de/congress/2018/wiki/index.php/Session:Not_quite_Free_and_Open_Source</link>
