@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "2019-01-06 16:20", 
+        "version": "2019-01-07 10:20", 
         "conference": {
             "acronym": "35C3-workshops", 
             "title": "35. Chaos Communication Congress - Workshops", 
@@ -3048,6 +3048,28 @@
                                 "persons": [], 
                                 "links": [
                                     "https://events.ccc.de/congress/2018/wiki/index.php/Session:Tor_relay_operators_meetup"
+                                ]
+                            }, 
+                            {
+                                "id": 1129, 
+                                "guid": "7bc214f9-4c4d-448d-bfa0-88c91c39285c", 
+                                "logo": null, 
+                                "date": "2018-12-28T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "1:00", 
+                                "room": "Lecture room M3", 
+                                "slug": "35c3-1129-session_unitary_software_patents_urgency", 
+                                "title": "Unitary Software Patents Urgency", 
+                                "subtitle": "How to install software patents via the Unitary Patent Court (UPC)", 
+                                "track": "self organized sessions", 
+                                "type": "discussion", 
+                                "language": "en", 
+                                "abstract": "", 
+                                "description": "Unitary Software Patents Urgency, or how to install software patents via the Unitary Patent Court (UPC)", 
+                                "persons": [], 
+                                "links": [
+                                    "http://www.nounitarysoftwarepatents.uk/", 
+                                    "https://events.ccc.de/congress/2018/wiki/index.php/Session:Unitary_Software_Patents_Urgency"
                                 ]
                             }
                         ], 
