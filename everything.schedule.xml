@@ -1,5 +1,5 @@
 <schedule>
-  <version>Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-08 21:00</version>
+  <version>Voltron 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-08 23:40</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -251,7 +251,9 @@ One of the most common applications of deep learning is the interpretation of im
           <person id="8381">Julian</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/734/original/1812-congress.pdf?1546876965">slides</attachment>
+        </attachments>
       </event>
       <event id="10016" guid="f010dc03-13bc-413d-95ec-e8786626a2f1">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10016.html</url>
@@ -400,9 +402,10 @@ The talk will give an overview of the developments that led to TLS 1.3, the majo
           <link href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_44_tls_1_3_is_here">TLS 1.3 is here</link>
           <link href="https://www.feistyduck.com/bulletproof-tls-newsletter/issue_33_why_tls_13_isnt_there_yet">Why TLS 1.3 isn’t there yet</link>
           <link href="https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html">TLS 1.3: Die Zukunft der Netzverschlüsselung</link>
+          <link href="https://int21.de/slides/35c3-tls13/">The Rocky Road to TLS 1.3 - Slides</link>
         </links>
         <attachments>
-          <attachment href="/system/event_attachments/attachments/000/003/637/original/tls13.pdf?1545904122">Slides</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/732/original/tls13.pdf?1546421079">Slides</attachment>
         </attachments>
       </event>
       <event id="9904" guid="d995955c-319f-4228-b3f4-080868bbfdf8">
@@ -8728,7 +8731,6 @@ The kleptographic attacks were first discovered by Adam Young and Moti Yung in 1
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/727/original/35c3_wallet_security.pdf?1546275895">Slides</attachment>
-          <attachment href="/attachments/original/missing.png">file</attachment>
         </attachments>
       </event>
       <event id="9939" guid="2536bba3-b95f-4cec-9a95-7aa756db7edb">
@@ -16271,7 +16273,58 @@ In diesem Vortrag erklären wir, was Menschen zum Bau komplexer Detektoren an de
 &#13;
 As discovered by Victor Hess already in 1912, there are particles impinging the Earth’s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  &#13;
 &#13;
-In this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.</description>
+In this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.&#13;
+&#13;
+Image / Video Credits &#13;
+&#13;
+Titelbild: NASA&#13;
+B2	Uni Wien&#13;
+B3	NASA&#13;
+B4	CERN / LHC&#13;
+B5	Auger Collaboration&#13;
+B6	Sven Lafebre&#13;
+B7	NASA&#13;
+B8	 A. Fedynitch DESY&#13;
+B9	IceCube Observatory&#13;
+B10	freier-grafiker.de&#13;
+B11 	IceCube Collaboration&#13;
+B12	https://military.id.me/&#13;
+B13	Argonne National Laboratory&#13;
+B14	IceCube Collaboration&#13;
+B15	IceCube Collaboration&#13;
+B16	DESY (Renderbild)&#13;
+B17	IceCube Collaboration&#13;
+B18	IceCube Collaboration&#13;
+B19	IceCube Collaboration&#13;
+B20		Science Communication Lab und DESY (https://multimessenger.desy.de/ ) &#13;
+B21		Science Communication Lab und DESY (https://multimessenger.desy.de/ )&#13;
+&#13;
+References&#13;
+&#13;
+R1	https://www.mpi-hd.mpg.de/hfm/HESS/public/vfHess.pdf (DE) ausführliche Diploma-Thesis&#13;
+R2	https://arxiv.org/abs/1808.02927 Original-Paper inkl. Kommentare&#13;
+R3	https://arxiv.org/abs/1701.07305 Proceedings on electron positron fluxes (AMS Coll. ) &#13;
+R4	https://arxiv.org/abs/astro-ph/0609060 Auger Observatory &#13;
+R5	https://arxiv.org/abs/1502.01323 ausführliche Detektorbeschreibung&#13;
+R6	https://arxiv.org/abs/1604.03637 AugerPrime Design Report, ohne AERA Radio Det.	&#13;
+R7	https://arxiv.org/abs/1311.7346  Galactic Cosmic Rays Review&#13;
+R8	https://arxiv.org/abs/1804.02331 Galactic CR from young massive stars&#13;
+R9	https://arxiv.org/abs/0711.2256 2008 Correlation of UHECR with AGN (Auger Coll.)&#13;
+R10	https://arxiv.org/abs/1709.07321	2017 large scale UHECR anisotropy (Auger Coll.)&#13;
+R11	https://arxiv.org/abs/0812.3809 High Energy Neutrino Detectors overview&#13;
+R12	https://arxiv.org/abs/1412.5106 IceCube Gen2&#13;
+R13 	https://arxiv.org/abs/1607.02671 PINGU IceCube&#13;
+R14	https://arxiv.org/abs/1612.05093 IceCube Instrumentation and Online Systems (DOM)  &#13;
+R15	http://science.sciencemag.org/content/342/6161/1242856.full (https://arxiv.org/abs/1311.5238 )&#13;
+R16	https://arxiv.org/abs/1805.11112  Neutrino Astronomy focus IceCube&#13;
+R17 	http://science.sciencemag.org/content/361/6398/eaat1378 (open access: https://arxiv.org/abs/1807.08816 ) 	&#13;
+R18	http://science.sciencemag.org/content/361/6398/147 (open access: https://arxiv.org/abs/1807.08794 )&#13;
+R19	  https://arxiv.org/abs/1807.04275 modeling TXS2&#13;
+R20 	http://adsabs.harvard.edu/abs/1993ARA%26A..31..473A AGN Unification scheme 1993&#13;
+R21	https://arxiv.org/abs/1107.5576 AGN UHECR&#13;
+R22	https://arxiv.org/abs/1812.05939 Historical flare conventional models &#13;
+R23	https://arxiv.org/abs/1809.00601 Gas - Jet interaction model for historical flare 	&#13;
+</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -16280,7 +16333,9 @@ In this lecture, we will aim to explain what motivates mankind to build complex 
           <person id="7409">Anni</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/733/original/Teilchenbeschleuniger_Antarktis.pdf?1546468006">Presentation</attachment>
+        </attachments>
       </event>
       <event id="9648" guid="e66cded3-7336-42bd-a7c8-d77073465ad2">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9648.html</url>
@@ -16747,7 +16802,7 @@ Das MHS benötigt wachstumsbedingt Unterstützung bei der Einrichtung von Tools 
       </event>
       <event id="9898" guid="020051ff-2594-46ce-b92a-0786743e4624">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9898.html</url>
-        <logo/>
+        <logo>/system/events/logos/000/009/898/large/mehr_slecht_als_recht.png?1546616089</logo>
         <date>2018-12-29T18:10:00+01:00</date>
         <start>18:10</start>
         <duration>00:40</duration>
@@ -25214,7 +25269,10 @@ Fachwörter-pdf: https://www.walcker.com/downloads/dictionnaire-des-orgues.pdf</
           <person id="8818">Jannik Beyerstedt</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/730/original/35C3_Orgelbau_Talk.pdf?1546384027">Folien Jannik Beyerstedt</attachment>
+          <attachment href="/system/event_attachments/attachments/000/003/731/original/35C3_Vortrag.pdf?1546384027">Folien Benjamin Wand </attachment>
+        </attachments>
       </event>
       <event id="9964" guid="b11ac9c0-8a4d-47ae-a584-f5c01fa2a01c">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9964.html</url>

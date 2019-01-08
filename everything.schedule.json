@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-08 21:00", 
+        "version": "Voltron 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-08 23:40", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -278,7 +278,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/734/original/1812-congress.pdf?1546876965", 
+                                        "title": "slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/10016.html", 
@@ -445,11 +450,15 @@
                                     {
                                         "url": "https://www.golem.de/news/tls-1-3-die-zukunft-der-netzverschluesselung-1612-124724.html", 
                                         "title": "TLS 1.3: Die Zukunft der Netzverschl\u00fcsselung"
+                                    }, 
+                                    {
+                                        "url": "https://int21.de/slides/35c3-tls13/", 
+                                        "title": "The Rocky Road to TLS 1.3 - Slides"
                                     }
                                 ], 
                                 "attachments": [
                                     {
-                                        "url": "/system/event_attachments/attachments/000/003/637/original/tls13.pdf?1545904122", 
+                                        "url": "/system/event_attachments/attachments/000/003/732/original/tls13.pdf?1546421079", 
                                         "title": "Slides"
                                     }
                                 ]
@@ -9112,10 +9121,6 @@
                                     {
                                         "url": "/system/event_attachments/attachments/000/003/727/original/35c3_wallet_security.pdf?1546275895", 
                                         "title": "Slides"
-                                    }, 
-                                    {
-                                        "url": "/attachments/original/missing.png", 
-                                        "title": "file"
                                     }
                                 ]
                             }, 
@@ -17315,7 +17320,7 @@
                                 "type": "lecture", 
                                 "language": "de", 
                                 "abstract": "Vor 5.7 Milliarden Jahren emittierte der Blazar TXS0506+056 eine gro\u00dfe Menge schwach wechselwirkender Neutrinos. Von dem durch ein supermassives schwarzes Loch im Zentrum seiner Galaxie angetriebenen kosmischen Teilchenbeschleuniger fand eines dieser Teilchen seinen Weg zur Erde und interagierte mit Wassermolek\u00fclen im antarktischen Eis. Durch einen gl\u00fccklichen Zufall konnte das IceCube Neutrino Observatory, ein Kubikkilometer gro\u00dfer Detektor aus instrumentiertem Eis, am 22. September 2017 eine Lichtspur aufzeichnen, die direkt zur Quelle zur\u00fcck zeigte. Damit konnte erstmals ein bekanntes astrophysikalisches Objekt mit dem Ursprung eines kosmischen Neutrinos assoziert werden und das Ereignis IceCube-170922A schrieb Geschichte. Ein n\u00e4herer Blick auf die w\u00e4hrend 2014-2015 gesammelten Daten zeigte, dass die Neutrino-Emission von TXS0506+056 phasenweise erh\u00f6ht ist. Dies unterst\u00fctzt die These, dass das Ereignis von 2017 tats\u00e4chlich dem Blazar zugeordnet werden kann und die Entdeckung wurde zu einem gro\u00dfer Erfolg f\u00fcr die Multi-Messenger Astrophysik. ", 
-                                "description": "Bereits 1912 entdeckte Viktor Hess die als kosmische Strahlen bekannten hochenergetischen Teilchen, die im Sekundentakt aus dem Weltall auf die Erdatmosph\u00e4re treffen. Einige von ihnen stammen aus unserer Sonne, andere von Quellen in unserer eigenen Galaxie \u2013 bei den h\u00f6chsten Energien liegen die Urspr\u00fcnge allerdings vermutlich in weit entfernten Galaxien. Ungl\u00fccklicherweise handelt es sich gr\u00f6\u00dfteils um geladene Ionen, die auf ihrem Weg durch das Universum durch Magnetfelder abgelenkt werden und nicht zu ihren Quellen zur\u00fcckverfolgt werden k\u00f6nnen. Deswegen konnte in den mehr als 100 Jahren seit ihrer Entdeckung keine eindeutige Quelle extragalaktischer kosmischer Strahlen identifiziert werden.  \r\nTrotz allem gibt es dort drau\u00dfen Objekte, die winzige Teilchen mit den unvorstellbar geringen Massen von 10^-24g auf die Energie beschleunigen, mit der Rafael Nadal seine Tennisb\u00e4lle aufschl\u00e4gt. In irgendeiner Form m\u00fcssen diese Objekte strahlen und neben kosmischen Strahlen auch andere Teilchen emittieren. Hier setzt die Idee von Multi-Messenger Astroteilchenphysik an: Bei der Untersuchung der energiereichsten Objekte unseres Universums werden zugleich Licht, Neutrinos und Gravitationswellen betrachtet, allesamt ungeladene Boten, die Informationen von den Quellen direkt zu unseren Detektoren tragen. W\u00e4hrend 2017 Gravtitationswellen eines Gammastrahlenblitzes identifiziert werden konnten, war der diesj\u00e4hrige Durchbruch in der Multi-Messenger Astroteilchenphysik die Assoziation eines von IceCube detektierten Neutrinos mit einem bekannten Blazar in einer weit entfernten Galaxie. \r\n\r\nIn diesem Vortrag erkl\u00e4ren wir, was Menschen zum Bau komplexer Detektoren an den exotischsten Pl\u00e4tzen der Welt motiviert, um hochenergetische Teilchen aus dem Weltall zu jagen. Wir sprechen \u00fcber die bahnbrechende Entdeckung diesen Jahres und beleuchten, wie der Durchbruch durch twitter-\u00e4hnliche Echtzeit-Monitoring-Systeme \u00fcberhaupt erst m\u00f6glich wurde.  \r\n\r\n5.7 billion years ago, the blazar TXS0506+056, a gigantic particle accelerator driven by the super-massive black hole at the center of its host galaxy, emitted a large number of weakly interacting elementary particles, known as neutrinos. One of these particles found its way to Earth and interacted with water molecules in the South-Antarctic Ice Sheet. Fortunately, the IceCube Observatory, a cubic kilometer of instrumented ice recorded a track of light that pointed directly back to its origin, unlike many other neutrinos captured in the past. This event, called IceCube-170922A writes history, since for the first time a concrete astrophysical object can be associated to the origin of this neutrino and thus the presence of strongly accelerated, interacting matter. A second look at the data recorded in 2014-2015 confirmed that the blazar has indeed periods of high-neutrino emission, strengthening the confidence in the 2017 event to be a real discovery and great success for Multi-Messenger Astrophysics.\r\n\r\nAs discovered by Victor Hess already in 1912, there are particles impinging the Earth\u2019s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  \r\n\r\nIn this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.", 
+                                "description": "Bereits 1912 entdeckte Viktor Hess die als kosmische Strahlen bekannten hochenergetischen Teilchen, die im Sekundentakt aus dem Weltall auf die Erdatmosph\u00e4re treffen. Einige von ihnen stammen aus unserer Sonne, andere von Quellen in unserer eigenen Galaxie \u2013 bei den h\u00f6chsten Energien liegen die Urspr\u00fcnge allerdings vermutlich in weit entfernten Galaxien. Ungl\u00fccklicherweise handelt es sich gr\u00f6\u00dfteils um geladene Ionen, die auf ihrem Weg durch das Universum durch Magnetfelder abgelenkt werden und nicht zu ihren Quellen zur\u00fcckverfolgt werden k\u00f6nnen. Deswegen konnte in den mehr als 100 Jahren seit ihrer Entdeckung keine eindeutige Quelle extragalaktischer kosmischer Strahlen identifiziert werden.  \r\nTrotz allem gibt es dort drau\u00dfen Objekte, die winzige Teilchen mit den unvorstellbar geringen Massen von 10^-24g auf die Energie beschleunigen, mit der Rafael Nadal seine Tennisb\u00e4lle aufschl\u00e4gt. In irgendeiner Form m\u00fcssen diese Objekte strahlen und neben kosmischen Strahlen auch andere Teilchen emittieren. Hier setzt die Idee von Multi-Messenger Astroteilchenphysik an: Bei der Untersuchung der energiereichsten Objekte unseres Universums werden zugleich Licht, Neutrinos und Gravitationswellen betrachtet, allesamt ungeladene Boten, die Informationen von den Quellen direkt zu unseren Detektoren tragen. W\u00e4hrend 2017 Gravtitationswellen eines Gammastrahlenblitzes identifiziert werden konnten, war der diesj\u00e4hrige Durchbruch in der Multi-Messenger Astroteilchenphysik die Assoziation eines von IceCube detektierten Neutrinos mit einem bekannten Blazar in einer weit entfernten Galaxie. \r\n\r\nIn diesem Vortrag erkl\u00e4ren wir, was Menschen zum Bau komplexer Detektoren an den exotischsten Pl\u00e4tzen der Welt motiviert, um hochenergetische Teilchen aus dem Weltall zu jagen. Wir sprechen \u00fcber die bahnbrechende Entdeckung diesen Jahres und beleuchten, wie der Durchbruch durch twitter-\u00e4hnliche Echtzeit-Monitoring-Systeme \u00fcberhaupt erst m\u00f6glich wurde.  \r\n\r\n5.7 billion years ago, the blazar TXS0506+056, a gigantic particle accelerator driven by the super-massive black hole at the center of its host galaxy, emitted a large number of weakly interacting elementary particles, known as neutrinos. One of these particles found its way to Earth and interacted with water molecules in the South-Antarctic Ice Sheet. Fortunately, the IceCube Observatory, a cubic kilometer of instrumented ice recorded a track of light that pointed directly back to its origin, unlike many other neutrinos captured in the past. This event, called IceCube-170922A writes history, since for the first time a concrete astrophysical object can be associated to the origin of this neutrino and thus the presence of strongly accelerated, interacting matter. A second look at the data recorded in 2014-2015 confirmed that the blazar has indeed periods of high-neutrino emission, strengthening the confidence in the 2017 event to be a real discovery and great success for Multi-Messenger Astrophysics.\r\n\r\nAs discovered by Victor Hess already in 1912, there are particles impinging the Earth\u2019s atmosphere every couple of seconds called Cosmic Rays. Some of them are accelerated in the sun, others by sources in our galaxy but at the highest energies, these particles are very likely coming from distant galaxies. Unfortunately, most of them are charged ions that are deflected by magnetic fields on their way through the universe and they do not point back to the point where they have been accelerated. Therefore, even 100 years after the discovery of cosmic rays a definite and obvious source has not been discovered. However, there is something out there that can accelerate a tiny particle with a mass as little as 10-24g (this is a number with !23! decimal zeros) to the energy equivalent to a tennis ball served by Rafael Nadal, then it must somehow shine and emit other radiation among the Cosmic Rays. This is the basic idea of multi-messenger astrophysics that aims to study the most violent objects in the universe by looking simultaneously at the emitted light, the neutrinos and the gravitational waves, which are all uncharged messengers carrying the information from the sources directly to our detectors. While n 2017, gravitational waves from a Gamma-Ray Burst were identified, this years major breakthrough in the field of multi-messenger astrophysics was the association  of a high energy neutrino detected by IceCube with a known blazar in a far away galaxy.  \r\n\r\nIn this lecture, we will aim to explain what motivates mankind to build complex observatories at the most exotic location around the globe to haunt for very high energy particles from space. We will shed light on this brand new detection and highlight that without the recent developments in a real-time monitoring/Twitter-like system the detection would have gone unnoticed.\r\n\r\nImage / Video Credits \r\n\r\nTitelbild: NASA\r\nB2\tUni Wien\r\nB3\tNASA\r\nB4\tCERN / LHC\r\nB5\tAuger Collaboration\r\nB6\tSven Lafebre\r\nB7\tNASA\r\nB8\t A. Fedynitch DESY\r\nB9\tIceCube Observatory\r\nB10\tfreier-grafiker.de\r\nB11 \tIceCube Collaboration\r\nB12\thttps://military.id.me/\r\nB13\tArgonne National Laboratory\r\nB14\tIceCube Collaboration\r\nB15\tIceCube Collaboration\r\nB16\tDESY (Renderbild)\r\nB17\tIceCube Collaboration\r\nB18\tIceCube Collaboration\r\nB19\tIceCube Collaboration\r\nB20\t\tScience Communication Lab und DESY (https://multimessenger.desy.de/ ) \r\nB21\t\tScience Communication Lab und DESY (https://multimessenger.desy.de/ )\r\n\r\nReferences\r\n\r\nR1\thttps://www.mpi-hd.mpg.de/hfm/HESS/public/vfHess.pdf (DE) ausf\u00fchrliche Diploma-Thesis\r\nR2\thttps://arxiv.org/abs/1808.02927 Original-Paper inkl. Kommentare\r\nR3\thttps://arxiv.org/abs/1701.07305 Proceedings on electron positron fluxes (AMS Coll. ) \r\nR4\thttps://arxiv.org/abs/astro-ph/0609060 Auger Observatory \r\nR5\thttps://arxiv.org/abs/1502.01323 ausf\u00fchrliche Detektorbeschreibung\r\nR6\thttps://arxiv.org/abs/1604.03637 AugerPrime Design Report, ohne AERA Radio Det.\t\r\nR7\thttps://arxiv.org/abs/1311.7346  Galactic Cosmic Rays Review\r\nR8\thttps://arxiv.org/abs/1804.02331 Galactic CR from young massive stars\r\nR9\thttps://arxiv.org/abs/0711.2256 2008 Correlation of UHECR with AGN (Auger Coll.)\r\nR10\thttps://arxiv.org/abs/1709.07321\t2017 large scale UHECR anisotropy (Auger Coll.)\r\nR11\thttps://arxiv.org/abs/0812.3809 High Energy Neutrino Detectors overview\r\nR12\thttps://arxiv.org/abs/1412.5106 IceCube Gen2\r\nR13 \thttps://arxiv.org/abs/1607.02671 PINGU IceCube\r\nR14\thttps://arxiv.org/abs/1612.05093 IceCube Instrumentation and Online Systems (DOM)  \r\nR15\thttp://science.sciencemag.org/content/342/6161/1242856.full (https://arxiv.org/abs/1311.5238 )\r\nR16\thttps://arxiv.org/abs/1805.11112  Neutrino Astronomy focus IceCube\r\nR17 \thttp://science.sciencemag.org/content/361/6398/eaat1378 (open access: https://arxiv.org/abs/1807.08816 ) \t\r\nR18\thttp://science.sciencemag.org/content/361/6398/147 (open access: https://arxiv.org/abs/1807.08794 )\r\nR19\t  https://arxiv.org/abs/1807.04275 modeling TXS2\r\nR20 \thttp://adsabs.harvard.edu/abs/1993ARA%26A..31..473A AGN Unification scheme 1993\r\nR21\thttps://arxiv.org/abs/1107.5576 AGN UHECR\r\nR22\thttps://arxiv.org/abs/1812.05939 Historical flare conventional models \r\nR23\thttps://arxiv.org/abs/1809.00601 Gas - Jet interaction model for historical flare \t\r\n", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -17325,7 +17330,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/733/original/Teilchenbeschleuniger_Antarktis.pdf?1546468006", 
+                                        "title": "Presentation"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9648.html", 
@@ -17882,7 +17892,7 @@
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9898.html", 
                                 "id": 9898, 
                                 "guid": "020051ff-2594-46ce-b92a-0786743e4624", 
-                                "logo": null, 
+                                "logo": "/system/events/logos/000/009/898/large/mehr_slecht_als_recht.png?1546616089", 
                                 "date": "2018-12-29T18:10:00+01:00", 
                                 "start": "18:10", 
                                 "duration": "00:40", 
@@ -26996,7 +27006,16 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/730/original/35C3_Orgelbau_Talk.pdf?1546384027", 
+                                        "title": "Folien Jannik Beyerstedt"
+                                    }, 
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/731/original/35C3_Vortrag.pdf?1546384027", 
+                                        "title": "Folien Benjamin Wand "
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9964.html", 
