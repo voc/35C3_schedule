@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-07 10:20", 
+        "version": "Unsolved Mysteries 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-08 20:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -4334,11 +4334,11 @@
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "GWJR9B", 
                                 "url": "https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B", 
-                                "title": "Wikidata-Einf\u00fchrung + Wikidata Query Service Einf\u00fchrung", 
+                                "title": "Introduction to Wikidata and the Wikidata Query Service", 
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Talk", 
-                                "language": "de", 
+                                "language": "en", 
                                 "abstract": "Discover Wikidata, the free knowledge base from Wikimedia, and learn how to work with it.", 
                                 "description": null, 
                                 "recording_license": "", 
