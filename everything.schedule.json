@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Voltron 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-14 08:30", 
+        "version": "Voltron 3.1 2.1 v2.7 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3 2019-01-14 12:50", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -21922,8 +21922,8 @@
                                 "subtitle": "", 
                                 "track": null, 
                                 "type": "Talk", 
-                                "language": "en", 
-                                "abstract": "Much of the work in the Wikimedia universe, and especially on Wikidata, is done using external tools. Here you\u2019ll see how you can build your own!", 
+                                "language": "de", 
+                                "abstract": "Much of the work in the Wikimedia universe, and especially on Wikidata, is done using external tools. Here you\u2019ll see how you can build your own! (See also the [behind-the-scenes blog post](https://lucaswerkmeister.de/posts/2019/01/04/speedpatrolling/).)", 
                                 "description": null, 
                                 "recording_license": "", 
                                 "do_not_record": false, 
