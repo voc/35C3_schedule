@@ -1304,7 +1304,9 @@ Es gibt kaum aussagekräftige Zahlen und wenig Hilfe für Betroffene. Warum wiss
         <abstract>Voicemail systems can be compromised by leveraging old weaknesses and top of current technology. The impact goes way beyond having your messages exposed.</abstract>
         <description>Voicemail systems have been with us since the 80s. They played a big role in the earlier hacking scene and re-reading those zines, articles and tutorials paints an interesting picture. Not much has changed. Not in the technology nor in some of the attack vectors. Can we leverage the last 30 years innovations to compromise voicemail systems? And what is the real impact today of pwning these?&#13;
 &#13;
-In this talk I will cover voicemail systems, it's security and how we can use oldskool techniques and new ones on top of current technology to compromise them. I will discuss the impact of gaining unauthorized access to voicemail systems and introduce a new tool that automates the process</description>
+In this talk I will cover voicemail systems, it's security and how we can use oldskool techniques and new ones on top of current technology to compromise them. I will discuss the impact of gaining unauthorized access to voicemail systems and introduce a new tool that automates the process.&#13;
+&#13;
+Correction: There is no default PIN on O2 anymore. Initial PINs are generated randomly as it is the case for Vodafone and Telekom.</description>
         <recording>
           <license/>
           <optout>false</optout>
@@ -10070,7 +10072,7 @@ This talk will &lt;em&gt;not&lt;/em&gt; cover legal aspects of the lawyers fight
         </persons>
         <links>
           <link href="https://usher2.club/en/">Usher II: having fun with Roskomnadzor's Register of Prohibited sites</link>
-          <link href="https://darkk.net.ru/35c3/">Slides mirror</link>
+          <link href="https://darkk.net.ru/35c3/">Errata &amp; Slides mirror</link>
         </links>
         <attachments>
           <attachment href="/system/event_attachments/attachments/000/003/698/original/35c3-russia-vs-telegram.pdf?1546092203">PDF slides</attachment>
@@ -10643,7 +10645,9 @@ This session could be helpful both for people interested in getting into the sec
           <person id="8362">Jonathan Jacobi</person>
         </persons>
         <links/>
-        <attachments/>
+        <attachments>
+          <attachment href="/system/event_attachments/attachments/000/003/735/original/From_Zero_to_Zero_Day.pdf?1547555612">Slides</attachment>
+        </attachments>
       </event>
       <event id="9664" guid="cf86e707-27a6-4839-a03f-438413e7756f">
         <url>https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9664.html</url>

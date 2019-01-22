@@ -1368,7 +1368,7 @@
                                 "type": "lecture", 
                                 "language": "en", 
                                 "abstract": "Voicemail systems can be compromised by leveraging old weaknesses and top of current technology. The impact goes way beyond having your messages exposed.", 
-                                "description": "Voicemail systems have been with us since the 80s. They played a big role in the earlier hacking scene and re-reading those zines, articles and tutorials paints an interesting picture. Not much has changed. Not in the technology nor in some of the attack vectors. Can we leverage the last 30 years innovations to compromise voicemail systems? And what is the real impact today of pwning these?\r\n\r\nIn this talk I will cover voicemail systems, it's security and how we can use oldskool techniques and new ones on top of current technology to compromise them. I will discuss the impact of gaining unauthorized access to voicemail systems and introduce a new tool that automates the process", 
+                                "description": "Voicemail systems have been with us since the 80s. They played a big role in the earlier hacking scene and re-reading those zines, articles and tutorials paints an interesting picture. Not much has changed. Not in the technology nor in some of the attack vectors. Can we leverage the last 30 years innovations to compromise voicemail systems? And what is the real impact today of pwning these?\r\n\r\nIn this talk I will cover voicemail systems, it's security and how we can use oldskool techniques and new ones on top of current technology to compromise them. I will discuss the impact of gaining unauthorized access to voicemail systems and introduce a new tool that automates the process.\r\n\r\nCorrection: There is no default PIN on O2 anymore. Initial PINs are generated randomly as it is the case for Vodafone and Telekom.", 
                                 "recording_license": "", 
                                 "do_not_record": false, 
                                 "persons": [
@@ -10071,7 +10071,7 @@
                                     }, 
                                     {
                                         "url": "https://darkk.net.ru/35c3/", 
-                                        "title": "Slides mirror"
+                                        "title": "Errata & Slides mirror"
                                     }
                                 ], 
                                 "attachments": [
@@ -10770,7 +10770,12 @@
                                     }
                                 ], 
                                 "links": [], 
-                                "attachments": []
+                                "attachments": [
+                                    {
+                                        "url": "/system/event_attachments/attachments/000/003/735/original/From_Zero_to_Zero_Day.pdf?1547555612", 
+                                        "title": "Slides"
+                                    }
+                                ]
                             }, 
                             {
                                 "url": "https://fahrplan.events.ccc.de/congress/2018/Fahrplan/events/9664.html", 
