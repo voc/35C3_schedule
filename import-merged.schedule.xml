@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 1.5 MemoryRefreshV1.3 1.2.3</version>
+  <version>Voltron 3.1 1.5 MemoryRefreshV1.3 20183012_1436 1.2.3</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3898,6 +3898,380 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
           <link href="https://hearthis.at/tasmo/">https://hearthis.at/tasmo/</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="Komona Kuppel 3 #talks">
+      <event id="826" guid="db12250b-7a4e-5673-8c60-eeb4abf20034">
+        <logo/>
+        <date>2018-12-27T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>01:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>GZVBSM</slug>
+        <url>https://talks.komona.org/35c3/talk/GZVBSM</url>
+        <title>Back to the Congress with Back Training! Gegen die Verspannung!</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Kurz mal bisschen zusammen strecken und ein paar Übungen gegen die typischen Verspannungen, die man so beim Sitzen vor dem Laptop und in den Talks bekommt. Mit Übungen aus Yoga, Pilates und Rückenschule. Der Workshop kann auf Deutsch oder Englisch gehalten werden. &#13;
+&#13;
+Aim of the workshop is taking a small break from sitting in front of your laptop or in a talk and stretch together. I will show some exercises from yoga, pilates and exercises for a stronger back. The workshop can be held in English or German.</abstract>
+        <description>In this workshop, I want to show you some exercises to stretch, relax and strengthen your back. We spend a lot of time sitting and it can be nice to know some exercises to release tension in your body when you have spent a long time in one position. If you have a mat or a blanket, it might be nice to bring it. There is no pre-knowledge required to attend the workshop.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <name>Elli</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="839" guid="a80167e7-251a-5b85-9d62-d8b6c248212c">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>3BT8ZB</slug>
+        <url>https://talks.komona.org/35c3/talk/3BT8ZB</url>
+        <title>Anarchistische Theorie I : Im Spannungsfeld gegen Hegemonie! - anarchistische Perspektive auf Hegemonietheorien</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>siehe Beschreibung</abstract>
+        <description>Anarchist Theory I – In a field of tensions against hegemony! - an anarchist perspective on theories of hegemony&#13;
+&#13;
+(Input und Diskussion) &#13;
+&#13;
+Wie erzeugt Herrschaft Zustimmung, freiwillige Unterwerfung und vermittelt einen Konsens, der sie stützt? Wie werden Herrschaftsverhältnisse auf verschiedenen Ebenen abgesichert und verschleiert? Hegemonietheorien bilden einen wichtigen Teil in linkem strategischen Denken. Worum geht es bei ihnen, was können wir damit anfangen und wie lassen sie sich anarchistisch interpretieren?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>jens störfried</name>
+            <biography>Beschäftige mich mit verschiedenen DIngen, aber seit einigen Jahren ausgiebig mit anarchistischer Theorie, Geschichte und Praxis. Möchte darüber ins Gespräch kommen. Hab kaum Ahnung von Technik-Sachen, Hacken etc. und suche Schnittpunkte.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="810" guid="20cd97f1-3e47-5b74-be0a-8846da8c7d23">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>NJQUZZ</slug>
+        <url>https://talks.komona.org/35c3/talk/NJQUZZ</url>
+        <title>voice and presence: how to be loud</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>SPEAK UP part 1/3. we learn voice basics - breathing, humming, speaking loudly, staying calm, not destroying our vocal cords</abstract>
+        <description>we will learn how to breathe, how to stand, how to warm up our voices for protests or speeches.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>mikio</name>
+            <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="834" guid="4460d506-e423-530a-9882-a61101276d6f">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>FRWFQE</slug>
+        <url>https://talks.komona.org/35c3/talk/FRWFQE</url>
+        <title>Spontanistan</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Talking about stuff.</abstract>
+        <description>Everyday. Do it. Use the space.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="815" guid="e3e82873-7783-5881-b19a-5414a60a0736">
+        <logo/>
+        <date>2018-12-27T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>00:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>JTZVBN</slug>
+        <url>https://talks.komona.org/35c3/talk/JTZVBN</url>
+        <title>Über Musik schreiben ist wie zu Architektur tanzen - Perlen aus Bandbewerbungen und Poesie von Bookingagenturen</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Absurde Beschreibungen und Texte über Bands und ihre Musik, verfasst von ihnen selbst oder ihren Bookingagenturen, gelesen von einem Menschen, der diese täglich per E-Mail bekommt.</abstract>
+        <description>Wer Konzerte, Parties oder Festivals veranstaltet, erhält eine erstaunlich hohe Anzahl an Bewerbungen von MusikerInnen aller Art. Neben dem obligatorischen Soundbeispiel auf Soundcloud, Bandcamp oder YouTube finden sich dabei immer auch beschreibende Texte. Ist die Geschichte oder die Karriere einer Band meist eher langweilig, so ist die Beschreibung der eigentlichen Musik herrlich absurd und unfreiwillig komisch. Die Lesung stellt ein Best of solcher Texte dar, die über Jahre gesammelt und archiviert wurden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="20">
+            <name>El.chuchu</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Thunderdome #workshops #talks">
+      <event id="847" guid="45365c5f-94af-59ca-800c-c27d0787ee9b">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>8A3BU8</slug>
+        <url>https://talks.komona.org/35c3/talk/8A3BU8</url>
+        <title>Letter writing to prisoners</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Workshop with input on letter writing to prisoners</abstract>
+        <description>Ending up in prison sucks. Ending up in prison with no support can destroy you. Going through this experience with support is really important for those who are ending up in it. Writing letters is one of the few things we can do for prisoners to break isolation between us and them.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="46">
+            <name>ABC Dresden</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="853" guid="851bbdef-10af-5aba-9b4d-9510a617d530">
+        <logo/>
+        <date>2018-12-27T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>RZYGAU</slug>
+        <url>https://talks.komona.org/35c3/talk/RZYGAU</url>
+        <title>Activisti Calendar</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Let's build up an activisti calendar of actions taking place in 2019 where we already know, support is needed. For the upcoming fights.</abstract>
+        <description>Share your knowledge, bring your needs, offer your network and ressources. We fight together. We are one.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="808" guid="dde151b2-c667-5a34-a3fc-2de632290e12">
+        <logo/>
+        <date>2018-12-27T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>8BKDXX</slug>
+        <url>https://talks.komona.org/35c3/talk/8BKDXX</url>
+        <title>Ticketfrei - A sousveillance bot for avoiding ticket controllers on public transport</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Free Trains, Tram, and Busses, open for everyone, are a fascinating&#13;
+idea. If public transport was 100% financed by the public, ticket&#13;
+controllers could finally lose their jobs. But until then, we have to&#13;
+fear the controllers. If we only knew, when and where they are&#13;
+controlling tickets, we could save a lot of money.&#13;
+&#13;
+With Ticketfrei bots, a whole city can warn each other, when controls&#13;
+are happening. Sousveil the surveillers, and fight for your infrastructure.</abstract>
+        <description>This workshop is about the political goals, how you can contribute to&#13;
+Ticketfrei, how you can get Ticketfrei to your city, and about&#13;
+Sousveillance as a form of political activism. Because infrastructure is&#13;
+political and we should fight for it.&#13;
+&#13;
+speakers: b3yond &amp; ph4nt</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="14">
+            <name>b3yond</name>
+            <biography>cyberpunk. existentialism. try my best 2 be feminist. self-teaching IT. humans are networks. dystopia is fun.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="837" guid="a8c32992-41ac-5116-a1a0-55807bd23e15">
+        <logo/>
+        <date>2018-12-27T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>PHFHSW</slug>
+        <url>https://talks.komona.org/35c3/talk/PHFHSW</url>
+        <title>Cultural Protocols</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>This workshop aims to give an introduction to cultural protocols: underlying rules that govern our everyday life. After a brief introduction to the concept we try to collectively alter those rules and dig into the possibilities of social interactions.&#13;
+&#13;
+culturalprotocols.cc</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="38">
+            <name>Kyr Avram</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="859" guid="6ddde82d-cac9-5860-be45-4771a9310faa">
+        <logo/>
+        <date>2018-12-27T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>GD7NQU</slug>
+        <url>https://talks.komona.org/35c3/talk/GD7NQU</url>
+        <title>Climbing on another level Beginners</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Learning basic action climbing skills, connect with other climbies and see what happens</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Zelt #workshops #handson">
+      <event id="827" guid="9f5fbb1a-af88-52b5-a660-aac60a6c3199">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:30</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>ZGM9D3</slug>
+        <url>https://talks.komona.org/35c3/talk/ZGM9D3</url>
+        <title>Artificial Impact - The Deep Learning Board Game</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>[Artificial Impact](https://artificialimpact.net/ "artificialimpact.net")is an educational board game about deep learning and the possible impact to society of the use of AI by institutions. Join us for an introductory talk and Q&amp;A, after which there is time to play the game.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="31">
+            <name>Wouter Moraal</name>
+            <biography>[Wouter Moraal](https://woutermoraal.nl/ "woutermoraal.nl") does research, education and interactive art about the role of new technologies in society. He is particularly interested in the future of people's privacy, security and freedom.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="857" guid="28af1aaa-cdb9-56b8-b208-1d9f0eebd64f">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>02:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>88RZXN</slug>
+        <url>https://talks.komona.org/35c3/talk/88RZXN</url>
+        <title>Secure Scuttlebutt 101 // Meetup!</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Here we gather to introduce Scuttlebutt and how to use it while also introducing each other. Get to know the community (IRL) and join the Scuttleverse.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="49">
+            <name>Jacob</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="OIO Lötarea"/>
@@ -8257,6 +8631,584 @@ music.</abstract>
         <persons/>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="Komona Kuppel 3 #talks">
+      <event id="829" guid="14648c6b-e459-522c-bb22-570b2c01d252">
+        <logo/>
+        <date>2018-12-28T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>FA9KQX</slug>
+        <url>https://talks.komona.org/35c3/talk/FA9KQX</url>
+        <title>Corrupt Yoga</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>No ideology. No defined mindset. No spirituality needed. Let's just get intouch with our bodies and their flows of energy. Balancing body and mind energies. How do you do it? Let's strech, talk and learn from each other. And prepare for the day ahead.</abstract>
+        <description>Bring a mat if you can.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Radikale Liebe</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="846" guid="b568c0ab-b5db-5772-b43d-99ba2b830a3a">
+        <logo/>
+        <date>2018-12-28T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>02:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>7MNZCX</slug>
+        <url>https://talks.komona.org/35c3/talk/7MNZCX</url>
+        <title>"Reinventing infinity - a pink proposal for post capitalist network communication"</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Pink Totaliterianism Now! &#13;
+From #metoo through #all-lives-matter and #freedom-of-speech up to kavanaugh and bolsonaro, a zombie is being summoned: 'pink totaliterianism' (where 'aliter' is latin for 'other') - the imposition of rights-based oppression from 'the left' that keeps people from ‘things they want to do.’ This exhibition turns the phatasmatic picture of a left queer anti-racist anti-imperial anti-everything conspiracy into a real thing.</abstract>
+        <description>[will be held in german if that's what participants prefer] &#13;
+&#13;
+'the left' keeps people from ‘things they want to do' and they must be resisted. For ‘wanting’ being the core of consumption, it must be sacrosanct - or so the story goes. Some otherwise healthy and self-mobilizing political corpus ('the people,' 'the nation,' 'men and women,' 'the white race,' what have you) is allegedly under attack if not under the control of a small group of wicked, hysterical non-humans (‘Social Justice Warriors,’ ‘feminists,’ ‘leftists,’ ‘socialists,’ ‘communists,’ ‘gender terrorists,' 'the Jews'). 'Pink Totaliterians' manifest Jordan Peterson' deepest fears: they want whiteness dead, the couple form chased down and shamed publicly, mandatory sex toys and anal intercourse for all, collectivization of all property and white property first (#reparations), corruption of the youth, the mad running free, all prisons abolished, responsibility for hundreds of years of colonizations, imperialism and slave trade, demolition of colonial memorials, prohibition of dread locks for white people, testosterone blockers in the tab water, elevators and orientation systems for blind people everywhere, no lights, no cars, all national sports teams strung up at memorial hall, together with nationalism itself. &#13;
+&#13;
+But: pink totaliterians do not exist. The #altright fantasy does not face a real enemy. Hence, it is easy to blend the totaliterian with actual activists and generate a 'pink scare' while allegedly moving on emancipative soil. Debating this effectively means having our energies blocked, endlessly chipping away on dysfunctional ‘(non-)foundations’ of ‘Western society.’ But debate is over. 'Pink Totaliterianism' will build that enemy. &#13;
+&#13;
+For 35c3, we will focus on the history of infinity and the destruction of the internet. We will recount the history of infinity from its medieval inflections of the relation between 'creator' and 'creatures,' its kantian reduction to 'transcendental illusions,' its Cantorian mathematization up into its capitalistic dispersion into a composition of allegedly individual things and the internet as a manifestation of that idea. We will suggest, then, a 'pink infinity,' deflection of everything with everything and work and think together about post-capitalistic network communication for the pink revolution.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="45">
+            <name>Comrade Josephine a.k.a. Luce deLire</name>
+            <biography>Luce deLire is a ship with eight sails and she lays off the quay. A time traveller and collector of mediocre jokes by day, when night falls, she turns into a philosopher, performer and media theorist. She loves visual art, installations, video art etc. She could be seen curating, performing, directing, planning and publishing (on) various events. She is working on and with treason, post secularism, self destruction, fascism and seduction – all in mixed media. &#13;
+&#13;
+for more, see: www.getaphilosopher.com</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="840" guid="d2f050b4-7e47-5944-afc5-880fb2495a57">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>W3PXNH</slug>
+        <url>https://talks.komona.org/35c3/talk/W3PXNH</url>
+        <title>Anarchistische Theorie II : (Anti-)Politik im Anarchismus</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>siehe Beschreibung</abstract>
+        <description>Anarchist Theory II – (Anti-)Politics in Anarchism&#13;
+&#13;
+Schon auf den ersten Blick scheint ein anarchistischer Begriff von Politik ambivalent zu sein. Einerseits wird Politik als staatliche Herrschaftsregulierung oder dem Staat zugeordnete Beeinflussung von Herrschaft von Anarchist*innen abgelehnt. Andererseits organisieren sich Menschen in autonomen politischen Gruppen und treten für die Ideale einer selbstverwalteten, dezentralen und egalitären Gesellschaft ein. Geht es im Anarchismus also letztendlich um die völlige Abschaffung der Politik oder die Politisierung aller Lebensbereiche? Ist der Weg dazu eine politische Organisierung und sollte dieser explizit anti-politisch sein?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>jens störfried</name>
+            <biography>Beschäftige mich mit verschiedenen DIngen, aber seit einigen Jahren ausgiebig mit anarchistischer Theorie, Geschichte und Praxis. Möchte darüber ins Gespräch kommen. Hab kaum Ahnung von Technik-Sachen, Hacken etc. und suche Schnittpunkte.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="812" guid="791ee9da-46ff-5cb4-a705-eb92e6df3eae">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>UA9LSS</slug>
+        <url>https://talks.komona.org/35c3/talk/UA9LSS</url>
+        <title>Speaking in front of people</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>SPEAK UP 3/3. we will learn not to freak out when holding a speech. we will speak up in front of each other. we will be an audience to each other, giving constructive feedback.</abstract>
+        <description>we will read out loud&#13;
+we will breathe together&#13;
+we will exchange tips and tricks to calm our voices down and make them more lively and full of emotions &#13;
+bring your texts if you want!&#13;
+say what you have and got to say&#13;
+we will train with and without microphone</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>mikio</name>
+            <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="814" guid="c07a6aa8-b80b-5aad-a867-96ef84172e3e">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>7JQZCC</slug>
+        <url>https://talks.komona.org/35c3/talk/7JQZCC</url>
+        <title>Autonomimimi - zum Autonomiebegriff der ausserparlamentarischen Linken</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>ist die autonome Bewegung? ist Autonomie ein Organisationsansatz? ist Autonomie ein alleinstehendes Ideal? und was ist hier eigentlich Gepose? - eine Polemik mit Diskussion</abstract>
+        <description>Ich hab mir in den letzten Monaten vermehrt Gedanken dazu gemacht, wer eigentlich diese Autonomen sind, die im deutschsprachigen linksradikalen Spektrum allgegenwärtig sind.&#13;
+ich habe den Verdacht, dass der Autonomiebegriff uns davon abhält, über Inhalte, Utopien und Philosophien zu diskutieren.&#13;
+ich habe den Verdacht, dass die praktisch angewandte Autonomie leere Strukturen aus den 80ern übernommen hat.&#13;
+Reichsbürger sind doch auch autonom, oder?&#13;
+von der ersten Internationale bis heute - Sozialismus, Kommunismus, Anarchie - wo verläuft die Spaltung? &#13;
+ich will endlich mal wieder darüber reden, wer welche Ideale und welche Praxis hat.&#13;
+freu mich auf Haltungen, liebe Mitrevoluzzis.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>mikio</name>
+            <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Thunderdome #workshops #talks">
+      <event id="851" guid="e36b7465-f7e5-51fc-826a-64d58ce17bf0">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>JYKYBC</slug>
+        <url>https://talks.komona.org/35c3/talk/JYKYBC</url>
+        <title>Letter writing to prisoners</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Workshop with input on letter writing to prisoners</abstract>
+        <description>Ending up in prison sucks. Ending up in prison with no support can destroy you. Going through this experience with support is really important for those who are ending up in it. Writing letters is one of the few things we can do for prisoners to break isolation between us and them.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="824" guid="6057b16f-9536-5cd6-9eaf-a5cb1c5895cd">
+        <logo/>
+        <date>2018-12-28T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>RBZZBQ</slug>
+        <url>https://talks.komona.org/35c3/talk/RBZZBQ</url>
+        <title>Delta Chat App Intro and Hands-on Testing and Feedback Session</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>DeltaChat is an E-Mail Messenger app for Android (and soon iOS &amp; desktop). It uses Autocrypt to implement OpenPGP encryption, and E-Mail for network effects and decentralization reasons. We want to play around with the current Android + Desktop preview releases.&#13;
+&#13;
+This is an intro, hands-on and Q&amp;A session for using Delta.chat on Android devices and laptops. Attendants do not require special knowledge about end-to-end-encryption, or be programmers. The session is open for anyone curious and interested about Delta Chat.</abstract>
+        <description>Delta Chat is a new app and approach for whatsapp/telegram/signal-style messaging. It offers the full Telegram-Style User Interface but has no single centralizing platform or own servers. It uses traditional e-mail providers to relay messages. So rather than mobile numbers or app-specific addresses, you can contact anyone of the 2.5 Billion people and organizations with e-mail addresses today.&#13;
+&#13;
+You can address people regardless of whether they use Delta or a traditional e-mail program like Outlook or Webmail. End-to-End encryption happens by default between Delta Chat running devices. Moreover, Delta can end-to-end encrypt with any other E-Mail frontend which supports the new and evolving Autocrypt e-mail encryption effort.&#13;
+&#13;
+This session is an open delta developer/community discussion and Q/A session, talking about news and prospectives for 2019. Delta chat is a young project and lots of things are happening. Rather than just growing "user numbers" we aim to get new folks involved and help drive the project. We'd also like to hear more folks' perspectives and feedback, to help drive and shape further Delta developments. You will also be able to install and try out Delta.Chat.&#13;
+Delta is a live, open and collaborative project. We are there to support those who want to try help with UI, code, documentation, trainings, testing or organizational aspects of the evolving Delta Chat effort.&#13;
+&#13;
+Talkers: Ksenia Ermoshina, Bjoern Petersen, Holger Krekel, compl4xx, and friends.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="29">
+            <name>deltachat</name>
+            <biography>Delta Chat is a modern messenger. It is like email in a new dress.&#13;
+Just better, safer and user-optimised.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="830" guid="af515d99-0660-5a93-97c6-ec0e79bf02c8">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>V9C7JL</slug>
+        <url>https://talks.komona.org/35c3/talk/V9C7JL</url>
+        <title>"game-over" Society</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>„game-over“ Society: Dieses Spielformat und Workshop, versucht mit euch, neue Protokolle zwischenmenschlicher Interaktion zu generieren und ein analoges Netzwerk zu stricken.&#13;
+engl:&#13;
+„game-over“ society, a gameformat and workshop, that tries to generate new protocols of human interactions with ur help.</abstract>
+        <description>Ein spielerisches Experiment, das als Kommunikationsplattform, Dating-App, Zufallsgenerator, Horoskop usw. funktioniert:&#13;
+		                                      ANALOG ohne DATEN, ohne AKKU, ohne WEB &#13;
+                                                                             nur mit Dir und Uns &#13;
+&#13;
+engl:&#13;
+A tool that functions as communication platform, dating app, networking tool, horoscope etc.. &#13;
+		                          ANALOG without BATTERY without DATA without WEB. &#13;
+				                                       	Just u and us. &#13;
+&#13;
+                                                              Lets game it over, under and allround.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="33">
+            <name>Cäptain Claude</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="809" guid="2a6aaec1-6d87-5665-bcda-1f1177e0fdbd">
+        <logo/>
+        <date>2018-12-28T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>K3FGVH</slug>
+        <url>https://talks.komona.org/35c3/talk/K3FGVH</url>
+        <title>Books on (Community) Health and Collective Decision Making</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>A few minutes for you to share summaries of books you like, with brief discussions afterwards.</abstract>
+        <description>Dead Tree Lovers, come and share your favorite books on collective organizing, decision making, and community or personal health! (or really any other book you feel is important; can be fiction or non-fiction)&#13;
+&#13;
+You will have around five minutes to present, but we want to keep the format flexible in case we feel the need to discuss and enhance the conversation. &#13;
+&#13;
+**If you want to share a book, please announce your interest and the title of the book(s) you want to present before December 26.** We will assign slots before the session starts.&#13;
+&#13;
+**If you want to use slides for your presentation (which we encourage!), send them at least two hours before the session** to deadtreelovers-35c3 AT kommunikationsliebe DOT org or share them on our channel #deadtreelovers on hackint. (We will try to use only _one_ computer, to speed things up.)</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <name>mo</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="863" guid="ad9becb8-e437-5d74-bbd5-9dda985c0299">
+        <logo/>
+        <date>2018-12-28T16:55:00+01:00</date>
+        <start>16:55</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>UF3ZH8</slug>
+        <url>https://talks.komona.org/35c3/talk/UF3ZH8</url>
+        <title>Climbing on another level  - MEETING POINT</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Repeating 1st day workshop with explaining basics for total beginners. Feel free to come over if you wanna become more confident ans practices the basics!</abstract>
+        <description>90 minute session, this is just the meeting point. Session will take place in glass hall</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="835" guid="2f1fdc0e-5a17-5e17-ae43-1cc5ab4a2836">
+        <logo/>
+        <date>2018-12-28T17:15:00+01:00</date>
+        <start>17:15</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>8K97H3</slug>
+        <url>https://talks.komona.org/35c3/talk/8K97H3</url>
+        <title>Spontanistan</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Free time. For everyone. Use it.</abstract>
+        <description>Now.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="35">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="865" guid="b7431e4c-95d2-58de-bac0-af150c62a4a1">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>3HDBPB</slug>
+        <url>https://talks.komona.org/35c3/talk/3HDBPB</url>
+        <title>Discussion on how to fight fascism on/offline</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>An open discussion on ideas, ways and methods to fight fascism / alt-right online</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <name>SD</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="831" guid="0eef02a3-048a-59e9-bcee-e16e6a4d486e">
+        <logo/>
+        <date>2018-12-28T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>9MSDYV</slug>
+        <url>https://talks.komona.org/35c3/talk/9MSDYV</url>
+        <title>Kreative Formen und Farben des Widerstands / Creative Forms and Colors of Resistance</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Welche (Ausdrucks)Form können Protest und Widerstand annehmen? Wie riecht Anarchie? Welche Farbe hat Revolution? Welche Symbole affizieren Menschen zu zivilem Ungehorsam? Wie fühlt sich heutzutage eine antifaschistische Praxis an? Wie hört sich Revolte an? Welche Methode passt am besten zu welchem Charakter? Und spielt das eigentlich eine Rolle? Lasst es uns zusammen herausfinden. Wir bringen ein paar Beispiele aus unserer aktuellen Praxis mit. &#13;
+&#13;
+Which form of expressions does protest and resistance have? How does anarchy smell like? What color does revolution have? Which symbols can affect people to civil disobedience? How does antifascism feels like these days? How does a revolt sound? Which method suits what character? And does it matter? Let's find out together. We will bring also bring a few recent examples of protests to examine.</abstract>
+        <description>Wir leben in unruhigen Zeiten. Die Fratze des Faschismus zeigt sich immer häufiger. Ist wieder allgegenwärtiger Ausdruck reaktionärer und rassistischer Politik, von hasserfüllter Grenzenbildung, von Repressions-, Diskriminierungs und Ausgrenzungsstrategien. Gleichzeitig findet in Gesellschaft, Kultur und Subkultur wieder eine zunehmende Politisierung statt. Aus der heraus sich nachaltig widerständige Strukturen bilden können, und die sich aktuell schon in Demonstrationen, Protesten, Revolten und Direkter Aktion immer öfter (punktuell) Bahn brechen. &#13;
+&#13;
+In den Medien lesen, sehen und hören wir dies meist in klassischer Weise dargebracht. Wer nicht dabei war, bekommt nur eine von vielen Wahrheiten zu sehen. Nicht immer die von den Widerständigen intendierte, wenn es denn eine gibt. Bekannte Bilder ermöglichen schnelle und oft verfälschende Einordnungen, konventionelle Berichterstattungen und klassische Kommentare. Ungewohnte Bilder und Formen sorgen für Irritation, Störung und rufen gleichermaßen Neugier und Unverständnis hervor. Und steigern dabei womöglich auch die Mobilisierungskraft der oft unter großen Kraftanstrengungen durchgeführten Kampagnen und Aktionen.  &#13;
+&#13;
+Ziel des Workshops ist es den Kanon der Antworten auf die Frage "Wie sollte Widerstand organisiert sein und aussehen?" aufzubrechen. Vom Schwarzen Block zu den Regenbogen Masken. Über Besetzung, Blockade und  Blockupy; Hin zu wegbassen, wegbeamen und weghacken. Hambi bleibt. Lieber tanz ich als G20. Und was kennt ihr so? Wie sehr ihr das? Was spricht euch an und was nicht? &#13;
+&#13;
+Lasst uns zusammen auf die Suche nach neuen Narrativen, Symbolen, Sprachen und Darstellungen des Widerstands gehen. Und einen Blick in die Zukunft unserer Gesellschaft werfen, die wir entwerfen. Im Widerstand. Lasst uns unsere Erfahrungen und Ideen vergangener Handlungen besprechen und auf zukünftige unvoreingenommen blicken. (Unsere) Wirkweisen in die (Mitte der) Gesellschaft diskutieren und auf deren Effektivität prüfen. Sowie Möglichkeiten der kollektiven Arbeits- und Organisationsform und deren Protenziale teilen. Widerstand. Jetzt. &#13;
+&#13;
+#vernetzt #widerständig #bunt #vereint #massenhaft #militant #friedlich #kollektiv #solidarisch #frei #offen #alles #allen  #reclaimthestreets #reclaimthecity #reclaimyourlife</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Radikale Liebe</name>
+            <biography/>
+          </person>
+          <person id="11">
+            <name>lxexnxa</name>
+            <biography/>
+          </person>
+          <person id="34">
+            <name>Ronin</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Zelt #workshops #handson">
+      <event id="804" guid="49b87a01-180e-5c21-836c-7d37a7dd267c">
+        <logo/>
+        <date>2018-12-28T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>02:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>W8VXDW</slug>
+        <url>https://talks.komona.org/35c3/talk/W8VXDW</url>
+        <title>Creating &amp; Funding Resistance Structure Fractals</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Build, build, build. Build structures, structures for resistance. Inside and Outside of the system. Fast and chaotic. Many, many, many. There is a multiverse of subversive organizations to be born. Let's start. Now. Are you ready?</abstract>
+        <description>How can we start : Gathering, Saving and Spending money for revolutionary projects (before fascism takes over) / for resistance, extracting money from the system for that, by building structures in a fast forward approach and apply for funding with them.  &#13;
+&#13;
+How do we do it : We define at least one goal with clear purpose per project, at least two persons assigned to it, with three areas of action / regions (at best transnational) who benefit from the project.&#13;
+&#13;
+What could be the outcome of it : We will build associations, ags, parties, gbrs etc. with a basic purpose and concept and start looking for funding. During our workshop. &#13;
+&#13;
+Is this possible: Let's find out. &#13;
+&#13;
+PS: Initiation rituals to be created for the organizations and for the welcoming / taking on part for new members are highly recommended.&#13;
+&#13;
+#egoistic and intrinsic learning motives welcome, #collaboration is necessary, #building cracks in capitalism</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Radikale Liebe</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="843" guid="7c5a9b85-6bc6-510e-b2ad-17ef855e6989">
+        <logo/>
+        <date>2018-12-28T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>8V8RZY</slug>
+        <url>https://talks.komona.org/35c3/talk/8V8RZY</url>
+        <title>Die Verfassungsschutzberichte 2017 und was sie uns sagen können.</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Es gibt eine Qualitative und Quantitative Auswertung der Verfassungsschutzberichte 2017 (Bund und Länder).  Was sehen wir da, was will uns der Verfassungsschutz wohl damit sagen und können wir was davon lernen.</abstract>
+        <description>Hierbei geht es um eine kritische Betrachtung der Verfassungsschutzberichte 2017, mit einem Fokus darauf wie sie mit dem sogenannte "Linksextremismus" und dem Neofaschismus bzw. in ihrer Logik "Rechtsextremismus" umgehen. Welche Gruppen werden wo laut Berichten beobachtet, was ist auffällig. Was ist auffällig unauffällig.&#13;
+&#13;
+Es wird die Möglichkeit geben auch live die Berichte zu untersuchen, falls Bereiche die, die Teilnehmenden interessieren von mir nicht behandelt wurden.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">
+            <name>Housetier84</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="817" guid="780bf886-4ebf-520b-8830-2b6241887d95">
+        <logo/>
+        <date>2018-12-28T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>03:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>EJPMBX</slug>
+        <url>https://talks.komona.org/35c3/talk/EJPMBX</url>
+        <title>postapokalyptisches zeug - schrottbasteln / postapocalyptic stuff handicraft</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>kunstzeug aus schrott basteln – art scrap stuff tinker workshop</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <name>paulaner</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="866" guid="eb22b90a-750d-5cf0-983d-6550771deb5a">
+        <logo/>
+        <date>2018-12-28T22:15:00+01:00</date>
+        <start>22:15</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>ZLF9ES</slug>
+        <url>https://talks.komona.org/35c3/talk/ZLF9ES</url>
+        <title>Rojava: the situation in northen syria</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Let's have a conversation about what is happening in northern syria and how can we support their struggle.</abstract>
+        <description>Rojava has being a source of inspiration to dream of other possible societies, while in the middle of a war in Syria. The situation there is getting worst by turkey army moving into the territory and threatening to kill a whole section of the population.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="58">
+            <name>annon</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="OIO Lötarea">
@@ -12817,6 +13769,735 @@ LOVE FREEDOM EVERYTHING</abstract>
         <attachments/>
       </event>
     </room>
+    <room name="Komona Kuppel 3 #talks">
+      <event id="828" guid="4673b489-b6df-5aac-bb08-c6e1f61d8f29">
+        <logo/>
+        <date>2018-12-29T10:30:00+01:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>MEGCHS</slug>
+        <url>https://talks.komona.org/35c3/talk/MEGCHS</url>
+        <title>Corrupt Yoga</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>No ideology. No defined mindset. No spirituality needed. Let's just get intouch with our bodies and their flows of energy. Balancing body and mind energies. How do you do it? Let's strech, talk and learn from each other. And prepare for the day ahead.</abstract>
+        <description>Bring a mat if you can.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Radikale Liebe</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="860" guid="36c11798-31fd-540c-aa62-50a8358e82bc">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>FSWAJW</slug>
+        <url>https://talks.komona.org/35c3/talk/FSWAJW</url>
+        <title>Update für die Fahrradwege deiner Stadt: Wie organisiert man einen Radentscheid?</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Die Radwege in deiner Stadt sind marode und gefährlich? Hier zeigen wir ein Tool, dass das ändert, den Radentscheid.</abstract>
+        <description>Die Radentscheid-Bewegung bringt derzeit Berlin, Bamberg, Darmstadt, Frankfurt, Kassel, Stuttgart und viele weitere Städte in Deutschland beim Thema Fahrrad voran. Wir organisieren Bürgerentscheide, sammeln Unterschriften und schaffen neue Standards, mehr Platz und mehr Verkehrssicherheit. Jede Stadt verdient ein Update und in diesem Workshop erklären wir die wichtigsten Tools. Individuelles Coaching ist im Workshop und später möglich. Für Fragen: david [at] radentscheid-darmstadt.de&#13;
+&#13;
+https://events.ccc.de/congress/2018/wiki/index.php/Session:Update_f%C3%BCr_die_Fahrradwege_deiner_Stadt</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="54">
+            <name>David Grünewald</name>
+            <biography>David ist der Initiator des Radentscheid Darmstadt.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="841" guid="4ca31580-0a72-5e16-ac33-010296d7e0ed">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>ZPPCME</slug>
+        <url>https://talks.komona.org/35c3/talk/ZPPCME</url>
+        <title>Anarchistische Theorie III : Anarchistisches Denken in Paradoxien und Spannungsfeldern</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>siehe Beschreibung</abstract>
+        <description>Anarchist Theory III – Anarchistic thinking in paradoxies and fields of tensions&#13;
+&#13;
+Kritiker*innen verwerfen den Anarchismus als widersprüchlich und inkohärent. Tatsächlich gibt es sehr verschiedene anarchistische Strömungen, Projekte und Denkweisen, die in einem dauerhaften Spannungsfeld zueinander und den gesellschaftlichen Verhältnissen stehen. Könnte es aber sein, dass diese scheinbaren Widersprüche im Anarchismus ein Merkmal von ihm sind? Könnte es sein, dass anarchistisches Denken selbst paradox ist – und damit eine Vielzahl neuer Möglichkeiten eröffnet?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>jens störfried</name>
+            <biography>Beschäftige mich mit verschiedenen DIngen, aber seit einigen Jahren ausgiebig mit anarchistischer Theorie, Geschichte und Praxis. Möchte darüber ins Gespräch kommen. Hab kaum Ahnung von Technik-Sachen, Hacken etc. und suche Schnittpunkte.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="811" guid="6cb4d8ae-a51f-55a2-aba0-eee8e4aa0fa1">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>BC9VKJ</slug>
+        <url>https://talks.komona.org/35c3/talk/BC9VKJ</url>
+        <title>Rhetorics: how to touch with language</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>SPEAK UP 2/3. how do you say what you want to say? how do you make a point? how do you create affinity? how do you form an argument?</abstract>
+        <description>we will learn how to write or not to write speeches.&#13;
+we will have a look at famous and touching speeches and how they are strucured.&#13;
+we will each work on our own language.&#13;
+bring your texts!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>mikio</name>
+            <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="867" guid="82b16ebc-3ff6-5489-9744-e4e81e70fc5c">
+        <logo/>
+        <date>2018-12-29T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>00:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>WDQGCE</slug>
+        <url>https://talks.komona.org/35c3/talk/WDQGCE</url>
+        <title>librehosters</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. &#13;
+&#13;
+This will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly</abstract>
+        <description>librehosters is a network of cooperation and solidarity that uses free software to encourage decentralisation through federation and distributed platforms. Our values connect transparency, fairness and privacy with a culture of data portability and public contributions to the commons. &#13;
+&#13;
+This will be a talk introducing the network and will be followed by a related discussion at the librehosters assembly</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="1">
+            <name>realitygaps</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="822" guid="74bd75db-44a0-5ccf-835c-f82c530a017d">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>9GRP88</slug>
+        <url>https://talks.komona.org/35c3/talk/9GRP88</url>
+        <title>Community Management online und offline</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Was wir aus 16 Jahren Restrealitaet für die Organisation von Communities im Internet und im RealLife lernen können.</abstract>
+        <description>Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Subkultur. Die RR existiert seit Februar 2003 und wurde seitdem von der so genannten "Heimleitung" (lange bestehend aus sechs Personen) ehrenamtlich betreut. Es gibt rund 40.000 registrierte User, von denen ca. 3.000 derzeit noch regelmäßig die RR besuchen. Die Kommunikation in der RR läuft anonym über Avatare mit Pseudonymen. Trotzdem haben sich viele der Nutzer*innen über die Jahre im RealLife kennen und lieben - aber leider auch manchmal hassen - gelernt. Dies führt einerseits zu ganz tollen Dingen, wie z.B. eine immer verlässliche Nachbarschaftshilfe, kompetente Beratung in (fast) allen Lebenslagen, langjährige Freundschaften bis hin zu Familiengründungen und noch so vieles mehr. Aber neben all diesen wunderschönen Sachen gibt es bei einer so großen Gemeinschaft mit einem gewissen Hang zu Grenzerfahrungen natürlich auch hin und wieder eine dunkle Schattenseite. Es entstehen Probleme, die sich bei der Gründung der RR niemand auch nur annähernd vorstellen konnte. Anfangs gab es in der RR sprichwörtlich keine Regeln. Aber schon bald mussten zumindest rudimentäre RRegeln postuliert werden, die aber eigentlich nur selbstverständliche Umgangsformen umschreiben. Nur äußerst selten werden User*innen aufgrund dieser RRegeln verwarnt, bzw. temporär oder sogar dauerhaft ausgeschlossen. Die Selbstregulierung des Forums hat, dank der Mithilfe aller User*innen, jahrelang wunderbar funktioniert. Anders wäre der völlig unkommerzielle Betrieb der RR über einen so langen Zeitraum auch gar nicht möglich gewesen. Es gab Phasen, in denen der alltägliche Betreuungsaufwand für die Heimleitung minimal war. Aber leider kam es dann auch immer wieder zu so problematischen Situationen, dass der Umgang mit diesen selbst für ein gut funktionierendes und eingeschworenen Team kaum mehr zu bewältigen war. 2015 wurde deswegen der "RRat" gegründet, der aus rund zehn Personen besteht und als eine Art Schiedsstelle die Heimleitung bei der alltäglichen Moderation des Forums - aber vor allem auch in schwierigen Situationen - tatkräftig und moralisch unterstützt. Die RR ist nach wie vor ein offenes Experiment, das niemanden ausschließen und alternative Lebensweisen erkunden möchte. Deswegen freuen wir uns sehr auf einen Ideen- und Erfahrungsaustausch mit allen anderen Kollektiven, Projekten und Kreaturen beim 35C3.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="27">
+            <name>RR</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="856" guid="41a5a788-2c5a-5e1e-a5b6-92344ab43e14">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>FX7GWH</slug>
+        <url>https://talks.komona.org/35c3/talk/FX7GWH</url>
+        <title>EVULVISSIMA FESTIVAL VIDEO PREMIERE</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>First time show of a video produced at a feminist protest in italy</abstract>
+        <description>https://evulvissima2018.wordpress.com/</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="861" guid="925e98bd-1805-5fd5-b468-d7efee0c45d2">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>KFQYGV</slug>
+        <url>https://talks.komona.org/35c3/talk/KFQYGV</url>
+        <title>'fuck off google - decentralized politics from the hood to the world (and beyond)</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>fuckoffgoole! After the neighboorhood of Kreuzberg made resistance for two years, Google's plan to move their campus in Berlin have been abandoned. Did we really win? What's happen now? Join us to hear about the second phase of the resistance, and how your town might join!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="55">
+            <name>FuckOffGoogle</name>
+            <biography>we are many</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Thunderdome #workshops #talks">
+      <event id="850" guid="047b080e-ec33-528d-9a87-252c08f245ca">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>XSCLCE</slug>
+        <url>https://talks.komona.org/35c3/talk/XSCLCE</url>
+        <title>Letter writing to prisoners</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Workshop with input on letter writing to prisoners</abstract>
+        <description>Ending up in prison sucks. Ending up in prison with no support can destroy you. Going through this experience with support is really important for those who are ending up in it. Writing letters is one of the few things we can do for prisoners to break isolation between us and them.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="858" guid="159a5250-ff0b-512a-bbee-1ef84ab1b200">
+        <logo/>
+        <date>2018-12-29T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>87CHD9</slug>
+        <url>https://talks.komona.org/35c3/talk/87CHD9</url>
+        <title>DIY Zine Workshop</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Would you like to put your thoughts and ideas on paper and share it with others? Do you have no money, but have something to contribute with that you find missing in newspapers, magazines and the current media world? Then do it yourself!</abstract>
+        <description>Zines offer a simple and accessible format for this and the Zinecamp offers an introduction to the topic. In addition to the insight into the history of the format and the (political) background (fan-zines, punk, diy, rrriot girl, …) we will present the techniques and methods of production and design as well as distribution. Likewise, it’s about independently producing zines. Various materials for working will be available on site.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">
+            <name>biblio&gt;media:take!</name>
+            <biography>The mobile Infoshop is a loose Vienna based group distributing info-material and media. We are distributing zines, stickers, books, badges, shirts and therefore collect local stuff the same as from all over the world. The main topics are: anarcha-feminism, queer, self-empowerment, creative action forms, political and social struggles and movements, DIY/commons, ecology/sustainability.&#13;
+Everything will be passed on for voluntary donation with or without a price proposal – depending on our costs.&#13;
+https://infoladen.kukuma.org/infoladen-chronik/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="852" guid="31620136-deb9-5091-80f9-5772c505b320">
+        <logo/>
+        <date>2018-12-29T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>RNRTSB</slug>
+        <url>https://talks.komona.org/35c3/talk/RNRTSB</url>
+        <title>"game-over" Society</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>„game-over“ Society: Dieses Spielformat und Workshop, versucht mit euch, neue Protokolle zwischenmenschlicher Interaktion zu generieren und ein analoges Netzwerk zu stricken.&#13;
+engl:&#13;
+„game-over“ society, a gameformat and workshop, that tries to generate new protocols of human interactions with ur help.</abstract>
+        <description>Ein spielerisches Experiment, das als Kommunikationsplattform, Dating-App, Zufallsgenerator, Horoskop usw. funktioniert:&#13;
+		                                      ANALOG ohne DATEN, ohne AKKU, ohne WEB &#13;
+                                                                             nur mit Dir und Uns &#13;
+&#13;
+engl:&#13;
+A tool that functions as communication platform, dating app, networking tool, horoscope etc.. &#13;
+		                          ANALOG without BATTERY without DATA without WEB. &#13;
+				                                       	Just u and us. &#13;
+&#13;
+                                                              Lets game it over, under and allround.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="33">
+            <name>Cäptain Claude</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="848" guid="f49a4044-bc9f-5b89-bee7-2b087990d264">
+        <logo/>
+        <date>2018-12-29T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>ZYVSU3</slug>
+        <url>https://talks.komona.org/35c3/talk/ZYVSU3</url>
+        <title>Widerstand gegen den AfD-Bundesparteitag in RIESA 2019</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Aktuelle Infos zur Demonstration gegen den AfD-Bundesparteitag in RIESA vom 11. bis 14. Januar 2019.</abstract>
+        <description>Alternativer Karneval in Riesa &#13;
+&#13;
+Der nächste AfD-Bundesparteitag findet vom 11.-14. Januar 2019 in RIESA (Sachsen) statt. Ein wachsendes Bündnis verschiedenster Gruppen hat sich zu einer grossen Demonstration am Samstag dem 12. Januar 2019 in RIESA zusammengeschlossen: "#AfdAde" ist der Aufruf zum Widerstand gegen den AfD-Bundesparteitag in RIESA. &#13;
+&#13;
+Riesa ist eine kleine Stadt zwischen Leipzig und Dresden, zwischen Chemnitz und Berlin. Sehr schön gelegen an der Elbe ist es zu jeder Jahreszeit einen Besuch wert. Als "Sportstadt" bekannt geworden, bietet Riesa ausserdem in der "Sachsenarena" und im "Stern" grosse Konzerte und Kulturveranstaltungen für die gesamte Region. Traditionell werden in Riesa Streichhölzer, Nudeln und Stahl produziert. Es gibt eine Fussgängerzone, ein Jugendzentrum, mehrere lokale Kultureinrichtungen und viele leerstehende Ladenräume. Überall laden Grünflächen zum Spazierengehen ein und die Ufer der Elbe bieten grossartige Plätze zum Campen und für Outdoorparties. Riesa hat zwar einen braunen Fleck, trotzdem ist Riesa bunt! Vor achtzehn Jahren hatte sich der NPD-Verlag "Deutsche Stimme" in Riesa angesiedelt. Die Riesaer haben sich das nicht gefallen lassen. Seit 2010 ist die Adresse des NPD-Verlags die "Geschwister-Scholl-Str. 4" in "01591 Riesa".&#13;
+&#13;
+Die Proteste gegen den AfD-Bundesparteitag in Riesa sollen deutlich zeigen, dass WIR Riesa nicht alleine lassen. Wir können an einem Wochenende den Rassisten und Sexisten in der NPD und der AfD gleichzeitig zeigen, dass sie in unserer Gesellschaft nichts verloren haben. Am Samstag wird es in Riesa eine grosse, gemeinsame Demonstration #AfDAde geben. Alles was die AfD hasst, trifft sich an diesem Tag in Riesa.&#13;
+&#13;
+Die AfD wird nicht nur am Samstag in Riesa sein. Von Freitagmorgen 09:00 Uhr bis Montagabend 18:00 Uhr werden etwa tausend AfD-Delegierte in der Sachsenarena tagen. Würden Samstagabend nach der grossen Demo die meisten wieder nach Hause fahren, überlassen wir Riesa den AfDlern und NPDlern. Dann lassen wir die echten Alternativen, die Widerständigen, dann lassen wir die Menschen in Riesa alleine.&#13;
+&#13;
+Der Bundesparteitag der falschen Alternative geht uns Alle an. Damit aus den Protesttagen gegen den AfD-Bundesparteitag ein grosses Fest der Alternativen wird, braucht Riesa Hilfe und Beteiligung aus der gesamten Bundesrepublik, schon bei den Vorbereitungen und nicht nur am Samstag - von Freitag bis Montag!&#13;
+&#13;
+Die echten Alternativen in Riesa brauchen Unsere Unterstützung. Gesucht werden noch weitere Soundsysteme, Künstler, Veranstaltungstechniker, Küchencrews, Rechtsanwälte, Sanis, Rollibetreuer, Kommunikationsgenies, Mobilisierungsgiganten, massenhaft Karnevalist*innen zum Mitfeiern und ein grosses Bierzelt mit Boden und Heizung. Auch wenn Ihr schon sicher seid, dass Ihr nicht nach Riesa kommen könnt, dann helft trotzdem mit durch schnelle, finanzielle Unterstützung für die Vorbereitungen, lokale Veranstaltungen oder Online-Aktionen zur Verbreitung des Aufrufs.&#13;
+&#13;
+Die AfD bedroht unsere Grundrechte, unsere Freiheiten, unseren Alltag und unsere Zukunft. Wenn wir sie nicht stören, bremsen, behindern, verhindern, wird die braune Bescherung weiterwachsen. Nutzen wir die Karnevalssaison für einen widerspenstigen Alternativen Karneval. Urlaub für Alle von Überall. Sonderzüge nach Riesa. Sonne für Riesa.&#13;
+&#13;
+Kommt zum Alternativen Karneval nach Riesa - vom Freitag dem 11.1. bis Montag den 14.1.2019!&#13;
+&#13;
+www.karnevalderalternativen.org (Dezember 2018)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="47">
+            <name>carnevale</name>
+            <biography>antifa action group (augsburg, berlin, chemnitz)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="862" guid="44ea0d0f-1650-5750-97d2-2683f921a776">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>9AXTTL</slug>
+        <url>https://talks.komona.org/35c3/talk/9AXTTL</url>
+        <title>Climbing on another level 1</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Action climbing training for people that are interested in ropes, knots and collectives. &#13;
+Focus in the morning will be on advanced stuff (#rescue, #whatthehackisacowtail, #newknots #banner) so if you feel already comfortable in ascend/decend you are even more welcome! &#13;
+Beginners exchange will take place in the afternoon again!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>Sola</name>
+            <biography>Climby</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="845" guid="9f4686ee-40d2-548b-807b-435c11a69294">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>PUY3F9</slug>
+        <url>https://talks.komona.org/35c3/talk/PUY3F9</url>
+        <title>Framewars - Rahmungstheorien für Aktivistis</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Theoriewissen für die linke Praxis: Framings entwickeln und etablieren für Aktionsplanung und Intervention in tagespolitische Debatten. Ich hab Lust die so richtig zu nerven 2019.</abstract>
+        <description>In diesem Workshop wird durch einen Theorie-Input erklärt, was Framings sind, und an Beispielen gezeigt, wie sie von unterschiedlichen politischen Gruppen entwickelt und etabliert werden. In der Praxis ist dieses Wissen relevant, wenn es um Agendasetting und die konkrete Aktionsplanung geht, insbesondere, wenn mit Mitteln der Kunst und Kommunikationsguerilla gearbeitet wird. Ebenso für das Schreiben eines Aufruftextes, einer Pressemitteilung, Bannern, Zines und Posts in Sozialen Medien…</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <name>Sophie Elle</name>
+            <biography>Artist. Writer. Freimeuter</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="855" guid="5c6e3239-23de-5de5-9372-c2e3c3b04417">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>GRYS3Q</slug>
+        <url>https://talks.komona.org/35c3/talk/GRYS3Q</url>
+        <title>How to produce a Demo-Rave</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>What is the combination between a Demo and a Rave? A Demo Rave. How does it work? What is needed to produce such a thing? What is important do know, from experience? This workshop is for all that want to bring resistant life, dancing and music to the streets and protest for something that is worth fighting for.</abstract>
+        <description>Wer einem Aufruf zu einer Demo folgt, verspürt einen inneren Auftrag, seine Haltung und Werte auf die Straße zu tragen. Und das ist gut so. &#13;
+&#13;
+Wer in letzter Zeit bei #afdwegbassen und anderen Rave-Demos war, hat sich dabei vllt. auch schonmal die Frage gestellt, wie sich das eigentlich alles organisiert an so einem Tag. Was ist zu beachten bei der Orga einer Rave-Demo?  Was muss ich wissen und können, damit das alles gut klappt und für alle beteiligten Menschen sicher und freudig und sinnig bleibt? &#13;
+&#13;
+Wir gehen in diesem Workshop also der Frage nach: Wie geht das eigentlich wenn es heißt "oder macht euer eigenes Ding"? &#13;
+&#13;
+&amp; produzieren ein (Digital-)Dokoment was wir mit anderen teilen und um (Erfahrungs-)Wissen erweitern können."</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="48">
+            <name>Leon</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="807" guid="70e95706-d72a-5b94-b045-704131c405a2">
+        <logo/>
+        <date>2018-12-29T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>GEEG9P</slug>
+        <url>https://talks.komona.org/35c3/talk/GEEG9P</url>
+        <title>Club Culture and Urban Transformation Processes: A Data Perspective</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>During the Congress we run a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture (raves, commercial clubs, progressive subculture). In a workshop we can collectively reflect on this.</abstract>
+        <description>Club Culture and Urban Transformation Processes: A Data Perspective &#13;
+(daily opening hours 14-18pm - archive in progress - workshop on day 3)&#13;
+&#13;
+Following last years workshop on critical club culture we will run during the congress a research office where we are collecting and analyzing public and personal data on the social and economic situation of club culture (raves, commercial clubs, progressive subculture). We want to collect data of websites and literature related to the topic to highlight urban transformation processes (eg gentrification, culturalization, eventization).&#13;
+&#13;
+We will provide a digital library for information exchange. Our focus is on the cities where the congress was taking place: Hamburg, Berlin, Leipzig. Participants are invited to „refresh memories“ by contributing further information, ideas, data on their cultural infrastructure via surveyforms. This is testing ground for a more indepth interrogation and investigation next year.&#13;
+&#13;
+In the workshop we will present our questions, aims and first results and collectively reflect with you on this project. We want to connect, network, collaborate with you - as we are seeking to continue at 36C3 with this topic and take it further, outline first ideas for 2019.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="13">
+            <name>Research Club Culture</name>
+            <biography>Lukas&#13;
+Jukebox Utopia&#13;
+in collaboration with Cityscan and Reclaim Club Culture</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="864" guid="e55e78ad-3b8f-574b-83cf-58663df7b7da">
+        <logo/>
+        <date>2018-12-29T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>AM7KGQ</slug>
+        <url>https://talks.komona.org/35c3/talk/AM7KGQ</url>
+        <title>The Perfect Tool to Organize Your Digital Life (Emacs Org mode)</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Org mode is the perfect tool for anybody who wants for capturing, managing and refreshing memories. It combines and unifies aspects like todo and project management, knowledge base like a personal wiki, spreadsheet, code snippets, documentation, and so forth. Let me surprise you.</abstract>
+        <description>This is not about editors. At all. The speaker is using vim on a daily basis. Forget about editors for this talk.&#13;
+This is about an awesome tool which enables you to organize yourself in a way that you can externalize things that may distract you from actual working or living your life. It is a bottom-less box of LEGO bricks where you choose the bricks you want to take. It scales from simple note taking (engineering diary) and outlining up to the most complex workflows.&#13;
+Most likely, you have not seen a comparable tool so far.&#13;
+Notes containing all links will be published on [https://karl-voit.at/2018/12/28/35c3-orgmode/](https://karl-voit.at/2018/12/28/35c3-orgmode/) after the demo.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="56">
+            <name>Karl Voit</name>
+            <biography>PIM research basically for decades; efficient workflows and tools; privacy; security; love to help others who want to learn;</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Zelt #workshops #handson">
+      <event id="838" guid="e7a8527f-6d17-5cd0-b8ea-57d27c96b924">
+        <logo/>
+        <date>2018-12-29T09:00:00+01:00</date>
+        <start>09:00</start>
+        <duration>04:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>CBAMYR</slug>
+        <url>https://talks.komona.org/35c3/talk/CBAMYR</url>
+        <title>Live Siebdruck - Daphne Oram</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>Bring your Shirt - Get your Daphne Oram!</abstract>
+        <description>Daphne Oram - Pionierin der elektronischen Musik&#13;
+geb. 31. Dezember 1925 in Devizes, UK&#13;
+gest. 5. Januar 2003 in Maidstone, UK&#13;
+&#13;
+Nur wenige Leute kennen Daphne Oram, doch ihre Leistungen haben dazu beigetragen, die Musik zu revolutionieren. Als eine der Ersten hat sie die Klänge und Lieder mitgeprägt, die wir heute hören. 1949 schrieb sie Still Point - als erste Komposition der Welt, die elektronische Klänge in Echtzeit manipuliert. 1957 gründete sie den berühmten BBC Radiophonic Workshop. Im selben Jahr begann sie an ihrer Oramics-Maschine zu arbeiten, die grafische Gesten in Musik verwandelte: Der Benutzer konnte die Töne "zeichnen", die er hören wollte.&#13;
+&#13;
+In Zusammenarbeit mit Haecksen erinnert die Restrealitaet an einige der Frauen, die Großartiges für Technologie und Wissenschaft leisteten. Umrahmt von einer kleinen Ausstellung und einer mobilen Soundinstallation (haltet Ohren und Augen offen!) bringen wir Daphne Oram per Siebdruck auf eure Shirts, Beutel und Unterhosen! &#13;
+&#13;
+Bringt eure Textilien bis Freitagnacht zum Stand der Restrealität (Komona) und markiert sie dort mit eurem Namen. Gedruckt wird live und vor Ort am Samstag - HelferInnen sind herzlich willkommen! Die Abholung eurer bedruckten Teile erfolgt im Laufe des Samstags/Sonntags im Workshop-Dome oder am Stand der Restrealitaet! &#13;
+&#13;
+Die Restrealitaet (RR) ist eine Online-Community für die Berliner Party- und Subkultur.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="39">
+            <name>Flo &amp; Chardia</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="820" guid="0f0999cc-e510-583c-9f07-b93691dcaa74">
+        <logo/>
+        <date>2018-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>03:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>99DUZF</slug>
+        <url>https://talks.komona.org/35c3/talk/99DUZF</url>
+        <title>Reclaim Your Data</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Three hour active workshop on: How can we use the incredible power of spatial data, in an anonymized way, to bring about positive change in our communities?</abstract>
+        <description>We each generate an incredible amount of spatial data. Our every move is being used by international conglomerates (Facebook, Google, Amazon, etc.) in order to better sell us products, understand our behavior, and manipulate us into consuming ever more.&#13;
+&#13;
+But what if, instead, local community groups could just as easily use this data for good? To help us get home more safely, better afford a place to live, or eat better? What if this data could help us maintain artist’s space, or start our own companies, or ensure fair land development? What if it could help us as a community realize the positive change that we want to bring to our cities?&#13;
+&#13;
+These are the themes that we want to explore in our workshop: how can we use the incredible power of spatial data, in an anonymized way, to bring about positive change in our communities?&#13;
+&#13;
+Over three hours, we will explore how to help local community groups to reclaim their data and the possible implications in order to bring about positive change in their communities. We will use the Berlin club community as a case study and lens to explore how we could apply a hacker mentality to “hack” nightlife, making it more inclusive, more fun, safer, and a better experience for community members.&#13;
+&#13;
+Our workshop will consist of three rounds of discussion and work sessions. These will be of the following three themes: community &amp; empowerment, technical frame, and data availability. The workshop will result in the creation of a draft on standards/guidelines, and/or first pilot projects.&#13;
+&#13;
+Cityscan.berlin - is an initiative to make facts and maps for city development visible (based on open datas). We see ourselves as social hackers to empower communities!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>Anke, Chiara</name>
+            <biography>Cityscan.berlin - is an initiative to make facts and maps for city development visible (based on open datas). We see ourselves as social hackers to empower communities! More information under www.cityscan.berlin</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="821" guid="95345026-ac7e-52f9-b082-a5106d694ff0">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:30</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>FZVFSF</slug>
+        <url>https://talks.komona.org/35c3/talk/FZVFSF</url>
+        <title>Tech Co-ops: No Masters, No Slaves</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>We talk about the how and why of **worker owned tech co-ops** and how **IT-Kollektiv** connects various collectives to create a more resilient and more resourceful network.&#13;
+After the talk there'll be QA and an open discussion.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="24">
+            <name>IT-Kollektiv</name>
+            <biography>https://it-kollektiv.com</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="844" guid="c074574c-129a-5391-ab12-c8b2cb6b8558">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>02:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>EJBNT9</slug>
+        <url>https://talks.komona.org/35c3/talk/EJBNT9</url>
+        <title>DIY handmade Stickers workshop</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Do you have something you want to say and stick it to the walls, poles etc. of your city?</abstract>
+        <description>Do you have something you want to say and stick it to the walls, poles etc. of your city? Let’s make it happen! Stickers offer a simple and playful format for expressing politics. We offer to show some DIY methods and techniques on how to design and produce them. Afterwards, you can create your own rad stickers and stick them on wherever you like (including your neighbors toilet or the forehead of your friend).</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <name>Gabo &amp; Lea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="869" guid="35aaf3bf-4726-50e7-aca5-c12af5a778ea">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>RXHRJH</slug>
+        <url>https://talks.komona.org/35c3/talk/RXHRJH</url>
+        <title>Do Not Track! I mean it</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Web and mobile tracking has gone off the rails - do we have the tools to tell companies that we don't want to be profiled, monitored, exploited?</abstract>
+        <description>Our web experience is eaten up by impractical, annoying, borderline legal cookie banners, while mobile apps siphon data to big companies without even us knowing. Privacy rules are poorly implemented and there are a few big players which exploit vast amounts of personal data. Our data is seen as an economic asset and the imbalance of power between users and companies has dramatically increased. How can we effectively stop data exploitation? How can we make companies listen that we don't want to be profiled, monitored, exploited? How can we enforce our rights to access, delete, correct our data?&#13;
+&#13;
+If you’re on your way to do something about all of this, please join this working group on figuring out what tools we need against third party tracking (web and/or mobile). If you've done research, played with different tools or if you're incubating ideas around third party tracking, this session is for us to get together, share knowledge and make the first steps towards working on practical solutions.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="61">
+            <name>Valentina</name>
+            <biography>Valentina is a Mozilla Fellow working with Privacy International. As a legal adviser and digital rights advocate she focuses on privacy, freedom of speech and open culture.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="OIO Lötarea">
       <event id="290" guid="3c8fb2e5-b752-524f-b9b1-d3393929976d">
         <logo/>
@@ -14628,6 +16309,518 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
           <link href="https://soundcloud.com/juli_jane">https://soundcloud.com/juli_jane</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="Komona Kuppel 3 #talks">
+      <event id="874" guid="46fba170-d7fb-507b-85c0-c1d82862c3ec">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>EDYKRD</slug>
+        <url>https://talks.komona.org/35c3/talk/EDYKRD</url>
+        <title>How to install TWRP / Linage OS</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Basics that you need to flash your phone with a custom OS</abstract>
+        <description>This will be my poor approach to teach you how to install TWRP. I'll try to tell yu the very basics that will enable you to flash it yourself and talk about all the fall pits you might avoid during your journey.&#13;
+&#13;
+Please bring your charged Phones, Laptops and working datacables!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="4">
+            <name>Bobo_PK</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="868" guid="ecdcee04-1ab0-538d-ad0a-739b4ef4754f">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>AWZDBT</slug>
+        <url>https://talks.komona.org/35c3/talk/AWZDBT</url>
+        <title>Inter/dependence: the game</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Inter/de-pend-ence is a non-competitive board game that encourages deep conversation around questions of empowerment and support.</abstract>
+        <description>Players share how they practice autonomy and relatedness via questions, examples, tactics, and listening. Inter/de-pend-ence emerged from shared interests in mutualism, agency, and artists’ roles. Let’s play.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Sarrita Hunn</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="842" guid="434d261f-43c7-5839-8cd2-a7f931960f3f">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>VTFTFQ</slug>
+        <url>https://talks.komona.org/35c3/talk/VTFTFQ</url>
+        <title>Anarchistische Theorie IV : Subjekt - Widerstand - Emanzipation – anarchistische Subjekttheorie</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>siehe Beschreibung</abstract>
+        <description>Anarchist Theory IV – Subject – Resistance – Emanczipation – anarchist theory of subjectivity&#13;
+&#13;
+(Input und Diskussion) &#13;
+Nach wie vor und vielleicht mehr denn ja, müssen wir verschiedensten Anforderungen entsprechen, wird unsere Seinsform von Normen bestimmt und geformt. Die gesellschaftliche Struktur des Subjekts ist dabei als Kampffeld verschiedener politischer Projekte anzusehen. Widerstände gegen Subjektivierung allein haben jedoch nicht automatisch emanzipatorischen Charakter, sondern können ebenso reaktionäre vereinnahmt werden. Wie können wir die Grenzen unseres Subjekt-Seins erweitern und aufsprengen? In welchem Verhältnis steht die Selbstveränderung zur Veränderung der Gesellschaft?</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="40">
+            <name>jens störfried</name>
+            <biography>Beschäftige mich mit verschiedenen DIngen, aber seit einigen Jahren ausgiebig mit anarchistischer Theorie, Geschichte und Praxis. Möchte darüber ins Gespräch kommen. Hab kaum Ahnung von Technik-Sachen, Hacken etc. und suche Schnittpunkte.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="813" guid="29f7e79a-853e-5f08-b409-c5379f299d35">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>BKZPKD</slug>
+        <url>https://talks.komona.org/35c3/talk/BKZPKD</url>
+        <title>A*CHOIR</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>anarchist's singing session. bring musical sheets or lyrics, if you have! let's sing our hearts out together.</abstract>
+        <description>there will be some songs, you can bring some songs, if you have a guitar (or other fun instruments) bring it along.&#13;
+a warm-up and some practical tips for organizing a protestchoir and open source songbook-pdfs will be provided</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="19">
+            <name>mikio</name>
+            <biography>laniakea.blog</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="877" guid="3566d68c-2ef8-54c4-ba6c-e0f86859d2f4">
+        <logo/>
+        <date>2018-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>01:30</duration>
+        <room>Komona Kuppel 3 #talks</room>
+        <slug>DDDMWB</slug>
+        <url>https://talks.komona.org/35c3/talk/DDDMWB</url>
+        <title>Solidarity with Rojava: contributing our skills to revolution</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>The talk is a call to discuss about how we can contribute our skills to those who are in Rojava and build solidarity in a material way.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">
+            <name>Communia</name>
+            <biography>in solidarity with Rojava</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Thunderdome #workshops #talks">
+      <event id="818" guid="021a8962-889e-5e39-bb0f-da0ec0f302b2">
+        <logo/>
+        <date>2018-12-30T01:00:00+01:00</date>
+        <start>01:00</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>Z9LAV7</slug>
+        <url>https://talks.komona.org/35c3/talk/Z9LAV7</url>
+        <title>#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 2</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>This workshop will build on the speech in the congress-programm scheduled on 29th for 11:30pm in Clarke and leave room for further discussion, networking and solution prototyping.</abstract>
+        <description>Im Mai 2018 initiierte Reclaim Club Culture (RCC) in Berlin einen Protest gegen einen Aufmarsch der AfD und die AFDsierung der Gesellschaft. Zusammen mit mehr als 170 Techno Clubs, Festivals und Veranstalter*innen organisierten wir innerhalb von zwei Wochen drei Demozüge, auf denen sich mehr als 60.000 Demonstrant*innen versammelten. Dies ereignete sich in einem politischen Klima, in dem die Linke von den Erfolgen der Faschist*innen wie gelähmt schien und ein großer Teil der Gesellschaft immer weiter nach rechts abdriftete. Ausgehend von einer selbstkritischen Praxis werden wir der Frage nachgehen, wie und warum dies (scheinbar) plötzlich gelang.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <name>Rosa Rave (Reclaim Club Culture)</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="849" guid="0552b616-535d-5462-9bae-f5b9789d11e5">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>9FRQQG</slug>
+        <url>https://talks.komona.org/35c3/talk/9FRQQG</url>
+        <title>Letter writing to prisoners</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Workshop with input on letter writing to prisoners</abstract>
+        <description>Ending up in prison sucks. Ending up in prison with no support can destroy you. Going through this experience with support is really important for those who are ending up in it. Writing letters is one of the few things we can do for prisoners to break isolation between us and them.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="819" guid="bf5e388a-f230-5a6d-9ca9-dd19befeb928">
+        <logo/>
+        <date>2018-12-30T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>02:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>UCAQVZ</slug>
+        <url>https://talks.komona.org/35c3/talk/UCAQVZ</url>
+        <title>#afdwegbassen: Protest, (Club-)Kultur und antifaschistischer Widerstand - Part 3</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>This workshop will build on the speech in the congress-programm scheduled on 29th for 11:30pm in Clarke and on the workshop session / discussion taking place in komona on 30th at 01:00 am and leave room for further discussion, networking and solution prototyping.</abstract>
+        <description>Im Mai 2018 initiierte Reclaim Club Culture (RCC) in Berlin einen Protest gegen einen Aufmarsch der AfD und die AFDsierung der Gesellschaft. Zusammen mit mehr als 170 Techno Clubs, Festivals und Veranstalter*innen organisierten wir innerhalb von zwei Wochen drei Demozüge, auf denen sich mehr als 60.000 Demonstrant*innen versammelten. Dies ereignete sich in einem politischen Klima, in dem die Linke von den Erfolgen der Faschist*innen wie gelähmt schien und ein großer Teil der Gesellschaft immer weiter nach rechts abdriftete. Ausgehend von einer selbstkritischen Praxis werden wir der Frage nachgehen, wie und warum dies (scheinbar) plötzlich gelang.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="23">
+            <name>Rosa Rave (Reclaim Club Culture)</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="836" guid="8f3d367d-74cb-5f0f-a80c-38fe166b5e87">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>01:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>EXZERE</slug>
+        <url>https://talks.komona.org/35c3/talk/EXZERE</url>
+        <title>Transnational Networking for current Forms of Antifascism and Solidarity</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Reclaim Club Culture would like to meet with other collectives and networks against racism, fascism and social oppression to build new structures of political support and exchange of knowledge.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="32">
+            <name>Reclaim Club Culture</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="873" guid="2cc6fa4a-8ded-5641-9b1b-ab0c6aaa7615">
+        <logo/>
+        <date>2018-12-30T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>C7KTRD</slug>
+        <url>https://talks.komona.org/35c3/talk/C7KTRD</url>
+        <title>Neuroplastic Society aka How to Learn Your Mind</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Neuroplastic Society aka How to Learn Your Mind by Karol Sokolowski</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="51">
+            <name>Test</name>
+            <biography>Test</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="875" guid="aa4f8113-2495-58e3-b44b-a0e3324c0aa8">
+        <logo/>
+        <date>2018-12-30T16:30:00+01:00</date>
+        <start>16:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>VPWCHK</slug>
+        <url>https://talks.komona.org/35c3/talk/VPWCHK</url>
+        <title>DANCING OR ALGORITHMS</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Balboa Swing dance basics 4u</abstract>
+        <description>To dance is to communicate between mind and body. Prediction, adaption and realization. When dancing together we communicate using our bodies and overcome the barriers of spoken language. We'll introduce you to the basics of Balboa swing dance.&#13;
+&#13;
+Couple dance is based on the follow and lead roles. You'll switch roles during this workshop. No prior experience and no partner needed.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="39">
+            <name>Flo &amp; Chardia</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="833" guid="412db2dd-a23e-5a55-b48a-8f7d521714bc">
+        <logo/>
+        <date>2018-12-30T17:30:00+01:00</date>
+        <start>17:30</start>
+        <duration>01:00</duration>
+        <room>Komona Thunderdome #workshops #talks</room>
+        <slug>UE9PLG</slug>
+        <url>https://talks.komona.org/35c3/talk/UE9PLG</url>
+        <title>Komona @ CCC Camp 2019</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Lets come together and talk about komona action @ CCC Camp and planning of this.</abstract>
+        <description>Let's do it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="36">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="Komona Zelt #workshops #handson">
+      <event id="832" guid="ae0c1ae8-eab9-5ff6-8c4d-8f4a72bf9c88">
+        <logo/>
+        <date>2018-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>KUUPYE</slug>
+        <url>https://talks.komona.org/35c3/talk/KUUPYE</url>
+        <title>08.03.2019 - International Women*s Day / Frauenstreik</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Important day. Relevance for action. Together.</abstract>
+        <description>Let's do it.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="35">
+            <name>Komonista</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="870" guid="2b86433e-ea8e-5c12-8706-f05a962b64e6">
+        <logo/>
+        <date>2018-12-30T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>7HXZMP</slug>
+        <url>https://talks.komona.org/35c3/talk/7HXZMP</url>
+        <title>Utopia network yearly planning</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>Utopia international network part of Infoladen at Komona are having an open call for comrades to get to know the collectives and participate in direct action wherever we are and coordinate together. Everyone is welcome to come and find out how we can work together. We are from diverse activist groups from Austria, Bulgaria, Germany, Portugal, Lithuania, Italy, and beyond.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="62">
+            <name>Infoladen</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="871" guid="72f84410-ec87-5627-a51d-48103cad5a5e">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>73BKWC</slug>
+        <url>https://talks.komona.org/35c3/talk/73BKWC</url>
+        <title>Radix Hacklab</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>en</language>
+        <abstract>The Raddix Hacklab is a not-for-profit autonomous collective, part of a global movement of hackers and makers setting up a radical, community-run space in Athens (Greece) for people to come together to learn, share, organise, and create.&#13;
+&#13;
+The goal of this session is to meet and chat with people that want to know more about our Hacklab.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <name>radixer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="823" guid="6c468d05-7ab0-569f-bca9-718d1f27df8e">
+        <logo/>
+        <date>2018-12-30T15:00:00+01:00</date>
+        <start>15:00</start>
+        <duration>02:30</duration>
+        <room>Komona Zelt #workshops #handson</room>
+        <slug>3DT7CN</slug>
+        <url>https://talks.komona.org/35c3/talk/3DT7CN</url>
+        <title>Subkultur. Kollektivität. Organisation. Die Fäden verknüpfen – Wie werden selbstorganisierte Kollektive handlungsfähig?</title>
+        <subtitle/>
+        <track/>
+        <type>Slot</type>
+        <language>de</language>
+        <abstract>In unserem Workshop wollen wir Hindernisse, Probleme und Fragen der Einfluss- und Entwicklungsmöglichkeiten kollektiver Strukturen erarbeiten. Vielleicht gelingt es uns zusammen, einerseits die Gründe für die Partikularität und mangelnde Kontinuität und andererseits langfristige Handlungsoptionen und Orientierungspunkte herauszufinden.</abstract>
+        <description>Wie wollen wir leben? &#13;
+Subkultur versucht die Frage nach einer besseren Gesellschaft zu beantworten. Selbstorganisierte Kollektive schaffen Freiräume mit verschiedenen nicht-kapitalistischen Bereichen und entziehen sich dadurch teilweise dem Verwertungszusammenhang. Sie bleiben dabei aber oft in ihren jeweiligen Blasen gefangen und auf diese beschränkt. Die dabei auftauchenden Probleme in Struktur, Organisation und Kommunikation scheinen sich in allen Kollektiven zu gleichen. &#13;
+&#13;
+Was ist der subversive Kern der Subkultur?&#13;
+&#13;
+Wie können wir als subkulturelle Kollektive handlungsfähig werden und nachhaltig und langfristig gesellschaftlichen Einfluss üben?&#13;
+&#13;
+Wie kann eine effiziente und einfache Organisation, Kommunikation und Vernetzung in Kollektiven ermöglicht werden?&#13;
+&#13;
+Wie kann eine entsprechende Professionalität und Autorität erreicht werden?&#13;
+&#13;
+Wie kann Kontinuität in Arbeit und Kritik erreicht werden?&#13;
+&#13;
+Wie erreichen wir eine Synergie der Kollektive und der Subkulturen?&#13;
+&#13;
+Es geht uns weniger darum, Antworten zu liefern, als uns auszutauschen und die relevanten Fragen und Probleme im Zusammenhang subkultureller Kollektivarbeit herauszufinden und zu formulieren. &#13;
+&#13;
+WEITERE INFOS:&#13;
+Der Text zum Workshop steht [IN DIESEM PAPER.](https://think.breakallthe.systems/pad/#/2/pad/view/fPLEDo1SBfG7jeOwub9OCVIoNCPgND9AGJBAj4O6n98/embed/) &#13;
+&#13;
+Dazu kannst Du schon in drei Arbeitsgruppen Deine Gedanken und Fragen formulieren.&#13;
+&#13;
+Hier: [Arbeitsgruppe 1 - SUBKULTUR](https://think.breakallthe.systems/pad/#/2/pad/edit/XVSGAna+gk8yqabPyGJNK9UR/)&lt;br&gt;&#13;
+&#13;
+Da: [Arbeitsgruppe 2 - KOLLEKTIVITÄT](https://think.breakallthe.systems/pad/#/2/pad/edit/5KsgH86U6YZiHFuLemq3LhHd/)&lt;br&gt;&#13;
+&#13;
+Dort: [Arbeitsgruppe 3 - ORGANISATION](https://think.breakallthe.systems/pad/#/2/pad/edit/taP7wgPx0Kf2XtFzLjrk8uj7/)&#13;
+&#13;
+Wir freuen uns auf Dich und Dein Input!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Radikale Liebe</name>
+            <biography/>
+          </person>
+          <person id="17">
+            <name>Martin Kowalski</name>
+            <biography>Sociologist, Philosopher, Writer</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="OIO Lötarea"/>
