@@ -4160,7 +4160,6 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
         <attachments/>
       </event>
     </room>
-    <room name="OIO Lötarea"/>
     <room name="OIO Thementisch 1">
       <event id="245" guid="f2444f75-7b94-5026-bb2e-d6c5a9ce7fa5">
         <logo/>
@@ -7216,6 +7215,42 @@ The talk aims to inform about the current state of affairs and hoefully foster a
         <attachments/>
         <answers/>
       </event>
+      <event id="313" guid="8b2ce950-136c-53a5-89ff-7acde44faca2">
+        <logo/>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>00:40</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>GYT733</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733</url>
+        <title>9DoorsOpen - audiivisueller 35min Trip</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>10 Jahre Schaffensphase, 20.000.000 Fotodateien, &#13;
+9 Doors Open ist ein künstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.</abstract>
+        <description>Für Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung&#13;
+&#13;
+Andreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die Möglichkeit, die uns bekannte Realität in vielfälltigsten Formen neu zu entdecken.&#13;
+&#13;
+Am 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Aufführung statt.&#13;
+&#13;
+Hier auf dem CCC schon vorab.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">
+            <name>Andreas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
     </room>
     <room name="OIO Workshop-Domo">
       <event id="288" guid="c225c6dc-8f35-50e7-b4b1-f83f2022577d">
@@ -8786,12 +8821,6 @@ music.</abstract>
         <answers/>
       </event>
     </room>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 5"/>
-    <room name="OIO Thementisch 6"/>
   </day>
   <day index="3" date="2018-12-29" start="2018-12-29T11:00:00+01:00" end="2018-12-30T03:00:00+01:00">
     <room name="Adams">
@@ -11451,42 +11480,6 @@ CfP https://c3lt.de/35c3overflow/cfp</abstract>
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
-      <event id="313" guid="8b2ce950-136c-53a5-89ff-7acde44faca2">
-        <logo/>
-        <date>2018-12-29T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>00:40</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>GYT733</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733</url>
-        <title>9DoorsOpen - audiivisueller 35min Trip</title>
-        <subtitle/>
-        <track/>
-        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
-        <language>en</language>
-        <abstract>10 Jahre Schaffensphase, 20.000.000 Fotodateien, &#13;
-9 Doors Open ist ein künstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.</abstract>
-        <description>Für Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung&#13;
-&#13;
-Andreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die Möglichkeit, die uns bekannte Realität in vielfälltigsten Formen neu zu entdecken.&#13;
-&#13;
-Am 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Aufführung statt.&#13;
-&#13;
-Hier auf dem CCC schon vorab.</description>
-        <recording>
-          <license/>
-          <optout>true</optout>
-        </recording>
-        <persons>
-          <person id="97">
-            <name>Andreas</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="306" guid="83cb47b2-23fd-5a97-a82f-053469f31640">
         <logo/>
         <date>2018-12-29T11:00:00+01:00</date>
@@ -11900,6 +11893,35 @@ Vorkenntnisse sind nicht erforderlich.</description>
         <persons>
           <person id="99">
             <name>Steini</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="302" guid="076b0e7a-4d97-5958-8e02-740f6d8c6456">
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UVGYXJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ</url>
+        <title>Iuventa counter-investigation</title>
+        <subtitle/>
+        <track/>
+        <type>Movie with Q&amp;A</type>
+        <language>en</language>
+        <abstract>Documentation and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">
+            <name>Solidarity at Sea</name>
             <biography/>
           </person>
         </persons>
@@ -13573,12 +13595,6 @@ Freifunk since 2003</biography>
         <answers/>
       </event>
     </room>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 5"/>
-    <room name="OIO Thementisch 6"/>
   </day>
   <day index="4" date="2018-12-30" start="2018-12-30T11:00:00+01:00" end="2018-12-30T19:00:00+01:00">
     <room name="Adams">
@@ -14582,35 +14598,6 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
       </event>
     </room>
     <room name="OIO Vortrags-Arena">
-      <event id="302" guid="076b0e7a-4d97-5958-8e02-740f6d8c6456">
-        <logo/>
-        <date>2018-12-30T00:00:00+01:00</date>
-        <start>00:00</start>
-        <duration>01:00</duration>
-        <room>OIO Vortrags-Arena</room>
-        <slug>UVGYXJ</slug>
-        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ</url>
-        <title>Iuventa counter-investigation</title>
-        <subtitle/>
-        <track/>
-        <type>Movie with Q&amp;A</type>
-        <language>en</language>
-        <abstract>Documentation and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
-        <description/>
-        <recording>
-          <license/>
-          <optout>false</optout>
-        </recording>
-        <persons>
-          <person id="91">
-            <name>Solidarity at Sea</name>
-            <biography/>
-          </person>
-        </persons>
-        <links/>
-        <attachments/>
-        <answers/>
-      </event>
       <event id="304" guid="7db71e6b-183a-55cf-b1eb-4bbf104ec505">
         <logo/>
         <date>2018-12-30T11:00:00+01:00</date>
@@ -15411,12 +15398,5 @@ On Christmas Eve 2004, Ingo made his debut at Cocoonclub where he played side by
         <attachments/>
       </event>
     </room>
-    <room name="OIO Lötarea"/>
-    <room name="OIO Thementisch 1"/>
-    <room name="OIO Thementisch 2"/>
-    <room name="OIO Thementisch 3"/>
-    <room name="OIO Thementisch 4"/>
-    <room name="OIO Thementisch 5"/>
-    <room name="OIO Thementisch 6"/>
   </day>
 </schedule>

@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.3 2019-02-28 14:20", 
+        "version": "Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.3 2019-03-06 21:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -5345,7 +5345,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "OIO L\u00f6tarea": [], 
                         "OIO Thementisch 1": [
                             {
                                 "id": 245, 
@@ -11226,6 +11225,37 @@
                                 "links": [], 
                                 "attachments": [], 
                                 "answers": []
+                            }, 
+                            {
+                                "id": 313, 
+                                "guid": "8b2ce950-136c-53a5-89ff-7acde44faca2", 
+                                "logo": null, 
+                                "date": "2018-12-29T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "00:40", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "GYT733", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733", 
+                                "title": "9DoorsOpen - audiivisueller 35min Trip", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Talk 50min total (etwa 15min  Q&A)", 
+                                "language": "en", 
+                                "abstract": "10 Jahre Schaffensphase, 20.000.000 Fotodateien, \r\n9 Doors Open ist ein k\u00fcnstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.", 
+                                "description": "F\u00fcr Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung\r\n\r\nAndreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die M\u00f6glichkeit, die uns bekannte Realit\u00e4t in vielf\u00e4lltigsten Formen neu zu entdecken.\r\n\r\nAm 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Auff\u00fchrung statt.\r\n\r\nHier auf dem CCC schon vorab.", 
+                                "recording_license": "", 
+                                "do_not_record": true, 
+                                "persons": [
+                                    {
+                                        "id": 97, 
+                                        "name": "Andreas", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
                             }
                         ], 
                         "OIO Workshop-Domo": [
@@ -12831,12 +12861,6 @@
                                 "answers": []
                             }
                         ], 
-                        "OIO Thementisch 1": [], 
-                        "OIO Thementisch 2": [], 
-                        "OIO Thementisch 3": [], 
-                        "OIO Thementisch 4": [], 
-                        "OIO Thementisch 5": [], 
-                        "OIO Thementisch 6": [], 
                         "": [
                             {
                                 "id": 1149, 
@@ -19312,37 +19336,6 @@
                         ], 
                         "OIO Vortrags-Arena": [
                             {
-                                "id": 313, 
-                                "guid": "8b2ce950-136c-53a5-89ff-7acde44faca2", 
-                                "logo": null, 
-                                "date": "2018-12-29T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "00:40", 
-                                "room": "OIO Vortrags-Arena", 
-                                "slug": "GYT733", 
-                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733", 
-                                "title": "9DoorsOpen - audiivisueller 35min Trip", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Talk 50min total (etwa 15min  Q&A)", 
-                                "language": "en", 
-                                "abstract": "10 Jahre Schaffensphase, 20.000.000 Fotodateien, \r\n9 Doors Open ist ein k\u00fcnstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.", 
-                                "description": "F\u00fcr Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung\r\n\r\nAndreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die M\u00f6glichkeit, die uns bekannte Realit\u00e4t in vielf\u00e4lltigsten Formen neu zu entdecken.\r\n\r\nAm 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Auff\u00fchrung statt.\r\n\r\nHier auf dem CCC schon vorab.", 
-                                "recording_license": "", 
-                                "do_not_record": true, 
-                                "persons": [
-                                    {
-                                        "id": 97, 
-                                        "name": "Andreas", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 306, 
                                 "guid": "83cb47b2-23fd-5a97-a82f-053469f31640", 
                                 "logo": null, 
@@ -19737,6 +19730,37 @@
                                     {
                                         "id": 99, 
                                         "name": "Steini", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 302, 
+                                "guid": "076b0e7a-4d97-5958-8e02-740f6d8c6456", 
+                                "logo": null, 
+                                "date": "2018-12-30T00:00:00+01:00", 
+                                "start": "00:00", 
+                                "duration": "01:00", 
+                                "room": "OIO Vortrags-Arena", 
+                                "slug": "UVGYXJ", 
+                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ", 
+                                "title": "Iuventa counter-investigation", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Movie with Q&A", 
+                                "language": "en", 
+                                "abstract": "Documentation and Q&A with crew members of Iuventa and other SAR ships", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 91, 
+                                        "name": "Solidarity at Sea", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -21479,12 +21503,6 @@
                                 "answers": []
                             }
                         ], 
-                        "OIO Thementisch 1": [], 
-                        "OIO Thementisch 2": [], 
-                        "OIO Thementisch 3": [], 
-                        "OIO Thementisch 4": [], 
-                        "OIO Thementisch 5": [], 
-                        "OIO Thementisch 6": [], 
                         "": [
                             {
                                 "id": 1148, 
@@ -25633,37 +25651,6 @@
                         ], 
                         "OIO Vortrags-Arena": [
                             {
-                                "id": 302, 
-                                "guid": "076b0e7a-4d97-5958-8e02-740f6d8c6456", 
-                                "logo": null, 
-                                "date": "2018-12-30T00:00:00+01:00", 
-                                "start": "00:00", 
-                                "duration": "01:00", 
-                                "room": "OIO Vortrags-Arena", 
-                                "slug": "UVGYXJ", 
-                                "url": "https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ", 
-                                "title": "Iuventa counter-investigation", 
-                                "subtitle": "", 
-                                "track": null, 
-                                "type": "Movie with Q&A", 
-                                "language": "en", 
-                                "abstract": "Documentation and Q&A with crew members of Iuventa and other SAR ships", 
-                                "description": "", 
-                                "recording_license": "", 
-                                "do_not_record": false, 
-                                "persons": [
-                                    {
-                                        "id": 91, 
-                                        "name": "Solidarity at Sea", 
-                                        "biography": null, 
-                                        "answers": []
-                                    }
-                                ], 
-                                "links": [], 
-                                "attachments": [], 
-                                "answers": []
-                            }, 
-                            {
                                 "id": 304, 
                                 "guid": "7db71e6b-183a-55cf-b1eb-4bbf104ec505", 
                                 "logo": null, 
@@ -26498,13 +26485,6 @@
                                 "attachments": []
                             }
                         ], 
-                        "OIO L\u00f6tarea": [], 
-                        "OIO Thementisch 1": [], 
-                        "OIO Thementisch 2": [], 
-                        "OIO Thementisch 3": [], 
-                        "OIO Thementisch 4": [], 
-                        "OIO Thementisch 5": [], 
-                        "OIO Thementisch 6": [], 
                         "Assembly:Hardware Hacking Area": [
                             {
                                 "id": 1158, 
