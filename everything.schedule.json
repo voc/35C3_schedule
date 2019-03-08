@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Voltron 3.1 1.5 MemoryRefreshV1.3 1.2.4 2019-03-08 20:00", 
+        "version": "Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-03-08 20:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -3407,7 +3407,262 @@
                                 "answers": []
                             }
                         ], 
-                        "ChaosZone": [], 
+                        "ChaosZone": [
+                            {
+                                "id": 715, 
+                                "guid": "ef2d214c-12a5-5162-b8f6-74dde79c7c09", 
+                                "logo": null, 
+                                "date": "2018-12-27T11:00:00+01:00", 
+                                "start": "11:00", 
+                                "duration": "00:30", 
+                                "room": "ChaosZone", 
+                                "slug": "DALFMM", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/DALFMM", 
+                                "title": "livestream - Opening Ceremony", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "Live stream of the 35C3 Opening Ceremony", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 20, 
+                                        "name": "livestream", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 701, 
+                                "guid": "52c50dc4-e473-5716-a4fc-6ef7e328902c", 
+                                "logo": null, 
+                                "date": "2018-12-27T12:50:00+01:00", 
+                                "start": "12:50", 
+                                "duration": "00:30", 
+                                "room": "ChaosZone", 
+                                "slug": "KYND3Y", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/KYND3Y", 
+                                "title": "ChaosZone opening ceremony", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Welcome to ChaosZone at 35C3. Lets have a nice kickoff together. Learn and discuss about everything regarding ChaosZone at 35C3 and beyond.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 1, 
+                                        "name": "nilo", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 4, 
+                                        "name": "bigalex", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 707, 
+                                "guid": "181cc8cd-d3f4-59b6-befa-3e4e8c8cd8c2", 
+                                "logo": null, 
+                                "date": "2018-12-27T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "PUCEB3", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/PUCEB3", 
+                                "title": "Fr\u00fch \u00fcbt sich -- Junghacker am Eigenbaukombinat", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Eine kurze Einf\u00fchrung in den Junghackertag am Eigenbaukombiant in Halle. Was machen wir dort? Was haben wir gemacht?", 
+                                "description": "Seit circa 2 Jahren treffen wir uns an jedem\u00b9 4. Samstag im Monat, um Kindern und Jugendlichen den Spa\u00df am Umgang mit Elektronik, Bits und Bytes und Aspekte darum herum nahe zu bringen. In meiner kurzen Einf\u00fchrung m\u00f6chte ich davon berichten, was gut l\u00e4uft, wo wir Probleme sehen und wieso die Arbeit mit dem Nachwuchs nicht nur wichtig ist, sondern auch noch Spa\u00df macht.\r\n\r\n\u00b9 Ausnahmen, wenn wir uns nicht treffen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 8, 
+                                        "name": "frlan", 
+                                        "biography": "Linux-Admin, Freie Software-Aktivist, Entwickler. Kurz gesagt: Klischee pur.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 720, 
+                                "guid": "11077242-300d-582f-8060-d711bf9072a3", 
+                                "logo": null, 
+                                "date": "2018-12-27T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GEBZBY", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GEBZBY", 
+                                "title": "Aenigma: The state-of-the-art, secure-by-default, one-touch-deployed XMPP server for everyone.", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "After a short dive into the current state of instant messaging, we'll see how to take back our communications with aenigma, a fully standard-compliant and secure out-of-the-box xmpp server automation project.", 
+                                "description": "Follow us here:\r\n\r\nhttps://github.com/openspace42/aenigma\r\n\r\nContact me here:\r\n\r\nnz [at] os [dot] vu [mail | xmpp | matrix/riot.im]", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 25, 
+                                        "name": "Nicolas North", 
+                                        "biography": "Founder at openspace, the new hackerspace in Milano, Italia.\r\nsystems automation enthusiast and developer.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 703, 
+                                "guid": "c1c12d9d-12bd-5bab-820f-c4cbac4dce86", 
+                                "logo": null, 
+                                "date": "2018-12-27T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "U8YM3N", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/U8YM3N", 
+                                "title": "Makertools im Labor - \u00dcber Raketentriebwerke und Beschleunigung", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Die M\u00f6glichkeiten moderner 3D-Drucker sind mannigfaltig. Komplexe Objekte lassen sich in kurzer Zeit von der digitalen Blaupause in die reale Welt bringen. Wir m\u00f6chten die M\u00f6glichkeiten moderner 3D-Drucker im wissenschaftlichen Laborumfeld aufzeigen. Wie w\u00e4re es hochempfindliche Sensoren und Raketenantriebe damit zu drucken? Und da alles noch besser mit einem LASER wird, bauen wir diesen auch gleich mit ein.", 
+                                "description": "Raoul-Amadeus Lorbeer, Benjamin Ewers\r\nDeutsches Zentrum f\u00fcr Luft- und Raumfahrt, Institut f\u00fcr technische Physik, Stuttgart\r\n\r\nWir zeigen einen Laserantrieb f\u00fcr Satelliten aus dem 3D-Drucker. Dabei wird der Treibstoff durch intensive Laserimpulse beschleunigt und generiert pr\u00e4zisen Schub. Soll der Antrieb zudem noch in einen Cube-Sat passen wird eine kompakte Bauweise obligatorisch. Dies wurde mittels 3D-Druck verwirklicht. Gesteuert wird der Antrieb mittels Mikrokontroller. Und da alles noch besser mit einem USB-Anschluss wird, bauen wir diesen auch gleich mit ein.\r\nBeschleunigungssensoren arbeiten h\u00e4ufig mit einer federnd gelagerten Masse, dessen Verschiebung kontinuierlich gemessen wird. Verschiebungen lassen sich hervorragend mit optischen Interferometern messen. Wir zeigen einen pr\u00e4zisen interferometrischen Beschleunigungssensor aus dem 3D-Drucker, nat\u00fcrlich mit LASER. Und da alles noch besser mit einem SDR (Software Defined Radio) wird, bauen wir dieses auch gleich mit ein.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 11, 
+                                        "name": "Benjamin Ewers, Raoul-Amadeus Lorbeer", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 711, 
+                                "guid": "7425b4d7-95f5-5551-b81b-2e7aca7fb400", 
+                                "logo": null, 
+                                "date": "2018-12-27T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "MZWAKF", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/MZWAKF", 
+                                "title": "a home among the stars: Galina Balashova, architect of the soviet space programme", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "Galina Balashova was the main architect and designer for the soviet space programme. She designed the interieurs and visual identity of spacecrafts such as the Soyuz, Buran, and Mir.", 
+                                "description": "\u00bbSpace stations are not only technical structures but architecture built amidst zero gravity.\u00ab\r\n\r\nGalina Balashova (b. 1931) is a self-described \"architect-engineer\" who spent almost 30 years working in the Soviet Space Programme. She designed the ergonomics, the colours & style and the typography of most soviet spacecrafts, including the Soyuz, the Salyut space stations, the Buran shuttle and the Mir space station.\r\nHer pioneering work in the field of zero-gravity architecture is still referenced today in the ISS and other spacecrafts.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 17, 
+                                        "name": "aurora", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 704, 
+                                "guid": "3a86fe86-b951-5f20-a2f9-8d300e3f77e8", 
+                                "logo": null, 
+                                "date": "2018-12-27T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "SVLSXP", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/SVLSXP", 
+                                "title": "Erinnerungen an Wau Holland", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Erinnerungen an den Mitgr\u00fcnder des Chaos Computer Clubs, Wau Holland alias Herwart Holland Moritz", 
+                                "description": "Bin gern bereit, einige Geschichten aus dem Leben von Wau Holland zu erz\u00e4hlen. Und ich w\u00fcrde mich freuen, wenn zu dieser Session noch andere Leute sich zugesellen w\u00fcrden, die Wau vor oder w\u00e4hrend der Gr\u00fcndung des CCC kennen und sch\u00e4tzen gelernt haben.  Und die meine Geschichten relativieren oder andere Geschichten beif\u00fcgen k\u00f6nnten.  \r\n\r\nWau oder Herwart Holland-Moritz ist nun seit 17 Jahren tot. Seit 15 Jahren gibt es die Wau Holland Stiftung, die ein Archiv seines Nachlasses der \u00d6ffentlichkeit zug\u00e4nglich machen soll und sein Lebenswerk weiter in Erinnerung bringen und vervollst\u00e4ndigen soll. \r\nIch m\u00f6chte meine pers\u00f6nlichen Erinnerungen an ihn teilen und Menschen treffen, die  auch ihre Erinnerungen an einen gro\u00dfartigen und innovatives intergalaktisches Wesen teilen m\u00f6chten.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 12, 
+                                        "name": "Ursula Kooke", 
+                                        "biography": "Na ja, \u00fcber mich gibt es nicht viel zu sagen. Ich habe Wau kennen gelernt, als ich 18 war und wir gemeinsam Mathematik und Politik in Marburg studiert haben. Er war \u00fcber lange Jahre bis zu seinem Tod mein bester Freund. Ich habe zeitweilig bei seinem Vater gelebt, der mich auch beauftragt, hat, Waus Nachlass zu verwalten, als Wau gestorben war. Und so habe ich gemeinsam mit Winfried Motzkus, Bernd Fix, Gerriet Hellwig und Mel Wahl auf der Beisetzungsfeier beschlossen, eine Stiftung zu gr\u00fcnden, habe als Stifterin diese errichtet und war die ersten Jahre auch Vorsitzende. Gab dann erst den Vorsitz und dann den Vorstandssitz 2007 ab. \r\n\r\n Ich bin Asperger Autistin und komme mit medizinischem Begleithund. Die Veranstaltung ist also nix f\u00fcr Hundehaarallergiker oder Paniker.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 721, 
+                                "guid": "194f1218-3352-5884-8911-a75f1df92810", 
+                                "logo": null, 
+                                "date": "2018-12-27T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GLMTRM", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GLMTRM", 
+                                "title": "Elektrogruselkabinett", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "ich zeige Bilder meiner Urlaube, wo ich elektrische Installationen fragw\u00fcrdiger Art fotografiert habe und erz\u00e4hle ein wenig dazu.", 
+                                "description": "Im Prinzip dasselbe wie damals schon\r\n(https://log.koepferl.de/2017/12/29/34c3-elektrogruselkabinett/)\r\nEine Diashow mit Erz\u00e4hlungen von teilweise abenteuerlichen Elektrokonstuktionen.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 26, 
+                                        "name": "robert0k", 
+                                        "biography": "Softwareentwickler, Informatiker und Mitglied des chch.it Chemnitz", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [
                             {
                                 "id": 293, 
@@ -10404,7 +10659,200 @@
                                 "answers": []
                             }
                         ], 
-                        "ChaosZone": [], 
+                        "ChaosZone": [
+                            {
+                                "id": 719, 
+                                "guid": "d1903628-4268-5647-9e46-6515297f53e7", 
+                                "logo": null, 
+                                "date": "2018-12-28T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "QX9NBX", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/QX9NBX", 
+                                "title": "Datenguide: Hacking the statistics office!", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "With our project [Datenguide](https://datengui.de), we work on making official statistics data more accessible to normal people. In this session we'll explain why and how we do it.", 
+                                "description": "Official statistics are statistics published by government agencies and other public bodies, usually about economic, environmental, and societal topics. They are commonly used by policy makers and public administrators but are also an important tool for journalists and civil society initiatives. Official statistics can be used for political reporting, for debunking misinformation and \"fake news\", and for lobbying for social change.\r\n\r\nThe good news is that official statistics are open data, so at least in theory anyone can download and use them for whatever they like. The bad news is that official statistics are usually made and published by bureaucrats for other bureaucrats. German official statistics are hidden in ancient data portal software and are notorious for being hard to use and to understand. \r\n\r\n[Datenguide](https://datengui.de) is a civic tech initiative that aims to make German official statistics accessible to everyone. We work on [Python and JavaScript tools](https://github.com/datenguide/datenguide) for freeing official statistics data and organize events to help people use them. In this talk, we'll give an overview of the technology we are building, explain the problems we are facing, and talk about ways to contribute to the project.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 24, 
+                                        "name": "Simon Jockers", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 710, 
+                                "guid": "45c95b37-47c3-5a75-b6ef-85d6356e2063", 
+                                "logo": null, 
+                                "date": "2018-12-28T16:00:00+01:00", 
+                                "start": "16:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "7JWW8Q", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/7JWW8Q", 
+                                "title": "WikiTech", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "How does Wikimedia serve a hundred thousand Wikipedia pages second?", 
+                                "description": "An overview of the technical side of running Wikipedia & Co, from code review and the server farm to the deployment process and scaling storage infrastructure.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 15, 
+                                        "name": "brightbyte", 
+                                        "biography": "Been here. Done that. Got all the t-shirts.", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 16, 
+                                        "name": "\u00e1\u010d", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 702, 
+                                "guid": "64da27c8-9346-59c0-94a5-844d47514384", 
+                                "logo": null, 
+                                "date": "2018-12-28T17:30:00+01:00", 
+                                "start": "17:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "PHHS7L", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/PHHS7L", 
+                                "title": "Reversing Industrial Protocols \u2013 Real World Use Cases", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "Most PLC protocols are old (older than the entire Ethernet protocol) and by their very nature insecure. I will not be discussing the \u201cknown\u201d industrial protocols, such as S7com, TwinCAT and modbusTCP etc \u2026 in large detail, but rather the lesser known variants that are used to actually control and/or configure these devices.", 
+                                "description": "Almost every single use case and demonstration during this session are actually zero days and will remain zero days. Since it is a \u201cnormal\u201d use of the (unauthenticated protocols) and these devices remain untouched for 20 to 30 years, it is practically impossible to \u201cupdate the protocols\u201d without closing down a million dollar factory for like a year or so.\r\n\r\nWe will demonstrate vulnerabilities on Siemens and Beckhoff PLC's. Both patched and non patched (as part of the protocol).", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 7, 
+                                        "name": "Tijl Deneut", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 706, 
+                                "guid": "74cf6b9d-8228-5fa7-be7a-a5cda7f69fd8", 
+                                "logo": null, 
+                                "date": "2018-12-28T19:00:00+01:00", 
+                                "start": "19:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "3L8XYN", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/3L8XYN", 
+                                "title": "Polizei Gesetz in Sachsen", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Nein zum neuen saechsichen Polizeigesetz!", 
+                                "description": "Der Referent*innen Entwurf f\u00fcr das neue s\u00e4chsische Polizeigesetz (S\u00e4chsisches Polizeivollzugsdienstgesetz \u2013 S\u00e4chsPVDG) wurde geleaked: download\r\n\r\nEinf\u00fchrung\r\n\r\nWenn es nach der s\u00e4chsischen Polizei geht, sind wir zuk\u00fcnftig alle verd\u00e4chtig. Wir alle sind eine potenzielle Bedrohung und m\u00fcssen mit Kameras, Maschinenpistolen und \u00dcberwachungstechnik in Schach gehalten werden. Der Staat scheint sich vor uns sch\u00fctzen zu wollen aber wie sch\u00fctzen wir uns eigentlich vor dem Staat?\r\n\r\nIm s\u00e4chsischen Landtag wird derzeit \u00fcber ein neues Polizeigesetz verhandelt. In Bayern soll ein \u00e4hnliches Gesetz verabschiedet werden und st\u00f6\u00dft auf viel Widerstand.\r\nNicht umsonst wird der (bayerische) Entwurf als \u201esch\u00e4rfstes Polizeigesetz seit 1945\u201c bezeichnet: Die Polizei soll umfangreiche neue Befugnisse erhalten, selbstst\u00e4ndig Grundrechte einschr\u00e4nken und uns alle \u00fcberwachen und bespitzeln d\u00fcrfen. Gleichzeitig werden die Einheiten milit\u00e4risch aufger\u00fcstet und bewaffnet. Hier werden Freiheitsrechte und die Unschuldsvermutung mit F\u00fc\u00dfen getreten. Es wird verst\u00e4rkt ein Klima der Angst und des gegenseitigen Misstrauens geschaffen. Der Rechtsstaat ver\u00e4ndert sich immer mehr hin zu einem autorit\u00e4ren Polizeistaat. Diese Entwicklung betrifft uns alle!\r\n\r\nAngriff auf Grundrechte\r\n\r\nDas Gesetz gibt der Polizei Befugnisse bei einer \u201edrohenden Gefahr\u201c und gegen\u00fcber sogenannten Gef\u00e4hrdern. Die s\u00e4chsische Polizei k\u00f6nnte dann bei blo\u00dfen Vermutungen ermitteln, ohne dass \u00fcberhaupt ein Verbrechen begangen wurde oder ein begr\u00fcndeter Verdacht vorliegt. Das bedeutet: Die Polizei kann quasi gegen jede/n ermitteln. So w\u00fcrde das Polizeigesetz die Unschuldsvermutung au\u00dfer Kraft setzen.\r\nEine Art Hausarrest (Aufenthaltsgebot \u00a721) bis zu drei Monaten kann die Polizei verh\u00e4ngen, auch ohne richterlichen Beschluss. Dies kann sie mittels elektronischer Fu\u00dffesseln durchsetzten. Jede Privatsph\u00e4re von Betroffenen kann ohne konkreten Vorwurf ausgehebelt werden. Auch Verd\u00e4chtige und Verurteilte haben Grundrechte. Das unterscheidet einen Rechtsstaat vom Polizeistaat.\r\nMit dem neuen Polizeigesetz soll auch der besondere Schutz f\u00fcr Journalist/Innen und Beratungsstellen aufgehoben werden. Die Polizei darf diese dann auch nach eigenem Ermessen abh\u00f6ren und \u00fcberwachen. Das ist ein drastischer Eingriff in die Pressefreiheit und gef\u00e4hrdet das Vertrauen in diese Institutionen.\r\nDas neue Polizeigesetz r\u00fcttelt an der k\u00f6rperlichen Unversehrtheit, der pers\u00f6nlichen Freiheit, dem Recht auf informationelle Selbstbestimmung, dem Briefgeheimnis, der Unverletztlichkeit der Wohnung. Das Gesetz ist ein Angriff auf unsere Grundrechte und die Grundfesten des Zusammenlebens. Das k\u00f6nnen wir nicht hinnehmen!\r\n\r\nRassismus und Abschottung\r\n\r\nViele der Ma\u00dfnahmen, die im Gesetz vorgesehen sind, richten sich offensiv gegen Gefl\u00fcchtete und Menschen, die nicht in Deutschland geboren sind. Die Einstufung von Refugee-Unterk\u00fcnften als sogenannte \u201egef\u00e4hrliche Orte\u201c stellt alle dort Lebenden unter Generalverdacht und l\u00e4sst zu sie jederzeit zu kontrollieren. Hausarrest und technische \u00dcberwachung erleichtern es, Menschen jederzeit orten und abschieben zu k\u00f6nnen.\r\nSt\u00e4rkere Grenzkontrollen mithilfe von Video\u00fcberwachung und Gesichtserkennung dienen nicht der allgemeinen Sicherheit sondern der Abschottung nach au\u00dfen.\r\nDer Staat nimmt sich hier das Recht, Menschen als Kriminelle zu behandeln, sie zu bevormunden und zu schikanieren und das ausschlie\u00dflich auf Grund ihrer Hautfarbe und Herkunft. Das ist keine Sicherheitspolitik, das ist rassistische Ausgrenzung. Flucht ist kein Verbrechen \u2013 Bewegungsfreiheit ist Menschenrecht!\r\n\r\n\u00dcberwachung um jeden Preis\r\n\r\nDas neue Gesetz w\u00fcrde die Video\u00fcberwachung noch mehr ausweiten: Auch die Polizeibeh\u00f6rden, also die Kommunen, sollen k\u00fcnftig mit Kameras \u00fcberwachen d\u00fcrfen. Kennzeichen, Ort, Zeit und Fahrtrichtung von Autos soll die Polizei zu bestimmten Anl\u00e4ssen automatisch erfassen d\u00fcrfen. In grenznahen Gebieten soll sogar automatische Gesichtserkennung erm\u00f6glicht werden.\r\nDer \u00d6ffentliche Raum wird so immer mehr \u00fcberwacht. Der Staat soll \u00fcberall zuschauen.\r\nZusammen mit den vielen digitalen \u00dcberwachungsprogrammen f\u00fchrt das zum \u201egl\u00e4sernen Menschen\u201c. Wir lassen uns nicht belauschen und \u00fcberwachen. Wir haben ein Recht auf Privatsph\u00e4re!\r\n\r\nGrungrechte statt Polizeisonderrechte\r\n\r\nAuch Polizeibeamt*innen im Dienst begehen Straftaten. Es kommt jedoch selten zu Prozessen gegen sie und sie werden praktisch nie verurteilt, obwohl Betroffene Anzeige erstatten. . Wir fordern dagegen, auch Polizist*innen zur Verantwortung zu ziehen: Mit einer Kennzeichnungspflicht k\u00f6nnten Beamt*innen nach Straftaten juristisch verfolgt werden. Eine Beschwerdestelle k\u00f6nnte ein Beginn sein, Polizei zu kontrollieren und Missst\u00e4nden entgegenzuwirken \u2013 wenn sie unabh\u00e4ngig ist. Das w\u00fcrde die Grundrechte Aller st\u00e4rken.\r\nStattdessen bleiben diese wiederholten Forderungen unbeachtet, Polizist*innen \u201ekontrollieren\u201c sich gegenseitig und interne Ermittlungen enden weiterhin an einer Mauer des Schweigens. Keine andere Berufs- oder Bev\u00f6lkerungsgruppe hat solche Sonderrechte.\r\n\r\nParagraphen\r\n\r\nMilitarisierung, Bewaffnung (\u00a740)\r\n\r\nEinige Polizeieinheiten tragen k\u00fcnftig Handgranaten, Maschinengewehre und anderes milit\u00e4risches Equitment.\r\n\r\nHausarrest & Fu\u00dffesseln (\u00a721)\r\n\r\nDie Polizei kann dir zuk\u00fcnft verbieten dich an bestimmten Orten aufzuhalten, dir den Kontakt zu bestimmten Menschen untersagen, dich zwingen einen festen Bereich nicht zu verlassen oder dich unter Hausarrest stellen. Dazu darf sie dich auch zwingen eine elektronische Fu\u00dffessel zu tragen.\r\n\r\nVideo\u00fcberwachung, Gesichtserkennung (\u00a7 15, \u00a7 58 sowie \u00a7 30 PVB)\r\n\r\nZuk\u00fcnftig dar der \u00f6ffentliche Raum noch st\u00e4rker video\u00fcberwacht werden. Dazu darf auch Gesichtserkennungstechnik und Kennzeichenerfassung eingesetzt werden. Es kann dadurch genau erfasst werden, wann du dich wo in diesen Bereichen aufgehalten hast. Auch das Ordnungsamt und die Kommunen d\u00fcrfen diese Technik einsetzen. Sie ist nicht auf konkrete Ermittlungen beschr\u00e4nkt.\r\n\r\nTelefon- und Handy\u00fcberwachung (\u00a7\u00a7 66-70)\r\n\r\nZuk\u00fcnftig d\u00fcrfen Polizeibeamte nicht nur Telefonate abh\u00f6ren, sondern sie auch unterbrechen. Das gilt auch f\u00fcr ganze Funkmasten. Der Handyempfang kann so etwa in ganzen Gebieten (etwa bei Demos) unterbrochen werden. Au\u00dferdem d\u00fcrfen auch die Bestandsdaten eines Mobiltelefons ausgelesen werden. Also: Name, Adresse, Kontodaten, PIN & PUK Nummer, gespeicherte Passw\u00f6rter, alles Accountzug\u00e4nge auf dem Telefon, Mailaccounts und gespeicherte Bilder und Kontakte.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 13, 
+                                        "name": "Anarchist Black Cross Dresden", 
+                                        "biography": "Anarchist Black Cross Dresden ist ein Kollektiv von Menschen das sich zum Ziel gesetzt hat Ideen \u00fcber Anarchismus und Solidarit\u00e4t zu verbreiten. Wir organisieren gemeinsame Abende um Briefe an Gefangene zu schreiben, Spendenaktionen und Vort\u00e4ge, die \u00fcber verschiedene Orte der Welt informieren. Durch das Verbreiten von Informationen \u00fcber Gefangene und Repression gegen soziale Bewegungen, hoffen wir Menschen in Dresden Mechanismen von Repression aufzuzeigen, um diese besser bek\u00e4mpfen zu k\u00f6nnen und eine Kultur der Solidarit\u00e4t in der Gesellschaft zu entwickeln.\r\n\r\nABC Dresden unterst\u00fctzt anarchistische und antiauthorit\u00e4re Aktivist*innen, deren Ideen anarchistische Grunds\u00e4tze nicht wiedersprechen. Wir unterst\u00fctzen auch Menschen, die w\u00e4hrend ihrere Zeit im Gef\u00e4ngnis Anarchist*innen werden.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 713, 
+                                "guid": "8e6aecc6-acbb-52bb-87be-2d06f0ff0640", 
+                                "logo": null, 
+                                "date": "2018-12-28T20:30:00+01:00", 
+                                "start": "20:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "EQPXLK", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/EQPXLK", 
+                                "title": "M.A.R.V.I.N.", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "In Chemnitz wurde seit Fr\u00fchjahr 2016 eine \u00dcberwachung der Innenstadt geplant und zum 1. Oktober 2018 umgesetzt. In einem kurzen Abriss werden die Ereignisse zusammengefasst, die eingesetzte Technik vorgestellt und anschlie\u00dfend die parallele Entstehung einer Antwort vorgestellt.", 
+                                "description": "Als es hie\u00df, dass  Chemnitz im gro\u00dfen Stil video\u00fcberwacht werden soll, sa\u00dfen wir in Chemnitz zusammen und haben \u00fcber eine Antwort nachgedacht. Langsam entstand die Idee, die \u00dcberwacher zu \u00fcberwachen. In reichlich einem Jahr ist MARVIN entstanden, w\u00e4hrend parallel immer neue Meldungen und Erkl\u00e4rungen der Stadt zur die Presse geisterten. Am 1. Oktober war es so weit, ein Gro\u00dfteil der Kameras ging online. P\u00fcnktlich hatte auch MARVIN seinen Auftritt und rief erste Reaktionen auf den Plan. Eine fernsteuerbare Drohne mit Kamera auf Augenh\u00f6he f\u00fchr und f\u00e4hrt nun durch die Stadt und soll die \u00dcberwachung ins Blickfeld zur\u00fcckholen. Die Geschichte um die Kameras in der chemnitzer Innenstadt soll aber noch nicht abgeschlossen sein, da Sie nun auch den s\u00e4chsischen Landtag besch\u00e4ftigen", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 18, 
+                                        "name": "DaTa", 
+                                        "biography": "Seit ca. 5 Jahren im Chaostreff Chemnitz aktiv, versuche ich Kunst, Kultur und Technik in einer Stadt mit vielen Potentialen unter einen Hut zu bringen.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 716, 
+                                "guid": "0935bbb5-3f02-54f0-ad72-d204de35fbd6", 
+                                "logo": null, 
+                                "date": "2018-12-28T22:10:00+01:00", 
+                                "start": "22:10", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "V9T9UR", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/V9T9UR", 
+                                "title": "livestream - The Ghost in the Machine (Joscha)", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "Livestream from Room Adams", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 20, 
+                                        "name": "livestream", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [
                             {
                                 "id": 303, 
@@ -18649,7 +19097,243 @@
                                 "answers": []
                             }
                         ], 
-                        "ChaosZone": [], 
+                        "ChaosZone": [
+                            {
+                                "id": 709, 
+                                "guid": "fc628de1-d13c-5cca-a55e-56bc092c8fb3", 
+                                "logo": null, 
+                                "date": "2018-12-29T14:00:00+01:00", 
+                                "start": "14:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "8ZNLPJ", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/8ZNLPJ", 
+                                "title": "Haskell Game Development", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "A short view on my yet early stages of game development in Haskell and the tools I have crafted so far.", 
+                                "description": "In this talk I will give some insights into the programming language Haskell as well as common problems you encounter, when starting game development in this language.\r\n\r\nFurthermore You will see my attempts at game programming in this language, being both 2D and 3D applications, and my best attempts in completing a game, of which one is still work in progress.\r\n\r\nI will also be presenting \"Affection\", my own, still minimalist, game engine to the public and seek like-minded people to help advance it further.", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 14, 
+                                        "name": "Nek0", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 722, 
+                                "guid": "20dfd0fc-67f7-55aa-bf2f-4e629ff038b5", 
+                                "logo": null, 
+                                "date": "2018-12-29T15:15:00+01:00", 
+                                "start": "15:15", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GAP7W8", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GAP7W8", 
+                                "title": "ChaosZone goes Chaos Communication Camp - Hackspaces of the East, let's organize some Outdoor Chaos", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "We need you to make ChaosZone at Chaos Communication Camp 2019 awesome. In this session we would like to start weaving the net between our hackspaces to make it happen.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 4, 
+                                        "name": "bigalex", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 1, 
+                                        "name": "nilo", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 27, 
+                                        "name": "honky", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 718, 
+                                "guid": "a1139df6-a02e-5d1b-96f3-0a1094909659", 
+                                "logo": null, 
+                                "date": "2018-12-29T16:45:00+01:00", 
+                                "start": "16:45", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "UDCQHX", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/UDCQHX", 
+                                "title": "Hebocon - Regionalliga", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Weight-In und Vorausscheid f\u00fcr das sp\u00e4ter staffindende Hebocon-Finale", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 21, 
+                                        "name": "honky", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 712, 
+                                "guid": "14a8a211-a5f3-5495-891d-72392cd0550e", 
+                                "logo": null, 
+                                "date": "2018-12-29T18:00:00+01:00", 
+                                "start": "18:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "KHLB8Z", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/KHLB8Z", 
+                                "title": "Aus der Praxis eines studentischen Hackspaces: Selfhosting, Freie Software, Chaos", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Der Maschinenraum ist ein Hackspace, der seit fast 20 Jahren Teil des studentischen Lebens in Weimar ist. Bei uns l\u00e4uft einiges anderes - wir erz\u00e4hlen vom Kampf um freie Software, Akzeptanz dezentraler Dienste, und dem allgemeinen Chaos.", 
+                                "description": "Wir betreiben als Initative des Studierendenkonvents u.a. eigene Nextcloud-, Gitlab-, Etherpad-, Wordpress- & Mastodon-Instanzen. Und wir k\u00e4mpfen f\u00fcr freie Software in der Lehre \u2013 manchmal auch einfach nur, weil wir keinen Bock mehr haben 10 mal am Tag gefragt zu werden ob wir Photoshop cracken k\u00f6nnen.\r\nUnd auch die B\u00fcrokratie kann nicht viel mit einem Hackspace anfangen, aktuell sollen wir z.B. der Innenrevision nachweisen, dass wir nicht im kriminelle Machenschaften verstrickt sind \u2013 und zwar indem wir Selbstzensur und Total\u00fcberwachung betreiben.\r\nWir haben also genug zu erz\u00e4hlen, aber erwartet bitte keinen allzu ernsten und technischen Vortrag. :)", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 17, 
+                                        "name": "aurora", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }, 
+                                    {
+                                        "id": 22, 
+                                        "name": "mt", 
+                                        "biography": "", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 708, 
+                                "guid": "886791c2-9ab1-5779-b889-3429d5e4021e", 
+                                "logo": null, 
+                                "date": "2018-12-29T19:30:00+01:00", 
+                                "start": "19:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "GYDDDD", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/GYDDDD", 
+                                "title": "DevOps Disasters", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Abgr\u00fcnde und Gruseligkeiten aus der Operations-Welt", 
+                                "description": "Software will nicht nur gebaut, sondern auch betrieben werden. Sp\u00e4testens, wenn es sich beim Production Environment nicht l\u00e4nger um Wohnzimmerprovider, Standard-Webspace und FTP handelt, wird schnell deutlich, was ein St\u00fcck Code wirklich taugt, ob er skaliert, oder ob das, was in der Entwicklungsumgebung noch ganz nett aussah im Betrieb f\u00fcr ernsthafte Schmerzen sorgt. Doch nicht nur die Software selbst hat Grusel-Potential...", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 5, 
+                                        "name": "Stefan", 
+                                        "biography": "Hacktivism, DevOpse, Guerilla-IT, freies Radio & Co.", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 714, 
+                                "guid": "806d9394-f19e-512b-9290-91e633e9921d", 
+                                "logo": null, 
+                                "date": "2018-12-29T21:00:00+01:00", 
+                                "start": "21:00", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "SPC9JS", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/SPC9JS", 
+                                "title": "Lightningtalks Overflow", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "You didn't manage to get an official Lightningtalk slot? Here is another chance to deliver your talk. Overflow talks will be managed by the \"official\" Lightning talk pretalx system. Please do NOT submit lightningtalks directly to ChaosZone.\r\n\r\nDetailed program: https://c3lt.de/35c3overflow/schedule/\r\n\r\nCfP https://c3lt.de/35c3overflow/cfp", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 19, 
+                                        "name": "-", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 724, 
+                                "guid": "fdb28191-b9f5-5cc0-a3a1-dbb54ffdc527", 
+                                "logo": null, 
+                                "date": "2018-12-29T22:30:00+01:00", 
+                                "start": "22:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "EWKNEU", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/EWKNEU", 
+                                "title": "Fucked Up For A Cause", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "When working coding for the Atari 2600 VCS, one can assume that the guys building the hardware did some very crude fuck ups. Let my show you why this is a wrong assumption.", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 29, 
+                                        "name": "SvOlli", 
+                                        "biography": "Award winning demo coder. Favourite system: Atari 2600 VCS as released in 1977 (US) and 1979 (Europe).", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [
                             {
                                 "id": 306, 
@@ -24901,7 +25585,70 @@
                                 "answers": []
                             }
                         ], 
-                        "ChaosZone": [], 
+                        "ChaosZone": [
+                            {
+                                "id": 723, 
+                                "guid": "2020b8e5-6239-56db-a943-08d739bb83ed", 
+                                "logo": null, 
+                                "date": "2018-12-30T14:30:00+01:00", 
+                                "start": "14:30", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "CR8PGP", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/CR8PGP", 
+                                "title": "Die Alpha", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "de", 
+                                "abstract": "Demo einer Alphastation mit 21064 Prozessor. Dazu Infos \u00fcber die Geschichte des Alpha-Prozessors und wie digital drin h\u00e4ngt/gehangen ist. Sowie Eckdaten zum Alpha", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 26, 
+                                        "name": "robert0k", 
+                                        "biography": "Softwareentwickler, Informatiker und Mitglied des chch.it Chemnitz", 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }, 
+                            {
+                                "id": 717, 
+                                "guid": "a3f657ab-f9d6-5af0-9f54-2121dc894491", 
+                                "logo": null, 
+                                "date": "2018-12-30T17:10:00+01:00", 
+                                "start": "17:10", 
+                                "duration": "01:00", 
+                                "room": "ChaosZone", 
+                                "slug": "L8MWNG", 
+                                "url": "https://cfp.chaoszone.cz/35c3/talk/L8MWNG", 
+                                "title": "livestream - Closing Ceremony", 
+                                "subtitle": "", 
+                                "track": null, 
+                                "type": "Session 60min", 
+                                "language": "en", 
+                                "abstract": "Livestream from the 35C3 Closing Ceremony", 
+                                "description": "", 
+                                "recording_license": "", 
+                                "do_not_record": false, 
+                                "persons": [
+                                    {
+                                        "id": 20, 
+                                        "name": "livestream", 
+                                        "biography": null, 
+                                        "answers": []
+                                    }
+                                ], 
+                                "links": [], 
+                                "attachments": [], 
+                                "answers": []
+                            }
+                        ], 
                         "OIO Vortrags-Arena": [
                             {
                                 "id": 304, 
