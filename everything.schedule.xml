@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 2019-04-06 08:10</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-04-06 08:20</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3484,8 +3484,351 @@ Eine Diashow mit Erzählungen von teilweise abenteuerlichen Elektrokonstuktionen
         <answers/>
       </event>
     </room>
-    <room name="OIO Vortrags-Arena"/>
-    <room name="OIO Workshop-Domo"/>
+    <room name="OIO Vortrags-Arena">
+      <event id="293" guid="0bb3bf25-818e-5503-ab16-e4f6625dcd41">
+        <logo/>
+        <date>2018-12-27T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>CJQCCB</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/CJQCCB</url>
+        <title>Introduction for oio stage helpers</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Come here if you want to help running the program on stage</abstract>
+        <description>how to record&#13;
+how to use audio&#13;
+how to control lights</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Andreas Bräu</name>
+            <biography>Freifunker since 2006</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="305" guid="bb0127dd-fda6-5793-9237-bca7d0e3c31c">
+        <logo/>
+        <date>2018-12-27T10:55:00+01:00</date>
+        <start>10:55</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>9ZHVHL</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/9ZHVHL</url>
+        <title>OIO habour clean up  - Day 1</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily OIO habour clean up</abstract>
+        <description>daily OIO habour clean up</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="283" guid="98550357-b645-5683-9e6b-af20295d8fb1">
+        <logo/>
+        <date>2018-12-27T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>01:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>WNDAXJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WNDAXJ</url>
+        <title>Opening Session</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>The official start of our orbit. With a keynote and a short introduction of all involved communities.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Andreas Bräu</name>
+            <biography>Freifunker since 2006</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="229" guid="be0461ef-ad9f-51cb-be5a-f6dd3adf091e">
+        <logo/>
+        <date>2018-12-27T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>DMQDTK</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/DMQDTK</url>
+        <title>Freifunk IoT</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Bei diesem Talk stellen wir das Freifunk-IoT Projekt sowie seine Module vor, und zeigen generelle Möglichkeiten auf, das Freifunk-Netz nicht nur als Transitnetz zu verwenden, sondern auch smarte Sensoren einzubinden.</abstract>
+        <description>Freifunk-IoT ist ein Projekt, welches ein Framework zum Einbinden von offenen Sensoren in Freifunk-Netze entwickelt und anbietet.&#13;
+Es gibt Ressourcen zu Hardware-Modulen wie Anleitungen und Platinenlayouts, und fertige Software für die Sensoren.&#13;
+&#13;
+Zusätzlich dazu stellt Freifunk-IoT ein serverseitiges Framework bereit, welches die Daten aggregiert, auswertet, visualisiert und wieder bereitstellt.&#13;
+&#13;
+In diesem Talk wird der aktuelle Stand des Projektes vorgestellt, sowie im Anschluss eine Diskussion zur Weiterentwicklung angeregt.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>margau</name>
+            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
+          <person id="92">
+            <name>adnidor</name>
+            <biography>Mastodon: @adnidor@chaos.social</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="270" guid="b1e00343-506c-51c4-92f5-6483562760d0">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>8GTXCY</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/8GTXCY</url>
+        <title>Eventphone: früher, heute, morgen.</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Wir haben im letzten Jahr die Hard und Software des Phone Operation Center fast vollständig ersetzt. Der größte Schritt aus Benutzersicht war, die langen DECT Registrierungsschlangen gegen eine Selbst- oder Auto-Registrierungsfunktion zu tauschen. In einem Vortrag möchten wir zeigen was wir gemacht haben, warum wir agil arbeiten, wie eigentlich ein Minimum Viable Product (MVP) geht, welche Fehler wir gemacht haben und im Nachgang eure Fragen beantworten.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="63">
+            <name>ST Kambor-Wiesenberg</name>
+            <biography>ST ist Künstler. Er hat eine Ausbildung zum Energieelektroniker absolviert, Informatik, Physik, generalistisches Management sowie bildende Kunst studiert und arbeitet neben seinen Kunstprojekten als Agile Coach und Scrum Master.&#13;
+&#13;
+Seit 2000 treibt er sich im Umfeld des Chaos Computer Club und den entsprechenden Veranstaltungen herum. Er ist Mitgründer der BlinkenArea und seit 2003 Teil des Eventphone Teams.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="268" guid="ea041ba6-e43b-52ea-9310-f36a7872abf5">
+        <logo/>
+        <date>2018-12-27T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>BRRGEK</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BRRGEK</url>
+        <title>End-to-end encryption for secure, zero-knowledge file sync &amp; share</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>In this talk I'll detail the Nextcloud End-to-end Encryption design, going through the steps of creating the private/public key pair, encrypting and syncing it, encrypting files and uploading them, adding devices to the trusted circle and so on.</abstract>
+        <description>Nextcloud's E2EE is designed to protect user data from the server. The goal was to let users sync and share folders (and their contents) as easily as possible without the server ever having the ability to access the data. That rules out a web interface and has other limitations, but that's the price for knowing your server can't spy on you. It isn't and was never meant for ALL your data, as you should use a solution purely focused on E2EE instead! The nice features of Nextcloud, from online document editing to public sharing, will work on all your files except those you put in E2EE folders.&#13;
+&#13;
+The talk is reasonably technical - it doesn't delve in to code or algorithms but sticks to the general design and flow of data: how do we create and share public keys, how do we get the private key on another device without the server being able to access it, how do we encrypt files and share them and so on.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Jos Poortvliet</name>
+            <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="244" guid="760fa3e5-8307-5d44-9248-bc28b510bbe0">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>XCU9PD</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/XCU9PD</url>
+        <title>State Of The Void</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Void Linux is a general purpose operating system based on the Linux Kernel. In this talk we'd like to give an introduction about Void, why we think our work matters and talk about the challenges that we were faced during the last year.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="43">
+            <name>Enno Boland</name>
+            <biography>An active member of the open source community since his teenage years. Former contributor of the Suckless project, then Node.js guy, now distribution maintainer.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="277" guid="6cfe5b4a-6517-5f03-acfd-254718f91f57">
+        <logo/>
+        <date>2018-12-27T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>BJMGW8</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BJMGW8</url>
+        <title>Detection of refugee boats on the Mediterranean with a drone by using FOSS</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>As NGOs continuing searching the Mediterranean by boat and a few planes, it would be good to find additional effective ways to find people in distress in the sea. To be able to search a huge area in the Mediterranean its good to get more eyes in the sky. For this purpose I want to show you and discuss computer-vision approaches to detect refugee boats which are able to run on basic minicomputers (like the RPI) which are cheap enough to put on a simple drone. All done by using free open source software. Furthermore I want to present a dataset and the current codebase which enables you to help searchwing/seawatch to work on the topic</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="86">
+            <name>Petrosilius</name>
+            <biography>...</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop-Domo">
+      <event id="287" guid="589930fa-a993-54cc-93f9-b6eafdd97cc6">
+        <logo/>
+        <date>2018-12-27T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>KFCQED</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/KFCQED</url>
+        <title>Freifunk-Workshop: Was tun gegen den Admin-Mangel</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Diskussionsrunde: Ein Teil der Freifunk-Krise seit 2016 in vielen Communities ist die Admin-Fluktuation. Was sind wirksame Modelle dagegen?</abstract>
+        <description>"Wenn Freifunk performed, dann hört man nichts. Und wenn es nicht läuft, dann gibt es Schimpfe" ist ein oft gehörtes Klagelied. &#13;
+Darüber hinaus: Solange es gut läuft werden von den "Routerverteilenden" immer mehr Geräte herausgestellt... bis es nimmer läuft. Und dann sind wieder die Admins schuld. &#13;
+Umgekehrt haben sich viele Admins über die Jahre ihre Standards so weit entwickelt, dass es für Dazukommende schwierig ist aufzuschließen, auch weil Dokumentation häufig allenfalls rudimentär und/oder veraltet ist. &#13;
+Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="297" guid="f185741b-3aaf-5b51-914e-6406c9df8e1c">
+        <logo/>
+        <date>2018-12-27T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>MLQWXT</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/MLQWXT</url>
+        <title>nerds go humanitarian aid</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Ein Workshop um Möglichkeiten aufzuzeigen, wie und wo sich Betätigungsfelder für Nerds, Geeks und Specialists im humanitären Bereich ergeben...operativ werden statt nur Geld spenden.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="60">
+            <name>Sebastian</name>
+            <biography>CEO von CADUS e.V.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="300" guid="e3a587be-30ad-511c-a706-d24b48d1581a">
+        <logo/>
+        <date>2018-12-27T20:30:00+01:00</date>
+        <start>20:30</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>VWQJGS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/VWQJGS</url>
+        <title>GNUnet e. V. Mitgliederversammlung</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Mitglieder Versammlung des GNUnet e. V.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="79">
+            <name>xrs</name>
+            <biography>Mitglied des GNUnet e. V.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="503" guid="3a8dd9e1-a581-516d-b3e4-19418371591a">
         <logo/>
@@ -4729,6 +5072,208 @@ Morelle comes from an old Hamburg family of music poodles and with his sets, whi
           <link href="https://hearthis.at/tasmo/">https://hearthis.at/tasmo/</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 1">
+      <event id="245" guid="f2444f75-7b94-5026-bb2e-d6c5a9ce7fa5">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 1</room>
+        <slug>Z98HRQ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z98HRQ</url>
+        <title>Freifunk IoT-Demo</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>An dieser Präsentationsinsel wird das Konzept und verschiedene interaktive Ausstellungsstücke von Freifunk-IoT gezeigt.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>margau</name>
+            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+          <person id="38">
+            <name>Hibas123</name>
+            <biography>Hobby Entwickler, mit anscheinend zu viel Freizeit :)</biography>
+          </person>
+          <person id="92">
+            <name>adnidor</name>
+            <biography>Mastodon: @adnidor@chaos.social</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 2">
+      <event id="265" guid="0435ccb3-5d7c-5f90-a52d-88d964a6fedc">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 2</room>
+        <slug>Z37GSP</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Z37GSP</url>
+        <title>Seenotrettung</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Seenotrettungs-NGOs präsentieren ihre Arbeit, machen auf die Kriminalisierung von humanitärer Hilfe aufmerksam und freuen sich auf Gespräche und Austausch.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="55">
+            <name>just humans</name>
+            <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 3">
+      <event id="261" guid="052afba9-6f2d-52c7-bb4b-7bd7e4753242">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 3</room>
+        <slug>HYJXWE</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HYJXWE</url>
+        <title>Lots of blinking stuff, Pixelflut and Intergalaktische Reisepässe</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Lots of blinking stuff and Pixelflut. Selling Intergalaktische Reisepässe</abstract>
+        <description>We will populate a  Presentation isle with blinking decoration and sculptures.&#13;
+&#13;
+Additionally we will provide a 40 Gb/s Pixelflut server.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="52">
+            <name>tsys</name>
+            <biography>I'm a software developer/network administrator at Freifunk Kiel and active member of the Open Infrastructure Orbit Orga.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 4">
+      <event id="272" guid="cf0bd4d5-ecdb-5822-a45f-978f92bba358">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 4</room>
+        <slug>NVXWSM</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NVXWSM</url>
+        <title>Nextcloud</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>en</language>
+        <abstract>We're the Nextcloud community (nextcloud.com/yourdata/) and we're here to meet people and chat about self-hosting, decentralization, federation, and many more topics! We can also show you Nextcloud demos, help you to get involved in our community, and of course, tell you everything about our new Nextcloud Include diversity program!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Jos Poortvliet</name>
+            <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
+          </person>
+          <person id="68">
+            <name>shiro</name>
+            <biography>I'm shiro (shiromarieke.github.io) and I work on Nextcloud :)</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 5">
+      <event id="271" guid="51c9528c-1a01-5eea-abd3-3b762798bbe4">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 5</room>
+        <slug>NXGJRN</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NXGJRN</url>
+        <title>Global Innovation Gathering</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>en</language>
+        <abstract>GIG, the global network of social and technological innovators is bringing its members and their projects to the Congress for a showcase and interactive workshops</abstract>
+        <description>- will follow -</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="64">
+            <name>GIG – Global Innovation Gathering</name>
+            <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
+&#13;
+Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Thementisch 6">
+      <event id="264" guid="112c596e-4b94-559b-b00b-ef92a5de53ca">
+        <logo/>
+        <date>2018-12-27T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>12:00</duration>
+        <room>OIO Thementisch 6</room>
+        <slug>W9G9FB</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/W9G9FB</url>
+        <title>Freifunk Event Installationen und autarke Installationen</title>
+        <subtitle/>
+        <track/>
+        <type>Präsentationsinsel (alle 3 Tage)</type>
+        <language>de</language>
+        <abstract>Freifunk temporär für kleine, mittlere und große Veranstaltungen. Freifunk kabelungebunden autark betreiben.</abstract>
+        <description>Die Präsentation von Freifunk Düren zeigt zwei Dinge, einmal, wie Freifunk für Veranstaltungen angeboten werden kann und wie eine Versorgung ohne Kabelanbindung mit Strom und Mobilfunk möglich ist. Freifunk Düren hat vier Jahre Erfahrungen dazu sammeln können, wie auf Events bis zu 300 Clients versorgt werden und wie praxisnah Sachen funktionieren oder nicht. Ursprünglich war das Equipment groß und schwer. Wir zeigen, wie die Installationen so klein werden können, dass das Kisten schleppen entfällt und der Stromverbrauch so niedrig wird, dass mit Solarzellen kleineren Ausmaßes oder Powerbank der Betrieb funktioniert. Vom handlichen Freifunk2go mit LTE Stick für 30 Clients, um Freifunk in öffentlichen Verkehrsmitteln oder im Park mobil zu realisieren, bis zu einem mobilen LTE Offloader für 300 Clients, werden wir unserer Geräte zeigen. Auch die Aussicht, irgendwann Freifunk auf der Annakirmes anbieten zu können, einem Event in Düren mit bis zu 50.000 Menschen, die gleichzeitig auf dem Kirmesplatz sind, können wir berichten, was dafür benötigt wird. Der Stadt Düren konnten schon erste Vorschläge gemacht werden, die Orientierung dazu ist das WLAN auf dem Congress.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="42">
+            <name>Matthias Schmidt</name>
+            <biography>Seit September 2014 aktiv bei Freifunk Düren und Aachen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="">
@@ -9647,8 +10192,664 @@ ABC Dresden unterstützt anarchistische und antiauthoritäre Aktivist*innen, der
         <answers/>
       </event>
     </room>
-    <room name="OIO Vortrags-Arena"/>
-    <room name="OIO Workshop-Domo"/>
+    <room name="OIO Vortrags-Arena">
+      <event id="303" guid="ae80ba34-8a38-566f-bf6e-506a525f7a96">
+        <logo/>
+        <date>2018-12-28T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>ZJ99EX</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZJ99EX</url>
+        <title>OIO habour clean up</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily habour clean up @ OIO</abstract>
+        <description>daily habour clean up @ OIO</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="280" guid="a6bf60a6-dc23-5df1-9eea-eedbe8650994">
+        <logo/>
+        <date>2018-12-28T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>FCADXP</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FCADXP</url>
+        <title>OIO Daily Standup day 2</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Let's start into day 2</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="278" guid="a5cd48d1-6d8c-5be9-a17b-f229db0e3689">
+        <logo/>
+        <date>2018-12-28T12:00:00+01:00</date>
+        <start>12:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>V8RTSW</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/V8RTSW</url>
+        <title>Open Prototype Fund</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>The Prototype Fund is a funding program for Public Interest Techfirst of its kind in Germany and supports independent software developers, hackers and creative people in implementing their open source ideas from concept to first demo. Since 2016, we (Adriana, Elisa, Fiona, Julia and Katharina) have been working to break down existing structures and narratives in the field of innovation funding and to encourage meaningful digital solutions for society in Software Infrastructure, IT-Security, Data Literacy and Civic Tech. We want to get to know you and your ideas and talk about how we, together with politicians, developers and other initiators from the (active) civil society, can best support, develop and make visible good digital-social innovation practices from the perspective of the community. Which decisions are necessary in the future, what are meaningful political demands? And which are the next big things in Tech? Get to know us, ask us everything, recover from the hustle and bustle of the congress!</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="81">
+            <name>Katharina Meyer</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="292" guid="1e5859eb-8231-57c1-a0b4-083215923cd4">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>7BRU3D</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/7BRU3D</url>
+        <title>Empowering rural Africa using the freifunk model</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>envisioning a thriving, connected future amidst conflict-struck Nigeria. Creating opportunities for rural women and youth, in a scalable, inclusive way.</abstract>
+        <description>###About the presenter&#13;
+Paul Henckel from TribeGroup (DK-based) will share his thoughts and plans for an ongoing resilience project with Fantsuam (NG-based) in creating ICT coworking spaces for rural women and youths in Nigeria, using the knowledge from Freifunk communities. &#13;
+&#13;
+###About TribeGroup&#13;
+TribeGroup is a Danish impact investment startup with mission to support or invest in other companies, projects or initiatives that have a potentially high social or environmental impact. It currently directs WorkHive, a flexible, affordable, inclusive and carbon negative coworking space in Copenhagen. The collaboration with Nigerian-based Fantsuam tries to integrate best practices of Freifunk, Fantsuam and WorkHive to create a new coworking space in Kafanchan, Nigeria.&#13;
+&#13;
+###About Fantsuam&#13;
+Our Mission at Fantsuam Foundation (www.fantsuam.org) is to eliminate poverty and disadvantage among rural women and youths in Nigeria through integrated development programs. At our ICT Academy,In 22 years, we have empowered 12,000, and we aim to educate women and youths with relevant digital literacy skills to manage their development priorities, providing opportunities for girls to become developers and deploy ICT solutions for their livelihoods. Our services have become even more imperative as our communities come out of decade long cycles of sectarian violence. We plan to reach 25,000 more by 2020.&#13;
+&#13;
+Community Network, is a resilient communication platform in which the community owns, manages and maintains its own communication infrastructure provides the opportunities for rural youths to gain the necessary hands-on experience. Fantsuam Foundation hosts the Google Developers Group in Kafanchan, this is another resource that is being deployed to provide ICT skills and knowledge opportunities for our youths.&#13;
+&#13;
+We are now  engaged in high level policy advocacy for affordable and available internet access for the unconnected in rural Nigeria. Obtaining the TVWS concession for the unconnected in Nigeria will begin to make for an inclusive national telecommunication effort. It is within that context that Fantsuam continues to support the increasing number of youths, particularly females, who now recognise the career opportunities available in ICT. Our ICT Academy provides basic digital literacy training and has expanded to provision of training in computer and network maintenance. In order to optimise the use of resources and make our services more accessible, we have located an office space in the Kafanchan Railway town where we would like to set up an ICT Co-Working space where budding entrepreneurs can have ready access to training and mentoring facilities, office space with assured power and internet access at affordable prices.&#13;
+&#13;
+Our efforts at tackling poverty through an integrated approach has meant that we also provide social services in public health, menstrual health hygiene, sanitation marketing, peace building, entrepreneurship training supported by microfinance. We currently have 32 full time staff and a large pool of volunteers who are invited to join specific projects and programs, which are usually of short duration. Our work in peace building led us to build six new apartments for victims of recent sectarian crisis, and we continue to explore opportunities to enable our communities to resume their normal lives. Our model of farming cooperatives, called the TIME-AID, empowers individuals and families to engage in commercial farming with the goal of household food security, family health insurance, adequate housing and education for all our children.&#13;
+&#13;
+Fantsuam Foundation’s integrated approach to develop has enabled it to have an inbuilt resilience to cope with the challenges of rural development, global economic challenges whose effects are usually more devastating at the base of the pyramid, while we continue to develop initiatives that helps the people to assert their humanity and freedom from poverty.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="76">
+            <name>Paul Henckel</name>
+            <biography>Let me cut it short: *I'm basically a care-taker.* &#13;
+I care for you, and I care for myself, and I care for our mutual existence on this planet.&#13;
+If I should recap my life then this aspect is pretty much the essence of me actually. I grew up with my mum and big sister and times werent always easy, so I learned to care because there was no other option than that to make our life work.&#13;
+'Caring for others' became a big part of me, so as I went into adolescence and adulthood I see patterns that I was stressing my self out too much in trying to find new people to 'care for', new relations. We all know where that kind of behavior goes, when 'caring runs rampant' and you try care for people who dont care similarly for you -&gt; stress, depression, anxiety, fear of rejection, etc.&#13;
+That was OK too, because that in turn taught me a lot about caring for myself...&#13;
+Go read some more on the anthropological and socio-economic aspects of caretaking, it's a very interesting topic if not a form of art/craft in itself.&#13;
+&#13;
+Giving back to the world&#13;
+I'm also a philosopher, software developer, mathematician, statistician, data visualiser, test engineer, consultant, entrepreneur, photographer, inventor, permaculture designer, volunteer, counsellor, , interaction designer, ethnographer, business developer, market analyst, etc. and am truly blessed with many close friends that I can team up with to co-create 'truly good stuff with a focus and a purpose'.&#13;
+I'm currently working on WorkHive - the tagline of which is 'Making space for people and plants to be productive'. It's a co-working space for the self-employed, students and 'struggling' (unemployed, seniors, etc) to sit together and work on their own projects, or team up at different workshops and attend seminars. It's a networking platform, enabling people to be more productive on their own things, and to get inspiration from others in the same or different situations and with different perspectives - being able to do short, informal reviews of your own work in a safe space together with an 'unwilling third person' has a huge implication for the success of your work before sending it out to your real audience in the big world.&#13;
+(What about the plants? Yeah, I will tell you about it when you have signed up, but as you know I'm into permaculture, sustainable livelihoods, aquaponics and I have quite a few good horticulturist friends and biologists who are helping me do some amazing stuff)&#13;
+&#13;
+Thank you for your time, create the world you want to live in, today!&#13;
+Paul Olutokunbo Kristian Henckel-Ojo</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="310" guid="6d0ea2d9-aa91-5bba-84af-21dd73038d81">
+        <logo/>
+        <date>2018-12-28T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>SWS3WR</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/SWS3WR</url>
+        <title>Careables: Open Source Hardware in Health+Care [Introduction]</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Careables</abstract>
+        <description>Calling all hackers, designers, makers, carers, and healthcare professionals!&#13;
+&#13;
+What are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?&#13;
+&#13;
+Through Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.&#13;
+&#13;
+Accessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.&#13;
+&#13;
+It's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">
+            <name>Sandra GIG</name>
+            <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
+&#13;
+Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="231" guid="2ff22102-25a3-5bd9-8e77-ef169442f6a8">
+        <logo/>
+        <date>2018-12-28T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:42</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>WUBRSK</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WUBRSK</url>
+        <title>GSoC 2018 - project presentations</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Some students will present results of their projects</abstract>
+        <description>* zoobab shows "MultipathTCP and Openwrt improvements with eBPF"&#13;
+* mwarning talks about the "Meshenger App"</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Andreas Bräu</name>
+            <biography>Freifunker since 2006</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="269" guid="eb03cae4-9fb8-5ac6-b3b6-132cd07a7db0">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>V3XY87</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/V3XY87</url>
+        <title>Project Parker: Klassisches Routing für Freifunk</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Gluon mit BATMAN setzt klassisch auf ein großes Layer 2 Netz, was in den großen Freifunk Communities zu Problemen führt. Mit unseren Bemühungen in "Project Parker" versuchen wir diese Probleme durch den Einsatz von klassischem Routing zu umgehen. In unserem Talk stellen wir unsere Architektur vor und zeigen welchen Stand unsere Umsetzung erreicht hat.</abstract>
+        <description>Gluon mit BATMAN setzt klassisch auf ein großes Layer 2 Netz, was in den großen Freifunk Communities zu Problemen führt. Diese Communities begegnen den Problemen i.d.R. mit der Segmentierung des Netzes in Domains. Innerhalb dieser Domains wird allerdings das klassische Netz (BATMAN) eingesetzt.&#13;
+&#13;
+Mit "Project Parker" versuchen wir diese Probleme durch klassisches Routing in einem hierarchischem Netz zu lösen: Jeder Freifunk-Knoten mit Uplink ist Gateway für sein Netzsegment, macht DHCP und ist DNS-Cache. Das Routing mit BATMAN beschränkt sich nun auf kleine Mesh-Netze innerhalb des gesamten Netzes.&#13;
+&#13;
+Wir stellen in unserem Talk unsere Architektur vor und zeigen welchen Stand unsere Umsetzung erreicht hat.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="61">
+            <name>Chris Fiege und Jan Lübbe</name>
+            <biography>Chris Fiege (chrissi^) und Jan Lübbe (shoragan) sind ein Teil der Technik-Abteilung beim Freifunk Braunschweig.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="296" guid="d69cd444-9df3-5e9b-a79f-b70b7b3ec98d">
+        <logo/>
+        <date>2018-12-28T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>01:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>BBGXPY</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BBGXPY</url>
+        <title>Wem ist noch zu helfen</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Global NGO Players vs. (linke) Grassroots-Gruppen - wer entscheidet, wem wann wie geholfen wird...und wo verkommt humanitäre Praxis zum politischen Spielfeld</abstract>
+        <description>Aus Kritik am humanitären System der UN und seinen beteiligten Groß-NGOs haben sich viele (linke) Grassroots-Gruppen gegründet. Auch diese können natürlich nicht ohne finanzielle Mittel arbeiten, und sind somit auf Spenden, ergo auf Öffentlichkeitsarbeit angewiesen. &#13;
+Wie entscheiden die "Großen" wann und wie und wem geholfen wird? Welche Lücken bleiben dabei (zwangsläufig)?&#13;
+Und wie werden diese Entscheidungen bei den Grassroots getroffen? Und welche Auswirkungen auf die Wahrnehmung von Krisen hat ihre Öffentlichkeitsarbeit? "Trommeln gehört  zum Handwerk", aber wo läuft linkes humanitäres Engagement Gefahr, in rein politisch motivierten Aktivismus abzudriften? Und wenn das schlimm ist, warum? &#13;
+Eine kritische Betrachtungsweise.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="60">
+            <name>Sebastian</name>
+            <biography>CEO von CADUS e.V.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="267" guid="0519cc1f-4c12-53f0-a83d-5958edcfc148">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>KB9VRZ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/KB9VRZ</url>
+        <title>Get your data back under control - 200 things you can do with Nextcloud</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>We live in a world of data theft and broken clouds and I believe it is time to decentralize, host at home or a local provider we trust. Nextcloud is an option that can take care of many of your file sync'n'share, chat and document editing needs, and I'll show how and why!</abstract>
+        <description>The data from many people is floating around on 'clouds', regularly stolen and traded. We need to decentralize, host ourselves or at a large number of small, local providers we can trust! Probably the most used solution for that today is Nextcloud, which through its app ecosystem of almost 200 apps can be extended to do lots of things.&#13;
+&#13;
+With Nextcloud you can sync and share files, access your calendars and contacts, share holiday pictures with your family or play music. But also manage your passwords, track your phone through GPS, draw, read news, chat and have audio/video calls, read mail, manage tasks and much more.&#13;
+&#13;
+The community has developed almost 200 apps that do all that and more, and loads of tutorials on how to install Nextcloud on a Nuc, in a VM, on a raspberry Pi and more. If self-hosting isn't realistic for you, we have Simple Signup which sets you up at a Nextcloud hosting provider close to you in a few clicks.&#13;
+&#13;
+This talk is for people not yet familiar with Nextcloud!</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="59">
+            <name>Jos Poortvliet</name>
+            <biography>People person, technology enthusiast and all-things-open evangelist. Doing marketing at Nextcloud, previously Community Manager at ownCloud and SUSE, recovering business consultant with decade long involvement in the KDE community. Enjoys avoiding traffic and public transport on bike through Berlin, but only when the weather is good. Loves cooking for friends and family and playing with the dog.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="214" guid="b0e5ac97-960a-516c-a1ac-5cda9129b0f4">
+        <logo/>
+        <date>2018-12-28T19:30:00+01:00</date>
+        <start>19:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>ELUSFV</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ELUSFV</url>
+        <title>Menschenrechte, Bildung, open infrastructure</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Die 3 Begriffe werden beleutet und Zusammenhänge hergestellt</abstract>
+        <description>Heute hat sich eindeutig das Internet durchgesetzt und es stellt sich die Frage, wie gehen wir damit um. Die AkteurInnen im Internet sind Menschen oder von Menschen gemachte Programme. Als Grundlage im Internet sollten die nun schon 70 Jahre alten Menschenrechte gelten. Auch im Bildungsbereich verändert das Internet die bisherigen Strukturen unseres Bildungssystems, mMn sogar weltweit. Menschen begegnen sich auf Augenhöhe. Die open infrastructure hilft dabei Bildung für Menschen zugänglich zu machen und Menschen ein selbstbestimmtes Leben führen zulassen. Die "Hierachien im Kopf" werden von dem realistischen Denken "wir sind alle gerade jetzt auf der Oberfläche von Planet Erde auf Augenhöhe" abgelöst. Dies ist der Prozess, den wir gerade in vielen Bereichen unserer Gesellschaft beobachten.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="16">
+            <name>Peter Babnik (Petergoge)</name>
+            <biography>Ich komme aus Koblenz und bin "Musik-Peter-goge". Mich interessiert die derzeitige technische Entwicklung und daher mache ich gerne bei 35c3 mit. LG Peter</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="273" guid="ee10b98c-7538-5354-b486-66e363cbb44f">
+        <logo/>
+        <date>2018-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>W9RHXR</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/W9RHXR</url>
+        <title>Fight for the bytes! Fun with Four Megabytes Flash</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>The majority of Freifunk mesh routers only have 4mb flash and 32mb memory. The talk wants to start a discussion about possibilities and limits for future support of these devices.</abstract>
+        <description>Lot's of mesh communities and even OpenWrt want to drop support for 4mb flash / 32mb memory devices. Where is the size and memory increase coming from? Can we do it in a different way or do we have to accept defeat? &#13;
+&#13;
+- Forcing OpenWrt to diet: What knobs can we tweak? What gains and tradeoffs can we expect?  &#13;
+- A short introduction to ubus over HTTP&#13;
+- Stupid ideas and experiments.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="70">
+            <name>mt</name>
+            <biography>weimarnetz.de</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="312" guid="b4fdd0df-1969-5b9e-9bf1-277eb1411d6b">
+        <logo/>
+        <date>2018-12-28T22:30:00+01:00</date>
+        <start>22:30</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>DAN8AX</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/DAN8AX</url>
+        <title>Wifi4EU - broken by technical specification</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>With the Wifi4EU programm the EU is planning to spend 100 million € by 2020 to subsidise a centralized surveillance infrastructure for centers of public life in the EU. The talk will lay out how Wifi4EU is supposed to work both administratively and technically, where there are problems with the later and what is and can be done about it.&#13;
+&#13;
+Slides: https://zenodo.org/record/2527538#.XCUXplxKjIU</abstract>
+        <description>With the Wifi4EU programm [1] the EU is planning to subsidies the installation of free Wi-Fi with 120 million € until 2020. The installations are planned to be "... free of charge, free of advertising and free from commercial re-use of data. ..." [2] and aim "... to equip every European village and every city with free wireless internet access around the main centres of public life. ..." [1]&#13;
+&#13;
+Unfortunately the technical specifications implemented in the first call on the 7th - 9th of November [3] tell a different story. So far 42 Million € are planned to be spend in a flawed design.&#13;
+&#13;
+Amongst other problems they include:&#13;
+&#13;
+* requirements for a centralized authentification infrastructure - like eduroam [4] (FAQ 23),&#13;
+* inherent IT security problems - embedded snippets in the captive portals [4] (FAQ 26) and&#13;
+* proprietary standards - hotspot 2.0. [4] (FAQ 27)&#13;
+&#13;
+Following a talk at the wireless community weekend in May this year [5] the talk will include:&#13;
+&#13;
+* a short introduction to the programm,&#13;
+* how it came to be,&#13;
+* what happend so far&#13;
+* the implications of the programm&#13;
+* what can be done to fix things.&#13;
+&#13;
+Besides contacting the european comission, several members of the european parlament and Klaus Landefeld of the eco [6] we were able to get members of the german Bundestag to get interested in the issue [7]. This led to a "schriftliche Anfrage" towards the Bundesregierung regarding the GDPR compliance of the authentification infrastructure, the situation is currently evolving.&#13;
+&#13;
+The talk aims to inform about the current state of affairs and hoefully foster a discussion during the congress what can and should be done to prohibit the creation of yet another surveillance infrastructure and what a desirable public Wi-Fi infrastructure should look like.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="22">
+            <name>Gregor Bransky</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="313" guid="8b2ce950-136c-53a5-89ff-7acde44faca2">
+        <logo/>
+        <date>2018-12-29T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>00:40</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>GYT733</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/GYT733</url>
+        <title>9DoorsOpen - audiivisueller 35min Trip</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>10 Jahre Schaffensphase, 20.000.000 Fotodateien, &#13;
+9 Doors Open ist ein künstlerisches Langzeitprojekt, eine meditativ psychedelisch, audiovisuelle Reise.</abstract>
+        <description>Für Fans von: Ambient, Doom, Dronemusik, visuelle Kunst, psychedelische Trips, Meditation, Bewusstseinserweiterung&#13;
+&#13;
+Andreas Voland (Musiker) und Steffen Freiling (Fotograf) verschieben in ihrem gemeinsamen Werk die Dimensionen Raum und Zeit und geben so die Möglichkeit, die uns bekannte Realität in vielfälltigsten Formen neu zu entdecken.&#13;
+&#13;
+Am 2. Februar findet im Friedrichshainer Zukunft am Ostkreuz (Laskerstr. 5, 10245 Berlin die Aufführung statt.&#13;
+&#13;
+Hier auf dem CCC schon vorab.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="97">
+            <name>Andreas</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop-Domo">
+      <event id="288" guid="c225c6dc-8f35-50e7-b4b1-f83f2022577d">
+        <logo/>
+        <date>2018-12-28T13:00:00+01:00</date>
+        <start>13:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>RPSCUR</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/RPSCUR</url>
+        <title>Nudeln hacken für Junghacker von 5 Jahren bis ∞ (Session 1)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette.</abstract>
+        <description>Was man aus Nudeln alles machen kann ... Junghacker bzw. solche die es werden wollen können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß was eine Nudel ist.&#13;
+&#13;
+Erwachsene dürfen auch mitmachen - werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D&#13;
+&#13;
+PS: Erwachsene nur, so lange sie den Junghackern kenen Platz wegnehmen. &#13;
+PPS: Man kann auch mit Glutenallergie bedenkenlos teilnehmen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="74">
+            <name>Stefan Safari</name>
+            <biography>Ich bin Nudelfan, dreifacher Vater und freue mich auf den Congress.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="289" guid="ba5c1095-2bc6-5ee7-9493-17fb51091346">
+        <logo/>
+        <date>2018-12-28T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>NXGUVK</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/NXGUVK</url>
+        <title>Nudeln hacken für Junghacker von 5 Jahren bis ∞ (Session 2)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Spaß am Gerät: Mehrere Teams bauen gleichzeitig mit Nudeln um die Wette.</abstract>
+        <description>Was man aus Nudeln alles machen kann ... Junghacker bzw. solche die es werden wollen können alleine oder als Team kommen. Es kann jeder mitmachen, der weiß was eine Nudel ist.&#13;
+&#13;
+Erwachsene dürfen auch mitmachen - werden aber wahrscheinlich gegen den Nachwuchs verlieren :-D&#13;
+&#13;
+PS: Erwachsene nur, so lange sie den Junghackern kenen Platz wegnehmen. &#13;
+PPS: Man kann auch mit Glutenallergie bedenkenlos teilnehmen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="74">
+            <name>Stefan Safari</name>
+            <biography>Ich bin Nudelfan, dreifacher Vater und freue mich auf den Congress.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="295" guid="00b000b4-fd0b-580d-8070-d2e4dd2d03fa">
+        <logo/>
+        <date>2018-12-28T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>QSRLNA</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QSRLNA</url>
+        <title>Wifi4EU - how to fix it?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>en</language>
+        <abstract>Wifi4EU is currently broken by technical specifications. Within this workshop session I would like to kick of a discussion what a desireable infrastructure would look like and if it can be realized within the given political boundaries.&#13;
+&#13;
+The issues with Wifi4EU will be outlined in the following talk:&#13;
+https://fahrplan.chaos-west.de/35c3chaoswest/talk/K39NLS/</abstract>
+        <description>tba</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="77">
+            <name>Little Detritus</name>
+            <biography>Freifunka aus Aachen der darüber nachdenkt wie man sowas antiquiertes wie Privatsphäre behalten kann. Diskutiert gerade gerne darüber wieso Wifi4EU - so wie gerade geplant - eine dumme Idee ist [1]. Man sich sonst Gedanken darüber wie Kryptographie im Zeitalter von Quantencomputern aussehen kann [2]. Teilt Albernes und Ernstes auf Twitter unter @LittleDetritus&#13;
+&#13;
+[1] https://www.youtube.com/watch?v=YbPpK8_X9Qg&#13;
+[2] https://video.fsmpi.rwth-aachen.de/cccac/6131</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="307" guid="9ae3ed84-ba3e-5573-87f9-83c5210c1eb8">
+        <logo/>
+        <date>2018-12-28T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>FUL8DG</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FUL8DG</url>
+        <title>Weimarnetztreffen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Communitytreffen des Weimarnetzes</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="94">
+            <name>René Hoffmann</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="315" guid="fe37d6a9-bea6-531b-be70-f2c4d7828a78">
+        <logo/>
+        <date>2018-12-28T20:00:00+01:00</date>
+        <start>20:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>ZXBCCJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZXBCCJ</url>
+        <title>SatNOGS meeting (AOS)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="100">
+            <name>bastla</name>
+            <biography>Sebastian Lange (DL7BST), c3space, SatNOGS, AfuTUB/DK0TU</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="251" guid="072dc1fe-89cc-5387-8405-c7086b0f2687">
+        <logo/>
+        <date>2018-12-28T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>BEWPU3</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/BEWPU3</url>
+        <title>Maritime Technik: How to Schiff</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Hier bekommt ihr eine kurze Einführung in die Welt der Nautik und der schwankenden Metallkähne. Was gibt es da für Technik an Bord, wofür wird es gebraucht und wie wird es benutzt. Überblick mit Schwerpunkt auf technischen Details.</abstract>
+        <description>Wir fühlen uns auf Schiffen zu Hause. Wir nutzen sie als vielfältiges Mittel zum Retten und Versorgen von Menschen in Not, um Menschenrechtsverletzungen auf See zu dokumentieren oder um gegen das Aussterben von Tierarten zu kämpfen. &#13;
+Doch was hält eigentlich so ein Schiff zusammen? Wie steuert mensch es? Warum klingt unsere Kommunikation immer noch nach 19. Jahrhundert? Was ist eigentlich ein Ruderlagenanzeiger und wofür braucht man Stevenrohr und Stopfbuchse?&#13;
+Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="46">
+            <name>Nico</name>
+            <biography>Aktivist, Segler und Schiffe.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="501" guid="c1a547d9-2f53-5444-8e3c-6b6ebb26578d">
         <logo/>
@@ -10991,6 +12192,37 @@ music.</abstract>
         <persons/>
         <links/>
         <attachments/>
+      </event>
+    </room>
+    <room name="OIO Lötarea">
+      <event id="308" guid="eda8f6cd-d88a-519d-9d69-4dd5e69a3fb9">
+        <logo/>
+        <date>2018-12-28T10:00:00+01:00</date>
+        <start>10:00</start>
+        <duration>06:00</duration>
+        <room>OIO Lötarea</room>
+        <slug>XHGP3G</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/XHGP3G</url>
+        <title>Löten zum Junghackertag</title>
+        <subtitle/>
+        <track/>
+        <type>Lötarea 110 min</type>
+        <language>de</language>
+        <abstract>Zum Junghackertag gibt es extra Lötprogramme</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="95">
+            <name>djim</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="">
@@ -16674,8 +17906,655 @@ CfP https://c3lt.de/35c3overflow/cfp</abstract>
         <answers/>
       </event>
     </room>
-    <room name="OIO Vortrags-Arena"/>
-    <room name="OIO Workshop-Domo"/>
+    <room name="OIO Vortrags-Arena">
+      <event id="306" guid="83cb47b2-23fd-5a97-a82f-053469f31640">
+        <logo/>
+        <date>2018-12-29T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QMHCUH</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QMHCUH</url>
+        <title>OIO habour clean up - Day 2</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>daily OIO habour clean up - Day 2</abstract>
+        <description>daily OIO habour clean up - Day 2</description>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="281" guid="e498a961-fe0d-5eb0-b12b-b462061f6edc">
+        <logo/>
+        <date>2018-12-29T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>CNPSQR</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/CNPSQR</url>
+        <title>OIO Daily Standup day 3</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Let's start into day 3</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="239" guid="75a12486-070c-539d-b4a9-a9495c86b78d">
+        <logo/>
+        <date>2018-12-29T12:30:00+01:00</date>
+        <start>12:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>AVFU8A</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AVFU8A</url>
+        <title>Freifunk - The Next Generation</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>FF-TNG aims at regrowing a local FF based network community by -on the one hand- going back to the 90's "Bürgernetze" Idea of free communication with others, (focus on VOIP, SMS, Chat, mail) but also by enabling the individual community member to offer services to others and the world (e.g. via DNS zone delegation to individual nodes). For true autonomy we envisage to not only use WIFI and VPN links but also include LORA-based communication to connect local nodes for low bitrate communication (chat, sms).</abstract>
+        <description>A small group of FF-Munich people is currently developing a concept called FF-TNG "Freifunk - The Next Generation".&#13;
+It came about after FFMUC had grown rapidly but a vast majority of FFMUC nodes is only using FF as a cheap pseudo-VPN gateway to the internet and after the rapid growth has put BATMAN to its limits making FF an only 'so-so' experience.&#13;
+The concept aims at regrowing a local network community by -on the one hand- going back to the 90's "Bürgernetze" Idea of free communication with others, (e.g. VOIP, SMS, Chat) and -on the other hand- also by enabling the individual community member to offer services to others and the world (i.e. including DNS zone delegation to individual nodes and ipv6). For parts of the mesh we are looking at Babel. To get to a truly wide ranging individual network our concept includes LORA based communication for low-bitrate communication (Chat, SMS) to reach locations not reachable by simple 2.4 or 5GHz WIFI nodes.&#13;
+The talk will be a ride through our first concept of how we think communication power can be put back to people so they can control their communication network. We hope for comments and input from the community - also of the kind "das kannste schon so machen, aber dann isses halt kacke"</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="37">
+            <name>Peter Buschkamp</name>
+            <biography>After studying Physics in Bielefeld, I somehow thought getting a PhD in Astrophysics is fun. It was. In part. Now I build optical instruments that get to fly on satellites by day and sometimes stare at the sky by night. In between, I like to discuss and mull over implications of natural and computer sciences for society, hike the alps and help to build the Munich Freifunk wireless backbone.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="263" guid="d3e546e5-f917-51ab-ab5e-a88c89699fcc">
+        <logo/>
+        <date>2018-12-29T13:30:00+01:00</date>
+        <start>13:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>EGJW3F</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/EGJW3F</url>
+        <title>Independent Solar Energy Mesh System</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Das Independent Solar Energy Mesh System (ISEMS) knüpft an den Freifunk-OpenMPP-Tracker an. Das System (Lua-Tool, Integration in Luci, Mikrocontroller-Firmware für den OpenMPPT, Web-App) soll es für Nicht-Experten einfacher machen, ihrer eigene drahtlosen Freifunk-Kommunikationsinfrastruktur unabhängig vom Stromnetz zu betreiben.</abstract>
+        <description>ISEMS überwacht u.a. den Batteriestand, die Batterietemperatur und die Energiedaten des Moduls und bietet Strategien zum Energiesparen.&#13;
+&#13;
+Mit der ISEMS-Software können Benutzer eine Übersicht einsehen, wie ihre Solarknoten arbeiten. Die Web-App zeigt eine Übersicht aller Knoten sowie eine Checkliste für die einzelnen Knoten. Wenn etwas aus dem Ruder läuft, liefert sie Warnungen und Hinweise zur Fehlerbehebung.&#13;
+&#13;
+Dauer: 20 Minuten für unsere Präsentation mit 10 Minuten für Q + A&#13;
+&#13;
+Zusätzliche Infos / Links / Referenzen:&#13;
+&#13;
+http://isems.de&#13;
+https://www.youtube.com/watch?v=BxFpY2tsPtU&#13;
+https://wiki.freifunk.net/Freifunk-MPP-Tracker</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <name>Elektra</name>
+            <biography>Free wireless networks since 2001&#13;
+Freifunk since 2003</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="291" guid="96770b24-6aa8-53b1-9766-cc72e2e179c1">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>Q7XT7M</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/Q7XT7M</url>
+        <title>Störerhaftung: Aktuelles aus der juristschen Welt</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Bea gibt einen Überblick über den aktuellen Stand zur Störerhaftung, wie es den Abmahnungen geht und was uns der Gesetzgeber neues bietet.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="75">
+            <name>Bea Hubrig</name>
+            <biography>.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="266" guid="1535b9d7-2182-53bb-b00d-4697c83bb5fc">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>WCXEXU</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WCXEXU</url>
+        <title>Seenotrettung und humanitäre Hilfe - was war, was ist, was wird? Kriminalisierung und der Ausblick auf 2019</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Die andauernde Kriminalisierung humanitärer Hilfe hat auch in diesem Jahr unsere Arbeit massiv erschwert, Menschenleben gekostet und die europäische Abschottungspolitik vorangetrieben. In diesem Talk geben wir einen Überblick darüber, welche Auswirkungen die Kriminalisierung humanitärer Hilfe haben kann und was im kommenden Jahr zu erwarten ist.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="55">
+            <name>just humans</name>
+            <biography>Wir sind eine Gruppe politischer und humanitärer Aktivist*innen aus verschiedenen Organisationen.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="274" guid="175f6e41-1cf4-5733-b656-5c990453fe2c">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:50</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UFZYAS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UFZYAS</url>
+        <title>F-Droid:Pimp your Android(-fork) with the best Free Software apps</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>After a short introduction about software freedom on Android and Custom ROMs, I will demonstrate the Free-Software-App-Repository "F-Droid" with its anarchic and anti-censorship features. But as F-Droid offers you access to hundreds of Free-Software-apps and the sheer amount can be overwhelming in the beginning, in a next step I will also come up with the 10 or so most important apps (IMHO!).</abstract>
+        <description>F-Droid is a Free-Software-App-only repository for Android systems and every Android-based fork and a powerful client that is designed to be resilient against surveillance and censorship. For its competitive character, F-Droid is not available via other "app stores" (like Google Play). You have to download it via your browser once but then it is easy to install and easy to use - and without the need for any account!&#13;
+&#13;
+Once installed, F-Droid offers you access to hundreds of Free-Software-apps in compiled form and their sources. It also allows you to share (your) apps in mulitple ways, including offline methods and via onion repositories. You can add your own Free-Software-project to the official F-Droid catalogue or even set-up your own repositories and offer access via F-Droid.&#13;
+&#13;
+Unfortunately, F-Droid misses any kind of rating system, so the sheer amount of available Free-Software-apps can be overwhelming in the beginning. So, after a short introduction about software freedom on Android and Custom ROMs, I will demonstrate F-Droid with its anarchic and anti-censorship features. Next, I will come up with the 10 or so most important apps (IMHO!).&#13;
+&#13;
+**Update:** [Slides by Erik Albers, CC-BY-SA](https://web.3rik.cc/Nextcloud13/index.php/s/zRqYoA3TQb97mrP)</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="89">
+            <name>Erik Albers</name>
+            <biography>Erik Albers is communication and programme manager for the Free Software Foundation Europe and engages since many years for users' and software freedom. Erik regularly publishes articles about diverse aspects of Free Software on different channels and occasionally writes on Netzpolitik.org.  In his spare time, Erik researches about digital sustainability with a special focus on sustainability of an by software as well as therein implied dependencies or solutions.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="233" guid="465d4b06-089c-571d-af98-5d3c87cf53a3">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>FS7D9L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FS7D9L</url>
+        <title>Vom eingestaubten Teleskop zum High Tech Lieblingsteleskop</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>3D-gedruckte Open Source GOTO Steuerung für 0815 Billig Teleskope, oder wer es lieber wissenschaftlich mag die bt³s Open Source und Open Hardware Steuerung zum nachbauen</abstract>
+        <description>Open Hardware GOTO Steuerung für Low Budget Teleskope selber bauen. Erfahrungsbericht und Live Demonstration.&#13;
+&#13;
+Vorstellen der 3D gedruckten Open Hardware GOTO Steuerung für Teleskope (Entwickelt von Roman Hujer).&#13;
+&#13;
+Technische Details zur Hardware sowie Quellen Empfehlungen zum Nachbau. Konfiguration vorstellen für die GOTO Steuerung (Firmware) und Schnittstellen Konfiguration in Stellarium.&#13;
+&#13;
+Stellarium Konfiguration detailliert für GOTO Steuerung, GPS Daten via GPS/Glonas USB Stick einpflegen und Sternen und Satelliten Datenbank Repositories aktivieren und erweitern.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="28">
+            <name>h3rb3rn</name>
+            <biography>https://hackover.de/fahrplan/speakers/3958.html</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="234" guid="21ff694c-e8f9-5aed-94bc-0efa78f93132">
+        <logo/>
+        <date>2018-12-29T18:30:00+01:00</date>
+        <start>18:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>WA38FQ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WA38FQ</url>
+        <title>Freifunkinstallationen in Flüchtlingsheimen - Erfahrungsbericht, Empfehlungen</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Am Beispiel einiger Freifunkinstallationen in Flüchtlingsunterkünften in München wird anhand von Best Practices beschrieben, wie am besten vorzugehen ist. Budget, Ansprache der Verantwortlichen, technische Hürden, Umsetzung, Planung, Rückbau.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="30">
+            <name>pkoerner81929</name>
+            <biography>Freifunker aus Leidenschaft.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="235" guid="8cde9720-65a3-5463-b9e8-aa8bfb6416b4">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>00:55</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QHXBFG</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QHXBFG</url>
+        <title>State of the InterNAT - Freifunk Rheinland Backbone Update</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 50min total (etwa 15min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Was war, was ist, was wird - ein Überblick über die Events der letzten Zeit und unsere Pläne für mehr Selbstverwaltung</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="31">
+            <name>Maximilian Wilhelm</name>
+            <biography>* Barbarossa&#13;
+ * Kevin&#13;
+ * Lars&#13;
+ * Takt&#13;
+ * Thomas</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="246" guid="0f38a37f-f2fe-5a70-9640-2614c3c9e050">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>3ME8XJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/3ME8XJ</url>
+        <title>10 Tops &amp; Flops für den erfolgreichen Aufbau einer Community wie Freifunk München</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Freifunk München wird getrieben vom Freie Netze München e.V.. Jeder Verein hat Höhen und Tiefen. Um ein stabiles Team zu halten sind einige Basics notwendig.</abstract>
+        <description>1. Wir reden über die Größten Erfolge.&#13;
+2. Über die Durststrecken ... ohne Admins.&#13;
+3. Politik die mal will oder nicht in München und Bayern.&#13;
+4. NixOS ist genial aber kaum einer kann es.&#13;
+5. Segmentierung = Fluch oder Segen?&#13;
+6. Warum traut sich keiner an Babel?&#13;
+7. Virtualisierung Proxmox oder OpenNebula?&#13;
+Fragen....</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="44">
+            <name>Daniel Fussy</name>
+            <biography>Freifunk München</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="299" guid="bde24074-90b6-511b-8fd8-588149529d8f">
+        <logo/>
+        <date>2018-12-29T21:30:00+01:00</date>
+        <start>21:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>ZFQCBB</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/ZFQCBB</url>
+        <title>Mathematische Modellierung informatischer Probleme</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Der Vortrag soll sich hauptsächlich darauf beziehen, wie Mathematik bei der Lösung von informationstechischen Problemen helfen kann, wobei Möglichkeiten und Probleme aufgezeigt werden sollen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="78">
+            <name>Lukas Schneider</name>
+            <biography>* Schüler am ASGspez in Erfurt&#13;
+* BwInf-Teilnehmer&#13;
+* Großes Interesse an Politik&#13;
+* Und an Informatik :-D</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="314" guid="fef79e66-cab6-5fc4-b31e-dc802c46f277">
+        <logo/>
+        <date>2018-12-29T22:00:00+01:00</date>
+        <start>22:00</start>
+        <duration>01:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>QAS33L</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/QAS33L</url>
+        <title>Schwarze Löcher für blutige Anfänger</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 80min total (etwa 30min  Q&amp;A)</type>
+        <language>de</language>
+        <abstract>Albert Einstein hat sie vorhergesagt, bis in die 90er hinein war ihre Existenz heftig umstritten - die vielleicht verrücktesten Dinger im Universum: Schwarze Löcher.</abstract>
+        <description>Eigentlich dürften Schwarze Löcher nicht existieren. Wie kann etwas "unendliche Dichte" haben, "unendlich klein" sein. Und wenn nichts, aber auch gar nichts ein schwarzes Loch verlassen kann, wie kann dann die Gravitation das schwarze Loch verlassen? Und was passiert mit der Zeit in der Nähe schwarzer Löcher, bleibt die da wirklich stehen? Und woher wissen wir, dass sie wirklich existieren? In Schwarzen Löchern krachen zwei unvereinbare Theorien aufeinander, die Quantenphysik und die Relativitätstheorie.  &#13;
+Wir beschäftigen uns mit jeder Menge Fragen an den Grenzen der Physik... und manchmal ein wenig darüber hinaus.&#13;
+&#13;
+Vorkenntnisse sind nicht erforderlich.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="99">
+            <name>Steini</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="302" guid="076b0e7a-4d97-5958-8e02-740f6d8c6456">
+        <logo/>
+        <date>2018-12-30T00:00:00+01:00</date>
+        <start>00:00</start>
+        <duration>01:00</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>UVGYXJ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/UVGYXJ</url>
+        <title>Iuventa counter-investigation</title>
+        <subtitle/>
+        <track/>
+        <type>Movie with Q&amp;A</type>
+        <language>en</language>
+        <abstract>Documentation and Q&amp;A with crew members of Iuventa and other SAR ships</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="91">
+            <name>Solidarity at Sea</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop-Domo">
+      <event id="316" guid="85587d11-2426-5b34-b8cf-7f2a020d4517">
+        <logo/>
+        <date>2018-12-29T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>02:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>AQ9TUQ</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AQ9TUQ</url>
+        <title>SatNOGS meeting (TCA)</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 110min</type>
+        <language>en</language>
+        <abstract>...</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="100">
+            <name>bastla</name>
+            <biography>Sebastian Lange (DL7BST), c3space, SatNOGS, AfuTUB/DK0TU</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="309" guid="b2ec2d49-e698-5858-be0a-2513b4849a01">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>T8NVCS</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/T8NVCS</url>
+        <title>Careables Open Source Hardware in Health+Care [Meetup]</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>Meetup</abstract>
+        <description>Calling all hackers, designers, makers, carers, and healthcare professionals!&#13;
+&#13;
+We want to discuss: What are challenges you face every day using standard tools for health and wellbeing? Do you have an idea that makes everyday life easier? How could you use your existing hackerspace to foster exchange and collaboration in health and care?&#13;
+&#13;
+Through Careables, maker and designer collaborate with patients and healthcare professionals to create personalized solutions and open source knowledge that will improve the lives of many patients and professionals.&#13;
+&#13;
+Accessible, comprehensive and easy to use open source hardware are being documented, collected and shared through the platform Careables.org. This platform is currently being launched and will function as repository for well documented open hardware projects. It offers many different communities a place to connect and exchange knowledge, needs and co-create solutions.&#13;
+&#13;
+It's easy to think of open hardware that make a difference in people's lives. An example of this is OPEN LIGHTS. This project offers people with wheelchairs an adjustable wheelchair specific light that makes them better visible at night and that can be built with most common DIY technologies.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="96">
+            <name>Sandra GIG</name>
+            <biography>tl;dr: GIG is the global network of social and technological innovators. #wearegig&#13;
+&#13;
+Global Innovation Gathering (GIG) is a vibrant, diverse community of innovation hubs, makerspaces, hackerspaces and other grassroot innovation community spaces and initiatives as well as individual innovators, makers, technologists and changemakers. GIG is pursuing a new vision for global cooperation based on equality, openness and sharing. We aim to enable more diversity in the production of technology, and global innovation processes and support open and sustainable solutions developed by grassroot innovators. With strong roots in the global south, we share, collaborate and work together globally. GIG provides a platform for meaningful exchange by fostering knowledge exchange and collaboration between its members.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="318" guid="ae8d646b-83a8-5327-b4bd-d3dab9f544d8">
+        <logo/>
+        <date>2018-12-29T17:00:00+01:00</date>
+        <start>17:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>PXYMLE</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/PXYMLE</url>
+        <title>Bits &amp; Bäume @ Congress : weiter zusammen(-)wachsen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Bei der Konferenz Bits &amp; Bäume haben im November Aktivist*innen unter&#13;
+anderem aus der Hacker- und Ökoszene über ihre Ziele, Utopien und&#13;
+Strategien diskutiert. Entstanden sind nicht nur neue Verbindungen&#13;
+sondern auch elf Forderungen an die Politik. Wir wollen die Idee und&#13;
+Ergebnisse der Konferenz vorstellen und mit euch gemeinsam weiterspinnen.&#13;
+&#13;
+https://bits-und-baeume.org&#13;
+https://bits-und-baeume.org/forderungen&#13;
+https://media.ccc.de/v/bub2018-246-eine_andere_digitalisierung_ist_moglich&#13;
+(ab 31:00)</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="101">
+            <name>Nico</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="286" guid="e2492352-efbd-5b2c-88e6-29f890fc148c">
+        <logo/>
+        <date>2018-12-29T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>KSDGVM</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/KSDGVM</url>
+        <title>Freifunk-Workshop: Community-Vernetzung</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Das "Freifunk-Vernetzungsmumble" ist ziemlich tot. Warum? &#13;
+Möglichkeiten der Zusammenarbeit auf Community-Ebene?</abstract>
+        <description>Es soll hier nicht die x-te Auflage von "warum das ICVPN in Zeiten von Public IPv6 niemand mehr will" und "warum es keine internen Dienste gibt" sein. &#13;
+Wir sehen deutlich mehr größere "Festivals", das WCW wird größer obwohl das Leben in vielen lokalen Communities eher weniger wird. Welche Inhaltliche Zusammenarbeit können wir ganz konkret selbst anbieten und wie könnte man es organsiieren, ohne eine Tooldebatte um "Mailingsliste vs. Slack vs Wiki (welches eigentlich?)" zu eröffnen.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="311" guid="1e3b8de7-2051-546b-8a89-b5473ec6ac99">
+        <logo/>
+        <date>2018-12-29T19:00:00+01:00</date>
+        <start>19:00</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>N7NADC</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/N7NADC</url>
+        <title>Next Generation FOSS Lightning Control - Brainstorming &amp; Kick-Off</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>en</language>
+        <abstract>Die bisherigen Lösungen für Lichtsteuerung sind in der Regel teuer oder sehr kompliziert/nutzerunfreundlich. Ziel ist es, eine neue Lichtsteuerung zu entwickeln, die auf FOSS-Basis ein gutes Werkzeug für kreative wird.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="12">
+            <name>margau</name>
+            <biography>Student der Informationstechnik, Freifunk Stuttgart &amp; begeisterter IoT-Bastler.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="254" guid="be48f5dc-8df6-5917-ba56-3e2162202057">
+        <logo/>
+        <date>2018-12-29T21:00:00+01:00</date>
+        <start>21:00</start>
+        <duration>00:45</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>WXUJ8N</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WXUJ8N</url>
+        <title>Aufbau von Freifunk in Kleingartenanlagen</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>de</language>
+        <abstract>Diskussionsrunde auf Basis einer Problemstellung (Kartendaten zu einer Anlage) ohne eine Lösung einzubringen.&#13;
+Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekommen und auszutauschen.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="48">
+            <name>Richard</name>
+            <biography>Softwareentwickler mit Garten</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="522" guid="14016199-6d4b-5f13-8b2f-a057afeb3abd">
         <logo/>
@@ -18107,6 +19986,40 @@ LOVE FREEDOM EVERYTHING</abstract>
           <link href="https://www.mixcloud.com/bambideluxe/">https://www.mixcloud.com/bambideluxe/</link>
         </links>
         <attachments/>
+      </event>
+    </room>
+    <room name="OIO Lötarea">
+      <event id="290" guid="3c8fb2e5-b752-524f-b9b1-d3393929976d">
+        <logo/>
+        <date>2018-12-29T16:00:00+01:00</date>
+        <start>16:00</start>
+        <duration>04:00</duration>
+        <room>OIO Lötarea</room>
+        <slug>HPHDXC</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/HPHDXC</url>
+        <title>Solder your own MPP tracker</title>
+        <subtitle/>
+        <track/>
+        <type>Lötarea 110 min</type>
+        <language>en</language>
+        <abstract>Elektra prepares some kits of her MPP tracker, you'll finish them with her help.</abstract>
+        <description>See details here: https://wiki.freifunk.net/Freifunk-MPP-Tracker&#13;
+&#13;
+You can participate on a first come first serve base.</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="57">
+            <name>Elektra</name>
+            <biography>Free wireless networks since 2001&#13;
+Freifunk since 2003</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
       </event>
     </room>
     <room name="">
@@ -21821,8 +23734,229 @@ Cheaper rockets in many cases also allow higher mass to be traded for lower pric
         <answers/>
       </event>
     </room>
-    <room name="OIO Vortrags-Arena"/>
-    <room name="OIO Workshop-Domo"/>
+    <room name="OIO Vortrags-Arena">
+      <event id="304" guid="7db71e6b-183a-55cf-b1eb-4bbf104ec505">
+        <logo/>
+        <date>2018-12-30T11:00:00+01:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>R3DGAF</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/R3DGAF</url>
+        <title>OIO habour clean up  - Day 3</title>
+        <subtitle/>
+        <track/>
+        <type>OIO Housekeeping</type>
+        <language>en</language>
+        <abstract>OIO habour clean up</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="93">
+            <name>35c3oio@freifunk.space</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="282" guid="07ca3e82-b108-5267-9c00-6aa584c24a12">
+        <logo/>
+        <date>2018-12-30T11:30:00+01:00</date>
+        <start>11:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>SQXVCE</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/SQXVCE</url>
+        <title>OIO Daily Standup day 4</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Let's start into day 4</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="262" guid="9ae91188-8de6-5003-83b1-0c2e6efc9cc5">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>M9VQA9</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/M9VQA9</url>
+        <title>Why VPN? Freifunk via L2-BSA.</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Why hassle with the VPN-Overhead. With the availability of commodity SV-VDSL Hardware in Gluon , it’s now possible to replace Mesh-VPN with Mesh-DSL. What we learned in the process and how major projects and wireless backbone networks in particular can benefit from a "VPN-free" solution.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="53">
+            <name>skorpy</name>
+            <biography>Below 1GE? Do not touch it!</biography>
+          </person>
+          <person id="54">
+            <name>herrbett</name>
+            <biography>Freifunk Karlsruhe</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="215" guid="fcf859a5-a914-5ac2-98c6-66af0328bd6f">
+        <logo/>
+        <date>2018-12-30T14:30:00+01:00</date>
+        <start>14:30</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>AYUMLK</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/AYUMLK</url>
+        <title>Distributed DHCP</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>In mesh networks clients stay in separated ethernets. We developed and implemented a distributed dhcp algorithm so our mesh nodes now can serve dhcp directly while maintaining a consensus about leases of the same subnet.</abstract>
+        <description>In mesh networks, you can either run central dhcp servers or run them on the mesh nodes and have some administrative control about the served subnets, but those then scattered dhcp servers have no consensus&#13;
+about the whole lease state and thus are not able to renew leases of roamed clients.&#13;
+&#13;
+Our algorithm, implemented in the ddhcpd addresses these problems:&#13;
+It coordinates the served leases automatically, so you need no administrative control entity. And&#13;
+it allows roamed clients to renew and keep their IP addresses, through a forwarding mechanism.&#13;
+&#13;
+The talk will be about the theoretical concept, the state of our implementation in ddhcpd and practical experience. &#13;
+&#13;
+DDHCPD: https://github.com/sargon/ddhcpd&#13;
+Gluon Packet: https://github.com/sargon/gluon-sargon/tree/v2018.x/ddhcpd</description>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="15">
+            <name>Daniel Ehlers</name>
+            <biography>informatics network guy with interests in combinatoric algorithms.</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="284" guid="065f190a-06ca-5a79-8190-4abc4fd4f8be">
+        <logo/>
+        <date>2018-12-30T18:00:00+01:00</date>
+        <start>18:00</start>
+        <duration>00:20</duration>
+        <room>OIO Vortrags-Arena</room>
+        <slug>CEMDER</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/CEMDER</url>
+        <title>OIO Closing Session</title>
+        <subtitle/>
+        <track/>
+        <type>Talk 20min total (etwa 5min  Q&amp;A)</type>
+        <language>en</language>
+        <abstract>Shutdown notice</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="7">
+            <name>Andreas Bräu</name>
+            <biography>Freifunker since 2006</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
+    <room name="OIO Workshop-Domo">
+      <event id="319" guid="adb46547-e787-500d-807b-d373fad6cde9">
+        <logo/>
+        <date>2018-12-30T14:00:00+01:00</date>
+        <start>14:00</start>
+        <duration>01:00</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>FTFSBU</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/FTFSBU</url>
+        <title>ELECTRIC CARS, USE IT, HACK IT, TALK ABOUT IT</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 45min</type>
+        <language>en</language>
+        <abstract>Let's talk about computers on wheels. Electric cars. Let talk about experiences, hardware, software, hacking cars, coding cars.&#13;
+&#13;
+No presentation, just talk about experiences, ideas, problems and solutions.</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>false</optout>
+        </recording>
+        <persons>
+          <person id="104">
+            <name>Morris Jobke</name>
+            <biography/>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+      <event id="285" guid="9fbdc7f9-97d6-56b9-a082-f2581a307401">
+        <logo/>
+        <date>2018-12-30T15:30:00+01:00</date>
+        <start>15:30</start>
+        <duration>01:20</duration>
+        <room>OIO Workshop-Domo</room>
+        <slug>WNYZ7A</slug>
+        <url>https://pretalx.35c3oio.freifunk.space/35c3oio/talk/WNYZ7A</url>
+        <title>Freifunk-Workshop: bessere Vorschläge als "weiter so" für 2019?</title>
+        <subtitle/>
+        <track/>
+        <type>Workshop 80min</type>
+        <language>de</language>
+        <abstract>Eine Diskussion: Weniger Nachfrage, unzeitgemäße Performance, Adminfrust, erklärungsbedürftige Hardware-Situation: Was können wir anders machen in den etablierten Communities. Visionen oder schlicht Ansätze</abstract>
+        <description/>
+        <recording>
+          <license/>
+          <optout>true</optout>
+        </recording>
+        <persons>
+          <person id="6">
+            <name>Andreas Dorfer</name>
+            <biography>https://forum.freifunk.net/u/adorfer/</biography>
+          </person>
+        </persons>
+        <links/>
+        <attachments/>
+        <answers/>
+      </event>
+    </room>
     <room name="WikiPakaWG Esszimmer">
       <event id="529" guid="2ef1d870-f2b1-583b-98c6-09574123a90f">
         <logo/>
