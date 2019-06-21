@@ -1,6 +1,6 @@
 {
     "schedule": {
-        "version": "Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-06-14 02:50", 
+        "version": "Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-06-21 22:10", 
         "conference": {
             "acronym": "35c3", 
             "title": "35th Chaos Communication Congress", 
@@ -4024,13 +4024,13 @@
                             {
                                 "id": 503, 
                                 "guid": "3a8dd9e1-a581-516d-b3e4-19418371591a", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:45", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "NSU8Y8", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8/", 
                                 "title": "Orgameeting Tag 1", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4043,7 +4043,8 @@
                                 "persons": [
                                     {
                                         "id": 4, 
-                                        "name": "WikiPaka Orga", 
+                                        "code": "33UT8A", 
+                                        "public_name": "WikiPaka Orga", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4055,13 +4056,13 @@
                             {
                                 "id": 509, 
                                 "guid": "38b15b79-d1eb-5e6f-b50c-ce1ba2817305", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "GWJR9B", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B/", 
                                 "title": "Introduction to Wikidata and the Wikidata Query Service", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4074,13 +4075,15 @@
                                 "persons": [
                                     {
                                         "id": 6, 
-                                        "name": "Lucas", 
+                                        "code": "RE9MSE", 
+                                        "public_name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 7, 
-                                        "name": "Amir", 
+                                        "code": "8GDPPA", 
+                                        "public_name": "Amir", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4092,13 +4095,13 @@
                             {
                                 "id": 510, 
                                 "guid": "22d77083-ceb3-50bd-b275-678ce3b22760", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "RRCVBW", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW/", 
                                 "title": "Datenpumpen-Hackathon #01", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4111,13 +4114,15 @@
                                 "persons": [
                                     {
                                         "id": 8, 
-                                        "name": "John", 
+                                        "code": "8XHJNS", 
+                                        "public_name": "John", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 6, 
-                                        "name": "Lucas", 
+                                        "code": "RE9MSE", 
+                                        "public_name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4129,13 +4134,13 @@
                             {
                                 "id": 512, 
                                 "guid": "f8c096cc-2785-5ce8-9b8d-5aeee71dafb4", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T16:30:00+01:00", 
                                 "start": "16:30", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "BEANCH", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BEANCH", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BEANCH/", 
                                 "title": "Jugend hackt - Willkommen auf dem Congress!", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4148,37 +4153,43 @@
                                 "persons": [
                                     {
                                         "id": 5, 
-                                        "name": "Daniel", 
+                                        "code": "BWRH7E", 
+                                        "public_name": "Daniel", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 9, 
-                                        "name": "Paula", 
+                                        "code": "XN9PTD", 
+                                        "public_name": "Paula", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 10, 
-                                        "name": "Robert", 
+                                        "code": "VVLMZ9", 
+                                        "public_name": "Robert", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 11, 
-                                        "name": "Ilona", 
+                                        "code": "B9E7PX", 
+                                        "public_name": "Ilona", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 12, 
-                                        "name": "Basti", 
+                                        "code": "E3QEBQ", 
+                                        "public_name": "Basti", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 13, 
-                                        "name": "Saadya", 
+                                        "code": "9HQVHR", 
+                                        "public_name": "Saadya", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4190,13 +4201,13 @@
                             {
                                 "id": 538, 
                                 "guid": "8cfcba40-e656-5f5b-b46f-8a9f09913c85", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "YWXE7F", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F/", 
                                 "title": "Programmieren mit der Maus", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4209,7 +4220,8 @@
                                 "persons": [
                                     {
                                         "id": 37, 
-                                        "name": "P3nny", 
+                                        "code": "NKKBZK", 
+                                        "public_name": "P3nny", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4221,13 +4233,13 @@
                             {
                                 "id": 536, 
                                 "guid": "fba5593d-a919-531d-833a-4af31897bc69", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T19:45:00+01:00", 
                                 "start": "19:45", 
                                 "duration": "00:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "WH3E9B", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B/", 
                                 "title": "Technikschulung Tag 2 f\u00fcr die WikipakaWG", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4240,7 +4252,8 @@
                                 "persons": [
                                     {
                                         "id": 3, 
-                                        "name": "robbi5", 
+                                        "code": "8KKP9X", 
+                                        "public_name": "robbi5", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4252,13 +4265,13 @@
                             {
                                 "id": 515, 
                                 "guid": "46774122-21b4-5f19-8b3f-eba958080a1c", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T20:30:00+01:00", 
                                 "start": "20:30", 
                                 "duration": "02:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "ZAPYDL", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL/", 
                                 "title": "Community Treffen Code for Germany", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4271,7 +4284,8 @@
                                 "persons": [
                                     {
                                         "id": 16, 
-                                        "name": "Michael", 
+                                        "code": "LZAHGJ", 
+                                        "public_name": "Michael", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4285,13 +4299,13 @@
                             {
                                 "id": 511, 
                                 "guid": "e62603e3-dcd9-53c9-b649-34ba70bc4ca7", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "7FRCLS", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS/", 
                                 "title": "Wikidata: help with queries", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4304,13 +4318,15 @@
                                 "persons": [
                                     {
                                         "id": 6, 
-                                        "name": "Lucas", 
+                                        "code": "RE9MSE", 
+                                        "public_name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 7, 
-                                        "name": "Amir", 
+                                        "code": "8GDPPA", 
+                                        "public_name": "Amir", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -4322,13 +4338,13 @@
                             {
                                 "id": 513, 
                                 "guid": "112730d8-6275-559e-8712-6233ffe59de0", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-27T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "WGCR99", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WGCR99", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WGCR99/", 
                                 "title": "The Things Network / LoRaWAN", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -4341,7 +4357,8 @@
                                 "persons": [
                                     {
                                         "id": 14, 
-                                        "name": "Caspar", 
+                                        "code": "GHKXRV", 
+                                        "public_name": "Caspar", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11450,13 +11467,13 @@
                             {
                                 "id": 501, 
                                 "guid": "c1a547d9-2f53-5444-8e3c-6b6ebb26578d", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "F9NUJT", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT/", 
                                 "title": "Generative Art with Paper.js", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11469,7 +11486,8 @@
                                 "persons": [
                                     {
                                         "id": 2, 
-                                        "name": "bleeptrack", 
+                                        "code": "RBEKZW", 
+                                        "public_name": "bleeptrack", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11481,13 +11499,13 @@
                             {
                                 "id": 516, 
                                 "guid": "ded36d57-579c-524e-9bf8-a7477670608f", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "WFA9YB", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB/", 
                                 "title": "FragDenStaat User-Treffen", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11500,19 +11518,22 @@
                                 "persons": [
                                     {
                                         "id": 17, 
-                                        "name": "Arne", 
+                                        "code": "K38FMT", 
+                                        "public_name": "Arne", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 41, 
-                                        "name": "Stefan", 
+                                        "code": "7U9YY3", 
+                                        "public_name": "Stefan", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 40, 
-                                        "name": "Filter", 
+                                        "code": "LJNMJA", 
+                                        "public_name": "Filter", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11524,13 +11545,13 @@
                             {
                                 "id": 517, 
                                 "guid": "fdf06e81-63a7-5a92-ac5a-053440cdf221", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T14:30:00+01:00", 
                                 "start": "14:30", 
                                 "duration": "00:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "883YLC", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/883YLC", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/883YLC/", 
                                 "title": "Einf\u00fchrung in Kubernetes Deployments f\u00fcr Codefor Labs", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11543,7 +11564,8 @@
                                 "persons": [
                                     {
                                         "id": 18, 
-                                        "name": "Tobias", 
+                                        "code": "8TKR3G", 
+                                        "public_name": "Tobias", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11555,13 +11577,13 @@
                             {
                                 "id": 534, 
                                 "guid": "b87a648f-d84d-5669-b472-3df1a7f8035d", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "PXFGZ8", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8/", 
                                 "title": "Hebocon-Finale", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11574,25 +11596,29 @@
                                 "persons": [
                                     {
                                         "id": 5, 
-                                        "name": "Daniel", 
+                                        "code": "BWRH7E", 
+                                        "public_name": "Daniel", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 11, 
-                                        "name": "Ilona", 
+                                        "code": "B9E7PX", 
+                                        "public_name": "Ilona", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 10, 
-                                        "name": "Robert", 
+                                        "code": "VVLMZ9", 
+                                        "public_name": "Robert", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 29, 
-                                        "name": "Philip", 
+                                        "code": "MU8SYW", 
+                                        "public_name": "Philip", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11604,13 +11630,13 @@
                             {
                                 "id": 518, 
                                 "guid": "a9e3d617-edc2-545f-9271-30f820b1a559", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "02:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "VX8N7K", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K/", 
                                 "title": "Legal Documents Hack", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11623,19 +11649,22 @@
                                 "persons": [
                                     {
                                         "id": 17, 
-                                        "name": "Arne", 
+                                        "code": "K38FMT", 
+                                        "public_name": "Arne", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 40, 
-                                        "name": "Filter", 
+                                        "code": "LJNMJA", 
+                                        "public_name": "Filter", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 41, 
-                                        "name": "Stefan", 
+                                        "code": "7U9YY3", 
+                                        "public_name": "Stefan", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11647,13 +11676,13 @@
                             {
                                 "id": 521, 
                                 "guid": "51af7600-c483-505d-be4b-656a9fd72eac", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T22:00:00+01:00", 
                                 "start": "22:00", 
                                 "duration": "02:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "V7FCMD", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD/", 
                                 "title": "Community Treffen Jugend hackt", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11666,7 +11695,8 @@
                                 "persons": [
                                     {
                                         "id": 5, 
-                                        "name": "Daniel", 
+                                        "code": "BWRH7E", 
+                                        "public_name": "Daniel", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11680,13 +11710,13 @@
                             {
                                 "id": 504, 
                                 "guid": "b4fda763-216c-5c9d-b850-f049efa09e9b", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:30", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "R9SZCT", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT/", 
                                 "title": "Orgameeting Tag 2", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11699,7 +11729,8 @@
                                 "persons": [
                                     {
                                         "id": 4, 
-                                        "name": "WikiPaka Orga", 
+                                        "code": "33UT8A", 
+                                        "public_name": "WikiPaka Orga", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11711,13 +11742,13 @@
                             {
                                 "id": 539, 
                                 "guid": "a9053903-cfac-5d45-87d0-6711510c68e4", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T15:00:00+01:00", 
                                 "start": "15:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "LSDUED", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LSDUED/", 
                                 "title": "Ride Sharing, OpenData, Schnittstellen, Mitfahr-B\u00f6rsen, Fahrgemeinschaften, Trampen und mehr", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11730,7 +11761,8 @@
                                 "persons": [
                                     {
                                         "id": 38, 
-                                        "name": "Ernesto", 
+                                        "code": "8GKMBN", 
+                                        "public_name": "Ernesto", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11742,13 +11774,13 @@
                             {
                                 "id": 519, 
                                 "guid": "928f8340-4213-5db7-bb4c-05f2187bde49", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T19:00:00+01:00", 
                                 "start": "19:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "EC9ZRM", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM/", 
                                 "title": "Wikibase Quick starter guide", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11761,7 +11793,8 @@
                                 "persons": [
                                     {
                                         "id": 19, 
-                                        "name": "Matthias", 
+                                        "code": "GD7CGL", 
+                                        "public_name": "Matthias", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -11773,13 +11806,13 @@
                             {
                                 "id": 520, 
                                 "guid": "14be7095-56d4-56b8-ad6e-ef4e08238936", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-28T20:00:00+01:00", 
                                 "start": "20:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "JCUCQA", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA/", 
                                 "title": "Wikidata+Wikibase meetup", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -11792,7 +11825,8 @@
                                 "persons": [
                                     {
                                         "id": 20, 
-                                        "name": "L\u00e9a", 
+                                        "code": "FNL9RF", 
+                                        "public_name": "L\u00e9a", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -19962,13 +19996,13 @@
                             {
                                 "id": 522, 
                                 "guid": "14016199-6d4b-5f13-8b2f-a057afeb3abd", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:45", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "DBVJK7", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7/", 
                                 "title": "AI in Wikipedia", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -19981,7 +20015,8 @@
                                 "persons": [
                                     {
                                         "id": 7, 
-                                        "name": "Amir", 
+                                        "code": "8GDPPA", 
+                                        "public_name": "Amir", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -19993,13 +20028,13 @@
                             {
                                 "id": 523, 
                                 "guid": "0967f643-013b-57cc-870b-f2d4dfebc442", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "XRQNHR", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR/", 
                                 "title": "Building a Wikidata tool", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20012,7 +20047,8 @@
                                 "persons": [
                                     {
                                         "id": 6, 
-                                        "name": "Lucas", 
+                                        "code": "RE9MSE", 
+                                        "public_name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20024,13 +20060,13 @@
                             {
                                 "id": 540, 
                                 "guid": "da94b720-9118-513f-885e-3312c033dfd0", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T14:30:00+01:00", 
                                 "start": "14:30", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "LEFJBC", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC/", 
                                 "title": "Squarelet - Kooperativ Lernen mit Open Source-Pinboards", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20043,19 +20079,22 @@
                                 "persons": [
                                     {
                                         "id": 43, 
-                                        "name": "Markus", 
+                                        "code": "U9QVUW", 
+                                        "public_name": "Markus", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 44, 
-                                        "name": "mavo", 
+                                        "code": "EVCNRE", 
+                                        "public_name": "mavo", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 45, 
-                                        "name": "Edgar", 
+                                        "code": "XHBSU3", 
+                                        "public_name": "Edgar", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20067,13 +20106,13 @@
                             {
                                 "id": 542, 
                                 "guid": "5dcb6c1b-6016-58cf-820a-534f47b9a778", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "MJAKJY", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/MJAKJY", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/MJAKJY/", 
                                 "title": "Hacks/Hackers Meet-Up", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20086,7 +20125,8 @@
                                 "persons": [
                                     {
                                         "id": 47, 
-                                        "name": "fex", 
+                                        "code": "ZV98N9", 
+                                        "public_name": "fex", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20098,13 +20138,13 @@
                             {
                                 "id": 537, 
                                 "guid": "faa0618b-14fe-5542-b160-d6591468a897", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "UYWYWZ", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ/", 
                                 "title": "Jugend hackt Lightning Talks", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20117,7 +20157,8 @@
                                 "persons": [
                                     {
                                         "id": 5, 
-                                        "name": "Daniel", 
+                                        "code": "BWRH7E", 
+                                        "public_name": "Daniel", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20129,13 +20170,13 @@
                             {
                                 "id": 526, 
                                 "guid": "7956605c-adae-5563-ab8c-c97b6781fefa", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T20:00:00+01:00", 
                                 "start": "20:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "X7FPWS", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS/", 
                                 "title": "Alles was du jemals zu Wikipedia wissen wolltest", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20148,7 +20189,8 @@
                                 "persons": [
                                     {
                                         "id": 21, 
-                                        "name": "Verena", 
+                                        "code": "7TBZJF", 
+                                        "public_name": "Verena", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20160,13 +20202,13 @@
                             {
                                 "id": 527, 
                                 "guid": "9a59a736-ef6f-57ec-9261-e632cac8b51c", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T21:30:00+01:00", 
                                 "start": "21:30", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "ZKJDBE", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE/", 
                                 "title": "Digital what? Wie man Bildung nicht digitalisieren sollte", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20179,19 +20221,22 @@
                                 "persons": [
                                     {
                                         "id": 22, 
-                                        "name": "Dominik Theis", 
+                                        "code": "WRQU7K", 
+                                        "public_name": "Dominik Theis", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 34, 
-                                        "name": "Anja Lorenz", 
+                                        "code": "9FJGJ3", 
+                                        "public_name": "Anja Lorenz", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 35, 
-                                        "name": "Jelisaweta Kamm", 
+                                        "code": "GJBVT8", 
+                                        "public_name": "Jelisaweta Kamm", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20203,13 +20248,13 @@
                             {
                                 "id": 528, 
                                 "guid": "38b1c87c-d474-5d11-8559-df4a1e18b507", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T23:00:00+01:00", 
                                 "start": "23:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "7CHZ9V", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V/", 
                                 "title": "Operation Mindfuck #2 - Computer, Kunst und Kuriosit\u00e4ten", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20222,13 +20267,15 @@
                                 "persons": [
                                     {
                                         "id": 2, 
-                                        "name": "bleeptrack", 
+                                        "code": "RBEKZW", 
+                                        "public_name": "bleeptrack", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 23, 
-                                        "name": "blinry", 
+                                        "code": "39LEJR", 
+                                        "public_name": "blinry", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20242,13 +20289,13 @@
                             {
                                 "id": 505, 
                                 "guid": "e6151f47-7ed3-5772-bb7f-201102afd00f", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:15", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "BBDTHN", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN/", 
                                 "title": "Orgameeting Tag 3", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20261,7 +20308,8 @@
                                 "persons": [
                                     {
                                         "id": 4, 
-                                        "name": "WikiPaka Orga", 
+                                        "code": "33UT8A", 
+                                        "public_name": "WikiPaka Orga", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20273,13 +20321,13 @@
                             {
                                 "id": 524, 
                                 "guid": "7527606f-ac7f-58c3-a384-eb86cdc93d90", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T14:00:00+01:00", 
                                 "start": "14:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "VQP8QS", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS/", 
                                 "title": "Wikidata: help with building tools", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20292,7 +20340,8 @@
                                 "persons": [
                                     {
                                         "id": 6, 
-                                        "name": "Lucas", 
+                                        "code": "RE9MSE", 
+                                        "public_name": "Lucas", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20304,13 +20353,13 @@
                             {
                                 "id": 533, 
                                 "guid": "6f6b4805-90f8-5c54-bfd7-2ba62839419b", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T16:00:00+01:00", 
                                 "start": "16:00", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "B3V7LE", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE/", 
                                 "title": "\ud83c\udf82\ud83c\udf89", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20323,7 +20372,8 @@
                                 "persons": [
                                     {
                                         "id": 28, 
-                                        "name": "Ulrike", 
+                                        "code": "7AGQRG", 
+                                        "public_name": "Ulrike", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -20335,13 +20385,13 @@
                             {
                                 "id": 541, 
                                 "guid": "184234c0-f856-58ef-9d1c-a60eaad3b007", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-29T18:00:00+01:00", 
                                 "start": "18:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "FDHUCR", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR/", 
                                 "title": "Zwischenstand der NSU-Aufkl\u00e4rung", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -20354,13 +20404,15 @@
                                 "persons": [
                                     {
                                         "id": 46, 
-                                        "name": "noname", 
+                                        "code": "HVP8H3", 
+                                        "public_name": "noname", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 48, 
-                                        "name": "Caro (NSU-Watch)", 
+                                        "code": "G3E7Q3", 
+                                        "public_name": "Caro (NSU-Watch)", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -25880,13 +25932,13 @@
                             {
                                 "id": 529, 
                                 "guid": "2ef1d870-f2b1-583b-98c6-09574123a90f", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:45", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "K7G8NX", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX/", 
                                 "title": "HackspaceDesignPatterns", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -25899,13 +25951,15 @@
                                 "persons": [
                                     {
                                         "id": 24, 
-                                        "name": "Felix", 
+                                        "code": "BDSWFX", 
+                                        "public_name": "Felix", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 36, 
-                                        "name": "Lars Weiler", 
+                                        "code": "YMCYGT", 
+                                        "public_name": "Lars Weiler", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -25917,13 +25971,13 @@
                             {
                                 "id": 532, 
                                 "guid": "966fb613-e266-560b-be19-ab6b8aad1db8", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-30T13:00:00+01:00", 
                                 "start": "13:00", 
                                 "duration": "01:00", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "RGU9XL", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL/", 
                                 "title": "Datenguide / Statistik f\u00fcr alle!", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -25936,13 +25990,15 @@
                                 "persons": [
                                     {
                                         "id": 27, 
-                                        "name": "Simon", 
+                                        "code": "YMYTMP", 
+                                        "public_name": "Simon", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 37, 
-                                        "name": "P3nny", 
+                                        "code": "NKKBZK", 
+                                        "public_name": "P3nny", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -25954,13 +26010,13 @@
                             {
                                 "id": 531, 
                                 "guid": "ff31429a-f7bd-5c10-a816-6c5bfb1295e2", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-30T14:30:00+01:00", 
                                 "start": "14:30", 
                                 "duration": "01:30", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "A9QYBU", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU/", 
                                 "title": "How To Become a (Media)Wiki Hacker", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -25973,13 +26029,15 @@
                                 "persons": [
                                     {
                                         "id": 25, 
-                                        "name": "Daniel", 
+                                        "code": "RVGZKL", 
+                                        "public_name": "Daniel", 
                                         "biography": null, 
                                         "answers": []
                                     }, 
                                     {
                                         "id": 26, 
-                                        "name": "Andre", 
+                                        "code": "DXJG8B", 
+                                        "public_name": "Andre", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -25991,13 +26049,13 @@
                             {
                                 "id": 508, 
                                 "guid": "386ef762-a66a-5cc2-b6bd-3bd139cb9b07", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-30T17:00:00+01:00", 
                                 "start": "17:00", 
                                 "duration": "00:15", 
                                 "room": "WikiPakaWG Esszimmer", 
                                 "slug": "RXZ3FE", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE/", 
                                 "title": "Abbau-Meeting", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -26010,7 +26068,8 @@
                                 "persons": [
                                     {
                                         "id": 4, 
-                                        "name": "WikiPaka Orga", 
+                                        "code": "33UT8A", 
+                                        "public_name": "WikiPaka Orga", 
                                         "biography": null, 
                                         "answers": []
                                     }
@@ -26024,13 +26083,13 @@
                             {
                                 "id": 506, 
                                 "guid": "60b68950-57f5-5ca9-880d-9b1a732b2ad1", 
-                                "logo": null, 
+                                "logo": "", 
                                 "date": "2018-12-30T12:00:00+01:00", 
                                 "start": "12:00", 
                                 "duration": "00:15", 
                                 "room": "WikiPakaWG K\u00fcche", 
                                 "slug": "XXY8Q7", 
-                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7", 
+                                "url": "https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7/", 
                                 "title": "Orgameeting Tag 4", 
                                 "subtitle": "", 
                                 "track": null, 
@@ -26043,7 +26102,8 @@
                                 "persons": [
                                     {
                                         "id": 4, 
-                                        "name": "WikiPaka Orga", 
+                                        "code": "33UT8A", 
+                                        "public_name": "WikiPaka Orga", 
                                         "biography": null, 
                                         "answers": []
                                     }

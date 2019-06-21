@@ -1,5 +1,5 @@
 <schedule>
-  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-06-14 02:50</version>
+  <version>Voltron 3.1 2.1 1.5 MemoryRefreshV1.3 1.2.4 2019-06-21 22:10</version>
   <conference>
     <acronym>35c3</acronym>
     <title>35th Chaos Communication Congress</title>
@@ -3837,7 +3837,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>00:45</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>NSU8Y8</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/NSU8Y8/</url>
         <title>Orgameeting Tag 1</title>
         <subtitle/>
         <track/>
@@ -3851,7 +3851,8 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="4">
-            <name>WikiPaka Orga</name>
+            <code>33UT8A</code>
+            <public_name>WikiPaka Orga</public_name>
             <biography/>
           </person>
         </persons>
@@ -3866,7 +3867,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>GWJR9B</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/GWJR9B/</url>
         <title>Introduction to Wikidata and the Wikidata Query Service</title>
         <subtitle/>
         <track/>
@@ -3880,11 +3881,13 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="6">
-            <name>Lucas</name>
+            <code>RE9MSE</code>
+            <public_name>Lucas</public_name>
             <biography/>
           </person>
           <person id="7">
-            <name>Amir</name>
+            <code>8GDPPA</code>
+            <public_name>Amir</public_name>
             <biography/>
           </person>
         </persons>
@@ -3899,7 +3902,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>RRCVBW</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RRCVBW/</url>
         <title>Datenpumpen-Hackathon #01</title>
         <subtitle/>
         <track/>
@@ -3913,11 +3916,13 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="8">
-            <name>John</name>
+            <code>8XHJNS</code>
+            <public_name>John</public_name>
             <biography/>
           </person>
           <person id="6">
-            <name>Lucas</name>
+            <code>RE9MSE</code>
+            <public_name>Lucas</public_name>
             <biography/>
           </person>
         </persons>
@@ -3932,7 +3937,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>BEANCH</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/BEANCH</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BEANCH/</url>
         <title>Jugend hackt - Willkommen auf dem Congress!</title>
         <subtitle/>
         <track/>
@@ -3946,27 +3951,33 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="5">
-            <name>Daniel</name>
+            <code>BWRH7E</code>
+            <public_name>Daniel</public_name>
             <biography/>
           </person>
           <person id="9">
-            <name>Paula</name>
+            <code>XN9PTD</code>
+            <public_name>Paula</public_name>
             <biography/>
           </person>
           <person id="10">
-            <name>Robert</name>
+            <code>VVLMZ9</code>
+            <public_name>Robert</public_name>
             <biography/>
           </person>
           <person id="11">
-            <name>Ilona</name>
+            <code>B9E7PX</code>
+            <public_name>Ilona</public_name>
             <biography/>
           </person>
           <person id="12">
-            <name>Basti</name>
+            <code>E3QEBQ</code>
+            <public_name>Basti</public_name>
             <biography/>
           </person>
           <person id="13">
-            <name>Saadya</name>
+            <code>9HQVHR</code>
+            <public_name>Saadya</public_name>
             <biography/>
           </person>
         </persons>
@@ -3981,7 +3992,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>YWXE7F</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/YWXE7F/</url>
         <title>Programmieren mit der Maus</title>
         <subtitle/>
         <track/>
@@ -3995,7 +4006,8 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="37">
-            <name>P3nny</name>
+            <code>NKKBZK</code>
+            <public_name>P3nny</public_name>
             <biography/>
           </person>
         </persons>
@@ -4010,7 +4022,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>00:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>WH3E9B</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WH3E9B/</url>
         <title>Technikschulung Tag 2 für die WikipakaWG</title>
         <subtitle/>
         <track/>
@@ -4024,7 +4036,8 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="3">
-            <name>robbi5</name>
+            <code>8KKP9X</code>
+            <public_name>robbi5</public_name>
             <biography/>
           </person>
         </persons>
@@ -4039,7 +4052,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>02:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>ZAPYDL</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZAPYDL/</url>
         <title>Community Treffen Code for Germany</title>
         <subtitle/>
         <track/>
@@ -4053,7 +4066,8 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="16">
-            <name>Michael</name>
+            <code>LZAHGJ</code>
+            <public_name>Michael</public_name>
             <biography/>
           </person>
         </persons>
@@ -4070,7 +4084,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:00</duration>
         <room>WikiPakaWG Küche</room>
         <slug>7FRCLS</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7FRCLS/</url>
         <title>Wikidata: help with queries</title>
         <subtitle/>
         <track/>
@@ -4084,11 +4098,13 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="6">
-            <name>Lucas</name>
+            <code>RE9MSE</code>
+            <public_name>Lucas</public_name>
             <biography/>
           </person>
           <person id="7">
-            <name>Amir</name>
+            <code>8GDPPA</code>
+            <public_name>Amir</public_name>
             <biography/>
           </person>
         </persons>
@@ -4103,7 +4119,7 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         <duration>01:30</duration>
         <room>WikiPakaWG Küche</room>
         <slug>WGCR99</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WGCR99/</url>
         <title>The Things Network / LoRaWAN</title>
         <subtitle/>
         <track/>
@@ -4117,7 +4133,8 @@ Welche erfolgreichen Konzepte gibt es und was gilt es besser zu vermeiden?</desc
         </recording>
         <persons>
           <person id="14">
-            <name>Caspar</name>
+            <code>GHKXRV</code>
+            <public_name>Caspar</public_name>
             <biography/>
           </person>
         </persons>
@@ -10858,7 +10875,7 @@ Technisch-nerdige Antworten rund ums Schiff und eure Fragen.</description>
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>F9NUJT</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/F9NUJT/</url>
         <title>Generative Art with Paper.js</title>
         <subtitle/>
         <track/>
@@ -10873,7 +10890,8 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="2">
-            <name>bleeptrack</name>
+            <code>RBEKZW</code>
+            <public_name>bleeptrack</public_name>
             <biography/>
           </person>
         </persons>
@@ -10888,7 +10906,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>WFA9YB</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/WFA9YB/</url>
         <title>FragDenStaat User-Treffen</title>
         <subtitle/>
         <track/>
@@ -10902,15 +10920,18 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="17">
-            <name>Arne</name>
+            <code>K38FMT</code>
+            <public_name>Arne</public_name>
             <biography/>
           </person>
           <person id="41">
-            <name>Stefan</name>
+            <code>7U9YY3</code>
+            <public_name>Stefan</public_name>
             <biography/>
           </person>
           <person id="40">
-            <name>Filter</name>
+            <code>LJNMJA</code>
+            <public_name>Filter</public_name>
             <biography/>
           </person>
         </persons>
@@ -10925,7 +10946,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>00:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>883YLC</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/883YLC</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/883YLC/</url>
         <title>Einführung in Kubernetes Deployments für Codefor Labs</title>
         <subtitle/>
         <track/>
@@ -10939,7 +10960,8 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="18">
-            <name>Tobias</name>
+            <code>8TKR3G</code>
+            <public_name>Tobias</public_name>
             <biography/>
           </person>
         </persons>
@@ -10954,7 +10976,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>PXFGZ8</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/PXFGZ8/</url>
         <title>Hebocon-Finale</title>
         <subtitle/>
         <track/>
@@ -10968,19 +10990,23 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="5">
-            <name>Daniel</name>
+            <code>BWRH7E</code>
+            <public_name>Daniel</public_name>
             <biography/>
           </person>
           <person id="11">
-            <name>Ilona</name>
+            <code>B9E7PX</code>
+            <public_name>Ilona</public_name>
             <biography/>
           </person>
           <person id="10">
-            <name>Robert</name>
+            <code>VVLMZ9</code>
+            <public_name>Robert</public_name>
             <biography/>
           </person>
           <person id="29">
-            <name>Philip</name>
+            <code>MU8SYW</code>
+            <public_name>Philip</public_name>
             <biography/>
           </person>
         </persons>
@@ -10995,7 +11021,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>02:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>VX8N7K</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VX8N7K/</url>
         <title>Legal Documents Hack</title>
         <subtitle/>
         <track/>
@@ -11009,15 +11035,18 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="17">
-            <name>Arne</name>
+            <code>K38FMT</code>
+            <public_name>Arne</public_name>
             <biography/>
           </person>
           <person id="40">
-            <name>Filter</name>
+            <code>LJNMJA</code>
+            <public_name>Filter</public_name>
             <biography/>
           </person>
           <person id="41">
-            <name>Stefan</name>
+            <code>7U9YY3</code>
+            <public_name>Stefan</public_name>
             <biography/>
           </person>
         </persons>
@@ -11032,7 +11061,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>02:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>V7FCMD</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/V7FCMD/</url>
         <title>Community Treffen Jugend hackt</title>
         <subtitle/>
         <track/>
@@ -11046,7 +11075,8 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="5">
-            <name>Daniel</name>
+            <code>BWRH7E</code>
+            <public_name>Daniel</public_name>
             <biography/>
           </person>
         </persons>
@@ -11063,7 +11093,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>00:30</duration>
         <room>WikiPakaWG Küche</room>
         <slug>R9SZCT</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/R9SZCT/</url>
         <title>Orgameeting Tag 2</title>
         <subtitle/>
         <track/>
@@ -11077,7 +11107,8 @@ The workshop will give a short introduction into paper.js and how it can be used
         </recording>
         <persons>
           <person id="4">
-            <name>WikiPaka Orga</name>
+            <code>33UT8A</code>
+            <public_name>WikiPaka Orga</public_name>
             <biography/>
           </person>
         </persons>
@@ -11092,7 +11123,7 @@ The workshop will give a short introduction into paper.js and how it can be used
         <duration>01:30</duration>
         <room>WikiPakaWG Küche</room>
         <slug>LSDUED</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/LSDUED/</url>
         <title>Ride Sharing, OpenData, Schnittstellen, Mitfahr-Börsen, Fahrgemeinschaften, Trampen und mehr</title>
         <subtitle/>
         <track/>
@@ -11112,7 +11143,8 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         </recording>
         <persons>
           <person id="38">
-            <name>Ernesto</name>
+            <code>8GKMBN</code>
+            <public_name>Ernesto</public_name>
             <biography/>
           </person>
         </persons>
@@ -11127,7 +11159,7 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         <duration>01:00</duration>
         <room>WikiPakaWG Küche</room>
         <slug>EC9ZRM</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/EC9ZRM/</url>
         <title>Wikibase Quick starter guide</title>
         <subtitle/>
         <track/>
@@ -11141,7 +11173,8 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         </recording>
         <persons>
           <person id="19">
-            <name>Matthias</name>
+            <code>GD7CGL</code>
+            <public_name>Matthias</public_name>
             <biography/>
           </person>
         </persons>
@@ -11156,7 +11189,7 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         <duration>01:30</duration>
         <room>WikiPakaWG Küche</room>
         <slug>JCUCQA</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/JCUCQA/</url>
         <title>Wikidata+Wikibase meetup</title>
         <subtitle/>
         <track/>
@@ -11170,7 +11203,8 @@ The meeting is not exclusively about fahrgemeinschaft.de but open to any other p
         </recording>
         <persons>
           <person id="20">
-            <name>Léa</name>
+            <code>FNL9RF</code>
+            <public_name>Léa</public_name>
             <biography/>
           </person>
         </persons>
@@ -18563,7 +18597,7 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <duration>00:45</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>DBVJK7</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/DBVJK7/</url>
         <title>AI in Wikipedia</title>
         <subtitle/>
         <track/>
@@ -18577,7 +18611,8 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         </recording>
         <persons>
           <person id="7">
-            <name>Amir</name>
+            <code>8GDPPA</code>
+            <public_name>Amir</public_name>
             <biography/>
           </person>
         </persons>
@@ -18592,7 +18627,7 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>XRQNHR</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XRQNHR/</url>
         <title>Building a Wikidata tool</title>
         <subtitle/>
         <track/>
@@ -18606,7 +18641,8 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         </recording>
         <persons>
           <person id="6">
-            <name>Lucas</name>
+            <code>RE9MSE</code>
+            <public_name>Lucas</public_name>
             <biography/>
           </person>
         </persons>
@@ -18621,7 +18657,7 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>LEFJBC</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/LEFJBC/</url>
         <title>Squarelet - Kooperativ Lernen mit Open Source-Pinboards</title>
         <subtitle/>
         <track/>
@@ -18635,15 +18671,18 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         </recording>
         <persons>
           <person id="43">
-            <name>Markus</name>
+            <code>U9QVUW</code>
+            <public_name>Markus</public_name>
             <biography/>
           </person>
           <person id="44">
-            <name>mavo</name>
+            <code>EVCNRE</code>
+            <public_name>mavo</public_name>
             <biography/>
           </person>
           <person id="45">
-            <name>Edgar</name>
+            <code>XHBSU3</code>
+            <public_name>Edgar</public_name>
             <biography/>
           </person>
         </persons>
@@ -18658,7 +18697,7 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>MJAKJY</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/MJAKJY</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/MJAKJY/</url>
         <title>Hacks/Hackers Meet-Up</title>
         <subtitle/>
         <track/>
@@ -18672,7 +18711,8 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         </recording>
         <persons>
           <person id="47">
-            <name>fex</name>
+            <code>ZV98N9</code>
+            <public_name>fex</public_name>
             <biography/>
           </person>
         </persons>
@@ -18687,7 +18727,7 @@ Ziel ist: Erfahrungen einzusammeln und auszutauschen, Hinweise und Tips zu bekom
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>UYWYWZ</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/UYWYWZ/</url>
         <title>Jugend hackt Lightning Talks</title>
         <subtitle/>
         <track/>
@@ -18705,7 +18745,8 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="5">
-            <name>Daniel</name>
+            <code>BWRH7E</code>
+            <public_name>Daniel</public_name>
             <biography/>
           </person>
         </persons>
@@ -18720,7 +18761,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>X7FPWS</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/X7FPWS/</url>
         <title>Alles was du jemals zu Wikipedia wissen wolltest</title>
         <subtitle/>
         <track/>
@@ -18734,7 +18775,8 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="21">
-            <name>Verena</name>
+            <code>7TBZJF</code>
+            <public_name>Verena</public_name>
             <biography/>
           </person>
         </persons>
@@ -18749,7 +18791,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>ZKJDBE</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/ZKJDBE/</url>
         <title>Digital what? Wie man Bildung nicht digitalisieren sollte</title>
         <subtitle/>
         <track/>
@@ -18763,15 +18805,18 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="22">
-            <name>Dominik Theis</name>
+            <code>WRQU7K</code>
+            <public_name>Dominik Theis</public_name>
             <biography/>
           </person>
           <person id="34">
-            <name>Anja Lorenz</name>
+            <code>9FJGJ3</code>
+            <public_name>Anja Lorenz</public_name>
             <biography/>
           </person>
           <person id="35">
-            <name>Jelisaweta Kamm</name>
+            <code>GJBVT8</code>
+            <public_name>Jelisaweta Kamm</public_name>
             <biography/>
           </person>
         </persons>
@@ -18786,7 +18831,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>7CHZ9V</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/7CHZ9V/</url>
         <title>Operation Mindfuck #2 - Computer, Kunst und Kuriositäten</title>
         <subtitle/>
         <track/>
@@ -18800,11 +18845,13 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="2">
-            <name>bleeptrack</name>
+            <code>RBEKZW</code>
+            <public_name>bleeptrack</public_name>
             <biography/>
           </person>
           <person id="23">
-            <name>blinry</name>
+            <code>39LEJR</code>
+            <public_name>blinry</public_name>
             <biography/>
           </person>
         </persons>
@@ -18821,7 +18868,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>00:15</duration>
         <room>WikiPakaWG Küche</room>
         <slug>BBDTHN</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/BBDTHN/</url>
         <title>Orgameeting Tag 3</title>
         <subtitle/>
         <track/>
@@ -18835,7 +18882,8 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="4">
-            <name>WikiPaka Orga</name>
+            <code>33UT8A</code>
+            <public_name>WikiPaka Orga</public_name>
             <biography/>
           </person>
         </persons>
@@ -18850,7 +18898,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:00</duration>
         <room>WikiPakaWG Küche</room>
         <slug>VQP8QS</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/VQP8QS/</url>
         <title>Wikidata: help with building tools</title>
         <subtitle/>
         <track/>
@@ -18864,7 +18912,8 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="6">
-            <name>Lucas</name>
+            <code>RE9MSE</code>
+            <public_name>Lucas</public_name>
             <biography/>
           </person>
         </persons>
@@ -18879,7 +18928,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:30</duration>
         <room>WikiPakaWG Küche</room>
         <slug>B3V7LE</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/B3V7LE/</url>
         <title>🎂🎉</title>
         <subtitle/>
         <track/>
@@ -18893,7 +18942,8 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="28">
-            <name>Ulrike</name>
+            <code>7AGQRG</code>
+            <public_name>Ulrike</public_name>
             <biography/>
           </person>
         </persons>
@@ -18908,7 +18958,7 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         <duration>01:00</duration>
         <room>WikiPakaWG Küche</room>
         <slug>FDHUCR</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/FDHUCR/</url>
         <title>Zwischenstand der NSU-Aufklärung</title>
         <subtitle/>
         <track/>
@@ -18922,11 +18972,13 @@ Amateurfunk (Janek Gàl und Noah Rullmann)</abstract>
         </recording>
         <persons>
           <person id="46">
-            <name>noname</name>
+            <code>HVP8H3</code>
+            <public_name>noname</public_name>
             <biography/>
           </person>
           <person id="48">
-            <name>Caro (NSU-Watch)</name>
+            <code>G3E7Q3</code>
+            <public_name>Caro (NSU-Watch)</public_name>
             <biography/>
           </person>
         </persons>
@@ -23965,7 +24017,7 @@ No presentation, just talk about experiences, ideas, problems and solutions.</ab
         <duration>00:45</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>K7G8NX</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/K7G8NX/</url>
         <title>HackspaceDesignPatterns</title>
         <subtitle/>
         <track/>
@@ -23986,11 +24038,13 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         </recording>
         <persons>
           <person id="24">
-            <name>Felix</name>
+            <code>BDSWFX</code>
+            <public_name>Felix</public_name>
             <biography/>
           </person>
           <person id="36">
-            <name>Lars Weiler</name>
+            <code>YMCYGT</code>
+            <public_name>Lars Weiler</public_name>
             <biography/>
           </person>
         </persons>
@@ -24005,7 +24059,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <duration>01:00</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>RGU9XL</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RGU9XL/</url>
         <title>Datenguide / Statistik für alle!</title>
         <subtitle/>
         <track/>
@@ -24019,11 +24073,13 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         </recording>
         <persons>
           <person id="27">
-            <name>Simon</name>
+            <code>YMYTMP</code>
+            <public_name>Simon</public_name>
             <biography/>
           </person>
           <person id="37">
-            <name>P3nny</name>
+            <code>NKKBZK</code>
+            <public_name>P3nny</public_name>
             <biography/>
           </person>
         </persons>
@@ -24038,7 +24094,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <duration>01:30</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>A9QYBU</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/A9QYBU/</url>
         <title>How To Become a (Media)Wiki Hacker</title>
         <subtitle/>
         <track/>
@@ -24052,11 +24108,13 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         </recording>
         <persons>
           <person id="25">
-            <name>Daniel</name>
+            <code>RVGZKL</code>
+            <public_name>Daniel</public_name>
             <biography/>
           </person>
           <person id="26">
-            <name>Andre</name>
+            <code>DXJG8B</code>
+            <public_name>Andre</public_name>
             <biography/>
           </person>
         </persons>
@@ -24071,7 +24129,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <duration>00:15</duration>
         <room>WikiPakaWG Esszimmer</room>
         <slug>RXZ3FE</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/RXZ3FE/</url>
         <title>Abbau-Meeting</title>
         <subtitle/>
         <track/>
@@ -24085,7 +24143,8 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         </recording>
         <persons>
           <person id="4">
-            <name>WikiPaka Orga</name>
+            <code>33UT8A</code>
+            <public_name>WikiPaka Orga</public_name>
             <biography/>
           </person>
         </persons>
@@ -24102,7 +24161,7 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         <duration>00:15</duration>
         <room>WikiPakaWG Küche</room>
         <slug>XXY8Q7</slug>
-        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7</url>
+        <url>https://cfp.verschwoerhaus.de/35c3/talk/XXY8Q7/</url>
         <title>Orgameeting Tag 4</title>
         <subtitle/>
         <track/>
@@ -24116,7 +24175,8 @@ Kommt zu diesem Vortrag, wenn ihr im Begriff seid, euren lokalen Chaos Computer 
         </recording>
         <persons>
           <person id="4">
-            <name>WikiPaka Orga</name>
+            <code>33UT8A</code>
+            <public_name>WikiPaka Orga</public_name>
             <biography/>
           </person>
         </persons>
